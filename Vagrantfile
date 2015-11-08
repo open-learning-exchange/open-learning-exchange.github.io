@@ -77,6 +77,6 @@ Vagrant.configure(2) do |config|
   config.vm.provision "shell", inline: <<-SHELL
     echo "deb http://ftp.de.debian.org/debian jessie-backports main" | sudo tee -a /etc/apt/sources.list
     sudo aptitude update
-  #   sudo apt-get install -y apache2
+    sudo aptitude install -y docker.io vim vim-syntax-docker
   SHELL
 end
