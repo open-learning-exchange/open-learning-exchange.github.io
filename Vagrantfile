@@ -78,5 +78,6 @@ Vagrant.configure(2) do |config|
     echo "deb http://ftp.de.debian.org/debian jessie-backports main" | sudo tee -a /etc/apt/sources.list
     sudo aptitude update
     sudo aptitude install -y docker.io vim vim-syntax-docker
+    sudo docker pull klaemo/couchdb
   SHELL
 end
