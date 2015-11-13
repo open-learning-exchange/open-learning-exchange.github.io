@@ -80,5 +80,9 @@ Vagrant.configure(2) do |config|
     sudo aptitude install -y docker.io vim vim-syntax-docker
     sudo docker pull klaemo/couchdb
     sudo docker run -d -p 5984:5984 --name bell -v /srv/data/bell:/usr/local/var/lib/couchdb -v /srv/log/bell:/usr/local/var/log/couchdb klaemo/couchdb
+    sudo crontab -l | sudo tee -a mycron
+    echo "@reboot sudo docker start bell" | sudo tee -a mycron
+    sudo crontab mycron
+    sudo rm mycron
   SHELL
 end
