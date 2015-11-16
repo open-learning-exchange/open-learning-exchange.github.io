@@ -89,5 +89,14 @@ Vagrant.configure(2) do |config|
     # fix nodejs
     cd /usr/bin
     sudo ln -s nodejs node
+    # install BeLL-Apps
+    cd /vagrant
+    mkdir -p ole
+    cd ole
+    wget https://github.com/open-learning-exchange/BeLL-Apps/archive/0.11.69.zip
+    unzip 0.11.69.zip
+    ln -s BeLL-Apps-* BeLL-Apps
+    cd BeLL-Apps
+    chmod +x node_modules/.bin/couchapp
   SHELL
 end
