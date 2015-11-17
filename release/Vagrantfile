@@ -140,5 +140,32 @@ Vagrant.configure(2) do |config|
     #curl -d @init_docs/languages-Arabic.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/languages
     curl -d @init_docs/ConfigurationsDoc-Community.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/configurations
     curl -d @init_docs/admin.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/members
+
+    ## push design docs into couchdb
+    node_modules/.bin/couchapp push databases/activitylog.js http://127.0.0.1:5985/activitylog
+    node_modules/.bin/couchapp push databases/feedback.js http://127.0.0.1:5985/feedback
+    node_modules/.bin/couchapp push databases/membercourseprogress.js http://127.0.0.1:5985/membercourseprogress
+    node_modules/.bin/couchapp push databases/requests.js http://127.0.0.1:5985/requests
+    node_modules/.bin/couchapp push databases/apps.js http://127.0.0.1:5985/apps
+    node_modules/.bin/couchapp push databases/community.js http://127.0.0.1:5985/community
+    node_modules/.bin/couchapp push databases/groups.js http://127.0.0.1:5985/groups
+    node_modules/.bin/couchapp push databases/members.js http://127.0.0.1:5985/members
+    node_modules/.bin/couchapp push databases/resourcefrequency.js http://127.0.0.1:5985/resourcefrequency
+    node_modules/.bin/couchapp push databases/assignmentpaper.js http://127.0.0.1:5985/assignmentpaper
+    node_modules/.bin/couchapp push databases/communityreports.js http://127.0.0.1:5985/communityreports
+    node_modules/.bin/couchapp push databases/invitations.js http://127.0.0.1:5985/invitations
+    node_modules/.bin/couchapp push databases/nationreports.js http://127.0.0.1:5985/nationreports
+    node_modules/.bin/couchapp push databases/resources.js http://127.0.0.1:5985/resources
+    node_modules/.bin/couchapp push databases/assignments.js http://127.0.0.1:5985/assignments
+    node_modules/.bin/couchapp push databases/publicationdistribution.js http://127.0.0.1:5985/publicationdistribution
+    node_modules/.bin/couchapp push databases/shelf.js http://127.0.0.1:5985/shelf
+    node_modules/.bin/couchapp push databases/calendar.js http://127.0.0.1:5985/calendar
+    node_modules/.bin/couchapp push databases/courseschedule.js http://127.0.0.1:5985/courseschedule
+    node_modules/.bin/couchapp push databases/mail.js http://127.0.0.1:5985/mail
+    node_modules/.bin/couchapp push databases/publications.js http://127.0.0.1:5985/publications
+    node_modules/.bin/couchapp push databases/usermeetups.js http://127.0.0.1:5985/usermeetups
+    node_modules/.bin/couchapp push databases/collectionlist.js http://127.0.0.1:5985/collectionlist
+    node_modules/.bin/couchapp push databases/coursestep.js http://127.0.0.1:5985/coursestep
+    node_modules/.bin/couchapp push databases/meetups.js http://127.0.0.1:5985/meetups
   SHELL
 end
