@@ -236,5 +236,7 @@ case "$1" in
         ;;
 esac
 EOF
+    sudo chmod +x /etc/init.d/bell
+    sudo update-rc.d bell defaults
   SHELL
 end
