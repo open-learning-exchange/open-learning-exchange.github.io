@@ -167,5 +167,49 @@ Vagrant.configure(2) do |config|
     node_modules/.bin/couchapp push databases/collectionlist.js http://127.0.0.1:5985/collectionlist
     node_modules/.bin/couchapp push databases/coursestep.js http://127.0.0.1:5985/coursestep
     node_modules/.bin/couchapp push databases/meetups.js http://127.0.0.1:5985/meetups
+
+cat <<'EOF' > /etc/init.d/bell
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          bell
+# Required-Start:    $remote_fs $syslog
+# Required-Stop:     $remote_fs $syslog
+# Should-Start:      
+# Should-Stop:       
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: setup Bell in development sync mode
+# Description:       /vagrant/ole/BeLL-Apps over couchapp is set in sync mode so that on the outside changes
+#                    are getting pushed onto couchdb some seconds after new chnage are saved
+### END INIT INFO
+
+
+PATH=/sbin:/usr/sbin:/bin:/usr/bin
+
+. /lib/init/vars.sh
+. /lib/lsb/init-functions
+
+do_start() {
+    cd /vagrant/ole/BeLL-Apps
+}
+
+case "$1" in
+    start)
+        do_start
+        ;;
+    restart|reload|force-reload)
+        echo "Error: argument '$1' not supported" >&2
+        exit 3
+        ;;
+    stop|status)
+        # No-op
+        exit 0
+        ;;
+    *)
+        echo "Usage: $0 start|stop" >&2
+        exit 3
+        ;;
+esac
+EOF
   SHELL
 end
