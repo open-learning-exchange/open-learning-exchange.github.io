@@ -238,5 +238,6 @@ esac
 EOF
     sudo chmod +x /etc/init.d/bell
     sudo update-rc.d bell defaults
+    sudo service bell start
   SHELL
 end
