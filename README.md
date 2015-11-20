@@ -3,8 +3,7 @@
 ## install
 
 ```
-mkdir ole
-cd ole
-wget https://raw.githubusercontent.com/rjsteinert/ole--vagrant-bells/master/Vagrantfile
+git clone https://github.com/dogi/ole--vagrant-bells.git
+cd ole--vagrant-bells/release
 vagrant up
 ```
