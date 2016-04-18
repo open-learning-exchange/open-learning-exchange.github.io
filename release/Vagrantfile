@@ -106,35 +106,9 @@ Vagrant.configure(2) do |config|
     done
 
     ## create databases
-    curl -X PUT http://127.0.0.1:5985/activitylog
-    curl -X PUT http://127.0.0.1:5985/communities
-    curl -X PUT http://127.0.0.1:5985/feedback
-    curl -X PUT http://127.0.0.1:5985/membercourseprogress
-    curl -X PUT http://127.0.0.1:5985/requests
-    curl -X PUT http://127.0.0.1:5985/apps
-    curl -X PUT http://127.0.0.1:5985/community
-    curl -X PUT http://127.0.0.1:5985/groups
-    curl -X PUT http://127.0.0.1:5985/members
-    curl -X PUT http://127.0.0.1:5985/resourcefrequency
-    curl -X PUT http://127.0.0.1:5985/assignmentpaper
-    curl -X PUT http://127.0.0.1:5985/communityreports
-    curl -X PUT http://127.0.0.1:5985/invitations
-    curl -X PUT http://127.0.0.1:5985/nationreports
-    curl -X PUT http://127.0.0.1:5985/resources
-    curl -X PUT http://127.0.0.1:5985/assignments
-    curl -X PUT http://127.0.0.1:5985/configurations
-    curl -X PUT http://127.0.0.1:5985/languages
-    curl -X PUT http://127.0.0.1:5985/publicationdistribution
-    curl -X PUT http://127.0.0.1:5985/shelf
-    curl -X PUT http://127.0.0.1:5985/calendar
-    curl -X PUT http://127.0.0.1:5985/courseschedule
-    curl -X PUT http://127.0.0.1:5985/mail
-    curl -X PUT http://127.0.0.1:5985/publications
-    curl -X PUT http://127.0.0.1:5985/usermeetups
-    curl -X PUT http://127.0.0.1:5985/collectionlist
-    curl -X PUT http://127.0.0.1:5985/coursestep
-    curl -X PUT http://127.0.0.1:5985/meetups
-    curl -X PUT http://127.0.0.1:5985/report
+    for database in databases/*.js; do
+      curl -X PUT http://127.0.0.1:5985/${database:10:-3}
+    done
 
     ## add bare minimal required data to couchdb for launching bell-apps smoothly
     curl -d @init_docs/languages.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/languages
