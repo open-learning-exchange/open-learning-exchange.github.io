@@ -145,13 +145,36 @@ PATH=/sbin:/usr/sbin:/bin:/usr/bin
 
 do_start() {
     cd /vagrant/ole/BeLL-Apps-0.12.7
-    for database in databases/*.js; do
-      ## do in all except communities languages configurations
-      case ${database:10:-3} in
-        "communities" | "languages" | "configurations" ) ;;
-        * ) node_modules/.bin/couchapp sync $database http://127.0.0.1:5985/${database:10:-3} & ;;
-      esac
-    done
+    node_modules/.bin/couchapp sync databases/activitylog.js http://127.0.0.1:5985/activitylog &
+    node_modules/.bin/couchapp sync databases/apps.js http://127.0.0.1:5985/apps &
+    node_modules/.bin/couchapp sync databases/assignmentpaper.js http://127.0.0.1:5985/assignmentpaper &
+    node_modules/.bin/couchapp sync databases/assignments.js http://127.0.0.1:5985/assignments &
+    node_modules/.bin/couchapp sync databases/calendar.js http://127.0.0.1:5985/calendar &
+    node_modules/.bin/couchapp sync databases/collectionlist.js http://127.0.0.1:5985/collectionlist &
+    node_modules/.bin/couchapp sync databases/community.js http://127.0.0.1:5985/community &
+    node_modules/.bin/couchapp sync databases/communityreports.js http://127.0.0.1:5985/communityreports &
+    node_modules/.bin/couchapp sync databases/courseschedule.js http://127.0.0.1:5985/courseschedule &
+    node_modules/.bin/couchapp sync databases/coursestep.js http://127.0.0.1:5985/coursestep &
+    node_modules/.bin/couchapp sync databases/feedback.js http://127.0.0.1:5985/feedback &
+    node_modules/.bin/couchapp sync databases/groups.js http://127.0.0.1:5985/groups &
+    node_modules/.bin/couchapp sync databases/invitations.js http://127.0.0.1:5985/invitations &
+    node_modules/.bin/couchapp sync databases/mail.js http://127.0.0.1:5985/mail &
+    node_modules/.bin/couchapp sync databases/meetups.js http://127.0.0.1:5985/meetups &
+    node_modules/.bin/couchapp sync databases/membercourseprogress.js http://127.0.0.1:5985/membercourseprogress &
+    node_modules/.bin/couchapp sync databases/members.js http://127.0.0.1:5985/members &
+    node_modules/.bin/couchapp sync databases/nationreports.js http://127.0.0.1:5985/nationreports &
+    node_modules/.bin/couchapp sync databases/publicationdistribution.js http://127.0.0.1:5985/publicationdistribution &
+    node_modules/.bin/couchapp sync databases/publications.js http://127.0.0.1:5985/publications &
+    node_modules/.bin/couchapp sync databases/report.js http://127.0.0.1:5985/report &
+    node_modules/.bin/couchapp sync databases/requests.js http://127.0.0.1:5985/requests &
+    node_modules/.bin/couchapp sync databases/resourcefrequency.js http://127.0.0.1:5985/resourcefrequency &
+    node_modules/.bin/couchapp sync databases/resources.js http://127.0.0.1:5985/resources &
+    node_modules/.bin/couchapp sync databases/shelf.js http://127.0.0.1:5985/shelf &
+    node_modules/.bin/couchapp sync databases/survey.js http://127.0.0.1:5985/survey &
+    node_modules/.bin/couchapp sync databases/surveyanswers.js http://127.0.0.1:5985/surveyanswers &
+    node_modules/.bin/couchapp sync databases/surveyquestions.js http://127.0.0.1:5985/surveyquestions &
+    node_modules/.bin/couchapp sync databases/surveyresponse.js http://127.0.0.1:5985/surveyresponse &
+    node_modules/.bin/couchapp sync databases/usermeetups.js http://127.0.0.1:5985/usermeetups &
 }
 
 case "$1" in
