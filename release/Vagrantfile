@@ -144,7 +144,17 @@ PATH=/sbin:/usr/sbin:/bin:/usr/bin
 . /lib/lsb/init-functions
 
 do_start() {
+    maxtries=30
+    while [ ! -d /vagrant/ole/BeLL-Apps-0.12.7 ];  do
+        maxtries=$((maxtries+1))
+        echo "tring to start... $maxtries/30"
+        sleep 1;
+        if [ $maxtries -eq 30 ]; then
+            exit 1
+        fi
+    done
     cd /vagrant/ole/BeLL-Apps-0.12.7
+
     node_modules/.bin/couchapp sync databases/activitylog.js http://127.0.0.1:5985/activitylog &
     node_modules/.bin/couchapp sync databases/apps.js http://127.0.0.1:5985/apps &
     node_modules/.bin/couchapp sync databases/assignmentpaper.js http://127.0.0.1:5985/assignmentpaper &
