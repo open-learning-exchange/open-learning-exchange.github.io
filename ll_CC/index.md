@@ -27,7 +27,7 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
     brew cask install virtualbox
 ```
 ### Windows
-- You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
+You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
 ```
 git --version
 vagrant --version
