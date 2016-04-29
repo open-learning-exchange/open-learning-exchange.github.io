@@ -39,3 +39,6 @@ In your `Terminal` or `Command Prompt`, type:
 git clone https://github.com/dogi/ole--vagrant-bells.git
 cd ole--vagrant-bells/release
 vagrant up
+```
+
+You now have a working [communityBeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS.
