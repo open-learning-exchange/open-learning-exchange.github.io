@@ -1,6 +1,6 @@
 # ole--vagrant-bells
 
-ole--vagrant-bells teaches users how to install their own community BeLL (Basic e-Learning Library) on their computer for quality assurance and testing purposes. 
+ole--vagrant-bells gives users the ability to install fast their own community [BeLL](https://github.com/open-learning-exchange/BeLL-Apps) (Basic e-Learning Library) on their computer. 
 
 ## Requirements
 - Install [git](https://git-scm.com/downloads)
@@ -14,31 +14,34 @@ ole--vagrant-bells teaches users how to install their own community BeLL (Basic 
   - Confirmed working on v1.8.1 (check with `vagrant --version`)
  
 ### Ubuntu
-```
+```sh
     sudo apt-get install git
     sudo apt-get install virtualbox
     sudo apt-get install vagrant
 ```
+
 ### OSX
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
-```
+```sh
     brew install git 
     brew install vagrant
     brew cask install virtualbox
 ```
+
 ### Windows
-- You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
-```
+You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
+```sh
 git --version
 vagrant --version
 vboxmanage --version  
 ```
+
 ## Install a communityBeLL on your OS
 In your `Terminal` or `Command Prompt`, type:
-```
+```sh
 git clone https://github.com/dogi/ole--vagrant-bells.git
 cd ole--vagrant-bells/release
 vagrant up
 ```
 
-You now have a working [communityBeLL](http://127.0.0.1:5985rapps/_design/bell/MyApp/index.html) on your OS.
+You now have a working [communityBeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS.
