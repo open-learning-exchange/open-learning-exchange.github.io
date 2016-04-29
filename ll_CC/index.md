@@ -41,4 +41,4 @@ cd ole--vagrant-bells/release
 vagrant up
 ```
 
-You now have a working [communityBeLL](http://127.0.0.1:5985rapps/_design/bell/MyApp/index.html) on your OS.
+You now have a working [communityBeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS.
