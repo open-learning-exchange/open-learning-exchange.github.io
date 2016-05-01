@@ -121,6 +121,7 @@ Vagrant.configure(2) do |config|
     done
     curl -d @init_docs/ConfigurationsDoc-Community.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/configurations
     curl -d @init_docs/admin.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/members
+    curl -X PUT 'http://127.0.0.1:5985/_config/log/file' -d '"/usr/local/var/log/couchdb/couch.log"'
 
 cat <<'EOF' > /etc/init.d/bell
 #!/bin/sh
