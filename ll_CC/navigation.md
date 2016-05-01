@@ -21,6 +21,7 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+[Chat](https://gitter.im/open-learning-exchange/chat)
 
 <!-- A more complex navigation example: ----------------------------------------
 
