@@ -2,9 +2,12 @@
 
 [GitHub](https://help.github.com/categories/writing-on-github/) acts as a source code management system for Open Learning Exchange. It's a very simple open source system that is easy to learn and to use. Please read some of the basic instructions below as a user manual for OLE on GitHub. 
 
-[Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software you're currently reading on that OLE uses for our Virtual intern program. Markdown (MD) Wiki allows us to use Markdown and javascript on GitHub so that it is easily compatible with our current development environment. To be explicit, Markdown is a simplified development language which allows you to format and write text. Below: 1) a screenshot of what Markdown language with a preview looks like; and 2) a cheat sheet of Markdown so you can have more information on writing MD on your individual Markdown Wiki pages. 
+[Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software you're currently reading on that OLE uses for our Virtual intern program. Markdown (MD) Wiki allows us to use Markdown and javascript on GitHub so that it is easily compatible with our current development environment. To be explicit, Markdown is a simplified development language which allows you to format and write text. 
+Below is a screenshot of what Markdown language with a preview looks like: 
 
 ![Markdown Preview](/ll_CC/pages/uploads/images/markdown.png)
+
+Below is a cheat sheet of Markdown so you can have more information on writing MD on your individual Markdown Wiki pages:
 
 ![Markdown Cheat Sheet](/ll_CC/pages/uploads/images/Markdown_Reference.png)
 
