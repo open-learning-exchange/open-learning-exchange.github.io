@@ -14,20 +14,23 @@ As you have already created a username on GitHub, we can assume that you underst
 
 There is a lot of GitHub to learn, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example with specifically create your own <username>.github.io and allow you to edit and commit your changes. 
 
-1. First, you will need to find the correct GitHub repository to fork. Forking is essentially creating a copy on your own user so that you don't edit or mess up the main file. To make it easier on you, I will provide you with a link to the correct repository [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io). 
-2. Now you will fork the repository to your own page. Look at the picture below to find the fork button. 
+First, you will need to find the correct GitHub repository to fork. Forking is essentially creating a copy on your own user so that you don't edit or mess up the main file. To make it easier on you, I will provide you with a link to the correct repository [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io). 
+Now you will fork the repository to your own page. Look at the picture below to find the fork button. 
 
 ![Forking on GitHub](/ll_CC/pages/uploads/images/Forking on GitHub.png)
 
-3. After your fork it, you will be on your page: <username>/open-learning-exchange.github.io. Then go to settings at the top middle of the page and rename your repository to your name. See example below. 
+After your fork it, you will be on your page: <username>/open-learning-exchange.github.io. Then go to settings at the top middle of the page and rename your repository to your name. See example below. 
 
 ![Renaming Repository](/ll_CC/pages/uploads/images/Rename Repository.png)
 
-4. Once again, it's important to distinguish now the difference between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of code, everyone forks repositories and then saves them back for approval (called a pull request) before the Open Learning Exchange code is updated. Be sure to ALWAYS work on your personal account via forking and pull requests. 
-5. Now, you can edit your files and check out our <username>.github.io in a web browser. To edit, click on the `II_CC` folder and then click on `pages` folder. Then, click `New File` and make the filename the exact same name as your gitter.im username (minus the @). I have created pages for you using your gitter.im chat name so it's important you stick with that name. For reference, my link to this page is EmilyLarkin.github.io/ll_CC/pages/EmilyLarkin.md and yours should look similar in a parallel format. 
-6. From this, click the pencil icon to edit (as shown below) and type your name, your location/time zone, and OS. Then scroll down to the bottom of the page and click `Commit Changes`. 
+Once again, it's important to distinguish now the difference between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of code, everyone forks repositories and then saves them back for approval (called a pull request) before the Open Learning Exchange code is updated. Be sure to ALWAYS work on your personal account via forking and pull requests. 
+
+Now, you can edit your files and check out our <username>.github.io in a web browser. To edit, click on the `II_CC` folder and then click on `pages` folder. Then, click `New File` and make the filename the exact same name as your gitter.im username (minus the @). I have created pages for you using your gitter.im chat name so it's important you stick with that name. For reference, my link to this page is EmilyLarkin.github.io/ll_CC/pages/EmilyLarkin.md and yours should look similar in a parallel format. 
+
+From this, click the pencil icon to edit (as shown below) and type your name, your location/time zone, and OS. Then scroll down to the bottom of the page and click `Commit Changes`. 
 
 ![Edit](/ll_CC/pages/uploads/images/Edit.png)
 
-7. Now check what this looks like on your own page (<username>.github.io/ll_CC/#!pages/<username>.md). Check and double check that everything looks good and is working before initiating a pull request. 
-8. Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Then click `Create pull request` and someone from our team will then merge and allow your pull request once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
+Now check what this looks like on your own page (<username>.github.io/ll_CC/#!pages/<username>.md). Check and double check that everything looks good and is working before initiating a pull request. 
+
+Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Then click `Create pull request` and someone from our team will then merge and allow your pull request once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
