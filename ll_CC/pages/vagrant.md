@@ -1,24 +1,21 @@
 # Vagrant
 
-[Vagrant](https://www.vagrantup.com/) is open source tool for building development environments. We assume that you have followed the first instructions on README.md to install Git, Vagrant, and VirtualBox on your OS. Below you will find a shortened version on how to install this software quickly if needed as a reference. 
+[Vagrant](https://www.vagrantup.com/) is open source tool for building development environments. We assume that you have followed the first instructions on README.md to install Vagrant and VirtualBox on your OS. Below you will find a shortened version on how to install this software quickly if needed as a reference. 
 
 ### Ubuntu
 ```
-    sudo apt-get install git
     sudo apt-get install virtualbox
     sudo apt-get install vagrant
 ```
 ### OSX
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```
-    brew install git 
     brew install vagrant
     brew cask install virtualbox
 ```
 ### Windows
 You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
 ```
-git --version
 vagrant --version
 vboxmanage --version  
 ```
