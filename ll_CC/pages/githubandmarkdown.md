@@ -24,15 +24,10 @@ There is a lot of GitHub to learn, but to acclimatize you to it, we will provide
 ![Renaming Repository](/ll_CC/pages/uploads/images/Rename Repository.png)
 
 4. Once again, it's important to distinguish now the difference between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of code, everyone forks repositories and then saves them back for approval (called a pull request) before the Open Learning Exchange code is updated. Be sure to ALWAYS work on your personal account via forking and pull requests. 
-5. Now, you can edit your files and check out our <username>.github.io in a web browser. To edit, click on the `II_CC` folder and then click on `pages` folder and then click on `team.md`. Once you've made edits that you want to keep, 
+5. Now, you can edit your files and check out our <username>.github.io in a web browser. To edit, click on the `II_CC` folder and then click on `pages` folder. Then, click `New File` and make the filename the exact same name as your gitter.im username (minus the @). I have created pages for you using your gitter.im chat name so it's important you stick with that name. For reference, my link to this page is EmilyLarkin.github.io/ll_CC/pages/EmilyLarkin.md and yours should look similar in a parallel format. 
+6. From this, click the pencil icon to edit (as shown below) and type your name, your location/time zone, and OS. Then scroll down to the bottom of the page and click `Commit Changes`. 
 
-6. 
+![Edit](/ll_CC/pages/uploads/images/Edit.png)
 
-
-change something example
-- edit 
-- commit changes
-- check and double check 
-- create a pull request
-
-first thing to do: add yourself and your username.github.io to our team page
+7. Now check what this looks like on your own page (<username>.github.io/ll_CC/#!pages/<username>.md). Check and double check that everything looks good and is working before initiating a pull request. 
+8. Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Then click `Create pull request` and someone from our team will then merge and allow your pull request once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
