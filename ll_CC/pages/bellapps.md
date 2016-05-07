@@ -1,8 +1,8 @@
-##BeLL: Community and Nation
+##BeLL-Apps: Community and Nation
 
 The BeLL (Basic e-Learning Library) is not only a library, but also an individualized learning system where students can select their own books and courses to target their individual goals. We have two kinds of BeLLs: nations and communities. Using Vagrant, you've already created a community on your laptop via the first week's assignment. Communities are how the BeLL functions via intranet as users connect to a community using either a laptop or a RPi and a router. Communities connect and sync back to a larger nation which is used on the internet. You can send materials and information between the communities and nations to complete our feedback loop. 
 
-As previously mentioned, you created a community (which we will now refer to as a vagrant BeLL) on your laptop. To access this community, please check that your vagrant is up and running with `vagrant global-status`. Assuming that it's on or you turn it on using `vagrant up`, open FireFox (please download if you don't already have it- it's VERY important that you always use the BeLL in FireFox to limit errors). Go to http://127.0.0.1:5985. You could also use http://localhost:5985, meaning that 127.0.0.1 refers to your machine. Both localhost:5985 and 127.0.01:5985 are interchangable. Please be sure to have the correct port number (5985), otherwise it will not work correctly. 
+As previously mentioned, you created a community (which we will now refer to as a vagrant BeLL) on your laptop. To access this community, please check that your vagrant is up and running with `vagrant global-status`. Assuming that it's on or you turn it on using `vagrant up`, open FireFox (please download if you don't already have it- it's VERY important that you always use the BeLL in FireFox to limit errors). Go to http://127.0.0.1:5985. You could also use http://localhost:5985, meaning that 127.0.0.1 refers to your machine. Both localhost:5985 and 127.0.0.1:5985 are interchangable. Please be sure to have the correct port number (5985), otherwise it will not work correctly. 
 
 Your first page will look like this:
 
@@ -30,7 +30,7 @@ After submitting configurations on the community, you can now see the main dashb
 
 [Generating Activity Reports](/ll_CC/pages/uploads/movies/generatingactivityreports.mp4)
 
-I would suggest playing around a bit as well. Please explore and feel comfortable with the software as you'll be using it quiet a bit this summer. For reference, you are on a copied version of our SyriaBeLL, so don't be surprised if you see a fair amount of Arabic content. 
+I would suggest playing around a bit as well. Please explore and feel comfortable with the software as you'll be using it quite a bit this summer. 
 
 We want you to practice uploading resources to the BeLL. Although there are several different kinds of resources, most of them are either PDFs, mp3s, or mp4s. I have provide you with some resources (linked below) where you can download them and upload them to your BeLL. 
 
@@ -46,6 +46,6 @@ Either right-click or control-click on the raw button and select `Save Link As..
 
 ![Burka Avenger Upload](/ll_CC/pages/uploads/images/burkaavengerupload.png)
 
-Fill out the information, although as we are just doing this as a test, accuracy is not very important. Just be sure to put something, even if it is your name (as I have done). The important thing is that you have something in all of the drop-down menus are filled out and you ensure that for `Open` you switch it to the correct format (PDF, mp3, or mp4). Then click `Save`. You have now uploaded the resource. I suggest finding it and making sure that you can open it to double check. Continue with all three resources. 
+Fill out the information, although as we are just doing this as a test, accuracy of information/source of content is not very important. Just be sure to put something, even if it is your name (as I have done). The important thing is that you have something in all of the drop-down menus and you ensure that for `Open` you switch it to the correct format (PDF, mp3, or mp4). Then click `Save`. You have now uploaded the resource. I suggest finding it and making sure that you can open it to double check. Continue with all three resources. 
 
 Please then send your screenshot of your community configurations (from earlier when you were submitting configurations) to [our chat](https://gitter.im/open-learning-exchange/chat). Dogi and I will then set the configurations from the nation side so it will be connected to viBeLL. 
