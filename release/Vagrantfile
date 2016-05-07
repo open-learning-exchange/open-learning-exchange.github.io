@@ -94,11 +94,11 @@ Vagrant.configure(2) do |config|
     cd /vagrant
     mkdir -p ole
     cd ole
-    wget https://github.com/open-learning-exchange/BeLL-Apps/archive/0.12.9.zip
-    unzip 0.12.9.zip
+    wget https://github.com/open-learning-exchange/BeLL-Apps/archive/0.12.10.zip
+    unzip 0.12.10.zip
     #ln -s BeLL-Apps-* BeLL-Apps ## won't work in windows
     #cd BeLL-Apps
-    cd BeLL-Apps-0.12.9
+    cd BeLL-Apps-0.12.10
     chmod +x node_modules/.bin/couchapp
     ## check if docker is running
     while ! curl -X GET http://127.0.0.1:5985/_all_dbs ; do
@@ -146,7 +146,7 @@ PATH=/sbin:/usr/sbin:/bin:/usr/bin
 
 do_start() {
     maxtries=30
-    while [ ! -d /vagrant/ole/BeLL-Apps-0.12.9 ];  do
+    while [ ! -d /vagrant/ole/BeLL-Apps-0.12.10 ];  do
         maxtries=$((maxtries+1))
         echo "tring to start... $maxtries/30"
         sleep 1;
@@ -154,7 +154,7 @@ do_start() {
             exit 1
         fi
     done
-    cd /vagrant/ole/BeLL-Apps-0.12.9
+    cd /vagrant/ole/BeLL-Apps-0.12.10
 
     node_modules/.bin/couchapp sync databases/activitylog.js http://127.0.0.1:5985/activitylog &
     node_modules/.bin/couchapp sync databases/apps.js http://127.0.0.1:5985/apps &
