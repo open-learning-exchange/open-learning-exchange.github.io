@@ -1,6 +1,6 @@
 [EmilyLarkin](/ll_CC/#!pages/EmilyLarkin.md)
 
-[vimalababu4](/ll_CC/#!pages/Vimalababu4.md)
+[vimalababu4](/ll_CC/#!pages/vimalababu4.md)
 
 [mduprez](/ll_CC/#!pages/mduprez.md)
 

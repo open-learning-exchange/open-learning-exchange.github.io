@@ -21,6 +21,7 @@
 
 [Vagrant](pages/vagrant.md)
 [Github and Markdown](pages/githubandmarkdown.md)
+[BeLL-Apps](pages/bellapps.md)
 [Team](pages/team.md)
 [Chat](https://gitter.im/open-learning-exchange/chat)
 
