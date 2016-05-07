@@ -8,7 +8,7 @@ Our Virtual Interns program is part of the software development strategy by [Ope
 ###Due 5/11/16
 1. Follow the instructions on the [GitHub and Markdown page](pages/githubandmarkdown.md) and comment on the [gitter.im chat](https://gitter.im/open-learning-exchange/chat) when you have completed these steps.
 2. Review [Vagrant instructions](pages/vagrant.md) to ensure that you have completed last week's assignment fully. 
-3. This step will be released on Friday, 5/6/16.
+3. Follow the instructions under the BeLL-Apps tab. 
 
 ###Due 5/4/16
 1. Go to [this GitHub address](https://github.com/dogi/ole--vagrant-bells) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). It involves several steps of downloading various content to your OS so that you can use and work within our software. You should be able to scroll down to see ole--vagrant-bells, but you can also find it in the README.md file. Please do not make ANY changes to the text or files: simply read and follow the directions.
