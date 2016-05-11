@@ -121,7 +121,11 @@ Vagrant.configure(2) do |config|
     done
     curl -d @init_docs/ConfigurationsDoc-Community.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/configurations
     curl -d @init_docs/admin.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/members
+
+    ## fix of log file
     curl -X PUT 'http://127.0.0.1:5985/_config/log/file' -d '"/usr/local/var/log/couchdb/couch.log"'
+
+    ## favicon.ico
     wget https://open-learning-exchange.github.io/favicon.ico
     mv favicon.ico /srv/data/bell/.
     #curl -X PUT 'http://127.0.0.1:5985/_config/httpd_global_handlers/favicon.ico' -d '"{couch_httpd_misc_handlers, handle_favicon_req, \"/usr/local/var/lib/couchdb\"}"'
