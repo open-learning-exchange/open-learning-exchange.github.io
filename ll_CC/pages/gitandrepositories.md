@@ -20,7 +20,8 @@ I would begin by opening your command prompt/terminal and finding the correct di
 
 Then, use the command `git fetch upstream` to fetch branches and repositories from the upstream repository (in this case, it is open-learning-exchange.github.io). The check your fork's master branch with `git checkout master`. You should see some variation on this response: 
 
-```EmilyLarkin.github.io $ git fetch upstream
+```
+EmilyLarkin.github.io $ git fetch upstream
 remote: Counting objects: 1, done.
 remote: Total 1 (delta 0), reused 1 (delta 0), pack-reused 0
 Unpacking objects: 100% (1/1), done.
@@ -28,13 +29,16 @@ From https://github.com/open-learning-exchange/open-learning-exchange.github.io
    6940637..5934ec2  master     -> upstream/master
 EmilyLarkin.github.io $ git checkout master
 Already on 'master'
-Your branch is up-to-date with 'origin/master'.```
+Your branch is up-to-date with 'origin/master'.
+```
   
 Then, use `git merge upstream/master` to merge the open-learning-exchange upstream/master with your local repository. It should look something like this:
 
-```EmilyLarkin.github.io $ git merge upstream/master
+```
+EmilyLarkin.github.io $ git merge upstream/master
 Updating 1388180..5934ec2
-Fast-forward```
+Fast-forward
+```
 
 Now, your repository has been synced to the upstream/master. However, a discrepancy may still exist between your local (and now your origin/master) versus your username.github.io. You will now use `git diff` and `git status` to check how your local repository compares to your username.github.io repository. Depending on whether you have more or less commits than your username.github.io, you will either use `git pull` to receive any changes or `git push` to push updates to your repository. Most likely, as you just synced with the master, you will use `git push` to push updates to your username.github.io repo. If you have uncommitted changes (from mixing interface and terminal use of GitHub repositories), then these commands will be aborted until you fix the discrepancy.
 
