@@ -5,6 +5,12 @@ This is a MD Wiki for our Virtual Interns program. Please feel free to explore a
 Our Virtual Interns program is part of the software development strategy by [Open Learning Exchange](http://www.ole.org/) (OLÉ). We are a non-profit and for-purpose organization based in Cambridge, Massachusetts. We strive to provide universal quality education using open source materials and technology to address educational barriers. 
 
 ##Assignments
+
+###Assignment #4
+1. Follow the directions for keeping your username.github.io and your local repository up to date on [Git Repositories](pages/gitandrepositories.md).
+2. Create another issue, comment on the issue, and then resolve the issue and make the necessary changes to your username.github.io again. You will follow the same steps as last week's [GitHub Issues](pages/githubissues.md) but will be working to improve this Markdown Wiki so that it is clearer and better for future use. As you have now followed along with the Markdown Wiki thus far, you should all try to improve clarity and explanations for these steps. Learn by teaching- or editing our teaching tool in this case! Please create at least two to three issues and be sure to create pull requests once you have resolved them. If you are not already following Dogi, Emily, and Open Learning Exchange on GitHub, it is now imperative that you do so. 
+3. Please continue to work on translating on Crowdin. Get to at least 10% on a language that you speak. If you don't speak an additional language, ask Emily how to help on the [Gitter chat](https://gitter.im/open-learning-exchange/chat). If you want to spend additional time, feel free to provide translations to 100%. 
+
 ###Assignment #3
 Due 5/20/16
 1. Complete the tutorial under the [GitHub Issues tab](pages/githubissues.md) and be sure to keep us posted in the Gitter chat.
