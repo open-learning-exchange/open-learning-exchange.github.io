@@ -1,6 +1,6 @@
 [EmilyLarkin](/ll_CC/#!pages/EmilyLarkin.md)
 
-[vimalababu4](/ll_CC/#!pages/vimalababu4.md))
+[vimalababu4](/ll_CC/#!pages/vimalababu4.md)
 
 [yywmm1991](/ll_CC/#!pages/yywmm1991.md)
 
@@ -8,7 +8,7 @@
 
 [mhalqurashi](/ll_CC/#!pages/mhalqurashi.md)
 
-[alan459](/ll_CC/#!pages/alan459.md
+[alan459](/ll_CC/#!pages/alan459.md)
 
 [fsjoyti](/ll_CC/#!pages/fsjoyti.md)
 
