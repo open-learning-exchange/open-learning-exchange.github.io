@@ -20,7 +20,7 @@
   -->
 
 [Vagrant](pages/vagrant.md)
-[Github and Markdown](pages/githubandmarkdown.md)
+[GitHub and Markdown](pages/githubandmarkdown.md)
 [BeLL-Apps](pages/bellapps.md)
 [GitHub Issues](pages/githubissues.md)
 [Git Repositories](pages/gitandrepositories.md)
