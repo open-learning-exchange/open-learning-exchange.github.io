@@ -20,7 +20,7 @@ You have now send all activities on your community to the nation. To explain fur
 
 On the nation side, you can log in as admin/password and check that the sync worked. Click on "Manager" once again.
 
-!{Clicking on "Manager" after logging in on the nation](/ll_CC/pages/uploads/images/nation.md4.png)
+![Clicking on "Manager" after logging in on the nation](/ll_CC/pages/uploads/images/nation.md4.png)
 
 Then, click on "Communities" to acces reports from various communities on the nation.
 
