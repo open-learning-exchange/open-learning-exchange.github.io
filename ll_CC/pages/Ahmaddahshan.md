@@ -1,5 +1,3 @@
-Enter file contents here
-
 Ahmad Dahshan
 
 Chicago/EST
