@@ -24,7 +24,7 @@ ole--vagrant-bells gives users the ability to install fast their own community [
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```sh
     brew install git 
-    brew install vagrant
+    brew cask install vagrant
     brew cask install virtualbox
 ```
 
