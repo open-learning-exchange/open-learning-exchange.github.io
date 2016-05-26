@@ -30,5 +30,5 @@
 
 [314159265359](/ll_CC/#!pages/314159265359.md)
 
-[pranesh-s](/11 CC/#!pages/pranesh-s.md)
+[pranesh-s](/ll_CC/#!pages/pranesh-s.md)
 
