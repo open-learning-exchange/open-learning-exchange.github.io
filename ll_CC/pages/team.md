@@ -8,7 +8,7 @@
 
 [mhalqurashi](/ll_CC/#!pages/mhalqurashi.md)
 
-[alan459](/ll_CC/#!pages/alan459.md)
+[alan459](/ll_CC/#!pages/Alan459.md)
 
 [fsjoyti](/ll_CC/#!pages/fsjoyti.md)
 
@@ -29,4 +29,6 @@
 [SavinSachdev](/ll_CC/#!pages/SavinSachdev.md)
 
 [314159265359](/ll_CC/#!pages/314159265359.md)
+
+[pranesh-s](/11 CC/#!pages/pranesh-s.md)
 
