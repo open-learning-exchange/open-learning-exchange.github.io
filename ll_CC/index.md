@@ -26,5 +26,5 @@ Due 5/11/16
 ###Assignment #1
 Due 5/4/16
 1. Go to [this GitHub address](https://github.com/dogi/ole--vagrant-bells) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). It involves several steps of downloading various content to your OS so that you can use and work within our software. You should be able to scroll down to see ole--vagrant-bells, but you can also find it in the README.md file. Please do not make ANY changes to the text or files: simply read and follow the directions.
-2. Please send Emily your resume again (along with a short description of yourself and what you would like to be called) to emily@ole.org. 
+2. Please send Emily your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org. 
 3. We use Crowdin to translate our user interface in many different languages. Please go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. If you speak an additional language, it would be very helpful for you to translate some of the words and familiarize yourself with the software. We will be using it later on in the summer.
