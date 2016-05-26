@@ -1,9 +1,7 @@
 # Ahmad Dahshan
-***
 # Chicago/EST
-***
-Windows 8
-***
+#Windows 8
+
 
 I am a student at DePaul University in Chicago. I'm majoring in psychology and minor in Computer Science.
 
