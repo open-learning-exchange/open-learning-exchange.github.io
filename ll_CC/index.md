@@ -4,6 +4,11 @@ This is a MD Wiki for our Virtual Interns program. Please feel free to explore a
 
 Our Virtual Interns program is part of the software development strategy by [Open Learning Exchange](http://www.ole.org/) (OLÉ). We are a non-profit and for-purpose organization based in Cambridge, Massachusetts. We strive to provide universal quality education using open source materials and technology to address educational barriers.
 
+###Assignment #5
+Due 6/3/16
+1. Follow the directions under the [Nation BeLL tab](pages/nation.md). 
+2. Please create three issues, add comments to three issues, and resolve three issues. This week, your issues should focus on ways to improve my directions to make them clearer. I gave you some stones to cross ther river but we're trying to build the bridge. 
+
 ###Assignment #4
 Due 5/27/16
 1. Follow the directions for keeping your username.github.io and your local repository up to date on [Git Repositories](pages/gitandrepositories.md).
