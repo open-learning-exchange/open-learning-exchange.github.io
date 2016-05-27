@@ -18,7 +18,7 @@ First, the GitHub help section and https://git-scm.com are incredibly helpful in
 
 I would begin by opening your command prompt/terminal and finding the correct directory: `cd username.github.io`.
 
-Then, use the command `git fetch upstream` to fetch branches and repositories from the upstream repository (in this case, it is open-learning-exchange.github.io). The check your fork's master branch with `git checkout master`. You should see some variation on this response: 
+Before you are able to fetch updates from the upstream repository, you need to first configure the upstream repository by following [this link](https://help.github.com/articles/configuring-a-remote-for-a-fork/). Then, use the command `git fetch upstream` to fetch branches and repositories from the upstream repository (in this case, it is open-learning-exchange.github.io). Then check your fork's master branch with `git checkout master`. You should see some variation on this response: 
 
 ```
 EmilyLarkin.github.io $ git fetch upstream
