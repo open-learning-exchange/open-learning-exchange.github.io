@@ -19,7 +19,7 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png">](http://ole.org)
+
 [Vagrant](pages/vagrant.md)
 [GitHub and Markdown](pages/githubandmarkdown.md)
 [BeLL-Apps](pages/bellapps.md)
@@ -29,6 +29,7 @@
 [Team](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 [Chat](https://gitter.im/open-learning-exchange/chat)
+[<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png">](http://ole.org)
 
 
 
