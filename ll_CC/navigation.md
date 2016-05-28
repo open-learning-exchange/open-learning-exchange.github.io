@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
   
-[<img src="https://github.com/fsjoyti/fsjoyti.github.io/blob/master/ll_CC/pages/uploads/images/ole.PNG">](http://ole.org)
+
 # Virtual Interns
 
 
@@ -19,7 +19,7 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
+[<img src="https://github.com/fsjoyti/fsjoyti.github.io/blob/master/ll_CC/pages/uploads/images/ole.PNG">](http://ole.org)
 [Vagrant](pages/vagrant.md)
 [GitHub and Markdown](pages/githubandmarkdown.md)
 [BeLL-Apps](pages/bellapps.md)
