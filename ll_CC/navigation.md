@@ -28,7 +28,7 @@
 [Team](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 [Chat](https://gitter.im/open-learning-exchange/chat)
-![alt text](https://github.com/fsjoyti/fsjoyti.github.io/ll_CC/pages/images/ole image.png" Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png " Logo Title Text 1")
 
 
 <!-- A more complex navigation example: ----------------------------------------
