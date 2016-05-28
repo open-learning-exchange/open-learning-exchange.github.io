@@ -18,7 +18,7 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
+[<img src="https://i.imgsafe.org/a066c4f1af.png">](http://ole.org)
 [Vagrant](pages/vagrant.md)
 [GitHub and Markdown](pages/githubandmarkdown.md)
 [BeLL-Apps](pages/bellapps.md)
@@ -28,7 +28,7 @@
 [Team](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 [Chat](https://gitter.im/open-learning-exchange/chat)
-[<img src="https://i.imgsafe.org/a066c4f1af.png">](http://ole.org)
+
 
 
 <!-- A more complex navigation example: ----------------------------------------
