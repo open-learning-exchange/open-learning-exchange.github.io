@@ -4,6 +4,11 @@ This is a MD Wiki for our Virtual Interns program. Please feel free to explore a
 
 Our Virtual Interns program is part of the software development strategy by [Open Learning Exchange](http://www.ole.org/) (OLÉ). We are a non-profit and for-purpose organization based in Cambridge, Massachusetts. We strive to provide universal quality education using open source materials and technology to address educational barriers.
 
+###Assignment #5
+Due 6/3/16
+1. Follow the directions under the [Nation BeLL tab](pages/nation.md). 
+2. Please create three issues, add comments to three issues, and resolve three issues. This week, your issues should focus on ways to improve my directions to make them clearer. I gave you some stones to cross ther river but we're trying to build the bridge. 
+
 ###Assignment #4
 Due 5/27/16
 1. Follow the directions for keeping your username.github.io and your local repository up to date on [Git Repositories](pages/gitandrepositories.md).
@@ -26,5 +31,5 @@ Due 5/11/16
 ###Assignment #1
 Due 5/4/16
 1. Go to [this GitHub address](https://github.com/dogi/ole--vagrant-bells) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). It involves several steps of downloading various content to your OS so that you can use and work within our software. You should be able to scroll down to see ole--vagrant-bells, but you can also find it in the README.md file. Please do not make ANY changes to the text or files: simply read and follow the directions.
-2. Please send Emily your resume again (along with a short description of yourself and what you would like to be called) to emily@ole.org. 
+2. Please send Emily your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org. 
 3. We use Crowdin to translate our user interface in many different languages. Please go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. If you speak an additional language, it would be very helpful for you to translate some of the words and familiarize yourself with the software. We will be using it later on in the summer.
