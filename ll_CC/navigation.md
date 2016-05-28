@@ -18,7 +18,7 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[<img src="https://https://github.com/fsjoyti/fsjoyti.github.io/blob/master/ll_CC/pages/uploads/images/ole%20image.png">](http://ole.org)
+[<img src="https://https://github.com/fsjoyti/fsjoyti.github.io/blob/master/ll_CC/pages/uploads/images/ole image.png">](http://ole.org)
 [Vagrant](pages/vagrant.md)
 [GitHub and Markdown](pages/githubandmarkdown.md)
 [BeLL-Apps](pages/bellapps.md)
