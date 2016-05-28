@@ -28,7 +28,7 @@
 [Team](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 [Chat](https://gitter.im/open-learning-exchange/chat)
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://ole.org)
+[<img src="https://i.imgsafe.org/a066c4f1af.png">](http://ole.org)
 
 
 <!-- A more complex navigation example: ----------------------------------------
