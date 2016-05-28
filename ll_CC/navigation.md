@@ -28,7 +28,7 @@
 [Team](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 [Chat](https://gitter.im/open-learning-exchange/chat)
-[Ole](https://ole.org)
+[Ole](http://ole.org)
 
 
 <!-- A more complex navigation example: ----------------------------------------
