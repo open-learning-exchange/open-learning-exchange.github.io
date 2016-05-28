@@ -29,7 +29,7 @@
 [Team](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 [Chat](https://gitter.im/open-learning-exchange/chat)
-[<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png">](http://ole.org)
+[<img src="https://github.com/fsjoyti/fsjoyti.github.io/blob/master/ll_CC/pages/uploads/images/ole.jpg">](http://ole.org)
 
 
 
