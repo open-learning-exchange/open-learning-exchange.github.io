@@ -20,7 +20,7 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[<img src="pages/uploads/images/ole.png">](http://ole.org)
+
 [Vagrant](pages/vagrant.md)
 [GitHub and Markdown](pages/githubandmarkdown.md)
 [BeLL-Apps](pages/bellapps.md)
