@@ -4,6 +4,7 @@
   -->
   
 
+[<img src="pages/uploads/images/ole.png">](http://ole.org)
 # Virtual Interns
 
 
