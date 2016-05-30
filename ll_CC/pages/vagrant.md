@@ -19,6 +19,19 @@ You need to manually install git, virtualbox, and vagrant via internet from the 
 vagrant --version
 vboxmanage --version  
 ```
+Make sure you run vboxmanage from the directory that contains vboxmanage.exe (Usually your virtualbox directory)
+
+```
+C:\WINDOWS\system32>vboxmanage --version
+'vboxmanage' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\WINDOWS\system32>cd C:\virtualbox
+
+C:\virtualbox>vboxmanage --version
+5.0.10r104061
+
+```
 
 After installing a communityBeLL on your OS, you will need to follow these instructions to use your communityBeLL. Vagrant only works when you have installed vagrant and you are in the proper directory where your vagrant file is located. To find the proper directory, open your `Terminal` or `Command Prompt` and type `cd ole--vagrant-bells/release` in order to be in the right directory. 
 Now that you are in the right directory, check the status of vagrant with `vagrant global-status`. You should have the following message:
