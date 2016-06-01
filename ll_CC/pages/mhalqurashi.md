@@ -1,5 +1,5 @@
 # Muath Alqurashi 
-##Boston, MA / EST (UTC/GMT -4 hours) 
+##Boston, MA / EDT (UTC/GMT -4 hours) 
 
 ###OS: Windows 10 Pro v.1511
 
