@@ -1,5 +1,5 @@
 Muath Alqurashi 
-Boston / EST 
+Boston, MA / EST (UTC/GMT -4 hours) 
 Windows 10 Pro v.1511
 
 I am a senior computer science student at Suffolk University, Boston. I am expected to graduate by the end of August, 2016. 
