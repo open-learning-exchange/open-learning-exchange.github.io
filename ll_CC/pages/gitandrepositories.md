@@ -4,7 +4,7 @@ On GitHub, our software code is organized by repositories which are different se
 
 As previously mentioned, you fork a repository to work on your own user and then send it back to the master repository in the form of a pull request to update it. You went through this process to fork open-learning-exchange.github.io and rename it to your own repository. Normally, we do not rename but as markdown wikis are slightly different, we renamed in the repository in that example. 
 
-Now, we will be using GitHub reposiitories on a command line, which means that there is a separate step to get your GitHub repository on your OS. Therefore, open a command line and open your username.github.io repository on GitHub. You then need to copy the link provided of the repository (seen in the picture below). 
+Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. Therefore, open a command line and open your username.github.io repository on GitHub. You then need to copy the link provided of the repository (seen in the picture below). 
 
 ![GitHub Clone URL](/ll_CC/pages/uploads/images/githubcloneurl.png)
 
