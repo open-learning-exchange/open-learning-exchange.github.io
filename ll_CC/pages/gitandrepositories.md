@@ -4,7 +4,7 @@ On GitHub, our software code is organized by repositories which are different se
 
 As previously mentioned, you fork a repository to work on your own user and then send it back to the master repository in the form of a pull request to update it. You went through this process to fork open-learning-exchange.github.io and rename it to your own repository. Normally, we do not rename but as markdown wikis are slightly different, we renamed in the repository in that example. In the future, plan on forking different repositories, working on them, then sending your work to the master/origin via pull request.  
 
-Now, we will be using GitHub reposiitories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided of the repository (seen in the picture below).
+Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided of the repository (seen in the picture below).
 
 ![GitHub Clone URL](/ll_CC/pages/uploads/images/githubcloneurl.png)
 
@@ -18,7 +18,7 @@ First, the GitHub help section and https://git-scm.com are incredibly helpful in
 
 I would begin by opening your command prompt/terminal and finding the correct directory: `cd username.github.io`.
 
-Then, use the command `git fetch upstream` to fetch branches and repositories from the upstream repository (in this case, it is open-learning-exchange.github.io). The check your fork's master branch with `git checkout master`. You should see some variation on this response: 
+Before you are able to fetch updates from the upstream repository, you need to first configure the upstream repository by following [this link](https://help.github.com/articles/configuring-a-remote-for-a-fork/). Then, use the command `git fetch upstream` to fetch branches and repositories from the upstream repository (in this case, it is open-learning-exchange.github.io). Then check your fork's master branch with `git checkout master`. You should see some variation on this response: 
 
 ```
 EmilyLarkin.github.io $ git fetch upstream

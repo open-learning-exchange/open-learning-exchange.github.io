@@ -30,7 +30,7 @@ Once again, it's important to distinguish now the difference between your person
 
 Now, you can edit your files and check out your username.github.io in a web browser. To edit, click on the `II_CC` folder and then click on `pages` folder. Then, click `New File` and make the filename the exact same name as your gitter.im username (minus the @). I have created pages for you using your gitter.im chat name so it's important you stick with that name. For reference, my link to this page is EmilyLarkin.github.io/ll_CC/pages/EmilyLarkin.md and yours should look similar in a parallel format. 
 
-From this, click the pencil icon to edit (as shown below) and type your name, your location/time zone, and OS (including version). Feel free to add a short description of yourself as well so your fellow virtual interns know who you are. Then scroll down to the bottom of the page and click `Commit Changes`. 
+From this, click the pencil icon to edit (as shown below) and type your name, your location/time zone, and OS (including version). Feel free to add a short description of yourself as well so your fellow virtual interns know who you are. Then scroll down to the bottom of the page, select the `Commit directly to the master branch` radio box and click `Commit New File`. 
 
 ![Edit](/ll_CC/pages/uploads/images/Edit.png)
 
