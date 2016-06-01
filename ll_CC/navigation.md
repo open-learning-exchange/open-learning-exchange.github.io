@@ -2,7 +2,9 @@
   -- Name of your wiki
   -- Do NOT remove the leading `#` character.
   -->
+  
 
+[<img src="pages/uploads/images/ole.png">](http://ole.org)
 # Virtual Interns
 
 
@@ -28,6 +30,9 @@
 [Team](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 [Chat](https://gitter.im/open-learning-exchange/chat)
+
+
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
