@@ -8,5 +8,5 @@
 
 Looking forward to working with you!
 
-Email: [mhalqurashi@suffolk.edu]
+Email: [mhalqurashi@suffolk.edu](mailto:mhalqurashi@suffolk.edu)
 GitHub: [mhalqurashi](https://github.com/mhalqurashi)
