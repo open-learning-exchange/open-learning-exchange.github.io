@@ -17,8 +17,24 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
 You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
 ```
 vagrant --version
-vboxmanage --version  
+vboxmanage --version 
 ```
+To run the vboxmanage --version command from your command prompt you can run the command by going into the directory where the executable is located or you can add virtualbox to path environment variables by doing the following steps :
+
+1.Right click on Computer.
+
+2.Click on Properties
+
+3.Click on Advanced System Settings which opens up a pop up box 
+
+4.Click on Environment Variables
+
+5.Click Edit User variables
+
+6. Click new then browse the directory where your the executable is located and click ok
+
+![Environment Variable Configurations](/ll_CC/pages/uploads/images/Environment-Variables.PNG)
+
 
 After installing a communityBeLL on your OS, you will need to follow these instructions to use your communityBeLL. Vagrant only works when you have installed vagrant and you are in the proper directory where your vagrant file is located. To find the proper directory, open your `Terminal` or `Command Prompt` and type `cd ole--vagrant-bells/release` in order to be in the right directory. 
 Now that you are in the right directory, check the status of vagrant with `vagrant global-status`. You should have the following message:
