@@ -20,7 +20,7 @@ Due 5/20/16
 1. Complete the tutorial under the [GitHub Issues tab](pages/githubissues.md) and be sure to keep us posted in the Gitter chat.
 2. Please post as many issues as you can for improving the page as well as personal practice. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Following, do and create pull requests. Don't forget you can also comment and work on issues that you didn't create.
 3. Spend this time getting comfortable with GitHub. The more you work and commit and push, the better your GitHub profile is. This is very important to potential employers so we encourage you to spend time to increase your numbers so that your profile is strengthened.
-4. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io),and Follow [Emily](https://github.com/EmilyLarkin) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organizations and "Follow" individuals.  When you are on a repository or profile page, look for these buttons in the top right of the screen. Please also follow each other to see what others in the group are doing.
+4. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io), and Follow [Emily](https://github.com/EmilyLarkin) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organizations and "Follow" individuals.  When you are on a repository or profile page, look for these buttons in the top right of the screen. Please also follow each other to see what others in the group are doing.
 
 ###Assignment #2
 Due 5/11/16
