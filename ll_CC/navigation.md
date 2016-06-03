@@ -41,13 +41,18 @@
 
 [First Steps]()
 
-  * # First Steps
   * [Vagrant](pages/vagrant.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
   * [BeLL-Apps](pages/bellapps.md)
   * [GitHub Issues](pages/githubissues.md)
   * [Git Repositories](pages/gitandrepositories.md)
   * [Nation BeLL](pages/nation.md)
+
+[Teams]()
+
+  * [Bug Hunt](pages/bughunt.md)
+  * [Crowdin Integration](pages/crowdinintegration.md)
+  * [Simple Install](pages/simpleinstall.md)
 
 [Members](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
