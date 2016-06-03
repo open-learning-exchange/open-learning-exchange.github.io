@@ -1,6 +1,6 @@
 # Drew Perlman
 
-Houston,TX / CST<br>
+Houston, TX / CST<br>
 Windows 10 Home, Build 10240
 
 
