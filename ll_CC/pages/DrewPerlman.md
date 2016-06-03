@@ -8,7 +8,5 @@ I'm Drew, a rising sophomore at the University of Southern California studying I
 
 
 Email: drew.perlman@gmail.com
-
 Twitter: @DrewPerlman
-
 Github: (DrewPerlman)[https://github.com/DrewPerlman]
