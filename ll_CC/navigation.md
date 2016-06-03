@@ -40,6 +40,7 @@
 ---------------------------------------------------------------------------- -->
 
 [First Steps]()
+
   * # First Steps
   * [Vagrant](pages/vagrant.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
