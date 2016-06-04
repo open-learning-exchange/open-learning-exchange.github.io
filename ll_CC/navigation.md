@@ -56,7 +56,7 @@
 
 [Members](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
-[Chat](https://gitter.im/open-learning-exchange/chat)
+[Chat](pages/chat.md)
 
 <!--
   -- Change the Language
