@@ -19,15 +19,6 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Vagrant](pages/vagrant.md)
-[GitHub and Markdown](pages/githubandmarkdown.md)
-[BeLL-Apps](pages/bellapps.md)
-[GitHub Issues](pages/githubissues.md)
-[Git Repositories](pages/gitandrepositories.md)
-[Team](pages/team.md)
-[Translation](https://crowdin.com/project/open-learning-exchange/invite)
-[Chat](https://gitter.im/open-learning-exchange/chat)
-
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
@@ -47,6 +38,25 @@
 [Menu Item 3](pages/item3.md)
 
 ---------------------------------------------------------------------------- -->
+
+[First Steps]()
+
+  * [Vagrant](pages/vagrant.md)
+  * [GitHub and Markdown](pages/githubandmarkdown.md)
+  * [BeLL-Apps](pages/bellapps.md)
+  * [GitHub Issues](pages/githubissues.md)
+  * [Git Repositories](pages/gitandrepositories.md)
+  * [Nation BeLL](pages/nation.md)
+
+[Teams]()
+
+  * [Bug Hunt](pages/bughunt.md)
+  * [Crowdin Integration](pages/crowdinintegration.md)
+  * [Simple Install](pages/simpleinstall.md)
+
+[Members](pages/team.md)
+[Translation](https://crowdin.com/project/open-learning-exchange/invite)
+[Chat](pages/chat.md)
 
 <!--
   -- Change the Language
