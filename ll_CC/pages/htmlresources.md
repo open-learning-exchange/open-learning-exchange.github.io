@@ -101,15 +101,15 @@ Once you have this file, you need to add a [New Resource](http://127.0.0.1:5985/
 Set the `Open` parameter to HTML, and write the additional info required.
 In `Upload Resources` section, you need to add your `index.html` previously created.
 
-![resources](/ll_CC/pages/uploads/images/index-html-resource.png)
+![resources](uploads/images/index-html-resource.png)
 
 Then, save.
 
 You will be able to open your app now, selecting it from `Library`.
 
-![resourceinlibrary](/ll_CC/pages/uploads/images/resource-html-app.png)
+![resourceinlibrary](uploads/images/resource-html-app.png)
 
-![openhtmlapp](/ll_CC/pages/uploads/images/open-html-app.png)
+![openhtmlapp](uploads/images/open-html-app.png)
 
 ### Uploading your app through Console as Resource
 WIP
