@@ -39,9 +39,8 @@
 
 ---------------------------------------------------------------------------- -->
 
-[First Steps]()
+[First Steps](pages/firststeps.md)
 
-  * [Assignments](pages/assignments.md)
   * [Vagrant](pages/vagrant.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
   * [BeLL-Apps](pages/bellapps.md)
