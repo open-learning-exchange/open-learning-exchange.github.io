@@ -41,6 +41,7 @@
 
 [First Steps]()
 
+  * [Steps](pages/firststeps.md)
   * [Vagrant](pages/vagrant.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
   * [BeLL-Apps](pages/bellapps.md)
