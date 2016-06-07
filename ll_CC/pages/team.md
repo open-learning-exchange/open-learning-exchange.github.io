@@ -28,7 +28,7 @@
 
 [mhalqurashi](/ll_CC/#!pages/mhalqurashi.md)
 
-[alan459](/ll_CC/#!pages/Alan459.md)
+[alan459](/ll_CC/#!pages/alan459.md)
 
 [chinmayakelkar](/ll_CC/#!pages/chinmayakelkar.md)
 
