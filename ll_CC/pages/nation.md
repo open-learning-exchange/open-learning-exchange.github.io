@@ -4,7 +4,9 @@ On the community side of the BeLL, there must be a process of syncing your local
 
 There should to be constant communication between the nation and the communities. While is not necessary for remote communities in the field, it is ideal for our goals of improving the software and testing the increasing forms of communication and feedback between the nation and the communities. This communication takes the form of a syncing process from the community side where you select material to send to the nation. In this tutorial, we will be focusing on the community side almost exclusively as we will be introducing the nation side later on. 
 
-As you can see from the picture below, login using admin/password and click on "Manager".
+First, after we register your community but before you can sync with the nation, you need to create an additional dummy user on your community. In terms of the survey functionality that is discussed later, your community does not exist until it has more users than just admin/password. Therefore, create an quick additional user under "Become a Member" on the login page. Then, login and double-check that you're listed under Members. Then, log out and log back in as admin/password. Now that your community has a user, you can sync with the nation.
+ 
+It's important to point out that you need to tell us via chat that you need us to send you the survey after you sync with nation. Otherwise, no survey will appear. You should also tell us which user (whether admin or your other user) should take the survey. As you can see from the picture below, click on "Manager".
 
 ![Clicking on "Manager"](/ll_CC/pages/uploads/images/nation.md1.png)
 
@@ -18,7 +20,7 @@ Then, "Select All" and click "Send".
 
 You have now send all activities on your community to the nation. To explain further, the nation receives a number of data points: number of resources opened, number of logins, number of members, resource ratings, techincal feedback, and resource requests. We don't get specific information on individual users, but rather usage and feedback as whole. 
 
-On the nation side, you can log in as admin/password and check that the sync worked. Click on "Manager" once again.
+On the nation side ([vi.ole.org](http://vi.ole.org)), you can log in as admin/password and check that the sync worked. Click on "Manager" once again.
 
 ![Clicking on "Manager" after logging in on the nation](/ll_CC/pages/uploads/images/nation.md4.png)
 
@@ -38,4 +40,4 @@ As you can see from the image below, there is an update, a publication, and a su
 
 First, click the "Update Available" button and it will reload your homepage witha successful update message. An update refers to a new software update which improves the software. Next, click on "Publications" and sync the publication. Publications add new resources or courses to your library. 
 
-Last, click on the "Surveys" button and select to "Download" the survey. After this, your community will have new software, resources, and a survey to take. You can only add these as an administrator: a normal learner would not be able to do this. Please complete the survey and open the resource from the publication and then repeat the process of sending an activities sync to the nation.
+Last, click on the "Surveys" button and select to "Download" the survey. After this, your community will have new software, resources, and a survey to take. You can only add these as an administrator: a normal learner would not be able to do this. Please complete the survey  and open the resource from the publication and then repeat the process of sending an activities sync to the nation.
