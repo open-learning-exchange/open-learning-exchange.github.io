@@ -1,7 +1,7 @@
 [EmilyLarkin](/ll_CC/#!pages/EmilyLarkin.md)
 
 ---
-
+# Steps Completed
 [fsjoyti](/ll_CC/#!pages/fsjoyti.md)
 
 [xinglunxu](/ll_CC/#!pages/xinglunxu.md)
@@ -19,7 +19,7 @@
 [yywmm1991](/ll_CC/#!pages/yywmm1991.md)
 
 ---
-
+# Steps In Progress
 [jkesh93](/ll_CC/#!pages/jkesh93.md)
 
 [vimalababu4](/ll_CC/#!pages/vimalababu4.md)
@@ -43,7 +43,7 @@
 [AdityaNair99](/ll_CC/#!pages/AdityaNair99.md)
 
 ---
-
+# Inactive/Incomplete
 [ptruong88](/ll_CC/#!pages/ptruong88.md)
 
 [xbxme12345](/ll_CC/#!pages/xbxme12345.md)
