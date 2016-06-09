@@ -45,3 +45,7 @@ Now, your repository has been synced to the upstream/master. However, a discrepa
 Remember, you should repeatedly use the commands `git diff` and `git status` to respectively see the difference between the your username.github.io and your local repository and then see the status of your repository and the changes you have made. Once again, you need to sync your repository with the correct master first, otherwise you will not see the correct `git diff` and `git status`. `git diff` and `git status` only look between your local and username.github.io repos, not your origin/master repo. 
 
 This process needs to always be repeated when you begin work to make sure that you are always up to date. If there are discrepancies, it will mess up the code and you could potentially lose your saved changes because it was not updated properly. We will provide more information on editting and saving changes in the next tutorial. 
+
+If you find yourself needing to rebase your forked repository, the following two links should help
+[Rebase](https://git-scm.com/docs/git-rebase)
+[Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
