@@ -18,7 +18,7 @@ Then, "Select All" and click "Send".
 
 ![Clicking on "Select All" and "Send"](/ll_CC/pages/uploads/images/nation.md3.png)
 
-You have now send all activities on your community to the nation. To explain further, the nation receives a number of data points: number of resources opened, number of logins, number of members, resource ratings, techincal feedback, and resource requests. We don't get specific information on individual users, but rather usage and feedback as whole. 
+You have now sent all activities on your community to the nation. To explain further, the nation receives a number of data points: number of resources opened, number of logins, number of members, resource ratings, technical feedback, and resource requests. We don't get specific information on individual users, but rather usage and feedback as whole. 
 
 On the nation side ([vi.ole.org](http://vi.ole.org)), you can log in as admin/password and check that the sync worked. Click on "Manager" once again.
 
