@@ -17,7 +17,7 @@
 		* Download [Eclipse IDE for Java EE Developers] (https://www.eclipse.org/downloads/)
 
 
-	* Selenium WebDriver
+* Selenium WebDriver
 
 		* Download [Selenium Client & WebDriver Language Bindings (Java)] (http://www.seleniumhq.org/download/)
 
@@ -37,7 +37,7 @@
 
 		* Firefox :
 			* WebDriver driver = new FirefoxDriver();
-			
+
 		* Chrome:
 			* System.setProperty("webdriver.chrome.driver", “YOUR_PATH_TO_chromedriver.exe");
 			* WebDriver driver = new ChromeDriver();
