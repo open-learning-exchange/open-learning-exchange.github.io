@@ -9,7 +9,6 @@
 
 	* We will be using Java with Selenium WebDriver
 
-
 * Setup
 
 	* Eclipse
