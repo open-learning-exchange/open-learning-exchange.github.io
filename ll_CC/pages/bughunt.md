@@ -15,7 +15,6 @@
 	* Eclipse
 
 		* Download [Eclipse IDE for Java EE Developers] (https://www.eclipse.org/downloads/)
-		
 
 	* Selenium WebDriver
 
