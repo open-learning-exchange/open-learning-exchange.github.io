@@ -9,11 +9,13 @@
 
 	* We will be using Java with Selenium WebDriver
 
+
 * Setup
 
 	* Eclipse
 
 		* Download [Eclipse IDE for Java EE Developers] (https://www.eclipse.org/downloads/)
+
 
 	* Selenium WebDriver
 
@@ -23,14 +25,19 @@
 
 			* [Google Chrome WebDriver](https://sites.google.com/a/chromium.org/chromedriver/)
 
+
 	* Install [TestNG in Eclispe] (http://www.guru99.com/all-about-testng-and-selenium.html)
+
 	* Create a project in eclipse -> right click on the project -> Build Path -> Add External Archives -> choose all the jar files in the Selenium 
 	Client & WebDriver Language Bindings you downloaded
 
+
 * Basic Tutorial for Selenium
 	* To initialize the web driver:
+
 		* Firefox :
 			* WebDriver driver = new FirefoxDriver();
+			
 		* Chrome:
 			* System.setProperty("webdriver.chrome.driver", “YOUR_PATH_TO_chromedriver.exe");
 			* WebDriver driver = new ChromeDriver();
