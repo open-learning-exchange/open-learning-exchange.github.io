@@ -32,37 +32,64 @@
 
 
 * Basic Tutorial for Selenium
+
 	* To initialize the web driver:
+
 		* Firefox :
+
 			* WebDriver driver = new FirefoxDriver();
+
 		* Chrome:
+
 			* System.setProperty("webdriver.chrome.driver", “YOUR_PATH_TO_chromedriver.exe");
+			
 			* WebDriver driver = new ChromeDriver();
+
 	* To open an URL
+
 		* driver.get("YOUR_URL”);
+
 	* To close the browser
+
 		* driver.quit();
+
 	* To create an WebElement to save the element on the web page and interact with it later
+
 		* WebElement element = driver.findElement(By.name("q")); // it will find the element that has the name, “q”, on the current webpage
+
 		* Besides By.name, you could also use By.id, By.class, etc
+
 		* If you have trouble on finding the info about the element on the web, then you could open the web page on FireFox -> right click the element -> check element
+
 	* To interact with WebElement
+
 		* element.click(); //to click the element
+
 		* element.sendKeys(“YOUR_STRING”); // to send the string to the element. Like the search bar of Google
+
 		* [other interactions] (http://seleniumhq.github.io/selenium/docs/api/java/)
 
 * Basic Tutorial for TestNG
+
 	* @BeforeTest:  when you put this annotation above a method, the method will be executed before the whole test begin
+
 	* @Test: put this annotation above your test method
+
 	* @AfterTest: put this annotation above a cleanup method (a method that close the browser in the end,etc)
+
 	* Assert.assertEquals("String1","String2"); // Checking whether two strings are equal
+
 	* see [other asserts] (http://testng.org/javadocs/org/testng/Assert.html)
 
 * Code Convention
+
 	* To organize everyone’s the automated tests better, please try to follow the rules below
+
 		* A class = a web page
+
 		* A method = a functionality on the page
-		* Control + Shift +F on eclipse to make your code look better ;D
+
+		* Control + Shift + F on eclipse to make your code look better ;D
 
 # How to report issues
 
