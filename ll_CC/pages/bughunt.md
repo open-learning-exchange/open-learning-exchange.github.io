@@ -39,19 +39,23 @@
 
 			* WebDriver driver = new FirefoxDriver();
 
+
 		* Chrome:
 
 			* System.setProperty("webdriver.chrome.driver", “YOUR_PATH_TO_chromedriver.exe");
-			
+
 			* WebDriver driver = new ChromeDriver();
+
 
 	* To open an URL
 
 		* driver.get("YOUR_URL”);
 
+
 	* To close the browser
 
 		* driver.quit();
+
 
 	* To create an WebElement to save the element on the web page and interact with it later
 
@@ -60,6 +64,7 @@
 		* Besides By.name, you could also use By.id, By.class, etc
 
 		* If you have trouble on finding the info about the element on the web, then you could open the web page on FireFox -> right click the element -> check element
+
 
 	* To interact with WebElement
 
