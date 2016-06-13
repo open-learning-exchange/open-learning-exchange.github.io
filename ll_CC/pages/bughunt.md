@@ -4,7 +4,9 @@
 # Automating manual test cases
 
 * Selenium
+
 	* Selenium is a portable software testing framework for web applications. One of its component, Selenium WebDriver, is a server written in Java that accepts commands for the browser via HTTP. WebDriver makes it possible to write automated tests for a web application in any programming language, which allows for better integration of Selenium in existing unit test frameworks. To make writing tests easier, Selenium project currently provides client drivers for PHP, Python, Ruby, .NET, Perl and Java.
+	
 	* We will be using Java with Selenium WebDriver
 
 * Setup
