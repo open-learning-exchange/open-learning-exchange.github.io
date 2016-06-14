@@ -35,6 +35,7 @@ To run the vboxmanage --version command from your command prompt you can run the
 
 ![Environment Variable Configurations](/ll_CC/pages/uploads/images/Environment-Variables.PNG)
 
+---------------------------------------------------------------------------
 
 After installing a communityBeLL on your OS, you will need to follow these instructions to use your communityBeLL. Vagrant only works when you have installed vagrant and you are in the proper directory where your vagrant file is located. To find the proper directory, open your `Terminal` or `Command Prompt` and type `cd ole--vagrant-bells/release` in order to be in the right directory. 
 Now that you are in the right directory, check the status of vagrant with `vagrant global-status`. You should have the following message:
