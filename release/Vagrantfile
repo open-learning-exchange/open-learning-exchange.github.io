@@ -1,0 +1,225 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+# All Vagrant configuration is done below. The "2" in Vagrant.configure
+# configures the configuration version (we support older styles for
+# backwards compatibility). Please don't change it unless you know what
+# you're doing.
+Vagrant.configure(2) do |config|
+  # The most common configuration options are documented and commented below.
+  # For a complete reference, please see the online documentation at
+  # https://docs.vagrantup.com.
+
+  # Every Vagrant development environment requires a box. You can search for
+  # boxes at https://atlas.hashicorp.com/search.
+  config.vm.box = "debian/jessie64"
+  config.vm.box_version = "8.2.1"
+
+  config.vm.hostname = "ole"
+
+  config.vm.define "ole" do |ole|
+  end
+
+  config.vm.provider "virtualbox" do |vb|
+    vb.name = "ole"
+  end
+
+  # Disable automatic box update checking. If you disable this, then
+  # boxes will only be checked for updates when the user runs
+  # `vagrant box outdated`. This is not recommended.
+  # config.vm.box_check_update = false
+
+  # Create a forwarded port mapping which allows access to a specific port
+  # within the machine from a port on the host machine. In the example below,
+  # accessing "localhost:8080" will access port 80 on the guest machine.
+  # config.vm.network "forwarded_port", guest: 80, host: 8080
+  config.vm.network "forwarded_port", guest: 5985, host: 5985
+
+  # Create a private network, which allows host-only access to the machine
+  # using a specific IP.
+  # config.vm.network "private_network", ip: "192.168.33.10"
+
+  # Create a public network, which generally matched to bridged network.
+  # Bridged networks make the machine appear as another physical device on
+  # your network.
+  # config.vm.network "public_network"
+
+  # Share an additional folder to the guest VM. The first argument is
+  # the path on the host to the actual folder. The second argument is
+  # the path on the guest to mount the folder. And the optional third
+  # argument is a set of non-required options.
+  # config.vm.synced_folder "../data", "/vagrant_data"
+
+  # Provider-specific configuration so you can fine-tune various
+  # backing providers for Vagrant. These expose provider-specific options.
+  # Example for VirtualBox:
+  #
+  config.vm.provider "virtualbox" do |vb|
+  #   # Display the VirtualBox GUI when booting the machine
+  #   vb.gui = true
+  #
+  #   # Customize the amount of memory on the VM:
+    vb.memory = "1234"
+  end
+  #
+  # View the documentation for the provider you are using for more
+  # information on available options.
+
+  # Define a Vagrant Push strategy for pushing to Atlas. Other push strategies
+  # such as FTP and Heroku are also available. See the documentation at
+  # https://docs.vagrantup.com/v2/push/atlas.html for more information.
+  # config.push.define "atlas" do |push|
+  #   push.app = "YOUR_ATLAS_USERNAME/YOUR_APPLICATION_NAME"
+  # end
+
+  # Enable provisioning with a shell script. Additional provisioners such as
+  # Puppet, Chef, Ansible, Salt, and Docker are also available. Please see the
+  # documentation for more information about their specific syntax and use.
+  config.vm.provision "shell", inline: <<-SHELL
+    echo "deb http://ftp.de.debian.org/debian jessie-backports main" | sudo tee -a /etc/apt/sources.list
+    sudo aptitude update
+    sudo aptitude install -y docker.io vim vim-syntax-docker nodejs screen htop
+    # install docker couchdb
+    sudo docker pull klaemo/couchdb
+    sudo docker run -d -p 5985:5984 --name bell -v /srv/data/bell:/usr/local/var/lib/couchdb -v /srv/log/bell:/usr/local/var/log/couchdb klaemo/couchdb
+    # use crontab to start couchdb on boot
+    sudo crontab -l | sudo tee -a mycron
+    echo "@reboot sudo docker start bell" | sudo tee -a mycron
+    sudo crontab mycron
+    sudo rm mycron
+    # fix nodejs
+    cd /usr/bin
+    sudo ln -s nodejs node
+    # install BeLL-Apps
+    cd /vagrant
+    mkdir -p ole
+    cd ole
+    wget https://github.com/open-learning-exchange/BeLL-Apps/archive/0.12.10.zip
+    unzip 0.12.10.zip
+    #ln -s BeLL-Apps-* BeLL-Apps ## won't work in windows
+    #cd BeLL-Apps
+    cd BeLL-Apps-0.12.10
+    chmod +x node_modules/.bin/couchapp
+    ## check if docker is running
+    while ! curl -X GET http://127.0.0.1:5985/_all_dbs ; do
+      sleep 1
+    done
+
+    ## create databases & push design docs into them
+    for database in databases/*.js; do
+      curl -X PUT http://127.0.0.1:5985/${database:10:-3}
+      ## do in all except communities languages configurations
+      case ${database:10:-3} in
+        "communities" | "languages" | "configurations" ) ;;
+        * ) node_modules/.bin/couchapp push $database http://127.0.0.1:5985/${database:10:-3} ;;
+      esac
+    done
+
+    ## add bare minimal required data to couchdb for launching bell-apps smoothly
+    for filename in init_docs/languages/*.txt; do
+      curl -d @$filename -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/languages;
+    done
+    curl -d @init_docs/ConfigurationsDoc-Community.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/configurations
+    curl -d @init_docs/admin.txt -H "Content-Type: application/json" -X POST http://127.0.0.1:5985/members
+
+    ## fix of log file
+    curl -X PUT 'http://127.0.0.1:5985/_config/log/file' -d '"/usr/local/var/log/couchdb/couch.log"'
+
+    ## favicon.ico
+    wget https://open-learning-exchange.github.io/favicon.ico
+    mv favicon.ico /srv/data/bell/.
+    #curl -X PUT 'http://127.0.0.1:5985/_config/httpd_global_handlers/favicon.ico' -d '"{couch_httpd_misc_handlers, handle_favicon_req, \"/usr/local/var/lib/couchdb\"}"'
+    curl -X PUT 'http://127.0.0.1:5985/_config/httpd_global_handlers/favicon.ico' -d '"{couch_httpd_misc_handlers, handle_favicon_req, \\"/usr/local/var/lib/couchdb\\"}"'
+
+cat <<'EOF' > /etc/init.d/bell
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          bell
+# Required-Start:    $remote_fs $syslog
+# Required-Stop:     $remote_fs $syslog
+# Should-Start:      
+# Should-Stop:       
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: setup Bell in development sync mode
+# Description:       /vagrant/ole/BeLL-Apps over couchapp is set in sync mode so that on the outside changes
+#                    are getting pushed onto couchdb some seconds after new chnage are saved
+### END INIT INFO
+
+
+PATH=/sbin:/usr/sbin:/bin:/usr/bin
+
+. /lib/init/vars.sh
+. /lib/lsb/init-functions
+
+do_start() {
+    maxtries=30
+    while [ ! -d /vagrant/ole/BeLL-Apps-0.12.10 ];  do
+        maxtries=$((maxtries+1))
+        echo "tring to start... $maxtries/30"
+        sleep 1;
+        if [ $maxtries -eq 30 ]; then
+            exit 1
+        fi
+    done
+    cd /vagrant/ole/BeLL-Apps-0.12.10
+
+    node_modules/.bin/couchapp sync databases/activitylog.js http://127.0.0.1:5985/activitylog &
+    node_modules/.bin/couchapp sync databases/apps.js http://127.0.0.1:5985/apps &
+    node_modules/.bin/couchapp sync databases/assignmentpaper.js http://127.0.0.1:5985/assignmentpaper &
+    node_modules/.bin/couchapp sync databases/assignments.js http://127.0.0.1:5985/assignments &
+    node_modules/.bin/couchapp sync databases/calendar.js http://127.0.0.1:5985/calendar &
+    node_modules/.bin/couchapp sync databases/collectionlist.js http://127.0.0.1:5985/collectionlist &
+    node_modules/.bin/couchapp sync databases/community.js http://127.0.0.1:5985/community &
+    node_modules/.bin/couchapp sync databases/communityreports.js http://127.0.0.1:5985/communityreports &
+    node_modules/.bin/couchapp sync databases/courseschedule.js http://127.0.0.1:5985/courseschedule &
+    node_modules/.bin/couchapp sync databases/coursestep.js http://127.0.0.1:5985/coursestep &
+    node_modules/.bin/couchapp sync databases/feedback.js http://127.0.0.1:5985/feedback &
+    node_modules/.bin/couchapp sync databases/groups.js http://127.0.0.1:5985/groups &
+    node_modules/.bin/couchapp sync databases/invitations.js http://127.0.0.1:5985/invitations &
+    node_modules/.bin/couchapp sync databases/mail.js http://127.0.0.1:5985/mail &
+    node_modules/.bin/couchapp sync databases/meetups.js http://127.0.0.1:5985/meetups &
+    node_modules/.bin/couchapp sync databases/membercourseprogress.js http://127.0.0.1:5985/membercourseprogress &
+    node_modules/.bin/couchapp sync databases/members.js http://127.0.0.1:5985/members &
+    node_modules/.bin/couchapp sync databases/nationreports.js http://127.0.0.1:5985/nationreports &
+    node_modules/.bin/couchapp sync databases/publicationdistribution.js http://127.0.0.1:5985/publicationdistribution &
+    node_modules/.bin/couchapp sync databases/publications.js http://127.0.0.1:5985/publications &
+    node_modules/.bin/couchapp sync databases/report.js http://127.0.0.1:5985/report &
+    node_modules/.bin/couchapp sync databases/requests.js http://127.0.0.1:5985/requests &
+    node_modules/.bin/couchapp sync databases/resourcefrequency.js http://127.0.0.1:5985/resourcefrequency &
+    node_modules/.bin/couchapp sync databases/resources.js http://127.0.0.1:5985/resources &
+    node_modules/.bin/couchapp sync databases/shelf.js http://127.0.0.1:5985/shelf &
+    node_modules/.bin/couchapp sync databases/survey.js http://127.0.0.1:5985/survey &
+    node_modules/.bin/couchapp sync databases/surveyanswers.js http://127.0.0.1:5985/surveyanswers &
+    node_modules/.bin/couchapp sync databases/surveyquestions.js http://127.0.0.1:5985/surveyquestions &
+    node_modules/.bin/couchapp sync databases/surveyresponse.js http://127.0.0.1:5985/surveyresponse &
+    node_modules/.bin/couchapp sync databases/usermeetups.js http://127.0.0.1:5985/usermeetups &
+}
+
+case "$1" in
+    start)
+        do_start
+        ;;
+    restart|reload|force-reload)
+        echo "Error: argument '$1' not supported" >&2
+        exit 3
+        ;;
+    stop)
+        killall node
+        exit 0
+        ;;
+    status)
+        # No-op
+        exit 0
+        ;;
+    *)
+        echo "Usage: $0 start|stop" >&2
+        exit 3
+        ;;
+esac
+EOF
+    sudo chmod +x /etc/init.d/bell
+    sudo update-rc.d bell defaults
+    sudo service bell start
+  SHELL
+end
