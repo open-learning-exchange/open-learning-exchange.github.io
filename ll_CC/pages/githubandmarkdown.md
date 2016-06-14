@@ -2,7 +2,7 @@
 
 [GitHub](https://help.github.com/categories/writing-on-github/) acts as a source code management system for Open Learning Exchange. It's a very simple open source system that is easy to learn and to use. Please read some of the basic instructions below as a user manual for OLE on GitHub. 
 
-[Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software you're currently reading on that OLE uses for our Virtual intern program. Markdown (MD) Wiki allows us to use Markdown and javascript on GitHub so that it is easily compatible with our current development environment. To be explicit, Markdown is a simplified development language which allows you to format and write text. 
+[Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software you're currently reading on that OLE uses for our Virtual intern program. Markdown (MD) Wiki allows us to use Markdown and Javascript on GitHub so that it is easily compatible with our current development environment. To be explicit, Markdown is a simplified development language which allows you to format and write text. 
 Below is a screenshot of what Markdown language with a preview looks like: 
 
 ![Markdown Preview](/ll_CC/pages/uploads/images/markdown.png)
@@ -13,12 +13,12 @@ Below is a cheat sheet of Markdown so you can have more information on writing M
 
 The main GitHub page devoted to this is found at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and our virtual interns will essentially create their own Markdown Wiki page as a copy of open-learning-exchange.github.io. Please find the steps below to do this after a brief description of GitHub and its functionality. 
 
-As you have already created a username on GitHub, we can assume that you understand the basic layout and functionality. Please explore and do some basic googling if not. On GitHub, it's important to always be sure that you are working on your own GitHub page if you're editing (which you can tell based off of the name before the slash and the repositority after the slash: ex. EmilyLarkin/BeLL-Apps). All of Open Learning Exchange's work can be [found here](https://github.com/open-learning-exchange). All of the different repositories represent differnt types of software used by OLE and the repositories act as categorizing system. 
+As you have already created a username on GitHub, we can assume that you understand the basic layout and functionality. Please explore and do some basic googling if not. On GitHub, it's important to always be sure that you are working on your own GitHub page if you're editing (which you can tell based off of the name before the slash and the repository after the slash: ex. EmilyLarkin/BeLL-Apps). All of Open Learning Exchange's work can be [found here](https://github.com/open-learning-exchange). All of the different repositories represent different types of software used by OLE and the repositories act as categorizing system. 
 
 There is a lot of GitHub to learn, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example with specifically create your own <username>.github.io and allow you to edit and commit your changes. 
 
 First, you will need to find the correct GitHub repository to fork. Forking is essentially creating a copy on your own user so that you don't edit or mess up the main file. To make it easier on you, I will provide you with a link to the correct repository [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io). 
-Now you will fork the repository to your own page. Look at the picture below to find the fork button. 
+Now, you will fork the repository to your own page. Look at the picture below to find the fork button. 
 
 ![Forking on GitHub](/ll_CC/pages/uploads/images/Forking on GitHub.png)
 
