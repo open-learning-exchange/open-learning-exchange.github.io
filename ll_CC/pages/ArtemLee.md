@@ -8,7 +8,7 @@ I am an ambitious person with more than 4 years experience in software and datab
  
 Currently, I work as software and database developer in a big Kazakstan IT company. I took a key role in a variety of industrial projects using SQL, PL/SQL, Oracle, Delphi, knowledge in automated billing systems, SAP BI, report generator software, MS SQL, skills in relational database design, procedure programming and algorithms. 52 industrial projects successfully completed with my active participation. Moreover, 11 industrial projects successfully completed under my supervision.
  
-Also, I work as software developer in Swedish IT company. I took an active part in one industrial project (http://www.orbitaline.com/en/index.html) using Docker, Git, Linux, object-oriented programming, Java, Android programming, MySQL, Laravel, Composer, TDD, Behat.
+Also, I work as software developer in Swedish IT company. I took an active part in one industrial project <a href="http://www.orbitaline.com/en/index.html">Orbita Line</a> using Docker, Git, Linux, object-oriented programming, Java, Android programming, MySQL, Laravel, Composer, TDD, Behat.
  
 In addition, I would really like to work as a volunteer in the future and an internship in Open Learning Exchange is a great opportunity for me to help people from Nepal, Rwanda, Ghana, Mexico, Kenya, Jordan, and countries.
 
