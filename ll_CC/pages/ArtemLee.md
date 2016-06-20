@@ -1,8 +1,8 @@
-**Artem Lee**
+#Artem Lee
 
-**Almaty, Kazakhstan / EST+11**
+##Almaty, Kazakhstan / EST+11
 
-**Microsoft Windows 7 Ultimate, 64 bit, Service Pack 1, v. 6.1.7601 / Ubuntu 15.10, 64 bit**
+###Microsoft Windows 7 Ultimate, 64 bit, Service Pack 1, v. 6.1.7601 / Ubuntu 15.10, 64 bit
 
 I am an ambitious person with more than 4 years experience in software and database development who demonstrates good knowledge in SQL, PL/SQL, Oracle, Delphi, automated billing systems, SAP BI, report generator software, MS SQL, relational database design, Docker, Git, Linux, procedure programming and algorithms; as well as an proficiency in IT Project Management; skills in object-oriented programming, Java, Android programming, MySQL, Laravel, QA, TDD, BDD, Behat; fluency in English; excellent communication, team working skills and has master degree in IT from prestigious university.
  
