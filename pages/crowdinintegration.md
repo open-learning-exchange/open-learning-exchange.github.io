@@ -24,3 +24,9 @@ Our first process on Crowdin is to provide screenshots and context for the strin
 ![navigate to interface](/pages/uploads/images/crowdinmd9.png)
  12. Now you can search up the a string that you tagged in the screenshot, and verify that your screenshot is visible in the main interface for each of the terms you tagged. You can either scroll through the terms using the scroll bars on the left or use the arrows below the “Enter translation here” box. For each of the strings you selected on your screenshot, verify that the screenshot is correct. Use the “Edit Context” to add a more detailed description of the string.
 ![edit context](/pages/uploads/images/crowdinmd10.png)
+
+
+<figure>
+  <img src="/pages/uploads/images/crowdinmd3.png" alt="The Pulpit Rock">
+  <figcaption>Fig1. - A view of the pulpit rock in Norway.</figcaption>
+</figure>
