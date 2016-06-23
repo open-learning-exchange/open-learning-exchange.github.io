@@ -4,7 +4,7 @@ On GitHub, each repository has a section where issues can be added, discussed, a
 
 First, you will need to open an issue within the right repository and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures if possible. 
 
-![Providing detail on a new issue](/ll_CC/pages/uploads/images/newissue.png)
+![Providing detail on a new issue](/pages/uploads/images/newissue.png)
 
 After this, you will then research the possible solutions or ideas on how to address the issue and write a comment with this information, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefuly provide input (as Dogi did here) and then you can move ahead with making the proposed changes. 
 

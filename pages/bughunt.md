@@ -52,5 +52,5 @@
 
 # How to report issues
 
-* See [the previous wiki](pages/githubissues.md)
+* See [the previous wiki](githubissues.md)
 
