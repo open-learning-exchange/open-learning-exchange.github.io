@@ -33,7 +33,7 @@ To run the vboxmanage --version command from your command prompt you can run the
 
 6. Click new then browse the directory where your the executable is located and click ok
 
-![Environment Variable Configurations](/ll_CC/pages/uploads/images/Environment-Variables.PNG)
+![Environment Variable Configurations](/pages/uploads/images/Environment-Variables.PNG)
 
 ---------------------------------------------------------------------------
 
