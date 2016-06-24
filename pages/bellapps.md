@@ -12,17 +12,10 @@ As you can see from this page, [CouchDB](https://en.wikipedia.org/wiki/CouchDB) 
 
 To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html. You will be prompted with the below page:
 
-<<<<<<< HEAD:pages/bellapps.md
 ##Note:
 > In order to see the user interface of Bell Apps, you must make sure that Intel VT-x is enabled in your computer. Otherwise, you won't be able to access the user interface. For most Mac computers, Intel VT-x is enabled by default. For Windows users, to enable Intel VT-x in your computer, [click here](http://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/).
 
 ![Login Page](/pages/uploads/images/adminlogin.png)
-=======
-##A Note For Windows Users:
-> In order to see the user interface of Bell Apps, you must make sure that Intel VT-x is enabled in your computer. Otherwise, you won't be able to access the user interface. To enable Intel VT-x in your computer, [click here](http://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/).
-
-![Login Page](/ll_CC/pages/uploads/images/adminlogin.png)
->>>>>>> d2cfec95b4427e219e091644a0d52eea1820dc2b:ll_CC/pages/bellapps.md
 
 Login using the username: admin and the password: password. Following, you will be prompted with this page:
 
