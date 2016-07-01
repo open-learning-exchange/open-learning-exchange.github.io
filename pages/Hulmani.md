@@ -1,7 +1,7 @@
 ### Manoj Hulmani
 
 
-### Charlotte/EST
+### Charlotte/ EST
 
 
 ### Mac OS X 10.11.5 
