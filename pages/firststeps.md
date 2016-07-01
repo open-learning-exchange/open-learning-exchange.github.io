@@ -12,7 +12,7 @@ As you begin these steps take note of any issues that you find as you will be so
 2. Review [Vagrant instructions](vagrant.md) to ensure that you have completed last week's assignment fully. 
 3. Follow the instructions under the [BeLL-Apps tab](bellapps.md). 
 
-###Step #3: GitHub Issues Totorial:
+###Step #3: GitHub Issues Tutorial:
 1. Complete the tutorial under the [GitHub Issues tab](githubissues.md) and be sure to keep us posted in the Gitter chat.
 2. Please post as many issues as you can for improving the page as well as personal practice. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Following, do and create pull requests. Don't forget you can also comment and work on issues that you didn't create. Please pay attention that when you clone the html application you cannot run it locally (on your computer). 
 3. Spend this time getting comfortable with GitHub. The more you work and commit and push, the better your GitHub profile is. This is very important to potential employers so we encourage you to spend time to increase your numbers so that your profile is strengthened.
