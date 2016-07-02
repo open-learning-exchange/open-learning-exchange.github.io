@@ -1,5 +1,5 @@
 #Efren Cortes
-![Efren Cortes]( http://www.github.com/efrencortes315/Hello-World/blob/master/acm.jpg "ACM induction 2015")
+![Efren Cortes]( https://github.com/efrencortes315/Hello-World/blob/master/acm.jpg?raw=true "ACM induction 2015")
 ##Personal Information
   >United States
   
