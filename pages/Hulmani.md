@@ -10,7 +10,8 @@
 ```
 Hello, this is Manoj Hulmani, graduate student from Florida Institute of Technology.
 Looking to gain experince and have fun
-Fell free to ping me on whats up or text message - 650-625-7912
+
+Feel free to ping me on whats up or text message - 650-625-7912
 ```
 
 
