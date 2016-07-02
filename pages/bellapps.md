@@ -20,7 +20,7 @@ To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/
 Login using the username: admin and the password: password. Following, you will be prompted with this page:
 
 > Before hitting **"Submit Configurations"** (see image below), 
-  please take a **screenshot** and save for later to submit to us.
+  please take a **screenshot** of your entries and save for later to submit to us.
   Then click "Submit Configurations."
 
 ![Set Configurations](/pages/uploads/images/setconfigurations.png)
