@@ -27,12 +27,6 @@ You will then fill out the information as I have done. The name should be all lo
 > Before hitting **"Submit Configurations"**, 
   please take a **screenshot** and save for later to submit to us.
   Then click "Submit Configurations."
-  
-  
-> **Please dont forget to send the "screenshot of your community configurations**" (from earlier when you were submitting configurations) to [our chat](https://gitter.im/open-learning-exchange/chat). 
-
-
-``` Dogi and I will then set the configurations from the nation side so it will be connected to viBeLL. ```
 
 After submitting configurations on the community, you can now see the main dashboard of the BeLL. Please watch the videos below to show you the basic functions of your BeLL. These videos are a little old as they were created 2 years ago, but I think they will do a decent job of orienting you to the BeLL.   
 
@@ -62,4 +56,7 @@ Either right-click or control-click on the raw button and select `Save Link As..
 
 Fill out the information, although as we are just doing this as a test, accuracy of information/source of content is not very important. Just be sure to put something, even if it is your name (as I have done). The important thing is that you have something in all of the drop-down menus and you ensure that for `Open` you switch it to the correct format (PDF, mp3, or mp4). Then click `Save`. You have now uploaded the resource. I suggest finding it and making sure that you can open it to double check. Continue with all three resources. 
 
+> **Please dont forget to send the "screenshot of your community configurations**" (from earlier when you were submitting configurations) to [our chat](https://gitter.im/open-learning-exchange/chat). 
 
+
+``` Dogi and I will then set the configurations from the nation side so it will be connected to viBeLL. ```
