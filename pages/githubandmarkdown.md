@@ -20,7 +20,7 @@ There is a lot of GitHub to learn, but to acclimatize you to it, we will provide
 First, you will need to find the correct GitHub repository to fork. Forking is essentially creating a copy on your own user so that you don't edit or mess up the main file. To make it easier on you, I will provide you with a link to the correct repository [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io). 
 Now, you will fork the repository to your own page. Look at the picture below to find the fork button. 
 
-![Forking on GitHub](/pages/uploads/images/Forking on GitHub.png)
+![Forking on GitHub](/pages/uploads/images/Forking on GitHub new.png)
 
 After your fork it, you will be on your page: username/open-learning-exchange.github.io. Then go to settings at the top middle of the page and rename your repository to your name. See example below. 
 
@@ -28,7 +28,7 @@ After your fork it, you will be on your page: username/open-learning-exchange.gi
 
 Once again, it's important to distinguish now the difference between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of code, everyone forks repositories and then saves them back for approval (called a pull request) before the Open Learning Exchange code is updated. Be sure to ALWAYS work on your personal account via forking and pull requests. 
 
-Now, you can edit your files and check out your username.github.io in a web browser. To edit, click on the `II_CC` folder and then click on `pages` folder. Then, click `New File` and make the filename the exact same name as your gitter.im username (minus the @). I have created pages for you using your gitter.im chat name so it's important you stick with that name. For reference, my link to this page is EmilyLarkin.github.io/pages/EmilyLarkin.md and yours should look similar in a parallel format. 
+Now, you can edit your files and check out your username.github.io in a web browser. To edit, click on `pages` folder. Then, click `New File` and make the filename the exact same name as your gitter.im username (minus the @). I have created pages for you using your gitter.im chat name so it's important you stick with that name. For reference, my link to this page is EmilyLarkin.github.io/pages/EmilyLarkin.md and yours should look similar in a parallel format. 
 
 From this, click the pencil icon to edit (as shown below) and type your name, your location/time zone, and OS (including version). Feel free to add a short description of yourself as well so your fellow virtual interns know who you are. Then scroll down to the bottom of the page, select the `Commit directly to the master branch` radio box and click `Commit New File`. 
 
