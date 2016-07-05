@@ -47,7 +47,7 @@ We want you to practice uploading resources to the BeLL. Although there are seve
 [Here is the song "Opposite Song"](/pages/uploads/music/oppositesong.mp3)
 [Here is the video "Burka Avenger"](/pages/uploads/movies/burkaavenger.mp4) 
 
-Please click on each one of these links and you will be directed to the GitHub page. After that, you will click on the `raw` button as you see below:
+Please click on each one of these links and right click to save them.
 
 [Raw](/pages/uploads/images/raw.png)
 
