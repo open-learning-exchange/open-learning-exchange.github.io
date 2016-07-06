@@ -47,11 +47,9 @@ We want you to practice uploading resources to the BeLL. Although there are seve
 [Here is the song "Opposite Song"](/pages/uploads/music/oppositesong.mp3)
 [Here is the video "Burka Avenger"](/pages/uploads/movies/burkaavenger.mp4) 
 
-Please click on each one of these links and right click to save them.
+Please click on each one of these links and right-click to save them to your desktop. 
 
-[Raw](/pages/uploads/images/raw.png)
-
-Either right-click or control-click on the raw button and select `Save Link As...` and then save to your desktop. From there, go to your vagrantBeLL. Select `Library` from the dashboard and then select `Add a Resource`. You will then be prompted to go to this page: 
+From there, go to your vagrantBeLL. Select `Library` from the dashboard and then select `Add a Resource`. You will then be prompted to go to this page: 
 
 ![Burka Avenger Upload](/pages/uploads/images/burkaavengerupload.png)
 
