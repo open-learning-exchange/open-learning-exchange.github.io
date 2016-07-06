@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1gsDmBSq5Tu1G_Ei1CfTRUuvvwpAWUPhHYr2UYESwISI/edit?usp=sharing
 # Crowdin Integration
 ##Objectives:
 There are two objectives for this assignment:
