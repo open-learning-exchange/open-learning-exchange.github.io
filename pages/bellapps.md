@@ -57,5 +57,6 @@ Fill out the information, although as we are just doing this as a test, accuracy
 
 > Please do not forget to send the screenshot of your community configurations (from earlier when you were submitting configurations) to [our chat](https://gitter.im/open-learning-exchange/chat). 
 
-
+ In case you forgot to take the screenshot of **"Submit Configurations"** ,go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html, then click on manager, click on configurations tab and then take a screen shot.
+  
 ``` Dogi and I will then set the configurations from the nation side so it will be connected to viBeLL. ```
