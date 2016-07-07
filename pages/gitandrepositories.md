@@ -51,3 +51,5 @@ This process needs to always be repeated when you begin work to make sure that y
 If you find yourself needing to rebase your forked repository, the following two links should help
 [Rebase](https://git-scm.com/docs/git-rebase)
 [Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+
+ If you would like to understand synching with the fork, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
