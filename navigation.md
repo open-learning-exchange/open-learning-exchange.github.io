@@ -55,6 +55,7 @@
   * [Bug Hunt](pages/bughunt.md)
   * [Crowdin Integration](pages/crowdinintegration.md)
   * [Simple Install](pages/simpleinstall.md)
+  * [HTML Resources](pages/htmlresources.md)
 
 [Members](pages/team.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)

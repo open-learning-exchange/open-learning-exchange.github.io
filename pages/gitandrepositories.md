@@ -2,15 +2,17 @@
 
 On GitHub, our software code is organized by repositories which are different sections of our software development. For example, you have been working on one of the repositories: open-learning-exchange.github.io. I would strongly suggest looking (look, don't touch) through our different repositories on GitHub [here](https://github.com/open-learning-exchange). These repositories act as a categorizing system for us to organize our code. 
 
-As previously mentioned, you fork a repository to work on your own user and then send it back to the master repository in the form of a pull request to update it. You went through this process to fork open-learning-exchange.github.io and rename it to your own repository. Normally, we do not rename but as Markdown wikis are slightly different, we renamed in the repository in that example. In the future, plan on forking different repositories, working on them, then sending your work to the master/origin via pull request.  
+As previously mentioned, you fork a repository to work on your own user and then send it back to the master repository in the form of a pull request to update it. You went through this process to fork open-learning-exchange.github.io and rename it to your own repository. Normally, we do not rename but as Markdown wikis are slightly different, we renamed in the repository in that example. In the future, plan on forking different repositories, working on them, then sending your work to the master/origin via pull request. The general GitHub structure is diagrammed below.
+
+![Repositories Relationship](/pages/uploads/images/reposdiagram.png)
 
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided of the repository (seen in the picture below).
 
-![GitHub Clone URL](/ll_CC/pages/uploads/images/githubcloneurl.png)
+![GitHub Clone URL](/pages/uploads/images/githubcloneurl.png)
 
 Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.io.git` into the command line. You will use whichever URL you need to clone the proper repository; you will obviously not type mine.
 
-Now, you have created a clone of your repository on your OS. You now have three different levels of GitHub repositiory: [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io), username.github.io, and your username.github.ion on your OS. These three levels need to be constantly synced and up to date with one another as we will all be contributing to the origin/master. It's important to try to keep these separate and not mix changes between them as you will be unable to fork and git push/pull if they are very different versions. An explanation on how to keep these repositories up to date is below. 
+Now, you have created a clone of your repository on your OS. You now have three different levels of GitHub repositiory: [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io), username.github.io, and your username.github.io on your OS. These three levels need to be constantly synced and up to date with one another as we will all be contributing to the origin/master. It's important to try to keep these separate and not mix changes between them as you will be unable to fork and git push/pull if they are very different versions. An explanation on how to keep these repositories up to date is below. 
 
 As you create a fork from the original repository and then clone your forked repository onto your OS, you will need to update the fork continuously so that your fork and clone are not behind. Further, you need to sync your repository on your OS and on GitHub (username. github.io) with the master repository (open-learning-exchange.github.io). There are various ways to do this which I will detail below. 
 
@@ -49,3 +51,5 @@ This process needs to always be repeated when you begin work to make sure that y
 If you find yourself needing to rebase your forked repository, the following two links should help
 [Rebase](https://git-scm.com/docs/git-rebase)
 [Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+
+ If you would like to understand synching with the fork, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
