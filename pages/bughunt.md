@@ -1,5 +1,33 @@
+https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1
+
+## What is an Issue?
+An issue is an error, bug, flaw, failure or fault in BeLL app which causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Issues in the app should be about existing features, not about features that need to be added. Also, keep in mind that issues must be reproducible. In other words, if you describe the steps you took to get to the issue to someone else, they should get the same issue.
+
+**Some thoughts** 
+* It should be about an existing feature. Not wishing for enhancement.
+* It should be reproducible. Otherwise, your computer is the only one which suffers from this issue.
+* How did you find the issue.
+* Image/screenshots of the issue.
+* As detailed as possible.
+
 ## Writing manual test cases
-* TBD
+
+Since we are doing black-box testing, there is no need to understand the code to debug a specific functionality. We only need to know the supposed input and correct output of a functionality. Below are the steps you can follow to write manual test cases for each functionalities of the webapp.
+
+Format: 
+
+* User Goal:	// The goal of the functionality
+* Preconditions:	// The precondition of the test
+* Postconditions:	// The expected result of the test
+* Steps:
+	* step 1:	// Step one of the test
+		* Expected Output:	// The expected output for the step 1
+	* step 2:	// Step two of the test
+		* Expected Output:	// The expected output for the step 2
+	* step 3 ............
+
+**Try to test the inputs one by one. Make sure that all test cases are independent of each other and other functionalities. 
+
 
 ## Automating manual test cases
 
@@ -57,5 +85,12 @@ Install [TestNG in Eclispe] (http://www.guru99.com/all-about-testng-and-selenium
 
 ## How to report issues
 
-* See [the previous wiki](githubissues.md)
+Be aware not to pick a functionality that is under construction or is already found buggy. You will know that by looking at the Github issue queue here. https://github.com/dogi/ole--vagrant-community/issues
+ 
+If a bug is found, describe the bug in this google doc first: [BugHunt.md](https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1)
+
+* Clearly describe exactly what the bug is, the number of the test case, and the step that fail or produce unexpected output. Make sure that your description of the bug is easily understandable, and describes the issue. Feel free to use images, to supplement your description.
+* Even though the test cases already have the steps outlined. It's always a good idea to provide more detailed description and pictures to help the developer to understand the situation.
+* If you know why the issue is happening, or have a potential solution to the issue, feel free to add your thoughts to the end of the bug description, or even start working on the problem yourself.                                                         * Ask @dogi or @Emily to check your proposed bug in this google document. They will give you advice and further instructions then.
+* See [the previous wiki](githubissues.md) to see how to write a good issue
 
