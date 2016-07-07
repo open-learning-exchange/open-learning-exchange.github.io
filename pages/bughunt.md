@@ -1,3 +1,4 @@
+[Google Doc](https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?usp=sharing)
 # Writing manual test cases
 * TBD
 
