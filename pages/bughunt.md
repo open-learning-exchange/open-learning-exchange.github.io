@@ -26,7 +26,10 @@ Format:
 		* Expected Output:	// The expected output for the step 2
 	* step 3 ............
 
-**Try to test the inputs one by one. Make sure that all test cases are independent of each other and other functionalities. 
+
+[Examples](https://docs.google.com/document/d/16PCc9mVKC1T8yBHOdjeDW80uzHTPO5BEmyq0PjBbZ3I/edit) 
+
+**Make sure that all test cases are independent of each other and other functionalities. 
 
 
 ## Automating manual test cases
