@@ -1,13 +1,13 @@
-# Writing manual test cases
+## Writing manual test cases
 * TBD
 
-# Automating manual test cases
+## Automating manual test cases
 
-* Selenium
-	* Selenium is a portable software testing framework for web applications. One of its component, Selenium WebDriver, is a server written in Java that accepts commands for the browser via HTTP. WebDriver makes it possible to write automated tests for a web application in any programming language, which allows for better integration of Selenium in existing unit test frameworks. To make writing tests easier, Selenium project currently provides client drivers for PHP, Python, Ruby, .NET, Perl and Java.
-	* We will be using Java with Selenium WebDriver
+### Introduction
+	- Selenium is a portable software testing framework for web applications. One of its component, Selenium WebDriver, is a server written in Java that accepts commands for the browser via HTTP. WebDriver makes it possible to write automated tests for a web application in any programming language, which allows for better integration of Selenium in existing unit test frameworks. To make writing tests easier, Selenium project currently provides client drivers for PHP, Python, Ruby, .NET, Perl and Java.
+	- We will be using Java with Selenium WebDriver
 
-* Setup
+### Setup
 	* Eclipse
 		* Download [Eclipse IDE for Java EE Developers] (https://www.eclipse.org/downloads/)
 	* Selenium WebDriver
@@ -17,7 +17,7 @@
 	* Install [TestNG in Eclispe] (http://www.guru99.com/all-about-testng-and-selenium.html)
 	* Create a project in eclipse -> right click on the project -> Build Path -> Add External Archives -> choose all the jar files in the Selenium Client & WebDriver Language Bindings you downloaded
 
-* Basic Tutorial for Selenium
+### Basic Tutorial for Selenium
 	* To initialize the web driver:
 		* Firefox :
 			* WebDriver driver = new FirefoxDriver();
@@ -37,7 +37,7 @@
 		* element.sendKeys(“YOUR_STRING”); // to send the string to the element. Like the search bar of Google
 		* [other interactions] (http://seleniumhq.github.io/selenium/docs/api/java/)
 
-* Basic Tutorial for TestNG
+### Basic Tutorial for TestNG
 	* @BeforeTest:  when you put this annotation above a method, the method will be executed before the whole test begin
 	* @Test: put this annotation above your test method
 	* @AfterTest: put this annotation above a cleanup method (a method that close the browser in the end,etc)
@@ -50,7 +50,7 @@
 		* A method = a functionality on the page
 		* Control + Shift +F on eclipse to make your code look better ;D
 
-# How to report issues
+## How to report issues
 
 * See [the previous wiki](githubissues.md)
 
