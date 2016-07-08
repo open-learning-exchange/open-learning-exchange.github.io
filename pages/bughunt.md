@@ -1,5 +1,4 @@
 
-
 https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1
 
 ## What is an Issue?
@@ -100,3 +99,4 @@ If a bug is found, describe the bug in this google doc first: [BugHunt.md](https
 * Even though the test cases already have the steps outlined. It's always a good idea to provide more detailed description and pictures to help the developer to understand the situation.
 * If you know why the issue is happening, or have a potential solution to the issue, feel free to add your thoughts to the end of the bug description, or even start working on the problem yourself.                                                         * Ask @dogi or @Emily to check your proposed bug in this google document. They will give you advice and further instructions then.
 * See [the previous wiki](githubissues.md) to see how to write a good issue
+
