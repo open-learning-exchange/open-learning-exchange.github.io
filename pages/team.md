@@ -24,6 +24,8 @@
 
 [AdityaNair99](AdityaNair99.md)
 
+[Hulmani](Hulmani.md)
+
 ---
 # Steps In Progress
 [jkesh93](jkesh93.md)
@@ -39,3 +41,9 @@
 [mussera](mussera.md)
 
 [ArtemLee](ArtemLee.md)
+
+[khalilparker](khalilparker.md)
+
+[nshtpd](nshtpd.md)
+
+[sthak004](sthak004.md)
