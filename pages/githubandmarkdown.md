@@ -32,7 +32,7 @@ Now, you can edit your files and check out your &lt;username&gt;.github.io in a 
 
 From this, click the pencil icon to edit (as shown below) and type your name, your location/time zone, and OS (including version). Feel free to add a short description of yourself as well so your fellow virtual interns know who you are. Then scroll down to the bottom of the page, select the `Commit directly to the master branch` radio box and click `Commit New File`. 
 
-![Edit](/pages/uploads/images/Edit.png)
+![Edit](/pages/uploads/images/Edit.PNG)
 
 Now check what this looks like on your own page (username.github.io/pages/username.md). Check and double check that everything looks good and is working before initiating a pull request. 
 
