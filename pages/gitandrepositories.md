@@ -4,11 +4,11 @@ On GitHub, our software code is organized by repositories which are different se
 
 As previously mentioned, you fork a repository to work on your own user and then send it back to the master repository in the form of a pull request to update it. You went through this process to fork open-learning-exchange.github.io and rename it to your own repository. Normally, we do not rename but as Markdown wikis are slightly different, we renamed in the repository in that example. In the future, plan on forking different repositories, working on them, then sending your work to the master/origin via pull request. The general GitHub structure is diagrammed below.
 
-![Repositories Relationship](/pages/uploads/images/reposdiagram.png)
+![Repositories Relationship](uploads/images/reposdiagram.png)
 
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided of the repository (seen in the picture below).
 
-![GitHub Clone URL](/pages/uploads/images/githubcloneurl.png)
+![GitHub Clone URL](uploads/images/githubcloneurl.png)
 
 Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.io.git` into the command line. You will use whichever URL you need to clone the proper repository; you will obviously not type mine.
 
