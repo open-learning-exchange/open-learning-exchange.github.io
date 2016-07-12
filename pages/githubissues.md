@@ -8,6 +8,8 @@ First, you will need to open an issue within the right repository and explain th
 
 After this, you will then research the possible solutions or ideas on how to address the issue and write a comment with this information, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefuly provide input (as Dogi did here) and then you can move ahead with making the proposed changes. 
 
-On your own fork of the correct repository, go and make the proposed changes and commit them once you have finished. Then, request a pull request of the changes and wait until one of the OLE staff accepts the changes and pull request to merge. You can see this process [here](https://github.com/EmilyLarkin/EmilyLarkin.github.io/commit/b335125e4c9af9e4ea57b5f5fd1629845732a6c4). 
+On your own fork of the correct repository, go and make a proposed change and commit it once you have finished. Then, request a pull request of the changes and wait until one of the OLE staff accepts the changes and pull request to merge. You can see this process [here](https://github.com/EmilyLarkin/EmilyLarkin.github.io/commit/b335125e4c9af9e4ea57b5f5fd1629845732a6c4). 
 
 After this, a staff member will accept the pull request and will normally close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
+
+**NOTE**: This is an exercise to help familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
