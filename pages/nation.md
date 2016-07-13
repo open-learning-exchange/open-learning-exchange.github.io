@@ -34,10 +34,10 @@ Then, you should see a list of communities and the option to generate a report i
 
 This is the usual sync process from the community side. There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys.  
 
-As you can see from the image below, there is an update, a publication, and a survey ready for download. 
+As you can see from the image below, there is an update, a publication, and a survey ready to download. 
 
 ![Update, Publication, and Survey ready from the nation](uploads/images/nation.md7.png)
 
 First, click the "Update Available" button and it will reload your homepage with a successful update message. An update refers to a new software update which improves the software. Next, click on "Publications" and sync the publication. Publications add new resources or courses to your library. 
 
-Last, click on the "Surveys" button and click the "Download" button to download the survey. After this, your community will have new software, resources, and a survey to take. You can only add these as an administrator: a normal learner would not be able to do this. Once you complete the survey, click the "Submit" button and then repeat the process of sending an activities sync to the nation.
+Last, click on the "Surveys" button and click the "Download" button to download the survey. After this, your community will have new software, resources, and a survey to take. You can only add these as an administrator: a normal learner would not be able to do this. Once you complete the survey, click the "Submit" button and then repeat the process of sending activities to sync with the nation.
