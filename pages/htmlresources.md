@@ -1,3 +1,4 @@
+[Google Doc](https://docs.google.com/document/d/1aAzah833gWCQ2hWtGyMJLIK83nmunPJn42bnliLrxDk/edit?usp=sharing)
 ## Porting HTML App to CouchApp
 
 Prerequisites:
