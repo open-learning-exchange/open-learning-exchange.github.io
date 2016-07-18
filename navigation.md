@@ -49,7 +49,8 @@
   * [GitHub Issues](pages/githubissues.md)
   * [Git Repositories](pages/gitandrepositories.md)
   * [Nation BeLL](pages/nation.md)
-  * [Sign In](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html)
+  - - - -
+  * [Community Login](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html)
 
 [Teams]()
 
@@ -59,6 +60,7 @@
   * [HTML Resources](pages/htmlresources.md)
 
 [Members](pages/team.md)
+[FAQ](pages/faq.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 [Chat](pages/chat.md)
 
