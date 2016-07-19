@@ -1,6 +1,6 @@
 # Vagrant
 
-[Vagrant](https://www.vagrantup.com/) is open source tool for building development environments. We assume that you have followed the first instructions on README.md to install Vagrant and VirtualBox on your OS. Below you will find a shortened version on how to install this software quickly if needed as a reference. 
+[Vagrant](https://www.vagrantup.com/) is open source tool for building development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-bells) to install Vagrant and VirtualBox on your OS. Below you will find a shortened version on how to install this software quickly if needed as a reference. 
 
 ### Ubuntu
 ```
