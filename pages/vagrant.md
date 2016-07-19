@@ -97,5 +97,5 @@ or not commonly used. To see all subcommands, run the command
 ### Useful  Links
 
 [Instructions to install vagrant-README.md](https://github.com/dogi/ole--vagrant-bells)  
-[Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
-[Vagrant-wiki](https://en.wikipedia.org/wiki/Vagrant_(software))
+[Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)
+[Vagrant Downoad](https://www.vagrantup.com/downloads.html)
