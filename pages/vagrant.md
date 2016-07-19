@@ -28,7 +28,7 @@ To run the vboxmanage --version command from your command prompt you can run the
 <li>Click on Environment Variables  
 <li>Click Edit User variables  
 <li>Click new then browse the directory where your the executable is located and click ok  
-</o>
+</o>  
 
 ![Environment Variable Configurations](uploads/images/Environment-Variables.PNG)
 
@@ -98,4 +98,4 @@ or not commonly used. To see all subcommands, run the command
 
 [Instructions to install vagrant-README.md](https://github.com/dogi/ole--vagrant-bells)  
 [Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
-[Vagrant– Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
+[Vagrant-wiki](https://en.wikipedia.org/wiki/Vagrant_(software))  
