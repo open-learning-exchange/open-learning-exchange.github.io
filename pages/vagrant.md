@@ -21,17 +21,14 @@ vboxmanage --version
 ```
 To run the vboxmanage --version command from your command prompt you can run the command by going into the directory where the executable is located or you can add virtualbox to path environment variables by doing the following steps :
 
-1.Right click on Computer.
-
-2.Click on Properties
-
-3.Click on Advanced System Settings which opens up a pop up box 
-
-4.Click on Environment Variables
-
-5.Click Edit User variables
-
-6. Click new then browse the directory where your the executable is located and click ok
+<ol>
+<li>Right click on Computer  
+<li>Click on Properties  
+<li>Click on Advanced System Settings which opens up a pop up box  
+<li>Click on Environment Variables  
+<li>Click Edit User variables  
+<li>Click new then browse the directory where your the executable is located and click ok  
+</o>
 
 ![Environment Variable Configurations](uploads/images/Environment-Variables.PNG)
 
@@ -97,3 +94,8 @@ Additional subcommands are available, but are either more advanced
 or not commonly used. To see all subcommands, run the command
 `vagrant list-commands`.
 ```
+### Useful  Links
+
+[Instructions to install vagrant-README.md](https://github.com/dogi/ole--vagrant-bells)  
+[Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
+[Vagrant– Wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software))
