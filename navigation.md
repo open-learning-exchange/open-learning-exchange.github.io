@@ -49,7 +49,7 @@
   * [GitHub Issues](pages/githubissues.md)
   * [Git Repositories](pages/gitandrepositories.md)
   * [Nation BeLL](pages/nation.md)
-  - - - -
+  * [About Crowdin](https://crowdin.com)
   * [Community Login](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html)
 
 [Teams]()
