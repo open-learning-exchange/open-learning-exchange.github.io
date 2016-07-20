@@ -1,3 +1,4 @@
+[Google Doc](https://docs.google.com/document/d/1aAzah833gWCQ2hWtGyMJLIK83nmunPJn42bnliLrxDk/edit?usp=sharing)
 ## Porting HTML App to CouchApp
 
 Prerequisites:
@@ -16,6 +17,16 @@ cd couchapp
 python setup.py build
 sudo python setup.py install
 ```
+
+_Note:_
+If you get an error message, `ImportError: No module named setuptools`, then we
+need to install  [setuptools](https://pypi.python.org/pypi/setuptools) first.
+This is a [common issue](https://www.google.com/search?num=100&q=ImportError:+No+module+named+setuptools), but easily solved.
+
+The following command should take care of this:
+
+`> curl https://bootstrap.pypa.io/ez_setup.py -o - | python`
+
 
 ### Couchdb Instance
 Using the SimpleInstall script done by Group C, you should be able to get a working CouchDB instance
