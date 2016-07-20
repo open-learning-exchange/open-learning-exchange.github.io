@@ -2,7 +2,7 @@
 
 On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the BeLL and in our code. Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
 
-First, you will need to open an issue within the right repository and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures if possible. 
+First, you will need to open an issue within the right repository ([upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)) and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures if possible. 
 
 ![Providing detail on a new issue](uploads/images/newissue.png)
 
