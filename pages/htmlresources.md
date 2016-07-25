@@ -9,7 +9,9 @@ Prerequisites:
 
 
 ### Couchapp Installation
-Clone the [couchapp repository](https://github.com/couchapp/couchapp.git), build and install it. With the following commands (from a terminal):
+
+#### Linux/OSX
+Clone the [couchapp repository](https://github.com/couchapp/couchapp.git), build and install it. Run the following commands in the directory of your choice (from a terminal):
 
 ```
 git clone https://github.com/couchapp/couchapp.git 
@@ -27,6 +29,25 @@ The following command should take care of this:
 
 `> curl https://bootstrap.pypa.io/ez_setup.py -o - | python`
 
+#### Windows
+There's a good amount of prerequesites for the couchapp installation on Windows.
+
+1. Download Python [here](https://www.python.org/downloads/) (since there isn't a version of py2exe compatible with Python 3.5, you need to download Python 3.4 or less). If you use a Python installer with a UI, select the option to add Python to PATH. If not (or if that doesn't work) follow [these instructions](https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables). Test that Python is in your PATH with `which python`.
+2. Download setuptools by following the instructions for Windows [here](https://pypi.python.org/pypi/setuptools).
+3. Download py2exe by following the instructions [here](https://pypi.python.org/pypi/py2exe/0.9.2.0/) (or [here](https://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/) if you're using Python 2.7 or below).
+4. Download pywin32 [here](https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/).
+
+Once you have all of these, clone the [couchapp repository](https://github.com/couchapp/couchapp.git), build and install it. Run the following commands in the directory of your choice (from a terminal):
+
+```
+git clone https://github.com/couchapp/couchapp.git 
+cd couchapp
+python setup.py build
+python setup.py install
+```
+
+NOTE:
+Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the Gitter chat, and we'll do our best to help you.
 
 ### Couchdb Instance
 Using the SimpleInstall script done by Group C, you should be able to get a working CouchDB instance
