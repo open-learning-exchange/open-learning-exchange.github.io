@@ -122,7 +122,7 @@ Create a file: `index.html` with a redirect to the app
 index.html content
 
 ```
-<meta http-equiv="refresh" content="0; url="/testapp/_design/test/index.html*" />
+<META http-equiv="refresh" content="0;URL=/testapp/_design/test/index.html" />
 ```
 
 If you forget the URL, you can push to server (couchapp push myserver) to get.
