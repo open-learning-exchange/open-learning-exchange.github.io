@@ -115,7 +115,18 @@ http://127.0.0.1:5985/testapp/_design/test/index.html
 After this, The app will be available on the specified link. You should be able to see the database in http://127.0.0.1:5985/_utils/database.html?testapp
 
 ## Adding the app as resource to Bell App Library 
+
+### Link Library resource to CouchDB database
+The next step is to properly link a Library resource to the database containing the HTML app's data that you created.
+
+First, you need to add a [New Dummy Resource](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resource) so it's easier to copy the template for resources into the actual new resource. Set the `Open` parameter to HTML, and write the additional info required, but don't attach any files.
+
+Now we have to mess around with some things in the [CouchDB](http://127.0.0.1:5985/_utils/). For ease of viewing, make sure to change "Rows per page:" to 50 or higher. You can see the resource you just added in the database titled "resources".
+
+![newresourceincouch](uploads/images/new-couch-resource.png)
+
 ### Using redirect in index.html file
+NOTE: This is outdated and is only an improvised solution. Follow the instructions above.
 This is not really the best way to, but it works.<br>
 Create a file: `index.html` with a redirect to the app
 
