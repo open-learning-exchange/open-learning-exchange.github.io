@@ -25,5 +25,5 @@ As you begin these steps take note of any issues that you find as you will be so
 
 ###Step #5: Nation BeLL:
 1. Follow the directions under the [Nation BeLL tab](nation.md). 
-2. Please create three issues, add comments to three issues, and resolve three issues. Also, please include pull requests in your issue activity. This week, your issues should focus on ways to improve my directions to make them clearer. I gave you some stones to cross ther river but we're trying to build the bridge. 
+2. Please create three issues, add comments to three issues, and resolve three issues. Also, please include pull requests in your issue activity. This week, your issues should focus on ways to improve my directions to make them clearer. I gave you some stones to cross the river but we're trying to build the bridge. 
 3. Let us know in the Gitter chat when you're done and so that we can send you the survey/publications to your nation. 
