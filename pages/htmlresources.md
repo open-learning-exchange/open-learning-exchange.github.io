@@ -119,11 +119,29 @@ After this, The app will be available on the specified link. You should be able 
 ### Link Library resource to CouchDB database
 The next step is to properly link a Library resource to the database containing the HTML app's data that you created.
 
-First, you need to add a [New Dummy Resource](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resource) so it's easier to copy the template for resources into the actual new resource. Set the `Open` parameter to HTML, and write the additional info required, but don't attach any files.
+First, you need to add a [New Dummy Resource](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resources) so it's easier to copy the template for resources into the actual new resource. Set the `Open` parameter to HTML, and write the additional info required, but don't attach any files.
 
 Now we have to mess around with some things in the [CouchDB](http://127.0.0.1:5985/_utils/). For ease of viewing, make sure to change "Rows per page:" to 50 or higher. You can see the resource you just added in the database titled "resources".
 
-![newresourceincouch](uploads/images/new-couch-resource.png)
+![dummyresourceincouch](uploads/images/dummy-couch-resource.png)
+
+Next, go into the folder where your couchapp is located, go into the `.couchapprc` file, and change the value for `db` to ```"http://127.0.0.1:5985/resources"```. This changes the directory of the next `couchapp push` to the `resources` database. 
+
+Now we need a random `_id` value for the new Library resource. ```curl -X GET http://127.0.0.1:5985/_uuids``` will generate a random UUID. Copy that value from your command prompt/terminal and replace the value in the `_id` file with the random UUID. 
+
+![randomcouchappid](uploads/images/random-couchapp-id.png)
+
+Once these changes have been made, ```couchapp push myserver``` again. The app will be available at the URL specified.
+
+This next part is the most complicated, so make sure to pay extra attention here. Go to the [CouchDB](http://127.0.0.1:5985/_utils/) and open the *dummy resource* you made in one tab and the *app you just pushed* in another tab (both of which can be found in the "resources" database). As you can see when you compare your app and the dummy resource, the app is missing fields that are necessary for it to be usable in the Library. So now, go to the dummy resource click the "Source" tab. Click the source and copy everything from the dummy resource EXCEPT the `_id` and `_rev` fields.
+
+![dummyresourcesfieldstocopy](uploads/images/dummy-resource-fields.png)
+
+Then, go into the "Source" of your app and paste those fields below the `_rev` field. Remember to put a comma after the last line you paste (`"timesRated": 0`) and feel free to change the `title` field to the name of your app.
+
+![pastedfieldsincouchapp](uploads/images/pasted-fields.png)
+
+If you scroll down to the `_attachaments` field, you'll find an .html file called `index.html` or `main.html` or something along those lines.
 
 ### Using redirect in index.html file
 NOTE: This is outdated and is only an improvised solution. Follow the instructions above.
