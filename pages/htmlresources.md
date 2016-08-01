@@ -30,7 +30,7 @@ The following command should take care of this:
 `> curl https://bootstrap.pypa.io/ez_setup.py -o - | python`
 
 #### Windows
-There's a good amount of prerequesites for the couchapp installation on Windows.
+There's a good amount of prerequisites for the couchapp installation on Windows.
 
 1. Download Python [here](https://www.python.org/downloads/) (since there isn't a version of py2exe compatible with Python 3.5, you need to download Python 3.4 or less). If you use a Python installer with a UI, select the option to add Python to PATH. If not (or if that doesn't work) follow [these instructions](https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables). Test that Python is in your PATH with `which python`.
 2. Download setuptools by following the instructions for Windows [here](https://pypi.python.org/pypi/setuptools).
