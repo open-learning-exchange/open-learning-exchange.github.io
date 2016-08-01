@@ -125,7 +125,7 @@ Now we have to mess around with some things in the [CouchDB](http://127.0.0.1:59
 
 ![dummyresourceincouch](uploads/images/dummy-couch-resource.png)
 
-Next, go into the folder where your couchapp is located, go into the `.couchapprc` file, and change the value for `db` to ```"http://127.0.0.1:5985/resources"```. This changes the directory of the next `couchapp push` to the `resources` database. 
+Next, go into the folder on your computer where your couchapp is located, go into the `.couchapprc` file, and change the value for `db` to ```"http://127.0.0.1:5985/resources"```. This changes the directory of the next `couchapp push` to the `resources` database. 
 
 Now we need a random `_id` value for the new Library resource. ```curl -X GET http://127.0.0.1:5985/_uuids``` will generate a random UUID. Copy that value from your command prompt/terminal and replace the value in the `_id` file with the random UUID. 
 
@@ -145,7 +145,7 @@ If you scroll down to the `_attachments` field, you'll find a reference to an .h
 
 ![cutpasteindexhtml](uploads/images/cutpaste-indexhtml.png)
 
-Once you make these changes, click `Save Document`. You should now be able to find your app in the [Library!](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resources).
+Once you make these changes, click `Save Document`. You should now be able to find your app in the [Library](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resources)!
 
 ### Using redirect in index.html file
 NOTE: This is outdated and is only an improvised solution. Follow the instructions above.
