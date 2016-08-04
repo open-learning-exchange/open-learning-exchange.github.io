@@ -12,7 +12,7 @@ On your own fork of the correct repository, go and make a proposed change and co
 
 After this, a staff member will accept the pull request and will normally close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
 
-![Providing detail flowchart](uploads/images/flowchart_rep_fork_wiki.png)
+![GitHub repos flowchart](uploads/images/flowchart_rep_fork_wiki.PNG)
 
 **NOTE**: This is an exercise to help familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
