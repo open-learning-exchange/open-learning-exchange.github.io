@@ -1,6 +1,6 @@
 #Jamie Nelson
 
-#Framingham, MA/ EST
+#Framingham, MA / EST
 
 #Mac OS X v.10.11.5
 
