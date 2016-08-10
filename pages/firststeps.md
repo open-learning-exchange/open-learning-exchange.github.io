@@ -1,6 +1,8 @@
 # First Steps
 
-As you begin these steps take note of any issues that you find as you will be solving them later on.
+Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple steps before you can progress to working on harder projects in bigger teams. Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and a relieve confusion if you're unclear about how something works. Google and Stack Exchange are your friends :) We also want you to keep us updated a relatively good amount in the [Gitter chat](https://gitter.im/open-learning-exchange/chat) as you complete these steps.
+
+A very large part of these steps is finding problems with these steps and this MD wiki, so **make sure to take note of any issues that you run into while doing these steps**. Think of it as improving these steps and this MD wiki for future interns. Good luck!
 
 ###Step #1: BeLL Installation:
 1. Go to [this GitHub address](https://github.com/dogi/ole--vagrant-bells) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). It involves several steps of downloading various content to your OS so that you can use and work within our software. You should be able to scroll down to see ole--vagrant-bells, but you can also find it in the README.md file. Please do not make ANY changes to the text or files: simply read and follow the directions.
