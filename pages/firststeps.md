@@ -33,7 +33,7 @@ Follow the directions for keeping your username.github.io and your local reposit
 Follow the directions under the [Nation BeLL tab](nation.md). If you get your survey in this step, please don't fill it out or submit it before completing Step 8.
 
 ###Step #8: Create Issues and Pull Requests:
-Please create three issues, add comments to three issues, and resolve three issues by making the necessary changes in your repo. You will follow the same steps as [GitHub Issues](githubissues.md) but will be working to improve this Markdown Wiki so that it is clearer and better for future use. As you have now followed along with the Markdown Wiki thus far, you should all try to improve clarity and explanations for these steps. Learn by teaching- or editing our teaching tool in this case! Please mention the number of the issue you are fixing in the description of your pull request.
+Please create three issues, add comments to three issues, and resolve three issues by making the necessary changes in your repo. You will follow the same steps as [GitHub Issues](githubissues.md) but will be working to improve this Markdown Wiki so that it is clearer and better for future use. As you have now followed along with the Markdown Wiki thus far, you should all try to improve clarity and explanations for these steps. Learn by teaching- or editing our teaching tool in this case! When you are fixing an issue, please mention the number of the issue you are fixing in the description of your pull request.
 
 ###Step #9: Submit Survey:
 Let us know in the Gitter chat when you're done and so that we can send the survey/publications to your community. Then, fill out the survey and submit it. 
