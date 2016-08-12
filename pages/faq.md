@@ -21,7 +21,8 @@ After you finish the first 5 steps, let us know if you need us to sign some pape
 
 
 ## Technical Issues and Questions
->TBA
+*Q: How can I enable the Virtualization in order to turn vagrant on?*
+First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x", "Intel Virtualization Technology" or something similar. Enable this option, save and reset. Now the "vagrant up" command should be working fine.
 
 ## Helpful Links
 >TBA
