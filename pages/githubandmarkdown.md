@@ -20,7 +20,7 @@ There is a lot of GitHub to learn, but to acclimatize you to it, we will provide
 First, you will need to find the correct GitHub repository to fork. Forking is essentially creating a copy on your own user so that you don't edit or mess up the main file. To make it easier on you, I will provide you with a link to the correct repository [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io). 
 Now, you will fork the repository to your own page. Look at the picture below to find the fork button. 
 
-![Forking on GitHub](uploads/images/Forking on GitHub new.png)
+![Forking on GitHub](uploads/images/Forking on GitHub update.png)
 
 After your fork it, you will be on your page: &lt;username&gt;/open-learning-exchange.github.io. Then go to settings at the top middle of the page and rename your repository to your GitHub username. See example below. 
 
