@@ -1,7 +1,8 @@
 ###Ebuka Chibueze
 ### MA / EST
+### Microsoft Windows 10 Pro v. 1511
 ====
-Microsoft Windows 10 Pro v. 1511
+
 
 
  I am a computer engineering major who loves to use C# and JavaScript. I have a passion for learning and helping which is why 
