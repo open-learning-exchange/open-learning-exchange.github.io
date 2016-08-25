@@ -26,7 +26,11 @@ After your fork it, you will be on your page: &lt;username&gt;/open-learning-exc
 
 ![Renaming Repository](uploads/images/Rename Repository.png)
 
-After you rename it, make sure to post a link to the github.io website you've just created (&lt;username&gt;.github.io) in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Once again, it's important to distinguish now the difference between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of code, everyone forks repositories and then saves them back for approval (called a pull request) before the Open Learning Exchange code is updated. Be sure to ALWAYS work on your personal account via forking and pull requests. 
+After you rename it, make sure to post a link to the github.io website you've just created (&lt;username&gt;.github.io) in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
+
+![Example of github.io page](uploads/images/examplegithubio.png)
+
+Once again, it's important to distinguish now the difference between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of code, everyone forks repositories and then saves them back for approval (called a pull request) before the Open Learning Exchange code is updated. Be sure to ALWAYS work on your personal account via forking and pull requests. 
 
 Now, you can edit the files in your repo and the changes you make will be reflected on your &lt;username&gt;.github.io website. To edit, click on `pages` folder. Then, click `New File` and make the filename the exact same name as your GitHub username. I have created pages for you using your GitHub username so it's important you stick with that name. For reference, my link to this page is EmilyLarkin.github.io/pages/EmilyLarkin.md and yours should look similar in a parallel format. 
 
