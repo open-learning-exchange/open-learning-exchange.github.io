@@ -1,5 +1,5 @@
 Erin Zhao
-California ／ PDT
+California / PDT
 Mac OS X v.10.11.3
 
 Erin is a new grad student from University of Pittsburgh, majoring in Information Science. 
