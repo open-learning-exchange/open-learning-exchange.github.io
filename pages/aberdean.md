@@ -1,7 +1,9 @@
-|Antonella Bernobich          |
-|:---------------------------:|
-|Italy/CET                    |
-|Windows 10 Home v. 1511      |
+#Antonella Bernobich       
+---
+##Italy/CET 
+---
+###Windows 10 Home v. 1511
+---
 
 I am a **Junior** majoring in **Computer Science**, and I'm passionate about 
 - technology, 
