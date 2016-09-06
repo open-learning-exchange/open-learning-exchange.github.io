@@ -26,7 +26,7 @@ Follow the instructions under the [BeLL-Apps tab](bellapps.md). Once you give us
 ###Step #5: GitHub Issues Tutorial:
 Complete the tutorial under the [GitHub Issues tab](githubissues.md) and be sure to keep us posted in the Gitter chat. You should link in Gitter whenever you create an issue or when you comment on someone else's issue. Please post as many issues as you can for improving the page as well as personal practice. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Following, do and create pull requests. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile is. This is very important to potential employers so we encourage you to spend time to increase your numbers so that your profile is strengthened.
 
-###Steps #6: Keeping Fork Updated:
+###Step #6: Keeping Fork Updated:
 Follow the directions for keeping your username.github.io and your local repository up to date on [Git Repositories](gitandrepositories.md).
 
 ###Step #7: Nation BeLL:
