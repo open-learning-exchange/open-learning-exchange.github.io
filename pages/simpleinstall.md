@@ -39,7 +39,7 @@ In privious steps we need to install vagrant, virtualbox saperately. This script
 ###About Homebrew:
 * Homebrew simplifies the process of downloading,compiling and installing softwares using simple script. 
 * It is bulk installer and command line utility script which automate the process of installation on OS X operating system . 
-* Homebrew is package manager which implemented in ruby language. You can reaserch more about it by visiting http://brew.sh/ link. 
+* Homebrew is package manager which implemented in ruby language. You can research more about it by visiting http://brew.sh/ link. 
 
 ###Usefull links:
 [Homebrew](http://brew.sh/ )  
