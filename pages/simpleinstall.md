@@ -3,9 +3,9 @@
 Creating Installation processes for diffrent OS like Linux, MAC and Windows and Working on issues at https://github.com/dogi/ole--vagrant-community/issues
 
 ###Documentation :
-Documentation helps to  understand overall progress of project.
-Visit following link to learn more about it. 
+Documentation helps to  understand overall progress of project.Visit following link to learn more about it. 
 [Google Doc](https://docs.google.com/document/d/1IlC77U8ebk0IINuy78EGkXMMKtSTVDD4r_RYMXvyKkM/edit?usp=sharing)
+
 ###Prerequisites:
 * Fork ole--vagrant-community again.
 * Check out your system RAM as Multiple machines are running at same time.
@@ -16,8 +16,9 @@ Visit following link to learn more about it.
 In this project we are working on Batch programming. It is a command line script which runs commands and execute it in sequence.Here we have to create such a script as .Bat file which runs commands and complete installation process.
 
 ####Creating .bat file
-You can create .bat file by addding some commands in any editor like notpad or notepad++ and saving file with .bat extension.
-you need to learn and research different DOS commands which help us to simplifies the process of installation and achieve our objective. 
+* You can create .bat file by addding some commands in any editor like notpad or notepad++.
+* Save file with .bat extension.It will create executable file
+* you need to learn and research different DOS commands which help us to simplifies the process of installation and achieve our objective. 
 
 ####Script should perform following functionality:
 * Auto install vagrant
