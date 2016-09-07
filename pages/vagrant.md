@@ -10,7 +10,7 @@
 ### OSX
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```
-    brew install vagrant
+    brew cask install vagrant
     brew cask install virtualbox
 ```
 ### Windows
@@ -27,7 +27,7 @@ To run the vboxmanage --version command from your command prompt you can run the
 <li>Click on Advanced System Settings which opens up a pop up box  
 <li>Click on Environment Variables  
 <li>Click Edit User variables  
-<li>Click new then browse the directory where your the executable is located and click ok  
+<li>Click new then browse the directory where your executable is located and click ok  
 </o>  
 
 ![Environment Variable Configurations](uploads/images/Environment-Variables.PNG)

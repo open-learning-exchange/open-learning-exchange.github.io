@@ -42,13 +42,13 @@ Selenium is a portable software testing framework for web applications. One of i
 
 ### Setup:
 #####1. Eclipse
-Download [Eclipse IDE for Java EE Developers] (https://www.eclipse.org/downloads/)
+Download [Eclipse IDE for Java EE Developers](https://www.eclipse.org/downloads/)
 #####2. Selenium WebDriver
-Download [Selenium Client & WebDriver Language Bindings (Java)] (http://www.seleniumhq.org/download/). If you are not using FireFox to test the web app, you will also need to download the driver for specific browser. For Ex: [Google Chrome WebDriver](https://sites.google.com/a/chromium.org/chromedriver/)
+Download [Selenium Client & WebDriver Language Bindings (Java)](http://www.seleniumhq.org/download/). If you are not using FireFox to test the web app, you will also need to download the driver for specific browser. For Ex: [Google Chrome WebDriver](https://sites.google.com/a/chromium.org/chromedriver/)
 
 Create a project in eclipse -> right click on the project -> Build Path -> Add External Archives -> choose all the jar files in the **Selenium Client & WebDriver Language Bindings** you downloaded
 #####3. TestNG
-Install [TestNG in Eclispe] (http://www.guru99.com/all-about-testng-and-selenium.html).
+Install [TestNG in Eclispe](http://www.guru99.com/all-about-testng-and-selenium.html).
 
 
 ### Tutorial:

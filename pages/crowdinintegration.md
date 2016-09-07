@@ -12,7 +12,7 @@ These objectives are going to make sense as you go through the steps. Before we 
 
 ![Strings](uploads/images/strings.png)
 
-###Taggin:
+###Tagging:
 >Tagging in Crowdin is similar to tagging your friends on Facebook except here we tag strings on a screenshot.
 
 Now that you know what strings are and what tagging is, let’s show you how to accomplish the objectives above.
@@ -94,7 +94,7 @@ Now that you uploaded the screenshot, let’s tag it.
 
 ![Expanding Text Box](uploads/images/expanding_text_box.gif)
 
-2.2.5-Save your tags by clickin the Save button on the upper-right corner of the page.
+2.2.5-Save your tags by clicking the Save button on the upper-right corner of the page.
 
 #####Text Recognition Cannot Recognize a String:
 If Text Recognition cannot recognize the string on the screenshot. Follow the steps below:
@@ -116,7 +116,7 @@ You are now done with the first two objectives! Repeat these steps for half of t
 
 1- Follow steps 1.1-1.4 to get to OLE OpenBeLL Interface file.
 
-2- Go throught the list of strings, click Edit Text (see the figure below), and write good context of the strings.
+2- Go through the list of strings, click Edit Text (see the figure below), and write good context of the strings.
 
 ![Edit Context](uploads/images/edit_context.png)
 
