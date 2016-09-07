@@ -9,7 +9,7 @@ A very large part of these steps is finding problems with these steps and this M
 ###Step #0: Introductory Steps:
 1. Please send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org. 
 2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Emily](https://github.com/EmilyLarkin), [Stuart](https://github.com/sente) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository or profile page, look for these buttons in the top right of the screen. Please also follow each other to see what others in the group are doing.
-3. We use Crowdin to translate our user interface in many different languages. If you know another langauge, please go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
+3. We use Crowdin to translate our user interface in many different languages. If you know another language, please go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
 
 ###Step #1: BeLL Installation:
 Go to [this GitHub address](https://github.com/dogi/ole--vagrant-bells) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). It involves several steps of downloading various content to your OS so that you can use and work within our software. You should be able to scroll down to see ole--vagrant-bells, but you can also find it in the README.md file. Please do not make ANY changes to the text or files: simply read and follow the directions.
@@ -26,7 +26,7 @@ Follow the instructions under the [BeLL-Apps tab](bellapps.md). Once you give us
 ###Step #5: GitHub Issues Tutorial:
 Complete the tutorial under the [GitHub Issues tab](githubissues.md) and be sure to keep us posted in the Gitter chat. You should link in Gitter whenever you create an issue or when you comment on someone else's issue. Please post as many issues as you can for improving the page as well as personal practice. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Following, do and create pull requests. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile is. This is very important to potential employers so we encourage you to spend time to increase your numbers so that your profile is strengthened.
 
-###Steps #6: Keeping Fork Updated:
+###Step #6: Keeping Fork Updated:
 Follow the directions for keeping your username.github.io and your local repository up to date on [Git Repositories](gitandrepositories.md).
 
 ###Step #7: Nation BeLL:
