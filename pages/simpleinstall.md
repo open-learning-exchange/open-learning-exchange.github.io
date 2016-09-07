@@ -1,4 +1,5 @@
 ##Project Title : Simple Install
+<<<<<<< HEAD
 ###Objective : 
 Creating Installation processes for diffrent OS like Linux, MAC and Windows and Working on issues at https://github.com/dogi/ole--vagrant-community/issues
 
@@ -7,10 +8,24 @@ Documentation helps to  understand overall progress of project.Visit following l
 [Google Doc](https://docs.google.com/document/d/1IlC77U8ebk0IINuy78EGkXMMKtSTVDD4r_RYMXvyKkM/edit?usp=sharing)
 
 ###Prerequisites:
+=======
+
+Objective : 
+
+Creating Installation processes for diffrent OS like Linux, MAC and Windows and Working on issues at https://github.com/dogi/ole--vagrant-community/issues
+
+Documentation :
+
+[Google Doc](https://docs.google.com/document/d/1IlC77U8ebk0IINuy78EGkXMMKtSTVDD4r_RYMXvyKkM/edit?usp=sharing)
+
+Prerequisites:
+
+>>>>>>> upstream/master
 * Fork ole--vagrant-community again.
 * Check out your system RAM as Multiple machines are running at same time.
 * Check  out status of machine via 'vagrant global-status'.
 * Visit and research http://brew.sh/ for learning more about installation script.
+<<<<<<< HEAD
 
 ###Batch Programming:
 In this project we are working on Batch programming. It is a command line script which runs commands and execute it in sequence.Here we have to create such a script as .Bat file which runs commands and complete installation process.
@@ -47,3 +62,5 @@ In privious steps we need to install vagrant, virtualbox saperately. This script
 [Homebrew Bulk installer](http://lifehacker.com/how-to-make-your-own-bulk-app-installer-for-os-x-1586252163)  
 [Batch Scripting](http://www.tutorialspoint.com/batch_script/batch_script_overview.htm)  
 [Batch file commands](http://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)  
+=======
+>>>>>>> upstream/master
