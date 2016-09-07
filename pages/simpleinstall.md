@@ -3,7 +3,8 @@
 Creating Installation processes for diffrent OS like Linux, MAC and Windows and Working on issues at https://github.com/dogi/ole--vagrant-community/issues
 
 ###Documentation :
-Documentation helps to  understand overall progress of projects.Visit following link to learn more about it. 
+Documentation helps to  understand overall progress of project.
+Visit following link to learn more about it. 
 [Google Doc](https://docs.google.com/document/d/1IlC77U8ebk0IINuy78EGkXMMKtSTVDD4r_RYMXvyKkM/edit?usp=sharing)
 ###Prerequisites:
 * Fork ole--vagrant-community again.
@@ -32,6 +33,7 @@ you need to learn and research different DOS commands which help us to simplifie
 * It also arises the complexity overall if software have compatibility issues or dependancies.
 * Hence to automate the process of installation by runnning single script is easiest way to avoid such overhead. 
 * You do not need to install softwares saperately for settig up environment and script will install all software at once.
+In privious steps we need to install vagrant, virtualbox saperately. This script will simplifies the process and helps to configure Bell app.
 
 ###About Homebrew:
 * Homebrew simplifies the process of downloading,compiling and installing softwares using simple script. 
