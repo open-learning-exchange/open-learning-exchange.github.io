@@ -11,6 +11,8 @@ Documentation helps to  understand overall progress of project.Visit following l
 * Fork ole--vagrant-community again.
 * Check out your system RAM as Multiple machines are running at same time.
 * Check  out status of machine via 'vagrant global-status'.
+* Remember to use our `git clone`like at the beginning on MDwiki.
+* Fork and create a vagrant on your machine. Use 127.0.0.1:5984. Sync to vi again and use your same login. 
 * Visit and research http://brew.sh/ for learning more about installation script.
 
 ###Batch Programming:
@@ -42,7 +44,7 @@ In privious steps we need to install vagrant, virtualbox saperately. This script
 * It is bulk installer and command line utility script which automate the process of installation on OS X operating system . 
 * Homebrew is package manager which implemented in ruby language. You can research more about it by visiting http://brew.sh/ link. 
 
-###Usefull links:
+###Useful links:
 [Homebrew](http://brew.sh/ )  
 [Homebrew-Wiki](https://en.wikipedia.org/wiki/Homebrew_%28package_management_software%29)  
 [Homebrew Bulk installer](http://lifehacker.com/how-to-make-your-own-bulk-app-installer-for-os-x-1586252163)  
