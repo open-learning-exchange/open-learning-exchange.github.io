@@ -190,3 +190,8 @@ You will be able to open your app now, selecting it from `Library`.
 ### Uploading your app through Console as Resource
 WIP
 
+###Useful Links
+[What is Couchapp?](http://couchapp.readthedocs.io/en/latest/intro/what-is-couchapp.html)  
+[About CouchDB](http://couchdb.apache.org/)  
+[HTML5-Demos and Examples](http://html5demos.com/)  
+[HTML5 Apps-Open Source](https://github.com/leereilly/games#user-content-arcade)
