@@ -1,10 +1,8 @@
-#Susan Daiute
+# Susan Daiute
 
-Braintree, MA
+## Braintree, MA / EST
 
-Eastern Time Zone
 
-OS X El Capitan
-Version 10.11.3
+## OS X El Capitan v10.11.3
 
 I'm fairly new to development. I graduated from General Assembly's full stack immersive program in June.  I hope this internship leads to a fulltime position in Boston or on the South Shore.
