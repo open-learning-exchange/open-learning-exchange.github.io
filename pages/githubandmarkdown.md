@@ -69,3 +69,9 @@ Now check what this looks like on your own page (&lt;username&lt;.github.io/page
 
 ####Pull Request
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Then click `Create pull request` and someone from our team will then merge and allow your pull request once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
+
+###Useful links
+[Github](https://help.github.com/categories/writing-on-github/)  
+[Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md)  
+[Mastring Markdown](https://guides.github.com/features/mastering-markdown/)  
+[Git-Help-Fork](https://help.github.com/articles/fork-a-repo/)  
