@@ -9,7 +9,6 @@ A very large part of these steps is finding problems with these steps and this M
 ###Step #0: Introductory Steps:
 1. Please send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org. 
 2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Emily](https://github.com/EmilyLarkin), [Stuart](https://github.com/sente) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository or profile page, look for these buttons in the top right of the screen. Please also follow each other to see what others in the group are doing.
-
 3. We use Crowdin to translate our user interface in many different languages. If you know another language, please go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
 
 ###Step #1: BeLL Installation:
@@ -37,4 +36,4 @@ Follow the directions under the [Nation BeLL tab](nation.md). If you get your su
 Please create three issues, add comments to three issues, and resolve three issues by making the necessary changes in your repo. You will follow the same steps as [GitHub Issues](githubissues.md) but will be working to improve this Markdown Wiki so that it is clearer and better for future use. As you have now followed along with the Markdown Wiki thus far, you should all try to improve clarity and explanations for these steps. Learn by teaching- or editing our teaching tool in this case! When you are fixing an issue, please mention the number of the issue you are fixing in the description of your pull request.
 
 ###Step #9: Submit Survey:
-Let us know in the Gitter chat when you're done and so that we can send the survey/publications to your community. Then, fill out the survey and submit it.
+Let us know in the Gitter chat when you're done and so that we can send the survey/publications to your community. Then, fill out the survey and submit it. 
