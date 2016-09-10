@@ -23,12 +23,12 @@ Please find the steps below to do this after a brief description of GitHub and i
 
 ###Start here
 Summary of steps are as follows please read further instructions for more details:
-* Login to Github with Username and Password
-* Find and Fork correct repository
-* Go to setting and Rename your repository
-* Post a link of your repository in chat
-* Create new file as your personal MD WIKI Page and Commiting changes
-* Pull Request
+* Login to Github with Username and Password  
+* Find and Fork correct repository  
+* Go to setting and Rename your repository  
+* Post a link of your repository in chat  
+* Create new file as your personal MD WIKI Page and Commiting changes  
+* Pull Request  
 
 Introduction and brief description of each steps are as follows:
 ####Login to Github with Username and Password
