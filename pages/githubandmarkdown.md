@@ -22,7 +22,8 @@ The main GitHub page devoted to this is found at [open-learning-exchange/open-le
 Please find the steps below to do this after a brief description of GitHub and its functionality. 
 
 ###Start here
-Summary of steps are as follows please read further instructions for more details:
+Summary of steps are as follows please read further instructions for more details:  
+
 * Login to Github with Username and Password  
 * Find and Fork correct repository  
 * Go to setting and Rename your repository  
