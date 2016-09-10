@@ -1,4 +1,4 @@
-#GitHub and Markdown 
+#GitHub and Markdown
 ###Objective:
 * Learn Github and Markdown wiki.
 * Writing your own individual Markdown WIKI pages.
