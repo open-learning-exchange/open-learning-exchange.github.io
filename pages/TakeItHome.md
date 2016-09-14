@@ -1,10 +1,6 @@
 [Google Doc](https://docs.google.com/document/d/1JUePcj0W9mg6Ea__lakJK-Zd6ZFXchmqdbztLqIU4Cs/edit#heading=h.ieliyf4f8pjx)
 
 #Android "Take It Home" Bell application development
-## Objectives:
-1.[Project Setup](#Project Setup)
-
-2.[Understanding the flow of the android application](#Understanding the flow of the android application)
 
 ##Project Setup
 To be able to debug / repackage / build on the android mobile application, you need to:
