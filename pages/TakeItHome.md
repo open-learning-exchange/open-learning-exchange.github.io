@@ -5,7 +5,7 @@
 * 1- Project Setup
 * 2- Understanding the flow of the android application
 
-#Project Setup
+#1- Project Setup
 To be able to debug / repackage / build on the android mobile application, you need to:
 
 - download and install the most recent official IDE for android: [Android Studio](https://developer.android.com/studio/index.html) 
@@ -57,5 +57,5 @@ Navigate to into the Android studio -> Android-PBeLL and select the settings.gra
 - The emulator will be opened with application installed. You have successfully configured the development environment to get you started. 
 
 
-#Understanding the flow of the android application
+#2- Understanding the flow of the android application
 WIP
