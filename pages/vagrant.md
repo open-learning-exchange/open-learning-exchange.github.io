@@ -25,8 +25,8 @@ To run the vboxmanage --version command from your command prompt you can run the
 <li>Right click on Computer  
 <li>Click on Properties  
 <li>Click on Advanced System Settings which opens up a pop up box  
-<li>Click on Environment Variables  
-<li>Click Edit User variables  
+<li>Click on Environment Variables and use the System variables
+<li>Click Edit `Path` in the System variables 
 <li>Click new then browse the directory where your executable is located and click ok  
 </o>  
 
