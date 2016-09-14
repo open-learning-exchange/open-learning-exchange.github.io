@@ -59,6 +59,7 @@
   * [Crowdin Integration](pages/crowdinintegration.md)
   * [Simple Install](pages/simpleinstall.md)
   * [HTML Resources](pages/htmlresources.md)
+  * [Take Home](pages/TakeHome.md)
 
 [Members](pages/team.md)
 [FAQ](pages/faq.md)
