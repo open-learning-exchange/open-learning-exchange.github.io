@@ -2,10 +2,11 @@
 
 #Android "Take It Home" Bell application development
 ##Objectives:
-* 1- Project Setup
-* 2- Understanding the flow of the android application
+1.[Project Setup](#Project Setup)
 
-#Objective 1: Project Setup:
+2.[Understanding the flow of the android application](#Understanding the flow of the android application)
+
+##Project Setup<a name="Project Setup"></a>
 To be able to debug / repackage / build on the android mobile application, you need to:
 
 - download and install the most recent official IDE for android: [Android Studio](https://developer.android.com/studio/index.html) 
@@ -57,5 +58,5 @@ Navigate to into the Android studio -> Android-PBeLL and select the settings.gra
 - The emulator will be opened with application installed. You have successfully configured the development environment to get you started. 
 
 
-#2- Understanding the flow of the android application
+##Understanding the flow of the android application<a name="Understanding the flow of the android application"><a/>
 WIP
