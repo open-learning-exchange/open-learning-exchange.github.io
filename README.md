@@ -1,12 +1,18 @@
-README
-======
+What is this?
+=============
+
+See what this is all about: [http://open-learning-exchange.github.io/](http://open-learning-exchange.github.io/).
+
+How to Contribute
+=================
 
 First things first
 ------------------
 
-Learn [Markdown](https://help.github.com/articles/github-flavored-markdown)! Then check out MDwiki's [quick start](http://dynalon.github.io/mdwiki/#!quickstart.md).
+Learn [Markdown](https://help.github.com/articles/github-flavored-markdown)! Then check out MDwiki's [quick start](http://dynalon.github.io/mdwiki/#!quickstart.md) 
 
 Whenever you feel stuck, go to [MDwiki's own site](http://mdwiki.info) for further information.
+
 
 One Wiki Only? Fork It.
 -----------------------
