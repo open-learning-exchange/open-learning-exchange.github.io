@@ -14,7 +14,7 @@ As previously mentioned, you fork a repository to work on your own user and then
 ![Repositories Relationship](uploads/images/reposdiagram.png)
 
 ###Start here
-Summary of steps are as follows please read further instructions for more details:  
+Summary of steps are as follows please read further instructions for more details:
 * Clone your git repository username.github.io  
 * Read explanation to understand repositories and syncing process  
 * Configuring a remote for fork  
