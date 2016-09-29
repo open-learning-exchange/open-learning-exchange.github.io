@@ -8,4 +8,4 @@
 
 > Hi there! I am a recent graduate from Wentworth Institute of Technology.  I majored in Computer Science and minored in Computer Networking.  I am highly interested in learning new things to pursue my career within software engineering.  Most of my coding experience includes web development languages, so I'm definitely eager to learn, contribute, and experience more!
 
-Have a good day! :)
+>Have a good day! :)
