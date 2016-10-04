@@ -18,14 +18,14 @@ To be able to debug / repackage / build on the android mobile application, you n
 ---
 
 The Android Studio Setup Wizard guides you through the rest of the setup, which includes downloading Android SDK components that are required for development. 
- We only need SDK 4.4 and above. You can install as many SDK’s packages as you wish to. Not that, the packages are huge and therefore precaution must be taken with HDD available space in mind.
+ We only need SDK 4.4 and above. You can install as many SDK’s packages as you wish to. Note that the packages are huge and therefore precaution must be taken with HDD available space in mind.
 
 ![AndroidSDKManager](uploads/images/AndroidSDKManager.PNG)
 
 
-In a terminal / console of your choosing,navigate into the working directory of Android studio and git pull “Take me home“ repository. Using this address https://github.com/open-learning-exchange/Android-PBeLL.git
+In a terminal / console of your choosing, navigate into the working directory of Android studio and git pull the “take-home“ repository at https://github.com/open-learning-exchange/take-home.git
 Run Android studio. Select New from the file menu and select import project.
-Navigate to into the Android studio -> Android-PBeLL and select the settings.gradle file to import and open the project.
+Navigate to Android studio -> take-home and select the settings.gradle file to import and open the project.
 
 >@todo : 
 >http://stackoverflow.com/questions/37397810/android-studio-unable-to-run-avd
