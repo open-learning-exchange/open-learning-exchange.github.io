@@ -23,7 +23,7 @@ The Android Studio Setup Wizard guides you through the rest of the setup, which 
 ![AndroidSDKManager](uploads/images/AndroidSDKManager.PNG)
 
 
-In a terminal / console of your choosing, navigate into the working directory of Android studio and git pull the “take-home“ repository at https://github.com/open-learning-exchange/take-home.git
+In a terminal / console of your choosing, navigate into the working directory of Android studio and git clone the “take-home“ repository at https://github.com/open-learning-exchange/take-home.git
 Run Android studio. Select New from the file menu and select import project.
 Navigate to Android studio -> take-home and select the settings.gradle file to import and open the project.
 
