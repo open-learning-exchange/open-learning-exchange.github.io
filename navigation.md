@@ -41,8 +41,7 @@
 
 [First Steps]()
 
-  * [Start Here](pages/firststeps.md)
-  * [NEW Start Here](pages/newfirststeps.md)
+  * [Start Here](pages/newfirststeps.md)
   - - - -
   * [Vagrant](pages/vagrant.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
