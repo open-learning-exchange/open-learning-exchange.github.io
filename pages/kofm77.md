@@ -12,6 +12,6 @@ I respond to requests from colleagues and clients in a timely manner and am adep
 
 
 <h4>
-  |•	Email : oussema.kessentini@esprit.tn<br>
-  |•	Github : https://github.com/kofm77
+  | •	Email : oussema.kessentini@esprit.tn<br>
+  | •	Github : https://github.com/kofm77
 </h4>
