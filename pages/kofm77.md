@@ -1,9 +1,9 @@
 OUSSEM KSONTINI
 =======
-----------
+
 Grombalia- TUNISIA 
 macOS SIERRA V. 10.12
-----------
+_______
 
 >I maintain an exceedingly functional software development environment while working on diverse projects.
 >I have a knack for problem solving and work well independently and with A team. 
