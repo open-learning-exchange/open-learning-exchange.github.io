@@ -1,7 +1,7 @@
 <h1>OUSSEM KSONTINI</h1>
 
-<h2>Grombalia- TUNISIA </h2>   <h3> time: GMT+1 </h3>
-<h2>macOS SIERRA V. 10.12 </h2>
+<h2>Grombalia- TUNISIA  <br>
+macOS SIERRA V. 10.12 </h2>
 
 
 <p><h3>
@@ -12,6 +12,6 @@ I respond to requests from colleagues and clients in a timely manner and am adep
 
 
 <h2>
-  •	Email : oussema.kessentini@esprit.tn
+  •	Email : oussema.kessentini@esprit.tn<br>
   •	Github : https://github.com/kofm77
 </h2>
