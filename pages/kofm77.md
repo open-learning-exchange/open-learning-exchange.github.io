@@ -1,9 +1,8 @@
 OUSSEM KSONTINI
 =======
 
-Grombalia- TUNISIA 
--------
-macOS SIERRA V. 10.12
+##Grombalia- TUNISIA 
+##macOS SIERRA V. 10.12
 -------
 
 >I maintain an exceedingly functional software development environment while working on diverse projects.
