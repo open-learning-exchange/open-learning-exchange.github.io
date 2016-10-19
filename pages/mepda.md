@@ -2,7 +2,11 @@
 <h1>Seoul / UTC</h1>
 <h1>Windows 7 Professional</h1>
 
-<h6>Greetings! I am a Freshman at the University of the People currently Studying Computer Science. I'm still rather green, but I'm very happy
-to have learned so much in the past year, and am eager to learn more! In my free time, I like reading books and playing board games. So
-far I've just scratched the surface of Computer Science, but can already see how it's a great lens to view the world and solve problems
-with. On occasion, I like to write about my learning / life experiences in my <a href="https://smittyanddrweston.wordpress.com/"> blog </a>. I look forward to working with everyone!</h6>
+<h6>Greetings! I am a Freshman at the University of the People currently Studying Computer Science. I've taken courses in Java, Python, SQL and Database design. In the past year or so I've also picked up some web design and have used HTML/CSS and Javascript. My primary computer is a PC and my laptop is a MacBook. 
+I'm passionate about:
+<li><ul>~Technology in all it's forms</ul>
+<ul>~Learning new things</ul>
+<ul>~Teaching and improving my craft</ul>
+<ul>~Social Equality</ul></li>
+
+On occasion, I like to write about my learning / life experiences in my <a href="https://smittyanddrweston.wordpress.com/"> blog </a>. I look forward to working with everyone and helping to bring education to people around the globe!</h6>
