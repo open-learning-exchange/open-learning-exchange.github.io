@@ -4,9 +4,9 @@
 
 <h6>Greetings! I am a Freshman at the University of the People currently Studying Computer Science. I've taken courses in Java, Python, SQL and Database design. In the past year or so I've also picked up some web design and have used HTML/CSS and Javascript. My primary computer is a PC and my laptop is a MacBook. 
 I'm passionate about:
-<li><ul>~Technology in all it's forms</ul>
-<ul>~Learning new things</ul>
-<ul>~Teaching and improving my craft</ul>
-<ul>~Social Equality</ul></li>
+<li><ul>Technology in all it's forms</ul>
+<ul>Learning new things</ul>
+<ul>Teaching and improving my craft</ul>
+<ul>Social Equality</ul></li>
 
 On occasion, I like to write about my learning / life experiences in my <a href="https://smittyanddrweston.wordpress.com/"> blog </a>. I look forward to working with everyone and helping to bring education to people around the globe!</h6>
