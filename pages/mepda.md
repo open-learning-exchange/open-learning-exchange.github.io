@@ -4,7 +4,7 @@
 
 <h6>Greetings! I am a Freshman at the University of the People currently Studying Computer Science. I've taken courses in Java, Python, SQL and Database design. In the past year or so I've also picked up some web design and have used HTML/CSS and Javascript. My primary computer is a PC and my laptop is a MacBook. 
 I'm passionate about:
-
+<br>
 <li><ul>Technology in all it's forms</ul></li>
 <li><ul>Learning new things</ul></li>
 <li><ul>Teaching and improving my craft</ul></li>
