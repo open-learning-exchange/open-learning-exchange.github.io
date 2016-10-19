@@ -6,9 +6,9 @@
 I'm passionate about:
 
 
-*Technology in all it's forms
-*Learning new things
-*Teaching and improving my craft
-*Social Equality
+* Technology in all it's forms
+* Learning new things
+* Teaching and improving my craft
+* Social Equality
 
 On occasion, I like to write about my learning / life experiences in my [blog](https://smittyanddrweston.wordpress.com/). I look forward to working with everyone and helping to bring education to people around the globe!
