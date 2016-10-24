@@ -6,13 +6,13 @@
 *Hi everybody my name is **Chi** and I am a computer science student at University of the People and I hope to join you all for at OLE.*
 
 
->Lorem ipsum dolor sit amet...
+>If you want to go fast, go alone. If you want to go far, go together. -African proverb
 
-+My favorite languages:
-  -Java
-  -Chinese
-  -HTML
-  -Python
+*My favorite languages:
+  *Java
+  *Chinese
+  *HTML
+  *Python
   
   
 
