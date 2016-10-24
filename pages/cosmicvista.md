@@ -6,7 +6,7 @@
 *Hi everybody my name is **Chi** and I am a computer science student at University of the People and I hope to join you all for at OLE.*
 
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+>Lorem ipsum dolor sit amet...
 
 +My favorite languages:
   -Java
