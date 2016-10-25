@@ -65,7 +65,7 @@ From this, click the pencil icon to edit (as shown below) and type your name, yo
 
 ![Edit](uploads/images/Edit.PNG)
 
-Now check what this looks like on your own page (&lt;username&lt;.github.io/pages/&lt;username&lt;.md) and post a link to it on the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request. 
+Now check what this looks like on your own page (&lt;username&lt;.github.io/#!pages/&lt;username&lt;.md) and post a link to it on the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request. 
 
 ####Pull Request
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Then click `Create pull request` and someone from our team will then merge and allow your pull request once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
