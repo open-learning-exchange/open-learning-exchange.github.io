@@ -20,7 +20,7 @@ Then, "Select All" and click "Send".
 
 You have now sent all activities on your community to the nation. To explain further, the nation receives a number of data points: number of resources opened, number of logins, number of members, resource ratings, technical feedback, and resource requests. We don't get specific information on individual users, but rather usage and feedback as whole.
 
-> On the nation side ([vi.ole.org](http://vi.ole.org)), you can log in as admin/password and check that the sync worked. Click on "Manager" once again.
+> On the nation side ([vi.ole.org](http://vi.ole.org:5985/apps/_design/bell/MyApp/index.html)), you can log in as admin/password and check that the sync worked. Click on "Manager" once again.
 
 ![Clicking on "Manager" after logging in on the nation](uploads/images/nation.md4.png)
 
