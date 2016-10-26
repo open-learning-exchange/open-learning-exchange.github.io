@@ -1,6 +1,6 @@
 # Vagrant
 
-[Vagrant](https://www.vagrantup.com/) is open source tool for building development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-bells) to install Vagrant and VirtualBox on your OS. Below you will find a shortened version on how to install this software quickly if needed as a reference. 
+[Vagrant](https://www.vagrantup.com/) is open source tool for building development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-bells) to install Vagrant and VirtualBox on your OS. Below you will find a shortened version on how to install this software quickly if needed as a reference.
 
 ### Ubuntu
 ```
@@ -17,7 +17,7 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
 You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
 ```
 vagrant --version
-vboxmanage --version 
+vboxmanage --version
 ```
 To run the vboxmanage --version command from your command prompt you can run the command by going into the directory where the executable is located or you can add virtualbox to path environment variables by doing the following steps :
 
@@ -26,7 +26,7 @@ To run the vboxmanage --version command from your command prompt you can run the
 <li>Click on Properties  
 <li>Click on Advanced System Settings which opens up a pop up box  
 <li>Click on Environment Variables and use the System variables
-<li>Click Edit `Path` in the System variables 
+<li>Click Edit `Path` in the System variables
 <li>Click new then browse the directory where your executable is located and click ok  
 </o>  
 
@@ -34,7 +34,7 @@ To run the vboxmanage --version command from your command prompt you can run the
 
 ---------------------------------------------------------------------------
 
-After installing a communityBeLL on your OS, you will need to follow these instructions to use your communityBeLL. Vagrant only works when you have installed vagrant and you are in the proper directory where your vagrant file is located. To find the proper directory, open your `Terminal` or `Command Prompt` and type `cd ole--vagrant-bells/release` in order to be in the right directory. 
+After installing a communityBeLL on your OS, you will need to follow these instructions to use your communityBeLL. Vagrant only works when you have installed vagrant and you are in the proper directory where your vagrant file is located. To find the proper directory, open your `Terminal` or `Command Prompt` and type `cd ole--vagrant-bells/release` in order to be in the right directory.
 Now that you are in the right directory, check the status of vagrant with `vagrant global-status`. You should have the following message:
 
 ```
@@ -51,7 +51,7 @@ with Vagrant commands from any directory. For example:
 ```
 If you have a different message, your vagrant is powered off, you have multiple machines of the same name, or you have another technical issue.
 
-If your vagrant is powered off, use `vagrant up` to turn it on. To shut down your machine, use `vagrant halt`. These two commands require that you are in the right directory. To destroy your machine entirely, use `vagrant destroy`. Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a communityBeLL if you wish to use it. It requires that you enter your password and this is not undoable. 
+If your vagrant is powered off, use `vagrant up` to turn it on. To shut down your machine, use `vagrant halt`. These two commands require that you are in the right directory. To destroy your machine entirely, use `vagrant destroy`. Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a communityBeLL if you wish to use it. It requires that you enter your password and this is not undoable.
 
 We suggest doing some light googling to tell you more about the background and commands of vagrant. Use `vagrant --help` for other commands that you may need. See `vagrant --help` below:
 
@@ -100,3 +100,6 @@ or not commonly used. To see all subcommands, run the command
 [Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
 [Vagrant Downoad](https://www.vagrantup.com/downloads.html)  
 [Vagrant-Wiki](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
+
+
+#### [Step 3](firststeps.md)
