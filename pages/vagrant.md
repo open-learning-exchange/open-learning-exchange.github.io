@@ -1,46 +1,28 @@
 # Vagrant
 
-[Vagrant](https://www.vagrantup.com/) is open source tool for building development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-bells) to install Vagrant and VirtualBox on your OS. Below you will find a shortened version on how to install this software quickly if needed as a reference.
+[Vagrant](https://www.vagrantup.com/) is an open source tool to build development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-vi) to install Vagrant and VirtualBox on your OS. Below, you will find a shortened version on how to install this software quickly if needed as a reference.
 
 ### Ubuntu
 ```
     sudo apt-get install virtualbox
     sudo apt-get install vagrant
 ```
-### OSX
+### MacOS(X)
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```
     brew cask install vagrant
     brew cask install virtualbox
 ```
-### Windows
-You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
-```
-vagrant --version
-vboxmanage --version
-```
-To run the vboxmanage --version command from your command prompt you can run the command by going into the directory where the executable is located or you can add virtualbox to path environment variables by doing the following steps :
-
-<ol>
-<li>Right click on Computer  
-<li>Click on Properties  
-<li>Click on Advanced System Settings which opens up a pop up box  
-<li>Click on Environment Variables and use the System variables
-<li>Click Edit `Path` in the System variables
-<li>Click new then browse the directory where your executable is located and click ok  
-</o>  
-
-![Environment Variable Configurations](uploads/images/Environment-Variables.PNG)
 
 ---------------------------------------------------------------------------
 
-After installing a communityBeLL on your OS, you will need to follow these instructions to use your communityBeLL. Vagrant only works when you have installed vagrant and you are in the proper directory where your vagrant file is located. To find the proper directory, open your `Terminal` or `Command Prompt` and type `cd ole--vagrant-bells/release` in order to be in the right directory.
-Now that you are in the right directory, check the status of vagrant with `vagrant global-status`. You should have the following message:
+After installing a community BeLL on your OS, you will need to follow these instructions to use your community BeLL. Vagrant only works when you are in the same directory where your Vagrantfile is located. To make sure you are in the proper directory, open your `Terminal` and type `cd ole--vagrant-vi`.
+Now that you are in the right directory, check the status of your Vagrant machine with `vagrant global-status`. You should have the following message:
 
 ```
 id       name   provider   state   directory
 ---------------------------------------------------------------------------
-2198a3d  ole    virtualbox running /Users/Emily/ole--vagrant-bells/release
+2198a3d  ole    virtualbox running /Users/Emily/ole--vagrant-vi
 
 The above shows information about all known Vagrant environments
 on this machine. This data is cached and may not be completely
@@ -49,11 +31,11 @@ that directory and run Vagrant, or you can use the ID directly
 with Vagrant commands from any directory. For example:
 "vagrant destroy 1a2b3c4d"
 ```
-If you have a different message, your vagrant is powered off, you have multiple machines of the same name, or you have another technical issue.
+If you have a different message, either your Vagrant machine is powered off, or you have multiple machines with the same name, or you are experiencing some other technical issue.
 
-If your vagrant is powered off, use `vagrant up` to turn it on. To shut down your machine, use `vagrant halt`. These two commands require that you are in the right directory. To destroy your machine entirely, use `vagrant destroy`. Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a communityBeLL if you wish to use it. It requires that you enter your password and this is not undoable.
+If your Vagrant machine is powered off, use `vagrant up` to turn it on. To shut down your machine, use `vagrant halt`. Both of these commands need to be issued within the right directory. To destroy your machine entirely, use `vagrant destroy`. Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.
 
-We suggest doing some light googling to tell you more about the background and commands of vagrant. Use `vagrant --help` for other commands that you may need. See `vagrant --help` below:
+We suggest doing some light googling to find out more about the background and commands of vagrant. Use `vagrant --help` for other commands that you may need. See `vagrant --help` below:
 
 ```
 Usage: vagrant [options] <command> [<args>]
@@ -96,10 +78,11 @@ or not commonly used. To see all subcommands, run the command
 ```
 ### Useful  Links
 
-[Instructions to install vagrant-README.md](https://github.com/dogi/ole--vagrant-bells)  
+[Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)  
 [Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
-[Vagrant Downoad](https://www.vagrantup.com/downloads.html)  
-[Vagrant-Wiki](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
+[Vagrant download](https://www.vagrantup.com/downloads.html)  
+[Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
+[Other helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
 
    
 ####Return to [First Steps](firststeps.md)
