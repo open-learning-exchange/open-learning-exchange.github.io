@@ -34,7 +34,7 @@ Then, you should see a list of communities and the option to generate a report i
 
 This is the usual sync process from the community side. There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys.  
 
-As you can see from the image below, there is an update, a publication, and a survey ready for download.
+As you can see from the image below, there is an update, a publication, and a survey ready for download. Don't worry if you don't see the release notes button, the image below is just to illustrate all buttons you might possibly see.
 
 ![Update, Publication, and Survey ready from the nation](uploads/images/nation.md7.png)
 
