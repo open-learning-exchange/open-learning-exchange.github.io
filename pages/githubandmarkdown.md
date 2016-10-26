@@ -15,7 +15,6 @@ Below is a screenshot of what Markdown language with a preview looks like:
 ![Markdown Preview](uploads/images/markdown.png)
 
 #### Markdown != HTML
-Looking at the cheat sheet below, notice that the code on the left is Markdown, and it's HTML equivalent is on the right.
 
 Below is a cheat sheet of Markdown so you can have more information on writing MD on your individual Markdown Wiki pages (Looking at the cheat sheet below, notice that the code on the left is Markdown, and its HTML equivalent is on the right.):
 
