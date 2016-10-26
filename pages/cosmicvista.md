@@ -8,11 +8,11 @@
 
 >If you want to go fast, go alone. If you want to go far, go together. -African proverb
 
-#*My favorite languages:
-  1.Java
-  2.Chinese
-  3.HTML
-  4.Python
+#My favorite languages:
+  #1.Java
+  #2.Chinese
+  #3.HTML
+  #4.Python
   
   
 
