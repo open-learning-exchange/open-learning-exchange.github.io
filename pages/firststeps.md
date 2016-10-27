@@ -37,4 +37,3 @@ Please create three issues, add comments to three other issues, and resolve thre
 
 ###Step #9: Submit Survey:
 Let us know in the Gitter chat when you're done, so we can send the survey to your community. Then, fill out the survey and submit it. Lastly, sync your community with the nation (as you did in step 7).
-
