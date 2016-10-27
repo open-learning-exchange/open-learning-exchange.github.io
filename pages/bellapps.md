@@ -54,7 +54,7 @@ We advise you to play around a bit, as well. Please, try to explore and feel com
 
 We also want you to practice uploading resources to the BeLL. Although there are several different kinds of resources, most of them are either PDFs, mp3s, or mp4s. We provided you with some resources (linked below) that you can download and then upload to your BeLL.
 
-[Here is the first page of the PDF "Feelings"](uploads/images/feelings.pdf)
+[Here is the first page of the PDF "Feelings"](uploads/pdf/feelings.pdf)
 [Here is the song "Opposite Song"](uploads/music/oppositesong.mp3)
 [Here is the video "Burka Avenger"](uploads/movies/burkaavenger.mp4)
 
