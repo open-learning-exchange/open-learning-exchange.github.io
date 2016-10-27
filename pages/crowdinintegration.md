@@ -33,7 +33,7 @@ There are two major steps to accomplishing this objective which encompasses smal
 
 1.3- After you choose a language, click on OLE OpenBeLL Interface file. See the figure below.
 
-![OLE Interface File](uploads/images/tranlation_page.png)
+![OLE Interface File](uploads/images/translation_page.png)
 
 1.4- When you click on the file, the list of strings will be on the left side of the page. Note that there are 15 pages in the list. See the figure below.
 
