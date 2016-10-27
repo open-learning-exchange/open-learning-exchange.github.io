@@ -64,7 +64,7 @@ Now, you can edit the files in your repo and the changes you make will be reflec
 
 From here, click the pencil icon to edit (as shown below) and type your name, your location/time zone, and OS (including version). Please, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Then, scroll down to the bottom of the page, select the `Commit directly to the master branch` radio box and click `Commit New File`.
 
-![Edit](uploads/images/Edit.PNG)
+![Edit](uploads/images/Edit.png)
 
 Now, check what this looks like on your own page (&lt;username&lt;.github.io/#!pages/&lt;username&lt;.md) and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
