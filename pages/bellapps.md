@@ -36,7 +36,10 @@ Then, click on the **"Register"** button and you will receive a confirmation tha
 
 ![Successfully Registered](uploads/images/success.png)
 
-Then, post the screenshot you took earlier to the Gitter chat, so an admin can accept your registration request.
+Then, post to the Gitter chat the screenshot you took earlier, so an admin can accept your registration request.
+When your registration request will be accepted from the nation side, as long as you are logged in and online, you will see the following message.
+
+![Community Accepted into the Nation](uploads/images/registration_accepted.png)  
 
 After submitting your configurations, you will be able to see the main dashboard of the BeLL. 
 
