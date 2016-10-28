@@ -43,7 +43,8 @@
 
   * [Start Here](pages/firststeps.md)
   - - - -
-  * [Vagrant](pages/vagrant.md)
+  * [Vagrant (MacOS(X)/Ubuntu)](pages/vagrant.md)
+  * [Vagrant (Windows)](pages/vagrantwin.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
   * [BeLL-Apps](pages/bellapps.md)
   * [GitHub Issues](pages/githubissues.md)

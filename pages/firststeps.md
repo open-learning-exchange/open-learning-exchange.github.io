@@ -16,8 +16,11 @@ A very large part of these steps is finding problems with these steps and this M
 ###Step #1: BeLL Installation:
 Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). You can either scroll down to see the instructions or you can also find them in the README.md file. Please, do not make ANY changes to the text or files: simply read and follow the directions for your operating system.
 
-###Step #2: Vagrant Tutorial (for MacOS(X) and Ubuntu users ONLY):
-Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step.
+###Step #2: Vagrant Tutorial:
+####Windows 
+Please, review these [Vagrant instructions](vagrantwin.md) to get familiar with Vagrant, since you will need to use it during your internship.
+####MacOS(X) and Ubuntu
+Please, review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step.
 
 ###Step #3: Markdown and Fork Tutorial:
 Follow the instructions on the [GitHub and Markdown page](githubandmarkdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/&lt;username&gt;.md).
