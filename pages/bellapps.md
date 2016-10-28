@@ -73,4 +73,8 @@ Fill out the information, although as we are just doing this as a test, accuracy
 
 In case you forgot to take the screenshot of your configurations, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html, then click on manager, click on the configurations tab, take a screenshot of the page, and submit it to the Gitter chat.
 
+###Useful Links
+
+[Helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+
 ####Return to [First Steps](firststeps.md)

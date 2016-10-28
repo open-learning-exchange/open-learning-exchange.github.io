@@ -22,7 +22,7 @@ Now that you are in the right directory, check the status of your Vagrant machin
 ```
 id       name   provider   state   directory
 ---------------------------------------------------------------------------
-2198a3d  ole    virtualbox running /Users/Emily/ole--vagrant-vi
+2198a3d  vi     virtualbox running /Users/Emily/ole--vagrant-vi
 
 The above shows information about all known Vagrant environments
 on this machine. This data is cached and may not be completely
