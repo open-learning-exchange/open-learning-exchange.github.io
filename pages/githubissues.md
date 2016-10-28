@@ -8,13 +8,16 @@ First, you will need to open an issue within the right repository ([upstream rep
 
 After this, you will then research the possible solutions or ideas on how to address the issue and write a comment with this information, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefully provide input (as Dogi did here) and then you can move ahead with making the proposed changes.
 
-On your own fork of the correct repository, go and make a proposed change and commit it once you have finished. Then, request a pull request of the changes and wait until one of the OLE staff accepts the changes and pull request to merge. You can see this process [here](https://github.com/EmilyLarkin/EmilyLarkin.github.io/commit/b335125e4c9af9e4ea57b5f5fd1629845732a6c4).
+On your own fork of the correct repository, go and make a proposed change and commit it once you have finished. Then, open a pull request with your changes and please, remember to include the issue it is solving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request). Next, wait until one of the OLE staff accepts the changes and merges your pull request. You can see this process [here](https://github.com/EmilyLarkin/EmilyLarkin.github.io/commit/b335125e4c9af9e4ea57b5f5fd1629845732a6c4).
 
-After this, a staff member will accept the pull request and will normally close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
+Please, be aware that a staff member may either submit a code review asking you to modify some of your changes, or accept the pull request and close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
 
-![GitHub repos flowchart](uploads/images/flowchart_rep_fork_wiki.PNG)
+![GitHub repos flowchart](uploads/images/flowchart_rep_fork_wiki.png)
 
-**NOTE**: This is an exercise to help familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
+**NOTE**: This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
+###Useful Links
+
+[Helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
 
 ####Return to [First Steps](firststeps.md)
