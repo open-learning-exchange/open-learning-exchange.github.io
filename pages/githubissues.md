@@ -19,6 +19,7 @@ Please, be aware that a staff member may either submit a code review asking you 
 ###Useful Links
 
 [Helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+
 [Mastering Issues](https://guides.github.com/features/issues/)
 
 ####Return to [First Steps](firststeps.md)
