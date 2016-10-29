@@ -16,9 +16,9 @@ As previously mentioned, you fork a repository to work on your own GitHub accoun
 ###Start here
 This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.
 
-* [Clone your GitHub repository username.github.io](gitandrepositories.md#Sync_your_fork) 
-* [Read the explanation to understand repositories and syncing process](gitandrepositories.md#Sync_your_fork)   
-* [Configure a remote for your fork](gitandrepositories.md#Sync_your_fork)   
+* [Clone your GitHub repository username.github.io](gitandrepositories.md#Clone_your_GitHub_repository_username.github.io) 
+* [Read the explanation to understand repositories and syncing process](gitandrepositories.md#Explanation_about_repositories_and_syncing_process)   
+* [Configure a remote for your fork](gitandrepositories.md#Configure_a_remote_for_your_fork)   
 * [Sync your fork](gitandrepositories.md#Sync_your_fork)    
 
 ####Clone your GitHub repository username.github.io
