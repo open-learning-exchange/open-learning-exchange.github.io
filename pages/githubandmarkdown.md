@@ -5,7 +5,7 @@
 * Understanding the Github workflow (including forks, repositories, commits, and pull requests).
 
 ###Prerequisites :
-You must already have a GitHub account.
+You must already have a GitHub account with verified email address.
 
 [GitHub](https://help.github.com/categories/writing-on-github/) acts as a source code management system for Open Learning Exchange. Please, read some of the basic instructions below to learn how we use GitHub at OLE.
 
