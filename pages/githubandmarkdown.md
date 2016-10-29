@@ -25,12 +25,12 @@ The main GitHub page used to store this MD Wiki can be found at [open-learning-e
 ###Start here
 This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.  
 
-* Login to Github with your username and password  
-* Find and fork the correct repository  
-* Go to Settings and rename your repository  
-* Post a link to your repository in chat  
-* Create a new file as your personal MD Wiki page and commit your changes  
-* Open a pull request  
+* [Login to Github with your username and password](githubandmarkdown.md#Login_to_Github_with_your_username_and_password)
+* [Find and fork the correct repository](githubandmarkdown.md#Find_and_fork_the_correct_repository)
+* [Go to Settings and rename your repository](githubandmarkdown.md#Go_to_Settings_and_rename_your_repository)
+* [Post a link to your repository in chat](githubandmarkdown.md#Post_a_link_to_your_repository_in_chat)
+* [Create a new file as your personal MD Wiki page and commit your changes](githubandmarkdown.md#Create_a_new_file_as_your_personal_MD_Wiki_page_and_commit_your_changes)
+* [Open a pull request](githubandmarkdown.md#Open_a_pull_request)  
 
 ####Login to Github with your username and password
 Since you have already created a username on GitHub, we can assume that you understand the basic layout and functionality. If you don't, please, explore and do some basic googling. When you're editing on GitHub, it is important to always make sure you are working on your own GitHub repository. To that end, make sure there is your own username before the slash and the correct repository after the slash. For example, EmilyLarkin/BeLL-Apps). All of Open Learning Exchange's work can be [found here](https://github.com/open-learning-exchange). All the different repositories represent different types of software used by OLE, and the repositories act as categorizing system.
