@@ -20,7 +20,7 @@ To be able to debug / repackage / build on the android mobile application, you n
 The Android Studio Setup Wizard guides you through the rest of the setup, which includes downloading Android SDK components that are required for development. 
  We only need SDK 4.4 and above. You can install as many SDK’s packages as you wish to. Note that the packages are huge and therefore precaution must be taken with HDD available space in mind.
 
-![AndroidSDKManager](uploads/images/AndroidSDKManager.PNG)
+![AndroidSDKManager](uploads/images/AndroidSDKManager.png)
 
 
 In a terminal / console of your choosing, navigate into the working directory of Android studio and git clone the “take-home“ repository at https://github.com/open-learning-exchange/take-home.git
@@ -33,23 +33,23 @@ Navigate to Android studio -> take-home and select the settings.gradle file to i
 
 - Click on the run button located at the top of your IDE. You will be prompted to Select Deployment Target. Select “Create New Emulator” button.
 
-![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.PNG)
+![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
 
 - Select a device definition from the list provided and click the next button
            
-![AndroidHardwareSelection](uploads/images/AndroidHardwareSelection.PNG)
+![AndroidHardwareSelection](uploads/images/AndroidHardwareSelection.png)
 
 - Select system image from the list shown. API Level 22 and above works best. Preferably, choose 22 with Android 5.1. Click next to continue.
 	
-![AndroidMarshmellowSystem](uploads/images/AndroidMarshmellowSystem.PNG)
+![AndroidMarshmellowSystem](uploads/images/AndroidMarshmellowSystem.png)
 
 - Name the emulator and specify the necessary configuration as shown below. Click on finish to save the emulator. 
 	
-![AndroidVirtualDevice](uploads/images/AndroidVirtualDevice.PNG)
+![AndroidVirtualDevice](uploads/images/AndroidVirtualDevice.png)
 
 - You will be presented with the “Select Deployment Target” dialogue again . Choose the emulator we just created and click on the “OK” button.
 
-![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.PNG)
+![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
 
 - The emulator will be opened with application installed. You have successfully configured the development environment to get you started. 
 

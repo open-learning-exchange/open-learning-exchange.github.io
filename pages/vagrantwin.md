@@ -1,28 +1,15 @@
 # Vagrant
 
-[Vagrant](https://www.vagrantup.com/) is an open source tool to build development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-vi) to install Vagrant and VirtualBox on your OS. Below, you will find a shortened version on how to install this software quickly if needed as a reference.
+[Vagrant](https://www.vagrantup.com/) is an open source tool to build development environments. In the previous step, you followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-vi) to install a BeLL virtual machine on your system. You may have noticed that one of the programs listed as dependencies was Vagrant.
 
-### Ubuntu
-```
-    sudo apt-get install virtualbox
-    sudo apt-get install vagrant
-```
-### MacOS(X)
-Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
-```
-    brew cask install vagrant
-    brew cask install virtualbox
-```
+We use Vagrant to power up our BeLL virtual machine. While this is done automatically (behind the scenes, as it were), it is useful for you to understand how to use Vagrant, because during your internship you may have to use it manually.
 
----------------------------------------------------------------------------
-
-After installing a community BeLL on your OS, you will need to follow these instructions to use your community BeLL. Vagrant only works when you are in the same directory where your Vagrantfile is located. To make sure you are in the proper directory, open your `Terminal` and type `cd ole--vagrant-vi`.
-Now that you are in the right directory, check the status of your Vagrant machine with `vagrant global-status`. You should have the following message:
+First of all, Vagrant only works if you are in the correct directory, which is a directory that includes a file called Vagrantfile. In our case, the directory is ole--vagrant-vi. So, if you open up a Command Prompt on your machine and you type `cd ole--vagrant-vi` followed by `vagrant global-status`, you will see a screen similar to this,
 
 ```
 id       name   provider   state   directory
 ---------------------------------------------------------------------------
-2198a3d  vi     virtualbox running /Users/Emily/ole--vagrant-vi
+219abaa  vi     virtualbox running /Users/aberdean/ole--vagrant-vi
 
 The above shows information about all known Vagrant environments
 on this machine. This data is cached and may not be completely
@@ -31,11 +18,18 @@ that directory and run Vagrant, or you can use the ID directly
 with Vagrant commands from any directory. For example:
 "vagrant destroy 1a2b3c4d"
 ```
-If you have a different message, either your Vagrant machine is powered off, or you have multiple machines with the same name, or you are experiencing some other technical issue.
 
-If your Vagrant machine is powered off, use `vagrant up` to turn it on. To shut down your machine, use `vagrant halt`. Both of these commands need to be issued within the right directory. To destroy your machine entirely, use `vagrant destroy`. Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.
+What this screen tells you is that you have a Vagrant virtual machine called `vi` running on VirtualBox. It also tells you the directory in which your Vagrantfile for that machine is located.
 
-We suggest doing some light googling to find out more about the background and commands of vagrant. Use `vagrant --help` for other commands that you may need. See `vagrant --help` below:
+As you can see, in our case, the state of our machine is `running`. However, you can suspend your virtual machine issuing the command `vagrant suspend` or you can stop it completely with `vagrant halt`. In both cases, if you want to restart your machine, you will need to issue the command `vagrant up`.
+
+When you issue the command `vagrant suspend`, your machine state will become `saved`, and after issuing `vagrant up` the machine will restart exactly from the point is was at when you suspended it. On the other hand, when you issue the command `vagrant halt`, the state will become `poweroff`, and after issuing `vagrant up` the machine will restart from the initial state it was at when you first installed it.
+
+Another command that may be sometimes useful is `vagrant destroy`, which allows you to delete your virtual machine. In this case, you will have to rebuild a new machine from scratch, if you ever need to use the machine again.
+
+You may want to try and issue the above commands on your system, to get familiar with Vagrant, since that will prove useful later on, during your internship.
+
+You can also use `vagrant --help` to find out other possible commands you can issue on Vagrant. You will get a screen similar to this,
 
 ```
 Usage: vagrant [options] <command> [<args>]
