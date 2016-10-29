@@ -16,9 +16,10 @@ Please, be aware that a staff member may either submit a code review asking you 
 
 **NOTE**: This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
-###Useful Links
+### Useful  Links
 
 [Helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+
 [Mastering Issues](https://guides.github.com/features/issues/)
 
 ####Return to [First Steps](firststeps.md)
