@@ -1,6 +1,6 @@
-Stephen John
-Grenada GMT-4
-Windows 7 OS
+>## Stephen John
+>> ### Grenada GMT-4
+>> ### Windows 7 OS
 
 I am a self-motivated and curious junior web and mobile developer, and I am ardent about creating new technologies and 
 applications that can change lives and contribute to meaningful user experiences. Above all things I value professionalism at all levels, 
