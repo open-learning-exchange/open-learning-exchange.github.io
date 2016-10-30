@@ -1,6 +1,8 @@
-<HTML>
+<html>
+<head>
 <title>HTML Reference</title>
-</HTML>
+</head>
+</html>
 # Patrick Murphy
 ## Hidalgo,Mexico /CTZ
 ### Windows 8 6.3.960
