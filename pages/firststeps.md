@@ -38,7 +38,7 @@ Follow the directions at [Git Repositories](gitandrepositories.md) to keep your 
 Follow the directions under the [Nation BeLL tab](nation.md).
 
 ###Step #8: Create Issues and Pull Requests:
-Please create three issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo. You will follow the same steps as in [GitHub Issues](githubissues.md), but will be working to improve this Markdown Wiki so that it is clearer and better for future use. As you have now followed along with the Markdown Wiki thus far, you should all try to improve the clarity of the explanations for these steps. Learn by teaching - or editing our teaching tool, in this case! When you are fixing an issue, please mention the number of the issue you are fixing in the description of your pull request.
+Please create three issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), but will be working to improve this Markdown Wiki so that it is clearer and better for future use. As you have now followed along with the Markdown Wiki thus far, you should all try to improve the clarity of the explanations for these steps. Learn by teaching - or editing our teaching tool, in this case! When you are fixing an issue, please mention the number of the issue you are fixing in the description of your pull request.
 
 ###Step #9: Submit Survey:
 Let us know in the Gitter chat when you're done, so we can send the survey to your community. Then, fill out the survey and submit it. Lastly, sync your community with the nation (as you did in step 7).
