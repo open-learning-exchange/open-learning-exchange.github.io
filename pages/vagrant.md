@@ -95,6 +95,9 @@ or not commonly used. To see all subcommands, run the command
 `vagrant list-commands`.
 
 
+
+```
+
 ### 1-Look for Automator
 
 ![capture d ecran 2016-10-23 a 11 34 41 am](https://cloud.githubusercontent.com/assets/22469394/19625675/eb86c3a0-9916-11e6-9d52-bc7e7d61a408.png)
@@ -116,7 +119,6 @@ or not commonly used. To see all subcommands, run the command
 ### 5-Add the new application that you made with Automator Here
 
 ![capture d ecran 2016-10-23 a 12 10 01 pm](https://cloud.githubusercontent.com/assets/22469394/19625786/a4c0a4d8-9919-11e6-8539-7f469812b07f.png)
-```
 ### Useful  Links
 
 [Instructions to install vagrant-README.md](https://github.com/dogi/ole--vagrant-bells)  
