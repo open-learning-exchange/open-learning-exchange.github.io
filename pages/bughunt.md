@@ -36,7 +36,7 @@ Format:
 ## Automating manual test cases
 
 ### Introduction:
-Selenium is a portable software testing framework for web applications. One of its component, Selenium WebDriver, is a server written in Java that accepts commands for the browser via HTTP. WebDriver makes it possible to write automated tests for a web application in any programming language, which allows for better integration of Selenium in existing unit test frameworks. To make writing tests easier, Selenium project currently provides client drivers for PHP, Python, Ruby, .NET, Perl and Java.
+Selenium is a portable software testing framework for web applications. One of its components, Selenium WebDriver, is a server written in Java that accepts commands for the browser via HTTP. WebDriver makes it possible to write automated tests for a web application in any programming language, which allows for better integration of Selenium in existing unit test frameworks. To make writing tests easier, Selenium project currently provides client drivers for PHP, Python, Ruby, .NET, Perl and Java.
 
 ***We will be using Java with Selenium WebDriver***
 
@@ -95,8 +95,8 @@ Be aware of picking a functionality that is under construction or that has previ
 
 If a bug is found, describe the bug in this Google Doc first: [BugHunt.md](https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1)
 
-* Clearly describe exactly what the bug is, the number of the test case, and the step that fail or produce unexpected output. Make sure that your description of the bug is easily understandable, and describes the issue. Feel free to use images, to supplement your description.
-* Even though the test cases already have the steps outlined. It's always a good idea to provide more detailed description and pictures to help the developer to understand the situation.
+* Clearly describe exactly what the bug is, the number of the test case, and the steps that fail or produce unexpected output. Make sure that your description of the bug is easily understandable and describes the issue. Feel free to use images, to supplement your description.
+* Even though the test cases already have the steps outlined, it's always a good idea to provide more detailed description and pictures to help the developer to understand the situation.
 * If you know why the issue is happening, or have a potential solution to the issue, feel free to add your thoughts to the end of the bug description, or even start working on the problem yourself.                                                         
 * Ask @dogi or @Emily to check your proposed bug in the Google Doc above. They will give you advice and further instructions then.
 * See [the previous wiki](githubissues.md) on how to write a good Github issue.
