@@ -18,9 +18,11 @@
 Hey everyone,
   My name is Mike, but my Nigerian name is Oladipupo (a mouthful I know).
   Feel free to call me **Ola** since their are far too many Michaels in the world.
+  
+  I love to write in Ruby, and Javascript. Feel free to contact me!
 
 
-Contact: Michael.Aduayi@gmail.com
+  **Contact:** Michael.Aduayi@gmail.com
     
   
   
