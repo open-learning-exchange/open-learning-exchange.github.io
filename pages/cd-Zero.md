@@ -1,18 +1,17 @@
-  <h2>cd-Zero's page</h2>
+# cd-Zero's page
   
  **Name:** Michael O. Aduayi
   
  **Location:** Boston 
   Time-Zone: [Eastern Standard Time]( https://www.timeanddate.com/time/zones/est)
   
-  <h3>Operating Systems:</h3>
+### Operating Systems:
    
    >Primary:    Ubuntu Linux 16.04.1 LTS
    
    >Secondary:  Window 10
    
-
-<h3>Description:</h3>
+### Description:
  
 Hey everyone,
   My name is Mike, but my Nigerian name is Oladipupo (a mouthful I know).
