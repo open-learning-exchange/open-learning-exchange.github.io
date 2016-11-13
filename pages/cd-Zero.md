@@ -10,8 +10,7 @@
    >Primary:    Ubuntu Linux 16.04.1 LTS
    
    >Secondary:  Window 10
- 
-  **age:** 26 
+   
 
 <h3>Description:</h3>
  
