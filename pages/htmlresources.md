@@ -14,7 +14,7 @@ Documentation helps to understand overall progress of project. Visit following l
 Prerequisites:
 
 * [Couchapp](#couchapp-installation)
-* [Couchdb Instance](#couchdb-instance)
+* Couchdb Instance
 * Desired JavaScript/HTML application
 
 
@@ -58,9 +58,6 @@ python setup.py install
 
 NOTE:
 Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the Gitter chat, and we'll do our best to help you.
-
-### Couchdb Instance
-Using the SimpleInstall script done by Group C, you should be able to get a working CouchDB instance
 
 ### Generating the couchapp
 Using `couchapp generate` command you will be able to generate the structure of a couchapp, but first, you need to create a folder with the app name and then, access to it.
@@ -157,35 +154,13 @@ If you scroll down to the `_attachments` field, you'll find a reference to an .h
 
 Once you make these changes, click `Save Document`. You should now be able to find your app in the [Library](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resources)!
 
-### Using redirect in index.html file
-NOTE: This is outdated and is only an improvised solution. Follow the instructions above.
+Now delete your dummy resource by clicking `Delete`. Then click `Open` on you html resource to test it out.
 
-This is not really the best way to, but it works.<br>
-Create a file: `index.html` with a redirect to the app
+![finalstep1](uploads/images/Final_Step_1.png)
 
-index.html content
+Finally push your app to the nation by clicking `Add to Nation`.
 
-```
-<META http-equiv="refresh" content="0;URL=/testapp/_design/test/index.html" />
-```
-
-If you forget the URL, you can push to server (couchapp push myserver) to get.
-As you can see, the server path should not be written in the redirect.
-
-Once you have this file, you need to add a [New Resource](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resource/add).
-
-Set the `Open` parameter to HTML, and write the additional info required.
-In `Upload Resources` section, you need to add your `index.html` previously created.
-
-![resources](uploads/images/index-html-resource.png)
-
-Then, save.
-
-You will be able to open your app now, selecting it from `Library`.
-
-![resourceinlibrary](uploads/images/resource-html-app.png)
-
-![openhtmlapp](uploads/images/open-html-app.png)
+![finalstep2](uploads/images/Final_Step_2.png)
 
 ### Uploading your app through Console as Resource
 WIP
