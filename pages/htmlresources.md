@@ -154,11 +154,12 @@ If you scroll down to the `_attachments` field, you'll find a reference to an .h
 
 Once you make these changes, click `Save Document`. You should now be able to find your app in the [Library](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resources)!
 
+### Push New App to Nation
 Now delete your dummy resource by clicking `Delete`. Then click `Open` on you html resource to test it out.
 
 ![finalstep1](uploads/images/Final_Step_1.png)
 
-Finally push your app to the nation by clicking `Add to Nation`.
+Finally, push your app to the nation by clicking `Add to Nation`.
 
 ![finalstep2](uploads/images/Final_Step_2.png)
 
