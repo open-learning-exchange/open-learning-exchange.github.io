@@ -1,9 +1,10 @@
+# Members
 [EmilyLarkin](EmilyLarkin.md)
 
 [DrewPerlman](DrewPerlman.md)
 
 ---
-# Steps Completed
+## Steps Completed
 [fsjoyti](fsjoyti.md)
 
 [xinglunxu](xinglunxu.md)
@@ -27,6 +28,6 @@
 [cw-lin](cw-lin.md)
 
 ---
-# Steps In Progress
+## Steps In Progress
 
 [rachelpei](rachelpei.md)
