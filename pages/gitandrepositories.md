@@ -1,4 +1,4 @@
-##Git Repositories
+#Git Repositories
 ###Objectives
 * Understanding Git repositories and levels
 * Learning how to use Git from the command line
