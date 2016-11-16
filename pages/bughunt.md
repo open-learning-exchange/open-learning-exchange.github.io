@@ -1,4 +1,4 @@
-
+# Bug Hunt
 https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1
 
 ## What is an Issue?

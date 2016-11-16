@@ -1,4 +1,4 @@
-##Project Title : HTML Resources
+#Project Title : HTML Resources
 
 ##Objective :
 Understanding of Couchdb database, Couchapp.
