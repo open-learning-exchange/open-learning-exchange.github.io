@@ -1,11 +1,11 @@
 #Project Title : HTML Resources
 
-##Objective :
+##Objective
 Understanding of Couchdb database, Couchapp.
 Find out HTML5 and Javascript applications to upload it into Bell app.
 Adding resources to bell app library and make Bell much more interesting and interactive.
 
-##Documentation:
+##Documentation
 Documentation helps to understand overall progress of project. Visit following link to learn more about it.Visit following link to learn more bout it.
 [Google Doc](https://docs.google.com/document/d/1aAzah833gWCQ2hWtGyMJLIK83nmunPJn42bnliLrxDk/edit?usp=sharing)
 
@@ -190,7 +190,7 @@ You will be able to open your app now, selecting it from `Library`.
 ### Uploading your app through Console as Resource
 WIP
 
-###Useful Links
+##Useful Links
 [What is Couchapp?](http://couchapp.readthedocs.io/en/latest/intro/what-is-couchapp.html)  
 [About CouchDB](http://couchdb.apache.org/)  
 [HTML5-Demos and Examples](http://html5demos.com/)  

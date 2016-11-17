@@ -5,20 +5,20 @@ The BeLL (Basic e-Learning Library) is not only a library, but also an individua
 As previously mentioned, you created a community (which we will now refer to as a Vagrant BeLL) on your system. 
 To access your community, please follow the instructions for your system.
 
-####MacOS(X) and Ubuntu
+##MacOS(X) and Ubuntu
 Please, check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up`, open Firefox (please download if you don't already have it - it is VERY important that you always use the BeLL in Firefox to limit errors). Go to http://127.0.0.1:5985. You could also use http://localhost:5985, meaning that 127.0.0.1 refers to your machine. Both localhost:5985 and 127.0.0.1:5985 are interchangeable. Please, make sure to have the correct port number (5985), otherwise it will not work correctly.
 
 Your first page will look like this:
 
 ![127.0.0.1:5985](uploads/images/127.0.0.1-5985.png)
 
-####Windows
+##Windows
 Please, double click on the MyBeLL icon on your desktop. It will open up a Firefox browser and show you the user interface (see below). 
 
-####Database
+##Database
 [CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the BeLL. You can see the backend interface of our CouchDB at http://127.0.0.1:5985/_utils. In _utils, you have the opportunity to see all of the software dev of your vagrant BeLL.
 
-####User Interface
+##User Interface
 To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html. 
 You will be shown the page below. Make sure you fill it out completely.
 
@@ -73,7 +73,7 @@ Fill out the information, although as we are just doing this as a test, accuracy
 
 In case you forgot to take the screenshot of your configurations, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html, then click on manager, click on the configurations tab, take a screenshot of the page, and submit it to the Gitter chat.
 
-###Useful Links
+##Useful Links
 
 [Helpful links and videos](faq.md#Helpful_Links)
 
