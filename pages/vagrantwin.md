@@ -76,7 +76,7 @@ or not commonly used. To see all subcommands, run the command
 [Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
 [Vagrant download](https://www.vagrantup.com/downloads.html)  
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
-[Other helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+[Other helpful links and videos](faq.md#Helpful_Links)
 
    
 ####Return to [First Steps](firststeps.md)
