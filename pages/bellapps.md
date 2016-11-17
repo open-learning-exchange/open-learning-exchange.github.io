@@ -75,6 +75,6 @@ In case you forgot to take the screenshot of your configurations, go to http://1
 
 ###Useful Links
 
-[Helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+[Helpful links and videos](faq.md#Helpful_Links)
 
 ####Return to [First Steps](firststeps.md)

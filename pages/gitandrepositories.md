@@ -94,6 +94,6 @@ If you find yourself needing to rebase your forked repository, the following two
 [Sync fork](https://help.github.com/articles/syncing-a-fork/)  
 [GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)  
 [Git help](https://git-scm.com/)  
-[Other helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+[Other helpful links and videos](faq.md#Helpful_Links)
 
 ####Return to [First Steps](firststeps.md)

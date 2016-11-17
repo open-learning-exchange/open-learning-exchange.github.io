@@ -42,6 +42,6 @@ First, click the "Update Available" button and it will reload your homepage with
 
 ###Useful Links
 
-[Helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+[Helpful links and videos](faq.md#Helpful_Links)
 
 ####Return to [First Steps](firststeps.md)

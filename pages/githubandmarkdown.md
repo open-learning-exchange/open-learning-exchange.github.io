@@ -76,6 +76,6 @@ Then, you can create a pull request by clicking the `Pull requests` button and t
 [Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md)  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 [How to fork a repo](https://help.github.com/articles/fork-a-repo/)
-[Other helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+[Other helpful links and videos](faq.md#Helpful_Links)
 
 ####Return to [First Steps](firststeps.md)
