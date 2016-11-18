@@ -16,10 +16,10 @@ As previously mentioned, you fork a repository to work on your own GitHub accoun
 ##Start here
 This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.
 
-* [Clone your GitHub repository username.github.io](gitandrepositories.md#Clone_your_GitHub_repository_username.github.io) 
-* [Read the explanation to understand repositories and syncing process](gitandrepositories.md#Explanation_about_repositories_and_syncing_process)   
-* [Configure a remote for your fork](gitandrepositories.md#Configure_a_remote_for_your_fork)   
-* [Sync your fork](gitandrepositories.md#Sync_your_fork)    
+* [Clone your GitHub repository username.github.io](#Clone_your_GitHub_repository_username.github.io) 
+* [Read the explanation to understand repositories and syncing process](#Explanation_about_repositories_and_syncing_process)   
+* [Configure a remote for your fork](#Configure_a_remote_for_your_fork)   
+* [Sync your fork](#Sync_your_fork)    
 
 ###Clone your GitHub repository username.github.io
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided in the repository (see the picture below).
