@@ -4,6 +4,7 @@
 
 We use Vagrant to power up our BeLL virtual machine. While this is done automatically (behind the scenes, as it were), it is useful for you to understand how to use Vagrant, because during your internship you may have to use it manually.
 
+## Windows
 First of all, Vagrant only works if you are in the correct directory, which is a directory that includes a file called Vagrantfile. In our case, the directory is ole--vagrant-vi. So, if you open up a Command Prompt on your machine and you type `cd ole--vagrant-vi` followed by `vagrant global-status`, you will see a screen similar to this,
 
 ```
@@ -70,13 +71,13 @@ Additional subcommands are available, but are either more advanced
 or not commonly used. To see all subcommands, run the command
 `vagrant list-commands`.
 ```
-### Useful  Links
+## Useful  Links
 
 [Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)  
 [Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
 [Vagrant download](https://www.vagrantup.com/downloads.html)  
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
-[Other helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+[Other helpful links and videos](faq.md#Helpful_Links)
 
    
 ####Return to [First Steps](firststeps.md)

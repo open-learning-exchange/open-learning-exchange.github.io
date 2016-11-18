@@ -2,12 +2,12 @@
 
 [Vagrant](https://www.vagrantup.com/) is an open source tool to build development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-vi) to install Vagrant and VirtualBox on your OS. Below, you will find a shortened version on how to install this software quickly if needed as a reference.
 
-### Ubuntu
+## Ubuntu
 ```
     sudo apt-get install virtualbox
     sudo apt-get install vagrant
 ```
-### MacOS(X)
+## MacOS(X)
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```
     brew cask install vagrant
@@ -76,13 +76,13 @@ Additional subcommands are available, but are either more advanced
 or not commonly used. To see all subcommands, run the command
 `vagrant list-commands`.
 ```
-### Useful  Links
+## Useful  Links
 
 [Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)  
 [Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
 [Vagrant download](https://www.vagrantup.com/downloads.html)  
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
-[Other helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+[Other helpful links and videos](faq.md#Helpful_Links)
 
    
 ####Return to [First Steps](firststeps.md)

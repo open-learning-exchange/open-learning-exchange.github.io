@@ -1,4 +1,4 @@
-##Nation BeLLs
+#Nation BeLLs
 
 In step 4, you registered your community BeLL with the nation. Now, you will learn how to keep your community BeLL in sync with the nation.
 
@@ -40,8 +40,8 @@ As you can see from the image below, there is an update ready to be downloaded. 
 
 First, click the "Update Available" button and it will reload your homepage with a successful update message. An update refers to a new software update which improves the software. Next, click on "Publications" and sync the publications. Publications add new resources or courses to your library. Last, repeat the process of sending an activities sync to the nation.
 
-###Useful Links
+##Useful Links
 
-[Helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)
+[Helpful links and videos](faq.md#Helpful_Links)
 
 ####Return to [First Steps](firststeps.md)

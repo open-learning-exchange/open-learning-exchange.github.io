@@ -1,4 +1,4 @@
-##GitHub Issues
+#GitHub Issues
 
 On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the BeLL and in our code. Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
 
@@ -16,8 +16,8 @@ Please, be aware that a staff member may either submit a code review asking you 
 
 **NOTE**: This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
-###Useful Links
-[Helpful links and videos](https://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links)  
+##Useful Links
+[Helpful links and videos](faq.md#Helpful_Links)  
 [Mastering Issues](https://guides.github.com/features/issues/)
 
 ####Return to [First Steps](firststeps.md)
