@@ -178,9 +178,6 @@ Finally, push your app to the nation by clicking `Add to Nation`.
 
 ![finalstep2](uploads/images/Final_Step_2.png)
 
-### Uploading your app through Console as Resource
-WIP
-
 ###Useful Links
 [What is Couchapp?](http://couchapp.readthedocs.io/en/latest/intro/what-is-couchapp.html)  
 [About CouchDB](http://couchdb.apache.org/)  
