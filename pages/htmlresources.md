@@ -14,7 +14,7 @@ Documentation helps to understand overall progress of project. Visit following l
 Prerequisites:
 
 * [Couchapp](#couchapp-installation)
-* [Couchdb Instance](#couchdb-instance)
+* Couchdb Instance
 * Desired JavaScript/HTML application
 
 
@@ -40,9 +40,13 @@ The following command should take care of this:
 `> curl https://bootstrap.pypa.io/ez_setup.py -o - | python`
 
 #### Windows
+There are two possible methods for installing python, method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file.
+
+*Method 1*  
+
 There's a good amount of prerequisites for the couchapp installation on Windows.
 
-1. Download Python [here](https://www.python.org/downloads/) (since there isn't a version of py2exe compatible with Python 3.5, you need to download Python 3.4 or less). If you use a Python installer with a UI, select the option to add Python to PATH. If not (or if that doesn't work) follow [these instructions](https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables). Test that Python is in your PATH with `which python`.
+1. Download Python 2.7 [here](https://www.python.org/downloads/). This method only works with version 2.7. If you use a Python installer with a UI, select the option to add Python to PATH. If not (or if that doesn't work) follow [these instructions](https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables). Test that Python is in your PATH with `which python`.
 2. Download setuptools by following the instructions for Windows [here](https://pypi.python.org/pypi/setuptools).
 3. Download py2exe by following the instructions [here](https://pypi.python.org/pypi/py2exe/0.9.2.0/) (or [here](https://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/) if you're using Python 2.7 or below).
 4. Download pywin32 [here](https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/).
@@ -59,8 +63,16 @@ python setup.py install
 NOTE:
 Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the Gitter chat, and we'll do our best to help you.
 
-### Couchdb Instance
-Using the SimpleInstall script done by Group C, you should be able to get a working CouchDB instance
+*Method 2*
+
+Click [here](https://couchapp.readthedocs.io/en/latest/couchapp/install.html#installing-on-windows) and scroll down to the "Installing on Windows" section. Click on the first link 'Standalone Executable 1.0.2'. This will download the couchapp-1.0.2-win32.exe. Run the .exe file by double clicking it. When the installation is complete make sure the "Add couchapp to path" box is checked and finish the installation.
+
+Note:
+If you have windows 7  and you get an error message on the next step, you may need to install Visual C++ 9.0 [here](https://www.microsoft.com/en-us/download/details.aspx?id=44266). Then install 'http-parser' by typing into your terminal:
+
+```
+pip install http-parser
+```
 
 ### Generating the couchapp
 Using `couchapp generate` command you will be able to generate the structure of a couchapp, but first, you need to create a folder with the app name and then, access to it.
@@ -143,7 +155,7 @@ Now we need a random `_id` value for the new Library resource. ```curl -X GET ht
 
 Once these changes have been made, ```couchapp push myserver``` again. The app will be available at the URL specified.
 
-This next part is the most complicated, so make sure to pay extra attention here. Go to the [CouchDB](http://127.0.0.1:5985/_utils/) and open the *dummy resource* you made in one tab and the *app you just pushed* in another tab (both of which can be found in the `resources` database). As you can see when you compare your app and the dummy resource, the app is missing fields that are necessary for it to be usable in the Library. So now, go to the dummy resource click the "Source" tab. Click the source and copy everything from the dummy resource EXCEPT the `_id` and `_rev` fields.
+This next part is the most complicated, so make sure to pay extra attention here. Go to the [CouchDB](http://127.0.0.1:5985/_utils/) and open the *dummy resource* you made in one tab and the *app you just pushed* in another tab (both of which can be found in the `resources` database). As you can see when you compare your app and the dummy resource, the app is missing fields that are necessary for it to be usable in the Library. So now, go to the dummy resource click the "Source" tab. Double-click the source and copy everything from the dummy resource EXCEPT the `_id` and `_rev` fields.
 
 ![dummyresourcesfieldstocopy](uploads/images/dummy-resource-fields.png)
 
@@ -157,38 +169,14 @@ If you scroll down to the `_attachments` field, you'll find a reference to an .h
 
 Once you make these changes, click `Save Document`. You should now be able to find your app in the [Library](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resources)!
 
-### Using redirect in index.html file
-NOTE: This is outdated and is only an improvised solution. Follow the instructions above.
+### Push New App to Nation
+Now delete your dummy resource by clicking `Delete`. Then click `Open` on you html resource to test it out.
 
-This is not really the best way to, but it works.<br>
-Create a file: `index.html` with a redirect to the app
+![finalstep1](uploads/images/Final_Step_1.png)
 
-index.html content
+Finally, push your app to the nation by clicking `Add to Nation`.
 
-```
-<META http-equiv="refresh" content="0;URL=/testapp/_design/test/index.html" />
-```
-
-If you forget the URL, you can push to server (couchapp push myserver) to get.
-As you can see, the server path should not be written in the redirect.
-
-Once you have this file, you need to add a [New Resource](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resource/add).
-
-Set the `Open` parameter to HTML, and write the additional info required.
-In `Upload Resources` section, you need to add your `index.html` previously created.
-
-![resources](uploads/images/index-html-resource.png)
-
-Then, save.
-
-You will be able to open your app now, selecting it from `Library`.
-
-![resourceinlibrary](uploads/images/resource-html-app.png)
-
-![openhtmlapp](uploads/images/open-html-app.png)
-
-### Uploading your app through Console as Resource
-WIP
+![finalstep2](uploads/images/Final_Step_2.png)
 
 ##Useful Links
 [What is Couchapp?](http://couchapp.readthedocs.io/en/latest/intro/what-is-couchapp.html)  
