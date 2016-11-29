@@ -24,7 +24,7 @@ Prerequisites:
 Clone the [couchapp repository](https://github.com/couchapp/couchapp.git), build and install it. Run the following commands in the directory of your choice (from a terminal):
 
 ```
-git clone https://github.com/couchapp/couchapp.git 
+git clone https://github.com/couchapp/couchapp.git
 cd couchapp
 python setup.py build
 sudo python setup.py install
@@ -46,15 +46,16 @@ There are two possible methods for installing python, method 1 requires you to i
 
 There's a good amount of prerequisites for the couchapp installation on Windows.
 
-1. Download Python 2.7 [here](https://www.python.org/downloads/). This method only works with version 2.7. If you use a Python installer with a UI, select the option to add Python to PATH. If not (or if that doesn't work) follow [these instructions](https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables). Test that Python is in your PATH with `which python`.
+1. Download Python 2.7 [here](https://www.python.org/downloads/). This method only works with version 2.7. If you use a Python installer with a UI, select the option to add Python to PATH. If not (or if that doesn't work) follow [these instructions](https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables). Test that Python is in your PATH with `python --version`.
 2. Download setuptools by following the instructions for Windows [here](https://pypi.python.org/pypi/setuptools).
 3. Download py2exe by following the instructions [here](https://pypi.python.org/pypi/py2exe/0.9.2.0/) (or [here](https://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/) if you're using Python 2.7 or below).
 4. Download pywin32 [here](https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/).
+5. Download curl by opening powershell with admin access and typing `choco install curl`
 
 Once you have all of these, clone the [couchapp repository](https://github.com/couchapp/couchapp.git), build and install it. Run the following commands in the directory of your choice (from a terminal):
 
 ```
-git clone https://github.com/couchapp/couchapp.git 
+git clone https://github.com/couchapp/couchapp.git
 cd couchapp
 python setup.py build
 python setup.py install
@@ -100,11 +101,11 @@ The file should be like the one shown below. In this file, `db` is the server pa
 
 
 ```
-{ 
+{
     "env" : {
         "myserver" : {
             "db" : "http://127.0.0.1:5985/testapp"
-        } 
+        }
     }
 }
 ```
@@ -125,6 +126,12 @@ Now that you have generated the app, you will need to add the original app data 
 rm -rf _attachments/*
 cp -r /home/user/myoriginalapp/* _attachments/
 ```
+Or for Windows:
+```
+rd /s /q c:\Users\%username%\couchapp\test\_attachments
+md c:\Users\%username%\couchapp\test\_attachments
+xcopy c:\Users\%username%\appIwantToTransfer c:\Users\%username%\couchapp\test\_attachments
+```
 
 Now that you have done all those steps, you will need to upload the app to the server: `couchapp push myserver` where `myserver` is the one you specified in the `.couchapprc` file.
 
@@ -136,7 +143,7 @@ http://127.0.0.1:5985/testapp/_design/test/index.html
 
 After this, The app will be available on the specified link. You should be able to see the database in http://127.0.0.1:5985/_utils/database.html?testapp
 
-## Adding the app as resource to Bell App Library 
+## Adding the app as resource to Bell App Library
 
 ### Link Library resource to CouchDB database
 The next step is to properly link a Library resource to the database containing the HTML app's data that you created.
@@ -147,9 +154,9 @@ Now we have to mess around with some things in the [CouchDB](http://127.0.0.1:59
 
 ![dummyresourceincouch](uploads/images/dummy-couch-resource.png)
 
-Next, go into the folder on your computer where your couchapp is located, go into the `.couchapprc` file, and change the value for `db` to ```"http://127.0.0.1:5985/resources"```. This changes the directory of the next `couchapp push` to the `resources` database. 
+Next, go into the folder on your computer where your couchapp is located, go into the `.couchapprc` file, and change the value for `db` to ```"http://127.0.0.1:5985/resources"```. This changes the directory of the next `couchapp push` to the `resources` database.
 
-Now we need a random `_id` value for the new Library resource. ```curl -X GET http://127.0.0.1:5985/_uuids``` will generate a random UUID. Copy that value from your command prompt/terminal and replace the value in the `_id` file with the random UUID. 
+Now we need a random `_id` value for the new Library resource. ```curl -X GET http://127.0.0.1:5985/_uuids``` will generate a random UUID. Copy that value from your command prompt/terminal and replace the value in the `_id` file with the random UUID.
 
 ![randomcouchappid](uploads/images/random-couchapp-id.png)
 
