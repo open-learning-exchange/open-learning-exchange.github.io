@@ -128,9 +128,9 @@ cp -r /home/user/myoriginalapp/* _attachments/
 ```
 Or for Windows:
 ```
-rd /s /q c:\Users\username\test\_attachments
-md c:\Users\username\test\_attachments
-xcopy c:\Users\username\appIwantToTransfer c:\Users\username\test\_attachments
+rd /s /q c:\Users\%username%\couchapp\test\_attachments
+md c:\Users\%username%\couchapp\test\_attachments
+xcopy c:\Users\%username%\appIwantToTransfer c:\Users\%username%\couchapp\test\_attachments
 ```
 
 Now that you have done all those steps, you will need to upload the app to the server: `couchapp push myserver` where `myserver` is the one you specified in the `.couchapprc` file.
