@@ -40,12 +40,15 @@ Please make sure you’re using Firefox, as our BeLL software is only guaranteed
 Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual BeLL user interface.
 
 *Q: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?*
-You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter *https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings* in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click 'Delete this repository'. Read the warnings and then type in the name of the repo to confirm.
+You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
 
 Q*: What do I do if I already have a github.io with my username?*
 You have a couple of options.
+
 1. If you are not using the repo anymore you can delete it and then follow the [First Steps.]( http://open-learning-exchange.github.io/#!pages/firststeps.md)
+
 2. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repro &lt;orgname&gt;.github.io
+
 3. Or you can just create another github account, and use that for OLE work
 
 
