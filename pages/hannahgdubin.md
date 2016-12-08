@@ -21,3 +21,4 @@
   
 ##Contact Information
   >Email: hannahgdubin@gwu.edu
+  >[GitHub Account](https://github.com/hannahgdubin)
