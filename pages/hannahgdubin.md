@@ -20,4 +20,4 @@
   >MAC OS X v.10.11.3
   
 ##Contact Information
-  >Email: hannahgdubin@gwu.edu)
+  >Email: hannahgdubin@gwu.edu
