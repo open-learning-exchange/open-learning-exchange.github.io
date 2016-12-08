@@ -12,7 +12,7 @@
   >As a computer science sophomore most of my free time is spent doing homework or practicing my coding skills. However, when am not doing that I love to be outside (walking, hiking, going to the beach) and I love trying new food and restaurants around DC.
   
 ##System Preference
-  >MAC OS X
+  >MAC OS X v.10.11.3
   
 ##Contact Information
   >[**Email**](hannahgdubin@gwu.edu)
