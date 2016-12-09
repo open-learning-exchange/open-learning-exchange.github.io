@@ -16,7 +16,7 @@ Now you can go and make the proposed changes to your local files.
 
 After you are done making your changes use the command `git status`. If the list of files changed only includes those you wish to modify, use the command `git add .` (The '.' is part of the command.) Otherwise you can also choose only certain changes to include by using `git add <file1> <file2> <file3>...`  Now that you have selected the files you wish to include, use the commands `git commit -m "commit message"` and `git push origin name_of_your_new_branch` to save your changes and push them to your Github. 
 
-You can view your changes by going to `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!index.md` and viewing the page(s) you have changed. If everything looks correct, you are ready to create a pull request. Please remember to include the issue it is solving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request).
+You can view your changes by going to <code>https://<b>rawgit.com</b>/YourUserName/YourUserName.github.io/YourBranchName/#!index.md</code> and viewing the page(s) you have changed. If everything looks correct, you are ready to create a pull request. Please remember to include the issue it is solving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request).
 
 All that remains is posting your pull request in the chat and waiting until one of the OLE staff gets a chance to look at it. Be aware that a staff member may either submit a code review asking you to modify some of your changes, or accept the pull request and close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
 
