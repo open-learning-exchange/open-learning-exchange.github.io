@@ -31,7 +31,7 @@ Next, you will need to fill out your configurations. Make sure you write your na
 Please, note that your name and code must be the same and should correspond to your GitHub username. 
 This is because we should be able to know who owns each community from the nation side. 
 Also, make sure you pick the correct nation, Virtual Intern Nation (vi).
-After you finished filling out your configurations, remember to take a screenshot of the configuration page. 
+After you finished filling out your configurations, remember to take a screenshot of the configuration page (to post it on gitter chat after registration). 
 Then, click on the **"Register"** button and you will receive a confirmation that your community has been successfully registered (see below).
 
 ![Successfully Registered](uploads/images/success.png)
