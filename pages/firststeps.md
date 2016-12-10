@@ -28,11 +28,11 @@ Follow the instructions on the [GitHub and Markdown page](githubandmarkdown.md).
 ##Step #4: BeLL-Apps Tutorial:
 Follow the instructions under the [BeLL-Apps tab](bellapps.md).
 
-##Step #5: GitHub Issues Tutorial:
-Complete the tutorial under the [GitHub Issues tab](githubissues.md) and make sure to keep us posted in the Gitter chat. You should link in Gitter whenever you create an issue or when you comment on someone else's issue. Please post as many issues as you can for improving the page as well as personal practice. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Next, fix the issue on your repo and create pull requests. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile will become. This is very important to potential employers, thus we encourage you to spend time to increase your numbers to strengthen your profile.
-
-##Step #6: Keeping Fork Updated:
+##Step #5: Keeping Fork Updated:
 Follow the directions at [Git Repositories](gitandrepositories.md) to keep your username.github.io and your local repository up to date.
+
+##Step #6: GitHub Issues Tutorial:
+Complete the tutorial under the [GitHub Issues tab](githubissues.md) and make sure to keep us posted in the Gitter chat. You should link in Gitter whenever you create an issue or when you comment on someone else's issue. Please post as many issues as you can for improving the page as well as personal practice. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Next, fix the issue on your repo and create pull requests. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile will become. This is very important to potential employers, thus we encourage you to spend time to increase your numbers to strengthen your profile.
 
 ##Step #7: Nation BeLL:
 Follow the directions under the [Nation BeLL tab](nation.md).
