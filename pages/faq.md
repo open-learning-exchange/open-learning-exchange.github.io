@@ -14,7 +14,7 @@ More information about the internship can be found here: http://www.indeed.com/j
 This is an intensive internship that requires 15 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
 *Q: Is this a paid internship?*
- Unfortunately no. This position is unpaid, but it will provide diverse experiences in the workplace.
+ Unfortunately no, however, academic credit can be provided through your institution (if applicable). This position is unpaid, but it will provide diverse experiences in the workplace.
 
 *Q: What happens after the initial steps?*
 The initial steps are meant to introduce potential interns to the OLE BeLL software and the process that we use to develop features and improve upon the BeLL. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
