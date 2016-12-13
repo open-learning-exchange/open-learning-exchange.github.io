@@ -11,7 +11,7 @@ As a part of this internship you will be working with software and languages inc
 More information about the internship can be found here: http://www.indeed.com/jobs?q=%22virtual+software+engineer+intern%22&l=Cambridge%2C+MA
 
 *Q: What are the hours of the internship?*
-This is an intensive internship that requires 15 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
+This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
 *Q: Is this a paid internship?*
  Unfortunately no. This position is unpaid, but it will provide diverse experiences in the workplace.
