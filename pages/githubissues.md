@@ -19,5 +19,6 @@ Please, be aware that a staff member may either submit a code review asking you 
 ##Useful Links
 [Helpful links and videos](faq.md#Helpful_Links)  
 [Mastering Issues](https://guides.github.com/features/issues/)
+[Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 ####Return to [First Steps](firststeps.md)
