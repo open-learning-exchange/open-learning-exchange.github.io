@@ -73,7 +73,7 @@ or not commonly used. To see all subcommands, run the command
 ```
 ## Useful  Links
 
-[Instructions to enable virtualization](http://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/)<br />
+[Instructions to enable virtualization](http://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/)  
 [Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)  
 [Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
 [Vagrant download](https://www.vagrantup.com/downloads.html)  
