@@ -13,6 +13,7 @@
 
 if you have any questions or need help completing the steps, feel free to ask any of the current interns on [Gitter chat](https://gitter.im/open-learning-exchange/chat)
 
+## Previous Interns
 ---
 >### Summer 2016 virtual intern lead
 * [EmilyLarkin](EmilyLarkin.md)
