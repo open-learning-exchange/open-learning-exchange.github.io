@@ -11,10 +11,13 @@
 * [waryhermit](waryhermit.md)
 * [IshanSoni](IshanSoni.md)
 
+if you have any questions or need help completing the steps, feel free to ask any of the current interns on [Gitter chat](https://gitter.im/open-learning-exchange/chat)
+
 ---
 ## Summer 2016 virtual intern lead
 * [EmilyLarkin](EmilyLarkin.md)
 * [DrewPerlman](DrewPerlman.md)
+* [i5o](i5o.md)
 
 ---
 ## Summer 2016 virtual interns
@@ -23,7 +26,6 @@
 * [pranesh-s](pranesh-s.md)
 * [epistulae](epistulae.md)
 * [ctl74100](ctl74100.md)
-* [i5o](i5o.md)
 * [AdityaNair99](AdityaNair99.md)
 * [Hulmani](Hulmani.md)
 * [sthak004](sthak004.md)
@@ -31,4 +33,3 @@
 * [cw-lin](cw-lin.md)
 
 ---
-if you have any questions or need help completing the steps, feel free to ask any of the current interns on [Gitter chat](https://gitter.im/open-learning-exchange/chat)
