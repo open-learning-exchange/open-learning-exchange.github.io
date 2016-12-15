@@ -25,6 +25,8 @@ After you finish the first 10 steps, let us know if you need us to sign some pap
 *Q: How many pull requests and issues in total do I need to make to finish the steps?*
 To finish the initial steps, you need to make a **minimum** of three issues and three pull requests so you can get familiar with GitHub and to show us that you can write proper issues/PRs.
 
+*Q: How long do I have to complete these steps?*
+There is no official deadline, work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days. 
 ## Technical Issues and Questions
 
 *Q: What is the purpose of nations and communities, and how do they work together?*
