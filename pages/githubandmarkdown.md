@@ -20,6 +20,8 @@ Below is a cheat sheet of Markdown to help you create your own individual MD Wik
 
 ![Markdown Cheat Sheet](uploads/images/Markdown_Reference.png)
 
+You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 The main GitHub page used to store this MD Wiki can be found at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and our virtual interns will essentially create their own Markdown Wiki repository as a copy of open-learning-exchange.github.io.
 
 ##Start here
