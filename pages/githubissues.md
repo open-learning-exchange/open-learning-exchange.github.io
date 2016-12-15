@@ -30,5 +30,6 @@ All that remains is posting your pull request in the chat and waiting until one 
 ##Useful Links
 [Helpful links and videos](faq.md#Helpful_Links)  
 [Mastering Issues](https://guides.github.com/features/issues/)
+[Branching](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
 
 ####Return to [First Steps](firststeps.md)
