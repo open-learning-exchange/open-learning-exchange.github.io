@@ -14,7 +14,7 @@ Every time you start to work on an issue you need to create a branch to keep you
 
 Now you can go and make the proposed changes to your local files.
 
-**NOTE**: It's important that you are on the new branch, make sure you are on the correct branch with `git checkout branch-name` before committing. Use `git branch` to make sure you are on the correct branch.
+**NOTE**: It's important that you are on the new branch, make sure you are on the correct branch with `git checkout branch-name` before committing. Use `git branch` to make sure you are on the correct branch. Please be sure that if you wish to and create multiple pull requests that you create all branches at the same time, before you start modifying anything. If you don't create all branches at the same time, then you need to wait for your pull request to be merged and then you need to update your fork, before submitting another one.
 
 ####Creating a commit
 After you are done making your changes use the command `git status`. If the list of files changed only includes those you wish to modify, use the command `git add .` (The '.' is part of the command.) Otherwise you can also choose only certain changes to include by using `git add <file1> <file2> <file3>...`  Now that you have selected the files you wish to include, use the commands `git commit -m "commit message"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
@@ -30,5 +30,6 @@ All that remains is posting your pull request in the chat and waiting until one 
 ##Useful Links
 [Helpful links and videos](faq.md#Helpful_Links)  
 [Mastering Issues](https://guides.github.com/features/issues/)
+[Branching](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
 
 ####Return to [First Steps](firststeps.md)
