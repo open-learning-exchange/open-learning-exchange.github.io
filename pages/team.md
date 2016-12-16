@@ -10,6 +10,7 @@
 * [hikaruit15](hikaruit15.md)
 * [waryhermit](waryhermit.md)
 * [IshanSoni](IshanSoni.md)
+* [hannahgdubin](hannahgdubin.md)
 
 if you have any questions or need help completing the steps, feel free to ask any of the current interns on [Gitter chat](https://gitter.im/open-learning-exchange/chat)
 
