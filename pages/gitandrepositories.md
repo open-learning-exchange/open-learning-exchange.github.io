@@ -37,12 +37,33 @@ As you create a fork from the original repository and then clone your forked rep
 First, the GitHub help section and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://help.github.com/articles/syncing-a-fork/) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, you need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io.
 
 ####Configure a remote for your fork
-First, open your command prompt/terminal and find the correct directory, `cd username.github.io`.
+To be able to fetch updates from the upstream repository, you need to first configure the upstream repository by following these steps:
 
-To be able to fetch updates from the upstream repository, you need to first configure the upstream repository by following [this link](https://help.github.com/articles/configuring-a-remote-for-a-fork/).
+1. Open your command prompt/terminal and find the correct directory, `cd <username>.github.io.`
+
+2. List the current configured remote repository for your fork with `git remote -v`. This is how it would look like:
+```
+$ git remote -v
+origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (fetch)
+origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (push)
+```
+
+3. Specify a new remote upstream repository that will be synced with the fork by using `git remote add upstream <repository>`. Our remote upstream repository will be https://github.com/open-learning-exchange/open-learning-exchange.github.io.git. Dont't forget the `.git` at the end.
+```
+$ git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
+```
+
+4. Verify if upstream is configured correctly with `git remote -v`.
+```
+$ git remote -v
+origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (fetch)
+origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (push)
+upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (fetch)
+upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (push)
+```
 
 ###Sync your fork
-Then, use the command `git fetch upstream` to fetch branches from the upstream repository (in this case, it is open-learning-exchange.github.io). Next, check your fork's master branch with `git checkout master`. You should see some variation on this response:
+Then, use the command `git fetch upstream` to fetch branches from the upstream repository (in this case, it is open-learning-exchange.github.io). *If there are any errors, please check for typos from previous step. If so, use `git remote rm upstream` and add the repo in upstream again*. Next, check your fork's master branch with `git checkout master`. You should see some variation on this response:
 
 ```
 EmilyLarkin.github.io $ git fetch upstream
