@@ -55,7 +55,7 @@
 
 [Teams]()
 
-  * [Bug Hunt](pages/bughunt.md)
+  * [Automated Testing](pages/automatedtesting.md)
   * [Crowdin Integration](pages/crowdinintegration.md)
   * [Simple Install](pages/simpleinstall.md)
   * [HTML Resources](pages/htmlresources.md)
