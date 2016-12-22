@@ -18,8 +18,7 @@ Test Driven Development (TDD) is making heavy use of unit testing, but it goes o
 This process usually ensures code robustness, since it avoids the temptation to “adapt” the tests to the code that has already been written (i.e., who would want to write tests to make their own code fail, after having spent hours writing it, in the first place?).
 
 ## Where is Testing Performed?
-Tests can be performed locally (on your machine) and remotely (on a server or on the cloud). For our own testing purposes, we use VirtualBox through Vagrant to run a nation or a community on your computer, and Selenium to perform tests written in Python, using the `unittest` library. Selenium has several key libraries (such as WebDriver) that will open a web browser and perform various
-actions (type in a user name, click on a button, etc.). When running the tests, a web browser will open and will perform the program live in front of you.  
+Tests can be performed locally (on your machine) and remotely (on a server or on the cloud). For our own testing purposes, we use VirtualBox through Vagrant to run a nation or a community on your computer, and Selenium to perform tests written in Python, using the `unittest` library. Selenium has several key libraries (such as WebDriver) that will open a web browser and perform various actions (type in a user name, click on a button, etc.). When running the tests, a web browser will open and will perform the program live in front of you.  
 
 This is one step up from manual testing, which would be a real live person clicking through the software, but still requires that we initiate the testing ourselves.
 
@@ -86,9 +85,9 @@ WIP - Needs some love.
 4. If there are issues assigned to you in the `Ready` column, please work on those issues
 5. If there are no issues assigned to you, pick an issue from the `Ready` column,
 in the following order,
-  * First, urgent issues
-  * Then, high priority issues (or bugs)
-  * If there are no high priority issues, then pick an unlabeled issue
+  * First, `urgent` issues
+  * Then, `high priority` issues (or `bugs`)
+  * If there are no `high priority` issues, then pick an unlabeled issue
 **IMPORTANT**: Please, do not pick issues from the `Backlog` column! Also, do not pick issues from the `In Progress` column (even if they are assigned to nobody! See point #2 above).
 **REMEMBER**: If you like, you can work together with someone else on an issue (i.e., if you feel you need help, or otherwise you like to work together). Just remember to agree with the other person beforehand, NEVER jump on someone else’s issue without his/her previous knowledge.
 
@@ -98,7 +97,7 @@ If you need help with the issue assigned to you, add the `help wanted` label to 
 
 NOTE: Github just pushed out a new feature, so now you can also ask someone to review your pull request, when you need help. You can ask a review to as many people as needed, if you feel you would like to get more ideas (please, note that it is still advisable to add the `help wanted` tag, since on waffle.io we cannot see review requests).
 
-Lastly, if you think of any issue that is not already addressed, feel free to add new issues to the Backlog column.
+Lastly, if you think of any issue that is not already addressed, feel free to add new issues to the `Backlog` column.
 
 ## Programming Tests Info
 

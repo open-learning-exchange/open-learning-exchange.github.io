@@ -3,8 +3,7 @@
 See [Documentations on Google Docs](https://docs.google.com/document/d/1FFpCPiTY3VmFtMHmYe78jOzpHLY_6ulhfdxJd6v7jXg/edit?usp=sharing)  
 
 ## Motivation
-While writing tests with the Python `unittest` library is awesome, writing tests
-in CodeceptJS is super simple and much more intuitive.
+While writing tests with the Python `unittest` library is awesome, writing tests in CodeceptJS is super simple and much more intuitive.
 
 ## Code
 
@@ -83,28 +82,28 @@ Go in the tests folder within your repo: `cd BeLL-Apps/tests`
 
 ## Initialize CodeceptJS
 On the command line, type `codeceptjs init`.  
-Follow the configuration steps,  
-* Installing to  
-  * You will see `./*_test.js` - leave it and just press `Enter`  
-  * Select `WebDriverIO` and press `Enter`
-  * You will see `(./output)` - type `./output` and press `Enter`
-  * You will see `(Y/n)` - type `Y` and press `Enter`
-  * You will see `English (no localization)` - just press `Enter`
-  * You will see `(./steps_file.js)` - type `./steps_file.js` and press `Enter`
-* Configure helpers…
-  * You will see `(http://localhost)` - type `http://127.0.0.1:5981/apps/_design/bell/MyApp/index.html` and press `Enter`
-  * You will see `(firefox)` - type `firefox` and press `Enter`  
+Follow the configuration steps,   
+- Installing to  
+   - You will see `./*_test.js` - leave it and just press `Enter`  
+   - Select `WebDriverIO` and press `Enter`  
+   - You will see `(./output)` - type `./output` and press `Enter`  
+   - You will see `(Y/n)` - type `Y` and press `Enter`  
+   - You will see `English (no localization)` - just press `Enter`  
+   - You will see `(./steps_file.js)` - type `./steps_file.js` and press `Enter`   
+- Configure helpers…  
+   - You will see `(http://localhost)` - type `http://127.0.0.1:5981/apps/_design/bell/MyApp/index.html` and press `Enter`  
+   - You will see `(firefox)` - type `firefox` and press `Enter`  
 At this point, you’ll see a confirmation message listing all the files that were created, and telling you how to create your first test.  
-More importantly, though, you will see `Please install dependent packages globally: [sudo]` - type `sudo npm install -g webdriverio`
+More importantly, though, you will see `Please install dependent packages globally: [sudo]` - type `sudo npm install -g webdriverio`  
 
 ## Create new test
-Type `codeceptjs gt`
-* You will see `Creating a new test…` - type the name of the test you want to create and press `Enter`
-* You will see the name you entered above within parentheses and with an uppercase initial - type what you see in parentheses and press `Enter`  
+Type `codeceptjs gt`  
+- You will see `Creating a new test…` - type the name of the test you want to create and press `Enter`  
+- You will see the name you entered above within parentheses and with an uppercase initial - type what you see in parentheses and press `Enter`  
 **Example**  
-* To create a `login` test, when you see `Creating a new test…` - type `login`
-* When you see `(Login)` - type `Login` and press `Enter`
-* That's it!
+- To create a `login` test, when you see `Creating a new test…` - type `login`  
+- When you see `(Login)` - type `Login` and press `Enter`  
+- That's it!  
 
 Open your test file and write your test.
 

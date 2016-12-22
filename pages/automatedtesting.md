@@ -9,8 +9,7 @@ Ready? Let's go!
 
 ## The Past
 The project was initially called Bug Hunt, which is a funny name, isn't it?  
-Certainly, much more amusing than the current, quite sober, name Automated
-Testing!  
+Certainly, much more amusing than the current, quite sober, name Automated Testing!  
 
 It focused on writing great issues for bugs, mistakes, and other problems that may be found in the codebase. It explained that issues should be constructive, rather than negative, which is to say that rather than just saying "This doesn't work," it is much more appropriate to describe in detail the problem encountered, even including screenshots, when they may be helpful.   
 But, even more importantly, it means that one should take a proactive stance and try to figure out how a problem may be addressed, so that the issues end up looking much more like proposals for improvement than complaints about stuff not working properly.
