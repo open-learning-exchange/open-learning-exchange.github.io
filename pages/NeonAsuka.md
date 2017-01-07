@@ -1,5 +1,5 @@
 
-##Name: *BLUE *Ran Cheng*
+##Name: *Ran Cheng* *Blue
 
 ##Location/Time Zone: *Boston/ East America*
 
