@@ -6,7 +6,7 @@
 
 **Technologies:** PHP, MySQL, Javascript
 
-##
+#
 
 I'm a recent software engineering graduate with a focus on web development. I'm interested in the use of e-learning platforms, particularly in the area of language learning/teaching, an interest that developed when I was living overseas.
 
