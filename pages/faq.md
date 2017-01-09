@@ -59,6 +59,7 @@ You have a couple of options.
 [GitHub and Markdown Short Tutorials](https://guides.github.com/)
 [Git Pro (Book)](https://git-scm.com/book/en/v2)
 [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
+[GitHub Tips](https://github.com/git-tips/tips/blob/master/README.md)
 [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
 [Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 [Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/)
