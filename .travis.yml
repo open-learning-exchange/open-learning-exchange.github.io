@@ -1,15 +1,2 @@
-notifications:
-  webhooks:
-    urls:
-      - https://webhooks.gitter.im/e/f32286c047612bea82b0
-    on_success: always  # options: [always|never|change] default: change
-    on_failure: always  # options: [always|never|change] default: always
-    on_start: never    # options: [always|never|change] default: never
-
-env:
-  global:
-    - secure: "D5Wza3n05UbE1t1qPtqeJ7vhULslTj97ONc/kUYmsiyMZR2BgGXQjnEeJ5AsFj4IPwSBDqq/OfOhyuq947l3nWV0RAYE72QPnU8o/UoOSvKoaxAUT3B5Ds57zAVIDRIMhEjAwmZa6x3glkiucbYEmczzU6NfgLggoUP5c7UHe1lhX20aym9ZxHm96I027x+IacovDOtmfHyygyk4dqJyV/+9j54jDlr//jCC6wpULx9BrFgN2RbiWpnYPOaAbtKzRFzigXnSHQPeO6aVbeYYjQFR20508qyXdPsw1M7RL6NlbiNtC0dM/ISy7O0uzO+LCry9gQKpHASISzijb1QRFVXO9a+WJixwda0L3cVEQkWhdo6OxHW6wQ658ciBS1pNtfDZTpBSNZjDSJiaHfq38VOAArWd+xQRh8p9RcTCESuaFYJF1fAGo6ZnMH6Y2RWHOzEa+kGtngqtyfLSO+OfpxZHqfhtJvkypN+OS8kvPMp+dyGvxkTozBkuUlVtzOi+j1oNgYAZebW5wn+hp8QayrC2CLGW/1Cb8105qfMr7sq8GrxCPyDO+A4uNxRO5L45Fvl+2RPXE8uQDN0m5BUry2SG7E/NoUjjOyQKX8EhpH8gslf2NhgU9NIZjFB3TZb+z8CqdEPqkDwMfLmr6Fy1/m5pkyZC4kaSqwz04N7YBF0="
-    #travis encrypt SAUCE_ACCESS_KEY=...
-
 script:
   - export
