@@ -1,4 +1,8 @@
+env:
+  global:
+    secure: x9n+dcGwjlEX/oTWH4XxuKfT5bfzig3zww3ejwmwF9HtSNHYd1AeTvcQHVTg2T0WCM2nujOIdXo0eggBU9rWCUIZfhJ+R+OPvGh9Y6vkb6+AttBEUSRGNR3goa5AgBPr3LL31NGsvQoIE5uClw2aHUAZuzZXGk74gDp7fFgvh+MaaIrmOCB+WF99y+gYsWqTLOHAi60ywM68qeo4NahkTL2EAipt3x9QDFQRMntaNLoYs5xPsqgw6gv1w9GoHiYofumHre+uwWNyjuZiHdtWYL2/BKaW2xh92G/vAHvT2a88HhRIftSqf/3u9RZnjEtr4z7RKHkb2svprBG0ZN8FwEH2lraMFPaSEQAMsskqTcXLXko9O5/HdKZ/gIdBt079mbse48GRB3pbEJUycpIFp7DrUcuWrxUeVMHRhEzHTtu6r/7Y1rqprnjyZ62wQ5Z/m+lvfCNP9qd6uy0vs/w2EoJkIdWi3yAbnjNi+S75YT1YfoZ8ac8FC9SF4hAU6sDEVbEIi6oHSk8nPgqLqxvceya9T8ngtxACbms0aRZBG6aGlC0uFkDw7XwGtnsoHz9izHdESx6edCccm8TCaLaX4mDwuEve5lCzjqiVGfotet2r+ZvjDHna0p9SxkhlLQNQwjRN4lPXLPWjdJg4BREU8dm5QENvfYNH4mgpng/FrAI=
+
 script:
-  - export
-  - ls -al auto
-  - bash auto/magic.sh
+- export
+- ls -al auto
+- bash auto/magic.sh
