@@ -1,3 +1,4 @@
 script:
   - export
+  - ls -al auto
   - auto/magic.sh
