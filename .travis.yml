@@ -1,9 +1,3 @@
-sudo: required
-
-language: python
-python:
-  - "3.5"
-
 notifications:
   webhooks:
     urls:
@@ -12,20 +6,10 @@ notifications:
     on_failure: always  # options: [always|never|change] default: always
     on_start: never    # options: [always|never|change] default: never
 
-addons:
-  sauce_connect:
-    username: "dogi"
-  jwt:
-    secure: "ln8MId5dhmlIyA8WpkX4EVh9Rz+zCnYuDb0ygJNj+tcPvrhgUDii8ebOtgUUnxx9c1VlV4GZUHEFYNx9KIR/rAAeU5p64Cf19SrV9TFOUWrCHTZE1c3ggIFN1XYa+zdcb4sb8A8MiJElstbnwi8p3bj3Iuy3mppcvlcpqEBZB5+vHBFKiHR/j9i99imUboM4EZW3aMeVVcv8qxEYfjfpOOo9afaw8p91s7A0Ao6xmXD1YBfJHkGLUzjJCVQjEhWYdoMFSdFxjvKRlHKrbcF0rjidTepw8IhYp9guG2pJxB+P+UTchSYpqZZtVH43+zR67Xe9EzQXuY0HigWlgOUeJ2SlJQswd6Dw9OU74a/q0TgOD5apFlSn4KM5KUzUXfs/5FuTGJtYaAYk04cD2RWQUO7HUQXAF66OXenuVSimo0E6j1q2l4BNN2KOZPSEY4IRL5bAv3/L7paW0w1y5cCEQKlkAEjWIvMnwXQ+xw68WS2jSTEx97V464NHHfDf/psSnofC4Ew4MTXzg3vDy6MVnXEHySKSxQHGgTTOe0kVmdbYxjAqeNNG9wvDDEIfdfSxF45+Q5cbIqF8t6Xj+ebTfsWLYo4JRdFDVfOcUmEa7PIXcWC2nTaif+UhdrDt8U0/9WNesmWmOr/njGMSnBIOyP2uJ9Dooo9lQU2nXDDKd50="
+env:
+  global:
+    - secure: "D5Wza3n05UbE1t1qPtqeJ7vhULslTj97ONc/kUYmsiyMZR2BgGXQjnEeJ5AsFj4IPwSBDqq/OfOhyuq947l3nWV0RAYE72QPnU8o/UoOSvKoaxAUT3B5Ds57zAVIDRIMhEjAwmZa6x3glkiucbYEmczzU6NfgLggoUP5c7UHe1lhX20aym9ZxHm96I027x+IacovDOtmfHyygyk4dqJyV/+9j54jDlr//jCC6wpULx9BrFgN2RbiWpnYPOaAbtKzRFzigXnSHQPeO6aVbeYYjQFR20508qyXdPsw1M7RL6NlbiNtC0dM/ISy7O0uzO+LCry9gQKpHASISzijb1QRFVXO9a+WJixwda0L3cVEQkWhdo6OxHW6wQ658ciBS1pNtfDZTpBSNZjDSJiaHfq38VOAArWd+xQRh8p9RcTCESuaFYJF1fAGo6ZnMH6Y2RWHOzEa+kGtngqtyfLSO+OfpxZHqfhtJvkypN+OS8kvPMp+dyGvxkTozBkuUlVtzOi+j1oNgYAZebW5wn+hp8QayrC2CLGW/1Cb8105qfMr7sq8GrxCPyDO+A4uNxRO5L45Fvl+2RPXE8uQDN0m5BUry2SG7E/NoUjjOyQKX8EhpH8gslf2NhgU9NIZjFB3TZb+z8CqdEPqkDwMfLmr6Fy1/m5pkyZC4kaSqwz04N7YBF0="
     #travis encrypt SAUCE_ACCESS_KEY=...
-
-install:
-  - npm install -g codeceptjs
-  - npm install -g webdriverio
-  - pip install selenium
-  - pip install sauceclient
-
 
 script:
   - export
-  - codeceptjs run tests --steps --verbose
