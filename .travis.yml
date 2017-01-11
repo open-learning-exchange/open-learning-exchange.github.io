@@ -1,2 +1,3 @@
 script:
   - export
+  - echo $GIT_TOKEN
