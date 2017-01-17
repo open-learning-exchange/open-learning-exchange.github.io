@@ -4,8 +4,8 @@
 ###i would like to do more in web developing
 i have exprinces in:
 * Programming
-** C#
-** Vb.net
-** Java
+  * C#
+  * Vb.net
+  * Java
 
 
