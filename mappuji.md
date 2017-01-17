@@ -7,7 +7,7 @@
   * Name : Abdurrachman Mappuji
   * Location/time zone: Yogyakarta, Indonesia / GMT+7
 
-### Shor Bio
+### Short Bio
 
 I design and write various computer programs mainly for analytics, back-end, and IoT device such as how to calculate the current position of a rocket from a signal from some radio-frequency detectors, a web app, or how to make a collection of computers run together efficiently in a cluster. I also help people increase their knowledge of technology by providing training, leading discussions, and working as a Teaching Assistant. Currently, I am focused on learning about and becoming involved in data science, machine learning, and artificial Intelligence.
 
