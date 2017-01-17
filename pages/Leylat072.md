@@ -8,7 +8,7 @@ i have exprinces in:
   * Vb.net
   * Java
   
-  **Email:**_[leylat072@gmail.com]_(leylat072@gmail.com)
+  **Email:** <leylat072@gmail.com>
   
 
 
