@@ -6,6 +6,8 @@
 
   * Name : Abdurrachman Mappuji
   * Location/time zone: Yogyakarta, Indonesia / GMT+7
+  * Operating System : Windows
+  * LinkedIn : [My LinkedIn](https://www.linkedin.com/in/mappuji)
 
 ### Short Bio
 
