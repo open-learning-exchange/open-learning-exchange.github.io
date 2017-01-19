@@ -56,23 +56,24 @@ You have a couple of options.
 
 ## Helpful Links
 #### *GitHub and Markdown*
-[GitHub and Markdown Short Tutorials](https://guides.github.com/)
-[Git Pro (Book)](https://git-scm.com/book/en/v2)
-[Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
-[Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
-[Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
-[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/)
-[Vi Cheat Sheet (JPG)](https://www.shell-tips.com/sheets/vi_help_sheet.jpg)
+- [GitHub and Markdown Short Tutorials](https://guides.github.com/)
+- [Git Pro (Book)](https://git-scm.com/book/en/v2)
+- [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
+- [GitHub Tips](https://github.com/git-tips/tips/blob/master/README.md)
+- [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
+- [Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+- [Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/)
+- [Vi Cheat Sheet (JPG)](https://www.shell-tips.com/sheets/vi_help_sheet.jpg)
 #### *VirtualBox*
-[VirtualBox First Steps (Manual)](https://www.virtualbox.org/manual/ch01.html)
+- [VirtualBox First Steps (Manual)](https://www.virtualbox.org/manual/ch01.html)
 #### *Vagrant*
-[Vagrant Documentation](https://www.vagrantup.com/docs/getting-started/)
-[Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
+- [Vagrant Documentation](https://www.vagrantup.com/docs/getting-started/)
+- [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
 
 ## Helpful Videos
-[GitHub & Git Foundations (Playlist)](https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM)
-[Shorter Git/GitHub Tutorial (Playlist)](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
-[Mastering Markdown (Playlist)](https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
-[How to Manually Fix Git Merge Conflicts](https://www.youtube.com/watch?v=g8BRcB9NLp4) - Please, note that this video will explain how to fix a merge conflict from the point of view of the repo owner who is trying to merge a pull request. However, it is helpful also when you have to fix a merge conflict on your own local and forked repos.
-[How to Use VirtualBox](https://www.youtube.com/watch?v=Dbblu_HVROk)
-[Vagrant Tutorial](https://www.youtube.com/watch?v=PmOMc4zfCSw)
+- [GitHub & Git Foundations (Playlist)](https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM)
+- [Shorter Git/GitHub Tutorial (Playlist)](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+- [Mastering Markdown (Playlist)](https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
+- [How to Manually Fix Git Merge Conflicts](https://www.youtube.com/watch?v=g8BRcB9NLp4) - Please, note that this video will explain how to fix a merge conflict from the point of view of the repo owner who is trying to merge a pull request. However, it is helpful also when you have to fix a merge conflict on your own local and forked repos.
+- [How to Use VirtualBox](https://www.youtube.com/watch?v=Dbblu_HVROk)
+- [Vagrant Tutorial](https://www.youtube.com/watch?v=PmOMc4zfCSw)

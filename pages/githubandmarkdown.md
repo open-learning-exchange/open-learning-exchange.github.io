@@ -64,7 +64,7 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 ###Create a new file as your personal MD Wiki page and commit your changes
 Now, you can edit the files in your repo and the changes you make will be reflected on your &lt;username&gt;.github.io website. To edit, click on the `pages` folder. Then, click `New File` and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is EmilyLarkin.github.io/pages/EmilyLarkin.md, so yours should be named in the same manner, only using your username.
 
-From here, click the pencil icon to edit (as shown below) and type your name, your location/time zone, and OS (including version). Please, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. Then, scroll down to the bottom of the page, select the `Commit directly to the master branch` radio box and click `Commit New File`.
+In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. Then, scroll down to the bottom of the page, select the `Commit directly to the master branch` radio box and click `Commit New File`. If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
 ![Edit](uploads/images/Edit.png)
 
