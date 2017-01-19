@@ -17,6 +17,7 @@ if you have any questions or need help completing the steps, feel free to ask an
 ## Previous Interns
 ---
 
+
 >### Summer 2016 virtual interns
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
@@ -33,6 +34,7 @@ if you have any questions or need help completing the steps, feel free to ask an
 |[sthak004](sthak004.md)|   |   |
 |[Neha1990](Neha1990.md)|   |   |
 |[cw-lin](cw-lin.md)|   |   |
+
 
 
 ---
