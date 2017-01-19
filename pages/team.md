@@ -2,10 +2,10 @@
 ## Current virtual interns
 |**Username**|**Join Date**|
 |------------|-------------|
-|[waryhermit](waryhermit.md)(Internlead)|20161213|
+|[waryhermit](waryhermit.md) (Internlead)|20161213|
 |[FanisGk](FanisGk.md)|   |
 |[prmurphy](prmurphy.md)|   |
-|[hikaruit15](hikaruit15.md)|   |
+|[hikaruit15](hikaruit15.md)|20161117|
 |[hannahgdubin](hannahgdubin.md)|   |
 
 
@@ -18,10 +18,10 @@ if you have any questions or need help completing the steps, feel free to ask an
 >### Virtual interns 2016
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
-|[EmilyLarkin](EmilyLarkin.md)(Internlead)|   |   |
-|[DrewPerlman](DrewPerlman.md)(Internlead)|   |   |
-|[i5o](i5o.md)(Internlead)|   |   |
-|[aberdean](aberdean.md)(Internlead)|   |   |
+|[EmilyLarkin](EmilyLarkin.md) (Internlead)|   |   |
+|[DrewPerlman](DrewPerlman.md) (Internlead)|   |   |
+|[i5o](i5o.md) (Internlead)|   |   |
+|[aberdean](aberdean.md) (Internlead)|   |   |
 |[fsjoyti](fsjoyti.md)|   |   |
 |[xinglunxu](xinglunxu.md)|   |   |
 |[pranesh-s](pranesh-s.md)|   |   |
