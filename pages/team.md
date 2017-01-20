@@ -1,27 +1,21 @@
 # Members
-## Current virtual interns
+## Active interns
 |**Username**|**Join Date**|
 |------------|-------------|
-|[waryhermit](waryhermit.md) (intern lead)|20161213|
+|[waryhermit](waryhermit.md) (**Intern Lead**)|20161213|
 |[FanisGk](FanisGk.md)|   |
 |[prmurphy](prmurphy.md)|   |
 |[hikaruit15](hikaruit15.md)|20161117|
 |[hannahgdubin](hannahgdubin.md)|   |
 
 
-if you have any questions or need help completing the steps, feel free to ask any of the current interns on [Gitter chat](https://gitter.im/open-learning-exchange/chat)
-
-## Previous Interns
----
-
-
->### Virtual interns 2016
+### Inactive interns
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
-|[EmilyLarkin](EmilyLarkin.md) (intern lead)|   |   |
-|[DrewPerlman](DrewPerlman.md) (intern lead)|   |   |
-|[i5o](i5o.md) (intern lead)|   |   |
-|[aberdean](aberdean.md) (intern lead)|   |   |
+|[EmilyLarkin](EmilyLarkin.md) (**Intern Lead**)|   |   |
+|[DrewPerlman](DrewPerlman.md) (**Intern Lead**)|   |   |
+|[i5o](i5o.md) (**Intern Lead**)|   |   |
+|[aberdean](aberdean.md) (**Intern Lead**)|   |   |
 |[fsjoyti](fsjoyti.md)|   |   |
 |[xinglunxu](xinglunxu.md)|   |   |
 |[pranesh-s](pranesh-s.md)|   |   |
