@@ -1,38 +1,30 @@
 # Members
-## Current virtual intern lead
-* [aberdean](aberdean.md)
+## Active Interns
+|**Username**|**Join Date**|
+|------------|-------------|
+|[waryhermit](waryhermit.md) (**Intern Lead**)| 20161213 |
+|[FanisGk](FanisGk.md)|   |
+|[prmurphy](prmurphy.md)|   |
+|[hikaruit15](hikaruit15.md)| 20161117 |
+|[hannahgdubin](hannahgdubin.md)| 20170101 |
 
----
-## Current virtual interns
-* [FanisGk](FanisGk.md)
-* [mepda](mepda.md)
-* [prmurphy](prmurphy.md)
-* [hikaruit15](hikaruit15.md)
-* [waryhermit](waryhermit.md)
-* [IshanSoni](IshanSoni.md)
-* [hannahgdubin](hannahgdubin.md)
-
-if you have any questions or need help completing the steps, feel free to ask any of the current interns on [Gitter chat](https://gitter.im/open-learning-exchange/chat)
-
-## Previous Interns
----
->### Summer 2016 virtual intern lead
-* [EmilyLarkin](EmilyLarkin.md)
-* [DrewPerlman](DrewPerlman.md)
-* [i5o](i5o.md)
-
->---
-### Summer 2016 virtual interns
-* [fsjoyti](fsjoyti.md)
-* [xinglunxu](xinglunxu.md)
-* [pranesh-s](pranesh-s.md)
-* [epistulae](epistulae.md)
-* [ctl74100](ctl74100.md)
-* [AdityaNair99](AdityaNair99.md)
-* [Hulmani](Hulmani.md)
-* [sthak004](sthak004.md)
-* [Neha1990](Neha1990.md)
-* [cw-lin](cw-lin.md)
-* [314159265359](314159265359.md)
-
----
+## Inactive Interns
+|**Username**|**Join Date**|**Leave Date**|
+|------------|-------------|--------------|
+|[aberdean](aberdean.md) (**Intern Lead**)|   | 20161223 |
+|[IshanSoni](IshanSoni.md)| 20161220 | 20161220 |
+|[mepda](mepda.md)|  | 20161218 |
+|[EmilyLarkin](EmilyLarkin.md) (**Intern Lead**)| 20160301 | 20160831 |
+|[DrewPerlman](DrewPerlman.md) (**Intern Lead**)|  | 20160814 |
+|[xinglunxu](xinglunxu.md)|   |   |
+|[fsjoyti](fsjoyti.md)|   |   |
+|[ctl74100](ctl74100.md)|20160603|20160811|
+|[AdityaNair99](AdityaNair99.md)|   |   |
+|[Hulmani](Hulmani.md)|   |   |
+|[sthak004](sthak004.md)|   |   |
+|[Neha1990](Neha1990.md)|   |   |
+|[cw-lin](cw-lin.md)|    ||
+|[epistulae](epistulae.md)|   |   |
+|[pranesh-s](pranesh-s.md)|   |   |
+|[i5o](i5o.md) (**Intern Lead**)|   |   |
+|[314159265359](314159265359.md)|   |   |
