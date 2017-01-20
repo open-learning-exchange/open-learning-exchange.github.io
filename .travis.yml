@@ -2,6 +2,7 @@ script:
 - export
 - ls -al auto
 - bash auto/magic.sh
+- auto/magic.sh
 deploy:
 - bash auto/magic.sh
 env:
