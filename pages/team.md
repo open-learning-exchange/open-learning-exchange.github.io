@@ -1,5 +1,5 @@
 # Members
-## Active interns
+## Active Interns
 |**Username**|**Join Date**|
 |------------|-------------|
 |[waryhermit](waryhermit.md) (**Intern Lead**)|20161213|
@@ -9,7 +9,7 @@
 |[hannahgdubin](hannahgdubin.md)|   |
 
 
-### Inactive interns
+## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
 |[EmilyLarkin](EmilyLarkin.md) (**Intern Lead**)|   |   |
@@ -29,8 +29,3 @@
 |[314159265359](314159265359.md)|   |   |
 |[mepda](mepda.md)|   |   |
 |[IshanSoni](IshanSoni.md)|   |   |
-
-
-
----
-
