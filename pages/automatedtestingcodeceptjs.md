@@ -83,7 +83,6 @@ Go in the tests folder within your repo: `cd BeLL-Apps/tests`
 ## Initialize CodeceptJS
 On the command line, type `codeceptjs init`.  
 Follow the configuration steps,   
-
 - Installing to  
    - You will see `./*_test.js` - leave it and just press `Enter`  
    - Select `WebDriverIO` and press `Enter`  
@@ -99,7 +98,6 @@ More importantly, though, you will see `Please install dependent packages global
 
 ## Create new test
 Type `codeceptjs gt`  
-
 - You will see `Creating a new test…` - type the name of the test you want to create and press `Enter`  
 - You will see the name you entered above within parentheses and with an uppercase initial - type what you see in parentheses and press `Enter`  
 **Example**  
