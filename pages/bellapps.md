@@ -13,7 +13,7 @@ Your first page will look like this:
 ![127.0.0.1:5985](uploads/images/127.0.0.1-5985.png)
 
 ##Windows
-Please, double click on the MyBeLL icon on your desktop. It will open up a Firefox browser and show you the user interface (see below). 
+Please, double click on the MyBeLL icon on your desktop. It will open up a Firefox browser and show you the user interface (see below).  If you get an `Unable to connect` page, please check it out at [FAQ](faq.md).
 
 ##Database
 [CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the BeLL. You can see the backend interface of our CouchDB at http://127.0.0.1:5985/_utils. In _utils, you have the opportunity to see all of the software dev of your vagrant BeLL.
