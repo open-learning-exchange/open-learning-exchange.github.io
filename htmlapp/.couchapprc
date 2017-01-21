@@ -1,7 +1,0 @@
-{
-    "env" : {
-        "myserver" : {
-            "db" : "http://127.0.0.1:5985/resources"
-        }
-    }
-}
