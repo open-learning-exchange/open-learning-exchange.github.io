@@ -13,9 +13,9 @@ My main focus is, web development and android development,I'm interested in the 
   
 I buy and sell in my spare time and also love helping others.
 
-My favorite _ foods _:
-_ Banku
-_ fufu
+My favorite  **foods**:
+- Banku
+- fufu
 
 [fufu](http://cdn.ghanaweb.com/imagelib/pics/89598063.jpg)
 
