@@ -17,6 +17,8 @@ My favorite _ foods _:
 _ Banku
 _ fufu
 
+[fufu](http://cdn.ghanaweb.com/imagelib/pics/89598063.jpg)
+
 Markdown is pretty cool
   
   [Email]: shabiba85@gmail.com
