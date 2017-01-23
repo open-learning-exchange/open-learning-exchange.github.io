@@ -5,11 +5,11 @@
  -MYSQL
  -Basic Java
  -Android.
-  my main focus web development and android development,I'm interested in the use of e-learning platforms and love learning new things.
+  my main focus web *development and *android development,I'm interested in the use of e-learning platforms and love learning new things.
 I buy and sell in my spare time and also love helping others.
 My favorite foods:
 _Banku
 _fufu
 Markdown is pretty cool
   
-  Email: shabiba85@gmail.com
+  [Email]: shabiba85@gmail.com
