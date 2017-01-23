@@ -7,7 +7,7 @@
  -Android.
   my main focus web *development and *android development,I'm interested in the use of e-learning platforms and love learning new things.
 I buy and sell in my spare time and also love helping others.
-My favorite foods:
+My favorite _foods_:
 _Banku
 _fufu
 Markdown is pretty cool
