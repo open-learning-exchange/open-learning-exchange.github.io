@@ -17,7 +17,7 @@ My favorite  **foods**:
 - Banku
 - fufu
 
-[fufu](http://cdn.ghanaweb.com/imagelib/pics/89598063.jpg)
+![alt fufu](http://cdn.ghanaweb.com/imagelib/pics/89598063.jpg "african food")
 
 Markdown is pretty cool
   
