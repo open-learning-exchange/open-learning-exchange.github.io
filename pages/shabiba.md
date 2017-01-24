@@ -13,7 +13,8 @@ My main focus is, web development and android development, I'm interested in the
   
 I buy and sell in my spare time and also love helping others.
 
-My favorite  **foods**:
+My favorite **foods**:
+
 - Banku
 - fufu
 
@@ -21,4 +22,4 @@ My favorite  **foods**:
 
 Markdown is pretty cool
   
-  [Email:] shabiba85@gmail.com
+  [Email:](shabiba85@gmail.com)
