@@ -1,4 +1,4 @@
-My name is  __ Shabiba Abubakar__ , you can call me shabiba, am a graduate from kofi Anan ICT center ghana.
+My name is Shabiba Abubakar, you can call me shabiba, am a graduate from kofi Anan ICT center ghana.
   
 **OS:**  Window 8.
   
@@ -9,7 +9,7 @@ My name is  __ Shabiba Abubakar__ , you can call me shabiba, am a graduate from 
 - Basic Java
 - Android.
 
-My main focus is, web development and android development,I'm interested in the use of e-learning platforms and love learning new things.
+My main focus is, web development and android development, ^I'm interested in the use of e-learning platforms and love learning new things.
   
 I buy and sell in my spare time and also love helping others.
 
@@ -21,4 +21,4 @@ My favorite  **foods**:
 
 Markdown is pretty cool
   
-  [Email]: shabiba85@gmail.com
+  [Email:] shabiba85@gmail.com
