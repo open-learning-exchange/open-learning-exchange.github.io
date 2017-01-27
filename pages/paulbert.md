@@ -1,8 +1,8 @@
 # Paul Albert
 
-:clock7: EST (UTC-5)
+&#x1F556; EST (UTC-5)
 
-:computer: Windows 10
+&#x1F4BB; Windows 10
 
 I'm a former advertising/web analyst in Somerville, MA who decided to make a career change to get into web development.  I studied music in college and focused on composition.  **This means I have two lists:**
 
