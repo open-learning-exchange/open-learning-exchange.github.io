@@ -21,3 +21,5 @@ I'm a former advertising/web analyst in Somerville, MA who decided to make a car
 * Double/Upright Bass
 
 I also enjoy traveling, cooking, soccer, and ultimate frisbee.
+
+Check out my [GitHub](http://www.github.com/paulbert "GitHub") and [CodePen](http://www.codepen.io/paulbert "CodePen")
