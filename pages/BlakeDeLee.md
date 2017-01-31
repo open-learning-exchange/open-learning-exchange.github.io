@@ -14,4 +14,4 @@ I enjoy learning new things, and especially coding.  A few of the languages I ha
 
 A hobby of mine is Overwatch.  I'm currently rank 3900.  I also like to play basketball and go biking.  I also just adopted an adorable one-eyed black kitten.
 
-I will be making an web-based Overwatch tool in the near future, until then, the [link](https://counter.watch) just points to my Stream team.
+I will be making an web-based Overwatch tool in the near future, until then, the [link](http://counter.watch) just points to my Stream team.
