@@ -12,8 +12,10 @@ I.T student studying in Brisbane, Australia.
 *C*
 
 ```
+#include <stdio.h>
+
 int main() {
-    
+    printf("C!\n");    
     return 0;
 }
 ```
@@ -21,7 +23,7 @@ int main() {
 *JS*
 
 ```
-var s = alert("JS!");
+alert("JS!");
 ```
  
 *PHP*
@@ -34,11 +36,19 @@ echo "PHP!";
 
 *Python*
 
-```python
+```
 s = "Python"
 print s 
 ```  
 
 **Keen to write some C# code!**
+```
+System.WriteLine("C#!");
+
+```
+
+
+
+![](http://1.bp.blogspot.com/-aQDfNZ3zCOM/U2ok-CcfCmI/AAAAAAAAAmY/SMdYir_cSF0/s1600/happy-coding.gif)
 
 
