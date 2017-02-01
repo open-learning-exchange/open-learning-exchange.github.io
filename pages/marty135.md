@@ -42,9 +42,9 @@ print s
 ```  
 
 **Keen to write some C# code!**
-```
-System.WriteLine("C#!");
 
+```
+Console.WriteLine("C#!");
 ```
 
 
