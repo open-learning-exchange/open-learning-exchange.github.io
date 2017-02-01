@@ -18630,8 +18630,19 @@ var MDwiki;
                         done();
                     }).fail(function () {
                         var log = $.md.getLogger();
-                        log.fatal('Could not get ' + $.md.mainHref);
-                        done();
+                        log.warn('Could not get ' + $.md.mainHref);
+                        ajaxReq = {
+                            url: '404.md',
+                            dataType: 'text'
+                        };
+                        $.ajax(ajaxReq).done(function (data) {
+                            md = data;
+                            done();
+                        }).fail(function () {
+                            var log = $.md.getLogger();
+                            log.fatal('Could not get 404.md');
+                            done();
+                        });
                     });
                 });
                 this.stages.getStage('transform').subscribe(function (done) {
