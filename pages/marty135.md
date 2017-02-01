@@ -6,6 +6,12 @@
 --- 
 
 I.T student studying in Brisbane, Australia. 
+#### Other languages familiar with:
+	- C 
+	- JS
+	- PHP
+	- Python  
 
-Keen to write some C# code! 
+**Keen to write some C# code!**
+
 
