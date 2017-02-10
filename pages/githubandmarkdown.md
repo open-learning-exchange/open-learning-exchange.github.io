@@ -64,11 +64,15 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 ###Create a new file as your personal MD Wiki page and commit your changes
 Now, you can edit the files in your repo and the changes you make will be reflected on your &lt;username&gt;.github.io website. To edit, click on the `pages` folder. Then, click `New File` and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is EmilyLarkin.github.io/pages/EmilyLarkin.md, so yours should be named in the same manner, only using your username.
 
-In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. Then, scroll down to the bottom of the page, select the `Commit directly to the master branch` radio box and click `Commit New File`. If you need to edit your file again, just click the pencil icon to edit (as shown below).
+In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. Then, scroll down to the bottom of the page, select the ` Create a new branch for this commit and start a pull request. Learn more about pull requests.` radio box and input `arbitrary name`. You can see the example below.
+
+![New Branch](uploads/images/newbranch.png) 
+
+If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
 ![Edit](uploads/images/Edit.png)
 
-Now, check what this looks like on your own page (&lt;username&gt;.github.io/#!pages/&lt;username&gt;.md) and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
+Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
 ###Open a pull request
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Finally, click `Create pull request` and someone from our team will then approve and merge your pull request, once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
