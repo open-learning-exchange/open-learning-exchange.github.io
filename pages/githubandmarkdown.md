@@ -72,7 +72,7 @@ If you need to edit your file again, just click the pencil icon to edit (as show
 
 ![Edit](uploads/images/Edit.png)
 
-Now, check what this looks like on your own page (&lt;username&gt;.github.io/#!pages/&lt;username&gt;.md) and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
+Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
 ###Open a pull request
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Finally, click `Create pull request` and someone from our team will then approve and merge your pull request, once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
