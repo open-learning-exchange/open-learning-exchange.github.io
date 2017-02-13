@@ -29,6 +29,22 @@ To finish the initial steps, you need to make a **minimum** of three issues and 
 There is no official deadline, work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days. 
 ## Technical Issues and Questions
 
+*Q: When I first run BeLL with the `vagrant up` command the download fails, why?*
+You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar : 
+![left sidebar](uploads/images/atlas_status.png)
+If Atlas is operational, then maybe your download is being interrupted, you can try to download and set up the big vagrant box file manually:
+1. Go to this [atlas box page](https://atlas.hashicorp.com/ole/boxes/jessie64/)
+2. Click on the last version's (the uppermost) version number
+![box version](uploads/images/atlas_last_version_box.png)
+3.  Add `/providers/virtualbox.box` to the page's link you have been redirected to, and click enter to start the download via your browser, or copy the link and paste it in your preferred Downloader, preferrably one that has pause/resume functionality.
+4. After you download the box run the following commands while in your `ole--vagrant-vi` directory, also put the correct path to the box you downloaded: 
+``` bash
+vagrant box add ole/jessie64 /path/to/vagrant-box.box
+vagrant init ole/jessie64
+vagrant up
+```
+You now have a working communityBeLL on your OS.
+
 *Q: What is the purpose of nations and communities, and how do they work together?*
 We use the nation/community infrastructure because we often deploy our software in places without internet. Nations are the service sitting in the cloud (which are connected to the internet). Communities, which run locally on Raspberry Pi’s and/or laptops, are run on an *intranet* but are most of the time not connected to the *internet*. Because nations are connected to the internet, they allow a connection process between us (with internet) and users on communities (without internet). To sync with a nation, however, a community needs to be connected to the internet so that information can be sent in both directions.
 
