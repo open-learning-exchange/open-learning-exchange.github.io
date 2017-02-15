@@ -41,13 +41,19 @@ Please make sure you’re using Firefox, as our BeLL software is only guaranteed
 Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual BeLL user interface.
 
 *Q: When I first run BeLL with the `vagrant up` command the download fails, why?*
-You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar : 
+You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar :
+
 ![left sidebar](uploads/images/atlas_status.png)
+
 If Atlas is operational, then maybe your download is being interrupted, you can try to download and set up the big vagrant box file manually:
+
 1. Go to this [atlas box page](https://atlas.hashicorp.com/ole/boxes/jessie64/)
+
 2. Click on the last version's (the uppermost) version number
 ![box version](uploads/images/atlas_last_version_box.png)
+
 3.  Add `/providers/virtualbox.box` to the page's link you have been redirected to, and click enter to start the download via your browser, or copy the link and paste it in your preferred Downloader, preferrably one that has pause/resume functionality.
+
 4. After you download the box run the following commands while in your `ole--vagrant-vi` directory, also put the correct path to the box you downloaded: 
 ``` bash
 vagrant box add ole/jessie64 /path/to/vagrant-box.box
@@ -59,7 +65,7 @@ You now have a working communityBeLL on your OS.
 *Q: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?*
 You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
 
-Q*: What do I do if I already have a github.io with my username?*
+*Q: What do I do if I already have a github.io with my username?*
 You have a couple of options.
 
 1. If you are not using the repo anymore you can delete it and then follow the [First Steps.]( http://open-learning-exchange.github.io/#!pages/firststeps.md)
