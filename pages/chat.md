@@ -4,7 +4,7 @@ Our **Gitter** chat, previewed below, is a great place to learn, discuss, and co
 
 
 
-<iframe src="https://gitter.im/open-learning-exchange/chat/~embed" style="width: 100%;border:none;height:70vh;">
+<iframe src="https://gitter.im/open-learning-exchange/chat/~embed" style="width: 100%;border:none;height:70vh;"></iframe>
 
 
 
