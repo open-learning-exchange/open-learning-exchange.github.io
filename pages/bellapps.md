@@ -1,16 +1,15 @@
 #BeLL-Apps: Communities and Nations
-
 ##Introduction
 
 The BeLL (Basic e-Learning Library) is not only a library, but also an individualized learning system, where students can select their own books and courses to target their individual goals. The two kinds of BeLL apps are described below.
 
-###BeLL Communities (Local)
+####BeLL Communities (Local)
 
 * Communities are how the BeLL functions on a local network, with users connecting to a community using either a laptop or a RPi and a router.
 * Periodically communities sync with Nations on the internet, which includes sending and receiving educational materials.
 * In step 1 you created a BeLL community on your computer. As you follow the steps on this page you will access and configure your community.
 
-###BeLL Nations (Internet)
+####BeLL Nations (Internet)
 
 * Nations are BeLL apps for the Internet, allowing communities to interact with each other.
 * Nations are over a group of communities, and can run reports on any communities it owns.
