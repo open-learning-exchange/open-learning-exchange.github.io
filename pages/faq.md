@@ -1,4 +1,4 @@
-﻿# FAQ
+# FAQ
 
 ## General Internship Information
 *Q: What will I be working on during this internship?*
@@ -50,12 +50,12 @@ If Atlas is operational, then maybe your download is being interrupted, you can 
 1. Go to this [atlas box page](https://atlas.hashicorp.com/ole/boxes/jessie64/)
 
 2. Click on the last version's (the uppermost) version number
-
 ![box version](uploads/images/atlas_last_version_box.png)
 
-3.  Add `/providers/virtualbox.box` to the page's link you have been redirected to, and click enter to start the download via your browser, or copy the link and paste it in your preferred Downloader, preferrably one that has pause/resume functionality.
+3. Add `/providers/virtualbox.box` to the page's link you have been redirected to, and click enter to start the download via your browser, or copy the link and paste it in your preferred Downloader, preferrably one that has pause/resume functionality.
 
 4. After you download the box run the following commands while in your `ole--vagrant-vi` directory, also put the correct path to the box you downloaded: 
+
 ``` bash
 vagrant box add ole/jessie64 /path/to/vagrant-box.box
 vagrant init ole/jessie64
