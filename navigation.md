@@ -42,23 +42,24 @@
 [First Steps]()
 
   * [Start Here](pages/firststeps.md)
-  * [NEW Start Here](pages/newfirststeps.md)
   - - - -
-  * [Vagrant](pages/vagrant.md)
+  * [Vagrant (Windows)](pages/vagrantwin.md)
+  * [Vagrant (MacOS(X)/Ubuntu)](pages/vagrant.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
   * [BeLL-Apps](pages/bellapps.md)
-  * [GitHub Issues](pages/githubissues.md)
   * [Git Repositories](pages/gitandrepositories.md)
+  * [GitHub Issues](pages/githubissues.md)
   * [Nation BeLL](pages/nation.md)
   - - - -
   * [Community Login](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html)
 
 [Teams]()
 
-  * [Bug Hunt](pages/bughunt.md)
+  * [Automated Testing](pages/automatedtesting.md)
   * [Crowdin Integration](pages/crowdinintegration.md)
   * [Simple Install](pages/simpleinstall.md)
   * [HTML Resources](pages/htmlresources.md)
+  * [Take Home](pages/takehome.md)
 
 [Members](pages/team.md)
 [FAQ](pages/faq.md)

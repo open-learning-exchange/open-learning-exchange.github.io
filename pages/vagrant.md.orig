@@ -13,6 +13,27 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
     brew cask install vagrant
     brew cask install virtualbox
 ```
+<<<<<<< HEAD
+### Windows
+You need to manually install git, virtualbox, and vagrant via internet from the installation links provided above. Afterwards, open your `Command Prompt` to check that the following are up and running properly:
+```
+vagrant --version
+vboxmanage --version 
+```
+To run the vboxmanage --version command from your command prompt you can run the command by going into the directory where the executable is located or you can add virtualbox to path environment variables by doing the following steps :
+
+<ol>
+<li>Right click on Computer  
+<li>Click on Properties  
+<li>Click on Advanced System Settings which opens up a pop up box  
+<li>Click on Environment Variables and use the System variables
+<li>Click Edit `Path` in the System variables 
+<li>Click new then browse the directory where your executable is located and click ok  
+</o>  
+
+![Environment Variable Configurations](uploads/images/Environment-Variables.PNG)
+=======
+>>>>>>> upstream/master
 
 ---------------------------------------------------------------------------
 
