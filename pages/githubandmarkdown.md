@@ -22,6 +22,8 @@ Below is a cheat sheet of Markdown to help you create your own individual MD Wik
 
 You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+If you want more practice using Markdown, check out [this site](http://www.markdowntutorial.com/lesson/1/) to explore the MD syntax and see results as you type.
+
 The main GitHub page used to store this MD Wiki can be found at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and our virtual interns will essentially create their own Markdown Wiki repository as a copy of open-learning-exchange.github.io.
 
 ##Start here
@@ -78,8 +80,9 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Finally, click `Create pull request` and someone from our team will then approve and merge your pull request, once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
 ##Useful links
-[GitHub](https://help.github.com/categories/writing-on-github/)  
+[GitHub: Writing and Formatting](https://help.github.com/categories/writing-on-github/)  
 [Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md)  
+[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/)  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 [How to fork a repo](https://help.github.com/articles/fork-a-repo/)
 [Other helpful links and videos](faq.md#Helpful_Links)
