@@ -4,7 +4,7 @@
 
 Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple instructions before you can progress to working on harder projects in bigger teams. Consider them to be the interview for the internship. 
 
-If you are deemed fit for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a specific team to work on developing and improving OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
+If you are deemed fit for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a specific team to work on developing and improving OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
 
 Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
@@ -16,11 +16,11 @@ Social coding is a huge part of any open source and collaborative project, and t
 
 Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The Github and Markdown skills you practice here are very important in both this internship and a future software development career.
 
-We created a [FAQ page](http://open-learning-exchange.github.io/#!pages/faq.md#Helpful_Links) where you can find the answers to some commonly asked questions, both technical and general, and also some very useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
+The MD wiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step and we created a [FAQ page](http://open-learning-exchange.github.io/#!./pages/faq.md) where you can find the answers to some commonly asked questions. This page has even more useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
 
 We also want you to keep us updated a relatively good amount in the Gitter chat as you complete these steps. Please check our [Gitter chat](http://open-learning-exchange.github.io/#!pages/chat.md) page for more information about how to best communicate in Gitter.
 
-A very large part of these steps is finding problems with these steps and this MD wiki, so make sure to take note of any issues that you run into or suggestions for improvement while doing these steps. Think of it as improving these steps and this MD wiki for future interns. 
+A very large part of these steps is finding problems with these steps and this MD wiki, so take note of any issues that you run into or suggestions for improvement while doing these steps. Think of it as improving these steps and this MD wiki for future interns. 
 
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 
