@@ -80,7 +80,7 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Finally, click `Create pull request` and someone from our team will then approve and merge your pull request, once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
 ##Useful links
-[GitHub](https://help.github.com/categories/writing-on-github/)  
+[GitHub: Writing and Formatting](https://help.github.com/categories/writing-on-github/)  
 [Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md)  
 [Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/)  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
