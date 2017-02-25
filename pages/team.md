@@ -9,6 +9,7 @@
 |[hannahgdubin](hannahgdubin.md)| 20170101 |
 |[mappuji](mappuji.md)| 20170122 |
 |[fangninghe](fangninghe.md)| 20170123 |
+|[sarvanivadali](sarvanivadali.md)| 20170223 |
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
@@ -21,7 +22,7 @@
 |[xinglunxu](xinglunxu.md)| 20160520 |   |
 |[fsjoyti](fsjoyti.md)| 20160523 |   |
 |[ctl74100](ctl74100.md)|20160603|20160811|
-|[AdityaNair99](AdityaNair99.md)|   |   |
+|[AdityaNair99](AdityaNair99.md)| 20160529  |   |
 |[Hulmani](Hulmani.md)| 20160701 |   |
 |[sthak004](sthak004.md)| 20160629 |   |
 |[Neha1990](Neha1990.md)| 20160712 |   |
