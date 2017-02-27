@@ -1,12 +1,29 @@
 # First Steps
 
-Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple steps before you can progress to working on harder projects in bigger teams. Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. 
+# The Big Picture
 
-We created a [FAQ page](faq.md) where you can find the answers to some commonly asked questions, and also some very useful links and videos tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
+Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple instructions before you can progress to working on harder projects in bigger teams. Consider them to be the interview for the internship. 
 
-We also want you to keep us updated a relatively good amount in the [Gitter chat](https://gitter.im/open-learning-exchange/chat) as you complete these steps. Generally, you should comment in the Gitter chat when you make an issue or pull request, and then link to it. It's also good form to mention someone in Gitter when you comment on their issue/pull request, and of course link to it. For example: "Hey @dogi, just commented on your issue: https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15"
+If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a specific team to work on developing and improving OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
 
-A very large part of these steps is finding problems with these steps and this MD wiki, so **make sure to take note of any issues that you run into or suggestions for improvement while doing these steps**. Think of it as improving these steps and this MD wiki for future interns. Good luck!
+Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
+
+**Note:** *This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found [here](https://www.indeed.com/jobs?q=%22virtual+software+engineer+intern%22&l=Cambridge,+MA). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](http://open-learning-exchange.github.io/#!pages/chat.md)!*
+
+# The Steps
+
+Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange is no different. In the following series of steps, you will learn about the Github team workflow, including git, forking, pull requests, and repository issues. You will also be introduced to Markdown’s rich text formatting and OLE’s Basic e-Learning Library (BeLL), the digital library that hosts the learning materials.
+
+Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The Github and Markdown skills you practice here are very important in both this internship and a future software development career.
+
+The MD wiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step and we created a [FAQ page](http://open-learning-exchange.github.io/#!./pages/faq.md) where you can find the answers to some commonly asked questions. This page has even more useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
+
+We also want you to keep us updated a relatively good amount in the Gitter chat as you complete these steps. Please check our [Gitter chat](http://open-learning-exchange.github.io/#!pages/chat.md) page for more information about how to best communicate in Gitter.
+
+A very large part of these steps is finding problems with these steps and this MD wiki, so take note of any issues that you run into or suggestions for improvement while doing these steps. Think of it as improving these steps and this MD wiki for future interns. 
+
+There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
+
 
 ##Step #0: Introductory Steps:
 1. Please send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org.
