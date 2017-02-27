@@ -53,6 +53,18 @@ You have a couple of options.
 
 3. Or you can just create another github account, and use that for OLE work
 
+Q*: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?*
+In ```git bash``` type: 
+```
+cd ole--vagrant-vi
+vagrant destroy -f
+cd ..
+rm -rf ole--vagrant-vi
+git clone https://github.com/dogi/ole--vagrant-vi.git
+cd ole--vagrant-vi
+vagrant up
+```
+
 
 ## Helpful Links
 #### *GitHub and Markdown*
