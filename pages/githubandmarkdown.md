@@ -41,8 +41,8 @@ Since you have already created a username on GitHub, we can assume that you unde
 
 There is a lot to learn about GitHub, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example will specifically create your own &lt;username&gt;.github.io and allow you to edit and commit your changes.
 
-####Note:
-Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-email-in-git/) for more information.
+**Note:
+Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-email-in-git/) for more information.**
 
 ###Find and fork the correct repository
 First, you will need to find the correct GitHub repository to fork. Forking is essentially creating a copy of a repository on your own GitHub account, to avoid editing and, possibly, messing up with the main repository. To make it easier on you, we will provide you with a link to the correct repository [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io).
