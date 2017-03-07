@@ -13,6 +13,7 @@
 |[sarvanivadali](sarvanivadali.md)| 20170223 |
 |[Chris-Boe](Chris-Boe.md)| 20170226 |
 |[paulbert](paulbert.md)| 20170308 |
+|[i5o](i5o.md) (**Intern Lead**)| 20170308 |
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
@@ -32,5 +33,4 @@
 |[cw-lin](cw-lin.md)| 20160722 ||
 |[epistulae](epistulae.md)|   |   |
 |[pranesh-s](pranesh-s.md)| 20160525 |   |
-|[i5o](i5o.md) (**Intern Lead**)|   |   |
 |[314159265359](314159265359.md)| 20160523 |   |

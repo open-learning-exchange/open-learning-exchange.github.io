@@ -10,7 +10,7 @@ UTC-3
 > OS X >= Mavericks, Windows >= XP and Linux user.
 I know Python (Gtk) and JavaScript, plus, I think I learn fast :)
 GCI [2013](http://google-opensource.blogspot.com.uy/2014/01/google-code-in-2013-drumroll-please.html), [2014](http://google-opensource.blogspot.com.uy/2015/02/google-code-in-2014-welcome-to-winners.html) winner
-[GCI 2015 mentor](http://people.sugarlabs.org/ignacio/pdf/Ignacio%20Rodri%CC%81guez.pdf)
+GCI [2015](http://people.sugarlabs.org/ignacio/pdf/gci2015.pdf), [2016](http://people.sugarlabs.org/ignacio/pdf/gci2016.pdf) mentor
 
 
 ### Contact info
