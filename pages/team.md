@@ -12,6 +12,7 @@
 |[Ebuka-Chibueze](Ebuka-Chibueze.md)| 20170219 |
 |[sarvanivadali](sarvanivadali.md)| 20170223 |
 |[Chris-Boe](Chris-Boe.md)| 20170226 |
+|[paulbert](paulbert.md)| 20170308 |
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
