@@ -12,3 +12,7 @@ Hello everyone, I'm currently a senior in UMASS Lowell. I go to school full time
 ####Favorite Quote:  
 >“Whether you think you can, or you think you can't--you're right.”   
 +\_― Henry Ford_
+
+ If you like this quote, you can  find more [here](http://www.worldofquotes.com/) or you can just [google](www.google.com) anything you're looking for.  
+ 
+
