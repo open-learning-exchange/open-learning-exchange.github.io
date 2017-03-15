@@ -8,5 +8,7 @@
 ####_* JavaScript_
 ####_* Jquery_
 ####_* Ajax_
-####I love travelling to new places and also exploring different cuisine. Recently We had been to Miami.Following is a picture of beautiful Miami skyline.
+####I love travelling to new places and also exploring different cuisine. Recently We had been to Miami.Following is a picture and map of beautiful Miami Beach.
+[gimmick:MiamiCity](https://en.wikipedia.org/wiki/Miami_Beach,_Florida)
 ![](http://wallpapercave.com/wp/RZuwCkS.jpg)
+[gimmick:googlemaps](Miami Beach, FL)
