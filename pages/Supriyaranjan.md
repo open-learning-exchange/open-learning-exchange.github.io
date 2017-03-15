@@ -8,4 +8,5 @@
 ####_* JavaScript_
 ####_* Jquery_
 ####_* Ajax_
-#####[EMail!](_mailto:supriyaran@gmail.com_)
+####I love travelling to new places and also exploring different cuisine. Recently We had been to Miami.Following is a picture of beautiful Miami skyline.
+![](http://wallpapercave.com/wp/RZuwCkS.jpg)
