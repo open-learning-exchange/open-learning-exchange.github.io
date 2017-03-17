@@ -24,13 +24,13 @@ Note that this will give you the ability to make bigger mistakes - so make sure 
 You will now have the ability to review, close, and merge pull requests and issues.
 ### Reviewing pull requests and issues
 One of your responsibilities as an intern is to review and help prospective interns with their issues / pull request on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [reviewing on Github here](https://help.github.com/articles/about-pull-request-reviews/). You should check for things such as:
-* Is there unneeded files in the pull request?
+* Is there any unneeded files in the pull request?
 * Did they make a branch for their patch?
 * Does the pull request actually fix the issue?
 * Check the pull request on rawgit, does it display without any errors?
 * Is there any merge conflicts?
 
-Every time you comment on an issue or review a pull request, message those involved on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) with a link to the issue / pull request.
+Every time you comment on an issue or review a pull request, message those involved on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) with a link to the issue / pull request. Also if you find any issue with a pull request, do not forget to use the `Request changes` option when creating your review.
 ### Merging a pull request
 If there are no issues remaining with a pull request, and at least two people have approved the pull request it can be merged, provided that there are no changes requested by another intern. When you go to merge the pull request, select Squash Merge, and remove all of the commit message, and make sure the commit title is clear and short. You can write “(fixes issue #)” and it will automatically close the issue that the pull request solves. If you forget, just manually go to the issue and close it, linking to the merged pull request.
 
@@ -65,5 +65,5 @@ Every friday we have a "[Happy hacking hangout](https://plus.google.com/hangouts
 ## Communicate, Communicate, Communicate!
 It’s not good to go silent on gitter or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the gitter chat. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it! 
 
-
+Also if you find any issue with a pull request, do not forget to use the `Request changes` option when creating your review.
 
