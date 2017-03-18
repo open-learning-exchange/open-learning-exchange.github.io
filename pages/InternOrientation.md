@@ -24,11 +24,11 @@ Note that this will give you the ability to make bigger mistakes - so make sure 
 You will now have the ability to review, close, and merge pull requests and issues.
 ### Reviewing pull requests and issues
 One of your responsibilities as an intern is to review and help prospective interns with their issues / pull request on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [reviewing on Github here](https://help.github.com/articles/about-pull-request-reviews/). You should check for things such as:
-* Is there any unneeded files in the pull request?
-* Did they make a branch for their patch?
-* Does the pull request actually fix the issue?
-* Check the pull request on rawgit, does it display without any errors?
-* Is there any merge conflicts?
+* [x] Is there any unneeded files in the pull request?
+* [x] Did they make a branch for their patch?
+* [x] Does the pull request actually fix the issue?
+* [x] Check the pull request on rawgit, does it display without any errors?
+* [x] Is there any merge conflicts?
 
 Every time you comment on an issue or review a pull request, message those involved on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) with a link to the issue / pull request. Also if you find any issue with a pull request, do not forget to use the `Request changes` option when creating your review.
 ### Merging a pull request
