@@ -30,7 +30,7 @@ There is no official deadline to complete these steps, but most candidates who a
 2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Emily](https://github.com/EmilyLarkin), [Stuart](https://github.com/sente) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository or profile page, look for these buttons in the top right of the screen. Please also follow each other to see what others in the group are doing.
 3. We use Crowdin to translate our user interface in many different languages. If you know another language, please go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
 
-##Step #1: BeLL Installation:
+##Step 1 - BeLL Installation:
 Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). You can either scroll down to see the instructions or you can also find them in the README.md file. Please, do not make ANY changes to the text or files: simply read and follow the directions for your operating system.
 
 ##Step 2 - Vagrant Tutorial:
