@@ -10,7 +10,7 @@ Our **Gitter** chat, previewed below, is a great place to learn, discuss, and co
 
 Communication is key in every collaborative project, and OLE is no different. Gitter provides tight integration with *Github* and provides full rich text support through **Markdown**, an important tool for clean, efficient communication. Combining these features allows members to mention other members in a message, format text, share images and code, and directly link to Github issues and repositories.
 
-As you complete the [First Steps](http://open-learning-exchange.github.io/#!pages/firststeps.md), we want you to keep us updated a relatively good amount in the Gitter chat. Generally, you should comment in the Gitter chat when you make an issue or pull request, and then link to it. Make a mention (@*name*) of someone when you comment on their issue/pull request, then link to it.
+As you complete the [First Steps](/#!pages/firststeps.md), we want you to keep us updated a relatively good amount in the Gitter chat. Generally, you should comment in the Gitter chat when you make an issue or pull request, and then link to it. Make a mention (@*name*) of someone when you comment on their issue/pull request, then link to it.
 For example:
   "Hey @dogi, just commented on your issue: [https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15)
   

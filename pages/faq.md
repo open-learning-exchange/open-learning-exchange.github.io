@@ -70,7 +70,7 @@ You need to delete it and start over. Navigate to the misnamed repo and click th
 *Q: What do I do if I already have a github.io with my username?*
 You have a couple of options.
 
-1. If you are not using the repo anymore you can delete it and then follow the [First Steps.]( http://open-learning-exchange.github.io/#!pages/firststeps.md)
+1. If you are not using the repo anymore you can delete it and then follow the [First Steps.](/#!pages/firststeps.md)
 
 2. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repro &lt;orgname&gt;.github.io
 
