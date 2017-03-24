@@ -53,6 +53,7 @@ Every time you work on OLE projects and issues you should post in the Standup gi
 
 While you are free to work in your own style, we recommend you follow this basic daily routine:
 * Check Gitter Interns room and your Gitter private messages.
+* If you are able join the [OLE google hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1) so you can follow what everyone is working on and get help fast.
 * Check Waffle.io, if you have no issues assigned, assign yourself to issues relating to the project you wish to work on.
 * Write a post in [Gitter Standup](https://gitter.im/open-learning-exchange/standup) with the format mentioned above.
 * Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
@@ -63,7 +64,7 @@ While you are free to work in your own style, we recommend you follow this basic
 Every friday we have a "[Happy hacking hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1)" session, where we work on problems together and catch up on what people have been doing all week. Typically we try to follow an Agenda provided in google docs. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the friday meeting. Use the calendar to set up meetings and other events with interns. Just enter: [b9jqne24d57p46p886kh861arg@group.calendar.google.com](b9jqne24d57p46p886kh861arg@group.calendar.google.com) in "*Add a friend's calendar*".
 
 ## Communicate, Communicate, Communicate!
-It’s not good to go silent on gitter or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the gitter chat. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it! 
+It’s not good to go silent on gitter or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the gitter chat. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Also make sure you are aways in the [OLE google hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1). Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it! 
 
 Also if you find any issue with a pull request, do not forget to use the `Request changes` option when creating your review.
 
