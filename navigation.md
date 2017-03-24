@@ -60,6 +60,8 @@
   * [Simple Install](pages/simpleinstall.md)
   * [HTML Resources](pages/htmlresources.md)
   * [Take Home](pages/takehome.md)
+  - - - -
+  * [Intern Orientation](pages/InternOrientation.md)
 
 [Members](pages/team.md)
 [FAQ](pages/faq.md)
