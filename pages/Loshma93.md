@@ -11,6 +11,11 @@ I am an ORACLE Certified Associate JAVA Programmer. I have good knowledge on JAV
 You can find my LinkedIn page here:
 [LinkedIn](https://www.linkedin.com/in/loshma-challagolla-b01925107/)
 
+| Degree        | Major         | State |
+| ------------- |:-------------:| -----:|
+| Master's      | Computer Science | NY, USA |
+| Bachelor's      | Information Technology      |   AP, INDIA |
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
