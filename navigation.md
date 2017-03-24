@@ -55,6 +55,8 @@
 
 [Teams]()
 
+  * [Intern Orientation](pages/InternOrientation.md)
+  - - - -
   * [Automated Testing](pages/automatedtesting.md)
   * [Crowdin Integration](pages/crowdinintegration.md)
   * [Simple Install](pages/simpleinstall.md)
