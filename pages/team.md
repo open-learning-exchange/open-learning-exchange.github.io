@@ -27,9 +27,7 @@
 |[xinglunxu](xinglunxu.md)| 20160520 |   |
 |[fsjoyti](fsjoyti.md)| 20160523 |   |
 |[ctl74100](ctl74100.md)|20160603|20160811|
-|[Hulmani](Hulmani.md)| 20160701 |   |
 |[sthak004](sthak004.md)| 20160629 |   |
-|[Neha1990](Neha1990.md)| 20160712 |   |
 |[cw-lin](cw-lin.md)| 20160722 ||
 |[epistulae](epistulae.md)|   |   |
 |[pranesh-s](pranesh-s.md)| 20160525 |   |
