@@ -24,14 +24,14 @@
 |[mepda](mepda.md)| 20161020 | 20161218 |
 |[EmilyLarkin](EmilyLarkin.md) (**Intern Lead**)| 20160301 | 20160831 |
 |[DrewPerlman](DrewPerlman.md) (**Intern Lead**)| 20160620 | 20160814 |
-|[xinglunxu](xinglunxu.md)| 20160520 |   |
-|[fsjoyti](fsjoyti.md)| 20160523 |   |
-|[ctl74100](ctl74100.md)|20160603|20160811|
-|[AdityaNair99](AdityaNair99.md)| 20160529  |   |
-|[Hulmani](Hulmani.md)| 20160701 |   |
-|[sthak004](sthak004.md)| 20160629 |   |
-|[Neha1990](Neha1990.md)| 20160712 |   |
-|[cw-lin](cw-lin.md)| 20160722 ||
+|[xinglunxu](xinglunxu.md)| 20160520 | 20160527 |
+|[fsjoyti](fsjoyti.md)| 20160523 | 20160602 |
+|[ctl74100](ctl74100.md)| 20160603 | 20160811 |
+|[AdityaNair99](AdityaNair99.md)| 20160529 | 20160608 |
+|[Hulmani](Hulmani.md)| 20160701 | 20160706 |
+|[sthak004](sthak004.md)| 20160629 | 20160714 |
+|[Neha1990](Neha1990.md)| 20160712 |  |
+|[cw-lin](cw-lin.md)| 20160722 | 20160914 |
 |[epistulae](epistulae.md)|   |   |
-|[pranesh-s](pranesh-s.md)| 20160525 |   |
-|[314159265359](314159265359.md)| 20160523 |   |
+|[pranesh-s](pranesh-s.md)| 20160525 | 20160603 |
+|[314159265359](314159265359.md)| 20160523 | 20160603 |
