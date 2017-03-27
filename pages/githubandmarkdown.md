@@ -80,8 +80,8 @@ If you need to edit your file again, just click the pencil icon to edit (as show
 Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
 ###Before Creating Pull request
-When we are creating a pull request we have to create a branch first, edit the file and create pull request.
-When we are creating pull request we have to select base fork as "Open Learning Exchange" and head fork as your personal page.
+When you are creating a pull request, then you have to create a branch first, edit the file and create pull request.
+When you are creating pull request, then you have to select base fork as "Open Learning Exchange" and head fork as your personal page.
 
 
 ###Open a pull request
