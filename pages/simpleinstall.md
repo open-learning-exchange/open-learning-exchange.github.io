@@ -19,7 +19,7 @@ Documentation helps to  understand overall progress of project.Visit following l
 In this project we are working on Batch programming. It is a command line script which runs commands and execute it in sequence.Here we have to create such a script as .Bat file which runs commands and complete installation process.
 
 ###Creating .bat file
-* You can create .bat file by addding some commands in any editor like notpad or notepad++.
+* You can create .bat file by adding some commands in any editor like notpad or notepad++.
 * Save file with .bat extension. It will create executable file
 * you need to learn and research different DOS commands which help us to simplifies the process of installation and achieve our objective. 
 
