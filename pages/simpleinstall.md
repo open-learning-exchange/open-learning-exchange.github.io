@@ -20,7 +20,7 @@ In this project we are working on Batch programming. It is a command line script
 
 ###Creating .bat file
 * You can create .bat file by addding some commands in any editor like notpad or notepad++.
-* Save file with .bat extension.It will create executable file
+* Save file with .bat extension. It will create executable file
 * you need to learn and research different DOS commands which help us to simplifies the process of installation and achieve our objective. 
 
 ###Script should perform following functionality:
@@ -30,19 +30,19 @@ In this project we are working on Batch programming. It is a command line script
 * Add a shortcut to desktop
 * Finish
 
-##Why we need Script?
+##Why do we need the Script?
 
-* Setting up any new environment requires to find,Download and install diffrent softwares.
-* To install diffrent softwares and related components saperately is time consuming process.
-* It also arises the complexity overall if software have compatibility issues or dependancies.
-* Hence to automate the process of installation by runnning single script is easiest way to avoid such overhead. 
-* You do not need to install softwares saperately for settig up environment and script will install all software at once.
-In privious steps we need to install vagrant, virtualbox saperately. This script will simplifies the process and helps to configure Bell app.
+* Setting up any new environment requires finding, downloading, and installing diffrent software.
+* To install diffrent software and related components separately is time-consuming process.
+* It also increases the complexity overall if the software has compatibility issues or dependencies.
+* Hence automating the process of installation by runnning a single script is easiest way to avoid such overhead. 
+* You do not need to install software separately for setting up environment and the script will install all software at once.
+In previous steps we need to install vagrant and virtualbox saperately. This script will simplify the process and help to configure Bell app.
 
 ##About Homebrew
-* Homebrew simplifies the process of downloading,compiling and installing softwares using simple script. 
-* It is bulk installer and command line utility script which automate the process of installation on OS X operating system . 
-* Homebrew is package manager which implemented in ruby language. You can research more about it by visiting http://brew.sh/ link. 
+* Homebrew simplifies the process of downloading, compiling, and installing software using a simple script. 
+* It is a bulk installer and command line utility script which automates the process of installation on the OS X operating system . 
+* Homebrew is a package manager which is implemented in ruby language. You can research more about it by visiting http://brew.sh/ link. 
 
 ##Useful links
 [Homebrew](http://brew.sh/ )  
