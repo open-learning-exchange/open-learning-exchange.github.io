@@ -42,9 +42,6 @@ Note that your name and code must be the same and should correspond to your GitH
 This is because we should be able to know who owns each community from the nation side.
 Also, make sure you pick the correct nation, Virtual Intern Nation (vi).
 After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.
-
-**Note:** *Adding images to Gitter is quite simple. Just drag and drop your screenshot from it's location on your computer to the chat and it will automatically upload.*
-
 Then, click on the **"Register"** button and you will receive a confirmation that your community has been successfully registered (see below).
 
 ![Successfully Registered](uploads/images/success.png)
