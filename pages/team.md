@@ -3,8 +3,6 @@
 |**Username**|**Join Date**|
 |------------|-------------|
 |[waryhermit](waryhermit.md) (**Intern Lead**)| 20161213 |
-|[FanisGk](FanisGk.md)| 20160801 |
-|[prmurphy](prmurphy.md)| 20161023 |
 |[hikaruit15](hikaruit15.md)| 20161117 |
 |[hannahgdubin](hannahgdubin.md)| 20170101 |
 |[mappuji](mappuji.md)| 20170122 |
@@ -19,6 +17,8 @@
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
+|[FanisGk](FanisGk.md)| 20160801 | 20170131 |
+|[prmurphy](prmurphy.md)| 20161023 | 20170131 |
 |[aberdean](aberdean.md) (**Intern Lead**)| 20160904 | 20161223 |
 |[IshanSoni](IshanSoni.md)| 20161220 | 20161220 |
 |[mepda](mepda.md)| 20161020 | 20161218 |
