@@ -67,17 +67,13 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 
 ###Create a new file as your personal MD Wiki page and commit your changes
- Before editing the file ` Create a new branch `. You can see the example below.
+ Before creating your file create a new branch using the branch drop down menu as shown below.
+ 
+![New Branch](https://cloud.githubusercontent.com/assets/5189447/24425120/f08696a2-13d0-11e7-8644-d9df3142e139.png)
 
-![New Branch](uploads/images/newbranch.png)
-
-Now, you can edit the files in your repo and the changes you make will be reflected on your &lt;username&gt;.github.io website. To edit, click on the `pages` folder. Then, click `New File` and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is EmilyLarkin.github.io/pages/EmilyLarkin.md, so yours should be named in the same manner, only using your username.
+ To create your page click on the pages folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is EmilyLarkin.github.io/pages/EmilyLarkin.md, so yours should be named in the same manner, only using your username.
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. 
-
-If you need to edit your file again, just click the pencil icon to edit (as shown below).
-
-![Edit](uploads/images/Edit.png)
 
 Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
