@@ -75,6 +75,10 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. 
 
+If you need to edit your file again, just click the pencil icon to edit (as shown below).
+  
+  ![Edit](uploads/images/Edit.png)
+
 Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
 
