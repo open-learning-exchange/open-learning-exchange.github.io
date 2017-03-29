@@ -18,9 +18,9 @@ I will graduate in the spring of 2018.
 
 
 Should you have any queries on my profile, please feel free to reach out to me via email or phone:
-prachichauhan777@gmail.com
-pxc163630@utdallas.edu
-contact number: (972)602-5071
-linked in profile: <https://www.linkedin.com/in/prachi-chauhan-utd20162018/>
+* prachichauhan777@gmail.com
+* pxc163630@utdallas.edu
+* contact number: (972)602-5071
+* linked in profile: <https://www.linkedin.com/in/prachi-chauhan-utd20162018/>
 
 
