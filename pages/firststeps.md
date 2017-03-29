@@ -59,4 +59,5 @@ Please create three issues, add comments to three other issues, and resolve thre
 
 ##Step 9 - Submit Survey:
 Let us know in the Gitter chat when you're done, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7). Lastly, once you have completed all other steps, please add yourself to the virtual intern list found in team.md and create a pull request.
-Once you have been added to the team, read through the [Intern-Orientation](internorientation.md).
+
+Once you have been added to the team, read through the [intern orientation document](internorientation.md).
