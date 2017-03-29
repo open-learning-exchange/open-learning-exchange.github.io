@@ -1,6 +1,6 @@
 ## **Prachi Chauhan**
-Dallas/ CST-CDT
-* * * MAC OSX version:10.12.3
+Dallas/ CST-CDT <br/>
+MAC OSX version:10.12.3
 
 ## **Biography**
 I am a Masters student at The University of Texas at Dallas since fall 2016. I completed my undergraduate in Computer Science from Indian School of Mines, Dhanbad,INDIA, in MAY 2016. So far though my educational period i have worked on various platforms and frameworks that use various new technologies:
