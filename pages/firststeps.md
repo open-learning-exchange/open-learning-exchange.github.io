@@ -57,6 +57,24 @@ Follow the directions under the [Nation BeLL tab](nation.md).
 ##Step 8 - Create Issues and Pull Requests:
 Create three issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), but will be working to improve this Markdown Wiki so that it is clearer and better for future use. As you have now followed along with the Markdown Wiki thus far, you should all try to improve the clarity of the explanations for these steps. Learn by teaching - or editing our teaching tool, in this case! When you are fixing an issue, mention the number of the issue you are fixing in the description of your pull request.
 
+###Before going to Step-9 make sure you have done these things:
+
+Pull requests / issues / comments for one part of the steps do not count towards the other steps which isn't very clear right now.
+
+For example you need
+
+* 1 pull request from step three (your profile)
+* 1 issue, comment and pull request at step 6.
+* 3 issues, comments, and pull request at step 8
+
+Thus before you are able to go on to step nine you will have at least
+
+* 5 pull requests.
+* 4 comments
+* 4 issues
+
+Its also not clear that only accepted PR's count towards this requirement.
+
 ##Step 9 - Submit Survey:
 
 Let us know in the Gitter chat when you're done, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7). Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
