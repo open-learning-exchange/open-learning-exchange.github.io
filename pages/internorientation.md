@@ -57,6 +57,7 @@ Every time you work on OLE projects and issues you should post in the Standup gi
 ### Recommended daily routine
 
 While you are free to work in your own style, we recommend you follow this basic daily routine:
+
 * Check Gitter Interns room and your Gitter private messages.
 * If you are able join the [OLE google hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1) so you can follow what everyone is working on and get help fast.
 * Check Waffle.io, if you have no issues assigned, assign yourself to issues relating to the project you wish to work on.
