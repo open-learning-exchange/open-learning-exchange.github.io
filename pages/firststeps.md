@@ -73,9 +73,9 @@ Create three issues, add comments to three other issues, and resolve three issue
 
 Head over to [https://github.com/open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the following done:
 
-* 5 pull requests(1 PR at step-3, 1 PR at step-6 and 3 PR's at step-8).
-* 4 comments(1 comment at step-6, 3 comment's at step-8)
-* 4 issues(1 issue at step-6, 3 issues at step-8)
+* 5 merged pull requests (1 PR at step-3, 1 PR at step-6 and 3 PR's at step-8).
+* 4 comments (1 comment at step-6, 3 comment's at step-8)
+* 4 issues (1 issue at step-6, 3 issues at step-8)
 
 
 ## Step 9 - Submit Survey:
