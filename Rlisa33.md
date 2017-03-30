@@ -1,7 +1,7 @@
 # **Rlisa33**
 ### Enjoying Github Intern Software Delevopment Service!
 [Rlisa33 Homepage](https://github.com/Rlisa33/Rlisa33.github.io)
-- (win_20170328_20_18_28_pro)
+- [A picture of Rlisa33](win_20170328_20_18_28_pro)
 - GitHub Intern Experience!
 - Rachel Mathurin
 - Location: Kissimmee, Florida USA
