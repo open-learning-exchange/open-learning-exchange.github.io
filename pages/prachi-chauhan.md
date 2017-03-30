@@ -1,9 +1,9 @@
 ## **Prachi Chauhan**
-Dallas/ CST-CDT <br/>
+Dallas / CST-CDT
 MAC OSX version:10.12.3
 
 ## **Biography**
-I am a Masters student at The University of Texas at Dallas since fall 2016. I completed my undergraduate in Computer Science from Indian School of Mines, Dhanbad,INDIA, in MAY 2016. So far though my educational period i have worked on various platforms and frameworks that use various new technologies:
+I am a Masters student at The University of Texas at Dallas since fall 2016. I completed my undergraduate in Computer Science from Indian School of Mines, Dhanbad,INDIA, in MAY 2016. So far though my educational period I have worked on various platforms and frameworks that use various new technologies:
 * STRUTS2 framework
 * Django-python framework 
 * R studio, etc.
@@ -21,6 +21,6 @@ Should you have any queries on my profile, please feel free to reach out to me v
 * prachichauhan777@gmail.com
 * pxc163630@utdallas.edu
 * contact number: (972)602-5071
-* linked in profile: <https://www.linkedin.com/in/prachi-chauhan-utd20162018/>
+* [linked in profile]<https://www.linkedin.com/in/prachi-chauhan-utd20162018/>
 
 
