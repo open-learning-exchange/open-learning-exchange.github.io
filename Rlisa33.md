@@ -20,4 +20,4 @@
  * Skills 
     * took previous courses in Software Developments and IOS
     * Worked at a horticultural lab collecting data and processing it into the computer
-- ####_I want to be a success and you?_
+ #### _I want to be a success and you?_
