@@ -11,9 +11,9 @@
 - I am eager to get a job to start working and I believe volunteering with help my resume.
  ###I have all the thing required to do this job.
  * A computer
-    *Internet
-    *Software of both Windows 7 and 10
-    *Processor RAM Memory 
+    * Internet
+    * Software of both Windows 7 and 10
+    * Processor RAM Memory 
  *Skills 
     * took previous courses in Software Developments and IOS
     * Worked at a horticultural lab collecting data and processing it into the computer
