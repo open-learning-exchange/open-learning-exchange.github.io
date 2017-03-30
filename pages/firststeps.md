@@ -69,7 +69,9 @@ Follow the directions under the [Nation BeLL tab](nation.md).
 
 Create three issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), but will be working to improve this Markdown Wiki so that it is clearer and better for future use. As you have now followed along with the Markdown Wiki thus far, you should all try to improve the clarity of the explanations for these steps. Learn by teaching - or editing our teaching tool, in this case! When you are fixing an issue, mention the number of the issue you are fixing in the description of your pull request.
 
-### Before going to Step-9 make sure you have done these things:
+## Before Step-9:
+
+Head over to [https://github.com/open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the following done:
 
 * 5 pull requests(1 PR at step-3, 1 PR at step-6 and 3 PR's at step-8).
 * 4 comments(1 comment at step-6, 3 comment's at step-8)
