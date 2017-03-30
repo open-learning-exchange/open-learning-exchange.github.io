@@ -1,5 +1,5 @@
 # Virtual Intern Orientation
-test
+
 ## Welcome to the OLE Intern Team!
 Congratulations, you have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have 16 hours a week to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
 ## Get to know the team
@@ -45,6 +45,7 @@ Every time you merge a pull request, message the author on [Gitter in the chat r
 Choose issues to work on out of the Ready column and assign them to yourself. Move them to the In Progress column when you start working on them. Make sure you link the pull requests to their issues by mentioning them in the pull request title. E.g "(fixes #54)".
 ### Standup Post format
 Every time you work on OLE projects and issues you should post in the Standup gitter chat room before you start working. Use the following format:
+
 * What did I achieve last? .
   * `Mention what you were able to achieve.`
 * What is my aim for today?
