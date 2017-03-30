@@ -18,6 +18,7 @@ Typically interns choose what project they want to work on, but if you get tired
   * Add existing educational HTML apps into the BeLL.
 * [Take Home](http://open-learning-exchange.github.io/#!pages/takehome.md)
   * Take home is an Android port of the BeLL apps.
+  
 ## A few things to know..
 Now that you have been added to the intern team, you will receive invites to become github repository members for [open-learning-exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and [ole-vi](https://github.com/ole-vi/BeLL-Apps).
 Make sure you accept these invites.
@@ -25,6 +26,7 @@ Note that this will give you the ability to make bigger mistakes - so make sure 
 You will now have the ability to review, close, and merge pull requests and issues.
 ### Reviewing pull requests and issues
 One of your responsibilities as an intern is to review and help prospective interns with their issues / pull request on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [reviewing on Github here](https://help.github.com/articles/about-pull-request-reviews/). You should check for things such as:
+
 * [x] Check for issue number in pull request title
 * [x] Are there any unneeded files in the pull request?
 * [x] Did they make a branch for their patch?
