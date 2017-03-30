@@ -12,7 +12,7 @@
  I like software engineering and computer science and math as well as accounting.
  I am eager to get a job to start working and I believe volunteering with help my resume.
  
- ### I have all the thing required to do this job.
+ ### I have all the things required to do this job.
  * A computer
     * Internet
     * Software of both Windows 7 and 10
