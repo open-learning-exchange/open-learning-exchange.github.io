@@ -1,15 +1,18 @@
-# **Enjoying Github Intern Software Delevopment Service!**
+# **Rlisa33**
+### Enjoying Github Intern Software Delevopment Service!
 [Rlisa33 Homepage](https://github.com/Rlisa33/Rlisa33.github.io)
 - (win_20170328_20_18_28_pro)
 - GitHub Intern Experience!
 - Rachel Mathurin
-- Eastern Time Florida
-- OS Window 7
-- I am an online student at the University of Phoenix. I am studying to earn my Master of Science in Accountancy. 
-- I lived in Florida for over four years now. I like reading, and surfing the net. I like drawing. 
-- I like software engineering and computer science and math as well as accounting.
-- I am eager to get a job to start working and I believe volunteering with help my resume.
- ###I have all the thing required to do this job.
+- Location: Kissimmee, Florida USA
+- Time Zone: Eastern Standard Time Florida(EST)
+- OS Window 7 and 10
+> I am an online student at the University of Phoenix. I am studying to earn my Master of Science in Accountancy. 
+ I lived in Florida for over four years now. I like reading, and surfing the net. I like drawing. 
+ I like software engineering and computer science and math as well as accounting.
+ I am eager to get a job to start working and I believe volunteering with help my resume.
+ 
+ ### I have all the thing required to do this job.
  * A computer
     * Internet
     * Software of both Windows 7 and 10
@@ -17,4 +20,4 @@
  * Skills 
     * took previous courses in Software Developments and IOS
     * Worked at a horticultural lab collecting data and processing it into the computer
-- _I want to be a success and you?_
+- ####_I want to be a success and you?_
