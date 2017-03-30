@@ -5,7 +5,7 @@
 - GitHub Intern Experience!
 - Rachel Mathurin
 - Location: Kissimmee, Florida USA
-- Time Zone: Eastern Standard Time Florida(EST)
+- Time Zone: Eastern Standard Time (EST)
 - OS Window 7 and 10
 > I am an online student at the University of Phoenix. I am studying to earn my Master of Science in Accountancy. 
  I lived in Florida for over four years now. I like reading, and surfing the net. I like drawing. 
