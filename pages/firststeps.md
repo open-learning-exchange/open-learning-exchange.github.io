@@ -69,7 +69,7 @@ Follow the directions under the [Nation BeLL tab](nation.md).
 
 Create three issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), but will be working to improve this Markdown Wiki so that it is clearer and better for future use. As you have now followed along with the Markdown Wiki thus far, you should all try to improve the clarity of the explanations for these steps. Learn by teaching - or editing our teaching tool, in this case! When you are fixing an issue, mention the number of the issue you are fixing in the description of your pull request.
 
-## Before Step-9:
+## Step 9 - Submit Survey:
 
 Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the following done:
 
@@ -77,10 +77,7 @@ Head over to [Open Learning Exchange Repository](https://github.com/open-learnin
 * 4 comments (1 comment at step-6, 3 comment's at step-8)
 * 4 issues (1 issue at step-6, 3 issues at step-8)
 
-
-## Step 9 - Submit Survey:
-
-Let us know in the Gitter chat when you're done, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7). Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
+If you meet these requirements let us know in the Gitter chat, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7). Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
 
 Once you have been added to the team, read through the [intern orientation document](internorientation.md).
 
