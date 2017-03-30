@@ -7,6 +7,7 @@ I am a Masters student at The University of Texas at Dallas since fall 2016. I c
 * STRUTS2 framework
 * Django-python framework 
 * R studio, etc.
+
 Here at UTD, I have taken up the following courses so far:
 1. Object Oriented Analysis and Design
 2. Statistical Methods of Data Science and Desgin 
