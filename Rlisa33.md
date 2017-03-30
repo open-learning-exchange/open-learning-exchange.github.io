@@ -1,5 +1,5 @@
 # **Enjoying Github Intern Software Delevopment Service!**
-[ Rlisa33 Homepage](https://github.com/Rlisa33/Rlisa33.github.io)
+[Rlisa33 Homepage](https://github.com/Rlisa33/Rlisa33.github.io)
 - (win_20170328_20_18_28_pro)
 - GitHub Intern Experience!
 - Rachel Mathurin
@@ -9,3 +9,10 @@
 - I lived in Florida for over four years now. I like reading, and surfing the net. I like drawing. 
 - I like software engineering and computer science and math as well as accounting.
 - I am eager to get a job to start working and I believe volunteering with help my resume.
+ ###I have all the thing required to do this job.
+ * A computer
+    *Internet
+    *Software of both Windows 7 and 10
+    *Processor RAM Memory 
+ *Skills 
+    * took previous courses in Software Developments and IOS
