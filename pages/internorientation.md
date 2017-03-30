@@ -7,6 +7,7 @@ The first thing that needs to happen now that you are an intern is meeting the r
 You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
 ## Familiarize yourself with current projects and issues
 Typically interns choose what project they want to work on, but if you get tired of a certain project there is opportunity to switch projects. The follow list are the current areas of work for the interns - besides the [issues on ole-vi BeLL-Apps](https://github.com/ole-vi/BeLL-Apps/issues). Take a look at them all, and if any particularly interest you there is a very good chance that you can work on them.
+
 * [Automated Testing](http://open-learning-exchange.github.io/#!pages/automatedtesting.md)
   * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI
 * [Translation (Crowdin)](http://open-learning-exchange.github.io/#!pages/crowdinintegration.md)
