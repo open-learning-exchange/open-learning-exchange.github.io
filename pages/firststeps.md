@@ -59,21 +59,10 @@ Create three issues, add comments to three other issues, and resolve three issue
 
 ###Before going to Step-9 make sure you have done these things:
 
-Pull requests / issues / comments for one part of the steps do not count towards the other steps which isn't very clear right now.
+* 5 pull requests(1 PR at step-3, 1 PR at step-6 and 3 PR's at step-8).
+* 4 comments(1 comment at step-6, 3 comment's at step-8)
+* 4 issues(1 issue at step-6, 3 issues at step-8)
 
-For example you need
-
-* 1 pull request from step three (your profile)
-* 1 issue, comment and pull request at step 6.
-* 3 issues, comments, and pull request at step 8
-
-Thus before you are able to go on to step nine you will have at least
-
-* 5 pull requests.
-* 4 comments
-* 4 issues
-
-Its also not clear that only accepted PR's count towards this requirement.
 
 ##Step 9 - Submit Survey:
 
