@@ -18,3 +18,17 @@ Under the PLANET system, there are two types of structures: **Nations** and **Co
 ![](uploads/images/planetNationsTree.png)
 
 ![](uploads/images/planetNationsBubbles.png)
+
+* **Nations**
+  * **Nations** always exist in the cloud and require an internet connection to access;
+  * Each **Nation** serves as a central repository for the **Community** or **a** group of communities that it serves; and
+  * Different **Nations** cannot connect to each other.
+
+* **Communities**
+  * A **Community** is a local installations of the PLANET system;
+  * A **Community** does not require an internet to access;
+  * Users connect to a **Community** via a router through a locally configured intranet using either a device with a web browser (tablet, computer, etc.);
+  * Each **Community** connects periodically to a **Nation** via internet in order to receive new materials and to upload user metics; and
+  * A **Community** is not able to connect to other Communities.
+
+The **nations** may store thousands of Resources in many formats and languages.  Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**.  This gives a Learner a personalized approach to his or her education.
