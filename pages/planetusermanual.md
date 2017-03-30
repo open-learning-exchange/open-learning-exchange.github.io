@@ -15,4 +15,6 @@ The PLANET system exists in the cloud but it can also be configured to run local
 ### What are PLANET Nations and Communities?
 Under the PLANET system, there are two types of structures: **Nations** and **Communities**.
 
-![](pages/uploads/images/planetNationsTree.png)
+![](uploads/images/planetNationsTree.png)
+
+![](uploads/images/planetNationsBubbles.png)
