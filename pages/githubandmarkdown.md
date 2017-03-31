@@ -22,6 +22,8 @@ Below is a cheat sheet of Markdown to help you create your own individual MD Wik
 
 You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+If you want more practice using Markdown, check out [this site](http://www.markdowntutorial.com/lesson/1/) to explore the MD syntax and see results as you type.
+
 The main GitHub page used to store this MD Wiki can be found at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and our virtual interns will essentially create their own Markdown Wiki repository as a copy of open-learning-exchange.github.io.
 
 ##Start here
@@ -38,6 +40,9 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 Since you have already created a username on GitHub, we can assume that you understand the basic layout and functionality. If you don't, please, explore and do some basic googling. When you're editing on GitHub, it is important to always make sure you are working on your own GitHub repository. To that end, make sure there is your own username before the slash and the correct repository after the slash. For example, EmilyLarkin/BeLL-Apps). All of Open Learning Exchange's work can be [found here](https://github.com/open-learning-exchange). All the different repositories represent different types of software used by OLE, and the repositories act as categorizing system.
 
 There is a lot to learn about GitHub, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example will specifically create your own &lt;username&gt;.github.io and allow you to edit and commit your changes.
+
+**Note:
+Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-email-in-git/) for more information.**
 
 ###Find and fork the correct repository
 First, you will need to find the correct GitHub repository to fork. Forking is essentially creating a copy of a repository on your own GitHub account, to avoid editing and, possibly, messing up with the main repository. To make it easier on you, we will provide you with a link to the correct repository [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io).
@@ -57,29 +62,34 @@ After you rename it, make sure to post a link to the github.io website you've ju
 
 
 **Important Note: Always pay attention when you are working on GitHub, to make sure you work on your own personal account and not on Open Learning Exchange GitHub account.**
-Once again, it is very important to distinguish between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of our code, everyone forks the repositories, commit their changes to their own personal version of the repository, and then send the changes back to the Open Learning Exchange repository for approval (called a pull request), before the Open Learning Exchange code is updated. 
+Once again, it is very important to distinguish between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of our code, everyone forks the repositories, commit their changes to their own personal version of the repository, and then send the changes back to the Open Learning Exchange repository for approval (called a pull request), before the Open Learning Exchange code is updated.
 Please, make sure to ALWAYS work on your own personal account via forking and pull requests.
 
 
 ###Create a new file as your personal MD Wiki page and commit your changes
-Now, you can edit the files in your repo and the changes you make will be reflected on your &lt;username&gt;.github.io website. To edit, click on the `pages` folder. Then, click `New File` and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is EmilyLarkin.github.io/pages/EmilyLarkin.md, so yours should be named in the same manner, only using your username.
+ Before creating your file create a new branch using the branch drop down menu as shown below.
+ 
+![New Branch](uploads/images/New Branch.png)
 
-In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. Then, scroll down to the bottom of the page, select the ` Create a new branch for this commit and start a pull request. Learn more about pull requests.` radio box and input `arbitrary name`. You can see the example below.
+ To create your page click on the pages folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is EmilyLarkin.github.io/pages/EmilyLarkin.md, so yours should be named in the same manner, only using your username.
 
-![New Branch](uploads/images/newbranch.png) 
+In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. 
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
-
-![Edit](uploads/images/Edit.png)
+  
+  ![Edit](uploads/images/Edit.png)
 
 Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
 ###Open a pull request
-Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Finally, click `Create pull request` and someone from our team will then approve and merge your pull request, once everything looks good. After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
+Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Finally, click `Create pull request` and someone from our team will review the changes. Often there will be some feedback from the reviewer at this point for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will automatically affect the pull request. Once everything looks good, the reviewer will merge your page with the main repository.
+
+After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
 ##Useful links
-[GitHub](https://help.github.com/categories/writing-on-github/)  
+[GitHub: Writing and Formatting](https://help.github.com/categories/writing-on-github/)  
 [Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md)  
+[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/)  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 [How to fork a repo](https://help.github.com/articles/fork-a-repo/)
 [Other helpful links and videos](faq.md#Helpful_Links)
