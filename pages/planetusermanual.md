@@ -8,7 +8,7 @@ OLE’s mission is to ensure learning for all, not only universal basic literacy
 
 ## The PLANET Learning System
 ### What is the OLE PLANET Learning System (PLANET)?
-Personalized Learning And Networked Enabled Teams (PLANET) is a, multi-lingual learning system and library with thousands of educational Resources including books, videos, and educational games.  The system also includes software tools for content and student management, student evaluation and monitoring, and Courses creation.
+Personalized Learning And Networked Enabled Teams (PLANET) is a multi-lingual learning system and library with thousands of educational Resources including books, videos, and educational games.  The system also includes software tools for content and student management, student evaluation and monitoring, and Courses creation.
 At the core of PLANET is a repository of free, open access, and public domain Resources designed to benefit literate and preliterate, young and old, and novice and expert learners of all ages.  Resources of all kinds (literature, health, science, math, etc.), in various languages (English, Somali, Swahili, Arabic, Spanish, etc.), and in various formats (text, audio, video) are continually being added to PLANET.
 The PLANET system exists in the cloud but it can also be configured to run locally without the need for internet connectivity making it a viable solution for remote locations where internet connectivity is unreliable or nonexistent.  PLANET facilitates frequent assessments of learners, leaders, and administrators.  It also promotes the evaluation and effectiveness of the learning Resources.  Robust usage feedback metrics make PLANET a powerful tool for those overseeing monitoring and evaluation of the education system.
 
@@ -27,8 +27,8 @@ Under the PLANET system, there are two types of structures: **Nations** and **Co
 * **Communities**
   * A **Community** is a local installations of the PLANET system;
   * A **Community** does not require an internet to access;
-  * Users connect to a **Community** via a router through a locally configured intranet using either a device with a web browser (tablet, computer, etc.);
-  * Each **Community** connects periodically to a **Nation** via internet in order to receive new materials and to upload user metics; and
-  * A **Community** is not able to connect to other Communities.
+  * Users connect to a **Community** via a router through a locally configured _intranet_ using either a device with a web browser (tablet, computer, etc.);
+  * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metics; and
+  * A **Community** is not able to connect to other **Communities**.
 
 The **nations** may store thousands of Resources in many formats and languages.  Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**.  This gives a Learner a personalized approach to his or her education.
