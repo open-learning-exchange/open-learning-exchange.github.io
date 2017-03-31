@@ -7,6 +7,7 @@ The first thing that needs to happen now that you are an intern is meeting the r
 You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
 ## Familiarize yourself with current projects and issues
 Typically interns choose what project they want to work on, but if you get tired of a certain project there is opportunity to switch projects. The follow list are the current areas of work for the interns - besides the [issues on ole-vi BeLL-Apps](https://github.com/ole-vi/BeLL-Apps/issues). Take a look at them all, and if any particularly interest you there is a very good chance that you can work on them.
+
 * [Automated Testing](http://open-learning-exchange.github.io/#!pages/automatedtesting.md)
   * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI
 * [Translation (Crowdin)](http://open-learning-exchange.github.io/#!pages/crowdinintegration.md)
@@ -17,6 +18,7 @@ Typically interns choose what project they want to work on, but if you get tired
   * Add existing educational HTML apps into the BeLL.
 * [Take Home](http://open-learning-exchange.github.io/#!pages/takehome.md)
   * Take home is an Android port of the BeLL apps.
+  
 ## A few things to know..
 Now that you have been added to the intern team, you will receive invites to become github repository members for [open-learning-exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and [ole-vi](https://github.com/ole-vi/BeLL-Apps).
 Make sure you accept these invites.
@@ -24,6 +26,7 @@ Note that this will give you the ability to make bigger mistakes - so make sure 
 You will now have the ability to review, close, and merge pull requests and issues.
 ### Reviewing pull requests and issues
 One of your responsibilities as an intern is to review and help prospective interns with their issues / pull request on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [reviewing on Github here](https://help.github.com/articles/about-pull-request-reviews/). You should check for things such as:
+
 * [x] Check for issue number in pull request title
 * [x] Are there any unneeded files in the pull request?
 * [x] Did they make a branch for their patch?
@@ -42,6 +45,7 @@ Every time you merge a pull request, message the author on [Gitter in the chat r
 Choose issues to work on out of the Ready column and assign them to yourself. Move them to the In Progress column when you start working on them. Make sure you link the pull requests to their issues by mentioning them in the pull request title. E.g "(fixes #54)".
 ### Standup Post format
 Every time you work on OLE projects and issues you should post in the Standup gitter chat room before you start working. Use the following format:
+
 * What did I achieve last? .
   * `Mention what you were able to achieve.`
 * What is my aim for today?
@@ -53,6 +57,7 @@ Every time you work on OLE projects and issues you should post in the Standup gi
 ### Recommended daily routine
 
 While you are free to work in your own style, we recommend you follow this basic daily routine:
+
 * Check Gitter Interns room and your Gitter private messages.
 * If you are able join the [OLE google hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1) so you can follow what everyone is working on and get help fast.
 * Check Waffle.io, if you have no issues assigned, assign yourself to issues relating to the project you wish to work on.
