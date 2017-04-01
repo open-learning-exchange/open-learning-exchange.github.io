@@ -35,12 +35,13 @@ You will be shown the page below. Make sure you fill it out completely.
 ![Become an Administrator](uploads/images/become_admin.png)
 
 Next, you will need to fill out your configurations. Make sure you write your name all in lowercase letters and your code all in uppercase letters, as in the example below:
-
-![Configurations](uploads/images/configuration.png)
-
 Note that your name and code must be the same and should correspond to your GitHub username.
 This is because we should be able to know who owns each community from the nation side.
 Also, make sure you pick the correct nation, Virtual Intern Nation (vi).
+
+![Configurations](uploads/images/configuration.png)
+
+
 After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.
 
 **Note:** *Adding images to Gitter is quite simple. Just drag and drop your screenshot from it's location on your computer to the chat and it will automatically upload.*
