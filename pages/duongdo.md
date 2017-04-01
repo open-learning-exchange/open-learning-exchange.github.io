@@ -9,8 +9,8 @@
 5. **Email: dhdo@csbsju.edu**
 6. Gender: Male
 7. **Hobbies: watching soccer and listen to music**
-8. My personal project:[https://duongdo-proj-1.herokuapp.com/](https://duongdo-proj-1.herokuapp.com/)  
-9. **Linkedin: [https://duongdo-proj-1.herokuapp.com/](https://www.linkedin.com/in/duongdo27) **
+8. My personal project: [https://duongdo-proj-1.herokuapp.com/](https://duongdo-proj-1.herokuapp.com/)  
+9. **Linkedin: [https://www.linkedin.com/in/duongdo2](https://www.linkedin.com/in/duongdo27) **
 
 ## Short Paragraph
 
