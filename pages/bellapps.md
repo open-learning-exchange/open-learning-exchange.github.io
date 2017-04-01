@@ -34,10 +34,7 @@ You will be shown the page below. Make sure you fill it out completely.
 
 ![Become an Administrator](uploads/images/become_admin.png)
 
-Next, you will need to fill out your configurations. Make sure you write your name all in lowercase letters and your code all in uppercase letters, as in the example below:
-Note that your name and code must be the same and should correspond to your GitHub username.
-This is because we should be able to know who owns each community from the nation side.
-Also, make sure you pick the correct nation, Virtual Intern Nation (vi).
+Next, fill out the configurations. Your name and code must be the same and should match your Github name. Write your name in lowercase letters and code in uppercase letters, and pick Virtual Intern Nation (vi) for nation as in the example below:
 
 ![Configurations](uploads/images/configuration.png)
 
