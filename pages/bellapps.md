@@ -34,7 +34,7 @@ You will be shown the page below. Make sure you fill it out completely.
 
 ![Become an Administrator](uploads/images/become_admin.png)
 
-Next, fill out the configurations. Your name and code must be the same and should match your Github name. Write your name in lowercase letters and code in uppercase letters, and pick Virtual Intern Nation (vi) for nation as in the example below:
+Next, fill out the configurations. Your name and code must be the same and should match your Github name. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below:
 
 ![Configurations](uploads/images/configuration.png)
 
