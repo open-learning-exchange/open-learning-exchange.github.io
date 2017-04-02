@@ -1,4 +1,5 @@
 Jaswanth Kumar Jonnalagadda, Maryville,MO/CST
+
 I am a passionate and committed Software developer with one year of work experience in Tata Consultancy services, INDIA (Multi National IT Service Company).
 
 • Posses good knowledge over MYSQL and MongoDB usage.
