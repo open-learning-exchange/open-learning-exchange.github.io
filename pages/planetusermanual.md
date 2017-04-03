@@ -32,3 +32,49 @@ Under the PLANET system, there are two types of structures: **Nations** and **Co
   * A **Community** is not able to connect to other **Communities**.
 
 The **nations** may store thousands of Resources in many formats and languages.  Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**.  This gives a Learner a personalized approach to his or her education.
+
+## How do I navigate and use PLANET?
+###_How do I access PLANET and become a member?_
+
+1. To create an account use a web browser to navigate to your Nation or Community and click on “_Become a Member_” to get started.
+
+![](uploads/images/PlanetNavigateMemberLogin.png)
+
+2. Fill out the resulting form and completing the form, click “_Register_.” You are now a member!
+
+![](uploads/images/planetnavigateAddmember.png)
+
+**NOTE:**  Each PLANET system is unique; universal memberships do not exist.  If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community.  To become a member of another Nation or Community you must register with a new account.
+**_What are the differences between Learners, Leaders, and Managers?_**
+In the PLANET system, there are three different kinds of users: **Learners**, **Leaders**, and **Managers**.
+**Learner** is the default user level when a person first joins. Each person continues to be a Learner regardless of additional responsibilities and roles. All Learners have access to standard and individualized user functionality.
+**Leaders** are Learners that have created a Course or have become _Course Leaders_. Leaders have access to all Learner functionalities and to additional Course management functionalities.
+**Managers** have access to Learner, Leader, and additional functionalities that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.  
+If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities.  In order to see the available manager functionalities, click on “Manager” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections. 
+
+##How do I navigate the Dashboard?
+
+An example of the Manager Dashboard is shown below. The functionalities are defined for each element of the Dashboard.
+
+![](uploads/images/dashboard.png)
+
+1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most PLANET functionalities.
+2. **e-Readers** functionality is under construction.
+3. **Library** allows a Learner to browse the digital Resources.  It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
+4. **Courses** gives Learners the option to view each Course and to request admission.
+5. **Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other PLANET Learners.
+6. **Members** provides a list of all Learners in this PLANET system. 
+7. **Reports** allows Nation Managers to distribute Nation Reports as needed.
+8. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
+9. **Logout** logs the Learner out of the PLANET system.
+10. **Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
+11. **Language** shows the language of the user interface and allows the user to switch between languages.
+12. **My Library** displays the Resources that were added to “_My Library_” by the Learner.
+13. **My Courses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
+14. **My Meetups** displays the physical location of the Course (if applicable).
+15. **My Tutors** is under construction.
+16. **Badges** is under construction.
+17. **Calendar** can be used to organize and display Meetups and Events for the Learner.
+18. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
+19. **Surveys** allows Nation Managers to push a survey PLANET users based on characteristics like age, gender, member type, Community, etc.
+20. **Update Welcome Video** allows Managers to change the welcome video for their Nation.
