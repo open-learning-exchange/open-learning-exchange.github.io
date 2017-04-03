@@ -44,7 +44,7 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 ![](uploads/images/planetnavigateAddmember.png)
 
-**NOTE:**  Each PLANET system is unique; universal memberships do not exist.  If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community.  To become a member of another Nation or Community you must register with a new account.
+NOTE: Each PLANET system is unique; universal memberships do not exist.  If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community.  To become a member of another Nation or Community you must register with a new account.
 **_What are the differences between Learners, Leaders, and Managers?_**
 In the PLANET system, there are three different kinds of users: **Learners**, **Leaders**, and **Managers**.
 **Learner** is the default user level when a person first joins. Each person continues to be a Learner regardless of additional responsibilities and roles. All Learners have access to standard and individualized user functionality.
