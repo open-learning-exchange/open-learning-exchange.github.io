@@ -15,6 +15,7 @@
 |[blakedelee](BlakeDeLee.md)| 20170322 |
 |[Loshma93](Loshma93.md)| 20170331 |
 |[kylemathias](kylemathias.md)| 20170331 |
+|[zeivhann](zeivhann.md)| 20170401 |
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
