@@ -19,4 +19,4 @@ Here's my skills:
 
 I'm a team player, and I'm excited to joining you guys!
 
-Connect me on Linkedin: www.linkedin.com/in/tianhaoguo
+Connect me on Linkedin: https://www.linkedin.com/in/tianhaoguo
