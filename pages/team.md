@@ -16,6 +16,7 @@
 |[Loshma93](Loshma93.md)| 20170331 |
 |[kylemathias](kylemathias.md)| 20170331 |
 |[zeivhann](zeivhann.md)| 20170401 |
+|[Supriyaranjan](Supriyaranjan.md)| 20170404 |
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
