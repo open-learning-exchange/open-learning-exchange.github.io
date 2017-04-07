@@ -13,8 +13,10 @@
 |[paulbert](paulbert.md)| 20170308 |
 |[i5o](i5o.md) (**Intern Lead**)| 20170308 |
 |[blakedelee](BlakeDeLee.md)| 20170322 |
-|[Loshma93](Loshma93.md)| 20160331 |
+|[Loshma93](Loshma93.md)| 20170331 |
 |[kylemathias](kylemathias.md)| 20170331 |
+|[zeivhann](zeivhann.md)| 20170401 |
+|[Supriyaranjan](Supriyaranjan.md)| 20170404 |
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
