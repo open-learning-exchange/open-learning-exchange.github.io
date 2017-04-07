@@ -44,6 +44,7 @@
   * [Start Here](pages/firststeps.md)
   - - - -
   * [Vagrant (Windows)](pages/vagrantwin.md)
+  * [Script (Windows)](pages/OLE-Stat-Markdown.html)
   * [Vagrant (MacOS(X)/Ubuntu)](pages/vagrant.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
   * [BeLL-Apps](pages/bellapps.md)
