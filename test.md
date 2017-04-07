@@ -164,9 +164,9 @@ Directions:
 	
 	<div  class="center">
 	<center><h2> Stats</h2> </center>
-  <a href="javascript:void(0)" onclick="Total_PRs(); return false;">Total PRs</a> </br>
-  <a href="javascript:void(0)" onclick="Merged_PRs(); return false;"># of Merged PRs</a>  </br>
-   <a href="javascript:void(0)" onclick="Total_Issues(); return false;"># of Issues</a>  </br>
+  <a href="javascript:void(0)" onclick="Total_PRs(); return false;">Total PRs</a> 
+  <a href="javascript:void(0)" onclick="Merged_PRs(); return false;"># of Merged PRs</a>  
+   <a href="javascript:void(0)" onclick="Total_Issues(); return false;"># of Issues</a>  
 
 
   </div>
@@ -174,9 +174,9 @@ Directions:
   <div class="center">  
   	<center><h2> API search </h2> </center>
 
-<a href="javascript:void(0)" onclick="goToURL3();  ;return false;">Merged-Pr</a> </br>
- <a href="javascript:void(0)" onclick="goToURL4(); return false;">All PRs</a>     </br>
- <a href="javascript:void(0)" onclick="goToURL5(); return false;">Issues</a>    </br>
+<a href="javascript:void(0)" onclick="goToURL3();  ;return false;">Merged-Pr</a> 
+ <a href="javascript:void(0)" onclick="goToURL4(); return false;">All PRs</a>     
+ <a href="javascript:void(0)" onclick="goToURL5(); return false;">Issues</a>    
  </div>
   
 </div>
@@ -190,7 +190,7 @@ Directions:
 
 
 	<h2> GitHub search results(Chrome Only)</h2>
-  <a href="javascript:void(0)" onclick="goToURL(); return false;">Merged-PRs</a> </br>
+  <a href="javascript:void(0)" onclick="goToURL(); return false;">Merged-PRs</a>
   <a href="javascript:void(0)" onclick="goToURL2(); return false;">All PRs</a> 
 
   
