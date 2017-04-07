@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <script>
   
@@ -135,14 +134,13 @@ request.send()
 
   </script>
  <style>
- body {background-color: powderblue;}
+ body {background-color: white;}
 h1   {color: blue;}
 p    {color: red;}
 
 .center {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
     padding: 10px;
 } </style>
 
