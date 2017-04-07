@@ -164,8 +164,10 @@ Directions:
 	
 	<div  class="center">
 	<center><h2> Stats</h2> </center>
-  <a href="javascript:void(0)" onclick="Total_PRs(); return false;">Total PRs</a> 
-  <a href="javascript:void(0)" onclick="Merged_PRs(); return false;"># of Merged PRs</a>  
+  <a href="javascript:void(0)" onclick="Total_PRs(); return false;">Total PRs</a>
+  
+  <a href="javascript:void(0)" onclick="Merged_PRs(); return false;"># of Merged PRs</a>
+  
    <a href="javascript:void(0)" onclick="Total_Issues(); return false;"># of Issues</a>  
 
 
@@ -175,7 +177,9 @@ Directions:
   	<center><h2> API search </h2> </center>
 
 <a href="javascript:void(0)" onclick="goToURL3();  ;return false;">Merged-Pr</a> 
- <a href="javascript:void(0)" onclick="goToURL4(); return false;">All PRs</a>     
+
+ <a href="javascript:void(0)" onclick="goToURL4(); return false;">All PRs</a> 
+ 
  <a href="javascript:void(0)" onclick="goToURL5(); return false;">Issues</a>    
  </div>
   
