@@ -1,4 +1,4 @@
-
+#test
 <html>
 <body>
 
@@ -11,11 +11,11 @@
 <p id="demo"></p>
 
 
-     <script type= "text/javascript" src="static/js/bar.js"> 
+<script type= "text/javascript" src="static/js/bar.js"> 
      
      
      
-     </script>
+ </script>
 
 <script>
 function myFunction() {
