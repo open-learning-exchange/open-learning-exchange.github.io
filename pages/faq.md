@@ -1,4 +1,4 @@
-﻿# FAQ
+# FAQ
 
 ## General Internship Information
 *Q: What will I be working on during this internship?*
@@ -28,7 +28,6 @@ To finish the initial steps, you need to make a **minimum** of three issues and 
 *Q: How long do I have to complete these steps?*
 There is no official deadline, work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days. 
 ## Technical Issues and Questions
-
 *Q: What is the purpose of nations and communities, and how do they work together?*
 We use the nation/community infrastructure because we often deploy our software in places without internet. Nations are the service sitting in the cloud (which are connected to the internet). Communities, which run locally on Raspberry Pi’s and/or laptops, are run on an *intranet* but are most of the time not connected to the *internet*. Because nations are connected to the internet, they allow a connection process between us (with internet) and users on communities (without internet). To sync with a nation, however, a community needs to be connected to the internet so that information can be sent in both directions.
 
@@ -41,17 +40,53 @@ Please make sure you’re using Firefox, as our BeLL software is only guaranteed
 *Q: Why does Firefox say “Unable to connect” when I try to load my community?*
 Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual BeLL user interface.
 
+*Q: When I first run BeLL with the `vagrant up` command the download fails, why?*
+You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar :
+
+![left sidebar](uploads/images/atlas_status.png)
+
+If Atlas is operational, then maybe your download is being interrupted, you can try to download and set up the big vagrant box file manually:
+
+1. Go to this [atlas box page](https://atlas.hashicorp.com/ole/boxes/jessie64/)
+
+2. Click on the last version's (the uppermost) version number
+
+   ![box version](uploads/images/atlas_last_version_box.png)
+
+3. Add `/providers/virtualbox.box` to the page's link you have been redirected to, and click enter to start the download via your browser, or copy the link and paste it in your preferred Downloader, preferrably one that has pause/resume functionality.
+
+4. After you download the box run the following commands while in your `ole--vagrant-vi` directory, also put the correct path to the box you downloaded: 
+
+``` bash
+vagrant box add ole/jessie64 /path/to/vagrant-box.box
+vagrant init ole/jessie64
+vagrant up
+```
+You now have a working communityBeLL on your OS.
+
 *Q: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?*
 You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
 
-Q*: What do I do if I already have a github.io with my username?*
+*Q: What do I do if I already have a github.io with my username?*
 You have a couple of options.
 
-1. If you are not using the repo anymore you can delete it and then follow the [First Steps.]( http://open-learning-exchange.github.io/#!pages/firststeps.md)
+1. If you are not using the repo anymore you can delete it and then follow the [First Steps.](/#!pages/firststeps.md)
 
 2. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repro &lt;orgname&gt;.github.io
 
 3. Or you can just create another github account, and use that for OLE work
+
+Q*: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?*
+In ```git bash``` type: 
+```
+cd ole--vagrant-vi
+vagrant destroy -f
+cd ..
+rm -rf ole--vagrant-vi
+git clone https://github.com/dogi/ole--vagrant-vi.git
+cd ole--vagrant-vi
+vagrant up
+```
 
 
 ## Helpful Links

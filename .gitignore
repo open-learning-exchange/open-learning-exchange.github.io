@@ -10,7 +10,7 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
 
 # Thumbnails
 ._*
@@ -102,3 +102,8 @@ sftp-config.json
 
 # Notepad++ backups #
 *.bak
+
+# ignore jekyll generated folder
+# used when testing in local machine
+# $ jekyll serve
+_site/

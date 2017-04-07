@@ -54,7 +54,9 @@
   * [Community Login](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html)
 
 [Teams]()
-
+  
+  * [Intern Orientation](pages/internorientation.md)
+  - - - -
   * [Automated Testing](pages/automatedtesting.md)
   * [Crowdin Integration](pages/crowdinintegration.md)
   * [Simple Install](pages/simpleinstall.md)
