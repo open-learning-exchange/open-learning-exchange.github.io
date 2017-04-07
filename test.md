@@ -2,7 +2,7 @@
 <html>
 
  <style>
- body {background-color: powderblue;}
+ body {background-color: white;}
 h1   {color: blue;}
 p    {color: red;}
 
@@ -34,9 +34,9 @@ Directions:
 	
 	<div  class="center">
 	<center><h2> Stats</h2> </center>
-  <a href="javascript:void(0)" onclick="Total_PRs(); return false;">Total PRs</a> </br>
-  <a href="javascript:void(0)" onclick="Merged_PRs(); return false;"># of Merged PRs</a>  </br>
-   <a href="javascript:void(0)" onclick="Total_Issues(); return false;"># of Issues</a>  </br>
+  <a href="javascript:void(0)" onclick="Total_PRs(); return false;">Total PRs</a></br>
+  <a href="javascript:void(0)" onclick="Merged_PRs(); return false;"># of Merged PRs</a></br>
+  <a href="javascript:void(0)" onclick="Total_Issues(); return false;"># of Issues</a>  </br>
 
 
   </div>
