@@ -1,76 +1,5 @@
-# test
+<!DOCTYPE html>
 <html>
-
- <style>
- body {background-color: white;}
-h1   {color: blue;}
-p    {color: red;}
-
-.center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
-} </style>
-
-
-
-<body>
-
-<center><h1>Git statistics </h1></center> 
-<div>
-<h2>
-Directions:
-</h2> 
-<li>Click on a Link and Type in a valid user-name.</li>
-<li>You can view the search results for the API. Chrome users can view regular search results.</li>
-<li>The GitHub search results at the bottom won't work on JsFiddle but they should be fine on a text editor.</li>
-
-
-</div>
- <div class="center">
-
-<center> <h1>PRs / Issues </h1> </center>
-	
-	<div  class="center">
-	<center><h2> Stats</h2> </center>
-  <a href="javascript:void(0)" onclick="Total_PRs(); return false;">Total PRs</a></br>
-  <a href="javascript:void(0)" onclick="Merged_PRs(); return false;"># of Merged PRs</a></br>
-  <a href="javascript:void(0)" onclick="Total_Issues(); return false;"># of Issues</a>  </br>
-
-
-  </div>
-  
-  <div class="center">  
-  	<center><h2> API search </h2> </center>
-
-<a href="javascript:void(0)" onclick="goToURL3();  ;return false;">Merged-Pr</a> </br>
- <a href="javascript:void(0)" onclick="goToURL4(); return false;">All PRs</a>     </br>
- <a href="javascript:void(0)" onclick="goToURL5(); return false;">Issues</a>    </br>
- </div>
-  
-</div>
-
-	
-
- 
-
-
-<div class="center">
-
-
-	<h2> GitHub search results(Chrome Only)</h2>
-  <a href="javascript:void(0)" onclick="goToURL(); return false;">Merged-PRs</a> </br>
-  <a href="javascript:void(0)" onclick="goToURL2(); return false;">All PRs</a> 
-
-  
-  </div>
-  
- 
-
-
-
-<script>
   <script>
   
   		
@@ -205,6 +134,72 @@ request.send()
     }
 
   </script>
-</script>
+ <style>
+ body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+} </style>
+
+
+
+<body >
+<center><h1>Git statistics </h1></center> 
+<div>
+<h2>
+Directions:
+</h2> 
+<li>Click on a Link and Type in a valid user-name.</li>
+<li>You can view the search results for the API. Chrome users can view regular search results.</li>
+<li>The GitHub search results at the bottom won't work on JsFiddle but they should be fine on a text editor.</li>
+
+
+</div>
+ <div class="center">
+
+<center> <h1>PRs / Issues </h1> </center>
+	
+	<div  class="center">
+	<center><h2> Stats</h2> </center>
+  <a href="javascript:void(0)" onclick="Total_PRs(); return false;">Total PRs</a> </br>
+  <a href="javascript:void(0)" onclick="Merged_PRs(); return false;"># of Merged PRs</a>  </br>
+   <a href="javascript:void(0)" onclick="Total_Issues(); return false;"># of Issues</a>  </br>
+
+
+  </div>
+  
+  <div class="center">  
+  	<center><h2> API search </h2> </center>
+
+<a href="javascript:void(0)" onclick="goToURL3();  ;return false;">Merged-Pr</a> </br>
+ <a href="javascript:void(0)" onclick="goToURL4(); return false;">All PRs</a>     </br>
+ <a href="javascript:void(0)" onclick="goToURL5(); return false;">Issues</a>    </br>
+ </div>
+  
+</div>
+
+	
+
+ 
+
+
+<div class="center">
+
+
+	<h2> GitHub search results(Chrome Only)</h2>
+  <a href="javascript:void(0)" onclick="goToURL(); return false;">Merged-PRs</a> </br>
+  <a href="javascript:void(0)" onclick="goToURL2(); return false;">All PRs</a> 
+
+  
+  </div>
+  
+ 
 </body>
+
 </html>
+
