@@ -176,11 +176,9 @@ Directions:
   <div class="center">  
   	<center><h2> API search </h2> </center>
 
-<a href="javascript:void(0)" onclick="goToURL3();  ;return false;">Merged-Pr</a> 
-
- <a href="javascript:void(0)" onclick="goToURL4(); return false;">All PRs</a> 
- 
- <a href="javascript:void(0)" onclick="goToURL5(); return false;">Issues</a>    
+<a href="javascript:void(0)" onclick="goToURL3();  ;return false;">Merged-Pr</a>  
+<a href="javascript:void(0)" onclick="goToURL4(); return false;">All PRs</a>  
+<a href="javascript:void(0)" onclick="goToURL5(); return false;">Issues</a>    
  </div>
   
 </div>
@@ -194,7 +192,7 @@ Directions:
 
 
 	<h2> GitHub search results(Chrome Only)</h2>
-  <a href="javascript:void(0)" onclick="goToURL(); return false;">Merged-PRs</a>
+  <a href="javascript:void(0)" onclick="goToURL(); return false;">Merged-PRs</a>  
   <a href="javascript:void(0)" onclick="goToURL2(); return false;">All PRs</a> 
 
   
