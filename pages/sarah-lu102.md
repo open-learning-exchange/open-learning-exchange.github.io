@@ -1,5 +1,5 @@
-#Sarah Lu
-
+Sarah Lu
+=========
 I am a freshman at the **University of Southern California** studying Computer Science and Business.
 
 Location: Los Angeles, California
