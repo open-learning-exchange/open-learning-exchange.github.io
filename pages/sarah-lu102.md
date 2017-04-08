@@ -5,5 +5,5 @@ I am a freshman at the **University of Southern California** studying Computer S
 Location: Los Angeles, California
 Time Zone: Pacific Standard Time
 
-+OS: Windows 10 version 1607
+- OS: Windows 10 version 1607
 
