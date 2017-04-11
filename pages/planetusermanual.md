@@ -117,6 +117,6 @@ Notes:
 1. **Add New Member** - we can add a new member by clicking this button.
 2. **List of Members** - we can see list of members here.
 3. **Search Members** - insert a member's name here and click _search_ to search for the member.
-4. **Open Members Detail** - everyone can see a detail of a member here.
+4. **Open Members Detail** - everyone can see the details of a member here.
 5. **Edit Members Detail** - this is an admin only functionality for editing a members account information.
 6. **Delete a Member** - this is an admin only functionality for deleting members.
