@@ -8,7 +8,7 @@ If you are selected for the internship after completing the steps, you will be o
 
 Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
-**Note:** *This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found [here](https://www.indeed.com/jobs?q=%22virtual+software+engineer+intern%22&l=Cambridge,+MA). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](/#!pages/chat.md)!*
+**Note:** *This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found [here](https://www.indeed.com/jobs?q=%22virtual+software+engineer+intern%22&l=Cambridge,+MA). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](chat.md)!*
 
 # The Steps
 
@@ -16,9 +16,9 @@ Social coding is a huge part of any open source and collaborative project, and t
 
 Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The Github and Markdown skills you practice here are very important in both this internship and a future software development career.
 
-The MD wiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step and we created a [FAQ page](/#!./pages/faq.md) where you can find the answers to some commonly asked questions. This page has even more useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
+The MD wiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step and we created a [FAQ page](faq.md) where you can find the answers to some commonly asked questions. This page has even more useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
 
-We also want you to keep us updated a relatively good amount in the Gitter chat as you complete these steps. Check our [Gitter chat](/#!pages/chat.md) page for more information about how to best communicate in Gitter.
+We also want you to keep us updated a relatively good amount in the Gitter chat as you complete these steps. Check our [Gitter chat](chat.md) page for more information about how to best communicate in Gitter.
 
 A very large part of these steps is finding problems with these steps and this MD wiki, so take note of any issues that you run into or suggestions for improvement while doing these steps. Think of it as improving these steps and this MD wiki for future interns. 
 

@@ -3,20 +3,20 @@
 ## Welcome to the OLE Intern Team!
 Congratulations, you have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have 16 hours a week to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
 ## Get to know the team
-The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](http://open-learning-exchange.github.io/#!pages/team.md).
+The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](team.md).
 You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
 ## Familiarize yourself with current projects and issues
 Typically interns choose what project they want to work on, but if you get tired of a certain project there is opportunity to switch projects. The follow list are the current areas of work for the interns - besides the [issues on ole-vi BeLL-Apps](https://github.com/ole-vi/BeLL-Apps/issues). Take a look at them all, and if any particularly interest you there is a very good chance that you can work on them.
 
-* [Automated Testing](http://open-learning-exchange.github.io/#!pages/automatedtesting.md)
+* [Automated Testing](automatedtesting.md)
   * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI
-* [Translation (Crowdin)](http://open-learning-exchange.github.io/#!pages/crowdinintegration.md)
+* [Translation (Crowdin)](crowdinintegration.md)
   * Help us translate the BeLL App user interface to other languages
-* [Simple Install](http://open-learning-exchange.github.io/#!pages/simpleinstall.md)
+* [Simple Install](simpleinstall.md)
   * We are in the progress of making a script to install all the software needed to run and work on the Bell Apps
-* [HTML Resources](http://open-learning-exchange.github.io/#!pages/htmlresources.md)
+* [HTML Resources](htmlresources.md)
   * Add existing educational HTML apps into the BeLL.
-* [Take Home](http://open-learning-exchange.github.io/#!pages/takehome.md)
+* [Take Home](takehome.md)
   * Take home is an Android port of the BeLL apps.
   
 ## A few things to know..
