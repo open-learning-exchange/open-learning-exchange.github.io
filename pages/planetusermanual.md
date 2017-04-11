@@ -101,3 +101,22 @@ An example of the Manager Dashboard is shown below. The functionalities are defi
 19.**Surveys** allows Nation Managers to push a survey PLANET users based on characteristics like age, gender, member type, Community, etc.
 
 20.**Update Welcome Video** allows Managers to change the welcome video for their Nation.
+
+## Members Menu
+### _What is Members Menu_
+**Members** menu is a place to see, search, modify, and delete (for admin) an entire member of a community/nation where we logged in.
+
+A user is able to see and search member within the community/nation, but can't modify other members data.
+An administrator of a community/nation is capable to modify or delete members data if neccessary.
+Below are the illustration for Members menu.
+
+![](uploads/images/members_menu.png)
+
+Notes:
+
+1. **Add New Member** - you can add a new member by clicking this button.
+2. **List of Members** - we can see list of members here.
+3. **Search Members** - insert a member's name here and click _search_ to search a member.
+4. **Open Members Detail** - anyone can see a detail of a member here.
+5. **Edit Members Detail** - this is an admin only functionality which able to edit a member detail.
+6. **Delete a Member** - this is an admin only functionality which able to delete a member.
