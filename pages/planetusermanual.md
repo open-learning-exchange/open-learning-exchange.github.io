@@ -106,9 +106,9 @@ An example of the Manager Dashboard is shown below. The functionalities are defi
 ### _What is Members Menu_
 **Members** menu is a place to see, search, modify, and delete (for admin) an entire member of a community/nation where we logged in.
 
-A user is able to see and search member within the community/nation, but can't modify other members data.
+A user is able to see and search for members within the community/nation, but can't modify other members data.
 An administrator of a community/nation is able to modify or delete members data if neccessary.
-Below are the illustration for Members menu.
+Below is an illustration of the Members menu.
 
 ![](uploads/images/members_menu.png)
 
