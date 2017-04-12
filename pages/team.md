@@ -39,3 +39,5 @@
 |[epistulae](epistulae.md)|   |   |
 |[pranesh-s](pranesh-s.md)| 20160525 | 20160603 |
 |[314159265359](314159265359.md)| 20160523 | 20160603 |
+|[FanisGk](FanisGk.md)| 20160801 | 20170131 |
+|[prmurphy](prmurphy.md)| 20161023 | 20170131 |
