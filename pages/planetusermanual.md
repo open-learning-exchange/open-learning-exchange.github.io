@@ -218,10 +218,21 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the Collection.
 
+## Members Menu
+### _What is Members Menu_
+**Members** menu is a place to see, search, modify, and delete (for admin) an entire member of a community/nation where we logged in.
 
-          
+A user is able to see and search for members within the community/nation, but can't modify other members data.
+An administrator of a community/nation is able to modify or delete members data if neccessary.
+Below is an illustration of the Members menu.
 
+![](uploads/images/members_menu.png)
 
+Notes:
 
-
-
+1. **Add New Member** - we can add a new member by clicking this button.
+2. **List of Members** - we can see list of members here.
+3. **Search Members** - insert a member's name here and click _search_ to search for the member.
+4. **Open Members Detail** - everyone can see the details of a member here.
+5. **Edit Members Detail** - this is an admin only functionality for editing a members account information.
+6. **Delete a Member** - this is an admin only functionality for deleting members.
