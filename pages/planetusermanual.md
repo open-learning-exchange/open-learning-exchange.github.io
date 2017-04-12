@@ -126,7 +126,7 @@ A collection is a group of Resources based on topic/subject and intended use.  P
 
 3.  After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
 
-![](uploads/images/New Resource.png)
+![](uploads/images/NewResource.png)
 
 1.  The **Title** of the Resource goes here. Capitalize all principal words and make sure everything is spelled correctly.  If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”).  Do not start the title with numbers or special characters (!@#$%^&*).  If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new Resource in parentheses. Examples are shown below.
 
@@ -204,7 +204,7 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 3. You can either manage existing Collections or create a new Collection. We will first create a new Collection. Click on “Add Collection.”
 
-![](uploads/images/Add Collection.png)
+![](uploads/images/AddCollection.png)
 
 4. You will then be prompted to fill in the form shown below. Type the Collection name and description. “Nested Under” refers to whether this will be a top level Collection or a sub-Collection.  Sub-Collections are nested under other Collections. If you wish to create a Collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
 
@@ -214,7 +214,7 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 6. To edit a Collection, go back to the main Collection page and click on the button next to the Collection you want to edit. 
 
-![](uploads/images/Main Collection.png)
+![](uploads/images/MainCollection.png)
 
 7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the Collection.
 
