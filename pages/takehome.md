@@ -72,7 +72,7 @@ In Android Studio:
 
 Your code should now look like this:
 
-![AndroidFullscreenLoginMod](uploads/images/AndriodFullscreeLoginMod.png)
+![AndroidFullscreenLoginMod](uploads/images/AndroidFullscreenLoginMod.png)
 
 Again, In Android Studio:
 - Navigate to app->java-> FullscreenActivity
@@ -82,11 +82,11 @@ Again, In Android Studio:
 
 Your code should look like this:
 
-![AndroidscreenActivity](uploads/images/AndroidscreenActivity.png)
+![AndroidscreenActivity](uploads/images/AndroidscreenActivityMod.png)
 
 Now you should be able to run the app in your virtual device.
 
-**Note:** *Remember this change you made to the code! If you make a pull request with this change in place you will break the application when it runs on an andriod device. This change is only intened for virtual device testing*
+**Note:** *Remember this change you made to the code! If you make a pull request with this change in place you will break the application when it runs on an Android device. This change is only intended for virtual device testing.*
 
 ## Understanding the flow of the android application
 WIP
