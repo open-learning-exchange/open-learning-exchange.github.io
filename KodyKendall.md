@@ -1,7 +1,7 @@
 
-Kody Kendall
-Mountain Time Zone
-Windows 10 Home, Version 1607
+Kody Kendall,
+Mountain Time Zonem
+Windows 10 Home - Version 1607.
 
 ---
 
