@@ -11,7 +11,7 @@ I'm currently a Computer Science student at the University of Utah. I've been co
 and other programs for roughly 1-2 years. I'm currently most familiar with: 
 
 - Using Java in an Object-Oriented Fashion
-- Using HTMl and CSS, along with frameworks like Bootstrap and WordPress
+- Using HTML and CSS, along with frameworks like Bootstrap and WordPress
 - Operating in Eclipse/Android Studio
 - Building and working on simple Android applications. 
 
