@@ -3,6 +3,8 @@ Kody Kendall
 Mountain Time Zone
 Windows 10 Home, Version 1607
 
+---
+
 # About Me:
 
 I'm currently a Computer Science student at the [University of Utah]. I've been coding and developing websites, applications, 
