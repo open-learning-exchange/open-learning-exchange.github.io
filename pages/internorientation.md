@@ -41,7 +41,6 @@ If there are no issues remaining with a pull request, and at least two people ha
 Every time you merge a pull request, message the author on [Gitter in the chat room](https://gitter.im/open-learning-exchange/chat), make sure you include a link to the pull request and commit id.
 
 **Note:** *Before merging the pull request make sure commit description messages to be empty inorder to reduce the Garbage. And also make sure the title is short and precise.*
-
 ### Using Waffle.io
 [Waffle.io](https://waffle.io/ole-vi/BeLL-Apps) is what OLE uses to manage the BeLL app project. Its another way to see what needs to be done, what needs to be reviewed, what you need to work on, and what others are working on. You should be added when you become an intern, but if not message someone and they will add you to the Waffle.io page.
 
