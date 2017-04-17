@@ -60,7 +60,7 @@ After you rename it, make sure to post a link to the github.io website you've ju
 
 ![Example of github.io page](uploads/images/examplegithubio.png)
 
-Don't worry if you see a **404** when you access the link, you will set that up in *Step 5*.
+Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
 
 **Important Note: Always pay attention when you are working on GitHub, to make sure you work on your own personal account and not on Open Learning Exchange GitHub account.**
