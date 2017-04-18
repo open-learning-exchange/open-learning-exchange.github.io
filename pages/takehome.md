@@ -89,7 +89,7 @@ Now you should be able to run the app in your virtual device.
 **Note:** *Remember this change you made to the code! If you make a pull request with this change in place you will break the application when it runs on an Android device. This change is only intended for virtual device testing.*
 
 ## Logging in on Android Emulator
-The Take-home application by default is setup to run on an actual Android device. You will need to modify the IP address in Setup on the Member Login screen to be able to login successfully.
+The Take Home application by default is setup to run on an actual Android device. You will need to modify the IP address in the Setup menu on the Member Login screen to be able to login successfully using the Android Emulator.
 
 **Note:** *You need to have completed the [First Steps](http://open-learning-exchange.github.io/#!pages/firststeps.md) that relate to Vagrant in order for your Android Emulator to work. Make sure you can log-into MyBeLL before continuing these steps.*
 
