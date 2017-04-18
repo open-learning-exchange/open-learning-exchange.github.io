@@ -53,5 +53,40 @@ Navigate to Android studio -> take-home and select the settings.gradle file to i
 
 - The emulator will be opened with application installed. You have successfully configured the development environment to get you started. 
 
+When you first run the app you will get an error saying you are missing two .apk files. You can find the following files here:
+
+- [firefox_49_0_multi_android.apk](https://drive.google.com/file/d/0Bw7aA5bLT2P9TTBNSDl3VzgtVnc/view)
+- [adobe_reader.apk](https://drive.google.com/open?id=0Bw7aA5bLT2P9UmhlcHA1R1BoZnM) 
+
+Download both files and put them into the take-home raw folder found here:
+
+- take-home\app\src\main\res\raw
+
+The app is now ready to run on an Android device. If you would like to run it in Android Studio's virtual device you made, you will have to modify the code as follows.
+
+In Android Studio:
+- Navigate to app->java-> FullscreenLogin
+- Find ```public boolean updateActivityLog()```
+- Comment out the line containing ```String m_WLANMAC = wm.getConnectionInfo().getMacAddress();```
+- Add this line below the one you just commented out ```String m_WLANMAC = "mymac";```
+
+Your code should now look like this:
+
+![AndroidFullscreenLoginMod](uploads/images/AndroidFullscreenLoginMod.png)
+
+Again, In Android Studio:
+- Navigate to app->java-> FullscreenActivity
+- Find ```public boolean updateActivityOpenedResources(String resource_name, String resourceid)```
+- Comment out the line containing ```String m_WLANMAC = wm.getConnectionInfo().getMacAddress();```
+- Add this line below the one you just commented out ```String m_WLANMAC = "mymac";```
+
+Your code should look like this:
+
+![AndroidscreenActivity](uploads/images/AndroidscreenActivityMod.png)
+
+Now you should be able to run the app in your virtual device.
+
+**Note:** *Remember this change you made to the code! If you make a pull request with this change in place you will break the application when it runs on an Android device. This change is only intended for virtual device testing.*
+
 ## Understanding the flow of the android application
 WIP

@@ -13,7 +13,7 @@ Documentation helps to understand overall progress of project. Visit following l
 
 Prerequisites:
 
-* [Couchapp](#couchapp-installation)
+* [Couchapp](htmlresources.md#Couchapp_Installation)
 * Couchdb Instance
 * Desired JavaScript/HTML application
 
