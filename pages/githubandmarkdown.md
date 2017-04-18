@@ -77,7 +77,7 @@ In the new file, please type your name, your location/time zone, and OS (includi
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
   
-  ![Edit](uploads/images/Edit2.png)
+  ![Edit](uploads/images/Edit.png)
 
 Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/profiles/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
