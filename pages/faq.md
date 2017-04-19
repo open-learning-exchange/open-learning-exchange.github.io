@@ -23,7 +23,7 @@ _**Q: If I'm an international student, how soon can I get my paperwork required 
 After you finish the first 10 steps, let us know if you need us to sign some paperwork or provide you with an offer letter for your visa. Since the first 10 steps are a vetting process, your internship technically doesn't start until you finish them. Think of the first 10 steps as a continued application process as you are not working or adding to our organizational software, but rather showing that you have enough technical background to work with us. We are more than happy to speak to you about providing you with an offer letter or assisting with organizational information once you complete the 10 steps, but as you are not working with us until you are officially an intern, we cannot provide proof of working with us until you compete the first steps.
 
 _**Q: How many pull requests and issues in total do I need to make to finish the steps?**_
-To finish the initial steps, you need to make a **minimum** of three issues and three pull requests so you can get familiar with GitHub and to show us that you can write proper issues/PRs.
+To finish the initial steps, you need to make a **minimum** of four issues and five pull requests so you can get familiar with GitHub and to show us that you can write proper issues/PRs.
 
 _**Q: How long do I have to complete these steps?**_
 There is no official deadline, work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days. 
