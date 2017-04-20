@@ -1,6 +1,7 @@
 # FAQ
 
 ## General Internship Information
+
 _**Q: What will I be working on during this internship?**_
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
@@ -90,7 +91,9 @@ vagrant up
 
 
 ## Helpful Links
+
 #### *GitHub and Markdown*
+
 - [GitHub and Markdown Short Tutorials](https://guides.github.com/)
 - [GitHub Help](https://help.github.com/categories/search/)
 - [Git Pro (Book)](https://git-scm.com/book/en/v2)
@@ -100,13 +103,18 @@ vagrant up
 - [Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 - [Markdown Editor](https://jbt.github.io/markdown-editor/)
 - [Vi Cheat Sheet (JPG)](https://www.shell-tips.com/sheets/vi_help_sheet.jpg)
+
 #### *VirtualBox*
+
 - [VirtualBox First Steps (Manual)](https://www.virtualbox.org/manual/ch01.html)
+
 #### *Vagrant*
+
 - [Vagrant Documentation](https://www.vagrantup.com/docs/getting-started/)
 - [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
 
 ## Helpful Videos
+
 - [GitHub & Git Foundations (Playlist)](https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM)
 - [Shorter Git/GitHub Tutorial (Playlist)](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Mastering Markdown (Playlist)](https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
