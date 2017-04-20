@@ -1,4 +1,4 @@
-#Nation BeLLs
+#Nation BeLL
 
 In step 4, you registered your community BeLL with the nation. Now, you will learn how to keep your community BeLL in sync with the nation.
 
