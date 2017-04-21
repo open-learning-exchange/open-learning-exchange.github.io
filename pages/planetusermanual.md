@@ -62,45 +62,45 @@ An example of the Manager Dashboard is shown below. The functionalities are defi
 
 ![](uploads/images/dashboard.png)
 
-1.**My Home** directs the Learner to the main Dashboard page and provides easy access to most PLANET functionalities.
+1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most PLANET functionalities.
 
-2.**e-Readers** functionality is under construction.
+2. **e-Readers** functionality is under construction.
 
-3.**Library** allows a Learner to browse the digital Resources.  It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
+3. **Library** allows a Learner to browse the digital Resources.  It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
 
-4.**Courses** gives Learners the option to view each Course and to request admission.
+4. **Courses** gives Learners the option to view each Course and to request admission.
 
-5.**Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other PLANET Learners.
+5. **Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other PLANET Learners.
 
-6.**Members** provides a list of all Learners in this PLANET system. 
+6. **Members** provides a list of all Learners in this PLANET system. 
 
-7.**Reports** allows Nation Managers to distribute Nation Reports as needed.
+7. **Reports** allows Nation Managers to distribute Nation Reports as needed.
 
-8.**Feedback** allows Learners to give feedback for the Resource or page they are viewing.
+8. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
 
-9.**Logout** logs the Learner out of the PLANET system.
+9. **Logout** logs the Learner out of the PLANET system.
 
-10.**Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
+10. **Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
 
-11.**Language** shows the language of the user interface and allows the user to switch between languages.
+11. **Language** shows the language of the user interface and allows the user to switch between languages.
 
-12.**My Library** displays the Resources that were added to “_My Library_” by the Learner.
+12. **My Library** displays the Resources that were added to “_My Library_” by the Learner.
 
-13.**My Courses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
+13. **My Courses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
 
-14.**My Meetups** displays the physical location of the Course (if applicable).
+14. **My Meetups** displays the physical location of the Course (if applicable).
 
-15.**My Tutors** is under construction.
+15. **My Tutors** is under construction.
 
-16.**Badges** is under construction.
+16. **Badges** is under construction.
 
-17.**Calendar** can be used to organize and display Meetups and Events for the Learner.
+17. **Calendar** can be used to organize and display Meetups and Events for the Learner.
 
-18.**Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
+18. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
 
-19.**Surveys** allows Nation Managers to push a survey PLANET users based on characteristics like age, gender, member type, Community, etc.
+19. **Surveys** allows Nation Managers to push a survey PLANET users based on characteristics like age, gender, member type, Community, etc.
 
-20.**Update Welcome Video** allows Managers to change the welcome video for their Nation.
+20. **Update Welcome Video** allows Managers to change the welcome video for their Nation.
 
 # Library and Resources Overview
 
@@ -219,7 +219,7 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the Collection.
 
 ## Members Menu
-### _What is Members Menu_
+### _What is Members Menu?_
 **Members** menu is a place to see, search, modify, and delete (for admin) an entire member of a community/nation where we logged in.
 
 A user is able to see and search for members within the community/nation, but can't modify other members data.
@@ -236,3 +236,40 @@ Notes:
 4. **Open Members Detail** - everyone can see the details of a member here.
 5. **Edit Members Detail** - this is an admin only functionality for editing a members account information.
 6. **Delete a Member** - this is an admin only functionality for deleting members.
+
+# Report Overview
+
+## _What is a Report?_
+Reports allows distribution of Nation Reports as needed by Nation Managers. Managers can add new Reports, check the activity on each Report, and look at trends for each Report.
+
+## _How do I create a Report?_
+Click on _“Reports”_ on the Dashboard main menu as shown below.
+
+![](uploads/images/ReportsOverview1.PNG)
+
+PLANET has three different kinds of Reports:  
+      
+   **A.** Add a New Report   
+   **B.** Activity Report  
+   **C.** Trend Activity Report 
+
+### **Option A:**  
+Click on *“Add a New Report”* to add a new Report. Fill in the information for the new Report and add any relevant Resources. Then click *“Save.”*  
+![](uploads/images/ReportsOverview2.JPG)
+
+### **Option B:**  
+In the Reports page, the Manager can also select *“Activity Report.”*    
+![](uploads/images/ReportsOverview3.JPG)
+
+*“Activity Report”* allows the Manager to check any changes that happen between two specific dates. First, select the start and end dates. Then click *“Generate Report.”*  
+![](uploads/images/Reportsoverview4.JPG)
+
+After Clicking on *“Generate Report”* the Manager will be able to view Registered Members, the Activity Report, visits by gender, most frequently opened Resources, highest rated Resource, and lowest rated Resource.   
+![](uploads/images/ReportsOverview5.JPG)
+
+### **Option C:**
+In the Reports page, click *“Trend Activity Report.”*  
+![](uploads/images/ReportsOverview6.JPG)
+
+In resulting Report the Manager will be able to see a visual graphic representing activity over the past 12 months as shown below.  
+![](uploads/images/ReportsOverview7.JPG)
