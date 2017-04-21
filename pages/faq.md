@@ -1,7 +1,7 @@
 # FAQ
 
 ## General Internship Information
-- **Q1: [What will I be working on during this internship?](faq.md#Q:_What_will_I_be_working_on_during_this_internship?)**
+- **Q1:** [What will I be working on during this internship?](faq.md#Q:_What_will_I_be_working_on_during_this_internship?)
 - **Q2: [What kind of software will we be using for this internship?](faq.md#Q:_What_kind_of_software_will_we_be_using_for_this_internship?)**
 - **Q3: [Where can I find more information about this internship?](faq.md#Q:_Where_can_I_find_more_information_about_this_internship?)**
 - **Q4: [What are the hours of the internship?](faq.md#Q:_What_are_the_hours_of_the_internship?)**
