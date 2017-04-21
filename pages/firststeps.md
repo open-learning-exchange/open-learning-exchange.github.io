@@ -39,9 +39,11 @@ Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read thr
 
 ## Step 2 - Vagrant Tutorial
 
-[Vagrant](https://www.vagrantup.com/) is an open source tool to build development environments. In the previous step, you followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-vi) to install a BeLL virtual machine on your system. You may have noticed that one of the programs listed as dependencies was Vagrant.
+#### Windows 
+Review these [Vagrant instructions](vagrantwin.md) to get familiar with Vagrant, since you will need to use it during your internship.
 
-We use Vagrant to power up our BeLL virtual machine. While this is done automatically (behind the scenes, as it were), it is useful for you to understand how to use Vagrant, because during your internship you may have to use it manually.
+#### MacOS(X) and Ubuntu
+Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step.
 
 You can find [the vagrant instructions here](vagrant.md) to get a good idea for how it works.
 
