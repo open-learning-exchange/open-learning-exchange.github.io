@@ -1,25 +1,25 @@
 # FAQ
 
 ## General Internship Questions
-- **Q1:** [What will I be working on during this internship?](faq.md#Q:_What_will_I_be_working_on_during_this_internship?)
-- **Q2:** [What kind of software will we be using for this internship?](faq.md#Q:_What_kind_of_software_will_we_be_using_for_this_internship?)
-- **Q3:** [Where can I find more information about this internship?](faq.md#Q:_Where_can_I_find_more_information_about_this_internship?)
-- **Q4:** [What are the hours of the internship?](faq.md#Q:_What_are_the_hours_of_the_internship?)
-- **Q5:** [Is this a paid internship?](faq.md#Q:_Is_this_a_paid_internship?)
-- **Q6:** [What happens after the initial steps?](faq.md#Q:_What_happens_after_the_initial_steps?)
-- **Q7:** [If I'm an international student, how soon can I get my paperwork required by my visa?](faq.md#Q:_If_I'm_an_international_student,_how_soon_can_I_get_my_paperwork_required_by_my_visa?)
-- **Q8:** [How many pull requests and issues in total do I need to make to finish the steps?](faq.md#Q:_How_many_pull_requests_and_issues_in_total_do_I_need_to_make_to_finish_the_steps?)
-- **Q9:** [How long do I have to complete these steps?](faq.md#Q:_How_long_do_I_have_to_complete_these_steps?)
+- **Q1:** [What will I be working on during this internship?](faq.md#Q1:_What_will_I_be_working_on_during_this_internship?)
+- **Q2:** [What kind of software will we be using for this internship?](faq.md#Q2:_What_kind_of_software_will_we_be_using_for_this_internship?)
+- **Q3:** [Where can I find more information about this internship?](faq.md#Q3:_Where_can_I_find_more_information_about_this_internship?)
+- **Q4:** [What are the hours of the internship?](faq.md#Q4:_What_are_the_hours_of_the_internship?)
+- **Q5:** [Is this a paid internship?](faq.md#Q5:_Is_this_a_paid_internship?)
+- **Q6:** [What happens after the initial steps?](faq.md#Q6:_What_happens_after_the_initial_steps?)
+- **Q7:** [If I'm an international student, how soon can I get my paperwork required by my visa?](faq.md#Q7:_If_I'm_an_international_student,_how_soon_can_I_get_my_paperwork_required_by_my_visa?)
+- **Q8:** [How many pull requests and issues in total do I need to make to finish the steps?](faq.md#Q8:_How_many_pull_requests_and_issues_in_total_do_I_need_to_make_to_finish_the_steps?)
+- **Q9:** [How long do I have to complete these steps?](faq.md#Q9:_How_long_do_I_have_to_complete_these_steps?)
 
 ## Technical Questions
-- **Q10:** [What is the purpose of nations and communities, and how do they work together?](faq.md#Q:_What_is_the_purpose_of_nations_and_communities,_and_how_do_they_work_together?)
-- **Q11:** [How can I enable the Virtualization in order to turn vagrant on?](faq.md#Q:_How_can_I_enable_the_Virtualization_in_order_to_turn_vagrant_on?)
-- **Q12:** [Why is the "Submit" button not showing up when I try to submit my survey?](faq.md#Q:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
-- **Q13:** [Why does Firefox say “Unable to connect” when I try to load my community?](faq.md#Q:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_community?)
-- **Q14:** [When I first run BeLL with the "vagrant up" command the download fails, why?](faq.md#Q:_When_I_first_run_BeLL_with_the_"vagrant_up"_command_the_download_fails,_why?)
-- **Q15:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?](faq.md#Q:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_I_need_to_delete_it?)
-- **Q16:** [What do I do if I already have a github.io with my username?](faq.md#Q:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
-- **Q17:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](faq.md#Q:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_vagrant_vm?)
+- **Q10:** [What is the purpose of nations and communities, and how do they work together?](faq.md#Q10:_What_is_the_purpose_of_nations_and_communities,_and_how_do_they_work_together?)
+- **Q11:** [How can I enable the Virtualization in order to turn vagrant on?](faq.md#Q11:_How_can_I_enable_the_Virtualization_in_order_to_turn_vagrant_on?)
+- **Q12:** [Why is the "Submit" button not showing up when I try to submit my survey?](faq.md#Q12:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
+- **Q13:** [Why does Firefox say “Unable to connect” when I try to load my community?](faq.md#Q13:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_community?)
+- **Q14:** [When I first run BeLL with the "vagrant up" command the download fails, why?](faq.md#Q14:_When_I_first_run_BeLL_with_the_"vagrant_up"_command_the_download_fails,_why?)
+- **Q15:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?](faq.md#Q15:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_I_need_to_delete_it?)
+- **Q16:** [What do I do if I already have a github.io with my username?](faq.md#Q16:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
+- **Q17:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](faq.md#Q17:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_vagrant_vm?)
 
 
 ### General Internship Questions
