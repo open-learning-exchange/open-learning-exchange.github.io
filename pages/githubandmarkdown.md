@@ -60,6 +60,8 @@ After you rename it, make sure to post a link to the github.io website you've ju
 
 ![Example of github.io page](uploads/images/examplegithubio.png)
 
+Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
+
 
 **Important Note: Always pay attention when you are working on GitHub, to make sure you work on your own personal account and not on Open Learning Exchange GitHub account.**
 Once again, it is very important to distinguish between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of our code, everyone forks the repositories, commit their changes to their own personal version of the repository, and then send the changes back to the Open Learning Exchange repository for approval (called a pull request), before the Open Learning Exchange code is updated.
@@ -67,17 +69,19 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 
 ###Create a new file as your personal MD Wiki page and commit your changes
-Now, you can edit the files in your repo and the changes you make will be reflected on your &lt;username&gt;.github.io website. To edit, click on the `pages` folder. Then, click `New File` and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is EmilyLarkin.github.io/pages/EmilyLarkin.md, so yours should be named in the same manner, only using your username.
+ Before creating your file create a new branch using the branch drop down menu as shown below.
+ 
+![New Branch](uploads/images/New Branch.png)
 
-In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. Then, scroll down to the bottom of the page, select the ` Create a new branch for this commit and start a pull request. Learn more about pull requests.` radio box and input `arbitrary name`. You can see the example below.
+ To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is `EmilyLarkin.github.io/pages/profiles/EmilyLarkin.md`, so yours should be named in the same manner, only using your username.
 
-![New Branch](uploads/images/newbranch.png)
+In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works. 
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
+  
+  ![Edit](uploads/images/Edit.png)
 
-![Edit](uploads/images/Edit.png)
-
-Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
+Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/profiles/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
 ###Open a pull request
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Finally, click `Create pull request` and someone from our team will review the changes. Often there will be some feedback from the reviewer at this point for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will automatically affect the pull request. Once everything looks good, the reviewer will merge your page with the main repository.
