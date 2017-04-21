@@ -16,14 +16,14 @@ But, even more importantly, it means that one should take a proactive stance and
 
 Then, the project focused on manual tests, and explained how to conduct them and what to expect from them, highlighting pros and cons of such a testing practice. Finally, the project tackled the challenge of introducing automated testing, and envisioned writing Selenium tests in Java.
 
-The project got abandoned since, but the entire history is still available at [Bug Hunt](bughunt.md).
+The project got abandoned since, but the entire history is still available at [Bug Hunt](/#!pages/bughunt.md).
 
 ## The Present
 More recently, the project was renamed Automated Testing, and was implemented through Selenium, but with tests written in Python, using the `unittest` library.  
 The tests are triggered automatically by Travis CI every time a pull request or a commit is pushed to GitHub (for now automated testing is limited to the [ole-vi repo](https://github.com/ole-vi/BeLL-Apps)).
 What happens is that Travis CI creates an environment in the cloud, which includes a nation, and runs the Selenium tests through a tunnel established with Sauce Labs.
 
-Since this is the current state of the project, it is extremely important that you read carefully the documentation at [Automated Testing with Python](automatedtestingpython.md). That will introduce you to the motivation behind testing, and explain you how to setup a testing environment on your computer.
+Since this is the current state of the project, it is extremely important that you read carefully the documentation at [Automated Testing with Python](/#!pages/automatedtestingpython.md). That will introduce you to the motivation behind testing, and explain you how to setup a testing environment on your computer.
 That may change in the near future, but for now, we're still running locally the tests we write before sending a pull request to the repository, so it is vital for you to install all the necessary libraries and tools.
 
 At the moment, there are still many tests to write and quite a bit of work to do, but the entire workflow is up and running, and the biggest challenges have been conquered.
@@ -36,4 +36,4 @@ We already have a proof of concept documentation, explaining how to install the 
 
 It is then up to you, the current and future interns, to master all the difficulties and to determine whether or not this will be the future!
 
-To get started, you can find the documentation at [Automated Testing with CodeceptJS](automatedtestingcodeceptjs.md). Good luck!
+To get started, you can find the documentation at [Automated Testing with CodeceptJS](/#!pages/automatedtestingcodeceptjs.md). Good luck!

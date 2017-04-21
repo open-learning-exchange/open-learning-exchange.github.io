@@ -23,7 +23,7 @@ Windows PowerShell is a default shell interface installed in your machine. When 
 
 Actually, **Git Bash** is also a good choice.  As you open **Git Bash**, you will find the default path of it is also `C:\Users\YOUR_USERNAME`.
 
-As is mentioned above, the correct directory of Vagrant is `C:\Users\YOUR_USERNAME\ole--vagrant-vi`. So as long as you are at the correct directory, you can use any of those three options to run commands related to Vagrant. Among those three options we suggest mostly using `Git Bash`,  which is already installed with the ole--vagrant-vi script. In Git Bash, you use the same commands as those you would use in Powershell. Some basic commands of Vagrant are as shown below.
+As is mentioned above, the correct directory of Vagrant is `C:\Users\YOUR_USERNAME\ole--vagrant-vi`. So as long as you are at the correct directory, you can use any of those three options to run commands related to Vagrant. Among those three options we suggest mostly using `Git Bash`, since which got already installed with the ole--vagrant-vi script. Some basic commands of Vagrant are shown as below.
 
 First of all, make sure you are on the path `C:\Users\YOUR_USERNAME`. Then if you type `cd ole--vagrant-vi` followed by `vagrant global-status`, you will see a screen similar to this,
 
