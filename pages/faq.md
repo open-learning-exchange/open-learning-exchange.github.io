@@ -1,6 +1,6 @@
 # FAQ
 
-## General Internship Information
+## General Internship Questions
 - **Q1:** [What will I be working on during this internship?](faq.md#Q:_What_will_I_be_working_on_during_this_internship?)
 - **Q2:** [What kind of software will we be using for this internship?](faq.md#Q:_What_kind_of_software_will_we_be_using_for_this_internship?)
 - **Q3:** [Where can I find more information about this internship?](faq.md#Q:_Where_can_I_find_more_information_about_this_internship?)
@@ -11,16 +11,17 @@
 - **Q8:** [How many pull requests and issues in total do I need to make to finish the steps?](faq.md#Q:_How_many_pull_requests_and_issues_in_total_do_I_need_to_make_to_finish_the_steps?)
 - **Q9:** [How long do I have to complete these steps?](faq.md#Q:_How_long_do_I_have_to_complete_these_steps?)
 
-## Technical Issues and Questions
-- **Q1:** [What is the purpose of nations and communities, and how do they work together?](faq.md#Q:_What_is_the_purpose_of_nations_and_communities,_and_how_do_they_work_together?)
-- **Q2:** [How can I enable the Virtualization in order to turn vagrant on?](faq.md#Q:_How_can_I_enable_the_Virtualization_in_order_to_turn_vagrant_on?)
-- **Q3:** [Why is the "Submit" button not showing up when I try to submit my survey?](faq.md#Q:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
-- **Q4:** [Why does Firefox say “Unable to connect” when I try to load my community?](faq.md#Q:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_community?)
-- **Q5:** [When I first run BeLL with the "vagrant up" command the download fails, why?](faq.md#Q:_When_I_first_run_BeLL_with_the_"vagrant_up"_command_the_download_fails,_why?)
-- **Q6:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?](faq.md#Q:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_I_need_to_delete_it?)
-- **Q7:** [What do I do if I already have a github.io with my username?](faq.md#Q:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
-- **Q8:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](faq.md#Q:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_vagrant_vm?)
+## Technical Questions
+- **Q10:** [What is the purpose of nations and communities, and how do they work together?](faq.md#Q:_What_is_the_purpose_of_nations_and_communities,_and_how_do_they_work_together?)
+- **Q11:** [How can I enable the Virtualization in order to turn vagrant on?](faq.md#Q:_How_can_I_enable_the_Virtualization_in_order_to_turn_vagrant_on?)
+- **Q12:** [Why is the "Submit" button not showing up when I try to submit my survey?](faq.md#Q:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
+- **Q13:** [Why does Firefox say “Unable to connect” when I try to load my community?](faq.md#Q:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_community?)
+- **Q14:** [When I first run BeLL with the "vagrant up" command the download fails, why?](faq.md#Q:_When_I_first_run_BeLL_with_the_"vagrant_up"_command_the_download_fails,_why?)
+- **Q15:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?](faq.md#Q:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_I_need_to_delete_it?)
+- **Q16:** [What do I do if I already have a github.io with my username?](faq.md#Q:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
+- **Q17:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](faq.md#Q:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_vagrant_vm?)
 
+### General Internship Questions
 #### Q1: What will I be working on during this internship? 
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources. 
 
@@ -48,19 +49,20 @@ To finish the initial steps, you need to make a **minimum** of four issues and f
 #### Q9: How long do I have to complete these steps?
 There is no official deadline, work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days.
 
-#### Q1: What is the purpose of nations and communities, and how do they work together? 
+### Technical Questions
+#### Q10: What is the purpose of nations and communities, and how do they work together? 
 We use the nation/community infrastructure because we often deploy our software in places without internet. Nations are the service sitting in the cloud (which are connected to the internet). Communities, which run locally on Raspberry Pi’s and/or laptops, are run on an *intranet* but are most of the time not connected to the *internet*. Because nations are connected to the internet, they allow a connection process between us (with internet) and users on communities (without internet). To sync with a nation, however, a community needs to be connected to the internet so that information can be sent in both directions.
 
-#### Q2: How can I enable the Virtualization in order to turn vagrant on?
+#### Q11: How can I enable the Virtualization in order to turn vagrant on?
 First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2", "Esc" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x", "Intel Virtualization Technology" or something similar. Enable this option, save and reset. Now the "vagrant up" command should be working fine.
 
-#### Q3: Why is the "Submit" button not showing up when I try to submit my survey?
+#### Q12: Why is the "Submit" button not showing up when I try to submit my survey?
 Please make sure you’re using Firefox, as our BeLL software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the BeLL and logging back in, then go back to the survey. If that doesn’t work, log out of the BeLL, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Gitter chat](http://gitter.im/open-learning-exchange/chat). 
 
-#### Q4: Why does Firefox say “Unable to connect” when I try to load my community?
+#### Q13: Why does Firefox say “Unable to connect” when I try to load my community?
 Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual BeLL user interface. 
 
-#### Q5: When I first run BeLL with the "vagrant up" command the download fails, why?
+#### Q14: When I first run BeLL with the "vagrant up" command the download fails, why?
 You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar :
 
 ![left sidebar](uploads/images/atlas_status.png)
@@ -84,10 +86,10 @@ vagrant up
 ```
 You now have a working communityBeLL on your OS. 
 
-#### Q6: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?
+#### Q15: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?
 You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm. 
 
-#### Q7: What do I do if I already have a github.io with my username? 
+#### Q16: What do I do if I already have a github.io with my username? 
 You have a couple of options.
 
 1. If you are not using the repo anymore you can delete it and then follow the [First Steps.](firststeps.md)
@@ -96,7 +98,7 @@ You have a couple of options.
 
 3. Or you can just create another github account, and use that for OLE work
 
-#### Q8: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?
+#### Q17: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?
 In ```git bash``` type: 
 ```
 cd ole--vagrant-vi
