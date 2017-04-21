@@ -45,8 +45,6 @@ Review these [Vagrant instructions](vagrantwin.md) to get familiar with Vagrant,
 #### MacOS(X) and Ubuntu
 Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step.
 
-You can find [the vagrant instructions here](vagrant.md) to get a good idea for how it works.
-
 ## Step 3 - Markdown and Fork Tutorial
 
 Follow the instructions on the [GitHub and Markdown page](githubandmarkdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/&lt;username&gt;.md).
