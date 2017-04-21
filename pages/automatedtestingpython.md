@@ -30,7 +30,7 @@ This, however, does not seem an ideal solution, since what works locally does no
 Perhaps, setting up individual accounts on Sauce Labs to perform testing on everyone’s personal repo before opening a pull request may be a better solution, in terms of development time.
 
 ## Windows - Installing Testing Development Environment
-### Installing Nation
+## Installing Nation
 
 We assume that we already have Chocolatey (not mandatory), Vagrant, Git, Firefox, and VirtualBox installed.
 
@@ -41,7 +41,7 @@ Open git bash and type,
 
 Then, check in a browser if http://localhost:8081 is resolving to http://localhost:5981/apps/_design/bell/MyApp/index.html#login.
 
-### Installing Python, Pip, Selenium, Geckodriver, and Firefox
+## Installing Python, Pip, Selenium, Geckodriver, and Firefox
 
 1. Install python 3.5 (**open a cmd as administrator** and type `choco install python`  or download from https://www.python.org/downloads/release/python-352/)
 2. Restart the cmd window
@@ -71,10 +71,10 @@ Finally:
 13. `python test_login.py`
 
 ## MacOS/Ubuntu - Installing Testing Development Environment
-### Installing Nation
+## Installing Nation
 WIP - Needs some love.
 
-### Installing Python, Pip, Selenium, Geckodriver, and Firefox
+## Installing Python, Pip, Selenium, Geckodriver, and Firefox
 WIP - Needs some love.
 
 ## Daily Workflow (waffle.io tutorial)
@@ -145,7 +145,7 @@ class ClassName(BaseCase): // don’t forget “BaseCase”
 The test functions are getting executed in alphabetical order.  
 For example, if you you have `def test_login_logout(self)` and `def test_incorrect_username(self)`, then `def test_incorrect_username(self)` will be executed first.
 
-### Test results explained
+## Test results explained
 
 After you run a test, you may get any of the following results,
 - `E` means you have an error
@@ -160,18 +160,18 @@ It turns out that expected failure can be a confusing feature, so perhaps it’s
 
 ## Python Style Guidelines
 
-### File and Class names
+## File and Class names
 The name of each file should reflect the name of the class it contains, but it must always start by `test_` (i.e. if the class is `LoginTest`, the name of the file will be `test_login.py`).  
 This is particularly important for automatic test discovery!  
 Remember to add the `BaseCase` argument to every class (e.g., `LoginTest(BaseCase)`).
 
-### Test cases
+## Test cases
 Every test case should be named `test_` + name of test (e.g., `test_login`).  
 This is particularly important, because only methods that start with `test_`
 will be run.  
 Usually, the main method of each class should reflect the class and the file name (e.g., if you have a file named `test_login.py`, the class would be `LoginTest` and the main method should preferably be `test_login`).
 
-### Random rules
+## Random rules
 Avoid redundancy! This is true not only for Python, but also in general, and it is known as the DRY (Don’t Repeat Yourself) principle.  
 If you find yourself typing the same thing over and over again, then you should use a helper function to avoid the repetitions.
 
@@ -191,7 +191,7 @@ return x == 2
 
 WIP (Needs more love!)
 
-### QuantifiedCode
+## QuantifiedCode
 QuantifiedCode has been added to the repo to check for Python style, errors, etc.  
 You can find the QuantifiedCode check right along the usual Travis CI check.  
 QuantifiedCode will warn about stylistic problems and errors, and will also indicate clearly how to fix them.  
@@ -212,4 +212,3 @@ logs the user in
 `bell.logout(driver)` - provided a driver, logs the user out
 
 WIP - needs more love (and especially more functions!!!)
-
