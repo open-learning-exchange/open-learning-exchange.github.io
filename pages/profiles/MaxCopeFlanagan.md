@@ -1,8 +1,8 @@
-#Hello!
+# Hello!
 
-##My name is Max Cope-Flanagan.
+## My name is Max Cope-Flanagan.
 
-#I am from Massachusetts!
+# I am from Massachusetts!
 My time zone is : (UTC-5:00) Eastern Time (US & Canada)
 
 *I am a Freshman at Stonehill College studying mathematics and computer science.
