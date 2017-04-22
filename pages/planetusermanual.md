@@ -237,13 +237,14 @@ Notes:
 5. **Edit Members Detail** - this is an admin only functionality for editing a members account information.
 6. **Delete a Member** - this is an admin only functionality for deleting members.
 
-# Report Overview
+# Reports Overview
 
 ### _What is a Report?_
 Reports allows distribution of Nation Reports as needed by Nation Managers. Managers can add new Reports, check the activity on each Report, and look at trends for each Report.
 
 ### _How do I create a Report?_
 Click on _“Reports”_ on the Dashboard main menu as shown below.
+
 ![](uploads/images/ReportsOverview1.PNG)
 
 PLANET has three different kinds of Reports:  
@@ -252,23 +253,33 @@ PLANET has three different kinds of Reports:
    **B.** Activity Report  
    **C.** Trend Activity Report 
 
-### **Option A:**  
-Click on *“Add a New Report”* to add a new Report. Fill in the information for the new Report and add any relevant Resources. Then click *“Save.”*  
+#### **Option A:**  
+Click on *“Add a New Report”* to add a new Report. Fill in the information for the new Report and add any relevant Resources. Then click *“Save.”*
+
 ![](uploads/images/ReportsOverview2.jpg)
 
-### **Option B:**  
-In the Reports page, the Manager can also select *“Activity Report.”*    
+#### **Option B:**  
+In the Reports page, the Manager can also select *“Activity Report.”*
+
 ![](uploads/images/ReportsOverview3.JPG)
 
-*“Activity Report”* allows the Manager to check any changes that happen between two specific dates. First, select the start and end dates. Then click *“Generate Report.”*  
+*“Activity Report”* allows the Manager to check any changes that happen between two specific dates. First, select the start and end dates. Then click *“Generate Report.”*
+
 ![](uploads/images/ReportsOveriew4.JPG)
 
-After Clicking on *“Generate Report”* the Manager will be able to view Registered Members, the Activity Report, visits by gender, most frequently opened Resources, highest rated Resource, and lowest rated Resource.   
+After Clicking on *“Generate Report”* the Manager will be able to view Registered Members, the Activity Report, visits by gender, most frequently opened Resources, highest rated Resource, and lowest rated Resource.
+
 ![](uploads/images/ReportsOverview5.JPG)
 
-### **Option C:**
-In the Reports page, click *“Trend Activity Report.”*  
-![](uploads/images/ReportsOverview6.JPG)
+#### **Option C:**
+In the Reports page, click *“Trend Activity Report.”*
 
-In resulting Report the Manager will be able to see a visual graphic representing activity over the past 12 months as shown below.  
+![](uploads/images/ReportsOverviewImage.JPG)
+
+Then click *“Generate Report.”*
+
+![](uploads/images/ReportsOverview8.JPG)
+
+In resulting Report the Manager will be able to see a visual graphic representing activity over the past 12 months as shown below.
+
 ![](uploads/images/ReportsOverview7.JPG)
