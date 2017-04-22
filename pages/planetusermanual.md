@@ -244,7 +244,6 @@ Reports allows distribution of Nation Reports as needed by Nation Managers. Mana
 
 ### _How do I create a Report?_
 Click on _“Reports”_ on the Dashboard main menu as shown below.
-
 ![](uploads/images/ReportsOverview1.PNG)
 
 PLANET has three different kinds of Reports:  
