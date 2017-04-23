@@ -102,6 +102,122 @@ An example of the Manager Dashboard is shown below. The functionalities are defi
 
 20.**Update Welcome Video** allows Managers to change the welcome video for their Nation.
 
+# Library and Resources Overview
+
+## _What is the Library?_
+
+The library where learning Resources are stored and categorized within the PLANET system.  Resources are listed alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
+
+## _What is a Resource?_
+
+A PLANET Resource is material that has been uploaded into the digital library.  There are many types of Resources, not just books.  PLANET can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications  (interactive content), and just about any other format.  Resources can be viewed in the library and may vary from Nations to Communities.  Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
+
+## _What is a Collection?_
+
+A collection is a group of Resources based on topic/subject and intended use.  PLANET currently follows a the Library of Congress categorization system.  Collections exist as the main category.  Sub-collections allow Nation Managers to group Resources more specifically within a collection.  Collections are alphabetized by topic.
+
+# How do I navigate and use the Library?
+
+## _How do I upload a Resource?_
+
+1.  Log in as a **_Learner_**, **_Leader_**, or **_Manager_**.
+
+2.  Start on the main **_Dashboard_** and click on the **_Library_** heading.
+
+3.  After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
+
+![](uploads/images/NewResource.png)
+
+1.  The **Title** of the Resource goes here. Capitalize all principal words and make sure everything is spelled correctly.  If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”).  Do not start the title with numbers or special characters (!@#$%^&*).  If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new Resource in parentheses. Examples are shown below.
+
+          a. A Tale of Two Cities
+          b. A Tale of Two Cities (Spanish)
+          
+2. Type the name of Author(s)/Editor. Authors should be listed as follows:  “FIRST NAME, LAST NAME.” Illustrators, editors, translators, etc., should be identified in this section with their title in parentheses.
+
+          a. John Doe
+          b. Jane Doe (Translator)
+          
+3. **_Publisher/Attribution_** is mandatory for copyright purposes.  Please do not leave this field blank.  Type the name of the organization or publisher (and any websites associated with the Resource, if applicable).  Attribution allows OLE to use the source under Creative Commons or copyright and protects us violating copyright laws. 
+
+4. If available, type the **_Year_** in which the Resource was published. 
+
+5. **_Link to License_** is also mandatory for copyright purposes.  Locate the copyright information for the Resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the Link to License field.  Type “Public Domain” if the Resource is in the public domain.
+
+6. In the **_Language field_**, choose the language of the Resource. If the Resource is a multilingual document, choose the language that you think is the primary or most applicable language.
+
+7. Choose one **_Subject_** from the drop down list that your Resource fits into. Subjects are broad and general so you may not find an exact match. 
+
+8. Select at least one **_Level_** from the drop down list to assign to your Resource. Levels refer to the reading level required to be able to understand this Resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the Resource. 
+
+9. You may choose a **_Collection_** in which to place your Resource. Collections are more narrow than subjects in their scope.  In many cases, you may find a Collection name that already exists and best fits your Resource. Use the search bar at the top of the drop down list to search for relevant Collections. If the Resource fits into more than one Collection, choose more than one. The “Add New” button next to Collection should be used only if a relevant existing Collection cannot be found. In most cases, Learners will not need to add new Collections. 
+
+10. Choose the **_Media_** for your Resource: Text, Graphic/Pictures, Audio/Music/Book, or Video. If you are unsure, leave this tab on the default Text.
+
+11. The **_Open_** field relates to the medium of the Resource. Select the corresponding medium in this field. 
+          
+          a. A Resource with a .PDF extension has PDF format.
+          b. A .mp3 is Audio (MP3) format.
+          c. A .mp4 or .flv is Video (MP4, FLV) format. NOTE: If the video does not play when MP4 is selected then try changing this field to FLV and playing the video.
+          
+12. In the **_Resource For_** field choose Learner or Leader. If appropriate for both, choose Learner.
+
+13. Choose **_Resource Type_** to select which kind of Resource you are uploading: Textbook, Lesson Plan, Activities, Exercises, or Discussion Questions. If your Resource does not seem to fit any of these categories, leave this tab on the default Textbook setting. 
+
+14. With **_Open URL_**, you have the option of using a URL to open the Resource if applicable. For most Resources, this can be left blank. 
+
+15. Use **_Upload Resources_** and the **_Browse_** button to locate your Resource and upload it. Select the **_Browse_** button and locate your file. When you have found it, select Open. Double check all the fields to ensure they are correct and then select Save. 
+
+You will be taken to a loading screen while your Resource is uploaded into the Library. When the upload is complete, you will receive a confirmation for a successful upload.
+
+**IMPORTANT:** Once you have finished uploading your Resource, **locate the Resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
+
+We have various types of Resources that either form a Collection or belong to common groups of Resources. These include the African Storybooks, Comic Books, CK-12 Textbooks, TED-Ed videos, Khan Academy Videos, etc.  If you are uploading one of these Resources, please read the specific guides we have created and follow the instructions. This maintains uniformity in Resource details and makes searches easier for Learners.
+
+You may need to use a format converter to put your Resource in the correct format before uploading. There are numerous free online converters which you may use. 
+
+**IMPORTANT:** Until all Nations can communicate with each other and Resources can easily be shared between Nations, Resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that Resources are available in each Nation.
+
+## _How do I name a file so that it can be upoaded?_
+
+The following file naming conventions should be used for any new file to upload to PLANET:
+
+* Rename the file with a meaningful and unique file name that can be easily associated with the title/content of the Resource. For example: Alcott_LittleWomen.pdf
+* Use alpha-numeric characters only. Do not use special characters (except for "-" and "_").
+* Do not include spaces in the file name. Instead of a space, use an underscore.
+* Do not use characters or letters that do not exist in the English language. For example, avoid naming your files in Arabic without transliteration.
+* If there is a series of Resources, the first part of the file name should be consistent (e.g., module title), followed by the number in the series, followed by the title of the specific file (e.g., ComputerBasics01_GettingToKnowComputers.pdf, ComputerBasics02_UnderstandingOperationSystems.pdf, etc.).
+* Use leading zeros (i.e., 01, 02, etc. or 001, 002, etc.) for documents that are part of a series so that they are sorted numerically.
+
+## _Are there Resources that have specific rules for uploading?_
+
+Yes. These Resources are covered in an additional manual titled, XXXXX. Please read that manual to address specific questions on uploading in other languages, in additional formats, or in existing Collections with special permission. 
+
+## _How do I create and use Collections?_
+
+Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library.  **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of PLANET.  Collections can only be created or changed by Managers. 
+
+1. Log in to the Manager account. 
+2. Click “Library” on the top navigation bar and then “Collections”. 
+
+![](uploads/images/Collection.png)
+
+3. You can either manage existing Collections or create a new Collection. We will first create a new Collection. Click on “Add Collection.”
+
+![](uploads/images/AddCollection.png)
+
+4. You will then be prompted to fill in the form shown below. Type the Collection name and description. “Nested Under” refers to whether this will be a top level Collection or a sub-Collection.  Sub-Collections are nested under other Collections. If you wish to create a Collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
+
+![](uploads/images/Save.png)
+
+5. When the form is complete, click “Save” to create the new Collection.
+
+6. To edit a Collection, go back to the main Collection page and click on the button next to the Collection you want to edit. 
+
+![](uploads/images/MainCollection.png)
+
+7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the Collection.
+
 
 ## Courses Overview
 ### What is a Course?
@@ -219,122 +335,6 @@ Below are tips for managing a Course.
 
 * To track your Learners’ completion and score on Quizzes, go to *“Progress.”*
 =======
-# Library and Resources Overview
-
-## _What is the Library?_
-
-The library where learning Resources are stored and categorized within the PLANET system.  Resources are listed alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
-
-## _What is a Resource?_
-
-A PLANET Resource is material that has been uploaded into the digital library.  There are many types of Resources, not just books.  PLANET can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications  (interactive content), and just about any other format.  Resources can be viewed in the library and may vary from Nations to Communities.  Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
-
-## _What is a Collection?_
-
-A collection is a group of Resources based on topic/subject and intended use.  PLANET currently follows a the Library of Congress categorization system.  Collections exist as the main category.  Sub-collections allow Nation Managers to group Resources more specifically within a collection.  Collections are alphabetized by topic.
-
-# How do I navigate and use the Library?
-
-## _How do I upload a Resource?_
-
-1.  Log in as a **_Learner_**, **_Leader_**, or **_Manager_**.
-
-2.  Start on the main **_Dashboard_** and click on the **_Library_** heading.
-
-3.  After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
-
-![](uploads/images/NewResource.png)
-
-1.  The **Title** of the Resource goes here. Capitalize all principal words and make sure everything is spelled correctly.  If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”).  Do not start the title with numbers or special characters (!@#$%^&*).  If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new Resource in parentheses. Examples are shown below.
-
-          a. A Tale of Two Cities
-          b. A Tale of Two Cities (Spanish)
-          
-2. Type the name of Author(s)/Editor. Authors should be listed as follows:  “FIRST NAME, LAST NAME.” Illustrators, editors, translators, etc., should be identified in this section with their title in parentheses.
-
-          a. John Doe
-          b. Jane Doe (Translator)
-          
-3. **_Publisher/Attribution_** is mandatory for copyright purposes.  Please do not leave this field blank.  Type the name of the organization or publisher (and any websites associated with the Resource, if applicable).  Attribution allows OLE to use the source under Creative Commons or copyright and protects us violating copyright laws. 
-
-4. If available, type the **_Year_** in which the Resource was published. 
-
-5. **_Link to License_** is also mandatory for copyright purposes.  Locate the copyright information for the Resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the Link to License field.  Type “Public Domain” if the Resource is in the public domain.
-
-6. In the **_Language field_**, choose the language of the Resource. If the Resource is a multilingual document, choose the language that you think is the primary or most applicable language.
-
-7. Choose one **_Subject_** from the drop down list that your Resource fits into. Subjects are broad and general so you may not find an exact match. 
-
-8. Select at least one **_Level_** from the drop down list to assign to your Resource. Levels refer to the reading level required to be able to understand this Resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the Resource. 
-
-9. You may choose a **_Collection_** in which to place your Resource. Collections are more narrow than subjects in their scope.  In many cases, you may find a Collection name that already exists and best fits your Resource. Use the search bar at the top of the drop down list to search for relevant Collections. If the Resource fits into more than one Collection, choose more than one. The “Add New” button next to Collection should be used only if a relevant existing Collection cannot be found. In most cases, Learners will not need to add new Collections. 
-
-10. Choose the **_Media_** for your Resource: Text, Graphic/Pictures, Audio/Music/Book, or Video. If you are unsure, leave this tab on the default Text.
-
-11. The **_Open_** field relates to the medium of the Resource. Select the corresponding medium in this field. 
-          
-          a. A Resource with a .PDF extension has PDF format.
-          b. A .mp3 is Audio (MP3) format.
-          c. A .mp4 or .flv is Video (MP4, FLV) format. NOTE: If the video does not play when MP4 is selected then try changing this field to FLV and playing the video.
-          
-12. In the **_Resource For_** field choose Learner or Leader. If appropriate for both, choose Learner.
-
-13. Choose **_Resource Type_** to select which kind of Resource you are uploading: Textbook, Lesson Plan, Activities, Exercises, or Discussion Questions. If your Resource does not seem to fit any of these categories, leave this tab on the default Textbook setting. 
-
-14. With **_Open URL_**, you have the option of using a URL to open the Resource if applicable. For most Resources, this can be left blank. 
-
-15. Use **_Upload Resources_** and the **_Browse_** button to locate your Resource and upload it. Select the **_Browse_** button and locate your file. When you have found it, select Open. Double check all the fields to ensure they are correct and then select Save. 
-
-You will be taken to a loading screen while your Resource is uploaded into the Library. When the upload is complete, you will receive a confirmation for a successful upload.
-
-**IMPORTANT:** Once you have finished uploading your Resource, **locate the Resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
-
-We have various types of Resources that either form a Collection or belong to common groups of Resources. These include the African Storybooks, Comic Books, CK-12 Textbooks, TED-Ed videos, Khan Academy Videos, etc.  If you are uploading one of these Resources, please read the specific guides we have created and follow the instructions. This maintains uniformity in Resource details and makes searches easier for Learners.
-
-You may need to use a format converter to put your Resource in the correct format before uploading. There are numerous free online converters which you may use. 
-
-**IMPORTANT:** Until all Nations can communicate with each other and Resources can easily be shared between Nations, Resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that Resources are available in each Nation.
-
-## _How do I name a file so that it can be upoaded?_
-
-The following file naming conventions should be used for any new file to upload to PLANET:
-
-* Rename the file with a meaningful and unique file name that can be easily associated with the title/content of the Resource. For example: Alcott_LittleWomen.pdf
-* Use alpha-numeric characters only. Do not use special characters (except for "-" and "_").
-* Do not include spaces in the file name. Instead of a space, use an underscore.
-* Do not use characters or letters that do not exist in the English language. For example, avoid naming your files in Arabic without transliteration.
-* If there is a series of Resources, the first part of the file name should be consistent (e.g., module title), followed by the number in the series, followed by the title of the specific file (e.g., ComputerBasics01_GettingToKnowComputers.pdf, ComputerBasics02_UnderstandingOperationSystems.pdf, etc.).
-* Use leading zeros (i.e., 01, 02, etc. or 001, 002, etc.) for documents that are part of a series so that they are sorted numerically.
-
-## _Are there Resources that have specific rules for uploading?_
-
-Yes. These Resources are covered in an additional manual titled, XXXXX. Please read that manual to address specific questions on uploading in other languages, in additional formats, or in existing Collections with special permission. 
-
-## _How do I create and use Collections?_
-
-Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library.  **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of PLANET.  Collections can only be created or changed by Managers. 
-
-1. Log in to the Manager account. 
-2. Click “Library” on the top navigation bar and then “Collections”. 
-
-![](uploads/images/Collection.png)
-
-3. You can either manage existing Collections or create a new Collection. We will first create a new Collection. Click on “Add Collection.”
-
-![](uploads/images/AddCollection.png)
-
-4. You will then be prompted to fill in the form shown below. Type the Collection name and description. “Nested Under” refers to whether this will be a top level Collection or a sub-Collection.  Sub-Collections are nested under other Collections. If you wish to create a Collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
-
-![](uploads/images/Save.png)
-
-5. When the form is complete, click “Save” to create the new Collection.
-
-6. To edit a Collection, go back to the main Collection page and click on the button next to the Collection you want to edit. 
-
-![](uploads/images/MainCollection.png)
-
-7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the Collection.
-
 
 ## Members Menu
 ### _What is Members Menu_
