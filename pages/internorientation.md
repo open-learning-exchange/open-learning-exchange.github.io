@@ -24,6 +24,7 @@ Now that you have been added to the intern team, you will receive invites to bec
 Make sure you accept these invites.
 Note that this will give you the ability to make bigger mistakes - so make sure you always double check what repository you are pushing to, or are working on.
 You will now have the ability to review, close, and merge pull requests and issues.
+Once you have accepted your invatation, mark yourself as public at the [list of OLE contributors.](https://github.com/orgs/open-learning-exchange/people)
 ### Reviewing pull requests and issues
 One of your responsibilities as an intern is to review and help prospective interns with their issues / pull request on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [reviewing on Github here](https://help.github.com/articles/about-pull-request-reviews/). You should check for things such as:
 
