@@ -1,4 +1,3 @@
-In addition, make sure to add a short description of yourself
 ## Name: Jeremy Green
 #### Location: Peoria, IL (Central Standard Time)
 #### OS: Windows 10
