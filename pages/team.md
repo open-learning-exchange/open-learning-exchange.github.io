@@ -6,7 +6,6 @@
 |[hikaruit15](profiles/hikaruit15.md)| 20161117 |
 |[hannahgdubin](profiles/hannahgdubin.md)| 20170101 |
 |[mappuji](profiles/mappuji.md)| 20170122 |
-|[fangninghe](profiles/fangninghe.md)| 20170123 |
 |[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 20170219 |
 |[sarvanivadali](profiles/sarvanivadali.md)| 20170223 |
 |[Chris-Boe](profiles/Chris-Boe.md)| 20170226 |
