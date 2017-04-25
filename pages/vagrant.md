@@ -10,6 +10,7 @@
 ## MacOS(X)
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```
+    brew tap caskroom/cask
     brew cask install vagrant
     brew cask install virtualbox
 ```
