@@ -6,7 +6,6 @@
 |[hikaruit15](profiles/hikaruit15.md)| 20161117 |
 |[hannahgdubin](profiles/hannahgdubin.md)| 20170101 |
 |[mappuji](profiles/mappuji.md)| 20170122 |
-|[fangninghe](profiles/fangninghe.md)| 20170123 |
 |[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 20170219 |
 |[sarvanivadali](profiles/sarvanivadali.md)| 20170223 |
 |[Chris-Boe](profiles/Chris-Boe.md)| 20170226 |
@@ -40,3 +39,4 @@
 |[epistulae](profiles/epistulae.md)|   |   |
 |[pranesh-s](profiles/pranesh-s.md)| 20160525 | 20160603 |
 |[314159265359](profiles/314159265359.md)| 20160523 | 20160603 |
+|[fangninghe](profiles/fangninghe.md)| 20170123 | 20170123 |
