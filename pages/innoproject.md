@@ -23,7 +23,7 @@ At the start of the document, you can see some comments, which start with `;` as
 ; NOTE: The value of AppId uniquely identifies this application.
 ; Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
-AppId={{F712730B-0D52-4BBA-9521-5A105731005D}
+AppId={{F712730B-0D52-4BBA-9521-5A105731005D}}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
