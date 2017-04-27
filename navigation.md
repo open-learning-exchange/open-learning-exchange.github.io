@@ -53,13 +53,14 @@
   - - - -
   * [Community Login](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html)
 
-[Teams]()
+[Projects]()
   
   * [Intern Orientation](pages/internorientation.md)
   - - - -
   * [Automated Testing](pages/automatedtesting.md)
   * [Crowdin Integration](pages/crowdinintegration.md)
-  * [Simple Install](pages/simpleinstall.md)
+  * [Windows Installer](pages/innoproject.md)
+  * [Simple Dev Install](pages/simpleinstall.md)
   * [HTML Resources](pages/htmlresources.md)
   * [Take Home](pages/takehome.md)
 
