@@ -2,14 +2,13 @@
 ## Active Interns
 |**Username**|**Join Date**|
 |------------|-------------|
-|[waryhermit](profiles/waryhermit.md) (**Intern Lead**)| 20161213 |
 |[hikaruit15](profiles/hikaruit15.md)| 20161117 |
 |[hannahgdubin](profiles/hannahgdubin.md)| 20170101 |
-|[mappuji](profiles/mappuji.md)| 20170122 |
+|[mappuji](profiles/mappuji.md) (**Intern Lead**)| 20170122 |
 |[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 20170219 |
 |[sarvanivadali](profiles/sarvanivadali.md)| 20170223 |
 |[Chris-Boe](profiles/Chris-Boe.md)| 20170226 |
-|[paulbert](profiles/paulbert.md)| 20170308 |
+|[paulbert](profiles/paulbert.md) (**Intern Lead**)| 20170308 |
 |[i5o](profiles/i5o.md) (**Intern Lead**)| 20170308 |
 |[blakedelee](profiles/BlakeDeLee.md)| 20170322 |
 |[Loshma93](profiles/Loshma93.md)| 20170331 |
@@ -21,6 +20,7 @@
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
+|[𝖂𝖆𝖗𝖞𝖍𝖊𝖗𝖒𝖎𝖙](profiles/waryhermit.md) (**Intern Lead**)| 20161213 | 20170428 |
 |[FanisGk](profiles/FanisGk.md)| 20160801 | 20170131 |
 |[prmurphy](profiles/prmurphy.md)| 20161023 | 20170131 |
 |[aberdean](profiles/aberdean.md) (**Intern Lead**)| 20160904 | 20161223 |
