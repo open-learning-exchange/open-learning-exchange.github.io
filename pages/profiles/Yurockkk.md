@@ -4,12 +4,12 @@
 
 ## MacOS Version: _10.12.3_
 
-Hey guys, I'm Yubo. I'm interested in **learning new things!** When I'm free, I enjoys
+Hey guys, I'm Yubo. I'm interested in **learning new things!** When I'm free, I enjoy
 
 * Listen to Music
   * The XX
   * Korn
   * Two door cinema club
 * Play Music (I'm a **DRUMMER!**)
-* Excercise
+* Exercise
 * Reading
