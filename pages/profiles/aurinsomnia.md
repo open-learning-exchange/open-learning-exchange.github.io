@@ -24,6 +24,7 @@ so I'm really looking forward to the opportunity of learning and working on a pr
 
 #### Outside of Coding, some of my other Hobbies include: ####
 ![Isaiah Thomas <3](http://i.cdn.turner.com/drp/nba/celtics/sites/default/files/styles/story_main_photo/public/170429thomas2.jpg?itok=3UQ3hgEP)
+
 * Basketball (_Huge Celtics fan, and love playing as well_)
 * Soccer
 * I used to play a ton of Video Games, but quit them in the name of productivity. Instead I discovered internet Chess and fell in love with that :/
