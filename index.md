@@ -1,4 +1,4 @@
-##Welcome! 
+###Welcome! 
 
 This is a MDwiki for our Virtual Interns program, Volunteers program and Tech geniuses. Please feel free to explore and offer suggestions on our [gitter.im chat](https://gitter.im/open-learning-exchange/chat). If you are new, please go to the "First Steps" tab and select ["Start Here"](pages/firststeps.md) to get going! We are available to help you via chat. 
 
