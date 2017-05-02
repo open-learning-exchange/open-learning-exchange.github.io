@@ -1,0 +1,6 @@
+###The Issue of Vagrant Command Prompt Opening as Soon as Windows Screen Is On!
+This is very important and can occur because of various reasons.
+*The computer software for vagrant is not installed properly.
+*The computer has not accepted or gave permission to your software download
+* The computer needs to download software required to install vagrant.
+_A Step By Step Process Explains the Confusion with unexplained Opening of Command Prompt when the Windows screen is up!_
