@@ -76,7 +76,7 @@ pip install http-parser
 ```
 
 ### Generating the couchapp
-Using `couchapp generate` command you will be able to generate the structure of a couchapp, but first, you need to create a folder with the app name and then, access to it.
+Now you should be in the _couchapp_ folder. Using `couchapp generate` command you will be able to generate the structure of a couchapp, but first, you need to create a folder with the app name and then, access to it.
 
 ```
 $ mkdir test
@@ -84,7 +84,16 @@ $ cd test
 $ couchapp generate test
 ```
 
-In this case I will generate the app called *"test"*
+If you see an error like the following
+
+```
+'couchapp' is not recognized as an internal or external command,
+operable program or batch file.
+```
+
+Make sure to add **Scripts** folder in the Python installation to PATH, like you added Python to the PATH in the earlier steps. After adding this to the PATH restart your *cmd* and navigate to the **test** folder and run `couchapp generate test`.
+
+In this case I will generate the app called *"test"* 
 
 ```
 $ couchapp generate test
@@ -133,7 +142,7 @@ md c:\Users\%username%\couchapp\test\_attachments
 xcopy c:\Users\%username%\appIwantToTransfer c:\Users\%username%\couchapp\test\_attachments
 ```
 
-Now that you have done all those steps, you will need to upload the app to the server: `couchapp push myserver` where `myserver` is the one you specified in the `.couchapprc` file.
+Now that you have done all those steps, you will need to name the app as index.html and upload the app to the server: `couchapp push myserver` where `myserver` is the one you specified in the `.couchapprc` file.
 
 ```
 $ couchapp push myserver
