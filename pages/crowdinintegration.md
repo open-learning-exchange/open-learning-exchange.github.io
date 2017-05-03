@@ -5,8 +5,8 @@
 
 There are two objectives for this assignment:
 
-* 1- Provide exactly one screenshot for the strings in BeLL app, and tag it.
-* 2- Write good description of the strings in Context.
+* 1 - Provide exactly one screenshot for the strings in BeLL app, and tag it.
+* 2 - Write good description of the strings in Context.
 
 These objectives are going to make sense as you go through the steps. Before we get to the steps, you should know what strings are, and what tagging is. 
 
@@ -60,7 +60,7 @@ To see examples of screenshots, click on a tagged string, and take a look at the
 >When you see an untagged string, it might be helpful to ask yourself where can you find the string in the app? For example, where do think the string “compose” can be found? The most likely place is in the email page. Go there and take a screenshot if it is not already tagged. 
 
 ###Step 2: Upload and Tag Screenshots:
-####2.1- Uploading Screenshots:
+####2.1 - Uploading Screenshots:
 
 2.1.1- If you are in OLE OpenBell Interface file, go to the main page by clicking [here](https://crowdin.com/project/open-learning-exchange?auto_accepted=13039143), or click Project > Open Learning Exchange Page. See the figure below. If you are in the main page, Click the Settings button.
 
@@ -82,7 +82,7 @@ To see examples of screenshots, click on a tagged string, and take a look at the
 
 ![New Screenshots](uploads/images/new_screenshot.png)
 
-####2.2- Tagging Screenshots:
+####2.2 - Tagging Screenshots:
 Now that you uploaded the screenshot, let’s tag it.
 
 2.2.1- Click on the screenshot you uploaded.
