@@ -87,7 +87,7 @@ Then, you can create a pull request by clicking the `Pull requests` button and t
 
 After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-##Useful links
+##Useful Links
 [GitHub: Writing and Formatting](https://help.github.com/categories/writing-on-github/)  
 [Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md)  
 [Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/)  
