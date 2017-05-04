@@ -121,10 +121,10 @@ You don't need to read below here or do anything at all if you're only intereste
 Make changes to MDwiki
 -------------
 
-1. If you haven't already, [install Node](https://docs.npmjs.com/getting-started/installing-node)
-2. Open a command prompt/shell/git bash and navigate to your repo's directory
-3. Run `npm install` to install mdwiki dependencies
-4. For development, you can run `./node_modules/.bin/grunt devel` or `grunt devel` if you have grunt installed globally.  This will start grunt watching the index.tmpl and *.js files for changes, which you can view at `localhost:35729` and build the debug version of the html with the full js files
+1. If you haven't already, [install Node](https://docs.npmjs.com/getting-started/installing-node).
+2. Open a command prompt/shell/git bash and navigate to your repo's directory.
+3. Run `npm install` to install mdwiki dependencies.
+4. For development, you can run `./node_modules/.bin/grunt devel` or `grunt devel` if you have grunt installed globally.  This will start grunt watching the index.tmpl and *.js files for changes, which you can view at `localhost:35729`. The index.html file that it builds is the debug version of the html with the full js files.
 5. As a note, the index.tmpl is where our custom CSS can be found.  Please only add CSS within the comment denoted section.
 6. Once you have completed your changes, run `./node_modules/.bin/grunt release` to build an index.html with minified js.
 
