@@ -16,6 +16,7 @@
 |[zeivhann](profiles/zeivhann.md)| 20170401 |
 |[Supriyaranjan](profiles/Supriyaranjan.md)| 20170404 |
 |[praneetharra](profiles/praneetharra.md)| 20170421 |
+|[shahswet](profiles/shahswet.md)| 20170501 |
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
