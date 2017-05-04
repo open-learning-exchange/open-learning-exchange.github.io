@@ -1,8 +1,9 @@
 ### Command prompt opens and starts vagrant every time I turn on my computer. Interns need to avoid this. I reads 
-### "Starting vagrant in power down state. But later says failure to start vagrant!
+### "Starting vagrant in power down state. But later says failure to start vagrant! Look at this.
+![image](https://cloud.githubusercontent.com/assets/26748347/25209319/54d8ff36-2548-11e7-8dc2-7a856d676c7e.png)
 This is very important and can occur because of various reasons.
-*The computer software for vagrant is not installed properly.
-*The computer has not accepted or gave permission to your software download
+* The computer software for vagrant is not installed properly.
+* The computer has not accepted or gave permission to your software download
 * The computer needs to download software required to install vagrant.
 _A Step By Step Process Explains the Confusion with unexplained Opening of Command Prompt when the Windows screen is up!_
  ### The Issue of Vagrant Command Prompt Opening as Soon as Windows Screen Is On!
