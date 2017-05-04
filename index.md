@@ -1,7 +1,7 @@
 #Welcome!
 
-This is a MDwiki for our Virtual Interns program, Volunteers program ,Tech geniuses and Users.![](pages/uploads/images/OLEInternational.png){: .callout} Please feel free to explore and offer suggestions on our [gitter.im chat](https://gitter.im/open-learning-exchange/chat).We are available to help you via chat. 
-If you are new, please follow the links to start.
+This is a MDwiki for our Virtual Interns program, Volunteers program ,Tech geniuses and Users.Please feel free to explore and offer suggestions on our [gitter.im chat](https://gitter.im/open-learning-exchange/chat).We are available to help you via chat. 
+If you are new, please follow the links to start.![](pages/uploads/images/OLEInternational.png)
 
 * [Virtual Interns](pages/firststeps.md )
 * [Volunteers](pages/firststeps.md )
