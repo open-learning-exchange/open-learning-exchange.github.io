@@ -13,6 +13,7 @@
 |[paulbert](paulbert.md)| 20170308 |
 |[i5o](i5o.md) (**Intern Lead**)| 20170308 |
 |[blakedelee](BlakeDeLee.md)| 20170322 |
+|[shahswet](shahswet.md)| 20170501|
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
