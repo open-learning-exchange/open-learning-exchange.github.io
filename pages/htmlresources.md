@@ -76,7 +76,7 @@ pip install http-parser
 ```
 
 ### Generating the couchapp
-Now you should be in the _couchapp_ folder. Using `couchapp generate` command you will be able to generate the structure of a couchapp, but first, you need to create a folder with the app name and then, access to it.
+When using `couchapp generate` command you will be able to generate the structure of a basic couchapp. First, make sure you are in _couchapp_ folder. Then create a folder with the same app name you are making. Finally, change to that folder you just created. In this case I will guide you to create an app called *"test"* using the following commands.
 
 ```
 $ mkdir test
@@ -91,9 +91,9 @@ If you see an error like the following
 operable program or batch file.
 ```
 
-Make sure to add **Scripts** folder in the Python installation to PATH, like you added Python to the PATH in the earlier steps. After adding this to the PATH restart your *cmd* and navigate to the **test** folder and run `couchapp generate test`.
+It simply means that the _cmd_ couldn't locate the couchapp executable file. You can find the _couchapp_ executable in the **Scripts** folder of Python installation. When you add the **Scripts** folder's location to the Environment variables' PATH, _cmd_ will be able to find the _couchapp_ when you reference it. Now add **Scripts** folder in the Python installation to PATH, like you added Python to the PATH in the earlier steps. After adding this to the PATH restart your *cmd* and navigate to the **test** folder and run `couchapp generate test`.
 
-In this case I will generate the app called *"test"* 
+After successfully executing the `couchapp generate test` command, the app called *"test"* is generated in your _couchapp_ directory.
 
 ```
 $ couchapp generate test
