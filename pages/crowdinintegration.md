@@ -10,20 +10,20 @@ There are two objectives for this assignment:
 
 These objectives are going to make sense as you go through the steps. Before we get to the steps, you should know what strings are, and what tagging is. 
 
-###Strings:
+### Strings:
 >A string is a word or a sentence that describes the functionality of a button, or the title of a page on BeLL app. See the figure below. It shows the different strings on the main page of Bell App. Strings are highlighted with red squares.
 
 ![Strings](uploads/images/strings.png)
 
-###Tagging:
+### Tagging:
 >Tagging in Crowdin is similar to tagging your friends on Facebook except here we tag strings on a screenshot.
 
 Now that you know what strings are and what tagging is, let’s show you how to accomplish the objectives above.
 
-##Objective 1: Providing and Tagging Screenshots:
+## Objective 1: Providing and Tagging Screenshots:
 There are two major steps to accomplishing this objective which encompasses smaller steps.
 
-###Step 1: Find the string in BeLL app:
+### Step 1: Find the string in BeLL app:
 >The goal in this step is to go through a list of strings, and for each string in the list, try to find where it might appear in BeLL app. Then, take a screenshot of the page where you found the string. Here are the steps to do that.
 
 1.1- Go to Crowdin either by clicking [here](https://crowdin.com/project/open-learning-exchange/invite), or by clicking the Translation tab on the MDwiki for Virtual Interns. See the figure below.
@@ -56,16 +56,18 @@ Now that you found the list of strings, go through each string and do the follow
 
 To see examples of screenshots, click on a tagged string, and take a look at the screenshot of that string. 
 
-#####Tip
+##### Tip
 >When you see an untagged string, it might be helpful to ask yourself where can you find the string in the app? For example, where do think the string “compose” can be found? The most likely place is in the email page. Go there and take a screenshot if it is not already tagged. 
 
-###Step 2: Upload and Tag Screenshots:
-####2.1 - Uploading Screenshots:
+### Step 2: Upload and Tag Screenshots:
+
+#### 2.1 - Uploading Screenshots:
 
 2.1.1- If you are in OLE OpenBell Interface file, go to the main page by clicking [here](https://crowdin.com/project/open-learning-exchange?auto_accepted=13039143), or click Project > Open Learning Exchange Page. See the figure below. If you are in the main page, Click the Settings button.
 
 ![To Get to Main Page in Crowdin](uploads/images/to_go_to_main_page.png)
-####Note
+
+#### Note
 >In Open Learning Exchange Crowdin Project, Emily has made you a manager. As a manager, you should be able to see the Settings button on the main page of Crowdin. See the figure below. If you do not see the Settings button, please let Emily or Dogi know in the chat.
 
 ![Settings Button](uploads/images/settings_button.png)
@@ -82,7 +84,7 @@ To see examples of screenshots, click on a tagged string, and take a look at the
 
 ![New Screenshots](uploads/images/new_screenshot.png)
 
-####2.2 - Tagging Screenshots:
+#### 2.2 - Tagging Screenshots:
 Now that you uploaded the screenshot, let’s tag it.
 
 2.2.1- Click on the screenshot you uploaded.
@@ -99,7 +101,7 @@ Now that you uploaded the screenshot, let’s tag it.
 
 2.2.5-Save your tags by clicking the Save button on the upper-right corner of the page.
 
-#####Text Recognition Cannot Recognize a String:
+##### Text Recognition Cannot Recognize a String:
 If Text Recognition cannot recognize the string on the screenshot. Follow the steps below:
 
 1- Activate Drag and Drop either by pressing “H” on your keyboard, or click the hand on the top-left corner of the page. See the figure below.
@@ -114,7 +116,7 @@ If Text Recognition cannot recognize the string on the screenshot. Follow the st
 
 You are now done with the first two objectives! Repeat these steps for half of the strings on the list. 
 
-##Objective 2: Writing Context:
+## Objective 2: Writing Context:
 >Provide a good, strong, and thorough description of the strings.
 
 1- Follow steps 1.1-1.4 to get to OLE OpenBeLL Interface file.
