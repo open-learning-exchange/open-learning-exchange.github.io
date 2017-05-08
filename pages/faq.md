@@ -113,7 +113,7 @@ git clone https://github.com/dogi/ole--vagrant-vi.git
 cd ole--vagrant-vi
 vagrant up
 ```
-# 'First Steps' Software Summary
+## 'First Steps' Software Summary
 
 ###### _The aim of the ‘First Steps’ is to introduce prospective interns to the software that they will be using, and make sure they are familiar with each. While each step goes into detail on the specific program(s) at hand, it can be easy at times to lose sight of the bigger picture. To that end, below is a brief synopsis of the primary tools you will be using/learning about in the first steps, and how they work together to empower our collaborative development environment._
 
