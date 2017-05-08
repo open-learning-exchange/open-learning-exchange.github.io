@@ -6,6 +6,7 @@
 * Update your Community and its publications
 
 ##Introduction
+
 In step 4, you registered your community BeLL with the nation. Now, you will learn how to keep your community BeLL in sync with the nation.
 
 There should be constant communication between the nation and the communities. While is not necessary for remote communities in the field, it is ideal for our goals of improving the software and testing the increasing forms of communication and feedback between the nation and the communities. This communication takes the form of a syncing process from the community side, where you select material to send to the nation.
