@@ -1,4 +1,9 @@
 #BeLL-Apps: Communities and Nations
+##Objective
+* Learn more about the BeLL and its interface
+* Configure the BeLL Community you initialized in Step 1
+* Explore the BeLL software, upload resources, and submit your configuration to an Admin
+
 ##Introduction
 
 The BeLL (Basic e-Learning Library) is not only a library, but also an individualized learning system, where students can select their own books and courses to target their individual goals. The two kinds of BeLL apps are described below.
