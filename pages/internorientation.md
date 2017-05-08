@@ -34,6 +34,7 @@ One of your responsibilities as an intern is to review and help prospective inte
 * [x] Does the pull request actually fix the issue?
 * [x] Check the pull request on rawgit, does it display without any errors?
 * [x] Is there any merge conflicts?
+* [x] Make sure that people use their GitHub accounts when making commits through git
 
 Every time you comment on an issue or review a pull request, message those involved on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) with a link to the issue / pull request. Also if you find any issue with a pull request, do not forget to use the `Request changes` option when creating your review.
 ### Merging a pull request
