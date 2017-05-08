@@ -1,4 +1,7 @@
 #GitHub Issues
+##Objective
+* Learn the process of submitting an issue through GitHub
+* Find and submit your own issue and pull request
 
 On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the BeLL and in our code. Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
 
