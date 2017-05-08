@@ -1,4 +1,5 @@
 #GitHub Issues
+
 ##Objective
 * Learn the process of submitting an issue through GitHub
 * Find and submit your own issue and pull request
