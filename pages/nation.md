@@ -1,5 +1,11 @@
-#Nation BeLL
+# Nation BeLL
 
+## Objectives
+* Sync your Community BeLL with the Nation
+* Verify its success using [vi.ole.org](vi.ole.org)
+* Update your Community and its publications
+
+## Introduction
 In step 4, you registered your community BeLL with the nation. Now, you will learn how to keep your community BeLL in sync with the nation.
 
 There should be constant communication between the nation and the communities. While is not necessary for remote communities in the field, it is ideal for our goals of improving the software and testing the increasing forms of communication and feedback between the nation and the communities. This communication takes the form of a syncing process from the community side, where you select material to send to the nation.
@@ -40,8 +46,8 @@ As you can see from the image below, there is an update ready to be downloaded. 
 
 First, click the "Update Available" button and it will reload your homepage with a successful update message. An update refers to a new software update which improves the software. Next, click on "Publications" and sync the publications. Publications add new resources or courses to your library. Last, repeat the process of sending an activities sync to the nation.
 
-##Useful Links
+## Useful Links
 
 [Helpful links and videos](faq.md#Helpful_Links)
 
-####Return to [First Steps](firststeps.md)
+#### Return to [First Steps](firststeps.md)
