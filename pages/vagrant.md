@@ -1,8 +1,4 @@
 # Vagrant
-## Objective
-* Learn about Vagrant
-* Initialize a Community BeLL using Vagrant
-
 [Vagrant](https://www.vagrantup.com/) is an open source tool to build development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-vi) to install Vagrant and VirtualBox on your OS. Below, you will find a shortened version on how to install this software quickly if needed as a reference.
 
 ## Ubuntu
