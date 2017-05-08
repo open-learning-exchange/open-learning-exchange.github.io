@@ -129,7 +129,7 @@ or not commonly used. To see all subcommands, run the command
 ```
 
 ## Useful  Links
-Instructions to enable virtualization [WIN](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [MAC](http://kb.parallels.com/en/5653) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox)  
+Instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Macintosh](http://kb.parallels.com/en/5653) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox)  
 [Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)  
 [Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
 [Vagrant download](https://www.vagrantup.com/downloads.html)  
