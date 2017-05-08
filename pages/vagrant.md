@@ -3,7 +3,7 @@
 [Vagrant](https://www.vagrantup.com/) is an open source tool to build development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-vi) to install Vagrant and VirtualBox on your OS. Below, you will find a shortened version on how to install this software quickly if needed as a reference.
 
 ## Prerequisites
-Before installing Vagrant on any platform, it is necessary to check whether or not you have the VT-x/AMD-V instruction set enabled on your processor. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system. Please see the useful links section at the end of this page if you need more information on how to enable the VT-x/AMD-V instructions on your system. 
+Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system. Please see the useful links section at the end of this page if you need more information on how to enable the VT-x/AMD-V instructions on your system. 
 
 ## Windows
 
