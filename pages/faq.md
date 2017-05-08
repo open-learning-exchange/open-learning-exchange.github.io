@@ -113,6 +113,17 @@ git clone https://github.com/dogi/ole--vagrant-vi.git
 cd ole--vagrant-vi
 vagrant up
 ```
+# 'First Steps' Software Summary
+
+###### _The aim of the ‘First Steps’ is to introduce prospective interns to the software that they will be using, and make sure they are familiar with each. While each step goes into detail on the specific program(s) at hand, it can be easy at times to lose sight of the bigger picture. To that end, below is a brief synopsis of the primary tools you will be using/learning about in the first steps, and how they work together to empower our collaborative development environment._
+
+We start off by learning about “BeLL”, or the Basic e-Learning Library. BeLL is the learning tool that OLE uses to provide the educational materials and resources to its students. It is a lightweight digital Library that can be accessed through Local networks (’Communities’)  and synced through the Internet (‘Nations’). To do so, we need to install a few software packages, Vagrant and VirtualBox primary among them. We use Vagrant (a development environment builder), in conjunction with VirtualBox (virtual machine software) to initialize a BeLL environment on the local system. Using this virtual environment we access the BeLL interface locally and create our own communities/nations.
+
+The other two tools we focus on are GitHub and Markdown. Similar to how we use Vagrant and VirtualBox to standardize the development environment for each developer, we use Git/GitHub in order to centralize the development process, and enable greater collaboration and teamwork. Git is a revision control system that allows many users to simultaneously edit and develop the same projects, and GitHub is a website/hosting service that utilizes the git system, and hosts the git repositories we work on. Markdown, on the other hand, is a style of formatting text native to GitHub and thus used in the Virtual Intern program. Markdown simplifies formatting and emphasizes readability, helping coders focus on content, and not get bogged down in syntax.
+
+To sum up, the primary software/tools we cover in the ‘First Steps’ are BeLL, Vagrant, VirtualBox, Git/GitHub and Markdown. Though not immediately apparent, the tools we use are all unified by a common purpose. Each bit of software we use is chosen in an effort to promote collaboration. The use of Vagrant and VirtualBox mandates that each instance of BeLL is the same, making sure that all developers utilize the same system. Markdown simplifies the development process, as each piece of code must comply to its syntax, increasing clarity for all users. Finally, GitHub serves as the last piece in the puzzle, as it takes advantage of the standardized development environment that Vagrant/VirtualBox provide, as well as the streamlined syntax of Markdown to allow for easy collaboration. 
+
+It can often be challenging to see the “Big Picture", and it’s easy to lose sight of it when focused on individual tasks. With that said, hopefully this synopsis will have shed light on the importance of the process, and shown that each step is not an isolated assignment, but rather part of a greater task.
 
 ## Helpful Links
 
