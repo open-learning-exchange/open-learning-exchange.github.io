@@ -131,6 +131,6 @@ Instructions to enable virtualization [MAC](http://kb.parallels.com/en/5653) | [
 [Vagrant download](https://www.vagrantup.com/downloads.html)  
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
 [Other helpful links and videos](faq.md#Helpful_Links)
-
+```
    
 ####Return to [First Steps](firststeps.md)
