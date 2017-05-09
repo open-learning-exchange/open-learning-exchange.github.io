@@ -4,7 +4,7 @@
 * Learning how to use Git from the command line
 * Configuring and syncing your repository
 
-# Introduction
+## Introduction
 
 On GitHub, our software code is organized in repositories, each of which represents a different project we're working on. For example, you have been working on one of our repositories, called open-learning-exchange.github.io. We would strongly suggest you to look (look, don't touch) at our different repositories on GitHub [here](https://github.com/open-learning-exchange). These repositories act as a categorizing system for us to organize our code.
 
