@@ -81,7 +81,7 @@ or not commonly used. To see all subcommands, run the command
 ## Troubleshooting
 When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
 
-For more information go here: (http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
 
 
 ## Useful  Links
@@ -94,4 +94,4 @@ Instructions to enable virtualization [MAC](http://kb.parallels.com/en/5653) | [
 [Other helpful links and videos](faq.md#Helpful_Links)
 
    
-####Return to [First Steps](firststeps.md)
+#### Return to [First Steps](firststeps.md)
