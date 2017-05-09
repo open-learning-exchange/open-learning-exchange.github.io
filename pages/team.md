@@ -12,10 +12,12 @@
 |[i5o](profiles/i5o.md) (**Intern Lead**)| 20170308 |
 |[blakedelee](profiles/BlakeDeLee.md)| 20170322 |
 |[Loshma93](profiles/Loshma93.md)| 20170331 |
-|[kylemathias](profiles/kylemathias.md)| 20170331 |
-|[zeivhann](profiles/zeivhann.md)| 20170401 |
+|[kylemathias](profiles/kylemathias.md) (**Mobile Intern Lead**)| 20170331 |
+|[zeivhann](profiles/zeivhann.md) (**Mobile Intern Lead**)| 20170401 |
 |[Supriyaranjan](profiles/Supriyaranjan.md)| 20170404 |
 |[praneetharra](profiles/praneetharra.md)| 20170421 |
+|[shahswet](profiles/shahswet.md)| 20170501 |
+|[Yurockkk](profiles/Yurockkk.md)| 20170505 |
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
