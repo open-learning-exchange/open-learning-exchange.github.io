@@ -39,6 +39,10 @@ The following command should take care of this:
 
 `> curl https://bootstrap.pypa.io/ez_setup.py -o - | python`
 
+An alternative option is to use `pip` instead:
+ 
+`> pip install setuptools`
+
 #### Windows
 There are two possible methods for installing python, method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file.
 
