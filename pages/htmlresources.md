@@ -39,6 +39,14 @@ The following command should take care of this:
 
 `> curl https://bootstrap.pypa.io/ez_setup.py -o - | python`
 
+If the above command does not seem to work, you can also install setuptools by using the Python package manager called pip by doing the following command:
+
+`> pip install setuptools`
+
+Installing a package may need elevated privileges, so if you are receiving a permission denied error, it is likely you may need to use sudo and then type in the password to get sudo privileges. The command will look like this:
+
+`> sudo pip install setuptools`
+
 #### Windows
 There are two possible methods for installing python, method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file.
 
