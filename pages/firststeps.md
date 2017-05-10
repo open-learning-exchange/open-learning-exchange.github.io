@@ -39,11 +39,7 @@ Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read thr
 
 ## Step 2 - Vagrant Tutorial
 
-#### Windows 
-Review these [Vagrant instructions](vagrantwin.md) to get familiar with Vagrant, since you will need to use it during your internship.
-
-#### MacOS(X) and Ubuntu
-Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step.
+Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
 
 ## Step 3 - Markdown and Fork Tutorial
 
