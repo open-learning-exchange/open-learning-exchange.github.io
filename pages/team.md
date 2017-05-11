@@ -36,9 +36,9 @@
 |[AdityaNair99](profiles/AdityaNair99.md)| 20160529 | 20160608 |
 |[Hulmani](profiles/Hulmani.md)| 20160701 | 20160706 |
 |[sthak004](profiles/sthak004.md)| 20160629 | 20160714 |
-|[Neha1990](profiles/Neha1990.md)| 20160712 |  |
+|[Neha1990](profiles/Neha1990.md)| 20160712 | 20160926 |
 |[cw-lin](profiles/cw-lin.md)| 20160722 | 20160914 |
-|[epistulae](profiles/epistulae.md)|   |   |
+|[epistulae](profiles/epistulae.md)| 20160601 | 20160701 |
 |[pranesh-s](profiles/pranesh-s.md)| 20160525 | 20160603 |
 |[314159265359](profiles/314159265359.md)| 20160523 | 20160603 |
 |[fangninghe](profiles/fangninghe.md)| 20170123 | 20170123 |
