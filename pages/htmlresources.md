@@ -13,6 +13,7 @@ Documentation helps to understand overall progress of project. Visit following l
 
 Prerequisites:
 
+* Python with pip and setuptools
 * [Couchapp](htmlresources.md#Couchapp_Installation)
 * Couchdb Instance
 * Desired JavaScript/HTML application
@@ -31,6 +32,20 @@ sudo python setup.py install
 ```
 
 _Note:_
+If you get the error message below:
+
+```
+The program 'python' can be found in the following packages:
+* python-minimal
+* python3
+Try: sudo apt install <selected package>
+```
+It means you are missing the python package. To fix this enter the command,
+`> sudo apt-get install python`
+
+You also need to install the pip package manager. It will allow you to install the setuptools package, which is required for Couchapp. You can install the package with the command,
+`> sudo apt-get install python-pip`
+
 If you get an error message, `ImportError: No module named setuptools`, then we
 need to install  [setuptools](https://pypi.python.org/pypi/setuptools) first.
 This is a [common issue](https://www.google.com/search?num=100&q=ImportError:+No+module+named+setuptools), but easily solved.
