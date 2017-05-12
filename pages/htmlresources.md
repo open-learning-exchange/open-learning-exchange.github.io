@@ -13,7 +13,7 @@ Documentation helps to understand overall progress of project. Visit following l
 
 Prerequisites:
 
-* Python with pip and setuptools
+* Python2 with pip and setuptools
 * [Couchapp](htmlresources.md#Couchapp_Installation)
 * Couchdb Instance
 * Desired JavaScript/HTML application
@@ -32,19 +32,8 @@ sudo python setup.py install
 ```
 
 _Note:_
-If you get the error message below:
-
-```
-The program 'python' can be found in the following packages:
-* python-minimal
-* python3
-Try: sudo apt install <selected package>
-```
-It means you are missing the python package. To fix this enter the command,
-`> sudo apt-get install python`
-
-You also need to install the pip package manager. It will allow you to install the setuptools package, which is required for Couchapp. You can install the package with the command,
-`> sudo apt-get install python-pip`
+If you get the error message that includes the line, `The program 'python' can be found in the following packages:`, then Python2 is not installed. To fix this you need to install the python package along with pip.
+Enter the command, `> sudo apt-get install python`. That should install python but you also need to install the package manager called pip, by typing `> sudo apt-get install python-pip`. Pip allows you to install the needed setuptools dependency for Couchapp but it also lets you install many more useful Python packages.
 
 If you get an error message, `ImportError: No module named setuptools`, then we
 need to install  [setuptools](https://pypi.python.org/pypi/setuptools) first.
