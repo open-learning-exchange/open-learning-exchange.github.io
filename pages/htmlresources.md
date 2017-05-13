@@ -33,11 +33,19 @@ sudo python setup.py install
 
 _Note:_
 If you get the error message that includes the line, `The program 'python' can be found in the following packages:`, then Python2 is not installed. To fix this you need to install the python package along with pip.
-Enter the command, `> sudo apt-get install python`. That should install python but you also need to install the package manager called pip, by typing `> sudo apt-get install python-pip`. Pip allows you to install the needed setuptools dependency for Couchapp but it also lets you install many more useful Python packages.
 
-If you get an error message, `ImportError: No module named setuptools`, then we
-need to install  [setuptools](https://pypi.python.org/pypi/setuptools) first.
-This is a [common issue](https://www.google.com/search?num=100&q=ImportError:+No+module+named+setuptools), but easily solved.
+Enter the command: 
+
+`> sudo apt-get install python` 
+
+That should install python but you also need to install the package manager called pip, by typing:
+
+`> sudo apt-get install python-pip`
+
+Pip allows you to install the needed setuptools dependency for Couchapp but it also lets you install many more useful Python packages.
+
+_Note:_
+If you get an error message, `ImportError: No module named setuptools`, then we need to install  [setuptools](https://pypi.python.org/pypi/setuptools) first. This is a [common issue](https://www.google.com/search?num=100&q=ImportError:+No+module+named+setuptools), but is easily solved.
 
 The following command should take care of this:
 
