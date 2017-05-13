@@ -46,7 +46,7 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 NOTE: Each PLANET system is unique; universal memberships do not exist.  If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community.  To become a member of another Nation or Community you must register with a new account.
 
-###_What are the differences between Learners, Leaders, and Managers?_
+### _What are the differences between Learners, Leaders, and Managers?_
 In the PLANET system, there are three different kinds of users: **Learners**, **Leaders**, and **Managers**.
 
 **Learner** is the default user level when a person first joins. Each person continues to be a Learner regardless of additional responsibilities and roles. All Learners have access to standard and individualized user functionality.
@@ -56,7 +56,7 @@ In the PLANET system, there are three different kinds of users: **Learners**, **
 **Managers** have access to Learner, Leader, and additional functionalities that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.  
 If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities.  In order to see the available manager functionalities, click on “_Manager_” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections. 
 
-###How do I navigate the Dashboard?
+### How do I navigate the Dashboard?
 
 An example of the Manager Dashboard is shown below. The functionalities are defined for each element of the Dashboard.
 
