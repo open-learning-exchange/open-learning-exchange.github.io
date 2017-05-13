@@ -81,7 +81,7 @@ python setup.py build
 python setup.py install
 ```
 
-NOTE:
+Note:
 Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the Gitter chat, and we'll do our best to help you.
 
 *Method 2*
