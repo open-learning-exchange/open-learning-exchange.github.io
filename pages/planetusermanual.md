@@ -120,7 +120,7 @@ A collection is a group of Resources based on topic/subject and intended use.  P
 
 ## How do I upload a Resource?
 
-1.  Log in as a **_Learner_**, **_Leader_**, or **_Manager_**.
+1.  Log in as a **Learner**, **Leader**, or **Manager**.
 
 2.  Start on the main **_Dashboard_** and click on the **_Library_** heading.
 
