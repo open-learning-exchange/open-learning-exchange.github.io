@@ -20,6 +20,7 @@
 |[Yurockkk](profiles/Yurockkk.md)| 20170505 |
 |[sarah-lu102](profiles/sarah-lu102.md)| 20170510 |
 |[snazzybunny](profiles/snazzybunny.md)| 20170511 |
+|[duongdo27](profiles/duongdo.md)| 20170512 |
 
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
