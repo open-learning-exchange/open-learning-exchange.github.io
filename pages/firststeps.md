@@ -59,7 +59,7 @@ Complete the tutorial under the [GitHub Issues tab](githubissues.md) and make su
 
 ## Step 7 - Nation BeLL
 
-Follow the directions under the [Nation BeLL tab](nation.md).
+Follow the directions under the [Nation BeLLs tab](nation.md).
 
 ## Step 8 - Create Issues and Pull Requests
 
