@@ -113,4 +113,4 @@ You should now be able to sign into the Take Home application using the same log
 
 
 ## Understanding the flow of the android application
-WIP
+[Take Home Documentation](take-home-documentation.md)
