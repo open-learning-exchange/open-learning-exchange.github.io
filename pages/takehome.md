@@ -1,13 +1,23 @@
 # Take Home Application
 
-## Hello and Welcom
+## Welcome to Take Home
 
-You will find here...
+The [Take Home Application]( https://github.com/open-learning-exchange/take-home) is an Android application using Java, CouchDB and JSON. The goal of the project is to mimic BeLL Apps on a mobile scale to allow users to different platforms to interact with MyBeLL.
+
+In here you will find step by step guides to getting the Take Home Application up and running in Android Studio. Once you are setup, please read the [Take Home Documentation](takeHomeDocumentation.md) so you can understand the flow of the application.
 
 ## [Android Studio Setup](takeHomeAndroidStudioSetup.md)
 
-Intro to Android Studio Setup
+You will be using Android Studio to develop the Take Home Application. Within this guide, you will learn what is needed to get Android Studio installed and the application up and running.
 
 ## [Android Device Emulator Setup](takeHomeEmulatorSetup.md)
 
-One of the deploment enviroments that you are going to be working in is Android Studio's Android device emulator. These Steps will guide you to get the emulator up and running.
+One of the deploment enviroments that you are going to be working in is Android Studio's Android device emulator. These steps will guide you to get the emulator up and running.
+
+## [Android Device Setup](takeHomeDeviceSetup.md)
+
+The second deploment enviroment you will be testing on is an actually Android device. These steps will guide you to getting the Take Home Applicaiton running on an actually Android Device.
+
+## [Take Home Documentation](takeHomeDocumentation.md)
+
+This is a detailed documentation of the Take Home Application. In here you will find detailed summaries of the java class files and methods used with in the application to help you understand and contribute to the Take Home Application.
