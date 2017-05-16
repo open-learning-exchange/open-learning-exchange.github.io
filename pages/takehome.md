@@ -1,4 +1,4 @@
-[Google Doc](https://docs.google.com/document/d/1JUePcj0W9mg6Ea__lakJK-Zd6ZFXchmqdbztLqIU4Cs/edit#heading=h.ieliyf4f8pjx)
+﻿[Google Doc](https://docs.google.com/document/d/1JUePcj0W9mg6Ea__lakJK-Zd6ZFXchmqdbztLqIU4Cs/edit#heading=h.ieliyf4f8pjx)
 
 #Android "Take Home" Bell application development
 
@@ -113,4 +113,5 @@ You should now be able to sign into the Take Home application using the same log
 
 
 ## Understanding the flow of the android application
-[Take Home Documentation](take-home-documentation.md)
+
+WIP
