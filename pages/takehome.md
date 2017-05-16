@@ -1,4 +1,4 @@
-# Android "Take Home" Bell application development
+# Take Home Application
 
 You will find here...
 
