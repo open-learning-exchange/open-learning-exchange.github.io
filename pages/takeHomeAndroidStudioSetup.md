@@ -1,4 +1,4 @@
-##Project Setup
+## Android Studio Setup
 To be able to debug / repackage / build on the android mobile application, you need to:
 
 - download and install the most recent official IDE for android: [Android Studio](https://developer.android.com/studio/index.html) 
