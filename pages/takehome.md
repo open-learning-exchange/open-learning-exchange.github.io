@@ -2,7 +2,7 @@
 
 ## Welcome to Take Home
 
-The [Take Home Application]( https://github.com/open-learning-exchange/take-home) is an Android application using Java, CouchDB and JSON. The goal of the project is to mimic BeLL Apps on a mobile scale to allow users to different platforms to interact with MyBeLL.
+The [Take Home Application]( https://github.com/open-learning-exchange/take-home) is an Android application using Java, CouchDB and JSON. The goal of the project is to mimic BeLL Apps on a mobile scale to allow users to use an Android device to interact with MyBeLL.
 
 In here you will find step by step guides to getting the Take Home Application up and running in Android Studio. Once you are setup, please read the [Take Home Documentation](takeHomeDocumentation.md) so you can understand the flow of the application.
 
