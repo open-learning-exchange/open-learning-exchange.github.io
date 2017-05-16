@@ -2,7 +2,7 @@
 
 You will find here...
 
-## [Android Studio Setup](takeHomeAndroidStudioSetup)
+## [Android Studio Setup](takeHomeAndroidStudioSetup.md)
 
 Intro to Android Studio Setup
 
