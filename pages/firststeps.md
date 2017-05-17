@@ -76,7 +76,7 @@ Head over to [Open Learning Exchange Repository](https://github.com/open-learnin
 
 If you meet these requirements let us know in the Gitter chat, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7). Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
 
-After the pull request, message the gitter chat or dogi to let them know you are done so that they can set up a meeting and add you to the team as soon as possible.
+After the pull request, message in the gitter chat or message dogi to let him know you are done so that he can set up a meeting and add you to the team as soon as possible.
 
 Once you have been added to the team, read through the [intern orientation document](internorientation.md).
 
