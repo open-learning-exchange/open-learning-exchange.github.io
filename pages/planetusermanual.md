@@ -46,7 +46,7 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 NOTE: Each PLANET system is unique; universal memberships do not exist.  If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community.  To become a member of another Nation or Community you must register with a new account.
 
-###_What are the differences between Learners, Leaders, and Managers?_
+### _What are the differences between Learners, Leaders, and Managers?_
 In the PLANET system, there are three different kinds of users: **Learners**, **Leaders**, and **Managers**.
 
 **Learner** is the default user level when a person first joins. Each person continues to be a Learner regardless of additional responsibilities and roles. All Learners have access to standard and individualized user functionality.
@@ -56,71 +56,71 @@ In the PLANET system, there are three different kinds of users: **Learners**, **
 **Managers** have access to Learner, Leader, and additional functionalities that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.  
 If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities.  In order to see the available manager functionalities, click on “_Manager_” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections. 
 
-###How do I navigate the Dashboard?
+### How do I navigate the Dashboard?
 
 An example of the Manager Dashboard is shown below. The functionalities are defined for each element of the Dashboard.
 
 ![](uploads/images/dashboard.png)
 
-1.**My Home** directs the Learner to the main Dashboard page and provides easy access to most PLANET functionalities.
+1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most PLANET functionalities.
 
-2.**e-Readers** functionality is under construction.
+2. **e-Readers** functionality is under construction.
 
-3.**Library** allows a Learner to browse the digital Resources.  It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
+3. **Library** allows a Learner to browse the digital Resources.  It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
 
-4.**Courses** gives Learners the option to view each Course and to request admission.
+4. **Courses** gives Learners the option to view each Course and to request admission.
 
-5.**Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other PLANET Learners.
+5. **Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other PLANET Learners.
 
-6.**Members** provides a list of all Learners in this PLANET system. 
+6. **Members** provides a list of all Learners in this PLANET system. 
 
-7.**Reports** allows Nation Managers to distribute Nation Reports as needed.
+7. **Reports** allows Nation Managers to distribute Nation Reports as needed.
 
-8.**Feedback** allows Learners to give feedback for the Resource or page they are viewing.
+8. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
 
-9.**Logout** logs the Learner out of the PLANET system.
+9. **Logout** logs the Learner out of the PLANET system.
 
-10.**Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
+10. **Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
 
-11.**Language** shows the language of the user interface and allows the user to switch between languages.
+11. **Language** shows the language of the user interface and allows the user to switch between languages.
 
-12.**My Library** displays the Resources that were added to “_My Library_” by the Learner.
+12. **My Library** displays the Resources that were added to “_My Library_” by the Learner.
 
-13.**My Courses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
+13. **My Courses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
 
-14.**My Meetups** displays the physical location of the Course (if applicable).
+14. **My Meetups** displays the physical location of the Course (if applicable).
 
-15.**My Tutors** is under construction.
+15. **My Tutors** is under construction.
 
-16.**Badges** is under construction.
+16. **Badges** is under construction.
 
-17.**Calendar** can be used to organize and display Meetups and Events for the Learner.
+17. **Calendar** can be used to organize and display Meetups and Events for the Learner.
 
-18.**Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
+18. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
 
-19.**Surveys** allows Nation Managers to push a survey PLANET users based on characteristics like age, gender, member type, Community, etc.
+19. **Surveys** allows Nation Managers to push a survey PLANET users based on characteristics like age, gender, member type, Community, etc.
 
-20.**Update Welcome Video** allows Managers to change the welcome video for their Nation.
+20. **Update Welcome Video** allows Managers to change the welcome video for their Nation.
 
 # Library and Resources Overview
 
-## _What is the Library?_
+## What is the Library?
 
 The library where learning Resources are stored and categorized within the PLANET system.  Resources are listed alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
 
-## _What is a Resource?_
+## What is a Resource?
 
 A PLANET Resource is material that has been uploaded into the digital library.  There are many types of Resources, not just books.  PLANET can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications  (interactive content), and just about any other format.  Resources can be viewed in the library and may vary from Nations to Communities.  Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
 
-## _What is a Collection?_
+## What is a Collection?
 
 A collection is a group of Resources based on topic/subject and intended use.  PLANET currently follows a the Library of Congress categorization system.  Collections exist as the main category.  Sub-collections allow Nation Managers to group Resources more specifically within a collection.  Collections are alphabetized by topic.
 
 # How do I navigate and use the Library?
 
-## _How do I upload a Resource?_
+## How do I upload a Resource?
 
-1.  Log in as a **_Learner_**, **_Leader_**, or **_Manager_**.
+1.  Log in as a **Learner**, **Leader**, or **Manager**.
 
 2.  Start on the main **_Dashboard_** and click on the **_Library_** heading.
 
@@ -178,7 +178,7 @@ You may need to use a format converter to put your Resource in the correct forma
 
 **IMPORTANT:** Until all Nations can communicate with each other and Resources can easily be shared between Nations, Resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that Resources are available in each Nation.
 
-## _How do I name a file so that it can be upoaded?_
+## How do I name a file so that it can be upoaded?
 
 The following file naming conventions should be used for any new file to upload to PLANET:
 
@@ -189,11 +189,11 @@ The following file naming conventions should be used for any new file to upload 
 * If there is a series of Resources, the first part of the file name should be consistent (e.g., module title), followed by the number in the series, followed by the title of the specific file (e.g., ComputerBasics01_GettingToKnowComputers.pdf, ComputerBasics02_UnderstandingOperationSystems.pdf, etc.).
 * Use leading zeros (i.e., 01, 02, etc. or 001, 002, etc.) for documents that are part of a series so that they are sorted numerically.
 
-## _Are there Resources that have specific rules for uploading?_
+## Are there Resources that have specific rules for uploading?
 
 Yes. These Resources are covered in an additional manual titled, XXXXX. Please read that manual to address specific questions on uploading in other languages, in additional formats, or in existing Collections with special permission. 
 
-## _How do I create and use Collections?_
+## How do I create and use Collections?
 
 Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library.  **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of PLANET.  Collections can only be created or changed by Managers. 
 

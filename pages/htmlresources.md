@@ -13,6 +13,7 @@ Documentation helps to understand overall progress of project. Visit following l
 
 Prerequisites:
 
+* Python2 with pip and setuptools
 * [Couchapp](htmlresources.md#Couchapp_Installation)
 * Couchdb Instance
 * Desired JavaScript/HTML application
@@ -31,13 +32,32 @@ sudo python setup.py install
 ```
 
 _Note:_
-If you get an error message, `ImportError: No module named setuptools`, then we
-need to install  [setuptools](https://pypi.python.org/pypi/setuptools) first.
-This is a [common issue](https://www.google.com/search?num=100&q=ImportError:+No+module+named+setuptools), but easily solved.
+If you get the error message that includes the line, `The program 'python' can be found in the following packages:`, then Python2 is not installed. To fix this you need to install the python package along with pip.
+
+Enter the command: 
+
+`> sudo apt-get install python` 
+
+That should install python but you also need to install the package manager called pip, by typing:
+
+`> sudo apt-get install python-pip`
+
+Pip allows you to install the needed setuptools dependency for Couchapp but it also lets you install many more useful Python packages.
+
+_Note:_
+If you get an error message, `ImportError: No module named setuptools`, then we need to install  [setuptools](https://pypi.python.org/pypi/setuptools) first. This is a [common issue](https://www.google.com/search?num=100&q=ImportError:+No+module+named+setuptools), but is easily solved.
 
 The following command should take care of this:
 
 `> curl https://bootstrap.pypa.io/ez_setup.py -o - | python`
+
+If the above command does not seem to work, you can also install setuptools by using the Python package manager called pip by doing the following command:
+
+`> pip install setuptools`
+
+Installing a package may need elevated privileges, so if you are receiving a permission denied error, it is likely you may need to use sudo and then type in the password to get sudo privileges. The command will look like this:
+
+`> sudo pip install setuptools`
 
 #### Windows
 There are two possible methods for installing python, method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file.
@@ -61,7 +81,7 @@ python setup.py build
 python setup.py install
 ```
 
-NOTE:
+Note:
 Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the Gitter chat, and we'll do our best to help you.
 
 *Method 2*
