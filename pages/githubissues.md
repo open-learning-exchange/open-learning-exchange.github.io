@@ -30,13 +30,13 @@ For everyone's convenience, we highly recommend that you follow a certain struct
 
 Additionally, creating a checklist will help others understand what you have done and what needs to be done - it helps you coordinate with your team members with the issues you are facing in an organized manner. Github will render the task list in markdown and will look similar to something like the checklist shown below this paragraph.
 
-- [x] Check for issue number in pull request title
-- [x] Are there any unneeded files in the pull request?
-- [x] Did they make a branch for their patch?
-- [x] Does the pull request actually fix the issue?
-- [x] Check the pull request on rawgit, does it display without any errors?
-- [x] Is there any merge conflicts?
-- [x] Make sure that people use their GitHub accounts when making commits through git
+[x] Check for issue number in pull request title
+[x] Are there any unneeded files in the pull request?
+[x] Did they make a branch for their patch?
+[x] Does the pull request actually fix the issue?
+[x] Check the pull request on rawgit, does it display without any errors?
+[x] Is there any merge conflicts?
+[x] Make sure that people use their GitHub accounts when making commits through git
 
 Some of these items are of course optional, but try to include as much useful information for others as possible in your checklists because nobody really wants to work on something that has already been completed by someone else.
 
