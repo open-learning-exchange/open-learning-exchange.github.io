@@ -28,7 +28,7 @@ If you login to your own fork of OLE on Github, Github will notice that you rece
 
 For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest to include the issue for which the pull request is resolving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request) to the title of your PR and also the rawgit link into the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the rawgit link. 
 
-Additionally, creating a checklist will help others understand what you have done and what needs to be done - it helps you coordinate with your team members with the issues you are facing in an organized manner. Github will render the task list in markdown and will look similar to something like the checklist shown below this paragraph. Some of these items are of course optional, but try to include as much useful information for others as possible because nobody wants to work on something that has already been completed.
+Additionally, creating a checklist will help others understand what you have done and what needs to be done - it helps you coordinate with your team members with the issues you are facing in an organized manner. Github will render the task list in markdown and will look similar to something like the checklist shown below this paragraph.
 
 - [x] Check for issue number in pull request title
 - [x] Are there any unneeded files in the pull request?
@@ -38,6 +38,7 @@ Additionally, creating a checklist will help others understand what you have don
 - [x] Is there any merge conflicts?
 - [x] Make sure that people use their GitHub accounts when making commits through git
 
+Some of these items are of course optional, but try to include as much useful information for others as possible in your checklists because nobody really wants to work on something that has already been completed by someone else.
 
 ## Wait for Review
 All that remains is posting your pull request in the chat and waiting until one of the OLE staff gets a chance to look at it. Be aware that a staff member may either submit a code review asking you to modify some of your changes, or accept the pull request and close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
