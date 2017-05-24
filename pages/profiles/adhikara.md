@@ -40,7 +40,9 @@ Here is a fun table of places I've been to:
 Where have I gotten fined, for using the wrong service of transport, or not having complete documents?
 
 `Paris`
-`Belgium`
+`Brussels`
+
+In other words, big cities suck.
 
 ---
 
