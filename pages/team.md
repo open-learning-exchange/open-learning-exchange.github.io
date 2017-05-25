@@ -23,7 +23,6 @@
 |[duongdo27](profiles/duongdo.md)| 20170512 |
 |[aurinsomnia](profiles/aurinsomnia.md)| 20170525 |
 
-
 ## Inactive Interns
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
