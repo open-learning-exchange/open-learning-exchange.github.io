@@ -234,7 +234,7 @@ Now you can zip the contents of your app. Select all files in your app and zip t
 
 Once you have your zip folder, add your app as a resource like you did during the intern application process, but select HTML under Open and put the file name of the main page (i.e. index.html) in Open Which File like below:
 
-![addzipfile](/uploads/images/htmlresources.png)
+![addzipfile](/pages/uploads/images/htmlresources.png)
 
 Click save. Adding to your community will take some time (30 seconds - 5 minutes). Pushing to the nation will take even longer depending on your internet connection.
 
