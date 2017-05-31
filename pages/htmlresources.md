@@ -13,7 +13,7 @@ Documentation helps to understand overall progress of project. Visit following l
 
 The first way (which is a bit trickier and has more steps) will help you learn about how couchDB works, and how HTML apps work. After you familiarize yourself with that, the second way makes it easier because you can directly upload HTML apps to your BeLL app. Make sure to do method 1 before moving onto method 2. 
 
-### Method 1: Using CouchDB and CouchApp
+## Method 1: Using CouchDB and CouchApp
 
 Prerequisites:
 
@@ -224,7 +224,7 @@ Finally, push your app to the nation by clicking `Add to Nation`.
 [HTML5-Demos and Examples](http://html5demos.com/)  
 [HTML5 Apps-Open Source](https://github.com/leereilly/games#user-content-arcade)
 ___
-### Method 2: uploading a zip file directly to the BeLL app
+## Method 2: uploading a zip file directly to the BeLL app
 
 There is another way to upload an HTML app. Once you have downloaded the app to your computer, unzip it if it is zipped, and check if there are unnecessary files in the app (.git folder, node_modules, bower). If you're not sure, leave it in, but more files means longer upload. You won't always have these files- most of the time the .git folder only exists if you cloned a repository from GitHub or if it's a repository you created.
 
