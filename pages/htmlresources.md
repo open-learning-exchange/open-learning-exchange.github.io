@@ -64,7 +64,7 @@ Installing a package may need elevated privileges, so if you are receiving a per
 `> sudo pip install setuptools`
 
 #### Windows
-There are two possible methods for installing python, method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file. Method 2 is easier because it only requrires one step, and the .exe file installs all necessary files for you. 
+There are two possible methods for installing python. Method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file. Method 2 is easier because it only requires one step, and the .exe file installs all necessary files for you. 
 
 *Method 1*  
 
@@ -223,7 +223,7 @@ Finally, push your app to the nation by clicking `Add to Nation`.
 [About CouchDB](http://couchdb.apache.org/)  
 [HTML5-Demos and Examples](http://html5demos.com/)  
 [HTML5 Apps-Open Source](https://github.com/leereilly/games#user-content-arcade)
-
+___
 ### Method 2: uploading a zip file directly to the BeLL app
 
 There is another way to upload an HTML app. Once you have downloaded the app to your computer, unzip it if it is zipped, and check if there are unnecessary files in the app (.git folder, node_modules, bower). If you're not sure, leave it in, but more files means longer upload. You won't always have these files- most of the time the .git folder only exists if you cloned a repository from GitHub or if it's a repository you created.
