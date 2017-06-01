@@ -1,4 +1,9 @@
 # Nation BeLL
+## Objectives
+* Learn to sync your Community with the Nation
+* Use the Nation interface to check whether your Community successfully joined the Nation
+* Update your Community BeLL to the latest version
+
 ## Introduction
 
 In step 4, you registered your community BeLL with the nation. Now, you will learn how to keep your community BeLL in sync with the nation.

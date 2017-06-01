@@ -283,3 +283,14 @@ Then click *“Generate Report.”*
 In resulting Report the Manager will be able to see a visual graphic representing activity over the past 12 months as shown below.
 
 ![](uploads/images/ReportsOverview7.JPG)
+
+## Feedback Overview
+### _What is Feedback?_
+
+Feedback allows Learners to provide feedback on the currently open page. Feedback helps OLE make improvements to the software over time.
+
+### _How do I provide Feedback?_
+
+Learners can give feedback for any page or Resource at any time by click on “Feedback” and filling out the information in the form shown below.  When finished, click “Submit” to send feedback to OLE.
+
+![](uploads/images/planet_feedback.png)
