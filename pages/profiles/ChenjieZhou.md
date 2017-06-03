@@ -7,7 +7,7 @@
 ## About Me
 What's up everyone! So excited to be here with you all. 
 
-I am a first year Master student in Computer Engineering at UC Santa Cruz which is a great place with beautiful beach :surfer: and lovely sunshine.:sunny: 
+I am a first year Master student in Computer Engineering at UC Santa Cruz which is a great place with beautiful beach and lovely sunshine.
 
 Hope that we learn and progress together.
 
