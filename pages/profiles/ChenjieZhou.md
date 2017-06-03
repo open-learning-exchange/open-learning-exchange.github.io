@@ -27,5 +27,5 @@ I am a traveler, an iPhoneographer.
 
 Welcome to follow me on [Github](https://github.com/ChenjieZhou).
 
-![El Captain](http://oow24e8uv.bkt.gdipper.com/yosemite/elcaptain.jpg?imageslim)
+![El Captain](http://oow24e8uv.bkt.gdipper.com/yosemite/elcaption1.jpg?imageslim)
 
