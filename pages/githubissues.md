@@ -23,6 +23,8 @@ Now you can go and make the proposed changes to your local files.
 ## Create a Commit
 After you are done making your changes use the command `git status`. If the list of files changed only includes those you wish to modify, use the command `git add .` (The '.' is part of the command.) Otherwise you can also choose only certain changes to include by using `git add <file1> <file2> <file3>...`  Now that you have selected the files you wish to include, use the commands `git commit -m "commit message"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
 
+**TIP**: While commit message style varies from person to person, this [style guide](http://udacity.github.io/git-styleguide/) create by Udacity is a good reference of how to write a clean, short and straightforward commit.
+
 You can view your changes by going to <code>https://<b>rawgit.com</b>/YourUserName/YourUserName.github.io/YourBranchName/#!index.md</code> and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request. 
 
 ## Create a Pull Request
@@ -61,3 +63,5 @@ After your pull request has been aprroved and merged by OLE staff, you might wan
 [Mastering Issues](https://guides.github.com/features/issues/)
 
 #### Return to [First Steps](firststeps.md)
+
+
