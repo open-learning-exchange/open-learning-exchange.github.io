@@ -299,4 +299,5 @@ Learners can give feedback for any page or Resource at any time by click on “F
 ### _How do I change the Language?_
 
 Learners can change the language of the PLANET system at any time by going to the Home page and selecting the language pull down menu  from in the top right corner.
+
 ![](uploads/images/Planet_Language.png)
