@@ -302,9 +302,9 @@ The Calendar allows Leaders and Learners to organize and view Meetups and Events
 ![](uploads/images/Planet_Calendar.png)
 
 Click on “Add Event” in the top left corner to create a new Event. 
-![](uploads/images/Calendar_Add Event.png)
+![](uploads/images/Calendar_AddEvent.png)
 
 Fill in the information for the Event as shown below. When finished, click “Add Event.”
-![](uploads/images/Calendar_Add Event1.png)
+![](uploads/images/Calendar_AddEvent1.png)
 
 
