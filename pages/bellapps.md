@@ -1,6 +1,11 @@
 # BeLL-Apps: Communities and Nations
-## Introduction
+## Objective
+* Learn about BeLL-Apps and the difference between Nations and Communities
+* Use Vagrant to create a local BeLL Community
+* Register your Community and sync it with the Nation
+* Add resources to your Community in order to get accustomed to the BeLL-Apps interface
 
+## Introduction
 The BeLL (Basic e-Learning Library) is not only a library, but also an individualized learning system, where students can select their own books and courses to target their individual goals. The two kinds of BeLL apps are described below.
 
 #### BeLL Communities (Local)
