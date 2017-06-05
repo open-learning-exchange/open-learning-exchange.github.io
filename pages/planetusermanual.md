@@ -354,7 +354,7 @@ Notes:
 5. **Edit Members Detail** - this is an admin only functionality for editing a members account information.
 6. **Delete a Member** - this is an admin only functionality for deleting members.
 
-# Reports Overview
+## Reports Overview
 
 ### _What is a Report?_
 Reports allows distribution of Nation Reports as needed by Nation Managers. Managers can add new Reports, check the activity on each Report, and look at trends for each Report.
