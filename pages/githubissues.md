@@ -1,6 +1,12 @@
 # GitHub Issues
-## Introduction
+## Objective
+* Learn about Issues, Commits, and Pull Requests
+* Understand the collaborative git/GitHub workflow that will be used throughout the internship
+* Create an issue, and upon admin approval, create a branch to fix it
+* After resolving the issue in the branch, make a pull request to the [upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)
+* Work with admins to make adjustments if necessary, and merge your branch into the upstream
 
+## Introduction
 On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the BeLL and in our code. Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
 
 ## Create an Issue
