@@ -15,6 +15,5 @@ I'm currently a Junior at University of Massachusetts Lowell working towards my 
 My hobbies include skateboarding, building PC's, game development and many more - just ask!
 
 
-
 Thanks for reading and I look forward to working with you all!
 
