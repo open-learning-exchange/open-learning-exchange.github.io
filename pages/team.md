@@ -1,12 +1,10 @@
 # Members
-## Active Volunteers
+## Active Members
 |**Username**|**Join Date**|
 |------------|-------------|
+|**➤ Volunteers**||
 |[mappuji](profiles/mappuji.md) (**ex-intern**)| 20170429 |
-
-## Active Interns
-|**Username**|**Join Date**|
-|------------|-------------|
+|**➤ Interns**||
 |[hikaruit15](profiles/hikaruit15.md)| 20161117 |
 |[hannahgdubin](profiles/hannahgdubin.md)| 20170101 |
 |[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 20170219 |
