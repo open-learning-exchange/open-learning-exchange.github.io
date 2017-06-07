@@ -262,7 +262,7 @@ To create a Course, log in and start from the Home page.
 
 15.	**Foreground/Background Color.**  Colors shown to Learners on their Dashboard when they join the Course 
 
-* Scroll down to the bottom of the screen and select *“Add Step”* to create the first lesson of the Course.
+- Scroll down to the bottom of the screen and select *“Add Step”* to create the first lesson of the Course.
   
 ![](uploads/images/addstep.png) ![](uploads/images/save2.png)
 
