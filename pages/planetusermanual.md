@@ -224,7 +224,7 @@ A Course allows Leaders to walk Learners through specific Resources and exercise
 
 ### How do I create a Course?
 To create a Course, log in and start from the Home page.
-* Go to the *“Courses”* tab in the top menu and then select *“Add Course.”*
+- Go to the *“Courses”* tab in the top menu and then select *“Add Course.”*
 
 ![](uploads/images/somaliabell.png) ![](uploads/images/addcourse.png)
 
@@ -262,7 +262,7 @@ To create a Course, log in and start from the Home page.
 
 15.	**Foreground/Background Color.**  Colors shown to Learners on their Dashboard when they join the Course 
 
-  * Scroll down to the bottom of the screen and select *“Add Step”* to create the first lesson of the Course.
+* Scroll down to the bottom of the screen and select *“Add Step”* to create the first lesson of the Course.
   
 ![](uploads/images/addstep.png) ![](uploads/images/save2.png)
 
@@ -278,61 +278,62 @@ To create a Course, log in and start from the Home page.
 
 6. **Passing Percentage.**  Select the percentage required on the Paper or Quiz to pass the Step
 
-  * By selecting *“View Details”* of a specific Course, you can then see the screen below and modify the Course. Select *“Add Resource”* to search through the Library for Resources to include in the Step. You can also create a Quiz from this section by selecting *“Create Quiz."*
+- By selecting *“View Details”* of a specific Course, you can then see the screen below and modify the Course. Select *“Add Resource”* to search through the Library for Resources to include in the Step. You can also create a Quiz from this section by selecting *“Create Quiz."*
   
 ![](uploads/images/createquiz1.png)
 
-  * In order to add a Resource, click the *“Add Resource”* button. The Resources must exist within PLANET before they can be included in a Course.  
+- In order to add a Resource, click the *“Add Resource”* button. The Resources must exist within PLANET before they can be included in a Course.  
   
-  * Follow the instructions below to add Resources to your Course.
+- Follow the instructions below to add Resources to your Course.
   
 1. Perform a keyword search to search for specific Resources.  To refine/broaden your search, filter by subject, Collections, level, medium, or rating.
 
 2. Check individual or all Resources that come up in the search results.
 
 3. Click *“Add to Level”* to add the Resource to the Step. 
-
-  **NOTE:** If you go to the next page without adding each Resource, your selections will be erased, so you should add the currently selected Resources before moving on to the next page.
+**NOTE:** If you go to the next page without adding each Resource, your selections will be erased, so you should add the currently selected Resources before moving on to the next page.
 
 4. In the Step Management panel, click *“View”* to make sure that your Resource is opening properly. To delete a Resource from the Step, click *“Remove.”*.
 
-  * To create a Quiz, click *“View Details.”* Click *“Create Quiz”* button located on the bottom right corner.
+- To create a Quiz, click *“View Details.”* Click *“Create Quiz”* button located on the bottom right corner.
   
- ![](uploads/images/createquiz2.png)
+![](uploads/images/createquiz2.png)
  
- 1.	You can create as many or as few questions as you want for each Quiz.  However, you must give 5 choices (Options A, B, C, D, and E) for each question. You can make True or False questions by making Option A = True, Option B = False, and inserting a “-” to fill the other answer choices. Select *“Add Question”* in order to add the question to your Quiz. **NOTE:** If you do not select *“Add Question,”* the Quiz question will not be automatically added. 
+1. You can create as many or as few questions as you want for each Quiz.  However, you must give 5 choices (Options A, B, C, D,/ and E) for each question. You can make True or False questions by making Option A = True, Option B = False, and inserting a “-” to fill the other answer choices. Select *“Add Question”* in order to add the question to your Quiz. 
+**NOTE:** If you do not select *“Add Question,”* the Quiz question will not be automatically added. 
  
- 2.	Once your Quiz is complete, click *“Save Quiz.”*
+2. Once your Quiz is complete, click *“Save Quiz.”*
  
- 3.	Make sure that the *“Quiz”* box is always checked in the original New Step panel, otherwise the Quiz may not show up. 
+3. Make sure that the *“Quiz”* box is always checked in the original New Step panel, otherwise the Quiz may not show up. 
  
- 4.	You can always return to the Quiz to add questions. NOTE: Once you select *“Next Question,”* you cannot go back or save the Quiz until you have filled it out.
+4. You can always return to the Quiz to add questions. 
+**NOTE:** Once you select *“Next Question,”* you cannot go back or save the Quiz until you have filled it out.
  
- ### General Guidelines for Steps and Courses
- Below is a list of general guidelines for Steps and Courses.
+### General Guidelines for Steps and Courses
+Below is a list of general guidelines for Steps and Courses.
 
- * Aim to have between 6-10 Steps for each Course, although this will vary depending on the nature of the Course, i.e., if it is for school, general knowledge, professional development, etc. There are examples of Courses of 40-50 Steps which is applicable and needed in those cases. However, Courses should have a minimum of at least five Steps.
+* Aim to have between 6-10 Steps for each Course, although this will vary depending on the nature of the Course, i.e., if it is for school, general knowledge, professional development, etc. There are examples of Courses of 40-50 Steps which is applicable and needed in those cases. However, Courses should have a minimum of at least five Steps.
  
- * The number of Resources per Course can also vary. However, they should be comprehensive enough to provide thorough knowledge on the subject, offer a variety of “real-world” examples and/or case studies, include some possible activities or thought-provoking discussion questions, and make a smooth transition to the next Step. Try to include a mix of media as well, i.e. videos, audio, photographs.
+* The number of Resources per Course can also vary. However, they should be comprehensive enough to provide thorough knowledge on the subject, offer a variety of “real-world” examples and/or case studies, include some possible activities or thought-provoking discussion questions, and make a smooth transition to the next Step. Try to include a mix of media as well, i.e. videos, audio, photographs.
  
- * As an alternative to creating a Quiz, you can also assign a paper for Learners to upload. Just type the paper assignment in the instruction box for Learners to view.
+* As an alternative to creating a Quiz, you can also assign a paper for Learners to upload. Just type the paper assignment in the instruction box for Learners to view.
  
- * If you change your mind and want to create a Quiz instead of a paper or vice versa, you can switch by going to the *“Edit Step”* tab.
+- If you change your mind and want to create a Quiz instead of a paper or vice versa, you can switch by going to the *“Edit Step”* tab.
  
- ### Managing a Course
- Below are tips for managing a Course.
+### Managing a Course
+Below are tips for managing a Course.
  
- * You can always make changes to the Course by going to the “Courses” tab and clicking on “Manage.” 
+* You can always make changes to the Course by going to the “Courses” tab and clicking on “Manage.” 
  
- ![](uploads/images/managecourse.png)
+![](uploads/images/managecourse.png)
  
- * To see what your Learners see, click on *“View Course.”* You can also go to *“My Home”* and access the Course in the *“My Courses”* bar to view the Course as a Learner.
+- To see what your Learners see, click on *“View Course.”* You can also go to *“My Home”* and access the Course in the *“My Courses”* bar to view the Course as a Learner.
  
- * You can invite a specific Learner to join the Course or a whole grade level by clicking on *“Invite Members.”*
+- You can invite a specific Learner to join the Course or a whole grade level by clicking on *“Invite Members.”*
  
- * If a Learner has requested to join a Course you will receive an email in your inbox (located at the bottom menu on the *“My Home”* page) asking you to accept. 
+- If a Learner has requested to join a Course you will receive an email in your inbox (located at the bottom menu on the *“My Home”* page) asking you to accept. 
  
- * To track your Learners’ completion and score on Quizzes, go to *“Progress.”*
+- To track your Learners’ completion and score on Quizzes, go to *“Progress.”*
 
 
 ## Members Menu
