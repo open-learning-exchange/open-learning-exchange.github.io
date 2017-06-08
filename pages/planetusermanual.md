@@ -412,3 +412,9 @@ Feedback allows Learners to provide feedback on the currently open page. Feedbac
 Learners can give feedback for any page or Resource at any time by click on “Feedback” and filling out the information in the form shown below.  When finished, click “Submit” to send feedback to OLE.
 
 ![](uploads/images/planet_feedback.png)
+
+## Language Overview
+### _How do I change the Language?_
+
+Learners can change the language of the PLANET system at any time by going to the Home page and selecting the language pull down menu  from in the top right corner.
+![](uploads/images/Planet_Language.png)
