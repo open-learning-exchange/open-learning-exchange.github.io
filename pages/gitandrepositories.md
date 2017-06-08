@@ -65,7 +65,7 @@ upstream  https://github.com/open-learning-exchange/open-learning-exchange.githu
 ```
 
 ### Sync your fork
-Then, use the command `git fetch upstream` to fetch branches from the upstream repository (in this case, it is open-learning-exchange.github.io). *If there are any errors, please check for typos from previous step. If so, use `git remote rm upstream` and add the repo in upstream again*. Next, check your fork's master branch with `git checkout master`. You should see some variation on this response:
+Then, use the command `git fetch upstream` to fetch branches from the upstream repository (in this case, it is open-learning-exchange.github.io). *If there are any errors, please check for typos from previous step. If so, use `git remote rm upstream` and add the repo in upstream again*. Next, check your fork's master branch with `git checkout master`. You should see some variation of this response:
 
 ```
 EmilyLarkin.github.io $ git fetch upstream
