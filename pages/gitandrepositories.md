@@ -108,6 +108,7 @@ This process needs to be repeated whenever you begin to work, to make sure that 
 
 ### Summary
 Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
+
 1. Clone your Githib respoitory username.github.io
 - Copy the HTTPS or SSH link from your repository on the Github site
 - On the command line, type `git clone *paste your HTTPS or SSH link here*`
