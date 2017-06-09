@@ -2,16 +2,17 @@
 ## Mobile Intern Mission
 As a Take Home/Mobile Intern your primary job is to improve the Take Home application while making it easier for newer interns to make progress on the Take Home application. This idea is the core thought you should have day-to-day. You should ask yourself these two questions whenever you dedicate some work hours towards your internship.
 
-“How can I improve the Take Home application today?”
+* “How can I improve the Take Home application today?”
 
-“How can I make it easier for new interns to make progress on the Take Home Application?”
+* “How can I make it easier for new interns to make progress on the Take Home Application?”
 
 If the things you do during your short time here can answer both of these questions, you will be a great asset to the mobile team.
 
 ## How to improve the Take Home Application
 Improving the Take Home Application is a lot easier to say then to actually do. Once you dive into fixing an issue you will understand what I mean. You can accomplish this in two different ways.
 
-1.	You can solve an issue already created in the [Take Home GitHub](https://github.com/open-learning-exchange/take-home/issues). 
+1.	You can solve an issue already created in the [Take Home GitHub](https://github.com/open-learning-exchange/take-home/issues).
+
 2.	You can create a new issue and solve it.
 
 Solving an already created issue is fairly straight forward. Creating a new issue and solving it can be done in a variety of ways. Getting the Take Home application up and [running in the Android Studio](takeHomeAndroidStudioSetup.md) should be your first step. Then simply mess around with the application. If you find any issues or improvements either to the UI or functionality, create a new issue and try to solve it.
