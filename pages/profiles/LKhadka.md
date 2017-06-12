@@ -5,7 +5,8 @@
 
 Hi, everyone! I am a sophomore at University of Louisiana at Monroe majoring in Computer Science.
 
-I am interested in programming especially web development. I have learned a few languages for it such as:
+I am interested in programming especially web development. I have learned a few languages for it such as:  
+
 * HTML
 ```html
 <h1>Hello World in HTML!</h1>
@@ -33,15 +34,8 @@ ReactDOM.render(
   <h1>Hello World in React!</h1>,
   document.getElementsByTagName('body')[0]
 );
-```
-* and now _Markdown!_
+``` 
 
-| Markdown    | is      | pretty   | cool!     |
-| -----------:|---------|:--------:|----------:|
-| hello       | world   | in       | Markdown! |
-| markdown    | is      | easy to  | learn!    |
-| it          | renders | to       | HTML!     |
- 
 I started my journey to learn web development through [_freeCodeCamp's_ challenges](https://www.freecodecamp.com) and you can find my profile [**here**](https://www.freecodecamp.com/lkhadka).
  
 I am looking forward to work with everyone at OLE!
