@@ -7,19 +7,19 @@ Hi, everyone! I am a sophomore at University of Louisiana at Monroe majoring in 
 
 I am interested in programming especially web development. I have learned a few languages for it such as  
 
-1. HTML
+### HTML
 ```html
 <h1>Hello World in HTML!</h1>
 ```
 
-2. CSS
+### CSS
 ```css
 body::after {
   content: 'Hello World in CSS!'
 }
 ```
 
-3. Javascript
+### Javascript
 ```javascript 
 let msg = `
            Hello World in Javascript!
@@ -28,7 +28,7 @@ let msg = `
 console.log(msg);
 ```
 
-4. React
+### React
 ```javascript
 ReactDOM.render(
   <h1>Hello World in React!</h1>,
