@@ -413,6 +413,13 @@ Learners can give feedback for any page or Resource at any time by click on “F
 
 ![](uploads/images/planet_feedback.png)
 
+## Language Overview
+### _How do I change the Language?_
+
+Learners can change the language of the PLANET system at any time by going to the Home page and selecting the language pull down menu  from in the top right corner.
+
+![](uploads/images/Planet_Language.png)
+
 ## Calendar Overview
 ### _What is the calendar and How do I add an Event?_
 
@@ -429,5 +436,4 @@ Fill in the information for the Event as shown below. When finished, click “Ad
 
 
 ![](uploads/images/Calendar_AddEvent1.png)
-
 
