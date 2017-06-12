@@ -5,7 +5,8 @@
 
 Hi, everyone! I am a sophomore at University of Louisiana at Monroe majoring in Computer Science.
 
-I am interested in programming especially web development. I have learned a few languages for it such as:  
+I am interested in programming especially web development. I have learned a few languages for it such as  
+
 
 * HTML
 ```html
