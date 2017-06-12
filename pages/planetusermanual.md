@@ -412,3 +412,22 @@ Feedback allows Learners to provide feedback on the currently open page. Feedbac
 Learners can give feedback for any page or Resource at any time by click on “Feedback” and filling out the information in the form shown below.  When finished, click “Submit” to send feedback to OLE.
 
 ![](uploads/images/planet_feedback.png)
+
+## Calendar Overview
+### _What is the calendar and How do I add an Event?_
+
+The Calendar allows Leaders and Learners to organize and view Meetups and Events. The Learner can access his or her Calendar from the Home page Dashboard by clicking on “Calendar” to view and add Events. 
+
+![](uploads/images/Planet_Calendar.png)
+
+Click on “Add Event” in the top left corner to create a new Event. 
+
+
+![](uploads/images/Calendar_AddEvent.png)
+
+Fill in the information for the Event as shown below. When finished, click “Add Event.”
+
+
+![](uploads/images/Calendar_AddEvent1.png)
+
+
