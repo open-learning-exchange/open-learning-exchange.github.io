@@ -437,3 +437,20 @@ Fill in the information for the Event as shown below. When finished, click “Ad
 
 ![](uploads/images/Calendar_AddEvent1.png)
 
+## Email Overview
+
+### _How do I send and receive an email on the PLANET system?_
+
+The Email button displays the number of new messages in the Learner’s Inbox. After clicking Email, the Learner will see his or her Inbox. To send email to another user on the system click the “Email” button on the Dashboard. 
+
+![](uploads/images/Email1.png)
+
+To receive an email, click “Email” and then click “View” to read the email. 
+
+![](uploads/images/Email2.png)
+
+To send an email, click “Compose.” Add the recipients and fill in the email subject. Write your message and click “Send.”
+
+![](uploads/images/Email3.png)
+
+![](uploads/images/Email4.png)
