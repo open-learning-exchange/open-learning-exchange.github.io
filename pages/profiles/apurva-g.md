@@ -1,0 +1,14 @@
+## Profile
+
+### Hello, my name is **Apurva**
+
+### I live in *Boston, MA*
+
+#### Eastern Time zone
+
+##### I use **Mac OS X Yosemite version 10.10.5**
+
+###### Brief Introduction:
+I am a graduate student at Boston University, studying Master of Science in Computer Science.
+I am interested in web-based application development. Before pursuing my graduate studies I completed my undergraduate studies in Computer Science and Engineering. 
+I believe myself as a quick learner. I spend my free time playing badminton, biking and reading fictional books. I like to be called as Apurva.
