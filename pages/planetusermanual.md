@@ -453,4 +453,4 @@ To send an email, click “Compose.” Add the recipients and fill in the email 
 
 ![](uploads/images/Email3.png)
 
-![](uploads/images/Email4.png)
+![](uploads/images/Email.png)
