@@ -31,7 +31,7 @@ OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Libra
 As a part of this internship you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js. 
 
 #### Q3: Where can I find more information about this internship?
-More information about the internship can be found here: http://www.indeed.com/jobs?q=%22virtual+software+engineer+intern%22&l=Cambridge%2C+MA
+More information about the internship can be found [here](http://www.indeed.com/jobs?q=%22virtual+software+engineer+intern%22&l=Cambridge%2C+MA).
 
 #### Q4: What are the hours of the internship?
 This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat). 
@@ -64,7 +64,7 @@ First of all, you have to access the BIOS. To do that, you need to reboot your c
 Please make sure you’re using Firefox, as our BeLL software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the BeLL and logging back in, then go back to the survey. If that doesn’t work, log out of the BeLL, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Gitter chat](http://gitter.im/open-learning-exchange/chat). 
 
 #### Q13: Why does Firefox say “Unable to connect” when I try to load my community?
-Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual BeLL user interface. 
+Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and [click here](127.0.0.1:5985/apps/design/bell/MyApp/index.html) to navigate the actual BeLL user interface. 
 
 #### Q14: When I first run BeLL with the "vagrant up" command the download fails, why?
 You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar :
@@ -91,7 +91,7 @@ vagrant up
 You now have a working communityBeLL on your OS. 
 
 #### Q15: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?
-You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm. 
+You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm. 
 
 #### Q16: What do I do if I already have a github.io with my username? 
 You have a couple of options.
