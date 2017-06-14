@@ -64,7 +64,7 @@ First of all, you have to access the BIOS. To do that, you need to reboot your c
 Please make sure you’re using Firefox, as our BeLL software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the BeLL and logging back in, then go back to the survey. If that doesn’t work, log out of the BeLL, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Gitter chat](http://gitter.im/open-learning-exchange/chat). 
 
 #### Q13: Why does Firefox say “Unable to connect” when I try to load my community?
-Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and [127.0.0.1:5985/apps/_design/bell/MyApp/index.html](127.0.0.1:5985/apps/_design/bell/MyApp/index.html) to navigate the actual BeLL user interface. 
+Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and [click here](127.0.0.1:5985/apps/_design/bell/MyApp/index.html) to navigate the actual BeLL user interface. 
 
 #### Q14: When I first run BeLL with the "vagrant up" command the download fails, why?
 You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar :
