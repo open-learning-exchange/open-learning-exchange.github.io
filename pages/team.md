@@ -24,6 +24,8 @@
 |[snazzybunny](profiles/snazzybunny.md)| 20170511 |
 |[duongdo27](profiles/duongdo.md)| 20170512 |
 |[aurinsomnia](profiles/aurinsomnia.md)| 20170525 |
+|[kanishk1010](profiles/kanishk1010.md)| 20170610 |
+|[ChenjieZhou](profiles/ChenjieZhou.md)| 20170610 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
