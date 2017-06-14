@@ -437,3 +437,112 @@ Fill in the information for the Event as shown below. When finished, click “Ad
 
 ![](uploads/images/Calendar_AddEvent1.png)
 
+## Survey Overview
+
+### _What is a Survey?_
+A Survey is a tool that allows Leaders and/or Managers  to ask a question or a series of questions to a set of users in order to gather information. It can also be used as an examination tool outside of the Course functionality if needed.
+
+### _How do I create a Survey?_
+Follow these steps to create a Survey:
+1. Log in to the Nation as a Manager. IMPORTANT: Surveys can ONLY be created on the Nation.
+2. Click “Manager.” 
+
+![](uploads/images/survey1.png)
+
+3. Select “Surveys.”
+
+![](uploads/images/survey2.png)
+
+4. Click “Add Survey.”
+
+![](uploads/images/survey3.png)
+
+5. The New Survey page automatically includes the Date and Survey Number. Please name your Survey and click “Save.”
+
+![](uploads/images/survey4.png)
+
+6. To add a question, click “Add Question.” You can create as many questions as you prefer in any type.
+
+![](uploads/images/survey5.png)
+
+The types of questions you can add are:  
+###### * Multiple Choice (Single Answer)
+###### * Rating Scale 
+###### * Single Textbook 
+###### * Comment, Essay Box
+
+###  Multiple Choice (Single Answer):
+* For multiple choice questions, write the question in the first box. In the second box, add each answer on a separate line without numbering or lettering the options.
+* You can choose if it is mandatory or optional for all recipients to answer the question. To make the question mandatory check the “Require Answer to Question” box as shown below.
+* Click “Save Question.” 
+
+![](uploads/images/survey6.png)
+
+### Rating Scale:
+* This option allows you to add a scale from 1 to 10.
+* Select the number of ratings as shown below and add a label for each rating.
+* Decide if the question will be mandatory or optional. To make the question manadatory, check the “Require Answer to Question” box as shown below.
+* Click “Save Question.”
+
+![](uploads/images/survey7.png)
+
+### Single Textbook:
+* Write your question in the box.
+* Decide if the question will be mandatory or optional. To make the question mandatory, check the “Require Answer to Question” box as shown below.
+* Click “Save Question.”
+
+![](uploads/images/survey8.png)
+
+### Comment, Essay Box:
+* Write your question in the box and then click “Save”.
+* Decide if the question will be mandatory or optional. To make the question mandatory, check the “Require Answer to Question” box as shown below.
+* Click “Save Question.”
+
+![](uploads/images/survey9.png)
+
+7. After you have created your Survey, it is ready to send to your Learners. You have two ways to send your Survey: **_Send by criteria_** or **_Send to PLANET members_**
+
+![](uploads/images/survey10.png)
+
+### Send by criteria:
+* “Send by criteria” allows you to select different options to sort members based on gender, age, and role.
+* Select at least one category from each section. You can also click “Select All” to select all categories.
+* Click “Send.”
+
+![](uploads/images/survey11.png)
+
+### Send to PLANET members: 
+* “Send to PLANET members” allows you to select the Communities where you wish to send the Survey.
+* Select at least one Community. You can also click “Select All” to select all Communities.
+* Click “Send.”
+
+![](uploads/images/survey12.png)
+
+### How do I receive a Survey on my Community?
+1. Once a Survey is completed the Manager must update the Community. Log in to your Community as a Manager. You will see the gray “Survey” button with red lettering on the Dashboard. The number of Surveys is displayed in the button. Click the “Survey” button.
+
+![](uploads/images/survey13.png)
+
+2. Click “Download” on any Surveys that say “New” to receive the Survey. 
+
+![](uploads/images/survey14.png)
+
+3. Click “Open” after the download is complete. While you will not be able to take the Survey using “Open,” you will be able to see the Survey questions that have been distributed to your Community. 
+
+![](uploads/images/survey15.png)
+
+4. The Survey window will appear on your screen the same way it will appear to the Learners as shown below.
+
+![](uploads/images/survey16.png)
+
+5. When Learners login to their account, they will see the Survey button with red lettering.
+
+![](uploads/images/survey17.png)
+
+6. After a Learner clicks on the Survey button, they will see that there is a Survey ready to open. 
+
+![](uploads/images/survey18.png)
+
+7. When the Learner clicks “Open,” they can now take the Survey. When the Survey is complete, the Learner can click “Submit.”
+
+![](uploads/images/survey19.png)
