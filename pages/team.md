@@ -3,51 +3,51 @@
 |**Username**|**Join Date**|
 |------------|-------------|
 |**➤ Volunteers**||
-|[mappuji](profiles/mappuji.md) (**ex-intern**)| 20170429 |
+|[mappuji](profiles/mappuji.md) (**ex-intern**)| 2017-04-29 |
 |**➤ Interns**||
-|[hikaruit15](profiles/hikaruit15.md)| 20161117 |
-|[hannahgdubin](profiles/hannahgdubin.md)| 20170101 |
-|[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 20170219 |
-|[sarvanivadali](profiles/sarvanivadali.md)| 20170223 |
-|[Chris-Boe](profiles/Chris-Boe.md)| 20170226 |
-|[paulbert](profiles/paulbert.md) (**Intern Lead**)| 20170308 |
-|[i5o](profiles/i5o.md) (**Intern Lead**)| 20170308 |
-|[blakedelee](profiles/BlakeDeLee.md)| 20170322 |
-|[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 20170331 |
-|[kylemathias](profiles/kylemathias.md) (**Mobile Intern Lead**)| 20170331 |
-|[zeivhann](profiles/zeivhann.md) (**Mobile Intern Lead**)| 20170401 |
-|[Supriyaranjan](profiles/Supriyaranjan.md)| 20170404 |
-|[praneetharra](profiles/praneetharra.md)| 20170421 |
-|[shahswet](profiles/shahswet.md)| 20170501 |
-|[Yurockkk](profiles/Yurockkk.md)| 20170505 |
-|[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 20170510 |
-|[snazzybunny](profiles/snazzybunny.md)| 20170511 |
-|[duongdo27](profiles/duongdo.md)| 20170512 |
-|[aurinsomnia](profiles/aurinsomnia.md)| 20170525 |
-|[kanishk1010](profiles/kanishk1010.md)| 20170610 |
-|[ChenjieZhou](profiles/ChenjieZhou.md)| 20170610 |
+|[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 |
+|[hannahgdubin](profiles/hannahgdubin.md)| 2017-01-01 |
+|[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 2017-02-19 |
+|[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 |
+|[Chris-Boe](profiles/Chris-Boe.md)| 2017-02-26 |
+|[paulbert](profiles/paulbert.md) (**Intern Lead**)| 2017-03-08 |
+|[i5o](profiles/i5o.md) (**Intern Lead**)| 2017-03-08 |
+|[blakedelee](profiles/BlakeDeLee.md)| 2017-03-22 |
+|[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 |
+|[kylemathias](profiles/kylemathias.md) (**Mobile Intern Lead**)| 2017-03-31 |
+|[zeivhann](profiles/zeivhann.md) (**Mobile Intern Lead**)| 2017-04-01 |
+|[Supriyaranjan](profiles/Supriyaranjan.md)| 2017-04-04 |
+|[praneetharra](profiles/praneetharra.md)| 2017-04-21 |
+|[shahswet](profiles/shahswet.md)| 2017-05-01 |
+|[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 |
+|[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 |
+|[snazzybunny](profiles/snazzybunny.md)| 2017-05-11 |
+|[duongdo27](profiles/duongdo.md)| 2017-05-12 |
+|[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 |
+|[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 |
+|[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
-|[mappuji](profiles/mappuji.md) (**Intern Lead**)| 20170122 |20170529 |
-|[𝖂𝖆𝖗𝖞𝖍𝖊𝖗𝖒𝖎𝖙](profiles/waryhermit.md) (**Intern Lead**)| 20161213 | 20170428 |
-|[FanisGk](profiles/FanisGk.md)| 20160801 | 20170131 |
-|[prmurphy](profiles/prmurphy.md)| 20161023 | 20170131 |
-|[aberdean](profiles/aberdean.md) (**Intern Lead**)| 20160904 | 20161223 |
-|[IshanSoni](profiles/IshanSoni.md)| 20161220 | 20161220 |
-|[mepda](profiles/mepda.md)| 20161020 | 20161218 |
-|[EmilyLarkin](profiles/EmilyLarkin.md) (**Intern Lead**)| 20160301 | 20160831 |
-|[DrewPerlman](profiles/DrewPerlman.md) (**Intern Lead**)| 20160620 | 20160814 |
-|[xinglunxu](profiles/xinglunxu.md)| 20160520 | 20160527 |
-|[fsjoyti](profiles/fsjoyti.md)| 20160523 | 20160602 |
-|[ctl74100](profiles/ctl74100.md)| 20160603 | 20160811 |
-|[AdityaNair99](profiles/AdityaNair99.md)| 20160529 | 20160608 |
-|[Hulmani](profiles/Hulmani.md)| 20160701 | 20160706 |
-|[sthak004](profiles/sthak004.md)| 20160629 | 20160714 |
-|[Neha1990](profiles/Neha1990.md)| 20160712 | 20160926 |
-|[cw-lin](profiles/cw-lin.md)| 20160722 | 20160914 |
-|[epistulae](profiles/epistulae.md)| 20160601 | 20160701 |
-|[pranesh-s](profiles/pranesh-s.md)| 20160525 | 20160603 |
-|[314159265359](profiles/314159265359.md)| 20160523 | 20160603 |
-|[fangninghe](profiles/fangninghe.md)| 20170123 | 20170123 |
+|[mappuji](profiles/mappuji.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
+|[𝖂𝖆𝖗𝖞𝖍𝖊𝖗𝖒𝖎𝖙](profiles/waryhermit.md) (**Intern Lead**)| 2016-12-13 | 2017-04-28 |
+|[FanisGk](profiles/FanisGk.md)| 2016-08-01 | 2017-01-31 |
+|[prmurphy](profiles/prmurphy.md)| 2016-10-23 | 2017-01-31 |
+|[aberdean](profiles/aberdean.md) (**Intern Lead**)| 2016-09-04 | 2016-12-23 |
+|[IshanSoni](profiles/IshanSoni.md)| 2016-12-20 | 2016-12-20 |
+|[mepda](profiles/mepda.md)| 2016-10-20 | 2016-12-18 |
+|[EmilyLarkin](profiles/EmilyLarkin.md) (**Intern Lead**)| 2016-03-01 | 2016-08-31 |
+|[DrewPerlman](profiles/DrewPerlman.md) (**Intern Lead**)| 2016-06-20 | 2016-08-14 |
+|[xinglunxu](profiles/xinglunxu.md)| 2016-05-20 | 2016-05-27 |
+|[fsjoyti](profiles/fsjoyti.md)| 2016-05-23 | 2016-06-02 |
+|[ctl74100](profiles/ctl74100.md)| 2016-06-03 | 2016-08-11 |
+|[AdityaNair99](profiles/AdityaNair99.md)| 2016-05-29 | 2016-06-08 |
+|[Hulmani](profiles/Hulmani.md)| 2016-07-01 | 2016-07-06 |
+|[sthak004](profiles/sthak004.md)| 2016-06-29 | 2016-07-14 |
+|[Neha1990](profiles/Neha1990.md)| 2016-07-12 | 2016-09-26 |
+|[cw-lin](profiles/cw-lin.md)| 2016-07-22 | 2016-09-14 |
+|[epistulae](profiles/epistulae.md)| 2016-06-01 | 2016-07-01 |
+|[pranesh-s](profiles/pranesh-s.md)| 2016-05-25 | 2016-06-03 |
+|[314159265359](profiles/314159265359.md)| 2016-05-23 | 2016-06-03 |
+|[fangninghe](profiles/fangninghe.md)| 2017-01-23 | 2017-01-23 |
