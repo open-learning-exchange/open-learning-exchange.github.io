@@ -1,7 +1,7 @@
 ## Welcome to my page :)
  <br />
 
- - Name: Jyothsna Chowdary Tharigopula
+- Name: Jyothsna Chowdary Tharigopula
 - Location: Boston, MA
 - TimeZone: EST
 - OS: Windows 10 
