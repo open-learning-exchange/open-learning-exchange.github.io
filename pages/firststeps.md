@@ -34,7 +34,7 @@ There is no official deadline to complete these steps, but most candidates who a
 3.We use Crowdin to translate our user interface in many different languages. If you know another language, go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
 
 ## Step 1 - BeLL Installation
-
+[BeLL Installation](https://fdfafdf)
 Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). You can either scroll down to see the instructions or you can also find them in the README.md file. Do not make ANY changes to the text or files: simply read and follow the directions for your operating system.
 
 ## Step 2 - Vagrant Tutorial
