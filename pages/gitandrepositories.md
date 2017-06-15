@@ -106,7 +106,8 @@ Remember, you should repeatedly use the commands `git diff` and `git status` to 
 
 This process needs to be repeated whenever you begin to work, to make sure that you are always up to date. If there are discrepancies, it will mess up the code and you could potentially lose your saved changes, because it was not updated properly. We will provide more information on editing and saving changes in the next tutorial.
 
-If you find yourself needing to rebase your forked repository, the following two links should help
+If you find yourself needing to rebase your forked repository, the following two links should help:
+
 [Rebase](https://git-scm.com/docs/git-rebase)
 [Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 
