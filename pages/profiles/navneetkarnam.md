@@ -25,6 +25,7 @@
 |Languages Known:| English, Hindi, Kannada| 
 |----------------|:-----------------------|
 * * *
+
 ## To know more about me:
 [Linkedin](https://www.linkedin.com/in/navneetkarnam)
 
