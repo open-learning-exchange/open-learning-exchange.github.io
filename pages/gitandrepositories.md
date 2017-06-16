@@ -25,7 +25,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 
 ![GitHub Clone URL](uploads/images/githubcloneurl.png)
 
-Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).
+Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).
 
 ##### Clone with HTTPS or Use SSH?
 Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. As an optional step explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).  
@@ -36,7 +36,7 @@ Now, there are three different Github repository levels: [open-learning-exchange
 
 As you create a fork from the original repository and then clone your forked repository onto your OS, you will need to frequently update the fork so that your fork and clone are not behind. Further, you need to sync your repository on your OS and on GitHub (username. github.io) with the upstream repository (open-learning-exchange.github.io). There are various ways to do this, as explained below.
 
-First, the GitHub help section and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://help.github.com/articles/syncing-a-fork/) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, you need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io.
+First, the GitHub help section and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://help.github.com/articles/syncing-a-fork/) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, following the steps below, you will need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io.
 
 #### Configure a remote for your fork
 To be able to fetch updates from the upstream repository, you need to first configure the upstream repository by following these steps:
@@ -65,7 +65,7 @@ upstream  https://github.com/open-learning-exchange/open-learning-exchange.githu
 ```
 
 ### Sync your fork
-Then, use the command `git fetch upstream` to fetch branches from the upstream repository (in this case, it is open-learning-exchange.github.io). *If there are any errors, please check for typos from previous step. If so, use `git remote rm upstream` and add the repo in upstream again*. Next, check your fork's master branch with `git checkout master`. You should see some variation on this response:
+Then, use the command `git fetch upstream` to fetch branches from the upstream repository (in this case, it is open-learning-exchange.github.io). *If there are any errors, please check for typos from previous step. If so, use `git remote rm upstream` and add the repo in upstream again*. Next, check your fork's master branch with `git checkout master`. You should see some variation of this response:
 
 ```
 EmilyLarkin.github.io $ git fetch upstream
@@ -106,7 +106,8 @@ Remember, you should repeatedly use the commands `git diff` and `git status` to 
 
 This process needs to be repeated whenever you begin to work, to make sure that you are always up to date. If there are discrepancies, it will mess up the code and you could potentially lose your saved changes, because it was not updated properly. We will provide more information on editing and saving changes in the next tutorial.
 
-If you find yourself needing to rebase your forked repository, the following two links should help
+If you find yourself needing to rebase your forked repository, the following two links should help:
+
 [Rebase](https://git-scm.com/docs/git-rebase)
 [Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 
