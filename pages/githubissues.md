@@ -18,7 +18,7 @@ After this, you will then research the possible solutions or ideas on how to add
 
 Every time you start to work on an issue you need to create a branch to keep your work on various issues separate from each other. Before you create your branch, sync your repo following the process in the [previous step](gitandrepositories.md). Then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
 
-Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch branches, the files on your local machine revert back to how they were before you made changes since you are no longer on that branch. 
+Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch branches, the files on your local machine revert back to how they were before you made changes since you are no longer on that branch.
 
 **TIP**: The default branch in your repository is called master. Keeping the master branch clean of any changes is a good practice so if you make any changes you don't want, you may revert back.
 
@@ -38,7 +38,7 @@ For example http://rawgit.com/EmilyLarkin/EmilyLarkin.github.io/master/#!index.m
 ## Create a Pull Request
 If you login to your own fork of OLE on Github, Github will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Press the green button that says Compare & pull request. In this new page, you can change the title and comments for the PR. Once you are done with filling out these forms, submit the pull request by clicking on the green create pull request button.
 
-For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest to include the issue for which the pull request is resolving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request) to the title of your PR and also the rawgit link into the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the rawgit link. 
+For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest to include the issue for which the pull request is resolving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request) to the title of your PR and also the rawgit link into the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the rawgit link.
 
 Additionally, creating a checklist will help others understand what you have done and what needs to be done - it helps you coordinate with your team members with the issues you are facing in an organized manner. Github will render the task list in markdown and will look similar to something like the checklist shown below this paragraph.
 
@@ -67,9 +67,8 @@ After your pull request has been approved and merged by OLE staff, you might wan
 **NOTE**: This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
 ## Useful Links
-[Helpful links and videos](faq.md#Helpful_Links)  
-[Mastering Issues](https://guides.github.com/features/issues/)
+[Mastering Issues](https://guides.github.com/features/issues/) - The official Git Guide on the basics of filing an issue. 
+[Helpful links and videos](faq.md#Helpful_Links)
+
 
 #### Return to [First Steps](firststeps.md)
-
-

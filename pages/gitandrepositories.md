@@ -16,9 +16,9 @@ As previously mentioned, you fork a repository to work on your own GitHub accoun
 This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.
 
 * [Clone your GitHub repository username.github.io](#Clone_your_GitHub_repository_username.github.io)
-* [Read the explanation to understand repositories and syncing process](#Explanation_about_repositories_and_syncing_process)   
-* [Configure a remote for your fork](#Configure_a_remote_for_your_fork)   
-* [Sync your fork](#Sync_your_fork)    
+* [Read the explanation to understand repositories and syncing process](#Explanation_about_repositories_and_syncing_process)
+* [Configure a remote for your fork](#Configure_a_remote_for_your_fork)
+* [Sync your fork](#Sync_your_fork)
 
 ### Clone your GitHub repository username.github.io
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided in the repository (see the picture below).
@@ -28,7 +28,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).
 
 ##### Clone with HTTPS or Use SSH?
-Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. As an optional step explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).  
+Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. As an optional step explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
 ### Explanation about repositories and syncing process
 The previous step created a clone of your repository on your OS.
@@ -95,7 +95,7 @@ If you get something like this,
 #
 # Lines starting with '#' will be ignored, and an empty message aborts
 # the commit.
-~                                                                               
+~
 ~
 ```
 it means that you are in the Vim text editor. Simply type ```:wq``` which stands for **w**rite and **q**uit. However, if you want to insert something you can type "i" and Vim goes into edit mode. To exit edit mode just hit "escape".
@@ -110,17 +110,17 @@ If you find yourself needing to rebase your forked repository, the following two
 [Rebase](https://git-scm.com/docs/git-rebase)
 [Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 
-**NOTE**: while similar, there is a difference between rebasing and merging. Merging takes all changes in one branch and merges onto another branch in one commit. Rebasing moves the branch's starting point to another place. For example, if you rebased your branch to the master branch, then your branch now incorporates all the changes made in the master, and every time master is changed, your branch is changed as well. In contrast, merging is a one-time change. 
- 
-For more info on differences of merging vs. rebasing (and when to use which one), [check this out](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) 
- 
+**NOTE**: while similar, there is a difference between rebasing and merging. Merging takes all changes in one branch and merges onto another branch in one commit. Rebasing moves the branch's starting point to another place. For example, if you rebased your branch to the master branch, then your branch now incorporates all the changes made in the master, and every time master is changed, your branch is changed as well. In contrast, merging is a one-time change.
+
+For more info on differences of merging vs. rebasing (and when to use which one), [check this out](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
  If you would like to understand how syncing with the fork works, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
 ## Useful links
-[Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)  
-[Sync fork](https://help.github.com/articles/syncing-a-fork/)  
-[GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)  
-[Git help](https://git-scm.com/)  
+[Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) - You can sync changes made in the original repository with a fork.
+[Sync fork](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
+[GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - An Introduction to Git and Github for beginners from Hubspot.
+[Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations. 
 [Other helpful links and videos](faq.md#Helpful_Links)
 
 #### Return to [First Steps](firststeps.md)
