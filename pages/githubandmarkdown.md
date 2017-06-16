@@ -26,6 +26,8 @@ If you want more practice using Markdown, check out [this site](http://www.markd
 
 The main GitHub page used to store this MD Wiki can be found at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and our virtual interns will essentially create their own Markdown Wiki repository as a copy of open-learning-exchange.github.io.
 
+In order to work on step3 and step5, please stay in the directory, "username.github.io". If you stay in the other directory, you might fail to do step3 and step5.
+
 ## Start here
 This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.  
 
