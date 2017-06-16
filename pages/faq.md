@@ -91,7 +91,9 @@ vagrant up
 You now have a working communityBeLL on your OS. 
 
 #### Q15: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?
-You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm. 
+You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter  
+```https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings```  
+in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm. 
 
 #### Q16: What do I do if I already have a github.io with my username? 
 You have a couple of options.
