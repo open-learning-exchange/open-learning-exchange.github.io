@@ -1,4 +1,4 @@
-# Project Title : HTML Resources
+# HTML Resources 
 
 ## Objective
 Understanding of Couchdb database, Couchapp.
@@ -9,10 +9,15 @@ Adding resources to bell app library and make Bell much more interesting and int
 Documentation helps to understand overall progress of project. Visit following link to learn more about it.
 [Documentation](https://docs.google.com/document/d/1aAzah833gWCQ2hWtGyMJLIK83nmunPJn42bnliLrxDk/edit?usp=sharing) and [Tips & Tricks](https://docs.google.com/document/d/1d5HZYSkiNKn0WCYAjAd3tvSC8QlBbyECnvhRqCphT4c/edit)
 
-## Porting HTML App to CouchApp
+## Porting HTML App to CouchApp: 2 methods
+
+The first way (which is a bit trickier and has more steps) will help you learn about how couchDB works, and how HTML apps work. After you familiarize yourself with that, the second way makes it easier because you can directly upload HTML apps to your BeLL app. Make sure to do method 1 before moving onto method 2. 
+
+## Method 1: Using CouchDB and CouchApp
 
 Prerequisites:
 
+* Python2 with pip and setuptools
 * [Couchapp](htmlresources.md#Couchapp_Installation)
 * Couchdb Instance
 * Desired JavaScript/HTML application
@@ -31,9 +36,20 @@ sudo python setup.py install
 ```
 
 _Note:_
-If you get an error message, `ImportError: No module named setuptools`, then we
-need to install  [setuptools](https://pypi.python.org/pypi/setuptools) first.
-This is a [common issue](https://www.google.com/search?num=100&q=ImportError:+No+module+named+setuptools), but easily solved.
+If you get the error message that includes the line, `The program 'python' can be found in the following packages:`, then Python2 is not installed. To fix this you need to install the python package along with pip.
+
+Enter the command: 
+
+`> sudo apt-get install python` 
+
+That should install python but you also need to install the package manager called pip, by typing:
+
+`> sudo apt-get install python-pip`
+
+Pip allows you to install the needed setuptools dependency for Couchapp but it also lets you install many more useful Python packages.
+
+_Note:_
+If you get an error message, `ImportError: No module named setuptools`, then we need to install  [setuptools](https://pypi.python.org/pypi/setuptools) first. This is a [common issue](https://www.google.com/search?num=100&q=ImportError:+No+module+named+setuptools), but is easily solved.
 
 The following command should take care of this:
 
@@ -48,7 +64,7 @@ Installing a package may need elevated privileges, so if you are receiving a per
 `> sudo pip install setuptools`
 
 #### Windows
-There are two possible methods for installing python, method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file.
+There are two possible methods for installing python. Method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file. Method 2 is easier because it only requires one step, and the .exe file installs all necessary files for you. 
 
 *Method 1*  
 
@@ -69,7 +85,7 @@ python setup.py build
 python setup.py install
 ```
 
-NOTE:
+Note:
 Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the Gitter chat, and we'll do our best to help you.
 
 *Method 2*
@@ -202,8 +218,25 @@ Finally, push your app to the nation by clicking `Add to Nation`.
 
 ![finalstep2](uploads/images/Final_Step_2.png)
 
-## Useful Links
+#### Useful Links
 [What is Couchapp?](http://couchapp.readthedocs.io/en/latest/intro/what-is-couchapp.html)  
 [About CouchDB](http://couchdb.apache.org/)  
 [HTML5-Demos and Examples](http://html5demos.com/)  
 [HTML5 Apps-Open Source](https://github.com/leereilly/games#user-content-arcade)
+___
+## Method 2: uploading a zip file directly to the BeLL app
+
+There is another way to upload an HTML app. Once you have downloaded the app to your computer, unzip it if it is zipped, and check if there are unnecessary files in the app (.git folder, node_modules, bower). If you're not sure, leave it in, but more files means longer upload. You won't always have these files- most of the time the .git folder only exists if you cloned a repository from GitHub or if it's a repository you created.
+
+For Windows users, some folders may be hidden, so to show any hidden folders, follow the directions [here](https://support.microsoft.com/en-us/help/14201/windows-show-hidden-files).
+
+Now you can zip the contents of your app. Select all files in your app and zip them into a folder. Be careful here- make sure you *don't* put the files into a folder and zip the folder. You must instead select all the files and zip those. 
+
+Once you have your zip folder, add your app as a resource like you did during the intern application process, but select HTML under Open and put the file name of the main page (i.e. index.html) in Open Which File like below:
+
+![addzipfile](uploads/images/htmlresources.png)
+
+Click save. Adding to your community will take some time (30 seconds - 5 minutes). Pushing to the nation will take even longer depending on your internet connection.
+
+Post to gitter if it won't add to your community. Also check to see if index.html opens up the working app on your local machine. If it does, then you can always use method 1 to upload.  
+

@@ -82,6 +82,8 @@ If you need to edit your file again, just click the pencil icon to edit (as show
 
 Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/profiles/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
+**NOTE**: If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incongito"** or **"privacy"** mode.
+
 ### Open a pull request
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Finally, click `Create pull request` and someone from our team will review the changes. Often there will be some feedback from the reviewer at this point for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will automatically affect the pull request. Once everything looks good, the reviewer will merge your page with the main repository.
 
