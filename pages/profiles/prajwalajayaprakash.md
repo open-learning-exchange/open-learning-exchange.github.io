@@ -1,5 +1,5 @@
 # *Prajwala Jayaprakash*               
-![](http://imagizer.imageshack.us/v2/320x240q90/924/vsjBm6.png)          
+          
  * Lives in New Paltz, New York
  * Eastern Time Zone
  * Using Windows 10
