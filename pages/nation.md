@@ -43,7 +43,7 @@ Then, you should see a list of communities and the option to generate a report i
 ## Different Kinds of Update
 Above is the usual syncing process from the community side. There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys.  
 
-As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see two publications ready to be downloaded. 
+As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see  publication(s) ready to be downloaded. 
 
 ![Update from the nation](uploads/images/update_publications.png)
 
