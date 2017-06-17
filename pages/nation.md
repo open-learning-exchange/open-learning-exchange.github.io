@@ -45,7 +45,7 @@ Above is the usual syncing process from the community side. There are three othe
 
 As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see two publications ready to be downloaded. 
 
-![Update from the nation](uploads/images/update_publications.png)
+![Update from the nation](uploads/images/update_publication.jpg)
 
 First, click the "Update Available" button and it will reload your homepage with a successful update message. An update refers to a new software update which improves the software. Next, click on "Publications", under the Manager page, and sync the publications. Publications add new resources or courses to your library. Last, repeat the process of sending an activities sync to the nation.
 
