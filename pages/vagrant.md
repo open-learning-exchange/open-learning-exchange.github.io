@@ -68,7 +68,7 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
 ---------------------------------------------------------------------------
 
 After installing a community BeLL on your OS, you will need to follow these instructions to use your community BeLL. Vagrant only works when you are in the same directory where your Vagrantfile is located. To make sure you are in the proper directory, open your `Terminal` and type `cd ole--vagrant-vi`.
-Now that you are in the right directory, check the status of your Vagrant machine with `vagrant global-status`. You should have the following message:
+Now that you are in the right directory, check the status of your Vagrant machine with `vagrant global-status`. You should have something similar to the following message:
 
 ```
 id       name   provider   state   directory
@@ -82,7 +82,7 @@ that directory and run Vagrant, or you can use the ID directly
 with Vagrant commands from any directory. For example:
 "vagrant destroy 1a2b3c4d"
 ```
-If you have a different message, either your Vagrant machine is powered off, or you have multiple machines with the same name, or you are experiencing some other technical issue.
+If you have a message which doesn't look like this, either your Vagrant machine is powered off, or you have multiple machines with the same name, or you are experiencing some other technical issue.
 
 If your Vagrant machine is powered off, use `vagrant up` to turn it on. To shut down your machine, use `vagrant halt`. Both of these commands need to be issued within the right directory. To destroy your machine entirely, use `vagrant destroy`. Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.
 
