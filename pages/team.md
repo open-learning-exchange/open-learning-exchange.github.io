@@ -26,6 +26,7 @@
 |[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 |
 |[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 |
 |[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 |
+|[adhikara](profiles/adhikara.md)| 2017-06-16 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
