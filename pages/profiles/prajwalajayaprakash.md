@@ -32,12 +32,17 @@ prajwalajayaprakash-patch-1
 
 Here are some pictures of my projects!
 
+1. AI Ping Pong Game
 
-![](http://imagizer.imageshack.us/v2/320x240q90/923/gIJX2m.jpg "AI Ping Pong Game")                         ![](http://imagizer.imageshack.us/v2/320x240q90/922/FGJE37.png "GetWeather - Internet of Things")
+![AI Ping Pong Game](http://imagizer.imageshack.us/v2/320x240q90/923/gIJX2m.jpg "AI Ping Pong Game")
 
-Also the video link to my AI Ping Pong Game project!
-<a href = "https://www.youtube.com/watch?v=U8WY22tRkAg">Ping Pong Game </a>
-> 
+2. GetWeather - Internet of Things
+
+![GetWeather - Internet of Things](http://imagizer.imageshack.us/v2/320x240q90/922/FGJE37.png "GetWeather - Internet of Things")
+
+
+Also the [video link](https://www.youtube.com/watch?v=U8WY22tRkAg) to my AI Ping Pong Game project.
+
  
 
    
