@@ -119,13 +119,13 @@ index bf400c0..fc7380b 100644
 @@ -1,5 +1 @@
  What is this?
 ```
-What does `diff --git a/<file name>.md b/<file name>.md` mean?  
+**What does `diff --git a/<file name>.md b/<file name>.md` mean?**  
 
-Our diff compares two items with each other: item A and item B. In most cases, A and B will be the same file, but in different versions.To make clear what is actually compared, a diff output always starts by declaring which files are represented by "A" and "B".
+**Answer:** Our diff compares two items with each other: item A and item B. In most cases, A and B will be the same file, but in different versions.To make clear what is actually compared, a diff output always starts by declaring which files are represented by "A" and "B".  
 
-What does `--- a/<file name>.md` and `+++ b/<file name>.md` mean?  
+**What does `--- a/<file name>.md` and `+++ b/<file name>.md` mean?**  
 
-Further down in the output, the actual changes will be marked as coming from A or B. In order to tell them apart, A and B are each assigned a symbol: for version A, this is a minus ("-") sign and for version B, a plus ("+") sign is used.
+**Answer:** Further down in the output, the actual changes will be marked as coming from A or B. In order to tell them apart, A and B are each assigned a symbol: for version A, this is a minus ("-") sign and for version B, a plus ("+") sign is used.
 
 This process needs to be repeated whenever you begin to work, to make sure that you are always up to date. If there are discrepancies, it will mess up the code and you could potentially lose your saved changes, because it was not updated properly. We will provide more information on editing and saving changes in the next tutorial.
 
