@@ -85,10 +85,12 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 **NOTE**: If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incongito"** or **"privacy"** mode.
 
 ### Open a pull request
-Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.  
+Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.   
+
  ![](uploads/images/pr.png)
 
-Finally, click `Create pull request` and someone from our team will review the changes.  
+Finally, click `Create pull request` and someone from our team will review the changes.   
+
  ![](uploads/images/createpr.png)
 
 Often there will be some feedback from the reviewer at this point for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will automatically affect the pull request. Once everything looks good, the reviewer will merge your page with the main repository.
