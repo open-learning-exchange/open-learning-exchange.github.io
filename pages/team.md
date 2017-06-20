@@ -21,7 +21,7 @@
 |[shahswet](profiles/shahswet.md)| 2017-05-01 |
 |[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 |
 |[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 |
-|[snazzybunny](profiles/snazzybunny.md)| 2017-05-11 |
+|[snazzybunny](profiles/snazzybunny.md) (**Embedded Systems Lead**)| 2017-05-11 |
 |[duongdo27](profiles/duongdo.md)| 2017-05-12 |
 |[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 |
 |[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 |

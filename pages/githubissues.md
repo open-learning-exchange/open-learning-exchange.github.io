@@ -18,7 +18,7 @@ After this, you will then research the possible solutions or ideas on how to add
 
 Every time you start to work on an issue you need to create a branch to keep your work on various issues separate from each other. Before you create your branch, sync your repo following the process in the [previous step](gitandrepositories.md). Then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
 
-Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch branches, the files on your local machine revert back to how they were before you made changes since you are no longer on that branch. 
+Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch branches, the files on your local machine revert back to how they were before you made changes since you are no longer on that branch.
 
 **TIP**: The default branch in your repository is called master. Keeping the master branch clean of any changes is a good practice so if you make any changes you don't want, you may revert back.
 
@@ -71,9 +71,8 @@ After your pull request has been approved and merged by OLE staff, you might wan
 **NOTE**: This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
 ## Useful Links
-[Helpful links and videos](faq.md#Helpful_Links)  
-[Mastering Issues](https://guides.github.com/features/issues/)
+[Mastering Issues](https://guides.github.com/features/issues/) - The official Git Guide on the basics of filing an issue. 
+[Helpful links and videos](faq.md#Helpful_Links)
+
 
 #### Return to [First Steps](firststeps.md)
-
-
