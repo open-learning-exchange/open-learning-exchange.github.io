@@ -29,7 +29,7 @@ Now you can go and make the proposed changes to your local files.
 ## Create a Commit
 After you are done making your changes use the command `git status`. If the list of files changed only includes those you wish to modify, use the command `git add .` (The '.' is part of the command.) Otherwise you can also choose only certain changes to include by using `git add <file1> <file2> <file3>...`  Now that you have selected the files you wish to include, use the commands `git commit -m "commit message"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
 
-###Commit Message Style Guide
+### Commit Message Style Guide
 Because the commits you will be making on this markdown wiki are fairly basic, it is not necessary to enforce a wordy commit style. However, in the future, when you start to work on more complex projects, it is helpful to write your commit messages in a certain way. Here is an article on [how to write good commit messages](https://chris.beams.io/posts/git-commit/). 
 
 For edits to this markdown wiki, we recommend that your commit messages only consist of the subject line (refer to the article for more on what the subject is). Rules 2-5 are the most important:
@@ -39,7 +39,12 @@ For edits to this markdown wiki, we recommend that your commit messages only con
 * Do not end the subject line with a period
 * Use the imperative mood in the subject line
 
-##Rawgit
+Here is an example of how you would write your commit message:
+`$ git commit -m "Add commit message style guide and add Rawgit section (fixes #841)"`
+
+**NOTE**: in your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. 
+
+## Rawgit
 Rawgit is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md`and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request.
 
 For example http://rawgit.com/EmilyLarkin/EmilyLarkin.github.io/master/#!index.md will result with this:
