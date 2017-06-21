@@ -129,9 +129,11 @@ or not commonly used. To see all subcommands, run the command
 ```
 
 ## Troubleshooting
-When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
+1. When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
 
-For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+   For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+
+2. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html in step 4, you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
 
 ## Useful  Links
 Instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Macintosh](http://kb.parallels.com/en/5653) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox)
