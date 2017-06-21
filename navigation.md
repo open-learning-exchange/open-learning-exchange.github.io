@@ -42,7 +42,17 @@
 [First Steps]()
 
   * [Start Here](pages/firststeps.md)
-  - - - -
+  * [Step 0 - Introductory Steps](pages/firststeps.md#Step_0_-_Introductory_Steps)
+  * [Step 1 - BeLL Installation](pages/firststeps.md#Step_1_-_BeLL_Installation)
+  * [Step 2 - Vagrant Tutorial](pages/firststeps.md#Step_2_-_Vagrant_Tutorial)
+  * [Step 3 - Markdown and Fork Tutorial](pages/firststeps.md#Step_3_-_Markdown_and_Fork_Tutorial)
+  * [Step 4 - BeLL-Apps Tutorial](pages/firststeps.md#Step_4_-_BeLL-Apps_Tutorial)
+  * [Step 5 - Keeping Fork Updated](pages/firststeps.md#Step_5_-_Keeping_Fork_Updated)
+  * [Step 6 - GitHub Issues Tutorial](pages/firststeps.md#Step_6_-_GitHub_Issues_Tutorial)
+  * [Step 7 - Nation BeLL](pages/firststeps.md#Step_7_-_Nation_BeLL)
+  * [Step 8 - Create Issues and Pull Requests](pages/firststeps.md#Step_8_-_Create_Issues_and_Pull_Requests)
+  * [Step 9 - Submit Survey](pages/firststeps.md#Step_9_-_Submit_Survey)
+  - - - -  
   * [Vagrant](pages/vagrant.md)
   * [GitHub and Markdown](pages/githubandmarkdown.md)
   * [BeLL-Apps](pages/bellapps.md)
