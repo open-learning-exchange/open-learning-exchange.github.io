@@ -18,7 +18,7 @@ In the screenshot below, you can see an example of Markdown syntax on the left s
 
 Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the code on the right is the corresponding HTML syntax):
 
-![Markdown Cheat Sheet](uploads/images/markdownsheet.png)
+![Markdown Cheat Sheet](uploads/images/markdown1.png)
 
 You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
