@@ -42,6 +42,10 @@ Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read thr
 Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
 
 ## Step 3 - Markdown and Fork Tutorial
+Here are the tutorials as references to work on the the step3, step5, and debugging for digital library.
+JavaScript Tutorial:
+https://javascript.info/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Follow the instructions on the [GitHub and Markdown page](githubandmarkdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/profiles/&lt;username&gt;.md).
 
