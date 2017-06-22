@@ -81,7 +81,7 @@ Click on each one of these links and right-click to save them to your desktop.
 
 From there, go to your Vagrant BeLL. Select `Library` from the dashboard and then select `Add a Resource`. You will then be prompted to go to this page:
 
-![Burka Avenger Upload](uploads/images/burkaavengerupload.png)
+![Burka Avenger Upload](uploads/images/addresourcenew.JPG)
 
 Fill out the information, although as we are just doing this as a test, accuracy of information/source of content is not very important. Just be sure to put something, even if it is your name (as in the example above). The important thing is that you have something in all of the drop-down menus and that you choose the correct format for the `Open` menu (e.g., PDF, mp3, or mp4). Then, click on `Save`. You have now uploaded the resource. Next, you should find it and make sure that you can open it. Repeat the same process for all three resources.
 
