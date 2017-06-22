@@ -45,6 +45,10 @@ Review these [Vagrant instructions](vagrant.md) to ensure that you have fully co
 
 Follow the instructions on the [GitHub and Markdown page](githubandmarkdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/profiles/&lt;username&gt;.md).
 
+Here is the tutorial as reference to work on the Step 3, Step 5.
+Markdown Tutorial:
+[MarkdownTutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
 ## Step 4 - BeLL-Apps Tutorial
 
 Follow the instructions under the [BeLL-Apps tab](bellapps.md).
