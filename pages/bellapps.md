@@ -40,6 +40,9 @@ Double click on the MyBeLL icon on your desktop. It will open up a Firefox brows
 To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html.
 You will be shown the page below. Make sure you fill it out completely.
 
+1. If someone turns off the laptop or computer while staying on "Become an Administrator" page, it would go to "Member Login".
+2. If it pops up "Member Login" page instead of "Become an Administrator" page, you should use the code "vagrant init" and then use "vagrant up" to start the virtual box again.
+
 ![Become an Administrator](uploads/images/become_admin.png)
 
 Next, fill out the configurations. Your name and code must be the same and should match your Github name. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below:
