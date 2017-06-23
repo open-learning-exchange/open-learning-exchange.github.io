@@ -15,7 +15,7 @@ Sometimes there are two kinds of Command Prompt listed in your system. One is **
 
 ![admin command](uploads/images/admin command.png)
 
-Basically, they are the same, the only difference is the default path. For **Command Prompt(Admin)**, the default path is `C:Windows\system32` and **Command Prompt** is `C:\Users\YOUR_USERNAME`.  You can use either **Command Prompt** or **Command Prompt(Admin)** to access the right directory for Vagrant.
+Basically, they are the same, the only difference is the default path. For **Command Prompt(Admin)**, the default path is `C:\Windows\system32` and **Command Prompt** is `C:\Users\YOUR_USERNAME`.  You can use either **Command Prompt** or **Command Prompt(Admin)** to access the right directory for Vagrant.
 
 **2. Windows PowerShell**
 
