@@ -46,7 +46,7 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 NOTE: Each PLANET system is unique; universal memberships do not exist.  If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community.  To become a member of another Nation or Community you must register with a new account.
 
-###_What are the differences between Learners, Leaders, and Managers?_
+### _What are the differences between Learners, Leaders, and Managers?_
 In the PLANET system, there are three different kinds of users: **Learners**, **Leaders**, and **Managers**.
 
 **Learner** is the default user level when a person first joins. Each person continues to be a Learner regardless of additional responsibilities and roles. All Learners have access to standard and individualized user functionality.
@@ -56,71 +56,71 @@ In the PLANET system, there are three different kinds of users: **Learners**, **
 **Managers** have access to Learner, Leader, and additional functionalities that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.  
 If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities.  In order to see the available manager functionalities, click on “_Manager_” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections. 
 
-###How do I navigate the Dashboard?
+### How do I navigate the Dashboard?
 
 An example of the Manager Dashboard is shown below. The functionalities are defined for each element of the Dashboard.
 
 ![](uploads/images/dashboard.png)
 
-1.**My Home** directs the Learner to the main Dashboard page and provides easy access to most PLANET functionalities.
+1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most PLANET functionalities.
 
-2.**e-Readers** functionality is under construction.
+2. **e-Readers** functionality is under construction.
 
-3.**Library** allows a Learner to browse the digital Resources.  It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
+3. **Library** allows a Learner to browse the digital Resources.  It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
 
-4.**Courses** gives Learners the option to view each Course and to request admission.
+4. **Courses** gives Learners the option to view each Course and to request admission.
 
-5.**Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other PLANET Learners.
+5. **Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other PLANET Learners.
 
-6.**Members** provides a list of all Learners in this PLANET system. 
+6. **Members** provides a list of all Learners in this PLANET system. 
 
-7.**Reports** allows Nation Managers to distribute Nation Reports as needed.
+7. **Reports** allows Nation Managers to distribute Nation Reports as needed.
 
-8.**Feedback** allows Learners to give feedback for the Resource or page they are viewing.
+8. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
 
-9.**Logout** logs the Learner out of the PLANET system.
+9. **Logout** logs the Learner out of the PLANET system.
 
-10.**Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
+10. **Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
 
-11.**Language** shows the language of the user interface and allows the user to switch between languages.
+11. **Language** shows the language of the user interface and allows the user to switch between languages.
 
-12.**My Library** displays the Resources that were added to “_My Library_” by the Learner.
+12. **My Library** displays the Resources that were added to “_My Library_” by the Learner.
 
-13.**My Courses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
+13. **My Courses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
 
-14.**My Meetups** displays the physical location of the Course (if applicable).
+14. **My Meetups** displays the physical location of the Course (if applicable).
 
-15.**My Tutors** is under construction.
+15. **My Tutors** is under construction.
 
-16.**Badges** is under construction.
+16. **Badges** is under construction.
 
-17.**Calendar** can be used to organize and display Meetups and Events for the Learner.
+17. **Calendar** can be used to organize and display Meetups and Events for the Learner.
 
-18.**Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
+18. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
 
-19.**Surveys** allows Nation Managers to push a survey PLANET users based on characteristics like age, gender, member type, Community, etc.
+19. **Surveys** allows Nation Managers to push a survey PLANET users based on characteristics like age, gender, member type, Community, etc.
 
-20.**Update Welcome Video** allows Managers to change the welcome video for their Nation.
+20. **Update Welcome Video** allows Managers to change the welcome video for their Nation.
 
 # Library and Resources Overview
 
-## _What is the Library?_
+## What is the Library?
 
 The library where learning Resources are stored and categorized within the PLANET system.  Resources are listed alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
 
-## _What is a Resource?_
+## What is a Resource?
 
 A PLANET Resource is material that has been uploaded into the digital library.  There are many types of Resources, not just books.  PLANET can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications  (interactive content), and just about any other format.  Resources can be viewed in the library and may vary from Nations to Communities.  Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
 
-## _What is a Collection?_
+## What is a Collection?
 
 A collection is a group of Resources based on topic/subject and intended use.  PLANET currently follows a the Library of Congress categorization system.  Collections exist as the main category.  Sub-collections allow Nation Managers to group Resources more specifically within a collection.  Collections are alphabetized by topic.
 
 # How do I navigate and use the Library?
 
-## _How do I upload a Resource?_
+## How do I upload a Resource?
 
-1.  Log in as a **_Learner_**, **_Leader_**, or **_Manager_**.
+1.  Log in as a **Learner**, **Leader**, or **Manager**.
 
 2.  Start on the main **_Dashboard_** and click on the **_Library_** heading.
 
@@ -178,7 +178,7 @@ You may need to use a format converter to put your Resource in the correct forma
 
 **IMPORTANT:** Until all Nations can communicate with each other and Resources can easily be shared between Nations, Resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that Resources are available in each Nation.
 
-## _How do I name a file so that it can be upoaded?_
+## How do I name a file so that it can be upoaded?
 
 The following file naming conventions should be used for any new file to upload to PLANET:
 
@@ -189,11 +189,11 @@ The following file naming conventions should be used for any new file to upload 
 * If there is a series of Resources, the first part of the file name should be consistent (e.g., module title), followed by the number in the series, followed by the title of the specific file (e.g., ComputerBasics01_GettingToKnowComputers.pdf, ComputerBasics02_UnderstandingOperationSystems.pdf, etc.).
 * Use leading zeros (i.e., 01, 02, etc. or 001, 002, etc.) for documents that are part of a series so that they are sorted numerically.
 
-## _Are there Resources that have specific rules for uploading?_
+## Are there Resources that have specific rules for uploading?
 
 Yes. These Resources are covered in an additional manual titled, XXXXX. Please read that manual to address specific questions on uploading in other languages, in additional formats, or in existing Collections with special permission. 
 
-## _How do I create and use Collections?_
+## How do I create and use Collections?
 
 Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library.  **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of PLANET.  Collections can only be created or changed by Managers. 
 
@@ -218,6 +218,124 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the Collection.
 
+## Courses Overview
+### What is a Course?
+A Course allows Leaders to walk Learners through specific Resources and exercises to learn new skills.  Leaders can create Courses by grouping and ordering Resources and allowing Learners to upload papers or take Quizzes.  
+
+### How do I create a Course?
+To create a Course, log in and start from the Home page.
+- Go to the *“Courses”* tab in the top menu and then select *“Add Course.”*
+
+![](uploads/images/somaliabell.png) ![](uploads/images/addcourse.png)
+
+* Fill out the following form: 
+
+![](uploads/images/addcourse2.png)
+
+1. **Course Title.**  The name or title of the Course.
+
+2. **Language of Instruction.**  The language of Course materials. Please use the name of the language in that language. For example, العربية .
+ 
+3. **Member Limit.**  The number of Learners that are allowed to enter the Course.
+
+4. **Course Leader.**  Choose a single Leader or multiple Leaders to manage the Course
+
+5. **Description.**  Provide a coure description.
+
+6. **Method.**  Describe the way you envision the Course being used (e.g., school Course, enrichment Course, training manual, independent learning, special programs, etc.)
+
+7. **Grade Level.**  Suggested grade level of the Learners
+
+8. **Subject Level.**  Subject level - beginner, intermediate, or advanced. 
+
+9. **Start Date.**  Start date of the Course (only if applicable)
+
+10. **End Date.**  End date of the Course (only if applicable)
+
+11. **Frequency.**  Frequency of Course meeting, either Daily or Weekly (only if applicable)
+
+12.	**Start Time.**  Start time of the Course (only if applicable)
+
+13.	**End Time.**  End time of the Course (only if applicable)
+
+14.	**Location.**  Physical location of Course (only if applicable)
+
+15.	**Foreground/Background Color.**  Colors shown to Learners on their Dashboard when they join the Course 
+
+- Scroll down to the bottom of the screen and select *“Add Step”* to create the first lesson of the Course.
+  
+![](uploads/images/addstep.png) ![](uploads/images/save2.png)
+
+1. **Title:**  Name of the Step
+
+2. **Step Method.**  Describe the way you envision the Step being used
+
+3. **Description.**  Describe the Step and the material that will be covered
+
+4. **Step Goals.**  List the goals of accomplishing and completing the Step
+
+5. **Outcomes.**  Please select either Paper, Quiz, or both Paper and Quiz (by selecting both) to complete the Step
+
+6. **Passing Percentage.**  Select the percentage required on the Paper or Quiz to pass the Step
+
+- By selecting *“View Details”* of a specific Course, you can then see the screen below and modify the Course. Select *“Add Resource”* to search through the Library for Resources to include in the Step. You can also create a Quiz from this section by selecting *“Create Quiz."*
+  
+![](uploads/images/createquiz1.png)
+
+- In order to add a Resource, click the *“Add Resource”* button. The Resources must exist within PLANET before they can be included in a Course.  
+  
+- Follow the instructions below to add Resources to your Course.
+  
+1. Perform a keyword search to search for specific Resources.  To refine/broaden your search, filter by subject, Collections, level, medium, or rating.
+
+2. Check individual or all Resources that come up in the search results.
+
+3. Click *“Add to Level”* to add the Resource to the Step. 
+**NOTE:** If you go to the next page without adding each Resource, your selections will be erased, so you should add the currently selected Resources before moving on to the next page.
+
+4. In the Step Management panel, click *“View”* to make sure that your Resource is opening properly. To delete a Resource from the Step, click *“Remove.”*.
+
+- To create a Quiz, click *“View Details.”* Click *“Create Quiz”* button located on the bottom right corner.
+  
+![](uploads/images/createquiz2.png)
+ 
+1. You can create as many or as few questions as you want for each Quiz.  However, you must give 5 choices (Options A, B, C, D,/ and E) for each question. You can make True or False questions by making Option A = True, Option B = False, and inserting a “-” to fill the other answer choices. Select *“Add Question”* in order to add the question to your Quiz. 
+**NOTE:** If you do not select *“Add Question,”* the Quiz question will not be automatically added. 
+ 
+2. Once your Quiz is complete, click *“Save Quiz.”*
+ 
+3. Make sure that the *“Quiz”* box is always checked in the original New Step panel, otherwise the Quiz may not show up. 
+ 
+4. You can always return to the Quiz to add questions. 
+**NOTE:** Once you select *“Next Question,”* you cannot go back or save the Quiz until you have filled it out.
+ 
+### General Guidelines for Steps and Courses
+Below is a list of general guidelines for Steps and Courses.
+
+* Aim to have between 6-10 Steps for each Course, although this will vary depending on the nature of the Course, i.e., if it is for school, general knowledge, professional development, etc. There are examples of Courses of 40-50 Steps which is applicable and needed in those cases. However, Courses should have a minimum of at least five Steps.
+ 
+* The number of Resources per Course can also vary. However, they should be comprehensive enough to provide thorough knowledge on the subject, offer a variety of “real-world” examples and/or case studies, include some possible activities or thought-provoking discussion questions, and make a smooth transition to the next Step. Try to include a mix of media as well, i.e. videos, audio, photographs.
+ 
+* As an alternative to creating a Quiz, you can also assign a paper for Learners to upload. Just type the paper assignment in the instruction box for Learners to view.
+ 
+- If you change your mind and want to create a Quiz instead of a paper or vice versa, you can switch by going to the *“Edit Step”* tab.
+ 
+### Managing a Course
+Below are tips for managing a Course.
+ 
+* You can always make changes to the Course by going to the “Courses” tab and clicking on “Manage.” 
+ 
+![](uploads/images/managecourse.png)
+ 
+- To see what your Learners see, click on *“View Course.”* You can also go to *“My Home”* and access the Course in the *“My Courses”* bar to view the Course as a Learner.
+ 
+- You can invite a specific Learner to join the Course or a whole grade level by clicking on *“Invite Members.”*
+ 
+- If a Learner has requested to join a Course you will receive an email in your inbox (located at the bottom menu on the *“My Home”* page) asking you to accept. 
+ 
+- To track your Learners’ completion and score on Quizzes, go to *“Progress.”*
+
+
 ## Members Menu
 ### _What is Members Menu?_
 **Members** menu is a place to see, search, modify, and delete (for admin) an entire member of a community/nation where we logged in.
@@ -237,7 +355,7 @@ Notes:
 5. **Edit Members Detail** - this is an admin only functionality for editing a members account information.
 6. **Delete a Member** - this is an admin only functionality for deleting members.
 
-# Reports Overview
+## Reports Overview
 
 ### _What is a Report?_
 Reports allows distribution of Nation Reports as needed by Nation Managers. Managers can add new Reports, check the activity on each Report, and look at trends for each Report.
@@ -283,3 +401,56 @@ Then click *“Generate Report.”*
 In resulting Report the Manager will be able to see a visual graphic representing activity over the past 12 months as shown below.
 
 ![](uploads/images/ReportsOverview7.JPG)
+
+## Feedback Overview
+### _What is Feedback?_
+
+Feedback allows Learners to provide feedback on the currently open page. Feedback helps OLE make improvements to the software over time.
+
+### _How do I provide Feedback?_
+
+Learners can give feedback for any page or Resource at any time by click on “Feedback” and filling out the information in the form shown below.  When finished, click “Submit” to send feedback to OLE.
+
+![](uploads/images/planet_feedback.png)
+
+## Language Overview
+### _How do I change the Language?_
+
+Learners can change the language of the PLANET system at any time by going to the Home page and selecting the language pull down menu  from in the top right corner.
+
+![](uploads/images/Planet_Language.png)
+
+## Calendar Overview
+### _What is the calendar and How do I add an Event?_
+
+The Calendar allows Leaders and Learners to organize and view Meetups and Events. The Learner can access his or her Calendar from the Home page Dashboard by clicking on “Calendar” to view and add Events. 
+
+![](uploads/images/Planet_Calendar.png)
+
+Click on “Add Event” in the top left corner to create a new Event. 
+
+
+![](uploads/images/Calendar_AddEvent.png)
+
+Fill in the information for the Event as shown below. When finished, click “Add Event.”
+
+
+![](uploads/images/Calendar_AddEvent1.png)
+
+## Email Overview
+
+### _How do I send and receive an email on the PLANET system?_
+
+The Email button displays the number of new messages in the Learner’s Inbox. After clicking Email, the Learner will see his or her Inbox. To send email to another user on the system click the “Email” button on the Dashboard. 
+
+![](uploads/images/Email1.png)
+
+To receive an email, click “Email” and then click “View” to read the email. 
+
+![](uploads/images/Email2.png)
+
+To send an email, click “Compose.” Add the recipients and fill in the email subject. Write your message and click “Send.”
+
+![](uploads/images/Email3.png)
+
+![](uploads/images/Email.png)

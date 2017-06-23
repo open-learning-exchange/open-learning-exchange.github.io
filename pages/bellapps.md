@@ -1,34 +1,39 @@
-#BeLL-Apps: Communities and Nations
-##Introduction
+# BeLL-Apps: Communities and Nations
+## Objective
+* Learn about BeLL-Apps and the difference between Nations and Communities
+* Use Vagrant to create a local BeLL Community
+* Register your Community and sync it with the Nation
+* Add resources to your Community in order to get accustomed to the BeLL-Apps interface
 
+## Introduction
 The BeLL (Basic e-Learning Library) is not only a library, but also an individualized learning system, where students can select their own books and courses to target their individual goals. The two kinds of BeLL apps are described below.
 
-####BeLL Communities (Local)
+#### BeLL Communities (Local)
 
 * Communities are how the BeLL functions on a local network, with users connecting to a community using either a laptop or a RPi and a router.
 * Periodically communities sync with Nations on the internet, which includes sending and receiving educational materials.
-* In step 1 you created a BeLL community on your computer. As you follow the steps on this page you will access and configure your community.
+* In step 1 you created a BeLL community on your computer. As you follow the steps on this page, you will access and configure your community.
 
-####BeLL Nations (Internet)
+#### BeLL Nations (Internet)
 
 * Nations are BeLL apps for the Internet, allowing communities to interact with each other.
 * Nations are over a group of communities, and can run reports on any communities it owns.
 * As you complete these instructions, and OLE administrator will complete the registration of your community with the Virtual Intern Nation.
 
-##MacOS(X) and Ubuntu
+## MacOS(X) and Ubuntu
 Check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up`, open Firefox (download if you don't already have it - it is VERY important that you always use the BeLL in Firefox to limit errors). Go to http://127.0.0.1:5985. You could also use http://localhost:5985, meaning that 127.0.0.1 refers to your machine. Both localhost:5985 and 127.0.0.1:5985 are interchangeable. Make sure to have the correct port number (5985), otherwise it will not work correctly.
 
 Your first page will look like this:
 
 ![127.0.0.1:5985](uploads/images/127.0.0.1-5985.png)
 
-##Windows
+## Windows
 Double click on the MyBeLL icon on your desktop. It will open up a Firefox browser and show you the user interface (see below).  If you get an `Unable to connect` page, check it out at [FAQ](faq.md#Technical_Issues_and_Questions).
 
-##Database
+## Database
 [CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the BeLL. You can see the backend interface of our CouchDB at http://127.0.0.1:5985/_utils. In _utils, you have the opportunity to see all of the software dev of your vagrant BeLL.
 
-##User Interface
+## User Interface
 To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html.
 You will be shown the page below. Make sure you fill it out completely.
 
@@ -84,8 +89,8 @@ Fill out the information, although as we are just doing this as a test, accuracy
 
 In case you forgot to take the screenshot of your configurations, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html, then click on manager, click on the configurations tab, take a screenshot of the page, and submit it to the Gitter chat.
 
-##Useful Links
+## Useful Links
 
 [Helpful links and videos](faq.md#Helpful_Links)
 
-####Return to [First Steps](firststeps.md)
+#### Return to [First Steps](firststeps.md)
