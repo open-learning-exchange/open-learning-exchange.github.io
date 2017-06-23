@@ -32,7 +32,7 @@ There is no official deadline to complete these steps, but most candidates who a
 2.Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository or profile page, look for these buttons in the top right of the screen. Also follow each other to see what others in the group are doing.
 
 ![Watch_screenshot](uploads/images/Watch.png) 
-* * *
+ * * *
 ![follow_screenshot](uploads/images/Follow.png)
 
 3.We use Crowdin to translate our user interface in many different languages. If you know another language, go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
