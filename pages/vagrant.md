@@ -86,7 +86,7 @@ If you have a different message, either your Vagrant machine is powered off, or 
 
 If your Vagrant machine is powered off, use `vagrant up` to turn it on. To shut down your machine, use `vagrant halt`. Both of these commands need to be issued within the right directory. To destroy your machine entirely, use `vagrant destroy`.
 
-**Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.**
+**NOTE**:Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.
 
 In case you accidentally used vagrant destroy:
 - Rebuild the community BeLL following step 4
