@@ -52,11 +52,15 @@ Another command that may be sometimes useful is `vagrant destroy`, which allows 
 
 You may want to try and issue the above commands on your system, to get familiar with Vagrant, since that will prove useful later on, during your internship.
 
+Instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/)
+
 ## Ubuntu
 ```
     sudo apt-get install virtualbox
     sudo apt-get install vagrant
 ```
+Instructions to enable virtualization for [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox)
+
 ## MacOS(X)
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```
@@ -127,7 +131,8 @@ Additional subcommands are available, but are either more advanced
 or not commonly used. To see all subcommands, run the command
 `vagrant list-commands`.
 ```
-
+ Instructions to enable virtualization for [Macintosh](http://kb.parallels.com/en/5653) 
+ 
 ## Troubleshooting
 1. When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
 
@@ -136,7 +141,6 @@ or not commonly used. To see all subcommands, run the command
 2. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html in step 4, you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
 
 ## Useful  Links
-Instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Macintosh](http://kb.parallels.com/en/5653) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox)
 [Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)
 [Why install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
 [Vagrant download](https://www.vagrantup.com/downloads.html)
