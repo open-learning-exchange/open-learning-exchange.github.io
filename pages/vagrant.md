@@ -3,7 +3,7 @@
 [Vagrant](https://www.vagrantup.com/) is an open source tool to build development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-vi) to install Vagrant and VirtualBox on your OS. Below, you will find a shortened version on how to install this software quickly if needed as a reference.
 
 ## Prerequisites
-Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system. Please see the useful links section at the end of this page if you need more information on how to enable the VT-x/AMD-V instructions on your system. 
+Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system. Please see the useful links section at the end of this page if you need more information on how to enable the VT-x/AMD-V instructions on your system.
 
 ## Windows
 
@@ -15,7 +15,7 @@ Sometimes there are two kinds of Command Prompt listed in your system. One is **
 
 ![admin command](uploads/images/admin command.png)
 
-Basically, they are the same, the only difference is the default path. For **Command Prompt(Admin)**, the default path is `C:Windows\system32` and **Command Prompt** is `C:\Users\YOUR_USERNAME`.  You can use either **Command Prompt** or **Command Prompt(Admin)** to access the right directory for Vagrant.
+Basically, they are the same, the only difference is the default path. For **Command Prompt(Admin)**, the default path is `C:\Windows\system32` and **Command Prompt** is `C:\Users\YOUR_USERNAME`.  You can use either **Command Prompt** or **Command Prompt(Admin)** to access the right directory for Vagrant.
 
 **2. Windows PowerShell**
 
@@ -129,16 +129,18 @@ or not commonly used. To see all subcommands, run the command
 ```
 
 ## Troubleshooting
-When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
+1. When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
 
-For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+   For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+
+2. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html in step 4, you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
 
 ## Useful  Links
-Instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Macintosh](http://kb.parallels.com/en/5653) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox)  
-[Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)  
-[Why to install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/)  
-[Vagrant download](https://www.vagrantup.com/downloads.html)  
+Instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Macintosh](http://kb.parallels.com/en/5653) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox)
+[Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)
+[Why install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
+[Vagrant download](https://www.vagrantup.com/downloads.html)
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
 [Other helpful links and videos](faq.md#Helpful_Links)
-   
+
 #### Return to [First Steps](firststeps.md)

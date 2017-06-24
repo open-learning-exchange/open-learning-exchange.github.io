@@ -1,4 +1,4 @@
-## Android Studio Setup
+# Android Studio Setup
 To be able to debug / repackage / build on the android mobile application, you need to:
 
 - download and install the most recent official IDE for android: [Android Studio](https://developer.android.com/studio/index.html) 
@@ -18,9 +18,19 @@ The Android Studio Setup Wizard guides you through the rest of the setup, which 
 
 ![AndroidSDKManager](uploads/images/AndroidSDKManager.png)
 
+###GitHub setting
+There are three steps that needs be done before you can make contribution to "take-home" project:
 
-In a terminal / console of your choosing, navigate into the working directory of Android studio and git clone the “take-home“ repository at https://github.com/open-learning-exchange/take-home.git
-Run Android studio. Select New from the file menu and select import project.
+1. Find and fork the "take-home" repository
+You can find "take-home" GitHub repository [here](https://github.com/open-learning-exchange/take-home). Fork the repository to your own GitHub account by clicking the fork button (just like what you did in [step 3](http://open-learning-exchange.github.io/#!pages/githubandmarkdown.md#Find_and_fork_the_correct_repository))
+
+2. Clone your own GitHub repository yourGitHubUsername / take-home
+In a terminal / console of your choosing, navigate into the working directory of Android studio and git clone your own “take-home“ repository at `https://github.com/yourGitHubUsername/take-home.git`
+
+3. Configure a remote for your local repository
+Under your "take-home" directory, type `git remote add upstream https://github.com/open-learning-exchange/take-home.git` so that you can fetch updates from the upstream repository (reference [step 5](http://open-learning-exchange.github.io/#!pages/gitandrepositories.md#Configure_a_remote_for_your_fork))
+
+Now, Run Android studio. Select New from the file menu and select import project.
 Navigate to Android studio -> take-home and select the settings.gradle file to import and open the project.
 
 >@todo : 

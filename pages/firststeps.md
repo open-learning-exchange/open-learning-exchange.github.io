@@ -45,6 +45,9 @@ Review these [Vagrant instructions](vagrant.md) to ensure that you have fully co
 
 Follow the instructions on the [GitHub and Markdown page](githubandmarkdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/profiles/&lt;username&gt;.md).
 
+- Once you complete the Step 3 you will have:
+    * 1 Pull request made
+
 ## Step 4 - BeLL-Apps Tutorial
 
 Follow the instructions under the [BeLL-Apps tab](bellapps.md).
@@ -57,6 +60,11 @@ Follow the directions at [Git Repositories](gitandrepositories.md) to keep your 
 
 Follow the tutorial under the [GitHub Issues tab](githubissues.md) to create at least one issue. You will be working to improve this MarkDown Wiki so that it is clearer and better for future use. Post a link in Gitter whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Next, fix the issue on your repo and create pull requests, as per the tutorial. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile will become. This is very important to potential employers, thus we encourage you to spend time to increase your numbers to strengthen your profile. Make sure you have created at least one issue, resolved it and have a pull request with the fix merged before proceeding to the next step.
 
+- Once you complete Step 6 you will have:
+   * 2 pull requests made ( one at step 3 and one at step 6)
+   * 1 comment added
+   * 1 issue created
+
 ## Step 7 - Nation BeLL
 
 Follow the directions under the [Nation BeLL tab](nation.md).
@@ -66,6 +74,11 @@ Follow the directions under the [Nation BeLL tab](nation.md).
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! Learn by teaching - or editing our teaching tool, in this case! 
 
 **NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the description of your pull request.
+
+- Once you complete Step 8 you will have:
+   * 5 pull requests made ( one at step 3, one at step 6 and three at step 8)
+   * 4 comments made ( one at step 6 and three at step 8)
+   * 4 issues created ( one at step 6 and three at step 8)
 
 ## Step 9 - Submit Survey
 
