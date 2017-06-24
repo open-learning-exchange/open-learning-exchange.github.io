@@ -88,7 +88,7 @@ If your Vagrant machine is powered off, use `vagrant up` to turn it on. To shut 
 
 **Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.**
 
-Incase you accidentally used vagrant destroy:
+In case you accidentally used vagrant destroy:
 - Rebuild the community BeLL following step 4
 - Make sure you use a slightly different username and code in configurations
 - Resend the request on Gitter chat
