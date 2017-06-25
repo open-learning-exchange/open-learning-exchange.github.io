@@ -20,6 +20,8 @@ Below is a cheat sheet of Markdown to help you create your own individual MD Wik
 
 ![Markdown Cheat Sheet](uploads/images/Markdown_Reference.png)
 
+[Markdown Tutorial](http://tylingsoft.com/tutorial.md/#whats-markdown)
+
 You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 If you want more practice using Markdown, check out [this site](http://www.markdowntutorial.com/lesson/1/) to explore the MD syntax and see results as you type.
