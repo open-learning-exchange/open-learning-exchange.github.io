@@ -16,7 +16,7 @@ In the screenshot below, you can see an example of Markdown syntax on the left s
 
 #### Markdown != HTML
 
-Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the code on the right is the corresponding HTML syntax):
+Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the right column shows the preview):
 
 ![Markdown Cheat Sheet](uploads/images/markdown1.png)
 
