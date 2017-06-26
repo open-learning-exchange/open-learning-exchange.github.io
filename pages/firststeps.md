@@ -45,8 +45,6 @@ Review these [Vagrant instructions](vagrant.md) to ensure that you have fully co
 
 Follow the instructions on the [GitHub and Markdown page](githubandmarkdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/profiles/&lt;username&gt;.md).
 
-[Markdown Tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#links)
-
 - Once you complete the Step 3 you will have:
     * 1 Pull request made
 
