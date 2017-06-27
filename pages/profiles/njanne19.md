@@ -1,10 +1,10 @@
-##Name: Nick Janne
+## Name: Nick Janne
 
-##Location: Needham, Massachusetts
+## Location: Needham, Massachusetts
 
-##Time Zone: EST
+## Time Zone: EST
 
-##OS: macOS Sierra 10.12.3
+## OS: macOS Sierra 10.12.3
 
 __Description about me:__
 I'm an enthusastic teenager that is self taught in a couple of languages. 
