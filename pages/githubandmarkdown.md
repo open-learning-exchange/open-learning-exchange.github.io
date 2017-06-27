@@ -12,7 +12,8 @@ You must already have a GitHub account with verified email address.
 [Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. Markdown (MD) Wiki allows us to use Markdown on GitHub so that it is easily compatible with our current development environment. To put it simply, Markdown is a markup language that is very easy to learn and allows you to quickly format your text.
 In the screenshot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
 
-![Markdown Preview](uploads/images/markdown.png)
+
+![Markdown Preview](uploads/images/markdown.png)    
 
 #### Markdown != HTML
 
