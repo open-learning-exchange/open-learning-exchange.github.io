@@ -69,7 +69,7 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 
 ### Create a new file as your personal MD Wiki page and commit your changes
- Before creating your file create a new branch using the branch drop down menu as shown below.
+ Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
 
 ![New Branch](uploads/images/New Branch.png)
 
