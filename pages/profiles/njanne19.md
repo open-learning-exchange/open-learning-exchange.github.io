@@ -15,3 +15,9 @@ Currently, I attend Boston College High School, and Harvard Secondary School. I 
 *In an effort to make my profile as unique as possible, I have decided to inclue this picture of a cat I found on the internet. While not deep in meaning, it's a cat.*
 
 ![Image of Cat](https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg)
+
+*Additionally, I've decided to inclue a recent binary joke I heard*
+
+>There are 10 types of people who understand binary. 
+
+>Those who do, and those who don't.
