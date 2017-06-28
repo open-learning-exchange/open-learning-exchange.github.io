@@ -75,7 +75,7 @@ request.open('get', object)
 request.send()
 		request.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      alert("Number of PRs:"+request.responseText.substr(18,3))	
+      alert("Number of PRs: "+JSON.parse(request.response).total_count)
     }
 	}
 	
@@ -97,7 +97,7 @@ request.open('get', object)
 request.send()
 	request.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      alert("Number of Issues:"+request.responseText.substr(18,3))	
+      alert("Number of Issues: "+JSON.parse(request.response).total_count)	
     }
 	}
 	
@@ -118,8 +118,8 @@ request.send()
 
 			request.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      alert("Number of PRs:"+request.responseText.substr(18,3))	
-    }
+      alert("Number of Merged PRs: "+JSON.parse(request.response).total_count)
+    } 
 	}
 
 	
