@@ -1,0 +1,22 @@
+# Daisy Watson
+
+## New Jersey/EST
+
+### Mac OS X 10.11.3
+
+CS major at Ramapo college, aspiring web developer, and lover of all things tech.
+
+---
+
+Some of my favorite languages:
+
+* Python
+
+* JavaScript
+
+* C#
+
+My website: [daisywatson.co.nf](daisywatson.co.nf)
+
+
+
