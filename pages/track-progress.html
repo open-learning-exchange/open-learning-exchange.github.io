@@ -58,59 +58,7 @@ var request = new XMLHttpRequest(); // global var
   
   
   //-------- Website
-    function goToURL() {
-		var user = prompt("Please enter username", "Dogi");
-
-  
-location.href = 'https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3A'+user+'+is%3Apublic+repo%3Aopen-learning-exchange%2Fopen-learning-exchange.github.io+is%3Amerged+'
-    }
-	
-	function goToURL2() {
-		var user = prompt("Please enter username", "Dogi");
-
-
- 
-
-location.href ='https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3A'+user+'+is%3Apublic+repo%3Aopen-learning-exchange%2Fopen-learning-exchange.github.io'
-    }
-	
-	
-	
-	
-	
-	
-	//------------------------API
-	
-	function goToURL3() {
-	var user = prompt("Please enter username", "Dogi");
-    
- 
-		
-		location.href =  'https://api.github.com/search/issues?q=repo:open-learning-exchange/open-learning-exchange.github.io+author:'+user+'+is:merged&sort=created&order=asc'
-		
-		
-		
-
-    }
-	function goToURL4() {
-	var user = prompt("Please enter username", "Dogi");
-    
-     
-		location.href =  'https://api.github.com/search/issues?q=repo:open-learning-exchange/open-learning-exchange.github.io+author:'+user+'+type:pr&sort=created&order=asc'
-				
-
-
-    }
-	
-		function goToURL5() {
-	var user = prompt("Please enter username", "Dogi");
-    
-     
-		location.href =  'https://api.github.com/search/issues?q=repo:open-learning-exchange/open-learning-exchange.github.io+author:'+user+'+type:issue&sort=created&order=asc'
-				
-
-
-    }
+   
 	
 	function Total_PRs(){ //Test-ALL
 	var user = prompt("Please enter username", "Dogi");
@@ -270,23 +218,7 @@ Directions:
   </div>
 </div>
  
-  <div class="dropdown">
-  <button class="dropbtn">API search</button>
-  <div class="dropdown-content">
-    <a href="javascript:void(0)" onclick="goToURL3();  ;return false;">Merged-Pr</a>
-    <a href="javascript:void(0)" onclick="goToURL4(); return false;">All PRs</a>
-    <a href="javascript:void(0)" onclick="goToURL5(); return false;">Issues</a>
-  </div>
-</div>
 
- <div class="dropdown">
-  <button class="dropbtn">GitHub search (Chrome Only)</button>
-  <div class="dropdown-content">
-    <a href="javascript:void(0)" onclick="goToURL(); return false;">Merged-PRs</a>
-    <a href="javascript:void(0)" onclick="goToURL2(); return false;">All PRs</a> 
-      </div>
-</div>
- 
 </body>
 
 </html>
