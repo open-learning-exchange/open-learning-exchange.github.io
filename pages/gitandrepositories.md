@@ -25,7 +25,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 
 ![GitHub Clone URL](uploads/images/githubcloneurl.png)
 
-Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).
+Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).
 
 ##### Clone with HTTPS or Use SSH?
 Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. As an optional step explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
@@ -36,7 +36,7 @@ Now, there are three different Github repository levels: [open-learning-exchange
 
 As you create a fork from the original repository and then clone your forked repository onto your OS, you will need to frequently update the fork so that your fork and clone are not behind. Further, you need to sync your repository on your OS and on GitHub (username. github.io) with the upstream repository (open-learning-exchange.github.io). There are various ways to do this, as explained below.
 
-First, the GitHub help section and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://help.github.com/articles/syncing-a-fork/) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, you need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io.
+First, the GitHub help section and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://help.github.com/articles/syncing-a-fork/) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, following the steps below, you will need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io.
 
 #### Configure a remote for your fork
 To be able to fetch updates from the upstream repository, you need to first configure the upstream repository by following these steps:
@@ -100,9 +100,32 @@ If you get something like this,
 ```
 it means that you are in the Vim text editor. Simply type ```:wq``` which stands for **w**rite and **q**uit. However, if you want to insert something you can type "i" and Vim goes into edit mode. To exit edit mode just hit "escape".
 
-Now, your repository has been synced to the upstream/master. However, a discrepancy may still exist between your local (and now your origin/master) versus your username.github.io on GitHub. You will now use `git diff` and `git status` to check how your local repository compares to your username.github.io repository. Depending on whether you have more or less commits than your username.github.io, you will either use `git pull` to receive any changes or `git push` to push updates to your repository. Most likely, as you just synced with the master, you will use `git push` to push updates to your username.github.io repo. If you have uncommitted changes (from mixing interface and terminal use of GitHub repositories), then these commands will be aborted until you fix the discrepancy.
+Now, your repository has been synced to the upstream/master. However, a discrepancy may still exist between your local (and now your origin/master) versus your username.github.io on GitHub. You will now use `git diff` and `git status` to check how your local repository compares to your username.github.io repository. Depending on whether you have more or less commits than your username.github.io, you will either use `git pull` to receive any changes or `git push` to push updates to your repository. Most likely, as you just synced with the master, you will use `git push` to push updates to your username.github.io repo. 
+``` bash
+$ git push origin master
+```
+If you have uncommitted changes (from mixing interface and terminal use of GitHub repositories), then these commands will be aborted until you fix the discrepancy.
 
-Remember, you should repeatedly use the commands `git diff` and `git status` to respectively see the difference between your username.github.io and your local repository and then see the status of your repository and the changes you have made. Once again, you need to sync your repository with the correct master first, otherwise you will not see the correct `git diff` and `git status`. `git diff` and `git status` only look between your local and username.github.io repos, not your upstream repo.
+
+Remember, you should repeatedly use the commands `git diff` and `git status` to respectively see the difference between your username.github.io and your local repository and then see the status of your repository and the changes you have made. Once again, you need to sync your repository with the correct master first, otherwise you will not see the correct `git diff` and `git status`. `git diff` and `git status` only look between your local and username.github.io repos, not your upstream repo.  
+
+Below is an example of **git diff** command showing difference in the file of local and remote repository.
+``` bash
+$ git diff
+diff --git a/<file name>.md b/<file name>.md
+index bf400c0..fc7380b 100644
+--- a/<file name>.md
++++ b/<file name>.md
+@@ -1,5 +1 @@
+ What is this?
+```
+**What does `diff --git a/<file name>.md b/<file name>.md` mean?**  
+
+**Answer:** Our diff compares two items with each other: item A and item B. In most cases, A and B will be the same file, but in different versions.To make clear what is actually compared, a diff output always starts by declaring which files are represented by "A" and "B".  
+
+**What does `--- a/<file name>.md` and `+++ b/<file name>.md` mean?**  
+
+**Answer:** Further down in the output, the actual changes will be marked as coming from A or B. In order to tell them apart, A and B are each assigned a symbol: for version A, this is a minus ("-") sign and for version B, a plus ("+") sign is used.
 
 This process needs to be repeated whenever you begin to work, to make sure that you are always up to date. If there are discrepancies, it will mess up the code and you could potentially lose your saved changes, because it was not updated properly. We will provide more information on editing and saving changes in the next tutorial.
 
@@ -112,22 +135,18 @@ Generally, follow these commands in your command line, but refer back above if t
 1. Clone your Githib respoitory username.github.io
 - Copy the HTTPS or SSH link from your repository on the Github site
 - On the command line, type `git clone *paste your HTTPS or SSH link here*`
----
 2. Understand that there are three levels of a Github repository: the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io)), your username.github.io on Github and your username.github.io on your OS.
 These need to be synced and checked constantly.
 - The upstream repository is the one we are contributing to.
----
 3. Configure the upstream repository to your fork
 - `cd <username>.github.io.`
 - `git remote -v` see above to make sure you are pushing and fetching to your own repository on github as the origin
 - `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
 - `git remote -v` origins should remain the same as step 2, but you should also be fetching and pushing to OLE as the upstream now
----
 4. Sync Your Fork
 - `git fetch upstream` -  to fetch branches from the upstream repsoitory
 - `git checkout master` - check to make sure branch is up-to-date with master
 - `git merge upstream/master` - You repository should now be synced to upstream/master
----
 5. Whenever you begin to work, make sure your respository is up to date with `git diff` and `git status` between your local and username.github.io repos, not your upstream repo.
 
 
@@ -136,6 +155,12 @@ If you find yourself needing to rebase your forked repository, the following two
 [Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 
 **NOTE**: while similar, there is a difference between rebasing and merging. Merging takes all changes in one branch and merges onto another branch in one commit. Rebasing moves the branch's starting point to another place. For example, if you rebased your branch to the master branch, then your branch now incorporates all the changes made in the master, and every time master is changed, your branch is changed as well. In contrast, merging is a one-time change.
+If you find yourself needing to rebase your forked repository, the following two links should help:
+
+[Rebase](https://git-scm.com/docs/git-rebase)
+[Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+
+**NOTE**: While rebasing and merging are similar, there is a difference between them. Merging takes all changes in one branch and merges onto another branch in one commit. Rebasing moves the branch's starting point to another place. For example, if you rebased your branch to the master branch, then your branch now incorporates all the changes made in the master, and every time master is changed, your branch is changed as well. In contrast, merging is a one-time change.
 
 For more info on differences of merging vs. rebasing (and when to use which one), [check this out](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
@@ -146,6 +171,10 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 [Sync fork](https://help.github.com/articles/syncing-a-fork/)
 [GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 [Git help](https://git-scm.com/)
+[Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) - You can sync changes made in the original repository with a fork.
+[Sync fork](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
+[GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - An Introduction to Git and Github for beginners from Hubspot.
+[Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations. 
 [Other helpful links and videos](faq.md#Helpful_Links)
 
 #### Return to [First Steps](firststeps.md)
