@@ -21,8 +21,6 @@ OS|OS X EI Capitan Version 10.11.6
 - - - -
 ## Hobby: ##
 - Cooking Chinese Food
-  -making dumplings
-  -making rice wine
 - Running
 - Travelling
 
