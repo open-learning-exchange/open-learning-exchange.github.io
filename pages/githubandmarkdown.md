@@ -14,7 +14,6 @@ In the screenshot below, you can see an example of Markdown syntax on the left s
 
 ![Markdown Preview](uploads/images/markdown.png)    
 
-
 #### Markdown != HTML
 
 Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the right column shows the preview):
@@ -71,7 +70,6 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 
 ### Create a new file as your personal MD Wiki page and commit your changes
-
  Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
 
 ![New Branch](uploads/images/New Branch.png)
@@ -80,9 +78,7 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
-
 We recommend using at least 5 different types of Markdown and to try to be as creative as possible. 
-
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
@@ -109,19 +105,11 @@ After the pull request is completed, you'll be able to see this on open-learning
 Make sure to include a rawgit link to your page in your pull request. 
 
 ## Useful Links
-
-[GitHub: Writing and Formatting](https://help.github.com/categories/writing-on-github/)
-[Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md)
-[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/)
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-[How to fork a repo](https://help.github.com/articles/fork-a-repo/)
-
 [GitHub: Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A Github help page on how to format and write, along with working with saved replies.
 [Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md) - A more descriptive Github guide on more markdown syntax.
 [Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - An awesome interactive tutorial to experiment and learn more Markdown syntax with.
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official Github Guide for Markdown syntax
 [How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories from Github.
-
 [Other helpful links and videos](faq.md#Helpful_Links)
 
 #### Return to [First Steps](firststeps.md)
