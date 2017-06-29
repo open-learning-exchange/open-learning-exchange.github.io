@@ -12,13 +12,16 @@ You must already have a GitHub account with verified email address.
 [Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. Markdown (MD) Wiki allows us to use Markdown on GitHub so that it is easily compatible with our current development environment. To put it simply, Markdown is a markup language that is very easy to learn and allows you to quickly format your text.
 In the screenshot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
 
-![Markdown Preview](uploads/images/markdown.png)
+![Markdown Preview](uploads/images/markdown.png)    
+
 
 #### Markdown != HTML
 
-Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the code on the right is the corresponding HTML syntax):
+Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the right column shows the preview):
 
-![Markdown Cheat Sheet](uploads/images/Markdown_Reference.png)
+![Markdown Cheat Sheet](uploads/images/markdown1.png)
+
+[Markdown Tutorial](http://tylingsoft.com/tutorial.md/#whats-markdown)
 
 You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -68,7 +71,8 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 
 ### Create a new file as your personal MD Wiki page and commit your changes
- Before creating your file create a new branch using the branch drop down menu as shown below.
+
+ Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
 
 ![New Branch](uploads/images/New Branch.png)
 
@@ -76,7 +80,9 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
+
 We recommend using at least 5 different types of Markdown and to try to be as creative as possible. 
+
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
@@ -84,17 +90,38 @@ If you need to edit your file again, just click the pencil icon to edit (as show
 
 Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/profiles/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
+**NOTE**: If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incongito"** or **"privacy"** mode.
+
 ### Open a pull request
-Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`. Finally, click `Create pull request` and someone from our team will review the changes. Often there will be some feedback from the reviewer at this point for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will automatically affect the pull request. Once everything looks good, the reviewer will merge your page with the main repository.
+Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.   
+
+ ![](uploads/images/pr.png)
+
+Finally, click `Create pull request` and someone from our team will review the changes.   
+
+ ![](uploads/images/createpr.png)
+
+Often there will be some feedback from the reviewer at this point for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will automatically affect the pull request. Once everything looks good, the reviewer will merge your page with the main repository.
 
 After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
+**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/profiles). Be creative.  
+Make sure to include a rawgit link to your page in your pull request. 
+
 ## Useful Links
+
 [GitHub: Writing and Formatting](https://help.github.com/categories/writing-on-github/)
 [Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md)
 [Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/)
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 [How to fork a repo](https://help.github.com/articles/fork-a-repo/)
+
+[GitHub: Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A Github help page on how to format and write, along with working with saved replies.
+[Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md) - A more descriptive Github guide on more markdown syntax.
+[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - An awesome interactive tutorial to experiment and learn more Markdown syntax with.
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official Github Guide for Markdown syntax
+[How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories from Github.
+
 [Other helpful links and videos](faq.md#Helpful_Links)
 
 #### Return to [First Steps](firststeps.md)
