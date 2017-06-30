@@ -15,27 +15,27 @@ Download both files and put them into the take-home raw folder found here:
 
 The app is now ready to run on an Android device. If you would like to run it in Android Studio's virtual device, you will have to create a new emulator as follows.
 
-1. Click on the run button located at the top of your IDE. You will be prompted to Select Deployment Target. Select “Create New Emulator” button.
+* Click on the run button located at the top of your IDE. You will be prompted to Select Deployment Target. Select “Create New Emulator” button.
 
 ![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
 
-2. Select a device definition from the list provided and click the next button
+* Select a device definition from the list provided and click the next button
            
 ![AndroidHardwareSelection](uploads/images/AndroidHardwareSelection.png)
 
-3. Select system image from the list shown. API Level 22 and above works best. Preferably, choose 22 with Android 5.1. Click next to continue.
+* Select system image from the list shown. API Level 22 and above works best. Preferably, choose 22 with Android 5.1. Click next to continue.
 	
 ![AndroidMarshmellowSystem](uploads/images/AndroidMarshmellowSystem.png)
 
-4. Name the emulator and specify the necessary configuration as shown below. Click on finish to save the emulator. 
+* Name the emulator and specify the necessary configuration as shown below. Click on finish to save the emulator. 
 	
 ![AndroidVirtualDevice](uploads/images/AndroidVirtualDevice.png)
 
-5. You will be presented with the “Select Deployment Target” dialogue again . Choose the emulator we just created and click on the “OK” button.
+* You will be presented with the “Select Deployment Target” dialogue again . Choose the emulator we just created and click on the “OK” button.
 
 ![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
 
-6. The emulator will be opened with application installed. You have successfully configured the development environment to get you started.
+* The emulator will be opened with application installed. You have successfully configured the development environment to get you started.
 
 Now you should be able to run the app in your virtual device.
 
