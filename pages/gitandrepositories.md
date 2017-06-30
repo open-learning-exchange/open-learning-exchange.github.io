@@ -141,10 +141,10 @@ For more info on differences of merging vs. rebasing (and when to use which one)
  If you would like to understand how syncing with the fork works, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
 ## Summary of steps
-1. Clone your git <username> repository and open your terminal window to it by using ``cd``
+1. Clone your git \<username\> repository and open your terminal window to it by using ``cd``
 2. Check for changes you missed while you were gone. You can do this with ``git fetch upstream``([info](https://git-scm.com/docs/git-fetch)), ``git checkout master``, and ``git merge upstream/master``([info](https://git-scm.com/docs/git-merge)).
   - if you're slightly confused, remember that the "upstream" we're referring to is the [main github repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)
-3. Push the updates you just downloaded to your <username> repository by using ``git push``([info](https://git-scm.com/docs/git-info))
+3. Push the updates you just downloaded to your \<username\> repository by using ``git push``([info](https://git-scm.com/docs/git-info))
 
 ## Useful links
 [Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) - You can sync changes made in the original repository with a fork.
