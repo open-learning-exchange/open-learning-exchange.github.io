@@ -25,5 +25,4 @@ Some other tools I use:
 
 My website: [daisywatson.co.nf](http://daisywatson.co.nf)
 
-
-![image](http://daisywatson.co.nf/ocean-rocks.jpeg)
+![](http://i.imgur.com/5wc7G1B.jpg)
