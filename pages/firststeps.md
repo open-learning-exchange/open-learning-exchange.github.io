@@ -41,6 +41,11 @@ There is no official deadline to complete these steps, but most candidates who a
 
 Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). You can either scroll down to see the instructions or you can also find them in the README.md file. Do not make ANY changes to the text or files: simply read and follow the directions for your operating system.
 
+**NOTE**: Ubuntu users can simply download a [bash file](uploads/bashScripts/instructions.sh) to automate this process. 
+- Download the [file](uploads/bashScripts/instructions.sh), go to terminal and simply type:  
+```
+    sudo sh instructions.sh
+```
 ## Step 2 - Vagrant Tutorial
 
 Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
@@ -97,4 +102,3 @@ If you meet these requirements let us know in the Gitter chat, so we can send th
 After the pull request, message in the gitter chat or message dogi to let him know you are done so that he can set up a meeting and add you to the team as soon as possible.
 
 Once you have been added to the team, read through the [intern orientation document](internorientation.md).
-
