@@ -64,13 +64,13 @@ You may want to try and issue the above commands on your system, to get familiar
 ## MacOS(X)
 - Before installing vagrant, we recommend that you designate a new folder to your work at OLE. This is for a number of reasons, however this enables you to be organized and efficient in your work. If everything is in one place, it makes for a more convenient workflow.
 - To do this, you can make a folder directly through the OS, or we will provide conventional terminal commands below.
-Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
+- Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 
 ```
     cd Desktop
     mkdir OLE
 ```
-> If you opted to make the folder yourself, just follow the steps below. Replace the "OLE" in the first step with your folder's location. 
+> If you opted to make the folder yourself, just follow the steps below. Replace the "OLE" in the first step with your folder's location.
 
 ```
     cd OLE
