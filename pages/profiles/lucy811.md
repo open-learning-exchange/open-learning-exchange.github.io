@@ -3,7 +3,7 @@ Hello, everyone! My name is Lucy. I am a recent graduate student in _Illinois In
 
 * * * *
 
-First Header|Second Header
+Personal Information|Detail
 ------------|------------------------------
 Name|Jingting(Lucy) Chen
 Location| Chicago,IL
