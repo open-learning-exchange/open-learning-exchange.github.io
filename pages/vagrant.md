@@ -62,8 +62,18 @@ You may want to try and issue the above commands on your system, to get familiar
 ```
 
 ## MacOS(X)
+- Before installing vagrant, we recommend that you designate a new folder to your work at OLE. This is for a number of reasons, however this enables you to be organized and efficient in your work. If everything is in one place, it makes for a more convenient workflow.
+- To do this, you can make a folder directly through the OS, or we will provide conventional terminal commands below.
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
+
 ```
+    cd Desktop
+    mkdir OLE
+```
+> If you opted to make the folder yourself, just follow the steps below. Replace the "OLE" in the first step with your folder's location. 
+
+```
+    cd OLE
     brew tap caskroom/cask
     brew cask install vagrant
     brew cask install virtualbox
@@ -138,7 +148,7 @@ Additional subcommands are available, but are either more advanced
 or not commonly used. To see all subcommands, run the command
 `vagrant list-commands`.
 ```
- 
+
 ## Troubleshooting
 1. When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
 
