@@ -13,27 +13,29 @@ Download both files and put them into the take-home raw folder found here:
 
 - take-home\app\src\main\res\raw
 
-The app is now ready to run on an Android device. If you would like to run it in Android Studio's virtual device you made, you will have to modify the code as follows.
+The app is now ready to run on an Android device. If you would like to run it in Android Studio's virtual device, you will have to create a new emulator as follows.
 
-In Android Studio:
-- Navigate to app-> java-> pbell.offline.ole.org.pbell-> FullscreenLogin
-- Find ```public boolean updateActivityLog()```
-- Comment out the line containing ```String m_WLANMAC = wm.getConnectionInfo().getMacAddress();```
-- Add this line below the one you just commented out ```String m_WLANMAC = "mymac";```
+1. Click on the run button located at the top of your IDE. You will be prompted to Select Deployment Target. Select “Create New Emulator” button.
 
-Your code should now look like this:
+![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
 
-![AndroidFullscreenLoginMod](uploads/images/AndroidFullscreenLoginMod.png)
+2. Select a device definition from the list provided and click the next button
+           
+![AndroidHardwareSelection](uploads/images/AndroidHardwareSelection.png)
 
-Again, In Android Studio:
-- Navigate to app->java-> pbell.offline.ole.org.pbell-> FullscreenActivity
-- Find ```public boolean updateActivityOpenedResources(String resource_name, String resourceid)```
-- Comment out the line containing ```String m_WLANMAC = wm.getConnectionInfo().getMacAddress();```
-- Add this line below the one you just commented out ```String m_WLANMAC = "mymac";```
+3. Select system image from the list shown. API Level 22 and above works best. Preferably, choose 22 with Android 5.1. Click next to continue.
+	
+![AndroidMarshmellowSystem](uploads/images/AndroidMarshmellowSystem.png)
 
-Your code should look like this:
+4. Name the emulator and specify the necessary configuration as shown below. Click on finish to save the emulator. 
+	
+![AndroidVirtualDevice](uploads/images/AndroidVirtualDevice.png)
 
-![AndroidscreenActivity](uploads/images/AndroidscreenActivityMod.png)
+5. You will be presented with the “Select Deployment Target” dialogue again . Choose the emulator we just created and click on the “OK” button.
+
+![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
+
+6. The emulator will be opened with application installed. You have successfully configured the development environment to get you started.
 
 Now you should be able to run the app in your virtual device.
 
