@@ -30,7 +30,6 @@
 |[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26|
 |[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27|
 |[LKhadka](profiles/LKhadka.md)| 2017-06-29 |
-=======
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
