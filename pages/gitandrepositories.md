@@ -100,7 +100,7 @@ If you get something like this,
 ```
 it means that you are in the Vim text editor. Simply type ```:wq``` which stands for **w**rite and **q**uit. However, if you want to insert something you can type "i" and Vim goes into edit mode. To exit edit mode just hit "escape".
 
-Now, your repository has been synced to the upstream/master. However, a discrepancy may still exist between your local (and now your origin/master) versus your username.github.io on GitHub. You will now use `git diff` and `git status` to check how your local repository compares to your username.github.io repository. Depending on whether you have more or less commits than your username.github.io, you will either use `git pull` to receive any changes or `git push` to push updates to your repository. Most likely, as you just synced with the master, you will use `git push` to push updates to your username.github.io repo. 
+Now, your repository has been synced to the upstream/master. However, a discrepancy may still exist between your local (and now your origin/master) versus your username.github.io on GitHub. You will now use `git diff` and `git status` to check how your local repository compares to your username.github.io repository. Depending on whether you have more or less commits than your username.github.io, you will either use `git pull` to receive any changes or `git push` to push updates to your repository. Most likely, as you just synced with the master, you will use `git push` to push updates to your username.github.io repo.
 ``` bash
 $ git push origin master
 ```
@@ -140,11 +140,17 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 
  If you would like to understand how syncing with the fork works, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
+## Summary of steps
+1. Clone your git <username> repository and open your terminal window to it by using ``cd``
+2. Check for changes you missed while you were gone. You can do this with ``git fetch upstream``([info](https://git-scm.com/docs/git-fetch)), ``git checkout master``, and ``git merge upstream/master``([info](https://git-scm.com/docs/git-merge)).
+  - if you're slightly confused, remember that the "upstream" we're referring to is the [main github repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)
+3. Push the updates you just downloaded to your <username> repository by using ``git push``([info](https://git-scm.com/docs/git-info))
+
 ## Useful links
 [Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) - You can sync changes made in the original repository with a fork.
 [Sync fork](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
 [GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - An Introduction to Git and Github for beginners from Hubspot.
-[Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations. 
+[Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 [Other helpful links and videos](faq.md#Helpful_Links)
 
 #### Return to [First Steps](firststeps.md)
