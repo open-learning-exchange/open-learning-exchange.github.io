@@ -78,7 +78,7 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
-We recommend using at least 5 different types of Markdown and to try to be as creative as possible. We recommend some pictures or charts. If you need some inspiration, please take a look at some examples right [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/profiles).  
+We recommend using at least 5 different types of Markdown and to try to be as creative as possible. We recommend including some pictures or charts. If you need some inspiration, please take a look at some examples right [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/profiles).  
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
