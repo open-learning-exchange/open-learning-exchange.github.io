@@ -86,7 +86,7 @@ Create three more issues, add comments to three other issues, and resolve three 
 
 ## Step 9 - Submit Survey
 
-Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have done the list in Step 8.
+Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have done the list at the end of Step 8.
 
 **NOTE**: You need make sure your pull request must be merged to count.
 
