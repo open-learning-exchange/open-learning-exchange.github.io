@@ -78,7 +78,7 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
-We recommend using at least 5 different types of Markdown and to try to be as creative as possible. We recommend including some pictures or charts. If you need some inspiration, please take a look at some examples right [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/profiles).  
+We recommend using at least 5 different types of Markdown and to try to be as creative as possible. 
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
@@ -101,7 +101,7 @@ Often there will be some feedback from the reviewer at this point for you to add
 
 After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/profiles). Be creative.  
+**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. We recommend including some pictures and charts. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/profiles). Be creative.  
 Make sure to include a rawgit link to your page in your pull request. 
 
 ## Useful Links
