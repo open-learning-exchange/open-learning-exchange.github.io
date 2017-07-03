@@ -4,16 +4,7 @@ One of the deploment enviroments that you are going to be working in is Android 
 
 ## Android Studio Emulator Setup
 
-When you first run the app you will get an error saying you are missing two .apk files. You can find the following files here:
-
-- [firefox_49_0_multi_android.apk](https://drive.google.com/file/d/0Bw7aA5bLT2P9TTBNSDl3VzgtVnc/view)
-- [adobe_reader.apk](https://drive.google.com/open?id=0Bw7aA5bLT2P9UmhlcHA1R1BoZnM) 
-
-Download both files and put them into the take-home raw folder found here:
-
-- take-home\app\src\main\res\raw
-
-The app is now ready to run on an Android device. If you would like to run it in Android Studio's virtual device, you will have to create a new emulator as follows.
+To run the app in Android Studio's virtual device, you will have to create a new emulator as follows.
 
 * Click on the run button located at the top of your IDE. You will be prompted to Select Deployment Target. Select “Create New Emulator” button.
 
