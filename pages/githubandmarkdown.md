@@ -110,7 +110,7 @@ Make sure to include a rawgit link to your page in your pull request.
 [Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - An awesome interactive tutorial to experiment and learn more Markdown syntax with.
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official Github Guide for Markdown syntax
 [How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories from Github.
-[MarkdowntoHTML Converter](http://markdowntohtml.co) - A Converter between Markdown and HTML.
+[Comparison of document markup languages](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages) - The description of markdown and other document markup languages.
 [Other helpful links and videos](faq.md#Helpful_Links)
 
 #### Return to [First Steps](firststeps.md)
