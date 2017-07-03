@@ -18,7 +18,7 @@ The BeLL (Basic e-Learning Library) is not only a library, but also an individua
 
 * Nations are BeLL apps for the Internet, allowing communities to interact with each other.
 * Nations are over a group of communities, and can run reports on any communities it owns.
-* As you complete these instructions, an OLE administrator will complete the registration of your community with the Virtual Intern Nation.
+* As you complete these instructions, and OLE administrator will complete the registration of your community with the Virtual Intern Nation.
 
 ## MacOS(X) and Ubuntu
 Check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up`, open Firefox (download if you don't already have it - it is VERY important that you always use the BeLL in Firefox to limit errors). Go to http://127.0.0.1:5985. You could also use http://localhost:5985, meaning that 127.0.0.1 refers to your machine. Both localhost:5985 and 127.0.0.1:5985 are interchangeable. Make sure to have the correct port number (5985), otherwise it will not work correctly.
