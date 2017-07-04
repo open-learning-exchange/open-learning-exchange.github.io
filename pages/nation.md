@@ -8,7 +8,7 @@
 
 In step 4, you registered your community BeLL with the nation. Now, you will learn how to keep your community BeLL in sync with the nation.
 
-There should be constant communication between the nation and the communities. While is not necessary for remote communities in the field, it is ideal for our goals of improving the software and testing the increasing forms of communication and feedback between the nation and the communities. This communication takes the form of a syncing process from the community side, where you select material to send to the nation.
+There should be constant communication between the nation and the communities. While it is not necessary for remote communities in the field, it is ideal for our goals of "improving the software and testing the increasing forms of communication and feedback between the nation and the communities". This communication takes the form of a syncing process from the community side, where you select material to send to the nation.
 
 Click [here](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) to access your Community BeLL.
 
@@ -45,7 +45,7 @@ Then, you should see a list of communities and the option to generate a report i
 ## Different Kinds of Update
 Above is the usual syncing process from the community side. There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys.  
 
-As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see  publication(s) ready to be downloaded. 
+As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see  publication(s) ready to be downloaded.
 
 ![Update from the nation](uploads/images/update_publication.jpg "Dashboard in your localhost")
 
@@ -58,5 +58,3 @@ First, click the "Update Available" button and it will reload your homepage with
 [Helpful links and videos](faq.md#Helpful_Links)
 
 #### Return to [First Steps](firststeps.md)
-
-
