@@ -44,7 +44,7 @@ For everyone's convenience, we highly recommend that you follow a certain struct
 
 ![](uploads/images/2.png)  
 
-Additionally, creating a checklist will help others understand what you have done and what needs to be done - it helps you coordinate with your team members with the issues you are facing in an organized manner. Github will render the task list in markdown and will look similar to something like the checklist shown below this paragraph.
+Additionally, creating a checklist will help others understand what you have done and what needs to be done - it helps you coordinate with your team members with the issues you are facing in an organized manner. Github will render the task list in markdown, and it will look similar to something like the checklist shown below this paragraph.
 
 [x] Check for issue number in pull request title
 [x] Are there any unneeded files in the pull request?
