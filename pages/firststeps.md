@@ -86,9 +86,11 @@ Create three more issues, add comments to three other issues, and resolve three 
 
 ## Step 9 - Submit Survey
 
-Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have done the list at the end of Step 8.
+Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the following done:
 
-**NOTE**: You need make sure your pull request must be merged to count.
+* 5 merged pull requests (1 PR at step-3, 1 PR at step-6 and 3 PR's at step-8).
+* 4 comments (1 comment at step-6, 3 comment's at step-8)
+* 4 issues (1 issue at step-6, 3 issues at step-8)
 
 If you meet these requirements let us know in the Gitter chat, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7). Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
 
