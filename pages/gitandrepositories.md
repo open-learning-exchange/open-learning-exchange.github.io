@@ -28,7 +28,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).
 
 ##### Clone with HTTPS or Use SSH?
-Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS we talked above, you can also use SSH to do the same thing. You can explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
+Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS we talked about above, you can also use SSH to do the same thing. You can explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
 ### Explanation about repositories and syncing process
 The previous step created a clone of your repository on your OS.
