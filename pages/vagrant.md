@@ -61,6 +61,14 @@ You may want to try and issue the above commands on your system, to get familiar
     sudo apt-get install vagrant
 ```
 
+## Arch
+```
+    sudo pacman -Sy virtualbox virtualbox-host-modules net-tools
+    sudo pacman -Sy rsync
+    sudo pacman -Sy vagrant
+```
+
+
 ## MacOS(X)
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```
