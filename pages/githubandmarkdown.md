@@ -12,13 +12,15 @@ You must already have a GitHub account with verified email address.
 [Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. Markdown (MD) Wiki allows us to use Markdown on GitHub so that it is easily compatible with our current development environment. To put it simply, Markdown is a markup language that is very easy to learn and allows you to quickly format your text.
 In the screenshot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
 
-![Markdown Preview](uploads/images/markdown.png)
+![Markdown Preview](uploads/images/markdown.png)    
 
 #### Markdown != HTML
 
-Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the code on the right is the corresponding HTML syntax):
+Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the right column shows the preview):
 
 ![Markdown Cheat Sheet](uploads/images/markdown1.png)
+
+[Markdown Tutorial](http://tylingsoft.com/tutorial.md/#whats-markdown)
 
 You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -68,13 +70,15 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 
 ### Create a new file as your personal MD Wiki page and commit your changes
- Before creating your file create a new branch using the branch drop down menu as shown below.
+ Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
 
 ![New Branch](uploads/images/New Branch.png)
 
  To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is `EmilyLarkin.github.io/pages/profiles/EmilyLarkin.md`, so yours should be named in the same manner, only using your username.
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
+
+We recommend using at least 5 different types of Markdown and to try to be as creative as possible. 
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
