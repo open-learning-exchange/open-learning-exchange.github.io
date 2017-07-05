@@ -7,6 +7,16 @@ Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-
 
 If so, here are instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [Macintosh](http://kb.parallels.com/en/5653)
 
+- Before installing vagrant, we recommend that you designate a new folder to your work at OLE. This is for a number of reasons, however this enables you to be organized and efficient in your work. If everything is in one place, it makes for a more convenient workflow.
+- To do this, you can make a folder directly through the OS, or we will provide conventional terminal commands below.
+- Open your `Terminal`(MacOSX), `cmd`(Windows), or `shell`(Linux). The commands should be identical on all three operating systems.
+
+
+ 1.    ``cd Desktop``
+ 2.    ``mkdir OLE``
+
+
+
 
 ## Windows
 
@@ -62,15 +72,8 @@ You may want to try and issue the above commands on your system, to get familiar
 ```
 
 ## MacOS(X)
-- Before installing vagrant, we recommend that you designate a new folder to your work at OLE. This is for a number of reasons, however this enables you to be organized and efficient in your work. If everything is in one place, it makes for a more convenient workflow.
-- To do this, you can make a folder directly through the OS, or we will provide conventional terminal commands below.
 - Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
-
-```
-    cd Desktop
-    mkdir OLE
-```
-> If you opted to make the folder yourself, just follow the steps below. Replace the "OLE" in the first step with your folder's location.
+> The first step is locating to the local folder you have designated to do your work in. If you have a different locaiton than the one you see in the first step, replace the "OLE" with the directory to your folder. 
 
 ```
     cd OLE
