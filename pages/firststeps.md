@@ -42,7 +42,7 @@ There is no official deadline to complete these steps, but most candidates who a
 Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). You can either scroll down to see the instructions or you can also find them in the README.md file. Do not make ANY changes to the text or files: simply read and follow the directions for your operating system.
 
 **NOTE**: Ubuntu users can simply download a [bash file](uploads/bashScripts/instructions.sh) to automate this process. 
-- Download the [file](uploads/bashScripts/instructions.sh), go to terminal and simply type:  
+- Download the [file](uploads/bashScripts/instructions.sh). Make sure that the downloaded file is in the same directory as previously downloaded ole--vagrant-vi. Go to terminal and simply type:  
 ```
     sudo sh instructions.sh
 ```
