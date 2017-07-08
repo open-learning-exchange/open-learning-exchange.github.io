@@ -75,7 +75,11 @@ Follow the directions under the [Nation BeLL tab](nation.md).
 
 ## Step 8 - Create Issues and Pull Requests
 
+<<<<<<< HEAD
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! Learn by teaching - or editing our teaching tool, in this case!
+=======
+Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. Generally, you should resolve three issues which create by yourself to prevent multiple pull requests for the same issue. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! Learn by teaching - or editing our teaching tool, in this case! 
+>>>>>>> 658bfa48a1b1666acfbbf7c6de402e3c62d70cf6
 
 **NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the title of your pull request.
 
