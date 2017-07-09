@@ -29,7 +29,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 1. Send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org.
 
-2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository or profile page, look for these buttons in the top right of the screen.  Also follow each other to see what others in the group are doing.
+2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository or a profile page, look for these buttons on the top of the page.  Also follow each other to see what others in the group are doing.
 
 ![Watch screenshot](uploads/images/Watch.png)
 * * *
