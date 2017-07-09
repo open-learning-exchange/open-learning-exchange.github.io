@@ -58,7 +58,7 @@ If you login to your own fork of OLE on Github, Github will notice that you rece
 
 ![](uploads/images/4.png)
 
-For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest to include the issue for which the pull request is resolving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request) to the title of your PR and also the rawgit link into the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the rawgit link.
+For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest including the issue number for which the pull request is resolving in the title of your PR (for example, if your pull request fixes the issue number 320, then add #320 to the title of your PR), as well as the rawgit link in the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the rawgit link.
 
 ![](uploads/images/2.png)
 
