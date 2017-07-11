@@ -18,7 +18,7 @@ powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.github
 ```
 To run your community BeLL at the end of the installation, please, find the MyBeLL icon on your desktop and double click on it. It will open a Firefox browser and take you directly to your community BeLL webpage.
 
-## Dependencies
+### Dependencies
 These programs will be automatically installed on your computer:  
 - **Chocolatey**  
 [Chocolatey](https://chocolatey.org/) is a package manager for Windows that we use to install/uninstall all the other programs in a simple and reliable way.  
@@ -29,13 +29,14 @@ These programs will be automatically installed on your computer:
 - **VirtualBox**  
 [Virtualbox](https://www.virtualbox.org) allows you to install a software virtualization package as an application on your OS.
 
-*Note: if you already have VirtualBox installed on your computer and have existing VMs on virtualbox already, running the command   above to reintall VirtualBox won't affect/wipe out your existing VMs; it will just add the OLE VM to the ones you have.*
+**Note:** if you already have VirtualBox installed on your computer and have existing VMs on virtualbox already, running the command above to reintall VirtualBox won't affect/wipe out your existing VMs; it will just add the OLE VM to the ones you have.
+
 - **Vagrant**  
 [Vagrant](https://www.vagrantup.com) is an open source tool for building development environments. 
 - **Firefox**  
 [Firefox](https://www.mozilla.org/en-US/firefox/new/) is a popular browser, which is guaranteed to work nicely with your community BeLL.
 
-# MacOS(X)
+## MacOS(X)
 
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```bash
@@ -44,7 +45,7 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
     brew cask install virtualbox
 ```
 
-# Ubuntu
+## Ubuntu
 
 ```bash
     sudo apt-get install git
@@ -52,8 +53,8 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
     sudo apt-get install vagrant
 ```
 
-# MacOS(X) and Ubuntu ONLY    
-## Install a communityBeLL on your OS
+## MacOS(X) and Ubuntu ONLY    
+### Install a communityBeLL on your OS
 
 In your `Terminal` or `Command Prompt`, type:
 ```bash
