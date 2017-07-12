@@ -19,14 +19,15 @@ powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.github
 To run your community BeLL at the end of the installation, please, find the MyBeLL icon on your desktop and double click on it. It will open a Firefox browser and take you directly to your community BeLL webpage.
 
 ### Dependencies
-These programs will be automatically installed on your computer:  
+These programs will be automatically installed on your computer:
+
 - **Chocolatey**  
 [Chocolatey](https://chocolatey.org/) is a package manager for Windows that we use to install/uninstall all the other programs in a simple and reliable way.  
 - **Bonjour**  
 [Bonjour](https://support.apple.com/kb/DL999?locale=en_US) is used to implement zero-configuration networking on your computer.
 - **Git**  
 [Git](https://git-scm.com) is an open source version control system that we use for communication and management for our software. More specifically, we use gitter.im for communication and github.com for software management.
-- **VirtualBox**  
+- **VirtualBox**
 [Virtualbox](https://www.virtualbox.org) allows you to install a software virtualization package as an application on your OS.
 
 **Note:** if you already have VirtualBox installed on your computer and have existing VMs on virtualbox already, running the command above to reintall VirtualBox won't affect/wipe out your existing VMs; it will just add the OLE VM to the ones you have.
