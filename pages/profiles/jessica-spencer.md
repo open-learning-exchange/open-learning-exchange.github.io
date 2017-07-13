@@ -1,12 +1,13 @@
-# Jessica Spencer
-## Location: New York, New York - EST
-## OS: _macOS Sierra version 10.12.15_
+# Jessica Spencer Profile
+## Basic Information
+### Location: New York, New York - EST
+### OS: _macOS Sierra version 10.12.15_
 
 ---
+## About Me
 
-I am a recent graduate with a degree in CS and American Studies: Politics, Policy and Society from Connecticut College. 
-I use technology to contribute to the community, be it through research, education or social impact. 
-Recently I've also been into learning about 
+I am a recent graduate with a degree in CS and American Studies: Politics, Policy and Society from Connecticut College. I use technology to contribute to the community, be it through research, education or social impact. Recently I've also been into learning about:
+
 * computer security 
 * civic technology 
 * finding air-conditioned cafes
