@@ -29,7 +29,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 1. Send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org.
 
-2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository or profile page, look for these buttons in the top right of the screen.  Also follow each other to see what others in the group are doing.
+2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository, look for this button at the top right of the page.  Also follow each other to see what others in the group are doing.
 
 ![Watch screenshot](uploads/images/Watch.png)
 * * *
@@ -75,22 +75,24 @@ Follow the directions under the [Nation BeLL tab](nation.md).
 
 ## Step 8 - Create Issues and Pull Requests
 
+<<<<<<< HEAD
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! Learn by teaching - or editing our teaching tool, in this case!
+=======
+
+Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests, have them approved by at least three others and merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat and wait for at least three others to approve it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case! 
+
+>>>>>>> upstream/master
 
 **NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the title of your pull request.
 
 - Once you complete Step 8 you will have:
-   * 5 pull requests made ( one at step 3, one at step 6 and three at step 8)
+   * 5 merged pull requests made ( one at step 3, one at step 6 and three at step 8)
    * 4 comments made ( one at step 6 and three at step 8)
    * 4 issues created ( one at step 6 and three at step 8)
 
 ## Step 9 - Submit Survey
 
-Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the following done:
-
-* 5 merged pull requests (1 PR at step-3, 1 PR at step-6 and 3 PR's at step-8).
-* 4 comments (1 comment at step-6, 3 comment's at step-8)
-* 4 issues (1 issue at step-6, 3 issues at step-8)
+Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the previous list from Step 8 done.
 
 If you meet these requirements let us know in the Gitter chat, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7). Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
 
