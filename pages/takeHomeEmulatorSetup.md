@@ -4,36 +4,29 @@ One of the deploment enviroments that you are going to be working in is Android 
 
 ## Android Studio Emulator Setup
 
-When you first run the app you will get an error saying you are missing two .apk files. You can find the following files here:
+To run the app in Android Studio's virtual device, you will have to create a new emulator as follows.
 
-- [firefox_49_0_multi_android.apk](https://drive.google.com/file/d/0Bw7aA5bLT2P9TTBNSDl3VzgtVnc/view)
-- [adobe_reader.apk](https://drive.google.com/open?id=0Bw7aA5bLT2P9UmhlcHA1R1BoZnM) 
+* Click on the run button located at the top of your IDE. You will be prompted to Select Deployment Target. Select “Create New Emulator” button.
 
-Download both files and put them into the take-home raw folder found here:
+![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
 
-- take-home\app\src\main\res\raw
+* Select a device definition from the list provided and click the next button
+           
+![AndroidHardwareSelection](uploads/images/AndroidHardwareSelection.png)
 
-The app is now ready to run on an Android device. If you would like to run it in Android Studio's virtual device you made, you will have to modify the code as follows.
+* Select system image from the list shown. API Level 22 and above works best. Preferably, choose 22 with Android 5.1. Click next to continue.
+	
+![AndroidMarshmellowSystem](uploads/images/AndroidMarshmellowSystem.png)
 
-In Android Studio:
-- Navigate to app-> java-> pbell.offline.ole.org.pbell-> FullscreenLogin
-- Find ```public boolean updateActivityLog()```
-- Comment out the line containing ```String m_WLANMAC = wm.getConnectionInfo().getMacAddress();```
-- Add this line below the one you just commented out ```String m_WLANMAC = "mymac";```
+* Name the emulator and specify the necessary configuration as shown below. Click on finish to save the emulator. 
+	
+![AndroidVirtualDevice](uploads/images/AndroidVirtualDevice.png)
 
-Your code should now look like this:
+* You will be presented with the “Select Deployment Target” dialogue again . Choose the emulator we just created and click on the “OK” button.
 
-![AndroidFullscreenLoginMod](uploads/images/AndroidFullscreenLoginMod.png)
+![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
 
-Again, In Android Studio:
-- Navigate to app->java-> pbell.offline.ole.org.pbell-> FullscreenActivity
-- Find ```public boolean updateActivityOpenedResources(String resource_name, String resourceid)```
-- Comment out the line containing ```String m_WLANMAC = wm.getConnectionInfo().getMacAddress();```
-- Add this line below the one you just commented out ```String m_WLANMAC = "mymac";```
-
-Your code should look like this:
-
-![AndroidscreenActivity](uploads/images/AndroidscreenActivityMod.png)
+* The emulator will be opened with application installed. You have successfully configured the development environment to get you started.
 
 Now you should be able to run the app in your virtual device.
 

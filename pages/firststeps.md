@@ -29,7 +29,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 1. Send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org.
 
-2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository or profile page, look for these buttons in the top right of the screen.  Also follow each other to see what others in the group are doing.
+2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository, look for this button at the top right of the page.  Also follow each other to see what others in the group are doing.
 
 ![Watch screenshot](uploads/images/Watch.png)
 * * *
@@ -39,7 +39,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 1 - BeLL Installation
 
-Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). You can either scroll down to see the instructions or you can also find them in the README.md file. Do not make ANY changes to the text or files: simply read and follow the directions for your operating system.
+Go to the [configurations page](configurations.md) to read through the basic instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
 
 ## Step 2 - Vagrant Tutorial
 
@@ -62,7 +62,7 @@ Follow the directions at [Git Repositories](gitandrepositories.md) to keep your 
 
 ## Step 6 - GitHub Issues Tutorial
 
-Follow the tutorial under the [GitHub Issues tab](githubissues.md) to create at least one issue. You will be working to improve this MarkDown Wiki so that it is clearer and better for future use. Post a link in Gitter whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Next, fix the issue on your repo and create pull requests, as per the tutorial. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile will become. This is very important to potential employers, thus we encourage you to spend time to increase your numbers to strengthen your profile. Make sure you have created at least one issue, resolved it and have a pull request with the fix merged before proceeding to the next step.
+Follow the tutorial under the [GitHub Issues tab](githubissues.md) to create at least one issue. You will be working to improve this MarkDown Wiki so that it is clearer and better for future use. Post a link in Gitter whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. It is ok to file an issue on minor typos and very small changes, but do not make this the case for all of the issues that you file. Contribute as much value as you can in each issue you file. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Next, fix the issue on your repo and create pull requests, as per the tutorial. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile will become. This is very important to potential employers, thus we encourage you to spend time to increase your numbers to strengthen your profile. Make sure you have created at least one issue, resolved it and have a pull request with the fix merged before proceeding to the next step.
 
 - Once you complete Step 6 you will have:
    * 2 pull requests made ( one at step 3 and one at step 6)
@@ -77,7 +77,8 @@ Follow the directions under the [Nation BeLL tab](nation.md).
 
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests, have them approved by at least three others and merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat and wait for at least three others to approve it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case! 
 
-**NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the description of your pull request.
+
+**NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the title of your pull request.
 
 - Once you complete Step 8 you will have:
    * 5 merged pull requests made ( one at step 3, one at step 6 and three at step 8)
