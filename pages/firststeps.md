@@ -39,7 +39,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 1 - BeLL Installation
 
-Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). You can either scroll down to see the instructions or you can also find them in the README.md file. Do not make ANY changes to the text or files: simply read and follow the directions for your operating system.
+Go to the [configurations page](configurations.md) to read through the basic instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
 
 ## Step 2 - Vagrant Tutorial
 
