@@ -43,12 +43,12 @@
 
   * [Start Here](pages/firststeps.md)
   - - - -
-  * [Vagrant](pages/vagrant.md)
-  * [GitHub and Markdown](pages/githubandmarkdown.md)
-  * [BeLL-Apps](pages/bellapps.md)
-  * [Git Repositories](pages/gitandrepositories.md)
-  * [GitHub Issues](pages/githubissues.md)
-  * [Nation BeLL](pages/nation.md)
+  * [Step 2: Vagrant](pages/vagrant.md)
+  * [Step 3: GitHub and Markdown](pages/githubandmarkdown.md)
+  * [Step 4: BeLL-Apps](pages/bellapps.md)
+  * [Step 5: Git Repositories](pages/gitandrepositories.md)
+  * [Step 6: GitHub Issues](pages/githubissues.md)
+  * [Step 7: Nation BeLL](pages/nation.md)
   - - - -
   * [Community Login](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html)
 
