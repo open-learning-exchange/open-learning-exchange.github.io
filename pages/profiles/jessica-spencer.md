@@ -6,10 +6,18 @@
 ---
 ## About Me
 
-I am a recent graduate with a degree in CS and American Studies: Politics, Policy and Society from Connecticut College. I use technology to contribute to the community, be it through research, education or social impact. Recently I've also been into learning about:
+I am a recent graduate with a degree in CS and American Studies: Politics, Policy and Society from Connecticut College. I use technology to contribute to the community, be it through research, education or social impact. I've previously done work in `java, python, full stack development.`
+|language|hello world :) |
+|---|---|
+|Java | ```java public static void main(String args[]) { System.out.println("Hello World!"); } ``` |
+|Python| ```python main(): print("Hello World!") end ```|
+|HTML|```html <h1>Hello <b>WORLD!</b> </h1>    ``` |
+
+Recently I've also been into learning about:
 
 * computer security 
 * civic technology 
 * finding air-conditioned cafes
 
-Looking forward to joining the project! Wiggle the cursor after you redirect to this [link](https://www.staggeringbeauty.com/) to understand how I feel. 
+>Looking forward to joining the project! Wiggle the cursor after you redirect to this [link](https://www.staggeringbeauty.com/) to understand how I feel. 
+
