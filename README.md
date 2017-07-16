@@ -95,6 +95,9 @@ How to Preview
 
 In order to preview your changes locally, prior to publishing online, you may need to take some actions. Below some starting points for each operating system, also check out MDwiki's [frequently asked questions](http://dynalon.github.io/mdwiki/#!faq.md) section for some ideas.
 
+If you are writing markdown from the [editor](https://github.com/open-learning-exchange/open-learning-exchange.github.io/new/master) in the GitHub browser interface, you are able to preview that markdown by clicking the preview button.
+
+
 Mac OS
 ------
 
