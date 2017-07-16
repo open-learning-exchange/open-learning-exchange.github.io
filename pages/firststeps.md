@@ -97,7 +97,7 @@ Head over to [Open Learning Exchange Repository](https://github.com/open-learnin
 
 If you meet these requirements let us know in the Gitter chat, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7).
 
-**NOTE**: The survey sent by __@dogi__ will appear on the bottom of the page similar to where the __"Publications"__ and __"Updates"__ appear in your community BeLL. do click on the survey and fill it out and submit it.
+**NOTE**: The survey sent by __@dogi__ will appear at the bottom of the page where the `Publications` and `Updates` appear in your community BeLL. Click on `Survey`, fill it out and submit it.
 
 Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
 
