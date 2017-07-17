@@ -32,7 +32,7 @@ Select `OK` on the 'Allow USB debugging' pop-up.
 
 You would see a 'USB debugging connected' notification.
 
-## Part 2: Install and Run Take Home on your device
+## Part 2: Install and run Take Home on your device
 
 * __Go to menu bar and select 'Run app' from 'Run' drop-down menu.__
 
