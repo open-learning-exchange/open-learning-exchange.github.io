@@ -1,6 +1,6 @@
 # Android Device Setup
 
-You can also test your code on an actual android device. Follow these steps to install and run the **Take Home** on an Android Device:
+Follow these steps to install and run the **Take Home** application on an Android device:
  
 ## Part 1: Setting up your Device
 
