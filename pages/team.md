@@ -33,7 +33,7 @@
 |[LKhadka](profiles/LKhadka.md)| 2017-06-29 |
 |[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 |
 |[daisywatson](profiles/daisywatson.md)| 2017-07-12 |
-
+|[lucy811](profiles/lucy811.md)| 2017-07-18 |
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
