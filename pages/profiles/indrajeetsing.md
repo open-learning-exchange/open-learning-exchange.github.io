@@ -1,8 +1,7 @@
-Name- Indrajeet Singh Mandloi  
-Location- Arlington, Texas  
-Time Zone- CST  
-OS- Windows 10 64 bit  
-
+**Name-** Indrajeet Singh Mandloi  
+**Location-** Arlington, Texas  
+**Time Zone-** CST  
+**OS-** Windows 10 64 bit  
 ---
 
 ## About me
