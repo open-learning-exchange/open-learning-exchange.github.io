@@ -71,7 +71,7 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
 
 ---------------------------------------------------------------------------
 
-After installing a community BeLL on your OS, you will need to follow these instructions to use your community BeLL. Vagrant only works when you are in the same directory where your Vagrantfile is located. To make sure you are in the proper directory, open your `Terminal` and type `cd ole--vagrant-vi`.
+After installing a community BeLL on your OS, you will need to follow these instructions to use your community BeLL. Vagrant only works when you are in the same directory where your Vagrantfile is located. If you did not navigate to another directory to install vagrant, then your vagrantfile will be located inside the ole-vagrant-vi directory. To navigate there, open your Terminal and type cd ole--vagrant-vi.
 Now that you are in the right directory, check the status of your Vagrant machine with `vagrant global-status`. You should have the following message:
 
 ```
