@@ -95,7 +95,11 @@ Create three more issues, add comments to three other issues, and resolve three 
 
 Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the previous list from Step 8 done.
 
-If you meet these requirements let us know in the Gitter chat, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7). Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
+If you meet these requirements let us know in the Gitter chat, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7).
+
+**NOTE**: The survey sent by __@dogi__ will appear at the bottom of the page where the `Publications` and `Updates` appear in your community BeLL. Click on `Survey`, fill it out and submit it.
+
+Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
 
 After the pull request, message in the gitter chat or message dogi to let him know you are done so that he can set up a meeting and add you to the team as soon as possible.
 
