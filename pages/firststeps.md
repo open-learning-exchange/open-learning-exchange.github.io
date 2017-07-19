@@ -39,8 +39,13 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 1 - BeLL Installation
 
-Go to [this GitHub address](https://github.com/dogi/ole--vagrant-vi) to read through the basic instructions on how to create your own digital library (what we call the BeLL, or Basic e-Learning Library). You can either scroll down to see the instructions or you can also find them in the README.md file. Do not make ANY changes to the text or files: simply read and follow the directions for your operating system.
+Go to the [configurations page](configurations.md) to read through the basic instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
 
+**NOTE**: Ubuntu users can simply download a [bash file](uploads/bashScripts/instructions.sh) to automate this process. 
+- Download the [file](uploads/bashScripts/instructions.sh). Make sure that the downloaded file is in the same directory as previously downloaded ole--vagrant-vi. Go to terminal and simply type:  
+```
+    sudo sh instructions.sh
+```
 ## Step 2 - Vagrant Tutorial
 
 Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
@@ -77,6 +82,7 @@ Follow the directions under the [Nation BeLL tab](nation.md).
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! Learn by teaching - or editing our teaching tool, in this case!
 =======
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. Generally, you should resolve three issues which create by yourself to prevent multiple pull requests for the same issue. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! Learn by teaching - or editing our teaching tool, in this case! 
@@ -84,6 +90,11 @@ Create three more issues, add comments to three other issues, and resolve three 
 =======
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! Learn by teaching - or editing our teaching tool, in this case! 
 >>>>>>> 09604e19ced8c5d53cc7b0e98e6747a29a9a1a4b
+=======
+
+Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests, have them approved by at least three others and merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat and wait for at least three others to approve it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case! 
+
+>>>>>>> upstream/master
 
 **NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the title of your pull request.
 

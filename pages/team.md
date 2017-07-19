@@ -32,6 +32,7 @@
 |[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27 |
 |[LKhadka](profiles/LKhadka.md)| 2017-06-29 |
 |[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 |
+|[daisywatson](profiles/daisywatson.md)| 2017-07-12 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
