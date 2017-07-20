@@ -5,7 +5,6 @@
 |**➤ Volunteers**||
 |[mappuji](profiles/mappuji.md) (**ex-intern**)| 2017-04-29 |
 |**➤ Interns**||
-|[alexkarasik](profiles/alexkarasik.md)| 2016-11-17 |
 |[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 |
 |[hannahgdubin](profiles/hannahgdubin.md)| 2017-01-01 |
 |[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 2017-02-19 |
@@ -32,6 +31,7 @@
 |[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26|
 |[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27|
 |[LKhadka](profiles/LKhadka.md)| 2017-06-29 |
+|[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
