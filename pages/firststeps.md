@@ -39,13 +39,8 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 1 - BeLL Installation
 
-Go to the [configurations page](configurations.md) to read through the basic instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
+Go to the [installation page](installation.md) to read through the basic instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
 
-**NOTE**: Ubuntu users can simply download a [bash file](uploads/bashScripts/instructions.sh) to automate this process. 
-- Download the [file](uploads/bashScripts/instructions.sh). Make sure that the downloaded file is in the same directory as previously downloaded ole--vagrant-vi. Go to terminal and simply type:  
-```
-    sudo sh instructions.sh
-```
 ## Step 2 - Vagrant Tutorial
 
 Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
