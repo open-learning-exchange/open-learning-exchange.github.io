@@ -132,6 +132,9 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 - [GitHub and Markdown Short Tutorials](https://guides.github.com/)
 - [GitHub Help](https://help.github.com/categories/search/)
+- [GitHub's Git Tutorial](https://try.github.io/)
+- [Git-it Workshop](http://jlord.us/git-it/)
+- [Codecademy's Learn Git Course](https://www.codecademy.com/learn/learn-git)
 - [Git Pro (Book)](https://git-scm.com/book/en/v2)
 - [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
 - [GitHub Tips](https://github.com/git-tips/tips/blob/master/README.md)
