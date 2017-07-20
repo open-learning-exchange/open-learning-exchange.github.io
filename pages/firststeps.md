@@ -41,6 +41,8 @@ There is no official deadline to complete these steps, but most candidates who a
 
 Go to the [installation page](installation.md) to read through the basic instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
 
+Once you have finished installing, go to the [configurations page](configurations.md) to set up your Community BeLL.
+
 ## Step 2 - Vagrant Tutorial
 
 Review these [Vagrant instructions](vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.

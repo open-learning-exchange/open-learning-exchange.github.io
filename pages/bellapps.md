@@ -3,7 +3,7 @@
 * Understand how the BeLL-Apps interface is structured
 * Add resources to your Community in order to get accustomed to the BeLL-Apps interface
   
-After submitting your configurations in step 1, you should be registered by now. you will be able to see the main dashboard of the BeLL.
+After submitting your configurations in step 1, you should be registered by now. Open the main dashboard of the BeLL.
 
 Watch the videos below to learn the basic functions of your BeLL. These videos are a little old as they were created 2 years ago, but they should do a decent job of orienting you to the BeLL.   
 
@@ -34,6 +34,22 @@ Fill out the information, although as we are just doing this as a test, accuracy
 >Do not forget to send the screenshot of your community configurations (from earlier when you registered your configurations) to our chat.
 
 In case you forgot to take the screenshot of your configurations, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html, then click on manager, click on the configurations tab, take a screenshot of the page, and submit it to the Gitter chat.
+
+## Different Kinds of Updates to Your Community
+There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys. 
+
+As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see  publication(s) ready to be downloaded.
+
+![Update from the nation](uploads/images/update_publication.jpg "Dashboard in your localhost")
+
+First, click the "Update Available" button and it will reload your homepage with a successful update message. An update refers to a new software update which improves the software. Next, click on "Publications", under the Manager page, and sync the publications. Publications add new resources or courses to your library. Last, repeat the process of sending an activities sync to the nation.
+
+**NOTE**: If there is an "internet connection" error when you click the "Update Available" button, change your browser to Firefox or Chrome.
+
+## Take the Course
+We developed a course for aspiring virtual interns so that we could test the software used to build courses and find bugs/things to improve. It is your job to take the course and find out what needs to be fixed/improved from the student standpoint.
+
+To get to Publications, click on "Manager" from the dashboard, then the publications button. Take the course and note things that don't work or could be improved upon in this [google doc](https://docs.google.com/document/d/1HgITKOW2uMKy1Ec_gKc6Zl6tsv-RkD2j7vzRgheLR7g/edit?usp=sharing).
 
 ## Useful Links
 

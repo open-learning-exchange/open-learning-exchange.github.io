@@ -76,5 +76,5 @@ You now have a working [community BeLL](http://127.0.0.1:5985/apps/_design/bell/
 It is advisable to use Firefox to access your community BeLL, so if you don't have it already on your system, you may want to download it.
 
 
-##Next Steps
+## Next Steps
 Now that you have installed your community Bell, go back to the [first steps page](firststeps.md) and click on the configurations link to register your community into the nation.
