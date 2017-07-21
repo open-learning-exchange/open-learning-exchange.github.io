@@ -48,11 +48,7 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
 
 ## Ubuntu
 
-**NOTE**: Ubuntu users can simply download a [bash file](uploads/bashScripts/instructions.sh) to automate this process. 
-- Download the [file](uploads/bashScripts/instructions.sh). Make sure that the downloaded file is in the same directory as previously downloaded ole--vagrant-vi. Go to terminal and simply type:  
-```bash
-    sudo sh instructions.sh
-```
+**NOTE**: You may [download this bash file](uploads/bashScripts/instructions.sh) to automate the installation process. Make sure that the bash file is in the directory where you would like to store the [ole--vagrant-vi](https://github.com/dogi/ole--vagrant-vi) repository. Go to terminal and use command `sudo sh instructions.sh`
 
 If it does not work, try this:
 
