@@ -49,7 +49,9 @@ First, click the "Update Available" button and it will reload your homepage with
 ## Take the Course
 We developed a course for aspiring virtual interns so that we could test the software used to build courses and find bugs/things to improve. It is your job to take the course and find out what needs to be fixed/improved from the student standpoint.
 
-To get to Publications, click on "Manager" from the dashboard, then the publications button. Take the course and note things that don't work or could be improved upon in this [google doc](https://docs.google.com/document/d/1HgITKOW2uMKy1Ec_gKc6Zl6tsv-RkD2j7vzRgheLR7g/edit?usp=sharing).
+To get to Publications, click on "Manager" from the dashboard, then the publications button. Take the course, and the last question will ask you to specify any problems or improvements/suggestions that you have. Remember, people taking these courses out in remote areas of the world will probably run into the same problems if you do not raise them now and let the team know. This is a very important task, and your help is much appreciated. 
+
+Try to be as specific as possible, and include screenshots when necessary. 
 
 ## Useful Links
 
