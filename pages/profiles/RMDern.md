@@ -1,4 +1,3 @@
-***
 # Ryan Dern
 
 ![alt text](https://avatars1.githubusercontent.com/u/3970591?v=4&u=cd5b816291cf3846a408caa8fdbca028641462b0&s=200 "Ryan Dern")
