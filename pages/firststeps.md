@@ -70,7 +70,7 @@ Follow the directions at [Git Repositories](gitandrepositories.md) to keep your 
 Follow the tutorial under the [GitHub Issues tab](githubissues.md) to create at least one issue. You will be working to improve this MarkDown Wiki so that it is clearer and better for future use. Post a link in Gitter whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. It is ok to file an issue on minor typos and very small changes, but do not make this the case for all of the issues that you file. Contribute as much value as you can in each issue you file. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Next, fix the issue on your repo and create pull requests, as per the tutorial. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile will become. This is very important to potential employers, thus we encourage you to spend time to increase your numbers to strengthen your profile. Make sure you have created at least one issue, resolved it and have a pull request with the fix merged before proceeding to the next step.
 
 - Once you complete Step 6 you will have:
-   * 2 pull requests made ( one at step 3 and one at step 6)
+   * 2 pull requests made (one at step 3 and one at step 6)
    * 1 comment added
    * 1 issue created
 
@@ -87,9 +87,9 @@ Create three more issues, add comments to three other issues, and resolve three 
 **NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the title of your pull request.
 
 - Once you complete Step 8 you will have:
-   * 5 merged pull requests made ( one at step 3, one at step 6 and three at step 8)
-   * 4 comments made ( one at step 6 and three at step 8)
-   * 4 issues created ( one at step 6 and three at step 8)
+   * 5 merged pull requests made (one at step 3, one at step 6 and three at step 8)
+   * 4 comments made (one at step 6 and three at step 8)
+   * 4 issues created (one at step 6 and three at step 8)
 
 ## Step 9 - Submit Survey
 
