@@ -18,7 +18,7 @@ In my free time, you might find me rock climbing, hiking, playing darts, or volu
 # Skills
 
 | Languages    | IDEs & Engines  | Other Tools|
-| :-----------:|:---------------:| :---------:|
+| :-----------|:---------------| :---------|
 | C/C++        | Visual Studio   | JIRA       |
 | C#           | Vi              | Git Bash   |
 | Python       | Emacs           | SVN        |
