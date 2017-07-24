@@ -91,6 +91,8 @@ Create three more issues, add comments to three other issues, and resolve three 
    * 4 comments made (one at step 6 and three at step 8)
    * 4 issues created (one at step 6 and three at step 8)
 
+**NOTE**: To track your progress with the number of pull requests and issues go [here](pages/track-progress.html)   
+
 ## Step 9 - Submit Survey
 
 Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the previous list from Step 8 done.
