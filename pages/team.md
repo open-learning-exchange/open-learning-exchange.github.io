@@ -21,11 +21,20 @@
 |[shahswet](profiles/shahswet.md)| 2017-05-01 |
 |[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 |
 |[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 |
-|[snazzybunny](profiles/snazzybunny.md)| 2017-05-11 |
+|[snazzybunny](profiles/snazzybunny.md) (**Embedded Systems Lead**)| 2017-05-11 |
 |[duongdo27](profiles/duongdo.md)| 2017-05-12 |
 |[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 |
 |[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 |
 |[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 |
+|[adhikara](profiles/adhikara.md)| 2017-06-16 |
+|[sagun98](profiles/sagun98.md)| 2017-06-22 |
+|[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26 |
+|[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27 |
+|[LKhadka](profiles/LKhadka.md)| 2017-06-29 |
+|[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 |
+|[daisywatson](profiles/daisywatson.md)| 2017-07-12 |
+|[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 |
+|[lucy811](profiles/lucy811.md)| 2017-07-18 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|

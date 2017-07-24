@@ -13,7 +13,20 @@
 #### Description: 
 - It is a classic pong game. We can play against the computer by controlling the player paddle. Each time a player scores, the scores are displayed on the screen. The first player to reach 10 points wins the game and the winner is also displayed on the screen at the end of the game. The game will be developed using C++ on Arduino IDE, which includes parameters for court size and game speed, a method for moving the ball across the court, and a method to control collisions with the paddle. The code is based on decision tree algorithm. The movement of the AI paddle is decided based on the position of the oncoming ball and the previous position of the AI paddle.
 * * *
+|Skills    |
+|----------|
+| Java     |
+| JavaFX   |
+| HTML     |
+| CSS      |
+| AngularJS|
+| MySQL    |
+* * *
+|Languages Known:| English, Hindi, Kannada| 
+|----------------|:-----------------------|
+* * *
 
 ## To know more about me:
-#### Linkedin: <https://www.linkedin.com/in/navneetkarnam>
-#### Personal Page: <https://navneetkarnam.wixsite.com/navkrnm>
+[Linkedin](https://www.linkedin.com/in/navneetkarnam)
+
+[Personal Page](https://navneetkarnam.wixsite.com/navkrnm)

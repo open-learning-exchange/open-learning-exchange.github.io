@@ -12,13 +12,13 @@ The BeLL (Basic e-Learning Library) is not only a library, but also an individua
 
 * Communities are how the BeLL functions on a local network, with users connecting to a community using either a laptop or a RPi and a router.
 * Periodically communities sync with Nations on the internet, which includes sending and receiving educational materials.
-* In step 1 you created a BeLL community on your computer. As you follow the steps on this page you will access and configure your community.
+* In step 1 you created a BeLL community on your computer. As you follow the steps on this page, you will access and configure your community.
 
 #### BeLL Nations (Internet)
 
 * Nations are BeLL apps for the Internet, allowing communities to interact with each other.
 * Nations are over a group of communities, and can run reports on any communities it owns.
-* As you complete these instructions, and OLE administrator will complete the registration of your community with the Virtual Intern Nation.
+* As you complete these instructions, an OLE administrator will complete the registration of your community with the Virtual Intern Nation.
 
 ## MacOS(X) and Ubuntu
 Check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up`, open Firefox (download if you don't already have it - it is VERY important that you always use the BeLL in Firefox to limit errors). Go to http://127.0.0.1:5985. You could also use http://localhost:5985, meaning that 127.0.0.1 refers to your machine. Both localhost:5985 and 127.0.0.1:5985 are interchangeable. Make sure to have the correct port number (5985), otherwise it will not work correctly.
@@ -35,7 +35,9 @@ Double click on the MyBeLL icon on your desktop. It will open up a Firefox brows
 
 ## User Interface
 To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html.
-You will be shown the page below. Make sure you fill it out completely.
+You will be shown the page below. Make sure you fill it out completely. 
+
+**Note:** *Interns should include their own details in the space provided.*
 
 ![Become an Administrator](uploads/images/become_admin.png)
 
@@ -81,7 +83,7 @@ Click on each one of these links and right-click to save them to your desktop.
 
 From there, go to your Vagrant BeLL. Select `Library` from the dashboard and then select `Add a Resource`. You will then be prompted to go to this page:
 
-![Burka Avenger Upload](uploads/images/burkaavengerupload.png)
+![Burka Avenger Upload](uploads/images/addresourcenew.JPG)
 
 Fill out the information, although as we are just doing this as a test, accuracy of information/source of content is not very important. Just be sure to put something, even if it is your name (as in the example above). The important thing is that you have something in all of the drop-down menus and that you choose the correct format for the `Open` menu (e.g., PDF, mp3, or mp4). Then, click on `Save`. You have now uploaded the resource. Next, you should find it and make sure that you can open it. Repeat the same process for all three resources.
 
