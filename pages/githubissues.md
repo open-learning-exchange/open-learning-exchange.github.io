@@ -48,7 +48,7 @@ For edits to this markdown wiki, we recommend that your commit messages only con
 Here is an example of how you would write your commit message:
 `$ git commit -m "Add commit message style guide and add Rawgit section (fixes #841)"`
 
-**NOTE**: in your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section.
+**NOTE**: in your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more here [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
 ## Rawgit
 Rawgit is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md`and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request.
