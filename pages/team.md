@@ -27,8 +27,14 @@
 |[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 |
 |[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 |
 |[adhikara](profiles/adhikara.md)| 2017-06-16 |
-|[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26|
-|[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27|
+|[sagun98](profiles/sagun98.md)| 2017-06-22 |
+|[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26 |
+|[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27 |
+|[LKhadka](profiles/LKhadka.md)| 2017-06-29 |
+|[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 |
+|[daisywatson](profiles/daisywatson.md)| 2017-07-12 |
+|[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 |
+|[lucy811](profiles/lucy811.md)| 2017-07-18 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|

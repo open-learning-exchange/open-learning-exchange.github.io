@@ -12,7 +12,6 @@ You must already have a GitHub account with verified email address.
 [Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. Markdown (MD) Wiki allows us to use Markdown on GitHub so that it is easily compatible with our current development environment. To put it simply, Markdown is a markup language that is very easy to learn and allows you to quickly format your text.
 In the screenshot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
 
-
 ![Markdown Preview](uploads/images/markdown.png)    
 
 #### Markdown != HTML
@@ -79,13 +78,15 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
+We recommend using at least 5 different types of Markdown and to try to be as creative as possible. 
+
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
   ![Edit](uploads/images/Edit.png)
 
 Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/profiles/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
-**NOTE**: If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incongito"** or **"privacy"** mode.
+**NOTE**: If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 to reload the page with cache cleared. 
 
 ### Open a pull request
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.   
@@ -109,6 +110,7 @@ Make sure to include a rawgit link to your page in your pull request.
 [Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - An awesome interactive tutorial to experiment and learn more Markdown syntax with.
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official Github Guide for Markdown syntax
 [How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories from Github.
+[Comparison of markdown and html](http://thebridge.jp/en/wp/wp-content/uploads/2013/05/markdown-vs-html.png) - The general comparison of markdown and html.
 [Other helpful links and videos](faq.md#Helpful_Links)
 
 #### Return to [First Steps](firststeps.md)
