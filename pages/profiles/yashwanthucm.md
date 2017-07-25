@@ -14,9 +14,9 @@
 
 |Name | Duration | Technologies used  | 
 |:--- |:----:| :----:|
-|1.Hotel Managment   |  4Months | MEAN STACK (MongoDb,Express,Angular.Js,Node.Js)  |
-|2.Heart Beat Calculater | 3monhs  | Matlab | 
-|3.Reporting Tool | 6Months |  JavaScript,Bootstrap and HTML  | 
+|1.Hotel Management   |  4 Months | MEAN STACK (MongoDb,Express,Angular.Js,Node.Js)  |
+|2.Heart Beat Calculater | 3 Months  | Matlab | 
+|3.Reporting Tool | 6 Months |  JavaScript,Bootstrap and HTML  | 
 
 
 -------
