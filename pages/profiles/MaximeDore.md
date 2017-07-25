@@ -8,4 +8,4 @@
 ---
 
 ### About ME:
-I am originaly from France but have dual citizneship. I **bold**code**bold**, **bold**rock climb**bold**, and I am curently looking for a full time position as a **bold**Web Developer**bold**.
+I am originaly from France but have dual citizneship. I **code**, **rock climb**, and I am curently looking for a full time position as a **Web Developer**.
