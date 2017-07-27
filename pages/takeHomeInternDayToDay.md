@@ -25,7 +25,7 @@ I don’t know how to stress the importance of this point any further. The 3 mon
 > “You will get out of this internship only what you put into it” – [Waryhermit](profiles/waryhermit.md) (Former Intern Lead)
 
 You can document your findings by either adding to [existing guides](takehome.md) (including this guide) or by creating new ones.
-I know some of your English ain't so good, which is completely fine. You can still be an effective intern by improving the Take Home code and solving issues for the Take Home application. But, If you come across an important improvement to a guide or want to create a new guide, but don’t feel confident in your ability to convey it in a guide you can then ask some who is confident to listen to it in voice chat, [talk.ole.org](talk.ole.org), and they can then convert it into a guide/new step for you. Just don’t wear out your welcome with this option on other interns.
+I know for some of you English is not your first language, which is completely fine. You can still be an effective intern by improving the Take Home code and solving issues for the Take Home application. But, If you come across an important improvement to a guide or want to create a new guide, but don’t feel confident in your ability to convey it in a guide you can then ask some who is confident to listen to it in voice chat, [talk.ole.org](talk.ole.org), and they can then convert it into a guide/new step for you. Just don’t wear out your welcome with this option on other interns.
 
 ## Weekly Mobile Intern Goals
 With your 18 hours each week you should try and do one of the following two things each week (or to really impress me, do both).
