@@ -58,3 +58,6 @@ After entering the IP and Port, click "Test". You should be prompted with a succ
 ![AndroidTakeHomeCompleted](uploads/images/AndroidTakeHomeCompleted.png)
 
 You should now be able to sign into the Take Home application using the same login information that you use for MyBeLL.
+
+Note: In order to connect to the Nation instead of your local community, place URL 'http://vi:oleoleole@vi.ole.org:5999' into the Setup menu and login with the default credentials (User: `admin` Password: `password`)
+

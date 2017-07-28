@@ -142,10 +142,23 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 
  If you would like to understand how syncing with the fork works, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
+## Summary of steps
+
+1. Clone your git \<username\> repository and open your terminal window to it by using ``cd``
+
+2. Check for changes you missed while you were gone. You can do this with ``git fetch upstream``([info](https://git-scm.com/docs/git-fetch)), ``git checkout master``, and ``git merge upstream/master``([info](https://git-scm.com/docs/git-merge)).
+  - If you're slightly confused, remember that the "upstream" we're referring to is the [main github repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io).
+3. Push the updates you just downloaded to your \<username\> repository by using ``git push``([info](https://git-scm.com/docs/git-info))
+
+**NOTE**: For steps 2 and 3, developers should do this every time they begin to work. This way we as a team can minimize data loss, and can save you some time. You want to make sure that you are always up to date with the GitHub.
+
+
 ## Useful links
 [Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) - You can sync changes made in the original repository with a fork.
 [Sync fork](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
 [GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - An Introduction to Git and Github for beginners from Hubspot.
+[GitHub's Git Tutorial](https://try.github.io/) - An interactive tutorial to learn GitHub in the browser.
+[Git-it Workshop](http://jlord.us/git-it/) - Runs in your terminal to work and provides a hands-on approach to learn Git and GitHub repositories.
 [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 [Other helpful links and videos](faq.md#Helpful_Links)
 
