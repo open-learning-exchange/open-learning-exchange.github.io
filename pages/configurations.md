@@ -1,68 +1,59 @@
-# Installation
+# Configurations
 
-You will need community [BeLL](https://github.com/open-learning-exchange/BeLL-Apps) (Basic e-Learning Library), including all its dependencies, on your system in order to complete the next steps. To install it, please follow the directions for your OS.
+## Objectives
+* Learn about BeLL-Apps and the difference between Nations and Communities
+* Use Vagrant to create a local BeLL Community
+* Register your Community and sync it with the Nation
+
+## Introduction
+The BeLL (Basic e-Learning Library) is not only a library, but also an individualized learning system, where students can select their own books and courses to target their individual goals. The two kinds of BeLL apps are described below.
+
+#### BeLL Communities (Local)
+
+* Communities are how the BeLL functions on a local network, with users connecting to a community using either a laptop or a RPi and a router.
+* Periodically communities sync with Nations on the internet, which includes sending and receiving educational materials.
+* In step 1 you created a BeLL community on your computer. As you follow the steps on this page, you will access and configure your community.
+
+#### BeLL Nations (Internet)
+
+* Nations are BeLL apps for the Internet, allowing communities to interact with each other.
+* Nations are over a group of communities, and can run reports on any communities it owns.
+* As you complete these instructions, an OLE administrator will complete the registration of your community with the Virtual Intern Nation.
+
+## MacOS(X) and Ubuntu
+Check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up`, open Firefox (download if you don't already have it - it is VERY important that you always use the BeLL in Firefox to limit errors). Go to http://127.0.0.1:5985. You could also use http://localhost:5985, meaning that 127.0.0.1 refers to your machine. Both localhost:5985 and 127.0.0.1:5985 are interchangeable. Make sure to have the correct port number (5985), otherwise it will not work correctly.
+
+Your first page will look like this:
+
+![127.0.0.1:5985](uploads/images/127.0.0.1-5985.png)
 
 ## Windows
+Double click on the MyBeLL icon on your desktop. It will open up a Firefox browser and show you the user interface (see below).  If you get an `Unable to connect` page, check it out at [FAQ](faq.md#Technical_Issues_and_Questions).
 
-We wrote two different scripts to install the community BeLL and its dependencies on your computer.
-They are equivalent, so if you run Windows 8.1 or above, you can use either of the two. If you like, you can also try both and provide us with feedback on which one worked better for you. It is not required to try both, but we would be grateful if you decide to do so.   
-To run the script, just copy and paste one of the lines below in a [Command prompt](http://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/) opened as administrator.
+## Database
+[CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the BeLL. You can see the backend interface of our CouchDB at http://127.0.0.1:5985/_utils. In _utils, you have the opportunity to see all of the software dev of your vagrant BeLL.
 
-#### Windows 8.1 and above
-```bat
-@powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/dogi/ole--vagrant-vi/master/windows/install.ps1', 'install.ps1')" && @powershell -NoProfile -ExecutionPolicy Bypass -Command ".\install.ps1"
-```
-#### Windows 7 and above
-```bat
-powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/dogi/ole--vagrant-vi/master/windows/install.bat', 'install.bat')" && start install.bat && exit
-```
-To run your community BeLL at the end of the installation, please, find the MyBeLL icon on your desktop and double click on it. It will open a Firefox browser and take you directly to your community BeLL webpage.
+## User Interface
+To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html.
+You will be shown the page below. Make sure you fill it out completely.
 
-### Dependencies
-These programs will be automatically installed on your computer:
+![Become an Administrator](uploads/images/become_admin.png)
 
-- **Chocolatey**  
-[Chocolatey](https://chocolatey.org/) is a package manager for Windows that we use to install/uninstall all the other programs in a simple and reliable way.  
-- **Bonjour**  
-[Bonjour](https://support.apple.com/kb/DL999?locale=en_US) is used to implement zero-configuration networking on your computer.
-- **Git**  
-[Git](https://git-scm.com) is an open source version control system that we use for communication and management for our software. More specifically, we use gitter.im for communication and github.com for software management.
-- **VirtualBox**
-[Virtualbox](https://www.virtualbox.org) allows you to install a software virtualization package as an application on your OS.
+Next, fill out the configurations. Your name and code must be the same and should match your Github name. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below:
 
-**Note:** if you already have VirtualBox installed on your computer and have existing VMs on virtualbox already, running the command above to reintall VirtualBox won't affect/wipe out your existing VMs; it will just add the OLE VM to the ones you have.
+![Configurations](uploads/images/configuration.png)
 
-- **Vagrant**  
-[Vagrant](https://www.vagrantup.com) is an open source tool for building development environments. 
-- **Firefox**  
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) is a popular browser, which is guaranteed to work nicely with your community BeLL.
 
-## MacOS(X)
+After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.
 
-Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
-```bash
-    brew install git 
-    brew cask install vagrant
-    brew cask install virtualbox
-```
+**Note:** *Adding images to Gitter is quite simple. Just drag and drop your screenshot from it's location on your computer to the chat and it will automatically upload.*
 
-## Ubuntu
+Then, click on the **"Register"** button and you will receive a confirmation that your community has been successfully registered (see below).
 
-```bash
-    sudo apt-get install git
-    sudo apt-get install virtualbox
-    sudo apt-get install vagrant
-```
+![Successfully Registered](uploads/images/success.png)
 
-## MacOS(X) and Ubuntu ONLY    
-### Install a community BeLL on your OS
+Then, post to the Gitter chat the screenshot you took earlier, so an admin can accept your registration request.
+Your registration request will be accepted from the nation side (this may take a day or two depending on when dogi sees it). After this happens, once you are logged in and online, you will see the following message.
 
-In your `Terminal` or `Command Prompt`, type:
-```bash
-git clone https://github.com/dogi/ole--vagrant-vi.git
-cd ole--vagrant-vi
-vagrant up
-```
+![Community Accepted into the Nation](uploads/images/registration_accepted.png)
 
-You now have a working [community BeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS.
-It is advisable to use Firefox to access your community BeLL, so if you don't have it already on your system, you may want to download it.
