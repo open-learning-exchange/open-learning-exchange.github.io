@@ -62,6 +62,7 @@
   * [Simple Dev Install](pages/simpleinstall.md)
   * [HTML Resources](pages/htmlresources.md)
   * [Take Home](pages/takehome.md)
+  * [Angular Reboot](pages/angular.md)
 
 [Members](pages/team.md)
 [FAQ](pages/faq.md)
