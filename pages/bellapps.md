@@ -2,8 +2,6 @@
 ## Objectives
 * Understand how the BeLL-Apps interface is structured
 * Add resources to your Community in order to get accustomed to the BeLL-Apps interface
-  
-After submitting your configurations in step 1, you should be registered by now. Open the main dashboard of the BeLL.
 
 Watch the videos below to learn the basic functions of your BeLL. These videos are a little old as they were created 2 years ago, but they should do a decent job of orienting you to the BeLL.   
 
