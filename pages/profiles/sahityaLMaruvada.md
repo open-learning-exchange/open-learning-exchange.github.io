@@ -20,6 +20,7 @@ I am very much interested in exploring the domains of Cloud Computing and IoT. M
 
 ---
 Please feel free to connect with me on  
+
 * [LinkedIn](https://www.linkedin.com/in/lalitha-sahitya-maruvada/)  
 * [Github](https://github.com/sahityaLMaruvada)
 
