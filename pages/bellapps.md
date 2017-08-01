@@ -1,9 +1,8 @@
 # BeLL-Apps: Communities and Nations
-## Objective
-* Learn about BeLL-Apps and the difference between Nations and Communities
-* Use Vagrant to create a local BeLL Community
-* Register your Community and sync it with the Nation
+## Objectives
+* Understand how the BeLL-Apps interface is structured
 * Add resources to your Community in order to get accustomed to the BeLL-Apps interface
+
 
 ## Introduction
 The BeLL (Basic e-Learning Library) is not only a library, but also an individualized learning system, where students can select their own books and courses to target their individual goals. The two kinds of BeLL apps are described below.
@@ -63,6 +62,7 @@ When your registration request will be accepted from the nation side, as long as
 
 After submitting your configurations, you will be able to see the main dashboard of the BeLL.
 
+
 Watch the videos below to learn the basic functions of your BeLL. These videos are a little old as they were created 2 years ago, but they should do a decent job of orienting you to the BeLL.   
 
 [My Dashboard Video](uploads/movies/mydashboard.mp4)
@@ -92,6 +92,24 @@ Fill out the information, although as we are just doing this as a test, accuracy
 >Do not forget to send the screenshot of your community configurations (from earlier when you registered your configurations) to our chat.
 
 In case you forgot to take the screenshot of your configurations, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html, then click on manager, click on the configurations tab, take a screenshot of the page, and submit it to the Gitter chat.
+
+## Different Kinds of Updates to Your Community
+There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys. 
+
+As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see  publication(s) ready to be downloaded.
+
+![Update from the nation](uploads/images/update_publication.jpg "Dashboard in your localhost")
+
+First, click the "Update Available" button and it will reload your homepage with a successful update message. An update refers to a new software update which improves the software. Next, click on "Publications", under the Manager page, and sync the publications. Publications add new resources or courses to your library. Last, repeat the process of sending an activities sync to the nation.
+
+**NOTE**: If there is an "internet connection" error when you click the "Update Available" button, change your browser to Firefox or Chrome.
+
+## Take the Course
+We developed a course for aspiring virtual interns so that we could test the software used to build courses and find bugs/things to improve. It is your job to take the course and find out what needs to be fixed/improved from the student standpoint.
+
+To get to Publications, click on "Manager" from the dashboard, then the publications button. Take the course, and the last question will ask you to specify any problems or improvements/suggestions that you have. Remember, people taking these courses out in remote areas of the world will probably run into the same problems if you do not raise them now and let the team know. This is a very important task, and your help is much appreciated. 
+
+Try to be as specific as possible, and include screenshots when necessary. 
 
 ## Useful Links
 
