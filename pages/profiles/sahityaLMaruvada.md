@@ -16,11 +16,11 @@ Java  |  Ruby On Rails
 HTML,CSS| Wordpress
 Ruby|
 
-I am very much interested in exploring the domain of Cloud Computing. My personal favourite hobbies include Traveling, Cooking.
+I am very much interested in exploring the domains of Cloud Computing and IoT. My personal favourite hobbies include Traveling, Cooking.
 
 ---
 Please feel free to connect with me on  
-*[LinkedIn](https://www.linkedin.com/in/lalitha-sahitya-maruvada/)  
-*[Github](https://github.com/sahityaLMaruvada)
+* [LinkedIn](https://www.linkedin.com/in/lalitha-sahitya-maruvada/)  
+* [Github](https://github.com/sahityaLMaruvada)
 
 
