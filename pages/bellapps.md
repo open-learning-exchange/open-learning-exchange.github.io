@@ -37,6 +37,8 @@ Double click on the MyBeLL icon on your desktop. It will open up a Firefox brows
 To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html.
 You will be shown the page below. Make sure you fill it out completely. 
 
+**Note:** *Save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request*
+
 **Note:** *Interns should include their own details in the space provided.*
 
 ![Become an Administrator](uploads/images/become_admin.png)
