@@ -105,7 +105,7 @@ If you don't want to download any apps, you can use the Terminal on your Mac and
 Windows
 -------
 
-> This section needs some :heart:.
+Text editors like [Brackets](http://brackets.io/), and [VS Code](https://code.visualstudio.com/) and [Atom](https://atom.io/) (with extensions) can be used to preview your files locally. However, it is recommended that you use the online GitHub editor and RawGit to make and view your changes in your own branch of your fork of this repository because this is the only sure way to preview your changes for live accuracy.
 
 Linux
 -----
