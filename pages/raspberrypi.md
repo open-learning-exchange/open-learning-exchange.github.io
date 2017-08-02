@@ -8,25 +8,31 @@ Basically, they both do the same thing - create an image compatible with the Ras
 Since ole--vagrant-treehouses creates a virtual machine, it works on all platforms such as Mac OSX, Windows, and Linux, but requires that the system supports virtualization. This also means that it will use extra resources in terms of memory, hdd space, and CPU cycles. Including this option meant that anyone can create an image for the Raspberry Pi.
 
 ### Pre-requisites
-Testing the custom treehouse-builder image
+**Testing the custom treehouse-builder image:**
 
 - Any RPI for testing the microSD card
 - A class10 microSD card (minimum 8 Gb)
 - microSD card reader/writer for writing the new image to the class10 microSD card
 
-Building the image with treehouse-builder:
+**Building the image with treehouse-builder:**
 
 - Ubuntu or Debian based Linux distribution (Other distros are untested)
 - An Internet connection
 
-Building the treehouse-builder image with ole--vagrant-treehouses:
+**Building the treehouse-builder image with ole--vagrant-treehouses:**
 
-- A virtualization enabled computer (If you could run the vagrant tutorial without problems, then this is fine.) 
-- Vagrant & Virtualbox
+- A virtualization enabled computer with Vagrant & Virtualbox (If you could run the [vagrant](http://open-learning-exchange.github.io/#!pages/vagrant.md) tutorial without problems, then this is fine.) 
 - 8 Gb of harddrive space
 - 4 Gb of memory
 - An Internet connection
 
+### Raspberry Pi Meetings
+We meet on Wednesdays at 4:30 PM EST online on [talk.ole.org](talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usally a few minutes after 4:30PM, unless of course the meeting is cancelled but that will be stated in the #raspberrypi chat channel on gitter.
+
+### How can I help?
+So far we are working on creating a seamless experience for the image, meaning we want the user to have many connectivity options without having to tinker too much with the Raspberry Pi. So our main concerns at the moment is getting the RPI to connect to different connectivity options such as wifi/bluetooth/ethernet automatically. This allows more people to contribute and debug unexpected problems. Once we have those bases covered, we can move onwards to the software part. 
+
+There is always something to be done. Check the [Github issues](https://github.com/ole-vi/treehouse-builder/issues) for treehouse-builder to see what needs to be done or [waffle.io](https://waffle.io/ole-vi/treehouse-builder). Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go thorugh the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on gitter.
 
 ### Brief rundown of treehouse-builder
 Below we have a short step-by-step rundown of how the treehouse-builder works:
@@ -42,13 +48,6 @@ e. Run autorun script
 4. Enter chroot if user needs to perform additional commands
 5. Write the .img file with a program such as Etcher to the MicroSD card.
 
-### Raspberry Pi Meetings
-We meet on Wednesdays at 4:30 PM EST online on [talk.ole.org](talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usally a few minutes after 4:30PM, unless of course the meeting is cancelled but that will be stated in the #raspberrypi chat channel on gitter.
-
-### How can I help?
-So far we are working on creating a seamless experience for the image, meaning we want the user to have many connectivity options without having to tinker too much with the Raspberry Pi. So our main concerns at the moment is getting the RPI to connect to different connectivity options such as wifi/bluetooth/ethernet automatically. This allows more people to contribute and debug unexpected problems. Once we have those bases covered, we can move onwards to the software part. 
-
-There is always something to be done. Check the [Github issues](https://github.com/ole-vi/treehouse-builder/issues) for treehouse-builder to see what needs to be done or [waffle.io](https://waffle.io/ole-vi/treehouse-builder). Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go thorugh the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on gitter.
 
 ### List of relevant repositories
 [ole--vagrant-treehouses](https://github.com/ole-vi/ole--vagrant-treehouses) - Creates a vagrant virtual machine that runs treehouse-builder.
