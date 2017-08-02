@@ -7,6 +7,24 @@ Basically, they both do the same thing - create an image compatible with the Ras
 
 Since ole--vagrant-treehouses creates a virtual machine, it works on all platforms such as Mac OSX, Windows, and Linux, but requires that the system supports virtualization. This also means that it will use extra resources in terms of memory, hdd space, and CPU cycles. Including this option meant that anyone can create an image for the Raspberry Pi.
 
+### Pre-requisites
+Testing the custom treehouse-builder image
+* Any RPI for testing the microSD card
+* A class10 microSD card (minimum 8 Gb)
+* microSD card reader/writer for writing the new image to the class10 microSD card
+
+Building the image with treehouse-builder:
+* Ubuntu or Debian based Linux distribution (Other distros are untested)
+* An Internet connection
+
+Building the treehouse-builder image with ole--vagrant-treehouses:
+* A virtualization enabled computer (If you could run the vagrant tutorial without problems, then this is fine.) 
+* Vagrant & Virtualbox
+* 8 Gb of harddrive space
+* 4 Gb of memory
+* An Internet connection
+
+
 ### Brief rundown of treehouse-builder
 Below we have a short step-by-step rundown of how the treehouse-builder works:
 
@@ -30,10 +48,11 @@ So far we are working on creating a seamless experience for the image, meaning w
 There is always something to be done. Check the [Github issues](https://github.com/ole-vi/treehouse-builder/issues) for treehouse-builder to see what needs to be done or [waffle.io](https://waffle.io/ole-vi/treehouse-builder). Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go thorugh the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on gitter.
 
 ### List of relevant repositories
-[ole--vagrant-treehouses](https://github.com/ole-vi/ole--vagrant-treehouses)
-[treehouse-builder](https://github.com/ole-vi/treehouse-builder)
-[pirate-sh/ip](https://github.com/pirate-sh/ip)
-[pibluetoothsetup](https://github.com/ole-vi/pibluetoothsetup)
+[ole--vagrant-treehouses](https://github.com/ole-vi/ole--vagrant-treehouses) - Creates a vagrant virtual machine that runs treehouse-builder.
+[treehouse-builder](https://github.com/ole-vi/treehouse-builder) - Treehouse-builder will create a custom raspian image for the raspberry pi.  
+[pirate-sh/ip](https://github.com/pirate-sh/ip) - Ip script used in treehouse-builder image that will let you manually connect to a network and change its' network settings.
+[mobile-bluetooth-rpi](https://github.com/ole-vi/mobile-bluetooth-rpi) - Android app that lets you send/receive commands to the rpi.
+[mobile-piiper](https://github.com/ole-vi/mobile-piiper) - Usb-tethering with an Android device to the rpi.  
 
 
 
