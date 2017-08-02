@@ -9,20 +9,23 @@ Since ole--vagrant-treehouses creates a virtual machine, it works on all platfor
 
 ### Pre-requisites
 Testing the custom treehouse-builder image
-* Any RPI for testing the microSD card
-* A class10 microSD card (minimum 8 Gb)
-* microSD card reader/writer for writing the new image to the class10 microSD card
+
+- Any RPI for testing the microSD card
+- A class10 microSD card (minimum 8 Gb)
+- microSD card reader/writer for writing the new image to the class10 microSD card
 
 Building the image with treehouse-builder:
-* Ubuntu or Debian based Linux distribution (Other distros are untested)
-* An Internet connection
+
+- Ubuntu or Debian based Linux distribution (Other distros are untested)
+- An Internet connection
 
 Building the treehouse-builder image with ole--vagrant-treehouses:
-* A virtualization enabled computer (If you could run the vagrant tutorial without problems, then this is fine.) 
-* Vagrant & Virtualbox
-* 8 Gb of harddrive space
-* 4 Gb of memory
-* An Internet connection
+
+- A virtualization enabled computer (If you could run the vagrant tutorial without problems, then this is fine.) 
+- Vagrant & Virtualbox
+- 8 Gb of harddrive space
+- 4 Gb of memory
+- An Internet connection
 
 
 ### Brief rundown of treehouse-builder
