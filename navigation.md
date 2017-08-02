@@ -62,7 +62,7 @@
   * [Simple Dev Install](pages/simpleinstall.md)
   * [HTML Resources](pages/htmlresources.md)
   * [Take Home](pages/takehome.md)
-
+  * [Raspberry Pi](pages/raspberrypi.md)
 [Members](pages/team.md)
 [FAQ](pages/faq.md)
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
