@@ -17,6 +17,9 @@ Click [here](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) to access
 ![Clicking on "Dummy User"](uploads/images/nation.md0.png "Dummy User")
 
 ## Sync With the Nation
+
+In Step 4, you did 3 kinds of updates that you receive on the community side: updates, publications, and surveys. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
+
 As you can see from the picture below, click on "Manager".
 
 ![Clicking on "Manager"](uploads/images/nation.md1.png "Dashboard in your localhost")
@@ -44,16 +47,7 @@ Then, you should see a list of communities and the option to generate a report i
 
 ![Generate Report](uploads/images/nation.md6.png "Communities Requests Page in ole site")
 
-## Different Kinds of Update
-Above is the usual syncing process from the community side. There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys.  
 
-As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see two publications ready to be downloaded. Make sure you are using Firefox to update your software to avoid unpredictable issues.
-
-![Update from the nation](uploads/images/update_publication.jpg "Dashboard in your localhost")
-
-First, click the "Update Available" button and it will reload your homepage with a successful update message. An update refers to a new software update which improves the software. Next, click on "Publications", under the Manager page, and sync the publications. Publications add new resources or courses to your library. Last, repeat the process of sending an activities sync to the nation.
-
-**NOTE**: If there is an "internet connection" error when you click the "Update Available" button, change your browser to Firefox or Chrome.
 
 ## Useful Links
 

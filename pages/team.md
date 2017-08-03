@@ -36,6 +36,7 @@
 |[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 |
 |[lucy811](profiles/lucy811.md)| 2017-07-18 |
 |[xyb994](profiles/xyb994.md)| 2017-07-31 |
+|[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
