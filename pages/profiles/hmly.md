@@ -35,6 +35,8 @@ And finally here are my projects as a research assistant:
 | 2017 | Finite Math Website | Include various learning resources |
   
  As for my other hobbies, I really enjoy *gaming* especially mobile games and *arts*. Here is an image of Boston.
+ 
+ 
  ![Boston](http://www.ninezero.com/images/1700-960/sailboats-in-boston-0a5755ca.jpg)
  
  ___
