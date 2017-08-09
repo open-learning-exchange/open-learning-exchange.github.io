@@ -27,7 +27,15 @@ Here are what I am currently learning:
   1. Ruby on Rails
   2. Java Hibernate
   
- As for my other hobbies, I really enjoy *gaming* especially mobile games and *arts*.
+And finally here are my projects as a research assistant:
+
+| Year | Project | Description |
+| -----|:-------:|:-----------|
+| 2015 | Automated Extraction of Product Attributes | Attributed words included ones pertaining to colors, etc. |
+| 2017 | Finite Math Website | Include various learning resources |
+  
+ As for my other hobbies, I really enjoy *gaming* especially mobile games and *arts*. Here is an image of Boston.
+ ![Boston](http://www.ninezero.com/images/1700-960/sailboats-in-boston-0a5755ca.jpg)
  
  ___
  
