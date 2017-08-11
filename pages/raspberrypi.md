@@ -1,4 +1,4 @@
-### Introduction to Raspberry Pi
+### Raspberry Pi
 First of all, welcome to the Raspberry Pi channel. The OLE Raspberry Pi image is a modified [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) image, with additional software pertaining to the open learning exchange program, which you can put onto the microsd card for the Raspberry Pi.
 
 To get started, there are two main repositories to work with: [treehouse-builder](https://github.com/ole-vi/treehouse-builder) and  [ole--vagrant-treehouses](https://github.com/ole-vi/ole--vagrant-treehouses). 
