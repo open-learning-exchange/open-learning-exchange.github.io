@@ -37,7 +37,7 @@ These programs will be automatically installed on your computer:
 - **Firefox**  
 [Firefox](https://www.mozilla.org/en-US/firefox/new/) is a popular browser, which is guaranteed to work nicely with your community BeLL.
 
-## MacOS(X)
+## macOS
 
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```bash
@@ -58,7 +58,7 @@ If it does not work, try this:
     sudo apt-get install vagrant
 ```
 
-## MacOS(X) and Ubuntu ONLY    
+## macOS and Ubuntu ONLY    
 ### Install a community BeLL on your OS
 
 In your `Terminal` or `Command Prompt`, type:
