@@ -41,7 +41,7 @@ For Windows, Open Command Prompt and type ```ipconfig``` in the window.
 
 ![AndroidTakehomeSetupIP](uploads/images/AndroidTakehomeSetupIP.png)
 
-For MacOS(X) and Ubuntu, Open Terminal and type ```ifconfig``` in the terminal.
+For macOS and Ubuntu, Open Terminal and type ```ifconfig``` in the terminal.
 
 ![AndroidTakehomeSetupIPForMac](uploads/images/AndroidTakehomeSetupIPForMac.png)
 
