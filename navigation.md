@@ -63,6 +63,7 @@
   * [HTML Resources](pages/htmlresources.md)
   * [Take Home](pages/takehome.md)
   * [Raspberry Pi](pages/raspberrypi.md)
+  * [Angular Reboot](pages/angular.md)
 
 [Members](pages/team.md)
 [FAQ](pages/faq.md)
