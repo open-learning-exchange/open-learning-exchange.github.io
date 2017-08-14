@@ -1,4 +1,5 @@
 # Angular BeLL Reboot
+*Note: This project page is a work in progress. Please reach out on the gitter chat if you would like to contribute to this project*
 ## Objective:
 Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality
 
@@ -13,9 +14,8 @@ Create a prototype Progressive Web App using Angular & CouchDB with the BeLL App
 
 ## Installation
 
-*Paul's note: Should we have contributors fork the repo like the wiki?*
-
-1. **clone or fork** the [GitHub repository](https://github.com/ole-vi/BeLL-angular-reboot)
+1. **Clone** the [GitHub repository](https://github.com/ole-vi/BeLL-angular-reboot)
+    *Note: This is in the process of switching to a [different repository](https://github.com/ole-vi/planet)*
 2. If you haven't already, install [CouchDB 2.0](http://couchdb.apache.org/) and [NodeJS](https://nodejs.org/en/)
 3. In a bash terminal, run the following commands to setup your CouchDB main databases:
 
