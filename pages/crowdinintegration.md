@@ -1,14 +1,12 @@
 [Google Doc](https://docs.google.com/document/d/1gsDmBSq5Tu1G_Ei1CfTRUuvvwpAWUPhHYr2UYESwISI/edit?usp=sharing)
 # Crowdin Integration
 
-## Objectives:
+## Objective:
 
-There are two objectives for this assignment:
+* Provide exactly one screenshot for the strings in BeLL app, and tag it.
+* Write good description of the strings in Context.
 
-1. Provide exactly one screenshot for the strings in BeLL app, and tag it.
-2. Write good description of the strings in Context.
-
-These objectives are going to make sense as you go through the steps. Before we get to the steps, you should know what strings are, and what tagging is. 
+These objectives will make more sense as you go through the steps. Before we get to the steps, you should know what strings are, and what tagging is. 
 
 ### Strings:
 >A string is a word or a sentence that describes the functionality of a button, or the title of a page on BeLL app. See the figure below. It shows the different strings on the main page of Bell App. Strings are highlighted with red squares.
