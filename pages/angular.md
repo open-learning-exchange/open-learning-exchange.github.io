@@ -78,7 +78,7 @@ Here's a quick rundown of the parameters used in these methods:
 
 Each component that is built should have a corresponding unit test with a `.spec.ts` file extension.  Unit tests are written in Jasmine and use the Karma test runner, like the examples in the [Angular docs](https://angular.io/guide/testing).  The guide covers quite a bit, so we'll highlight one section here: [spies](https://angular.io/guide/testing#test-a-component-with-an-async-service).
 
-A unit test of an Angular component should not be involve calls to the database to retreive data (this would fall under end to end tests), but sometimes functionality needs to be tested that would make a call to the database (i.e. login success/failure messages).  One option to avoid using the database that Jasmine provides is the `spy`.  Spies allow you to track a function and supply a return value.  When that function is called within the test, the spy takes over and simply returns the provided value rather than executing the function.
+A unit test of an Angular component should not involve calls to the database to retreive data (this would fall under end to end tests), but sometimes functionality needs to be tested that would make a call to the database (i.e. login success/failure messages).  One option to avoid using the database that Jasmine provides is the `spy`.  Spies allow you to track a function and supply a return value.  When that function is called within the test, the spy takes over and simply returns the provided value rather than executing the function.
 
 As mentioned in the Angular docs, there are other ways to circumvent using the database in unit tests, but spies are a good place to start.
 
