@@ -1,7 +1,7 @@
-# Project Title : Simple Install
+# Simple Install
 
 ## Objective 
-Creating Installation processes for diffrent OS like Linux, MAC and Windows and Working on issues at https://github.com/dogi/ole--vagrant-community/issues
+Creating Installation processes for different OS like Linux, MAC and Windows and Working on issues at https://github.com/dogi/ole--vagrant-community/issues
 
 ## Documentation
 Documentation helps to  understand overall progress of project.Visit following link to learn more about it. 
@@ -32,8 +32,8 @@ In this project we are working on Batch programming. It is a command line script
 
 ## Why do we need the Script?
 
-* Setting up any new environment requires finding, downloading, and installing diffrent software.
-* To install diffrent software and related components separately is time-consuming process.
+* Setting up any new environment requires finding, downloading, and installing different software.
+* To install different software and related components separately is time-consuming process.
 * It also increases the complexity overall if the software has compatibility issues or dependencies.
 * Hence automating the process of installation by runnning a single script is easiest way to avoid such overhead. 
 * You do not need to install software separately for setting up environment and the script will install all software at once.

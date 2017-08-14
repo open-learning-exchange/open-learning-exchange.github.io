@@ -18,7 +18,7 @@ Typically interns choose what project they want to work on, but if you get tired
   * Add existing educational HTML apps into the BeLL.
 * [Take Home](takehome.md)
   * Take home is an Android port of the BeLL apps.
-  
+
 ## A few things to know..
 Now that you have been added to the intern team, you will receive invites to become GitHub repository members for [open-learning-exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and [ole-vi](https://github.com/ole-vi/BeLL-Apps).
 Make sure you accept these invites.
@@ -53,7 +53,7 @@ Every time you work on OLE projects and issues you should post in the Standup Gi
   * `Mention what you were able to achieve.`
 * What is my aim for today?
   * `List what you are working on - consider linking to the issues.`
-* What obstacles are in the way of our progress?    
+* What obstacles are in the way of our progress?
   * `List any problems.`
 
 ## Form a working routine and schedule
@@ -68,12 +68,12 @@ While you are free to work in your own style, we recommend you follow this basic
 * Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
 * Work on your issues and write in intern chat any time you run into problems.
 * Make pull requests as often as possible so you can get feedback as you work.
+* Try to close issues using some of the following keywords and vairations of them in the headings: `close`, `fix` and `resolve`. [Closing Issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)
 
 ### Weekly schedule
 Every Friday we have a "[Happy hacking hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1)" session, where we work on problems together and catch up on what people have been doing all week. Typically we try to follow an Agenda provided in google docs. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the friday meeting. Use the calendar to set up meetings and other events with interns. Just enter: `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` in "*Add a friend's calendar*".
 
 ## Communicate, Communicate, Communicate!
-It’s not good to go silent on gitter or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the gitter chat. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Also make sure you are `away` in the [OLE google hangout](http://talk.ole.org/). Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self-discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it! 
+It’s not good to go silent on gitter or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the gitter chat. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Also make sure you are `away` in the [OLE google hangout](http://talk.ole.org/). Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self-discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it!
 
 Also, if you find any issue with a pull request, do not forget to use the `Request changes` option when creating your review.
-

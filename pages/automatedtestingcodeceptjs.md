@@ -58,6 +58,10 @@ In conclusion, CodeceptJS deserves a more complete and thorough evaluation, sinc
 
 ## Setting Up a Testing Development Environment
 
+### Install Firefox
+The Firefox web browser is recommended for used in automated testing. 
+Firefox should be updated to version 54.0.1 or newer. 
+
 ### Install Visual Studio Code
 (This is not mandatory, but will make writing your code much easier and faster - if you are used to another text editor, that would be fine as well).  
 Go to https://code.visualstudio.com/ and install the appropriate version for your OS.
@@ -121,4 +125,13 @@ Awesome!
 While CodeceptJS works awesomely for most websites, it presents some problems to work with BeLL-Apps.   
 Specifically, when trying to load the homepage, the Selenium Server throws an error stating that jQuery is not loaded, and then it goes on throwing many more errors stating `ReferenceError: $ is not defined`.  
 Most likely, this depends on the BeLL-Apps codebase and it is not related to CodeceptJS, so it would probably be worth investigating further to find out the root cause of the error.
+Another problem is that testing takes a long time in running with Bell-Apps. This leads to some test cases failing because of loading time problems.
 
+## Common bugs
+
+If you experience some errors, this may be because of the following reasons:
+1. Selenium, Firefox, Node JS, geckodriver are not updated to the appropriate version.
+2. Bell-Apps take a long time to load.
+3. Selenium, or Firefox, or Node JS, or geckodriver are not running in the system yet.
+
+If you face any errors, please contact other interns through _gitter chat_, and may specifically ask for **@lmmrssa** or **@duongdo27**.

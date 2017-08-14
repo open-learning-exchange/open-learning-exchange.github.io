@@ -129,7 +129,32 @@ index bf400c0..fc7380b 100644
 
 This process needs to be repeated whenever you begin to work, to make sure that you are always up to date. If there are discrepancies, it will mess up the code and you could potentially lose your saved changes, because it was not updated properly. We will provide more information on editing and saving changes in the next tutorial.
 
-Sometimes when using Git you may find yourself wanting to do something called rebase rather than a merge. A rebase is when we move a branch to a new base commit.  When you rebase, git finds the base of your branch, finds all the commits between that base and HEAD and and re-plays those commits on the head of the branch you're rebasing onto. It is just moving a branch from one commit to another.
+### Summary
+Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
+
+1. Clone your Githib respoitory username.github.io
+- Copy the HTTPS or SSH link from your repository on the Github site
+- On the command line, type `git clone *paste your HTTPS or SSH link here*`
+2. Understand that there are three levels of a Github repository: the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io)), your username.github.io on Github and your username.github.io on your OS.
+These need to be synced and checked constantly.
+- The upstream repository is the one we are contributing to.
+3. Configure the upstream repository to your fork
+- `cd <username>.github.io.`
+- `git remote -v` see above to make sure you are pushing and fetching to your own repository on github as the origin
+- `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
+- `git remote -v` origins should remain the same as step 2, but you should also be fetching and pushing to OLE as the upstream now
+4. Sync Your Fork
+- `git fetch upstream` -  to fetch branches from the upstream repsoitory
+- `git checkout master` - check to make sure branch is up-to-date with master
+- `git merge upstream/master` - You repository should now be synced to upstream/master
+5. Whenever you begin to work, make sure your respository is up to date with `git diff` and `git status` between your local and username.github.io repos, not your upstream repo.
+
+
+If you find yourself needing to rebase your forked repository, the following two links should help
+[Rebase](https://git-scm.com/docs/git-rebase)
+[Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+
+**NOTE**: while similar, there is a difference between rebasing and merging. Merging takes all changes in one branch and merges onto another branch in one commit. Rebasing moves the branch's starting point to another place. For example, if you rebased your branch to the master branch, then your branch now incorporates all the changes made in the master, and every time master is changed, your branch is changed as well. In contrast, merging is a one-time change.
 
 If you find yourself needing to rebase your forked repository, the following two links should help:
 
@@ -142,10 +167,27 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 
  If you would like to understand how syncing with the fork works, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
+## Summary of steps
+
+1. Clone your git \<username\> repository and open your terminal window to it by using ``cd``
+
+2. Check for changes you missed while you were gone. You can do this with ``git fetch upstream``([info](https://git-scm.com/docs/git-fetch)), ``git checkout master``, and ``git merge upstream/master``([info](https://git-scm.com/docs/git-merge)).
+  - If you're slightly confused, remember that the "upstream" we're referring to is the [main github repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io).
+3. Push the updates you just downloaded to your \<username\> repository by using ``git push``([info](https://git-scm.com/docs/git-info))
+
+**NOTE**: For steps 2 and 3, developers should do this every time they begin to work. This way we as a team can minimize data loss, and can save you some time. You want to make sure that you are always up to date with the GitHub.
+
+
 ## Useful links
+[Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+[Sync fork](https://help.github.com/articles/syncing-a-fork/)
+[GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+[Git help](https://git-scm.com/)
 [Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) - You can sync changes made in the original repository with a fork.
 [Sync fork](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
 [GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - An Introduction to Git and Github for beginners from Hubspot.
+[GitHub's Git Tutorial](https://try.github.io/) - An interactive tutorial to learn GitHub in the browser.
+[Git-it Workshop](http://jlord.us/git-it/) - Runs in your terminal to work and provides a hands-on approach to learn Git and GitHub repositories.
 [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 [Other helpful links and videos](faq.md#Helpful_Links)
 

@@ -74,7 +74,7 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 ![New Branch](uploads/images/New Branch.png)
 
- To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is `EmilyLarkin.github.io/pages/profiles/EmilyLarkin.md`, so yours should be named in the same manner, only using your username.
+ To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
