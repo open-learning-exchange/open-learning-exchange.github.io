@@ -3,8 +3,8 @@
 
 ## Objective:
 
-* Provide exactly one screenshot for the strings in BeLL app, and tag it.
-* Write good description of the strings in Context.
+* Provide exactly one screenshot for the strings in BeLL app and tag it.
+* Write good descriptions for the strings in Context.
 
 These objectives will make more sense as you go through the steps. Before we get to the steps, you should know what strings are, and what tagging is. 
 
