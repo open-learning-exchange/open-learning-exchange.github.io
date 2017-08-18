@@ -8,3 +8,4 @@ __Manotiana__ RANDRIANANDRAINA
  
  * Java Developer
  * Front End Developer
+ * Speak french and english a
