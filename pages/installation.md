@@ -73,4 +73,4 @@ It is advisable to use Firefox to access your community BeLL, so if you don't ha
 
 
 ## Next Steps
-Now that you have installed your community Bell, go back to the [first steps page](firststeps.md) and click on the configurations link to register your community into the nation.
+Now that you have installed your community Bell, head over to the [configurations page](configurations.md) to register your community into the nation.
