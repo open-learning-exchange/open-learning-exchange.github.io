@@ -12,4 +12,4 @@ __Manotiana__ RANDRIANANDRAINA
 ---
 Our team is a part of the [Madagascar Department of National Education](http://www.education.gov.mg/) or Ministère de l'Education Nationale  
 
-Email: [madagascar.ole@gmail.com](madagascar.ole@gmail.com)
+Email: madagascar.ole@gmail.com
