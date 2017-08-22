@@ -216,6 +216,9 @@ Now delete your dummy resource by clicking `Delete`. Then click `Open` on you ht
 
 Finally, push your app to the nation by clicking `Add to Nation`.
 
+_Note:_
+Friendly reminder again to use Firefox when doing these steps or 'Add to Nation' may not appear in other browsers.
+
 ![finalstep2](uploads/images/Final_Step_2.png)
 
 #### Useful Links
