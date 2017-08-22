@@ -9,35 +9,24 @@ Create a prototype Progressive Web App using Angular & CouchDB with the BeLL App
     1. Writing front end code
     2. Helping with unit tests
     3. Helping with e2e tests
-2. Help with broader backend goals: SSL, Service Workers,
-
+2. Making this project "Offline First"
+3. Making the app secure with SSL
 
 ## Installation
 
-1. **Clone** the [GitHub repository](https://github.com/ole-vi/BeLL-angular-reboot)
-    *Note: This is in the process of switching to a [different repository](https://github.com/ole-vi/planet)*
-2. If you haven't already, install [CouchDB 2.0](http://couchdb.apache.org/) and [NodeJS](https://nodejs.org/en/)
-3. In a bash terminal, run the following commands to setup your CouchDB main databases:
+1. You should have Vagrant installed already, but if not install Vagrant
+2. Clone the [planet repository](https://github.com/ole-vi/planet)
+3. Run `vagrant up` in the repo directory
+4. After the virtual machine has been installed & a few more seconds to compile the code you can visit the application at `localhost:3000`
+5. To run additional commands, you will need to ssh into the virtual machine with `vagrant ssh` and then `cd /vagrant` to get into the project directory
+6. When you are done working, you can shut down the machine with `vagrant halt` if you'd like to
 
-    ```
-    curl -X PUT http://127.0.0.1:5984/_users
-    curl -X PUT http://127.0.0.1:5984/_replicator
-    curl -X PUT http://127.0.0.1:5984/_global_changes
+Some additional commands:
 
-    ```
+This project is built with the [Angular CLI](https://cli.angular.io/), and once you are in the working directory in the virtual machine you can use any of the commands available with the CLI.  Most often you'll be using one of the testing commands:
 
-4. Then go into the CouchDB dashboard at `http://127.0.0.1:5984/_utils` and enable CORS by clicking __Configuration__ -> __CORS__, click the __Enable CORS__ button and add `http://localhost:3000` and/or `http://127.0.0.1:3000` to the list
- 
-    *Paul's note: add image here*
-
-5. Run `npm install` to install the dependencies
-6. Before you start hacking away at this: like with your work on the wiki be sure to only commit work on a secondary branch (not the master branch).  This helps us to keep the repository history neat and tidy.
-
-Current command line commands:
-
-1. `npm test` Will run unit tests
-
-2. `npm run watch` Will build the app, run tslint on all files, and start up a node server at `localhost:3000`.  It will also watch for changes to all files in `src` and rebuild on changes.
+1. `ng test` Will run unit tests which are available at `localhost:9876` after compiling.
+2. `ng e2e` Will run end to end tests which are available at `localhost:49152` after compiling.
 
 ## Working on a component
 
@@ -52,9 +41,28 @@ src/
 |--app/
    |--<features>/ <-- Various folders each containing a distinct feature.  Generally should match up with what is found on the navigation bar.
    |  |--<secondary features>/ <-- If the primary folder is getting or will be cluttered, split up the files further into distinct secondary features.
-   |--home/
+   |--home/ <-- Contains navigation components in addition to dashboard
+   |--login/ <-- Contains login & registration
    |--shared/    <-- Contains services & components to be used in more than one module
 ```
+
+### Styles
+
+This project is using SCSS/Sass, which is a CSS preprocessor.  You can read more about it [here](http://sass-lang.com/).
+
+We're keeping the variables all in one file `/src/app/variables.scss` and if you write a mixin please put it in a similar `/src/app/mixins.scss` file so others can use them.
+
+In general, please try to write broader styles that can work across many components.  Having classes like `meetup-button` and `resource-form` might make sense at a glance, but either end up being:
+
+1. Just thrown into other components and confusing to read.
+  OR
+2. Copied entirely or with minor adjustments and renamed
+
+It's either bad for readability or unnecessary repetition.
+
+Broad app styles can be found & added to in `/src/styles.scss`
+
+If you end up having some component specific styles, make sure to read up on [component styles](https://angular.io/guide/component-styles) in the Angular docs first.
 
 ### Accessing CouchDB
 
@@ -82,7 +90,14 @@ A unit test of an Angular component should not involve calls to the database to 
 
 As mentioned in the Angular docs, there are other ways to circumvent using the database in unit tests, but spies are a good place to start.
 
-## Broader goals
+## Offline First
 
-WIP 
+We'd like to create an app that will work in various locales which have no or intermittent internet connections.  The goal is to have an instance of [PouchDB](https://pouchdb.com/) running within the browser which allows the user to do everything within the BeLL-Apps and when connectivity is available will talk back and forth with the CouchDB server.
 
+A possible implementation would be to use Service Workers.  The first portion of [this presentation](https://www.youtube.com/watch?v=cmGr0RszHc8) covers Service Workers and how they work within a browser to create functional offline experiences. There is a [plugin for PouchDB](https://github.com/pouchdb-community/worker-pouch) for working with Service Workers which may be the solution here.
+
+One of the big things to think about in this regard is merge conflicts, and PouchDB has a good article on [possible strategies](https://pouchdb.com/guides/conflicts.html).
+
+## SSL
+
+WIP
