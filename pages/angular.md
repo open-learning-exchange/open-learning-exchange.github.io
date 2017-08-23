@@ -14,7 +14,7 @@ Create a prototype Progressive Web App using Angular & CouchDB with the BeLL App
 
 ## Installation
 
-1. You should have Vagrant installed already, but if not install Vagrant
+1. You should have Vagrant installed already, but if not follow the instructions [here](https://github.com/dogi/ole--vagrant-vi) up to **Install a communityBeLL on your OS** to install Vagrant
 2. Clone the [planet repository](https://github.com/ole-vi/planet)
 3. Run `vagrant up` in the repo directory
 4. After the virtual machine has been installed & a few more seconds to compile the code you can visit the application at `localhost:3000`
