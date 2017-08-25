@@ -1,4 +1,5 @@
-### Raspberry Pi
+# Raspberry Pi
+
 First of all, welcome to the Raspberry Pi channel. The OLE Raspberry Pi image is a modified [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) image, with additional software pertaining to the open learning exchange program, which you can put onto the microsd card for the Raspberry Pi.
 
 To get started, there are two main repositories to work with: [treehouse-builder](https://github.com/ole-vi/treehouse-builder) and  [ole--vagrant-treehouses](https://github.com/ole-vi/ole--vagrant-treehouses). 
@@ -7,7 +8,7 @@ Basically, they both do the same thing - create an image compatible with the Ras
 
 Since ole--vagrant-treehouses creates a virtual machine, it works on all platforms such as Mac OSX, Windows, and Linux, but requires that the system supports virtualization. This also means that it will use extra resources in terms of memory, hdd space, and CPU cycles. Including this option meant that anyone can create an image for the Raspberry Pi.
 
-### Pre-requisites
+## Pre-requisites
 **Testing the custom treehouse-builder image:**
 
 - Any RPI for testing the microSD card
@@ -26,15 +27,15 @@ Since ole--vagrant-treehouses creates a virtual machine, it works on all platfor
 - 4 Gb of memory
 - An Internet connection
 
-### Raspberry Pi Meetings
-We meet on Wednesdays at 4:30 PM EST online on [talk.ole.org](talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usally a few minutes after 4:30PM, unless of course the meeting is cancelled but that will be stated in the #raspberrypi chat channel on gitter.
+## Raspberry Pi Meetings
+We meet on Wednesdays at 4:30 PM EST online on [talk.ole.org](talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usually a few minutes after 4:30PM, unless of course the meeting is cancelled but that will be stated in the #raspberrypi chat channel on gitter.
 
-### How can I help?
+## How can I help?
 So far we are working on creating a seamless experience for the image, meaning we want the user to have many connectivity options without having to tinker too much with the Raspberry Pi. So our main concerns at the moment is getting the RPI to connect to different connectivity options such as wifi/bluetooth/ethernet automatically. This allows more people to contribute and debug unexpected problems. Once we have those bases covered, we can move onwards to the software part. 
 
-There is always something to be done. Check the [Github issues](https://github.com/ole-vi/treehouse-builder/issues) for treehouse-builder to see what needs to be done or [waffle.io](https://waffle.io/ole-vi/treehouse-builder). Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go thorugh the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on gitter.
+There is always something to be done. Check the [GitHub issues](https://github.com/ole-vi/treehouse-builder/issues) for treehouse-builder to see what needs to be done or [waffle.io](https://waffle.io/ole-vi/treehouse-builder). Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go through the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on gitter.
 
-### Brief rundown of treehouse-builder
+## Brief rundown of treehouse-builder
 Below we have a short step-by-step rundown of how the treehouse-builder works:
 
 1. Download Raspbian image
@@ -49,7 +50,7 @@ e. Run autorun script
 5. Write the .img file with a program such as Etcher to the MicroSD card.
 
 
-### List of relevant repositories & links
+## List of relevant repositories & links
 [ole--vagrant-treehouses](https://github.com/ole-vi/ole--vagrant-treehouses) - Creates a vagrant virtual machine that runs treehouse-builder.
 [treehouse-builder](https://github.com/ole-vi/treehouse-builder) - Treehouse-builder will create a custom raspian image for the raspberry pi.  
 [pirate-sh/ip](https://github.com/pirate-sh/ip) - Ip script used in treehouse-builder image that will let you manually connect to a network and change its' network settings.
