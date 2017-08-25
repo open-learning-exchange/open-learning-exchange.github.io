@@ -30,7 +30,7 @@ This project is built with the [Angular CLI](https://cli.angular.io/), and once 
 
 ## Working on a component
 
-Once you have the app up and running, you can start working on a component!  Feel free to post to the Gitter chat or check out the [Angular docs](https://angular.io/docs) if you need some guidance on Angular or JavaScript.  Here we'll focus on some key points you be aware of.
+Once you have the app up and running, you can start working on a component!  Feel free to post to the Gitter chat or check out the [Angular docs](https://angular.io/docs) if you need some guidance on Angular or JavaScript.  Here we'll focus on some key points you should be aware of.
 
 ### Keeping things organized
 
@@ -97,6 +97,10 @@ We'd like to create an app that will work in various locales which have no or in
 A possible implementation would be to use Service Workers.  The first portion of [this presentation](https://www.youtube.com/watch?v=cmGr0RszHc8) covers Service Workers and how they work within a browser to create functional offline experiences. There is a [plugin for PouchDB](https://github.com/pouchdb-community/worker-pouch) for working with Service Workers which may be the solution here.
 
 One of the big things to think about in this regard is merge conflicts, and PouchDB has a good article on [possible strategies](https://pouchdb.com/guides/conflicts.html).
+
+Here are some links to some free courses which will help you learn more about Progressive Web Apps:
+* https://codelabs.developers.google.com/codelabs/your-first-pwapp
+* https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 
 ## SSL
 
