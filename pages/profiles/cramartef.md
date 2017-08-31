@@ -16,4 +16,4 @@ Madagascar/GMT+3.00, East Africa Time.
 ---
 >I would like to help children especially disadvataged ones through education, give them equal chance to create their own future and improve their own lives.
 
-**E-mail:** [Fetra Marc Humbert Rahajason](humbert.fetra@outlook.com)
+**E-mail:** [Fetra Marc Humbert Rahajason](mailto:humbert.fetra@outlook.com)
