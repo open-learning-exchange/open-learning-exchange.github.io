@@ -68,7 +68,7 @@ While you are free to work in your own style, we recommend you follow this basic
 * Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
 * Work on your issues and write in intern chat any time you run into problems.
 * Make pull requests as often as possible so you can get feedback as you work.
-* Try to close issues using some of the following keywords and vairations of them in the headings: `close`, `fix` and `resolve`. [Closing Issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)
+* Try to close issues using some of the following keywords and variations of them in the headings: `close`, `fix` and `resolve`. [Closing Issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)
 
 ### Weekly schedule
 Every Friday we have a "[Happy hacking hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1)" session, where we work on problems together and catch up on what people have been doing all week. Typically we try to follow an Agenda provided in google docs. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the friday meeting. Use the calendar to set up meetings and other events with interns. Just enter: `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` in "*Add a friend's calendar*".
