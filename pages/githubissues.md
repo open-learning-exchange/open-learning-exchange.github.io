@@ -107,4 +107,4 @@ All that remains is posting your pull request in the chat and waiting until one 
 [Helpful links and videos](faq.md#Helpful_Links)
 
 
-#### Return to [First Steps](firststeps.md)
+#### Return to [First Steps](firststeps.md#Step_6_-_GitHub_Issues_Tutorial)

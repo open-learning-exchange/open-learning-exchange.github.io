@@ -53,4 +53,4 @@ Then, you should see a list of communities and the option to generate a report i
 
 [Helpful links and videos](faq.md#Helpful_Links)
 
-#### Return to [First Steps](firststeps.md)
+#### Return to [First Steps](firststeps.md#Step_7_-_Nation_BeLL)
