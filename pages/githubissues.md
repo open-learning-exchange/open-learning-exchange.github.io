@@ -28,7 +28,7 @@ After this, you will then research the possible solutions or ideas on how to add
 
 Every time you start to work on an issue you need to create a branch to keep your work on various issues separate from each other. Before you create your branch, sync your repo following the process in the [previous step](gitandrepositories.md). Then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
-Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch back to master, the files on your local machine revert back to how they were before you made changes, since you are no longer on the new branch created.
+Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch back to master, the files on your local machine revert to how they were before you made changes, since you are no longer on the new branch created.
 
 **TIP**: The default branch in your repository is called master. Keeping the master branch clean of any changes is a good practice so if you make any changes you don't want, you may revert back.
 
@@ -107,4 +107,4 @@ All that remains is posting your pull request in the chat and waiting until one 
 [Helpful links and videos](faq.md#Helpful_Links)
 
 
-#### Return to [First Steps](firststeps.md)
+#### Return to [First Steps](firststeps.md#Step_6_-_GitHub_Issues_Tutorial)

@@ -191,4 +191,4 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 [Other helpful links and videos](faq.md#Helpful_Links)
 
-#### Return to [First Steps](firststeps.md)
+#### Return to [First Steps](firststeps.md#Step_5_-_Keeping_Fork_Updated)

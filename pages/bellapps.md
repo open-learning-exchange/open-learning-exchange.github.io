@@ -55,4 +55,4 @@ Try to be as specific as possible, and include screenshots when necessary.
 
 [Helpful links and videos](faq.md#Helpful_Links)
 
-#### Return to [First Steps](firststeps.md)
+#### Return to [First Steps](firststeps.md#Step_4_-_BeLL-Apps_Tutorial)

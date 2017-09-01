@@ -113,4 +113,4 @@ Make sure to include a rawgit link to your page in your pull request.
 [Comparison of markdown and html](http://thebridge.jp/en/wp/wp-content/uploads/2013/05/markdown-vs-html.png) - The general comparison of markdown and html.
 [Other helpful links and videos](faq.md#Helpful_Links)
 
-#### Return to [First Steps](firststeps.md)
+#### Return to [First Steps](firststeps.md#Step_3_-_Markdown_and_Fork_Tutorial)
