@@ -10,39 +10,33 @@ As Tech Geniuses you have demonstrated the familiarity with the  necessary tools
 
 **Note:** This is a living document. We hope that you will utilize the github fuctionality to pinpoint weaknesses and to make edits to this document.
 
-## Step 0 - Introduction
+## Step 0 // Introduction
 
-This document is being pulled together to meet the immediate needs of tech support for the Madagascar Ministry of Education. Please note that we fully expect that this process will become the general use case for any partner that is on-boarding our program.
+This document was created to meet the immediate needs of tech support for the Madagascar Ministry of Education. We fully expect that this document will become the general use case for any partners that are on-boarding our program.
 
-The MOE is working to establish a system for sharing digital content across schools at both the primary and secondary levels. This effort will begin with a pilot program at the Ministry to fully understand deployment challenges, and to upload existing content into a national library so that it can be quickly and easily shared.
+The MOE is working to establish a system for sharing digital content across schools at both the primary and secondary levels. This effort will begin with a pilot program at the Ministry to fully understand deployment challenges, and to upload existing content into a national library so that it can be quickly and easily shared. This effort will begin with the MOE establishing a number of local communities at the MOE. Content will be loaded into community and pushed to the national server. This strategy will allow the MOE to work off line as bandwidth is a challenge.
 
-This effort will begin with the MOE establishing a number of local communities at the MOE. Content will be loaded into community and pushed to the national server. This strategy will allow the MOE to work off line as bandwidth is a challenge.
+## Step 1 // Pre-Requisites
 
-## Step 1
-
-It is understood that tech geniuses have completed t[he training exercises found here](firststeps.md)
+It is understood that tech geniuses have completed [the training exercises found here](firststeps.md)
 
 ## Step 2 // Vagrant Environment Installation Confirmation
 
-Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop. If you have completed the the installation guide then you will find the directory c:/users/USERNAME/ole--vagrant-vi under your file system.
+Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop. If you have completed the the installation guide then you will find c:/users/USERNAME/ole--vagrant-vi under your file system. The "ole--vagrant-vi" directory indicates that this community is attached to the "virtual intern" Nation. This is the development environment that OLE uses for training and to develop, test, and deploy new features.
 
-The "ole--vagrant-vi" directory indicates that this community is attached to the "virtual intern" Nation. This is the development environment that OLE uses to develop, test, and deploy new features.
-
-The final step needed is to build a community that is attached to the correct nation. In this case - The Madagascar Nation. To achieve this we will do the following:
+In the steps outlined below we will build a community that is attached to the a Nation as opposed to the vi environment. In this case - The Madagascar Nation. To achieve this we will do the following:
 
 * Use git command line tools to make a clone of the ole--vagrant-community repository;
-
 * Us Vagrant command line tools to start the new virtual machine; and
-
-* Run the set up process on the new virtual machine and configure it to attach to the Madagascar Nation.
+* Run the set configuration process on the new virtual machine so that it is attached to the Madagascar Nation.
 
 ## Step 3 // vagrant -clone
 
-### Install a community BeLL on your OS
+### Install a Community BeLL on your OS
 
 **If you are running Windows:**
 
-Please start git-bash by opening the Windows home screen. Use the Windows key to open the home screen and then type "git bash" to bring up the Git Bash launch option. You can also use the command prompt or command prompt(admin).
+Please start git-bash by pressing the Windows key to open the home screen, and then type "git bash" to bring up the Git Bash launch option. You can also use the command prompt or command prompt(admin).
 
 **If you are running OSX or any version of Linux:**
 
@@ -50,13 +44,15 @@ Please open a terminal session.
 
 In your `Terminal` or `Command Prompt`, type the following commands:
 
+**Enter the following commands at the command prompt:**
+
 ```bash
 git clone https://github.com/dogi/ole--vagrant-community.git
 cd ole--vagrant-community
 vagrant up
 ```
 
-## Step 4 // Configure Community
+## Step 4 // Configure the new Community
 
 We now need to configure the local community. This is done from the browser. Please start firefox and enter [http://localhost:8084](http://localhost:8084) into the address bar. When the community loads you should see the following configuration screen.
 
