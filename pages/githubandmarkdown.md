@@ -1,5 +1,5 @@
 # GitHub and Markdown
-## Objective
+## Objectives
 * Learning about Github and the Markdown wiki.
 * Writing your own individual Markdown wiki page.
 * Understanding the Github workflow (including forks, repositories, commits, and pull requests).

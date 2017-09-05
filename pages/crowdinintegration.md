@@ -1,7 +1,7 @@
 [Google Doc](https://docs.google.com/document/d/1gsDmBSq5Tu1G_Ei1CfTRUuvvwpAWUPhHYr2UYESwISI/edit?usp=sharing)
 # Crowdin Integration
 
-## Objective:
+## Objectives:
 
 * Provide exactly one screenshot for the strings in BeLL app and tag it.
 * Write good descriptions for the strings in Context.
