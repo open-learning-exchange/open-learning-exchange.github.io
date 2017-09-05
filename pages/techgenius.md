@@ -58,13 +58,13 @@ We now need to configure the local community. This is done from the browser. Ple
 
 Please enter and **record** details for the community administrator.
 
-Insert image (community-admin-config-01.png)
+![config-community](uploads/images/community-admin-config-01.png)
 
 Click `Save` to continue.
 
 This will bring you to the follow screen:
 
-Insert image (community-admin-config-02.png)
+![config community 2](uploads/images/community-admin-config-02.png)
 
 Please complete all fields as follows:
 
@@ -81,13 +81,13 @@ Click `Save` at the bottom of the page.
 
 You should see the following confirmation dialogue.
 
-Insert image (community-admin-config-08.png)
+![config community 3](uploads/images/community-admin-config-08.png)
 
 ## Step 5 // First Time Login
 
 Now return to the community login page. [http://localhost:8084](http://localhost:8084). You now have access to the community. However, it has not yet been activated by the administrator. You can tell that activation is pending because of the orange dot top right of the page.
 
-Insert image (community-admin-config-04.png)
+![config community 4](uploads/images/community-admin-config-04.png)
 
 Once the Community registration has been accepted by the Nation administrator the dot will be green.
 
@@ -95,10 +95,16 @@ Once the Community registration has been accepted by the Nation administrator th
 
 The Nation Administrator is responsible for accepting new community registrations. Wnen new communities are registered you will receive an alert when the administrator logs in to the Nation home page as in the below image.
 
-Insert image (community-admin-config-05.png)
+![config community 5](uploads/images/community-admin-config-05.png)
 
-Click on the New Community link.
+Click on the New Community link. 
 
-Insert image (community-admin-config-07.png)
+One the resulting page, click on "Details" to reach the confirmation page. 
+
+![config community 6](uploads/images/community-admin-config-06.png)
+
+On the confirmation page: 
+
+![config community 6](uploads/images/community-admin-config-07.png)
 
 Click on Accept to complete the registration.
