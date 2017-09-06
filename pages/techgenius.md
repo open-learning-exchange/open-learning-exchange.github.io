@@ -40,7 +40,7 @@ In the steps outlined below we will build a community that is attached to the Ma
 
 **If you are running Windows:**
 
-Please open git-bash by pressing the Windows key to open the home screen, and then type "git bash" to bring up the Git Bash launch option. You can also use the command prompt or command prompt(admin).
+Please open `git-bash` by pressing the Windows key to open the home screen, and then type "git bash" to bring up the Git Bash launch option. You can also use the command prompt or command prompt(admin).
 
 **If you are running OSX or any version of Linux:**
 
