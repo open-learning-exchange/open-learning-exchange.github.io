@@ -10,7 +10,7 @@ As Tech Geniuses you have demonstrated the ability to use the  needed tools and 
 
 **Note:** This is a living document. We hope that you will utilize the github functionality to pinpoint weaknesses and to make edits.
 
-## Step 0 // Introduction
+## Step 0 | Introduction
 
 This document was created to meet the immediate technical support needs of the Madagascar Ministry of Education. However, we fully expect that this document will become the general use case for any partners that are on-boarding our program.
 
@@ -18,11 +18,11 @@ The team in Madagascar is working to establish a system for sharing digital cont
 
 This effort will begin with the MOE establishing a number of local Communities on laptops at the MOE. Content will be loaded into community and pushed to the national server. This strategy will allow the MOE to learn to use and deploy the system. It will also allow them to work off line, as bandwidth is a challenge.
 
-## Step 1 // Prerequisites
+## Step 1 | Prerequisites
 
 It is understood that tech geniuses have completed [the training exercises](firststeps.md) and that they are familiar and comfortable with the deployment tools and method. 
 
-## Step 2 // Vagrant Environment Installation Confirmation
+## Step 2 | Vagrant Environment Installation Confirmation
 
 Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop. 
 
@@ -34,7 +34,7 @@ In the steps outlined below we will build a community that is attached to the Ma
 * Us Vagrant command line tools to start the new virtual machine; and
 * Run the set configuration process on the new virtual machine so that it is attached to the Madagascar Nation.
 
-## Step 3 // vagrant -clone
+## Step 3 | vagrant -clone
 
 ### How to Install a Community on a Local Laptop or PC
 
@@ -53,8 +53,7 @@ git clone https://github.com/dogi/ole--vagrant-community.git
 cd ole--vagrant-community
 vagrant up
 ```
-
-## Step 4 // Configure the new Community
+## Step 4 | Configure the new Community
 
 Now that we have created a local Community clone we need to configure it to connect with the Nation. This is done from the browser. Please start firefox and enter [http://localhost:8084](http://localhost:8084) into the address bar. When the Community loads you should see the following configuration screen:
 
@@ -81,7 +80,7 @@ Please complete all fields as follows:
 
 Click `Save` at the bottom of the page.
 
-## Step 5 // First Time Login
+## Step 5 | First Time Login
 
 Now return to the Community login page. [http://localhost:8084](http://localhost:8084). You should have full access to the community. However, it must still activated by the administrator before you can upload/download resources, system updates, and user data. You can see that activation is pending because of the orange dot top right of the page as per below:
 
@@ -89,7 +88,7 @@ Now return to the Community login page. [http://localhost:8084](http://localhost
 
 Once the Community registration has been accepted by the Nation administrator the dot will be green.
 
-## Step 6 // Accepting Community Registrations on the Nation
+## Step 6 | Accepting Community Registrations on the Nation
 
 The Nation Administrator is responsible for accepting new Community registrations. The Nation Administator will receive an alert on their system whenever a new Community is registered as in the below image:
 
@@ -98,9 +97,7 @@ The Nation Administrator is responsible for accepting new Community registration
 To activate the new Community do the following:
 
 * Login to the Nation with an Administrator account.
-
 * Click on the New Community link at the bottom of the page (see above image);
-
 * This will bring you to this page: 
 
 ![config community 6](uploads/images/community-admin-config-06.png)
@@ -111,7 +108,7 @@ To activate the new Community do the following:
 
 Click on Accept to complete the registration.
 
-## Step 7 // Confirming Community Registration
+## Step 7 | Confirming Community Registration
 
 After the Community has been verified and accepted by the Nation administrator the Community administrator will receive a confirmation dialogue and should see any available updates on the home page. The confirmation dialogue looks like this:
 
