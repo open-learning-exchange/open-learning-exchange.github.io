@@ -14,7 +14,7 @@ As Tech Geniuses you have demonstrated the ability to use the  needed tools and 
 
 This document was created to meet the immediate technical support needs of the Madagascar Ministry of Education. However, we fully expect that this document will become the general use case for any partners that are on-boarding our program.
 
-The team in Madagascar is working to establish a system for sharing digital content across schools at both the primary and secondary levels. This effort will begin with a pilot program at the Ministry to fully understand deployment challenges, and to upload existing content into a [National library](madagascar.ole.org) so that content can be shared quickly and easily with schools and educators around the country. 
+The team in Madagascar is working to establish a system for sharing digital content across schools at both the primary and secondary levels. This effort will begin with a pilot program at the Ministry to fully understand deployment challenges, and to upload existing content into a [National library](http://madagascarbell.ole.org) so that content can be shared quickly and easily with schools and educators around the country. 
 
 This effort will begin with the MOE establishing a number of local Communities on laptops at the MOE. Content will be loaded into community and pushed to the national server. This strategy will allow the MOE to learn to use and deploy the system. It will also allow them to work off line, as bandwidth is a challenge.
 
