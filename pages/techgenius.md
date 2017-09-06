@@ -81,10 +81,6 @@ Please complete all fields as follows:
 
 Click `Save` at the bottom of the page.
 
-You should see the following confirmation dialogue.
-
-![config community 3](uploads/images/community-admin-config-08.png)
-
 ## Step 5 // First Time Login
 
 Now return to the Community login page. [http://localhost:8084](http://localhost:8084). You should have full access to the community. However, it must still activated by the administrator before you can upload/download resources, system updates, and user data. You can see that activation is pending because of the orange dot top right of the page as per below:
