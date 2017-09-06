@@ -32,7 +32,7 @@ In the steps outlined below we will build a community that is attached to the Ma
 
 * Use git command line tools to clone the ole--vagrant-community repository to your local machine;
 * Use Vagrant command line tools to start the new virtual machine; and
-* Configure the new Community so that it is attached to the Madagascar Nation.
+* Configure the new local Community so that it is connected with the Madagascar Nation.
 
 ## Step 3 | Vagrant
 
