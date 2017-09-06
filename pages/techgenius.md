@@ -4,9 +4,9 @@ Welcome to the Tech Genius support section. You are here because you have comple
 
 ## The Big Picture
 
-Planet Learning is a virtual library and student management protal that is deployed internationally to support content and opportunity distribution.
+Planet Learning is a virtual library and student management portal that is deployed internationally to support content and opportunity distribution.
 
-As Tech Geniuses you have demonstrated the ability to use the  needed tools and procedures for deployment. As a means of communication we encourage you to subscribe to the [Tech Genius Gitter chatroom](https://gitter.im/open-learning-exchange/techgenius). 
+As Tech Geniuses you have demonstrated the ability to use the  needed tools and procedures for deployment. As a means of communication we encourage you to subscribe to the [Tech Genius Gitter chatroom](https://gitter.im/open-learning-exchange/techgenius).
 
 **Note:** This is a living document. We hope that you will utilize the GitHub functionality to pinpoint weaknesses and to make edits.
 
@@ -14,7 +14,7 @@ As Tech Geniuses you have demonstrated the ability to use the  needed tools and 
 
 This document was created to meet the immediate technical support needs of the Madagascar Ministry of Education. However, we fully expect that this document will become the general use case for any partners that are on-boarding our program.
 
-The team in Madagascar is working to establish a system for sharing digital content across schools at both the primary and secondary levels. This effort will begin with a pilot program at the Ministry to fully understand deployment challenges, and to upload existing content into a [National library](http://madagascarbell.ole.org) so that content can be shared quickly and easily with schools and educators around the country. 
+The team in Madagascar is working to establish a system for sharing digital content across schools at both the primary and secondary levels. This effort will begin with a pilot program at the Ministry to fully understand deployment challenges, and to upload existing content into a [National library](http://madagascarbell.ole.org) so that content can be shared quickly and easily with schools and educators around the country.
 
 This effort will begin with the MOE establishing a number of local Communities on laptops at the MOE. Content will be loaded into community and pushed to the nation server. This strategy will allow the MOE to learn to use and deploy the system. It will also allow them to work offline, as bandwidth is a challenge.
 
@@ -40,7 +40,7 @@ In the steps outlined below we will build a community that is attached to the Ma
 
 **If you are running Windows:**
 
-Please open `git-bash` by pressing the Windows key to open the home screen, and then type "git bash" to bring up the Git Bash launch option. You can also use the command prompt or command prompt as an admin.
+Please open `git-bash` by pressing the Windows key to open the home screen, and then type "git bash" to bring up the Git Bash launch option. You can also use the command prompt or command prompt as an administrator.
 
 **If you are running macOS or any version of Linux:**
 
@@ -60,7 +60,7 @@ Now that we have created a local Community, we'll need to configure it to connec
 
 ![config-community](uploads/images/community-admin-config-01.png)
 
-Please enter and **record** details for the Community administrator.
+Please enter and **record** details for the Community Administrator.
 
 Click `Save` to continue.
 
@@ -87,11 +87,11 @@ Now return to the Community login page. [http://localhost:8084](http://localhost
 
 ![config community 4](uploads/images/community-admin-config-04.png)
 
-Once the Community registration has been accepted by the Nation administrator the dot will be green.
+Once the Community registration has been accepted by the Nation Administrator the dot will be green.
 
 ## Step 6 | Accepting Community Registrations on the Nation
 
-The Nation Administrator is responsible for accepting new Community registrations. The Nation Administator will receive an alert on their system whenever a new Community is registered as in the below image:
+The Nation Administrator is responsible for accepting new Community registrations. The Nation Administrator will receive an alert on their system whenever a new Community is registered as in the below image:
 
 ![config community 5](uploads/images/community-admin-config-05.png)
 
@@ -99,11 +99,11 @@ To activate the new Community do the following:
 
 * Login to the Nation with an Administrator account.
 * Click on the New Community link at the bottom of the page (see above image);
-* This will bring you to this page: 
+* This will bring you to this page:
 
 ![config community 6](uploads/images/community-admin-config-06.png)
 
-* click on Details to reach the confirmation page: 
+* click on Details to reach the confirmation page:
 
 ![config community 6](uploads/images/community-admin-config-07.png)
 
@@ -111,7 +111,7 @@ Click on Accept to complete the registration.
 
 ## Step 7 | Confirming Community Registration
 
-After the Community has been verified and accepted by the Nation administrator the Community administrator will receive a confirmation dialogue and should see any available updates on the home page. The confirmation dialogue looks like this:
+After the Community has been verified and accepted by the Nation Administrator the Community Administrator will receive a confirmation dialogue and should see any available updates on the home page. The confirmation dialogue looks like this:
 
 ![config community 6](uploads/images/community-admin-config-08.png)
 
