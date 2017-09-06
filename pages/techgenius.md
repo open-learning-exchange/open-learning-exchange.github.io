@@ -1,6 +1,6 @@
 # Tech Genius Support
 
-Welcome to the Tech Genius support section. You are here because you have completed the [First Steps](firststeps.md) and you are ready to deploy and support a Community, a group of communities, and/or national server.
+Welcome to the Tech Genius support section. You are here because you have completed the [First Steps](firststeps.md) and you are ready to deploy and support a Community, a group of communities, and/or nation server.
 
 ## The Big Picture
 
@@ -8,7 +8,7 @@ Planet Learning is a virtual library and student management protal that is deplo
 
 As Tech Geniuses you have demonstrated the ability to use the  needed tools and procedures for deployment. As a means of communication we encourage you to subscribe to the [Tech Genius Gitter chatroom](https://gitter.im/open-learning-exchange/techgenius). 
 
-**Note:** This is a living document. We hope that you will utilize the github functionality to pinpoint weaknesses and to make edits.
+**Note:** This is a living document. We hope that you will utilize the GitHub functionality to pinpoint weaknesses and to make edits.
 
 ## Step 0 | Introduction
 
@@ -16,11 +16,11 @@ This document was created to meet the immediate technical support needs of the M
 
 The team in Madagascar is working to establish a system for sharing digital content across schools at both the primary and secondary levels. This effort will begin with a pilot program at the Ministry to fully understand deployment challenges, and to upload existing content into a [National library](http://madagascarbell.ole.org) so that content can be shared quickly and easily with schools and educators around the country. 
 
-This effort will begin with the MOE establishing a number of local Communities on laptops at the MOE. Content will be loaded into community and pushed to the national server. This strategy will allow the MOE to learn to use and deploy the system. It will also allow them to work off line, as bandwidth is a challenge.
+This effort will begin with the MOE establishing a number of local Communities on laptops at the MOE. Content will be loaded into community and pushed to the nation server. This strategy will allow the MOE to learn to use and deploy the system. It will also allow them to work offline, as bandwidth is a challenge.
 
 ## Step 1 | Prerequisites
 
-It is understood that tech geniuses have completed [the training exercises](firststeps.md) and that they are familiar and comfortable with the deployment tools and method. 
+It is understood that tech geniuses have completed [the First Steps training exercises](firststeps.md) and that they are familiar and comfortable with the deployment tools and methods. 
 
 ## Step 2 | Vagrant Environment Installation Confirmation
 
@@ -30,19 +30,19 @@ If you have completed the the installation guide then you will find `c:/users/US
 
 In the steps outlined below we will build a community that is attached to the Madagascar Nation. To achieve this we will do the following:
 
-* Use git command line tools to make a clone of the ole--vagrant-community repository;
-* Us Vagrant command line tools to start the new virtual machine; and
-* Run the set configuration process on the new virtual machine so that it is attached to the Madagascar Nation.
+* Use git command line tools to clone the ole--vagrant-community repository to your local machine;
+* Use Vagrant command line tools to start the new virtual machine; and
+* Configure the new Community so that it is attached to the Madagascar Nation.
 
-## Step 3 | vagrant -clone
+## Step 3 | Vagrant
 
 ### How to Install a Community on a Local Laptop or PC
 
 **If you are running Windows:**
 
-Please open `git-bash` by pressing the Windows key to open the home screen, and then type "git bash" to bring up the Git Bash launch option. You can also use the command prompt or command prompt(admin).
+Please open `git-bash` by pressing the Windows key to open the home screen, and then type "git bash" to bring up the Git Bash launch option. You can also use the command prompt or command prompt as an admin.
 
-**If you are running OSX or any version of Linux:**
+**If you are running macOS or any version of Linux:**
 
 Please open a terminal session.
 
@@ -53,9 +53,10 @@ git clone https://github.com/dogi/ole--vagrant-community.git
 cd ole--vagrant-community
 vagrant up
 ```
+
 ## Step 4 | Configure the new Community
 
-Now that we have created a local Community clone we need to configure it to connect with the Nation. This is done from the browser. Please start firefox and enter [http://localhost:8084](http://localhost:8084) into the address bar. When the Community loads you should see the following configuration screen:
+Now that we have created a local Community, we'll need to configure it to connect with the Nation. This is done from the browser. Please start firefox and enter [http://localhost:8084](http://localhost:8084) into the address bar. When the Community loads you should see the following configuration screen:
 
 ![config-community](uploads/images/community-admin-config-01.png)
 
@@ -82,7 +83,7 @@ Click `Save` at the bottom of the page.
 
 ## Step 5 | First Time Login
 
-Now return to the Community login page. [http://localhost:8084](http://localhost:8084). You should have full access to the community. However, it must still activated by the administrator before you can upload/download resources, system updates, and user data. You can see that activation is pending because of the orange dot top right of the page as per below:
+Now return to the Community login page. [http://localhost:8084](http://localhost:8084). You should have full access to the community. However, it still must be activated by the administrator before you can upload/download resources, system updates, and user data. You can see that activation is pending because of the orange dot top right of the page as per below:
 
 ![config community 4](uploads/images/community-admin-config-04.png)
 
