@@ -99,9 +99,7 @@ To activate the new Community do the following:
 
 * Login to the Nation with an Administrator account.
 
-* Click on the New Community link at the bottom of the page;
-
-![config community 6](uploads/images/community-admin-config-05.png)
+* Click on the New Community link at the bottom of the page (see above image);
 
 * This will bring you to this page: 
 
