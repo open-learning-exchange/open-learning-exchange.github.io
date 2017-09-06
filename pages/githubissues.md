@@ -1,5 +1,5 @@
 # GitHub Issues
-## Objective
+## Objectives
 * Learn about Issues, Commits, and Pull Requests
 * Understand the collaborative git/GitHub workflow that will be used throughout the internship
 * Create an issue, and upon admin approval, create a branch to fix it

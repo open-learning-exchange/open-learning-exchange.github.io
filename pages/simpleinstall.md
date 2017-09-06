@@ -1,6 +1,6 @@
 # Simple Install
 
-## Objective 
+## Objectives 
 * Create installation processes for different OS such as Linux, macOS, and Windows.
 * Working on issues at https://github.com/dogi/ole--vagrant-community/issues.
 
