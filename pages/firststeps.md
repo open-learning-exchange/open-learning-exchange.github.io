@@ -12,9 +12,9 @@ Once accepted, you and your team will work on an assignment, and we’ll switch 
 
 # The Steps
 
-Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange is no different. In the following series of steps, you will learn about the Github team workflow, including git, forking, pull requests, and repository issues. You will also be introduced to Markdown’s rich text formatting and OLE’s Basic e-Learning Library (BeLL), the digital library that hosts the learning materials.
+Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange is no different. In the following series of steps, you will learn about the GitHub team workflow, including git, forking, pull requests, and repository issues. You will also be introduced to Markdown’s rich text formatting and OLE’s Basic e-Learning Library (BeLL), the digital library that hosts the learning materials.
 
-Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The Github and Markdown skills you practice here are very important in both this internship and a future software development career.
+Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice here are very important in both this internship and a future software development career.
 
 The MD wiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step and we created a [FAQ page](faq.md) where you can find the answers to some commonly asked questions. This page has even more useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
 
@@ -29,7 +29,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 1. Send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org.
 
-2. Watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository, look for this button at the top right of the page.  Also follow each other to see what others in the group are doing.
+2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository, look for this button at the top right of the page.  Also follow each other to see what others in the group are doing.
 
     ![Watch screenshot](uploads/images/Watch.png)
 
