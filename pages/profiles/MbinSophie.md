@@ -1,7 +1,7 @@
 # My first page test
 **Name** : _FENOFANAMBINANATSARALAZASOA Sophie_
 ********
-Picture
+**Picture**
 >
 ![Haifa](https://github.com/MbinSophie/mbinsophie.github.io/blob/master/pages/uploads/images/Haifa.jpg)
 > 
