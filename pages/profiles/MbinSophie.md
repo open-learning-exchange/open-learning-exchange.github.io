@@ -4,7 +4,7 @@
 **Picture**
 >
 ![Haifa](https://github.com/MbinSophie/mbinsophie.github.io/blob/master/pages/uploads/images/Haifa.jpg)
-> 
+>
 "Happy to be with OLE TEAM!!!"
 >
 ----------------------------------------------------------------------------
