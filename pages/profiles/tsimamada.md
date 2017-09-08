@@ -2,4 +2,4 @@
 * I'm from **Madagascar**
 * _I work at_ [Minister of National Education][site men]
 
-[site men]:www.education.gov.mg
+[site men]:http://www.education.gov.mg
