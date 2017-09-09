@@ -17,7 +17,7 @@ Languages that I am familiar with:
 
 Other tools, framesworks, methodologies and paradigms that I know:  
 | Tools         | Framesworks   | Methodologies / paradigms |
-| ------------- |:-------------:| --------------:|
+| ------------- | ------------- | -------------- |
 | Eclipse       | Junit         |   Scrum        |
 | Git           | Hadoop        |   TDD          | 
 | Maven         | Angular 2 (basics)     |       |
