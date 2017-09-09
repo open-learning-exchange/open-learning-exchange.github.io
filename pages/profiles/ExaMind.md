@@ -5,14 +5,14 @@ Hello! My name is **Sudarshan T**. I am a recent CS graduate from Worcester Stat
 Languages that I am good at: 
 * Java
 * C
-* SQL
+* SQL  
 
 Languages that I am familiar with:
 * Python
 * Javascript
 * R
 * Hive
-* Pig
+* Pig  
 
 Other tools, framesworks, methodologies and paradigms that I know:  
 
