@@ -15,7 +15,13 @@ Languages that I am familiar with:
 * Hive
 * Pig
 
-Other tools, framesworks, and methodologies that I know:  
-Eclipse, Git, Maven, AWS, Junit, Angular 2 (basics), JMockit, Hadoop, OOP, TDD, Scrum, JIRA
+Other tools, framesworks, methodologies and paradigms that I know:  
+| Tools         | Framesworks   | Methodologies / paradigms |
+| ------------- |:-------------:| --------------:|
+| Eclipse       | Junit         |   Scrum        |
+| Git           | Hadoop        |   TDD          | 
+| Maven         | Angular 2 (basics)     |       |
+| AWS           |               |   FP           |
+| JIRA          |               |   oop          |
 
 ---
