@@ -16,6 +16,7 @@ Languages that I am familiar with:
 * Pig
 
 Other tools, framesworks, methodologies and paradigms that I know:  
+
 | Tools         | Framesworks   | Methodologies / paradigms |
 | ------------- | ------------- | -------------- |
 | Eclipse       | Junit         |   Scrum        |
