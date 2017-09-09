@@ -149,13 +149,6 @@ These need to be synced and checked constantly.
 - `git merge upstream/master` - You repository should now be synced to upstream/master
 5. Whenever you begin to work, make sure your respository is up to date with `git diff` and `git status` between your local and username.github.io repos, not your upstream repo.
 
-
-If you find yourself needing to rebase your forked repository, the following two links should help
-[Rebase](https://git-scm.com/docs/git-rebase)
-[Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
-
-**NOTE**: while similar, there is a difference between rebasing and merging. Merging takes all changes in one branch and merges onto another branch in one commit. Rebasing moves the branch's starting point to another place. For example, if you rebased your branch to the master branch, then your branch now incorporates all the changes made in the master, and every time master is changed, your branch is changed as well. In contrast, merging is a one-time change.
-
 If you find yourself needing to rebase your forked repository, the following two links should help:
 
 [Rebase](https://git-scm.com/docs/git-rebase)

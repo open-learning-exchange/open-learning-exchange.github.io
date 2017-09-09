@@ -1,7 +1,7 @@
 Andrew Gingrich
 =======
 
-![alt-text](https://u5258675.dl.dropboxusercontent.com/u/5258675/emp4.png)
+![alt-text](http://i.imgur.com/NOBNao6.png)
 
 **Location:** *Cartago*, Costa Rica
 

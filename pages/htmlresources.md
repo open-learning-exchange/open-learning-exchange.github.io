@@ -1,6 +1,6 @@
 # HTML Resources
 
-## Objective
+## Objectives
 * Understanding of Couchdb database, Couchapp.
 * Find out HTML5 and Javascript applications to upload it into Bell app.
 * Adding resources to bell app library and make Bell much more interesting and interactive.
