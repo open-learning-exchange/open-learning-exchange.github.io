@@ -10,7 +10,7 @@
 
 On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the BeLL and in our code.
 
-**Note**: Issues are not just about adding to the wiki, but can also involve removing repetitive or unnecessary code or content. 
+**Note**: Issues are not just about adding to the wiki, but can also involve removing repetitive or unnecessary code or content.
 
 Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
 
@@ -41,7 +41,7 @@ If you're still confused, that's quite alright. The data flow of GitHub can be q
 ![GitHub repos flowchart](uploads/images/flowchart_rep_fork_wiki.png)
 
 ## Create a Commit
-After you are done making your changes use the command `git status`. If the list of files changed only includes those you wish to modify, use the command `git add .` (The '.' is part of the command.) Otherwise you can also choose only certain changes to include by using `git add <file1> <file2> <file3>...`  Now that you have selected the files you wish to include, use the commands `git commit -m "commit message"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
+After you are done making your changes use the `git status` command to see which files in the working directory have been modified. If you wish to stage all of the modified files shown use the `git add .` (The '.' is part of the command.) command. Otherwise you can choose only the file or files you wish to stage by using the `git add file1, file2, file3...` command. Now that you have selected the files you wish to include, use the commands `git commit -m "commit message"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
 
 ### Commit Message Style Guide
 Because the commits you will be making on this markdown wiki are fairly basic, it is not necessary to enforce a wordy commit style. However, in the future, when you start to work on more complex projects, it is helpful to write your commit messages in a certain way. Here is an article on [how to write good commit messages](https://chris.beams.io/posts/git-commit/).
