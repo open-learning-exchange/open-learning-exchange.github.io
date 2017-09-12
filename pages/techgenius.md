@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Tech Genius Support
 
 Welcome to the Tech Genius support section. You are here because you have completed the [First Steps](firststeps.md) and you are ready to deploy and support a Community, a group of communities, and/or nation server.
@@ -21,11 +21,11 @@ This effort will begin with the MOE establishing a number of local Communities o
 
 ## Step 1 | Prerequisites
 
-It is understood that tech geniuses have completed [the First Steps training exercises](firststeps.md) and that they are familiar and comfortable with the deployment tools and methods. 
+It is understood that tech geniuses have completed [the First Steps training exercises](firststeps.md) and that they are familiar and comfortable with the deployment tools and methods.
 
 ## Step 2 | Vagrant Environment Installation Confirmation
 
-Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop. 
+Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop.
 
 If you have completed the the installation guide then you will find `c:/users/USERNAME/ole--vagrant-vi` under your file system. The `ole--vagrant-vi` directory indicates that this community is attached to the development environment that OLE uses for training and to develop, test, and deploy new features.
 
@@ -146,11 +146,11 @@ This effort will begin with the MOE establishing a number of local Communities o
 
 ## Step 1 | Prerequisites
 
-It is understood that tech geniuses have completed [the First Steps training exercises](firststeps.md) and that they are familiar and comfortable with the deployment tools and methods. 
+It is understood that tech geniuses have completed [the First Steps training exercises](firststeps.md) and that they are familiar and comfortable with the deployment tools and methods.
 
 ## Step 2 | Vagrant Environment Installation Confirmation
 
-Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop. 
+Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop.
 
 If you have completed the the installation guide then you will find `c:/users/USERNAME/ole--vagrant-vi` under your file system. The `ole--vagrant-vi` directory indicates that this community is attached to the development environment that OLE uses for training and to develop, test, and deploy new features.
 
@@ -248,4 +248,3 @@ Notice that the orange dot is now green. Also note that there may be system upda
 **IMPORTANT** Running the system update can take time. Please only click the up date link once. Be patient! You will receive a confirmation dialogue once the update is complete. It will look like this:
 
 ![config community 6](uploads/images/community-admin-config-10.png)
->>>>>>> upstream/master
