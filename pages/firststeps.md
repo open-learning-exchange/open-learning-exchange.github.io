@@ -29,7 +29,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 1. Send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org.
 
-2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. When you are on a repository, look for this button at the top right of the page.  Also follow each other to see what others in the group are doing.
+2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. Look for the 'Watch' button at the top right of the page when you are in a repository.  Also follow each other to see what others in the group are doing.
 
     ![Watch screenshot](uploads/images/Watch.png)
 
@@ -80,7 +80,7 @@ Follow the directions under the [Nation BeLL tab](nation.md).
 ## Step 8 - Create Issues and Pull Requests
 
 
-Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns. 
+Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue. You will follow the same steps as in [GitHub Issues](githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
 
 Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests, have them approved by at least three others and merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat and wait for at least three others to approve it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 
