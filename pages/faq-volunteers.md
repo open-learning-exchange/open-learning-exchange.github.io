@@ -33,7 +33,7 @@ As you are volunteering your time we are grateful for any time that you can dedi
 
 ### Q6: How do I get started?
 
-OLE also maintains a virtual internship program. We ask that all volunteer coders walk through [the internship on-boarding exercise](firststeps.md), as this provides a good introduction to our workflow and the tools that we use. Once completed, volunteer coders should post a message in our [Gitter channel](http://gitter.im/open-learning-exchange/chat)so that we can setup a time to speak directly. 
+OLE also maintains a virtual internship program. We ask that all volunteer coders walk through [the internship on-boarding exercise](firststeps.md), as this provides a good introduction to our workflow and the tools that we use. Once completed, volunteer coders should post a message in our [Gitter channel](http://gitter.im/open-learning-exchange/chat) so that we can setup a time to speak directly. 
 
 #### Background on the on-boarding exercise
 
