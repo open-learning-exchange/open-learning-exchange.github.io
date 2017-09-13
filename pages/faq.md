@@ -142,7 +142,6 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 - [Markdown Editor](https://jbt.github.io/markdown-editor/)
 - [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/sheets/vi_help_sheet.pdf)
-- [Vim Cheat Sheet](https://vim.rtorr.com/)
 
 #### *VirtualBox*
 
