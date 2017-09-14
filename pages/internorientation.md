@@ -3,21 +3,27 @@
 ## Welcome to the OLE Intern Team!
 Congratulations, you have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have 16 hours a week to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
 ## Get to know the team
-The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](team.md).
-You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
+The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](team.md). You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
+
 ## Familiarize yourself with current projects and issues
-Typically interns choose what project they want to work on, but if you get tired of a certain project there is opportunity to switch projects. The follow list are the current areas of work for the interns - besides the [issues on ole-vi BeLL-Apps](https://github.com/ole-vi/BeLL-Apps/issues). Take a look at them all, and if any particularly interest you there is a very good chance that you can work on them.
+Typically interns choose what project they want to work on, but if you get tired of a certain project there is opportunity to switch projects. The follow list are the current areas of work for the interns - besides the [issues on ole-vi BeLL-Apps](https://github.com/ole-vi/BeLL-Apps/issues). Take a look at all of them, and if any particularly interest you there is a very good chance that you can work on them.
 
 * [Automated Testing](automatedtesting.md)
   * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI
 * [Translation (Crowdin)](crowdinintegration.md)
-  * Help us translate the BeLL App user interface to other languages
+  * Help us translate the BeLL App user interface to other languages.
+* [Windows Installer](innoproject.md)
+  * Help develop a virtual machine packaged installer file for Windows.
 * [Simple Install](simpleinstall.md)
-  * We are in the progress of making a script to install all the software needed to run and work on the Bell Apps
+  * We are in the progress of making a script to install all the software needed to run and work on the Bell Apps.
 * [HTML Resources](htmlresources.md)
   * Add existing educational HTML apps into the BeLL.
 * [Take Home](takehome.md)
   * Take home is an Android port of the BeLL apps.
+* [Raspberry Pi](raspberrypi.md)
+  * The modified Raspbian image can be place on a microsd card for deployment in the field with a Raspberry Pi.
+* [Angular Reboot](angular.md)
+  * Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality
 
 ## A few things to know..
 Now that you have been added to the intern team, you will receive invites to become GitHub repository members for [open-learning-exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and [ole-vi](https://github.com/ole-vi/BeLL-Apps).
@@ -71,7 +77,7 @@ While you are free to work in your own style, we recommend you follow this basic
 * Try to close issues using some of the following keywords and variations of them in the headings: `close`, `fix` and `resolve`. [Closing Issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)
 
 ### Weekly schedule
-Every Friday we have a "[Happy hacking hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1)" session, where we work on problems together and catch up on what people have been doing all week. Typically we try to follow an Agenda provided in google docs. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the friday meeting. Use the calendar to set up meetings and other events with interns. Just enter: `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` in "*Add a friend's calendar*".
+Every Monday we have a "[Happy hacking hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1)" session, where we work on problems together and catch up on what people have been doing all week. Typically we try to follow an Agenda provided in google docs. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the friday meeting. Use the calendar to set up meetings and other events with interns. Just enter: `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` in "*Add a friend's calendar*".
 
 ## Communicate, Communicate, Communicate!
 It’s not good to go silent on gitter or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the gitter chat. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Also make sure you are `away` in the [OLE google hangout](http://talk.ole.org/). Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self-discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it!
