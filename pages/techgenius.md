@@ -55,7 +55,8 @@ vagrant up
 ```
 **NOTE**: At this point you will have two virtual machines installed and running on your computer. In order to conserve hardware resources and to keep things clean and simple or in case you encounter an error, it is best to halt the original (ole--vagrant-vi) community.
 ```
-1. vagrant halt
+# cd  to ole--vagrant-vi directory
+1. vagrant halt 
 2. cd ..
 3. cd ole--vagrant-community
 4. vagrant up
