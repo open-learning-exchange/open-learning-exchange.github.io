@@ -106,20 +106,20 @@ Collections can be used by Nation administrators and managers to categorize mate
 1. Log in to the Manager account.
 2. Click “Library” on the top navigation bar and then “Collections”.
 
-![](uploads/images/Collection.png)
+  ![](uploads/images/Collection.png)
 
 3. You can either manage existing collections or create a new collection. We will first create a new collection. Click on “Add Collection.”
 
-![](uploads/images/AddCollection.png)
+  ![](uploads/images/AddCollection.png)
 
 4. You will then be prompted to fill out the below form. Type the name name and description of the collection. “Nested Under” refers to whether this will be a top level collection or a sub-collection. Sub-collections are nested under other collections. If you wish to create a collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
 
-![](uploads/images/Save.png)
+  ![](uploads/images/Save.png)
 
 5. Once complete click “Save” to create the new collection.
 
 6. To edit a collection, go back to the main collection page and click on the button next to the collection you want to edit.
 
-![](uploads/images/MainCollection.png)
+  ![](uploads/images/MainCollection.png)
 
 7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the collection.
