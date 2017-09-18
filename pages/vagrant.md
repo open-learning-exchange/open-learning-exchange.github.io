@@ -105,7 +105,7 @@ If your Vagrant machine is powered off, use `vagrant up` to turn it on. To shut 
 
 **NOTE**: Do Not expect `Updates` or `Publications` to be made visible always, will only display if necessary.
 
-**NOTE**:Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.
+**NOTE**: Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.
 
 In case you accidentally used `vagrant destroy`:
 - Rebuild the community BeLL following step 4
