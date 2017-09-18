@@ -3,7 +3,7 @@
 #### About Me
 
 > Hi! I'm Will Jean-Marie, a recent Computer Science grad. I am from Boston, MA (Eastern Time). 
-> I enjoy heading to the gym, and watching the sports game thats on TV. 
+> I enjoy heading to the gym, and watching the sports game that's on TV. 
 > I'm always up for a good challenge, and I look forward to meeting fellow creatives here on Open Learning.
 
 #### Goals & Ambitions
