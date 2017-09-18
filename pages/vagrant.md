@@ -107,7 +107,7 @@ If your Vagrant machine is powered off, use `vagrant up` to turn it on. To shut 
 
 **NOTE**:Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.
 
-In case you accidentally used vagrant destroy:
+In case you accidentally used `vagrant destroy`:
 - Rebuild the community BeLL following step 4
 - Make sure you use a slightly different username and code in configurations
 - Resend the request on Gitter chat
@@ -155,7 +155,7 @@ or not commonly used. To see all subcommands, run the command
 ```
 
 ## Troubleshooting
-1. When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
+1. When typing the command `vagrant up` in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
 
    For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
 
