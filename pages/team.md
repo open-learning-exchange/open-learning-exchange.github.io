@@ -38,6 +38,7 @@
 |[xyb994](profiles/xyb994.md)| 2017-07-31 |
 |[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 |
 |[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 |
+|[cramartef](profiles/cramartef.md)| 2017-09-18 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
