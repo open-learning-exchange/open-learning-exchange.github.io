@@ -73,7 +73,7 @@ You may want to try and issue the above commands on your system, to get familiar
 
 ## macOS
 - Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
-> The first step is locating to the local folder you have designated to do your work in. If you have a different location than the one you see in the first step, replace the "OLE" with the directory to your folder. 
+> The first step is locating to the local folder you have designated to do your work in. If you have a different location than the one you see in the first step, replace the "OLE" with the directory to your folder.
 
 ```
     cd OLE
@@ -102,6 +102,8 @@ with Vagrant commands from any directory. For example:
 If you have a message which doesn't look like this, either your Vagrant machine is powered off, or you have multiple machines with the same name, or you are experiencing some other technical issue.
 
 If your Vagrant machine is powered off, use `vagrant up` to turn it on. To shut down your machine, use `vagrant halt`. Both of these commands need to be issued within the right directory. To destroy your machine entirely, use `vagrant destroy`.
+
+**NOTE**: Do not expect `Updates` or `Publications` to be made visible always, will only display if necessary.
 
 **NOTE**:Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.
 
