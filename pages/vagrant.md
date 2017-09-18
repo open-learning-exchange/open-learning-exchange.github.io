@@ -103,7 +103,7 @@ If you have a message which doesn't look like this, either your Vagrant machine 
 
 If your Vagrant machine is powered off, use `vagrant up` to turn it on. To shut down your machine, use `vagrant halt`. Both of these commands need to be issued within the right directory. To destroy your machine entirely, use `vagrant destroy`.
 
-**NOTE**: Do not expect `Updates` or `Publications` to be made visible always, will only display if necessary.
+**NOTE**: Do Not expect `Updates` or `Publications` to be made visible always, will only display if necessary.
 
 **NOTE**:Remember, by using `vagrant destroy`, you destroy the machine and will need to rebuild a community BeLL if you wish to use it at a later time.
 
