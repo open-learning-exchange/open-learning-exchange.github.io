@@ -44,8 +44,6 @@ First, click the "Update Available" button and it will reload your homepage with
 
 **NOTE**: If there is no Update or Publications tab, don't worry continue with tutorial steps.
 
-**NOTE**: Current screenshot lists Badges, Calendar, Email, and Surveys, but as of right now the UI displays Submissions, Calendar, Email, & Surveys. Continue with tutorial steps.
-
 **NOTE**: If there is an "internet connection" error when you click the "Update Available" button, change your browser to Firefox or Chrome.
 
 ## Take the Course
