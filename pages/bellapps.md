@@ -34,7 +34,7 @@ Fill out the information, although as we are just doing this as a test, accuracy
 In case you forgot to take the screenshot of your configurations, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html, then click on manager, click on the configurations tab, take a screenshot of the page, and submit it to the Gitter chat.
 
 ## Different Kinds of Updates to Your Community
-There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys. 
+There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys.
 
 As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see  publication(s) ready to be downloaded.
 
@@ -42,14 +42,16 @@ As you can see from the image below, there is an update ready to be downloaded. 
 
 First, click the "Update Available" button and it will reload your homepage with a successful update message. An update refers to a new software update which improves the software. Next, click on "Publications", under the Manager page, and sync the publications. Publications add new resources or courses to your library. Last, repeat the process of sending an activities sync to the nation.
 
+**NOTE**: If `Update Available` or `Publications`, is not visible, continue on with tutorial. Will only display if necessary!
+
 **NOTE**: If there is an "internet connection" error when you click the "Update Available" button, change your browser to Firefox or Chrome.
 
 ## Take the Course
 We developed a course for aspiring virtual interns so that we could test the software used to build courses and find bugs/things to improve. It is your job to take the course and find out what needs to be fixed/improved from the student standpoint.
 
-To get to Publications, click on "Manager" from the dashboard, then the publications button. Take the course, and the last question will ask you to specify any problems or improvements/suggestions that you have. Remember, people taking these courses out in remote areas of the world will probably run into the same problems if you do not raise them now and let the team know. This is a very important task, and your help is much appreciated. 
+To get to Publications, click on "Manager" from the dashboard, then the publications button. Take the course, and the last question will ask you to specify any problems or improvements/suggestions that you have. Remember, people taking these courses out in remote areas of the world will probably run into the same problems if you do not raise them now and let the team know. This is a very important task, and your help is much appreciated.
 
-Try to be as specific as possible, and include screenshots when necessary. 
+Try to be as specific as possible, and include screenshots when necessary.
 
 ## Useful Links
 
