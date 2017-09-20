@@ -47,6 +47,10 @@ Click on DHCP Clients List and look for the name of the community laptop. Write 
 
 Click on “Address Reservation” and then “Add New”.
 
+![Router DCHP New IP Reservation Screen Shot](uploads/images/router-dhcp-reservation.png)
+
+The resulting page needs to be completed. 
+
 ![Router DCHP New IP Reservation Screen Shot](uploads/images/router-dhcp-reservation-new.png)
 
 Copy the MAC address into dialogue box and enter “192.168.0.99” into the “Reserved IP Address” box. Click Save.
