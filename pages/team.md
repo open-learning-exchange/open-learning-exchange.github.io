@@ -39,6 +39,7 @@
 |[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 |
 |[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 |
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
+|[cramartef](profiles/cramartef.md)| 2017-09-18 |
 
 ## Former Interns
 |**Username**|**Join Date**|**Leave Date**|
