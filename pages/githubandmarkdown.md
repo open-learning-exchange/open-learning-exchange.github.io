@@ -52,12 +52,12 @@ Now, you will fork the repository to your own account. Look at the picture below
 ![Forking on GitHub](uploads/images/Forking on GitHub update.png)
 
 ### Go to Settings and rename your repository
-After you fork the repository, you will be on your page: `&lt;username&gt;/open-learning-exchange.github.io`. Then, you should go to **Settings** at the top middle of the page and rename your repository to your GitHub username. See example below.
+After you fork the repository, you will be on your page: `username/open-learning-exchange.github.io`. Then, you should go to **Settings** at the top middle of the page and rename your repository to your GitHub username. See example below.
 
 ![Renaming Repository](uploads/images/Rename Repository.png)
 
 ### Post a link to your repository in chat
-After you rename it, make sure to post a link to the github.io website you've just created `(&lt;username&gt;.github.io)` in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
+After you rename it, make sure to post a link to the github.io website you've just created `username.github.io` in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
 ![Example of github.io page](uploads/images/examplegithubio.png)
 
