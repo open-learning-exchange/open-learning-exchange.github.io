@@ -52,12 +52,12 @@ Now, you will fork the repository to your own account. Look at the picture below
 ![Forking on GitHub](uploads/images/Forking on GitHub update.png)
 
 ### Go to Settings and rename your repository
-After you fork the repository, you will be on your page: &lt;username&gt;/open-learning-exchange.github.io. Then, you should go to Settings at the top middle of the page and rename your repository to your GitHub username. See example below.
+After you fork the repository, you will be on your page: `&lt;username&gt;/open-learning-exchange.github.io`. Then, you should go to **Settings** at the top middle of the page and rename your repository to your GitHub username. See example below.
 
 ![Renaming Repository](uploads/images/Rename Repository.png)
 
 ### Post a link to your repository in chat
-After you rename it, make sure to post a link to the github.io website you've just created (&lt;username&gt;.github.io) in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
+After you rename it, make sure to post a link to the github.io website you've just created `(&lt;username&gt;.github.io)` in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
 ![Example of github.io page](uploads/images/examplegithubio.png)
 
@@ -70,13 +70,13 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 
 ### Create a new file as your personal MD Wiki page and commit your changes
- Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
+ Before creating your file create a new branch using the branch drop down menu as shown below. Click on the **Branch drop down** menu and name your branch(you can give any name to your branch) then click **Create branch**. Once you are done with that now you can see that your branch is listed in the menu.
 
 ![New Branch](uploads/images/New Branch.png)
 
- To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
+ To create your page click on the **pages/profiles** folder. Then, click **New File** and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
 
-In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
+**In the new file, please type** your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
 We recommend using at least 5 different types of Markdown and to try to be as creative as possible.
 
