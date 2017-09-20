@@ -5,7 +5,7 @@
 This document explain how to pair the router with the Community Planet server in a local area network via a static IP address so that it can be found by local devices - tablets and laptops. This guide assumes that the Planet Community is installed on a windows machine. These instructions were written using screenshots from a TP-LINK router (TL-WDR3500 or TL-WDR3600) but you should be able to apply these instructions and concepts to any router. In order to complete these steps you will need access to access the management login credentials of the router. The default login for TP-Link router is username: “admin” and password: “admin” without the quotation marks.
 Setup Diagram
 
-![Setup Image](/uploads/images/setup.png)
+![Setup Image](pages/uploads/images/setup.png)
 
 ### Router Configuration | Background
 
