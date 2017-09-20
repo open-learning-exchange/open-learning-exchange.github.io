@@ -5,7 +5,7 @@
 This document explain how to pair the router with the Community Planet server in a local area network via a static IP address so that it can be found by local devices - tablets and laptops. This guide assumes that the Planet Community is installed on a windows machine. These instructions were written using screenshots from a TP-LINK router (TL-WDR3500 or TL-WDR3600) but you should be able to apply these instructions and concepts to any router. In order to complete these steps you will need access to access the management login credentials of the router. The default login for TP-Link router is username: “admin” and password: “admin” without the quotation marks.
 Setup Diagram
 
-![Setup Image](pages/uploads/images/setup.png)
+![Setup Image](uploads/images/setup.png)
 
 ### Router Configuration | Background
 
@@ -23,7 +23,7 @@ On a laptop open a web browser and type [http://tplinklogin.net](http://tplinklo
 
 If successful you will see the following dialogue box. Enter the credentials and click Log In:
 
-![Router Login Screen](/uploads/images/router-login.png)
+![Router Login Screen](uploads/images/router-login.png)
 
 Type the management credentials (“admin” and password: “admin”) or as per your device instructions;
 
@@ -31,37 +31,37 @@ If you do not get the login challenge then you can use ONE of the following TWO 
 
 _Via Command prompt_. Open the CMD window (press Windows button + R or search the Windows programs for “command prompt”). At the command prompt type “ipconfig” and press ENTER. Locate the Default Gateway - in this case it is 192.168.0.1.
 
-![cmd ipconfig screen shot](/uploads/images/ipconfig.png)
+![cmd ipconfig screen shot](uploads/images/ipconfig.png)
  
 _Via the Graphical User Interface_. Open Control Panel > Network and Sharing Center > Wi-Fi Connections (click link) > Details to get this dialogue box:
 
-![Windows GUI IP screen shot](/uploads/images/wifi-gui-config.png)
+![Windows GUI IP screen shot](uploads/images/wifi-gui-config.png)
 
 Click on DHCP
 
-![Router DCHP Screen Shot](/uploads/images/router-dhcp.png)
+![Router DCHP Screen Shot](uploads/images/router-dhcp.png)
 
 Click on DHCP Clients List and look for the name of the community laptop. Write down MAC address.
 
-![Router DCHP Client List Screen Shot](/uploads/images/router-dhcp-cl.png)
+![Router DCHP Client List Screen Shot](uploads/images/router-dhcp-cl.png)
 
 Click on “Address Reservation” and then “Add New”.
 
-![Router DCHP New IP Reservation Screen Shot](/uploads/images/router-dhcp-reservation-new.png)
+![Router DCHP New IP Reservation Screen Shot](uploads/images/router-dhcp-reservation-new.png)
 
 Copy the MAC address into dialogue box and enter “192.168.0.99” into the “Reserved IP Address” box. Click Save.
 
-![Router DCHP Save New Reservation Screen Shot](/uploads/images/router-dhcp-reservation-new-save.png)
+![Router DCHP Save New Reservation Screen Shot](uploads/images/router-dhcp-reservation-new-save.png)
 
 You will receive a notification that the new settings will not take effect until the router is rebooted. Click OK.
 
-![Router DCHP Save Save New Reservation OK Screen Shot](/uploads/images/router-dhcp-reservation-new-save-ok.png)
+![Router DCHP Save Save New Reservation OK Screen Shot](uploads/images/router-dhcp-reservation-new-save-ok.png)
 
 Manually reboot the router (press the On/Off button, wait 5 seconds and press the On/Off button again);
 
 Enter the router admin panel and click DHCP Clients List. The community laptop should appear on the list with the assigned IP of 192.168.0.99 and the lease time of “permanent”.
 
-![Router DCHP Confirm New Reservation Screen Shot](/uploads/images/router-dhcp-reservation-confirm.png)
+![Router DCHP Confirm New Reservation Screen Shot](uploads/images/router-dhcp-reservation-confirm.png)
 
 ### Connecting a tablet or computer to Planet
 
