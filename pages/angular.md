@@ -1,9 +1,13 @@
 # Angular BeLL Reboot
+
 *Note: This project page is a work in progress. Please reach out on the gitter chat if you would like to contribute to this project*
+
 ## Objective:
+
 Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality
 
-### Ways to contribute:
+### Ways to Contribute:
+
 1. Working on a component
     Including
     1. Writing front end code
@@ -28,11 +32,11 @@ This project is built with the [Angular CLI](https://cli.angular.io/), and once 
 1. `ng test` Will run unit tests which are available at `localhost:9876` after compiling.
 2. `ng e2e` Will run end to end tests which are available at `localhost:49152` after compiling.
 
-## Working on a component
+## Working on a Component
 
 Once you have the app up and running, you can start working on a component!  Feel free to post to the Gitter chat or check out the [Angular docs](https://angular.io/docs) if you need some guidance on Angular or JavaScript.  Here we'll focus on some key points you should be aware of.
 
-### Keeping things organized
+### Keeping Things Organized
 
 To keep things organized but not have too deep of a folder structure, our app structure looks like this:
 
@@ -86,7 +90,7 @@ Here's a quick rundown of the parameters used in these methods:
 
 Each component that is built should have a corresponding unit test with a `.spec.ts` file extension.  Unit tests are written in Jasmine and use the Karma test runner, like the examples in the [Angular docs](https://angular.io/guide/testing).  The guide covers quite a bit, so we'll highlight one section here: [spies](https://angular.io/guide/testing#test-a-component-with-an-async-service).
 
-A unit test of an Angular component should not involve calls to the database to retreive data (this would fall under end to end tests), but sometimes functionality needs to be tested that would make a call to the database (i.e. login success/failure messages).  One option to avoid using the database that Jasmine provides is the `spy`.  Spies allow you to track a function and supply a return value.  When that function is called within the test, the spy takes over and simply returns the provided value rather than executing the function.
+A unit test of an Angular component should not involve calls to the database to retrieve data (this would fall under end to end tests), but sometimes functionality needs to be tested that would make a call to the database (i.e. login success/failure messages).  One option to avoid using the database that Jasmine provides is the `spy`.  Spies allow you to track a function and supply a return value.  When that function is called within the test, the spy takes over and simply returns the provided value rather than executing the function.
 
 As mentioned in the Angular docs, there are other ways to circumvent using the database in unit tests, but spies are a good place to start.
 

@@ -1,4 +1,5 @@
 # Android Studio Setup
+
 To be able to debug / repackage / build on the android mobile application, you need to:
 
 - download and install the most recent official IDE for android: [Android Studio](https://developer.android.com/studio/index.html) 
@@ -22,7 +23,8 @@ The Android Studio Setup Wizard guides you through the rest of the setup, which 
 
 ![AndroidSDKManager](uploads/images/AndroidSDKManager.png)
 
-### GitHub setting
+### GitHub Setting
+
 There are three steps that needs be done before you can make contribution to "take-home" project:
 
 1. Find and fork the "take-home" repository
@@ -38,10 +40,10 @@ Now, Run Android studio. Select New from the file menu and select import project
 Navigate to Android studio -> take-home and select the settings.gradle file to import and open the project.
 
 >@todo : 
->http://stackoverflow.com/questions/37397810/android-studio-unable-to-run-avd
->https://www.virtualbox.org/ticket/14294 NB Virtualbox version needs lower equal 4.3.28
+>http://stackoverflow.com/questions/37397810/android-studio-unable-to-run-avd https://www.virtualbox.org/ticket/14294 NB Virtualbox version needs lower equal 4.3.28
 
 ### Take Home Project Setup
+
 When you try to run the app now you will get an error saying you are missing two .apk files. You can find the following files here:
 
 - [firefox_49_0_multi_android.apk](https://drive.google.com/file/d/0Bw7aA5bLT2P9TTBNSDl3VzgtVnc/view)

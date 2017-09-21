@@ -10,7 +10,7 @@ The community library is a sub-set of the national library. The community librar
 
 **Please Note:** if the same resources is up added in two different places then it will appear in the library in duplicate. 
 
-## What is the Preferred Means of Populating the Library?
+## What is the preferred means of populating the library?
 
 Although resources can be added at either the community or national level, it is recommended that the nation be used as the primary means of organizing and sharing resources. We do recognize that this is not always possible due to connectivity issues. If you are using the community server as the primary means of populating the library careful management is needed to avoid resource duplication errors. 
 
@@ -24,7 +24,7 @@ A collection is a group of resources that are grouped by attribute such as topic
 
 # Library Navigation
 
-## How do I Upload a Resource?
+## How do I upload a Resource?
 
 1.  Log in as a **Learner**, **Leader**, or **Manager**.
 
@@ -32,7 +32,7 @@ A collection is a group of resources that are grouped by attribute such as topic
 
 3.  After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
 
-![Add New Resource](techgenius/images/tg-resource-new.png)
+![Add New Resource](images/tg-resource-new.png)
 
 1.  The **Title** of the resource goes here. Capitalize all principal words and make sure everything is spelled correctly. If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”). Do not start the title with numbers or special characters (!@#$%^&*). If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new resource in parentheses. Examples are shown below.
 
@@ -84,7 +84,7 @@ You may need to use a format converter to put your resource in the correct forma
 
 **IMPORTANT:** Until all Nations can communicate with each other and resources can easily be shared between Nations, resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that resources are available in each Nation.
 
-## How do I Name a File so that it can be Uploaded?
+## How do I name a file so that it can be uploaded?
 
 The following file naming conventions should be used for any new file uploaded to PLANET:
 
@@ -95,31 +95,31 @@ The following file naming conventions should be used for any new file uploaded t
 * If there is a series of resources, the first part of the file name should be consistent (e.g., module title), followed by the number in the series, followed by the title of the specific file (e.g., ComputerBasics01_GettingToKnowComputers.pdf, ComputerBasics02_UnderstandingOperationSystems.pdf, etc.).
 * Use leading zeros (i.e., 01, 02, etc. or 001, 002, etc.) for documents that are part of a series so that they are sorted numerically.
 
-## Are there Resources that have Specific Rules for Uploading?
+## Are there resources that have specific rules for uploading?
 
 Yes. These resources are covered in an additional manual titled, XXXXX. Please read that manual to address specific questions on uploading in other languages, in additional formats, or in existing collections with special permission.
 
-## How do I create and Use Collections?
+## How do I create and use collections?
 
-Collections can be used by Nation administrators and managers to categorize materials by topic. Collections make it easy to group resourcers so that they are easily found by Learners. **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a collection are unique to that specific instance of PLANET. Collections can only be created or changed by administators.
+Collections can be used by Nation administrators and managers to categorize materials by topic. Collections make it easy to group resources so that they are easily found by Learners. **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a collection are unique to that specific instance of PLANET. Collections can only be created or changed by administrators.
 
 1. Log in to the Manager account.
 2. Click “Library” on the top navigation bar and then “Collections”.
 
-![Collections](techgenius/images/tg-collection.png)
+![Create a Collection](images/tg-collection.png)
 
 3. You can either manage existing collections or create a new collection. We will first create a new collection. Click on “Add Collection.”
 
-![Add a Collection](techgenius/images/tg-collection-add.png)
+![Add a Collection](images/tg-collection-add.png)
 
 4. You will then be prompted to fill out the below form. Type the name name and description of the collection. “Nested Under” refers to whether this will be a top level collection or a sub-collection. Sub-collections are nested under other collections. If you wish to create a collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
 
-![Save a Collection](techgenius/images/tg-collection-save.png)
+![Save New Collection](images/tg-collection-save.png)
 
 5. Once complete click “Save” to create the new collection.
 
 6. To edit a collection, go back to the main collection page and click on the button next to the collection you want to edit.
 
-![Edit Collection](techgenius/images/tg-collection-main.png)
+![Main Collection](images/tg-collection-main.png)
 
 7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the collection.

@@ -1,15 +1,17 @@
 # HTML Resources
 
 ## Objectives
+
 * Understanding of Couchdb database, Couchapp.
 * Find out HTML5 and Javascript applications to upload it into Bell app.
 * Adding resources to bell app library and make Bell much more interesting and interactive.
 
 ## Documentation
+
 Documentation helps to understand overall progress of project. Visit following link to learn more about it.
 [Documentation](https://docs.google.com/document/d/1aAzah833gWCQ2hWtGyMJLIK83nmunPJn42bnliLrxDk/edit?usp=sharing) and [Tips & Tricks](https://docs.google.com/document/d/1d5HZYSkiNKn0WCYAjAd3tvSC8QlBbyECnvhRqCphT4c/edit)
 
-## Porting HTML App to CouchApp: 2 methods
+## Porting HTML App to CouchApp | 2 methods
 
 The first way (which is a bit trickier and has more steps) will help you learn about how couchDB works, and how HTML apps work. After you familiarize yourself with that, the second way makes it easier because you can directly upload HTML apps to your BeLL app. Make sure to do method 1 before moving onto method 2.
 
@@ -26,6 +28,7 @@ Prerequisites:
 ## Couchapp Installation
 
 #### Linux/OSX
+
 Clone the [couchapp repository](https://github.com/couchapp/couchapp.git), build and install it. Run the following commands in the directory of your choice (from a terminal):
 
 ```
@@ -64,9 +67,10 @@ Installing a package may need elevated privileges, so if you are receiving a per
 `> sudo pip install setuptools`
 
 #### Windows
+
 There are two possible methods for installing python. Method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file. Method 2 is easier because it only requires one step, and the .exe file installs all necessary files for you.
 
-*Method 1*
+**Method 1**
 
 There's a good amount of prerequisites for the couchapp installation on Windows.
 
@@ -85,21 +89,24 @@ python setup.py build
 python setup.py install
 ```
 
-Note:
+**Note**
+
 Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the Gitter chat, and we'll do our best to help you.
 
-*Method 2*
+**Method 2**
 
 Click [here](https://couchapp.readthedocs.io/en/latest/couchapp/install.html#installing-on-windows) and scroll down to the "Installing on Windows" section. Click on the first link 'Standalone Executable 1.0.2'. This will download the couchapp-1.0.2-win32.exe. Run the .exe file by double clicking it. When the installation is complete make sure the "Add couchapp to path" box is checked and finish the installation.
 
-Note:
+**Note**
+
 If you have windows 7  and you get an error message on the next step, you may need to install Visual C++ 9.0 [here](https://www.microsoft.com/en-us/download/details.aspx?id=44266). Then install 'http-parser' by typing into your terminal:
 
 ```
 pip install http-parser
 ```
 
-### Generating the couchapp
+### Generating the CouchApp
+
 When using `couchapp generate` command you will be able to generate the structure of a basic couchapp. First, make sure you are in _couchapp_ folder. Then create a folder with the same app name you are making. Finally, change to that folder you just created. In this case I will guide you to create an app called *"test"* using the following commands.
 
 ```
@@ -108,7 +115,7 @@ $ cd test
 $ couchapp generate test
 ```
 
-If you see an error like the following
+If you see an error like the following:
 
 ```
 'couchapp' is not recognized as an internal or external command,
@@ -124,7 +131,6 @@ $ couchapp generate test
 [WARNING] "genrate app" will be deprecated in future release. Please use "init -t TEMPLATE" instead.
 [INFO] /Users/ignacio/Desktop/ole/test created.
 ```
-
 
 After you run it, you will need to edit the file `.couchapprc` in order to add the server path.
 
@@ -147,19 +153,22 @@ Also you can edit some fields, like `name` and `description`  in the file `couch
 
 ```
 {
-    "name": "Test app",
+    "name1": "Test app",
     "description": "Testing couchapps"
 }
 ```
 
-### Adding content to the app and pushing it
+### Adding Content to the App and Pushing It
+
 Now that you have generated the app, you will need to add the original app data (the one you're porting) to `_attachments` folder. You may want to remove everything inside that folder before you add the new content. You can remove all items inside it and copy the data with the following terminal commands:
 
 ```
 rm -rf _attachments/*
 cp -r /home/user/myoriginalapp/* _attachments/
 ```
-Or for Windows:
+
+For Windows use:
+
 ```
 rd /s /q c:\Users\%username%\couchapp\test\_attachments
 md c:\Users\%username%\couchapp\test\_attachments
@@ -176,9 +185,10 @@ http://127.0.0.1:5985/testapp/_design/test/index.html
 
 After this, The app will be available on the specified link. You should be able to see the database in http://127.0.0.1:5985/_utils/database.html?testapp
 
-## Adding the app as resource to Bell App Library
+## Adding the App as Resource to Bell App Library
 
-### Link Library resource to CouchDB database
+### Link Library Resource to CouchDB Database
+
 The next step is to properly link a Library resource to the database containing the HTML app's data that you created.
 
 First, you need to add a [New Dummy Resource](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resources) so it's easier to copy the template for resources into the actual new resource. Set the `Open` parameter to HTML, and write the additional info required, but don't attach any files.
@@ -210,13 +220,15 @@ If you scroll down to the `_attachments` field, you'll find a reference to an .h
 Once you make these changes, click `Save Document`. You should now be able to find your app in the [Library](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resources)!
 
 ### Push New App to Nation
+
 Now delete your dummy resource by clicking `Delete`. Then click `Open` on you html resource to test it out.
 
 ![finalstep1](uploads/images/Final_Step_1.png)
 
 Finally, push your app to the nation by clicking `Add to Nation`.
 
-_Note:_
+**Note:**
+
 Friendly reminder again to use Firefox when doing these steps or 'Add to Nation' may not appear in other browsers.
 
 ![finalstep2](uploads/images/Final_Step_2.png)
@@ -227,7 +239,8 @@ Friendly reminder again to use Firefox when doing these steps or 'Add to Nation'
 [HTML5-Demos and Examples](http://html5demos.com/)
 [HTML5 Apps-Open Source](https://github.com/leereilly/games#user-content-arcade)
 ___
-## Method 2: uploading a zip file directly to the BeLL app
+
+## Method 2: Uploading a Zip File Directly to the BeLL App
 
 There is another way to upload an HTML app. Once you have downloaded the app to your computer, unzip it if it is zipped, and check if there are unnecessary files in the app (.git folder, node_modules, bower). If you're not sure, leave it in, but more files means longer upload. You won't always have these files- most of the time the .git folder only exists if you cloned a repository from GitHub or if it's a repository you created.
 

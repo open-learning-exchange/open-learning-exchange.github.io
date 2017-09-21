@@ -18,6 +18,7 @@ Currently the installer definition file resides on the `inno` branch on `ole-vi/
 #define MyAppURL "http://www.ole.org"
 ```
 At the start of the document, you can see some comments, which start with `;` as well as the declaration of some constants. These constant variables are used later in the script. On to the first section, called `Setup`
+
 ```
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application.
@@ -43,6 +44,7 @@ SolidCompression=yes
 Here we supply global settings for the installer and metadata for our application. The AppId is important, as that is how inno setup tells your app apart from other apps installed by inno setup. You can see all the fields you are allowed to set in this section [here](http://www.jrsoftware.org/ishelp/topic_setupsection.htm).
 
 Next, the languages and files sections:
+
 ```
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
@@ -148,7 +150,6 @@ before_deploy:
   - sed -i "s/BELL_VERSION/$NEW_BELL_VER/g" "$CONFIG_FILE"
   - sed -i "s/\($TARGET_KEY *= *\).*/\1$REPLACEMENT_VALUE/" $CONFIG_FILE
  
-
   - wine --version 
   - innoextract --version
   # Download inno installer, make sure we use a version that works with wine.
@@ -182,8 +183,7 @@ deploy:
 tags: true
 ```
 
-
-## What needs work
+## What Needs Work
 
 There is more work to be done:
 

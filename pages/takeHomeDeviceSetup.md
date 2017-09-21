@@ -2,7 +2,7 @@
 
 Follow these steps to install and run the **Take Home** application on an Android device:
  
-## Part 1: Setting up your Device
+## Part 1: Setting up Your Device
 
 * __Go to the 'Build number' section.__
 
@@ -32,7 +32,7 @@ Select `OK` on the 'Allow USB debugging' pop-up.
 
 You would see a 'USB debugging connected' notification.
 
-## Part 2: Install and run Take Home on your device
+## Part 2: Install and Run Take Home on Your Device
 
 * __Go to menu bar and select 'Run app' from 'Run' drop-down menu in Android Studio.__
 
@@ -40,7 +40,7 @@ A list of connected and virtual devices will pop up.
 
 * __Select `OK` on the Allow USB debugging pop-up on your device screen.__
 
-You can check 'Always allow from this computer' to avoid doing it everytime, before selecting `OK`. Now, your device name would appear on the above pop-op on Android Studio.
+You can check 'Always allow from this computer' to avoid doing it every time, before selecting `OK`. Now, your device name would appear on the above pop-op on Android Studio.
 
 * __Click on your device name and click `OK`.__
 

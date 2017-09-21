@@ -31,9 +31,12 @@ To run the app in Android Studio's virtual device, you will have to create a new
 Now you should be able to run the app in your virtual device.
 
 ## Logging in on Android Emulator
+
 The Take Home application by default is setup to run on an actual Android device. You will need to modify the IP address in the Setup menu on the Member Login screen to be able to login successfully using the Android Emulator.
 
-**Note:** *You need to have completed the [First Steps](http://open-learning-exchange.github.io/#!pages/firststeps.md) that relate to Vagrant in order for your Android Emulator to work. Make sure you can log-into MyBeLL before continuing these steps.*
+**Note:** 
+
+*You need to have completed the [First Steps](http://open-learning-exchange.github.io/#!pages/firststeps.md) that relate to Vagrant in order for your Android Emulator to work. Make sure you can log-into MyBeLL before continuing these steps.*
 
 First, you need to find your IP address.
 
@@ -45,7 +48,7 @@ For macOS and Ubuntu, Open Terminal and type ```ifconfig``` in the terminal.
 
 ![AndroidTakehomeSetupIPForMac](uploads/images/AndroidTakehomeSetupIPForMac.png)
 
-Secondly, you need to find your port number in MyBeLL.
+Second, you need to find your port number in MyBeLL.
 
 ![AndroidTakehomeSetupPort](uploads/images/AndroidTakehomeSetupPort.png)
 
@@ -60,4 +63,3 @@ After entering the IP and Port, click "Test". You should be prompted with a succ
 You should now be able to sign into the Take Home application using the same login information that you use for MyBeLL.
 
 Note: In order to connect to the Nation instead of your local community, place URL 'http://vi:oleoleole@vi.ole.org:5999' into the Setup menu and login with the default credentials (User: `admin` Password: `password`)
-
