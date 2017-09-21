@@ -7,6 +7,9 @@
 ***
 As a recent graduate with a Master’s in Computer Science from California State University, Long Beach,I am passionate about coding and love to learn new tech stacks .I have  over 2 years of work experience and i love to travel
 # Projects
-1. TechFish Bank (Java, Spring Boot, Angular 2, jQuery) - https://goo.gl/MmY1DK.
-2. UberTruck (Java, JSP, Servlets, JavaScript) - https://goo.gl/N4xqxT.
-3. Earthquake Visualization (Java, pApplet, Proces Library) - https://goo.gl/TrbN7L.
+1. [TechFish Bank ](https://goo.gl/MmY1DK)
+    Technologies : Java, Spring Boot, Angular 2, jQuery
+2. [UberTruck]( https://goo.gl/N4xqxT) 
+    Technologies: Java, JSP, Servlets, JavaScript,AngularJs
+3. [Earthquake Visualization](https://goo.gl/TrbN7L.)
+    Technologies:Java, pApplet, Proces Library,spark,thymeleaf,MySql
