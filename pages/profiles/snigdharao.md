@@ -3,9 +3,11 @@
 <p>
  <img height="250" width="250" src="https://s3.amazonaws.com/mylifecylebuckhyd12/IMG_2569+(1).jpg">
 </p>
-**Time zone** : EDT, -0400
-**OS** : Mac osX
-**BuzzWords** :Python, Java, C/C++, JS, Bash, MIPS, Matlab, Linux, Postgres, MySQL, AWS
+
+* **Time zone** : EDT, -0400
+* **OS** : Mac osX
+* **BuzzWords** :Python, Java, C/C++, JS, Bash, MIPS, Matlab, Linux, Postgres, MySQL, AWS
+
 As a recent graduate with a Master’s in Computer Science from California State University, Long Beach,I am passionate about coding and love to learn new tech stacks .I have  over 2 years of work experience and i love to travel
 
 ### Education
