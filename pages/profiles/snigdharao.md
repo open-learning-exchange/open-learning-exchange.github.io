@@ -1,11 +1,7 @@
  # **Snigdha Rao Madhavaram** 
- ***
+
  <p><img height="250" width="250" src="https://s3.amazonaws.com/mylifecylebuckhyd12/IMG_2569+(1).jpg">
  </p>
-
-
- 
-
 
 **Time zone** : EDT, -0400
 **OS** : Mac osX
