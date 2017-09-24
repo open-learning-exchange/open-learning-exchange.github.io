@@ -7,7 +7,7 @@ Time zone : EDT, -0400
 OS : Mac osX
 BuzzWords :Python, Java, C/C++, JS, Bash, MIPS, Matlab, Linux, Postgres, MySQL, AWS
 
-## As a recent graduate with a Master’s in Computer Science from California State University, Long Beach,I am passionate about coding and love to learn new tech stacks .I have  over 2 years of work experience and i love to travel
+As a recent graduate with a Master’s in Computer Science from California State University, Long Beach,I am passionate about coding and love to learn new tech stacks .I have  over 2 years of work experience and i love to travel
 
 ### Education
 * Master’s in Computer Science, California State University, Long Beach (GPA: 3.7) 
