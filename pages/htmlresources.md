@@ -64,32 +64,6 @@ Installing a package may need elevated privileges, so if you are receiving a per
 `> sudo pip install setuptools`
 
 #### Windows
-There are two possible methods for installing python. Method 1 requires you to install python and other prerequisites. Method 2 is a standalone .exe file. Method 2 is easier because it only requires one step, and the .exe file installs all necessary files for you.
-
-*Method 1*
-
-There's a good amount of prerequisites for the couchapp installation on Windows.
-
-1. Download Python 2.7 [here](https://www.python.org/downloads/). This method only works with version 2.7. If you use a Python installer with a UI, select the option to add Python to PATH. If not (or if that doesn't work) follow [these instructions](https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables). Test that Python is in your PATH with `python --version`.
-2. Download setuptools by following the instructions for Windows [here](https://pypi.python.org/pypi/setuptools).
-3. Download py2exe by following the instructions [here](https://pypi.python.org/pypi/py2exe/0.9.2.0/) (or [here](https://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/) if you're using Python 2.7 or below).
-4. Download pywin32 [here](https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/).
-5. Download curl by opening powershell with admin access and typing `choco install curl`
-
-Once you have all of these, clone the [couchapp repository](https://github.com/couchapp/couchapp.git), build and install it. Run the following commands in the directory of your choice (from a terminal):
-
-```
-git clone https://github.com/couchapp/couchapp.git
-cd couchapp
-python setup.py build
-python setup.py install
-```
-
-Note:
-Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the Gitter chat, and we'll do our best to help you.
-
-*Method 2*
-
 Click [here](https://couchapp.readthedocs.io/en/latest/couchapp/install.html#installing-on-windows) and scroll down to the "Installing on Windows" section. Click on the first link 'Standalone Executable 1.0.2'. This will download the couchapp-1.0.2-win32.exe. Run the .exe file by double clicking it. When the installation is complete make sure the "Add couchapp to path" box is checked and finish the installation.
 
 Note:
