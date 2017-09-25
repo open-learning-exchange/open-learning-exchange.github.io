@@ -1,7 +1,7 @@
 # GitHub and Markdown
 ## Objectives
-* Learning about Github and the Markdown wiki.
-* Writing your own individual Markdown wiki page.
+* Learning about Github and the MDwiki.
+* Writing your own individual MDwiki page.
 * Understanding the Github workflow (including forks, repositories, commits, and pull requests).
 
 ## Prerequisites
@@ -9,14 +9,14 @@ You must already have a GitHub account with verified email address.
 
 [GitHub](https://help.github.com/categories/writing-on-github/) acts as a source code management system for Open Learning Exchange. Please, read some of the basic instructions below to learn how we use GitHub at OLE.
 
-[Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. Markdown (MD) Wiki allows us to use Markdown on GitHub so that it is easily compatible with our current development environment. To put it simply, Markdown is a markup language that is very easy to learn and allows you to quickly format your text.
+[MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. MDwiki allows us to use Markdown on GitHub so that it is easily compatible with our current development environment. To put it simply, Markdown is a markup language that is very easy to learn and allows you to quickly format your text.
 In the screenshot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
 
 ![Markdown Preview](uploads/images/markdown.png)    
 
 #### Markdown != HTML
 
-Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the right column shows the preview):
+Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page:
 
 ![Markdown Cheat Sheet](uploads/images/markdown1.png)
 
@@ -26,7 +26,7 @@ You can also find a bigger cheat sheet with examples [here](https://github.com/a
 
 If you want more practice using Markdown, check out [this site](http://www.markdowntutorial.com/lesson/1/) to explore the MD syntax and see results as you type.
 
-The main GitHub page used to store this MD Wiki can be found at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and our virtual interns will essentially create their own Markdown Wiki repository as a copy of open-learning-exchange.github.io.
+The main GitHub page used to store this MDwiki can be found at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and our virtual interns will essentially create their own MDwiki repository as a copy of open-learning-exchange.github.io.
 
 ## Start here
 This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.
@@ -35,7 +35,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 * [Find and fork the correct repository](#Find_and_fork_the_correct_repository)
 * [Go to Settings and rename your repository](#Go_to_Settings_and_rename_your_repository)
 * [Post a link to your repository in chat](#Post_a_link_to_your_repository_in_chat)
-* [Create a new file as your personal MD Wiki page and commit your changes](#Create_a_new_file_as_your_personal_MD_Wiki_page_and_commit_your_changes)
+* [Create a new file as your personal MDwiki page and commit your changes](#Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
 * [Open a pull request](#Open_a_pull_request)
 
 ### Login to Github with your username and password
@@ -64,13 +64,7 @@ After you rename it, make sure to post a link to the github.io website you've ju
 Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
 
-**NOTE**: Always pay attention when you are working on GitHub, to make sure you work on your own personal account and not on Open Learning Exchange GitHub account.
-Once again, it is very important to distinguish between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of our code, everyone forks the repositories, commit their changes to their own personal version of the repository, and then send the changes back to the Open Learning Exchange repository for approval (called a pull request), before the Open Learning Exchange code is updated.
-Please, make sure to ALWAYS work on your own personal account via forking and pull requests.
-
-
-### Create a new file as your personal MD Wiki page and commit your changes
- Before creating your file create a new branch using the branch drop down menu as shown below. Click on the **Branch drop down** menu and name your branch(you can give any name to your branch) then click **Create branch**. Once you are done with that now you can see that your branch is listed in the menu.
+**NOTE**: Make sure you are looking at the forked repo instead of the original Open Learning Exchange repo before working on it. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
 
 ![New Branch](uploads/images/New Branch.png)
 
