@@ -8,17 +8,17 @@ This effort will begin with the MOE establishing a number of local Communities o
 
 ## Step 1 | Prerequisites
 
-It is understood that tech geniuses have completed [the First Steps training exercises](#!./pages/interns/in-firststeps.md) and that they are familiar and comfortable with the deployment tools and methods. 
+It is understood that tech geniuses have completed [the First Steps training exercises](#!./pages/vi/vi-firststeps.md) and that they are familiar and comfortable with the deployment tools and methods. 
 
 ## Step 2 | Vagrant Environment Installation Confirmation
 
-Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](#!./pages/interns/in-vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop. 
+Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](#!./pages/vi/vi-vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop. 
 
 If you have completed the the installation guide then you will find `c:/users/USERNAME/ole--vagrant-vi` under your file system. The `ole--vagrant-vi` directory indicates that this community is attached to the development environment that OLE uses for training and to develop, test, and deploy new features.
 
 In the steps outlined below we will build a community that is attached to the Madagascar Nation. To achieve this we will do the following:
 
-* Use git command line tools to [clone](#!./pages/in-gitandrepositories.md#Clone_your_GitHub_repository_username.github.io) the ole--vagrant-community repository to your local machine;
+* Use git command line tools to [clone](#!./pages/vi/vi-gitandrepositories.md#Clone_your_GitHub_repository_username.github.io) the ole--vagrant-community repository to your local machine;
 * Use Vagrant command line tools to start the new virtual machine; and
 * Configure the new local Community so that it is connected with the Madagascar Nation.
 

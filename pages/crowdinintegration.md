@@ -2,7 +2,7 @@
 
 # Crowdin Integration
 
-## Objectives:
+## Objectives
 
 * Provide exactly one screen shot for the strings in BeLL app and tag it.
 * Write good descriptions for the strings in Context.

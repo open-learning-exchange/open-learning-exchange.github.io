@@ -85,7 +85,7 @@ Because a community is run locally on your machine, you need to `vagrant up` in 
 
 You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar :
 
-![Left Sidebar](images/in-atlas-status.png)
+![Left Sidebar](images/vi-atlas-status.png)
 
 If Atlas is operational, then maybe your download is being interrupted, you can try to download and set up the big vagrant box file manually:
 
@@ -93,7 +93,7 @@ If Atlas is operational, then maybe your download is being interrupted, you can 
 
 2. Click on the last version's (the uppermost) version number
 
-![Box Version](images/in-atlas-last-version-box.png)
+![Box Version](images/vi-atlas-last-version-box.png)
 
 3. Add `/providers/virtualbox.box` to the page's link you have been redirected to, and click enter to start the download via your browser, or copy the link and paste it in your preferred Downloader, preferably one that has pause/resume functionality.
 
@@ -114,7 +114,7 @@ You need to delete it and start over. Navigate to the misnamed repo and click th
 
 You have a couple of options.
 
-1. If you are not using the repo anymore you can delete it and then follow the [First Steps](in-firststeps.md).
+1. If you are not using the repo anymore you can delete it and then follow the [First Steps](vi-firststeps.md).
 
 2. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repro &lt;orgname&gt;.github.io
 

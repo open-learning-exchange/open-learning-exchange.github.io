@@ -12,7 +12,7 @@ On GitHub, our software code is organized in repositories, each of which represe
 
 As previously mentioned, you fork a repository to work on your own GitHub account, and then send back your changes to the upstream repository in the form of a pull request. You went through this process to fork open-learning-exchange.github.io and rename it to your own repository. Normally, we do not rename repositories, but Markdown Wikis are slightly different. In the future, plan on forking different repositories, working on them, then sending your work to the upstream repo via pull request. The general GitHub structure is diagrammed below.
 
-![Repositories Relationship](images/in-repo-diagram.png)
+![Repositories Relationship](images/vi-repo-diagram.png)
 
 ## Start here
 
@@ -26,7 +26,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 ### Clone your GitHub repository username.github.io
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided in the repository (see the picture below).
 
-![GitHub Clone URL](images/in-github-clone-url.png)
+![GitHub Clone URL](images/vi-github-clone-url.png)
 
 Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).
 
@@ -191,6 +191,6 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 [GitHub's Git Tutorial](https://try.github.io/) - An interactive tutorial to learn GitHub in the browser.
 [Git-it Workshop](http://jlord.us/git-it/) - Runs in your terminal to work and provides a hands-on approach to learn Git and GitHub repositories.
 [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
-[Other helpful links and videos](in-faq.md#Helpful_Links)
+[Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](in-firststeps.md#Step_5_-_Keeping_Fork_Updated)
+#### Return to [First Steps](vi-firststeps.md#Step_5_-_Keeping_Fork_Updated)

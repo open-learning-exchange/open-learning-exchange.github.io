@@ -127,7 +127,7 @@ Type `codeceptjs gt`
 
 That's it! Open your test file and write your test.
 
-If you installed Visual Studio Code (or you use another IDE), type `codeceptjs def` to get autocompletion, which would make writing your tests super easy!
+If you installed Visual Studio Code (or you use another IDE), type `codeceptjs def` to get auto-completion, which would make writing your tests super easy!
 
 You’re now all set to start writing your tests.
 

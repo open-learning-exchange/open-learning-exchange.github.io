@@ -4,11 +4,11 @@
 
 Congratulations. You have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have 16 hours a week to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
 
-## Get to know the team
+## Get to Know the Team
 
-The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](in-team.md). You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
+The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](vi-team.md). You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
 
-## Familiarize yourself with current projects and issues
+## Familiarize Yourself with Current Projects and Issues
 
 Typically interns choose what project they want to work on, but if you get tired of a certain project there is opportunity to switch projects. The follow list are the current areas of work for the interns - besides the [issues on ole-vi BeLL-Apps](https://github.com/ole-vi/BeLL-Apps/issues). Take a look at all of them, and if any particularly interest you there is a very good chance that you can work on them.
 
@@ -29,7 +29,7 @@ Typically interns choose what project they want to work on, but if you get tired
 * [Angular Reboot](#!./pages/angular.md)
   * Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality
 
-## A few things to know...
+## A Few Things to Know...
 
 Now that you have been added to the intern team, you will receive invites to become GitHub repository members for [open-learning-exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and [ole-vi](https://github.com/ole-vi/BeLL-Apps).
 
@@ -41,7 +41,7 @@ You will now have the ability to review, close, and merge pull requests and issu
 
 Once you have accepted your invitation, mark yourself as public at the [list of OLE contributors.](https://github.com/orgs/open-learning-exchange/people)
 
-### Reviewing pull requests and issues
+### Reviewing Pull Requests and Issues
 
 One of your responsibilities as an intern is to review and help prospective interns with their issues / pull request on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [reviewing on GitHub here](https://help.github.com/articles/about-pull-request-reviews/). 
 
@@ -57,7 +57,7 @@ You should check for things such as:
 
 Every time you comment on an issue or review a pull request, message those involved on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) with a link to the issue / pull request. Also, if you find any issue with a pull request, do not forget to use the `Request changes` option when creating your review.
 
-### Merging a pull request
+### Merging a Pull Request
 
 If there are no issues remaining with a pull request, and at least two people have approved the pull request it can be merged, provided that there are no changes requested by another intern (exception is when virtual interns get added to the team - We want the new intern to do that themselves during their interview). When you go to merge the pull request, select Squash Merge, and **remove all of the commit message, and make sure the commit title is clear and short.** You can write “(fixes issue #)” and it will automatically close the issue that the pull request solves. If you forget, just manually go to the issue and close it, linking to the merged pull request.
 
@@ -69,7 +69,7 @@ Every time you merge a pull request, message the author on [Gitter in the chat r
 
 Choose issues to work on out of the `Ready` column and assign them to yourself. Move them to the `In Progress` column when you start working on them. Make sure you link the pull requests to their issues by mentioning them in the pull request title. E.g. "(fixes #54)".
 
-### Standup Post format
+### Standup Post Format
 
 Every time you work on OLE projects and issues you should post in the Standup Gitter chat room before you start working. Use the following format:
 
@@ -80,9 +80,9 @@ Every time you work on OLE projects and issues you should post in the Standup Gi
 * What obstacles are in the way of our progress?
   * `List any problems.`
 
-## Form a working routine and schedule
+## Form a Working Routine and Schedule
 
-### Recommended daily routine
+### Recommended Daily Routine
 
 While you are free to work in your own style, we recommend you follow this basic daily routine:
 
@@ -95,9 +95,9 @@ While you are free to work in your own style, we recommend you follow this basic
 * Make pull requests as often as possible so you can get feedback as you work.
 * Try to close issues using some of the following keywords and variations of them in the headings: `close`, `fix` and `resolve`. [Closing Issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)
 
-### Weekly schedule
+### Weekly Schedule
 
-Every Monday we have a "[Happy hacking hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1)" session, where we work on problems together and catch up on what people have been doing all week. Typically we try to follow an Agenda provided in google docs. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the friday meeting. Use the calendar to set up meetings and other events with interns. Just enter: `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` in "*Add a friend's calendar*".
+Every Monday we have a "[Happy hacking hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1)" session, where we work on problems together and catch up on what people have been doing all week. Typically we try to follow an Agenda provided in Google docs. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the Friday meeting. Use the calendar to set up meetings and other events with interns. Just enter: `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` in "*Add a friend's calendar*".
 
 ## Communicate, Communicate, Communicate!
 

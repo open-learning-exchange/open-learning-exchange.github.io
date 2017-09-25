@@ -110,4 +110,4 @@ If a bug is found, describe the bug in this Google Doc first: [BugHunt.md](https
 * Even though the test cases already have the steps outlined, it's always a good idea to provide more detailed description and pictures to help the developer to understand the situation.
 * If you know why the issue is happening, or have a potential solution to the issue, feel free to add your thoughts to the end of the bug description, or even start working on the problem yourself.                                                         
 * Ask @dogi or @Emily to check your proposed bug in the Google Doc above. They will give you advice and further instructions then.
-* See [the previous wiki](interns/githubissues.md) on how to write a good Github issue.
+* See [the previous wiki](vi/vi-githubissues.md) on how to write a good Github issue.

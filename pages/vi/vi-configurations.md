@@ -28,11 +28,11 @@ Check that your vagrant is up and running with `vagrant global-status`. Assuming
 
 Your first page will look like this:
 
-![127.0.0.1:5985](images/in-127.0.0.1-5985.png)
+![127.0.0.1:5985](images/vi-127.0.0.1-5985.png)
 
 ## Windows
 
-Double click on the MyBeLL icon on your desktop. It will open up a Firefox browser and show you the user interface (see below).  If you get an `Unable to connect` page, check it out at [FAQ](interns/in-faq.md#Technical_Issues_and_Questions).
+Double click on the MyBeLL icon on your desktop. It will open up a Firefox browser and show you the user interface (see below).  If you get an `Unable to connect` page, check it out at [FAQ](interns/vi-faq.md#Technical_Issues_and_Questions).
 
 ## Database
 [CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the BeLL. You can see the backend interface of our CouchDB at http://127.0.0.1:5985/_utils. In _utils, you have the opportunity to see all of the software dev of your vagrant BeLL.
@@ -41,11 +41,11 @@ Double click on the MyBeLL icon on your desktop. It will open up a Firefox brows
 To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html.
 You will be shown the page below. Make sure you fill it out completely.
 
-![Become an Administrator](images/in-become-admin.png)
+![Become an Administrator](images/vi-become-admin.png)
 
 Next, fill out the configurations. Your name and code must be the same and should match your Github name. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below:
 
-![Configurations](images/in-configuration.png)
+![Configurations](images/vi-configuration.png)
 
 After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.
 
@@ -53,10 +53,10 @@ After filling out your configurations, remember to save a screenshot of the conf
 
 Then, click on the **"Register"** button and you will receive a confirmation that your community has been successfully registered (see below).
 
-![Successfully Registered](images/in-success.png)
+![Successfully Registered](images/vi-success.png)
 
 Then, post to the Gitter chat the screenshot you took earlier, so an admin can accept your registration request. 
 
 Your registration request will be accepted from the nation side (this may take a day or two depending on when dogi sees it). After this happens, once you are logged in and online, you will see the following message.
 
-![Community Accepted into the Nation](images/in-registration-accepted.png)
+![Community Accepted into the Nation](images/vi-registration-accepted.png)

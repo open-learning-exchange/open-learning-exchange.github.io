@@ -10,12 +10,12 @@ They are equivalent, so if you run Windows 8.1 or above, you can use either of t
 
 To run the script, just copy and paste one of the lines below in a [Command prompt](http://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/) opened as administrator.
 
-#### Windows 8.1 and above
+#### Windows 8.1 and Above
 
 ```bat
 @powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/dogi/ole--vagrant-vi/master/windows/install.ps1', 'install.ps1')" && @powershell -NoProfile -ExecutionPolicy Bypass -Command ".\install.ps1"
 ```
-#### Windows 7 and above
+#### Windows 7 and Above
 
 ```bat
 powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/dogi/ole--vagrant-vi/master/windows/install.bat', 'install.bat')" && start install.bat && exit
@@ -65,7 +65,7 @@ If it does not work, try this:
 
 ## macOS and Ubuntu ONLY    
 
-### Install a community BeLL on your OS
+### Install a Community BeLL on Your OS
 
 In your `Terminal` or `Command Prompt`, type:
 ```bash

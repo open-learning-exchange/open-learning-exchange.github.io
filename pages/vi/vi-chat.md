@@ -1,6 +1,6 @@
 # open-learning-exchange / chat
 
-Our **Gitter** chat, previewed below, is a great place to learn, discuss, and collaborate with other members to build a better Open Learning Exchange platform. The chat lets OLE’s development team and interns communicate easily, and signup is simply through each member’s Github account.
+Our **Gitter** chat, previewed below, is a great place to learn, discuss, and collaborate with other members to build a better Open Learning Exchange platform. The chat lets OLE’s development team and interns communicate easily, and signup is through each member’s Github account.
 
 <iframe src="https://gitter.im/open-learning-exchange/chat/~embed" style="width: 100%;border:none;height:70vh;"></iframe>
 
@@ -8,7 +8,7 @@ Communication is key in every collaborative project, and OLE is no different. Gi
 
 *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply use Ctrl+C and Ctrl+V to paste your image.*
 
-As you complete the [First Steps](in-firststeps.md), we want you to keep us updated a relatively good amount in the Gitter chat. Generally, you should comment in the Gitter chat when you make an issue or pull request, and then link to it. Make a mention (@*name*) of someone when you comment on their issue/pull request, then link to it. For example:
+As you complete the [First Steps](vi-firststeps.md), we want you to keep us updated a relatively good amount in the Gitter chat. Generally, you should comment in the Gitter chat when you make an issue or pull request, and then link to it. Make a mention (@*name*) of someone when you comment on their issue/pull request, then link to it. For example:
 
   "Hey @dogi, just commented on your issue: [https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15)
   

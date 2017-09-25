@@ -1,6 +1,6 @@
 # Android Device Emulator
 
-One of the deploment enviroments that you are going to be working in is Android Studio's Android device emulator. These Steps will guide you to get the emulator up and running.
+One of the deployment environments that you are going to be working in is Android Studio's Android device emulator. These Steps will guide you to get the emulator up and running.
 
 ## Android Studio Emulator Setup
 

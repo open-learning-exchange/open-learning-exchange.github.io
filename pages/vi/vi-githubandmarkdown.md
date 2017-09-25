@@ -15,13 +15,13 @@ You must already have a GitHub account with verified email address.
 [Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. Markdown (MD) Wiki allows us to use Markdown on GitHub so that it is easily compatible with our current development environment. To put it simply, Markdown is a markup language that is very easy to learn and allows you to quickly format your text.
 In the screen shot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
 
-![Markdown Preview](images/in-markdown-ref.png)    
+![Markdown Preview](images/vi-markdown-ref.png)    
 
 #### Markdown != HTML
 
 Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page (please, notice that the code on the left represents Markdown syntax, while the right column shows the preview):
 
-![Markdown Cheat Sheet](images/in-markdown-syntax.png)
+![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
 
 [Markdown Tutorial](http://tylingsoft.com/tutorial.md/#whats-markdown)
 
@@ -48,25 +48,25 @@ Since you have already created a username on GitHub, we can assume that you unde
 
 There is a lot to learn about GitHub, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example will specifically create your own &lt;username&gt;.github.io and allow you to edit and commit your changes.
 
-**NOTE**: Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-email-in-git/) for more information.
+**NOTE**: Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-email-vi-git/) for more information.
 
 ### Find and fork the correct repository
 
 First, you will need to find the correct GitHub repository to fork. Forking is essentially creating a copy of a repository on your own GitHub account, to avoid editing and, possibly, messing up with the main repository. To make it easier on you, we will provide you with a link to the correct repository [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io). Now, you will fork the repository to your own account. Look at the picture below to find the fork button.
 
-![Forking on GitHub](images/in-github-forking.png)
+![Forking on GitHub](images/vi-github-forking.png)
 
 ### Go to Settings and rename your repository
 
 After you fork the repository, you will be on your page: &lt;username&gt;/open-learning-exchange.github.io. Then, you should go to Settings at the top middle of the page and rename your repository to your GitHub username. See example below.
 
-![Renaming Repository](images/in-rename-repository.png)
+![Renaming Repository](images/vi-rename-repository.png)
 
 ### Post a link to your repository in chat
 
 After you rename it, make sure to post a link to the github.io website you've just created (&lt;username&gt;.github.io) in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-![Example of github.io page](images/in-example-githubio.png)
+![Example of github.io page](images/vi-example-githubio.png)
 
 Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
@@ -78,7 +78,7 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
  Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
 
-![New Branch](images/in-new-branch.png)
+![New Branch](images/vi-new-branch.png)
 
  To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
 
@@ -88,7 +88,7 @@ We recommend using at least 5 different types of Markdown and to try to be as cr
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
-  ![Edit Profile](images/in-edit-profile.png)
+  ![Edit Profile](images/vi-edit-profile.png)
 
 Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/profiles/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
@@ -98,11 +98,11 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.   
 
- ![Initiate Pull Request](images/in-initiate-pull-request.png)
+ ![Initiate Pull Request](images/vi-initiate-pull-request.png)
 
 Finally, click `Create pull request` and someone from our team will review the changes.   
 
- ![Complete Pull Request](images/in-create-pull-request.png)
+ ![Complete Pull Request](images/vi-create-pull-request.png)
 
 Often there will be some feedback from the reviewer at this point for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will automatically affect the pull request. Once everything looks good, the reviewer will merge your page with the main repository.
 
@@ -121,4 +121,4 @@ Make sure to include a rawgit link to your page in your pull request.
 [Comparison of markdown and html](http://thebridge.jp/en/wp/wp-content/uploads/2013/05/markdown-vs-html.png) - The general comparison of markdown and html.
 [Other helpful links and videos](faq.md#Helpful_Links)
 
-#### Return to [First Steps](in-firststeps.md#Step_3_-_Markdown_and_Fork_Tutorial)
+#### Return to [First Steps](vi-firststeps.md#Step_3_-_Markdown_and_Fork_Tutorial)
