@@ -2,11 +2,11 @@
 
 # OLE Support
 
+<!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser). --->
+
 [gimmick:theme (inverse: false)](bootstrap)
 
-Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser). 
-
-Navigation (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
+<!-- Navigation (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
 
 A more complex navigation example: 
 [Menu Item 1]()
@@ -24,20 +24,25 @@ A more complex navigation example:
 
 <!-- Tech Genius Support Menu -->
 
-[Tech Genius]()
+# Tech Genius
 
-# Background
+---
+
+[Background]()
+
   * [Introduction](pages/techgenius/tg-introduction.md)
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
   
-# Support Topics
+[Support Topics]()
+
   * [Planet Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
   * [Planet LAN & Tablet Configuraiton](pages/techgenius/tg-routerconfig.md)
-  * [Content Management](pages/techgenius/tg-library-management.md)
+  * [Content Management](pages/techgenius/-library-management.md)
 
-------
+---
 
-# Installation Guides
+[Installation Guides]()
+
   * [Community Quick Install / Windows](pages/techgenius/tg-windows-install.md)
   * [Manual / Full Installation](pages/techgenius/tg-installation.md)
 
@@ -47,14 +52,18 @@ A more complex navigation example:
 
 <!-- Intern Program -->
 
-[Virtual Interns]()
+# Virtual Interns
 
-# First Steps
+[First Steps]()
+
   * [Start Here / On-Boarding](pages/interns/in-firststeps.md)
   * [Intern Orientation](pages/interns/in-intern-orientation.md)
   * [FAQ](pages/interns/in-faq.md)
+
   - - - -
-# Tools We Use
+
+[Tools We Use]()
+
   * [Vagrant](pages/interns/in-vagrant.md)
   * [GitHub and Markdown](pages/interns/in-githubandmarkdown.md)
   * [BeLL-Apps](pages/interns/in-bellapps.md)
@@ -62,7 +71,8 @@ A more complex navigation example:
   * [GitHub Issues](pages/interns/in-githubissues.md)
   * [Nation BeLL](pages/interns/in-nation.md)
 
-# Our Projects  
+[Our Projects]()
+
   * [Automated Testing](pages/automatedtesting.md)
   * [Crowdin Integration](pages/crowdinintegration.md)
   * [Windows Installer](pages/innoproject.md)
@@ -73,6 +83,7 @@ A more complex navigation example:
   * [Angular Reboot](pages/angular.md)
 
 ----
+
   * [Members](pages/interns/in-team.md)
 
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
