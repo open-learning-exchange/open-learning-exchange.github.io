@@ -72,10 +72,19 @@ Finally:
 
 ## MacOS/Ubuntu - Installing Testing Development Environment
 ### Installing Nation
-WIP - Needs some love.
+The process is similar to installing Nation for Windows.
 
 ### Installing Python, Pip, Selenium, Geckodriver, and Firefox
-WIP - Needs some love.
+1. Install Python 3 with `brew install python3` or download Python from https://www.python.org/downloads/release/python-352/)
+2. Restart the cmd window
+3. pip3 is already included when you install python3
+4. Check if you installed them correctly, typing `python3 --version` and `pip3 --version`
+    If you want to use python virtual environment, refer to step 4 on Windows section
+5. Type `pip3 install selenium`
+6. Download **geckodriver** from https://github.com/mozilla/geckodriver/releases  
+7. Add **geckodriver** to the PATH
+
+Steps 8-13 are similar to the Windows section    
 
 ## Daily Workflow (waffle.io tutorial)
 
