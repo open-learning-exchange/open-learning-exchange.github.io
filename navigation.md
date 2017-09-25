@@ -28,7 +28,6 @@
 
 [Tech Genius]()
 
-  - - - -
   * # Background
   * [Introduction](pages/techgenius/tg-introduction.md)
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
