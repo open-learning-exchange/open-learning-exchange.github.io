@@ -28,30 +28,24 @@
 
 [Tech Genius]()
 
-  * # Background
   * [Introduction](pages/techgenius/tg-introduction.md)
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
   - - - -
-  * # Support Topics
   * [Planet Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
   *  [Planet LAN & Tablet Configuraiton](pages/techgenius/tg-routerconfig.md)  
   * [Content Management](pages/techgenius/-library-management.md)
   - - - -
-  * # Installation Guides
   * [Community Quick Install / Windows](pages/techgenius/tg-windows-install.md)
   * [Manual / Full Installation](pages/techgenius/tg-installation.md)
   - - - -
   * [Members](pages/techgenius/tg-team.md)
-<!-- Intern Program -->
 
-[Virtual Interns]()
+[Virtual Interns]() <!-- Intern Program -->
 
-  * # First Steps
   * [Start Here / On-Boarding](pages/interns/in-firststeps.md)
   * [Intern Orientation](pages/interns/in-intern-orientation.md)
   * [FAQ](pages/interns/in-faq.md)
   - - - -
-  * # Tools We Use
   * [Vagrant](pages/interns/in-vagrant.md)
   * [GitHub and Markdown](pages/interns/in-githubandmarkdown.md)
   * [BeLL-Apps](pages/interns/in-bellapps.md)
@@ -59,7 +53,6 @@
   * [GitHub Issues](pages/interns/in-githubissues.md)
   * [Nation BeLL](pages/interns/in-nation.md)
   - - - -
-  * # Our Projects
   * [Automated Testing](pages/automatedtesting.md)
   * [Crowdin Integration](pages/crowdinintegration.md)
   * [Windows Installer](pages/innoproject.md)
