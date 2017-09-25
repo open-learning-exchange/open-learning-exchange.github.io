@@ -64,9 +64,12 @@
   - - - -
   * [Members](pages/interns/in-team.md)
 
-[Translation](https://crowdin.com/project/open-learning-exchange/invite)
+[Chat]()
 
-[Chat](pages/interns/in-chat.md)
+* [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
+* [Tech Genius](https://gitter.im/open-learning-exchange/techgenius)
+
+[Translation](https://crowdin.com/project/open-learning-exchange/invite)
 
 <!-- Change the Language. Could be useful when there's more than one language wiki. -->
 
