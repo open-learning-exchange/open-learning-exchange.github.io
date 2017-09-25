@@ -1,9 +1,9 @@
-#Welcome! 
+#Welcome!
 
-This is a MDwiki for our Virtual Interns program. Please feel free to explore and offer suggestions on our [gitter.im chat](https://gitter.im/open-learning-exchange/chat). If you are new, please go to the "First Steps" tab and select ["Start Here"](pages/firststeps.md) to get going! We are available to help you via chat. 
+This is a MDwiki for our for our support program. Please feel free to explore and offer suggestions on our [gitter.im chat](https://gitter.im/open-learning-exchange/chat). 
 
-Our Virtual Interns program is part of the software development strategy by [Open Learning Exchange](http://www.ole.org/) (OLE). We are a non-profit and for-purpose organization based in Cambridge, Massachusetts. We strive to provide universal quality education using open source materials and technology to address educational barriers.
+The support program is divided into several parts to meet the needs of different users including those participating in our Virtual Intern program and Tech Genius' who are supporting our product in the field. If you are a new Virtual Intern or a new Tech Genius please go to the "First Steps" tab and select ["Start Here"](pages/interns/in-firststeps.md) to get started! Please remember that many people are available to help you via chat. 
 
-More specifically, we are currently working on a Basic E-Learning Library (BeLL). To learn more about how it works, check out the [Planet User Manual](http://open-learning-exchange.github.io/#!pages/planetusermanual.md).
+The [Open Learning Exchange](http://www.ole.org/) is a social benefit and for-purpose organization based in Cambridge, Massachusetts. Our mission is to provide universal quality education using open source materials and technology to over come educational barriers. More specifically, Planet (formerly known as the Basic E-Learning Library/BeLL system. To learn more about how it works, check out the [Planet User Manual](http://open-learning-exchange.github.io/#!pages/techgenius/-tg-planet-user-manual.md).
 
 ![](pages/uploads/images/OLEInternational.png)
