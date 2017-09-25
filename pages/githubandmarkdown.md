@@ -66,7 +66,7 @@ Don't worry if you see a **404** when you access the link, it will take a while 
 **NOTE**: Make sure you are looking at the forked repo instead of the original Open Learning Exchange repo before working on it. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
 
 ### Create a new file as your personal MDwiki page and commit your changes
-- Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
+Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
 
 ![New Branch](uploads/images/New Branch.png)
 
