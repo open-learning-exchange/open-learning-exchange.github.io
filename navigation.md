@@ -66,19 +66,8 @@
 
 [Chat]()
 
-* [General Chat](https://gitter.im/open-learning-exchange/chat)
-* [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
-* [Tech Genius'](https://gitter.im/open-learning-exchange/techgenius)
+  * [General Chat](https://gitter.im/open-learning-exchange/chat)
+  * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
+  * [Tech Genius'](https://gitter.im/open-learning-exchange/techgenius)
 
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
-
-<!-- Change the Language. Could be useful when there's more than one language wiki. -->
-
-<!-- [Change the Language]()
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/) -->
-
-<!-- Let the user choose a theme. (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation) -->
-
-<!-- [gimmick:themechooser](Choose theme) -->
