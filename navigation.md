@@ -1,4 +1,4 @@
-<!-- In the name of your wiki Do NOT remove the leading `#` character. 
+<!-- In the name of your wiki Do NOT remove the leading `#` character. --->
 
 # OLE Support
 
