@@ -1,5 +1,9 @@
 <!-- In the name of your wiki Do NOT remove the leading `#` character. 
 
+# OLE Support
+
+[gimmick:theme (inverse: false)](bootstrap)
+
 Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser). 
 
 Navigation (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
@@ -17,10 +21,6 @@ A more complex navigation example:
   * [SubMenu Item 3](pages/subitem3.md)
 [Menu Item 2](pages/item2.md)
 [Menu Item 3](pages/item3.md) --->
-
-# OLE Support
-
-[gimmick:theme (inverse: false)](bootstrap)
 
 <!-- Tech Genius Support Menu -->
 
