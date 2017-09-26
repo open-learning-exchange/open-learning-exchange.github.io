@@ -12,7 +12,7 @@
 
 On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the BeLL and in our code.
 
-Note! Issues are not just about adding to the wiki, but can also involve removing repetitive or unnecessary code or content.
+Note: Issues are not just about adding to the wiki, but can also involve removing repetitive or unnecessary code or content.
 
 Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
 
@@ -32,11 +32,11 @@ Every time you start to work on an issue you need to create a branch to keep you
 
 Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch back to master, the files on your local machine revert to how they were before you made changes, since you are no longer on the new branch created.
 
-**TIP**: The default branch in your repository is called master. Keeping the master branch clean of any changes is a good practice so if you make any changes you don't want, you may revert back.
+Hint: The default branch in your repository is called master. Keeping the master branch clean of any changes is a good practice so if you make any changes you don't want, you may revert back.
 
 Now you can go and make the proposed changes to your local files.
 
-**NOTE**: It's important that you are on the new branch, make sure you are on the correct branch with `git checkout branch-name` before committing. Use `git branch` to make sure you are on the correct branch.
+Note: It's important that you are on the new branch, make sure you are on the correct branch with `git checkout branch-name` before committing. Use `git branch` to make sure you are on the correct branch.
 
 If you're still confused, that's quite alright. The data flow of GitHub can be quite challenging at first. See this diagram below. For better context, the new branch you just made is inside your "Forked Github IO".
 
@@ -60,7 +60,7 @@ For edits to this markdown wiki, we recommend that your commit messages only con
 Here is an example of how you would write your commit message:
 `$ git commit -m "Add commit message style guide and add Rawgit section (fixes #841)"`
 
-**NOTE**: in your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
+NOTE: in your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
 ## Rawgit
 
@@ -101,9 +101,9 @@ All that remains is posting your pull request in the chat and waiting until one 
 
 ![Delete Merged Branch](images/vi-delete-merged-branch.png)
 
-**NOTE**: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-gitandrepositories.md).
+Note: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-gitandrepositories.md).
 
-**NOTE**: This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
+Note: This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
 ## Useful Links
 
