@@ -6,25 +6,25 @@
 
 [gimmick:theme (inverse: false)](bootstrap)
 
-[Tech Genius]()
+[Tech Geniuses]()
 
   * [Introduction](pages/techgenius/tg-introduction.md)
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
   - - - -
   * [Planet Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
-  *  [Planet LAN & Tablet Configuration](pages/techgenius/tg-routerconfig.md)  
-  * [Content & Library Management](pages/techgenius/-library-management.md)
+  *  [Planet LAN & Tablet Configuration](pages/techgenius/tg-router-config.md)
+  * [Content & Library Management](pages/techgenius/tg-library-management.md)
   - - - -
   * [Community Quick Install / Windows](pages/techgenius/tg-windows-install.md)
   * [Manual / Full Installation](pages/techgenius/tg-installation.md)
   - - - -
-  * [Members](pages/techgenius/profiles/tg-team.md)
+  * [Members](pages/techgenius/tg-team.md)
 
 [Virtual Interns]() <!-- Intern Program -->
 
   * [Start Here / On-Boarding](pages/vi/vi-first-steps.md)
   * [Intern Orientation](pages/vi/vi-intern-orientation.md)
-  * [FAQ](pages/vi/ivi-faq.md)
+  * [FAQ](pages/vi/iv-faq.md)
   - - - -
   * [Vagrant](pages/vi/vi-vagrant.md)
   * [GitHub and Markdown](pages/vi/vi-githubandmarkdown.md)
@@ -37,14 +37,14 @@
   * [Crowdin Integration](pages/vi/vi-crowdin-integration.md)
   * [Windows Installer](pages/vi/vi-inno-project.md)
   * [Simple Dev Install](pages/vi/vi-simple-install.md)
-  * [HTML Resources](pages/vi/html-resources.md)
-  * [Take Home](pages/vi/vi-take-home.md)
+  * [HTML Resources](pages/vi/vi-html-resources.md)
+  * [Take Home](pages/vi/vi-takehome.md)
   * [Raspberry Pi](pages/vi/vi-raspberry-pi.md)
   * [Angular Reboot](pages/vi/vi-angular.md)
   - - - -
-  * [Members](pages/vi/profiles/vi-team.md)
+  * [Members](pages/vi/vi-team.md)
 
-[Librarians]()
+<!-- [Librarians]()
 
   * [FAQ](pages/librarians/lb-faq)
   * [Overview / Introduction](pages/librarians/lb-overview-intro.md)
@@ -52,7 +52,7 @@
   * [Resource Management](pages/librarians/lb-resource-management)
   - - - -
   * [Members](pages/librarians/profiles/lb-team.md)
-
+--->
 [Chat]()
 
   * [General Chat](https://gitter.im/open-learning-exchange/chat)
