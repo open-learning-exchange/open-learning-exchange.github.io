@@ -11,10 +11,11 @@ I'm a recent software engineering graduate with a focus on web development. I'm 
 In my spare time, I enjoy movies, especially scifi, and snorkeling.
 
 My favorite foods:
+
 * Pasta
 * Pizza 
 * Chocolate
 
-
 Markdown is pretty cool. Here's a cat picture:
+
 ![Cat hiding in a pants leg](https://s-media-cache-ak0.pinimg.com/originals/c2/9e/8b/c29e8ba60e752a81cc9e82265f97c66a.jpg)

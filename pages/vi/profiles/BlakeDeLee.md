@@ -1,4 +1,7 @@
-## Blake DeLee - UMass Boston - Computer Science - Graduating December 2017
+# Blake DeLee
+
+## UMass Boston - Computer Science - Graduating December 2017
+
 I live in Boston, MA.
 
 I do most of my work on a Windows 10 machine, but I do have access to an Ubuntu VM, a straight Unix VM, and a MacBook for Mac OS.

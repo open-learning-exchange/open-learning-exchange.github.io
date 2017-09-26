@@ -1,6 +1,6 @@
 # My name is Akrish.
 
-I'm on the **west coast time zone, or PT**. I use **Mac OS X El Capitan**. I am a **college student** at Reed College in Portland, OR, studying French literature and computer science. I am _so excited_ to work with OLE!
+I'm on the **west coast time zone or PT**. I use **Mac OS X El Capitan**. I am a **college student** at Reed College in Portland, OR studying French literature and computer science. I am _so excited_ to work with OLE!
 
 > [Here](https://github.com/adhikara) are some short projects I've worked on if you're interested.
 
@@ -26,6 +26,7 @@ def tryDefine(word):
 
 	return linguee(word) # METHOD 4 = crawl through Linguee as a final recourse
 ```
+
 ---
 
 Here is a fun table of places I've been to:

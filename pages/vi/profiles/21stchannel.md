@@ -1,4 +1,4 @@
-# Yan Yi (Ryan)  
+# Yan Yi (Ryan)
 
 ## General Information
 
@@ -14,6 +14,7 @@
 ![](https://ucsd.edu/_resources/img/logo_UCSD.png)  
 
 **Languages**
+
 - English
 - Chinese
 - Japanese  
@@ -30,6 +31,7 @@
 - Twitter Bootstrap
 
 ## Projects
+
 | Project Name                   | Year |
 |--------------------------------|------|
 | Personal Website: Alfred Knows | 2017 |

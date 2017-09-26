@@ -13,7 +13,9 @@ Madagascar/GMT+3.00, East Africa Time.
 
 * learnt `MS-DOS, Pascal, C, C++, Matlab`
 * learning `HTML, CSS, latex, java`  
+
 ---
->I would like to help children especially disadvataged ones through education, give them equal chance to create their own future and improve their own lives.
+
+>I would like to help children especially disadvantaged ones through education, give them equal chance to create their own future and improve their own lives.
 
 **E-mail:** [Fetra Marc Humbert Rahajason](mailto:humbert.fetra@outlook.com)

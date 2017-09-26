@@ -1,6 +1,6 @@
-Virinchi Balabhadrapatruni
+# Virinchi Balabhadrapatruni
 
-Westford, Massachsetts / EST
+## Westford, Massachsetts / EST
 
 My name is Virinchi Balabhadrapatruni. I am 22 years old, and I am a graduate of UMass Lowell with Bachelor's Degrees in both Electrical Engineering and Computer Science, as well as a minor in Mathematics. My primary interest is front-end softwar development, be it web or mobile frontend development. 
 

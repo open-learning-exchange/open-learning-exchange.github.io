@@ -7,5 +7,6 @@
 |**➤ Tech Geniuses**||
 
 ## Tech Geniuses
+
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|

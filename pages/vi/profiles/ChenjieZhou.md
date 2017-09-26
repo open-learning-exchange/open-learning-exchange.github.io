@@ -12,20 +12,22 @@ I am a first year Master student in Computer Engineering at UC Santa Cruz which 
 Hope that we learn and progress together.
 
 ### Languages
+
 - Java
 - Python
 - JavaScript
 - HTML5/ CSS3
 
-### Fields of Studying
+#### Fields of Studying
+
 - Artificial Intelligence
 - Data Visualization 
 - Web Development
 
-### More
+##### More
+
 I am a traveler, an iPhoneographer. 
 
 Welcome to follow me on [Github](https://github.com/ChenjieZhou).
 
 ![El Captain](http://oow24e8uv.bkt.gdipper.com/yosemite/elcaption1.jpg?imageslim)
-

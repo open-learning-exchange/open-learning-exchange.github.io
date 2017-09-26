@@ -1,10 +1,6 @@
 *Name:* __Auris Kveraga__ (github: _aurinsomnia_)
 
-I'm from Boston, MA so based in the EST time zone of course. I am currently a sophomore at UMass Lowell, majoring in Computer Science.
-So far my courses have been primarily taught in C, but next semester we are taking the step up to C++, so I'm naturally quite excited
-for that experience. I've had experience in a few languages, but given the extent of my coursework, I am by far most adept at C, 
-but am always excited to learn more! 
-I've made up a chart to list some of my proficiency/familiarity levels with different languages:
+I'm from Boston, MA so based in the EST time zone of course. I am currently a sophomore at UMass Lowell, majoring in Computer Science. So far my courses have been primarily taught in C, but next semester we are taking the step up to C++ so I'm naturally quite excited for that experience. I've had experience in a few languages, but given the extent of my coursework, I am by far most adept at C, but am always excited to learn more! I've made up a chart to list some of my proficiency/familiarity levels with different languages:
 
 
 | Language      | Proficiency   |
@@ -17,12 +13,10 @@ I've made up a chart to list some of my proficiency/familiarity levels with diff
 | Javascript    | Intermediate    |
 | Bootstrap     | Beginner     |
 
-
-
-I've done some minor web development work, but nothing to the extent of the work at OLE,
-so I'm really looking forward to the opportunity of learning and working on a project of this scale. 
+I've done some minor web development work, but nothing to the extent of the work at OLE so I'm really looking forward to the opportunity of learning and working on a project of this scale. 
 
 #### Outside of Coding, some of my other Hobbies include: ####
+
 ![Isaiah Thomas <3](http://i.cdn.turner.com/drp/nba/celtics/sites/default/files/styles/story_main_photo/public/170429thomas2.jpg?itok=3UQ3hgEP)
 
 * Basketball (_Huge Celtics fan, and love playing as well_)

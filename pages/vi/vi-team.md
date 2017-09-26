@@ -1,5 +1,7 @@
 # Members
+
 ## Active Members
+
 |**Username**|**Join Date**|
 |------------|-------------|
 |**➤ Volunteers**||
@@ -41,6 +43,7 @@
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
 
 ## Former Interns
+
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
 |[mappuji](profiles/mappuji.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
