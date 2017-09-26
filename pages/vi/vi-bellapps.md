@@ -59,4 +59,4 @@ Try to be as specific as possible, and include screen shots when necessary.
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](vi-firststeps.md#Step_4_-_BeLL-Apps_Tutorial)
+#### Return to [First Steps](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial)

@@ -22,15 +22,15 @@
 
 [Virtual Interns]() <!-- Intern Program -->
 
-  * [Start Here / On-Boarding](pages/vi/vi-firststeps.md)
+  * [Start Here / On-Boarding](pages/vi/vi-first-steps.md)
   * [Intern Orientation](pages/vi/vi-intern-orientation.md)
   * [FAQ](pages/vi/ivi-faq.md)
   - - - -
   * [Vagrant](pages/vi/vi-vagrant.md)
   * [GitHub and Markdown](pages/vi/vi-githubandmarkdown.md)
   * [BeLL-Apps](pages/vi/vi-bellapps.md)
-  * [Git Repositories](pages/vi/vi-gitandrepositories.md)
-  * [GitHub Issues](pages/vi/vi-githubissues.md)
+  * [Git Repositories](pages/vi/vi-git-and-repositories.md)
+  * [GitHub Issues](pages/vi/vi-github-issues.md)
   * [Nation BeLL](pages/vi/vi-nation.md)
   - - - -
   * [Automated Testing](pages/vi/vi-automated-testing.md)
@@ -65,7 +65,7 @@
 
 <!-- Navigation (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)  
 
-A more complex navigation example: 
+A more complex navigation example:
 
 [Menu Item 1](
 

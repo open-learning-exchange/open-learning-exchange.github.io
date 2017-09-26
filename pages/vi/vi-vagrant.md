@@ -166,4 +166,4 @@ For more information go [here](http://stackoverflow.com/questions/23874260/error
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
 [Other helpful links and videos](faq.md#Helpful_Links)
 
-#### Return to [First Steps](firststeps.md#Step_2_-_Vagrant_Tutorial)
+#### Return to [First Steps](first-steps.md#Step_2_-_Vagrant_Tutorial)

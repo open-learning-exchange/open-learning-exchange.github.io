@@ -4,7 +4,7 @@
 
 Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple instructions before you can progress to working on harder projects in bigger teams. Consider them to be the interview for the internship.
 
-If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a specific team to work on developing and improving OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
+If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the [Virtual Interns Gitter chatroom](https://gitter.im/open-learning-exchange/interns) and assign you to a specific team to work on developing and improving OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
 
 Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
@@ -35,7 +35,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ![Follow Screen Shot](images/vi-follow.png)
 
-3. We use Crowdin to translate our user interface in many different languages. If you know another language, go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. You may start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-firststeps.md#Step_4_-_BeLL-Apps_Tutorial) so that you have a better understanding of what BeLL Apps do. You may also reference the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
+3. We use Crowdin to translate our user interface in many different languages. If you know another language, go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. You may start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial) so that you have a better understanding of what BeLL Apps do. You may also reference the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
 
 ## Step 1 - BeLL Installation
 
@@ -49,7 +49,7 @@ Review these [Vagrant instructions](vi-vagrant.md) to ensure that you have fully
 
 ## Step 3 - Markdown and Fork Tutorial
 
-Follow the instructions on the [GitHub and Markdown page](vi-githubandmarkdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/profiles/&lt;username&gt;.md).
+Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/profiles/&lt;username&gt;.md).
 
 * Once you complete the Step 3 you will have:
     * 1 Pull request made
@@ -60,11 +60,11 @@ Follow the instructions under the [BeLL-Apps tab](vi-bellapps.md).
 
 ## Step 5 - Keeping Fork Updated
 
-Follow the directions at [Git Repositories](vi-gitandrepositories.md) to keep your username.github.io and your local repository up to date.
+Follow the directions at [Git Repositories](vi-github-and-repositories.md) to keep your username.github.io and your local repository up to date.
 
 ## Step 6 - GitHub Issues Tutorial
 
-Follow the tutorial under the [GitHub Issues tab](vi-githubissues.md) to create at least one issue. You will be working to improve this MarkDown Wiki so that it is clearer and better for future use. Post a link in Gitter whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. It is ok to file an issue on minor typos and very small changes, but do not make this the case for all of the issues that you file.
+Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md) to create at least one issue. You will be working to improve this MarkDown Wiki so that it is clearer and better for future use. Post a link in Gitter whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. It is ok to file an issue on minor typos and very small changes, but do not make this the case for all of the issues that you file.
 
 Contribute as much value as you can in each issue you file. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Next, fix the issue on your repo and create pull requests, as per the tutorial. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile will become. This is very important to potential employers, thus we encourage you to spend time to increase your numbers to strengthen your profile. Make sure you have created at least one issue, resolved it and have a pull request with the fix merged before proceeding to the next step.
 
@@ -79,7 +79,7 @@ Follow the directions under the [Nation BeLL tab](vi-nation.md).
 
 ## Step 8 - Create Issues and Pull Requests
 
-Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue. You will follow the same steps as in [GitHub Issues](vi-githubissues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
+Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue. You will follow the same steps as in [GitHub Issues](vi-github-issues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
 
 Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests, have them approved by at least three others and merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat and wait for at least three others to approve it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 

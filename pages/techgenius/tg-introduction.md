@@ -1,6 +1,6 @@
 # Tech Genius Support
 
-Welcome to the Tech Genius support section. You are here because you have completed the [First Steps](!#../pages/vi/vi-firststeps.md) and you are ready to deploy and support a Community, a group of communities, and/or nation server.
+Welcome to the Tech Genius support section. You are here because you have completed the [First Steps](!#../pages/vi/vi-first-steps.md) and you are ready to deploy and support a Community, a group of communities, and/or nation server.
 
 ## The Big Picture
 

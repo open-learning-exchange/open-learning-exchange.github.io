@@ -8,7 +8,7 @@ This effort will begin with the MOE establishing a number of local Communities o
 
 ## Step 1 | Prerequisites
 
-It is understood that tech geniuses have completed [the First Steps training exercises](#!./pages/vi/vi-firststeps.md) and that they are familiar and comfortable with the deployment tools and methods. 
+It is understood that tech geniuses have completed [the First Steps training exercises](#!./pages/vi/vi-first-steps.md) and that they are familiar and comfortable with the deployment tools and methods. 
 
 ## Step 2 | Vagrant Environment Installation Confirmation
 
@@ -18,7 +18,7 @@ If you have completed the the installation guide then you will find `c:/users/US
 
 In the steps outlined below we will build a community that is attached to the Madagascar Nation. To achieve this we will do the following:
 
-* Use git command line tools to [clone](#!./pages/vi/vi-gitandrepositories.md#Clone_your_GitHub_repository_username.github.io) the ole--vagrant-community repository to your local machine;
+* Use git command line tools to [clone](#!./pages/vi/vi-github-and-repositories.md#Clone_your_GitHub_repository_username.github.io) the ole--vagrant-community repository to your local machine;
 * Use Vagrant command line tools to start the new virtual machine; and
 * Configure the new local Community so that it is connected with the Madagascar Nation.
 
@@ -41,8 +41,9 @@ git clone https://github.com/dogi/ole--vagrant-community.git
 cd ole--vagrant-community
 vagrant up
 ```
-**NOTE**: At this point you will have two virtual machines installed and running on your computer. In order to conserve hardware resources and to keep things clean and simple or in case you encounter an error, it is best to halt the original (ole--vagrant-vi) community.
-```
+Note: At this point you will have two virtual machines installed and running on your computer. In order to conserve hardware resources and to keep things clean and simple or in case you encounter an error, it is best to halt the original (ole--vagrant-vi) community.
+
+```bash
 # cd  to ole--vagrant-vi directory
 vagrant halt
 ```
@@ -112,6 +113,6 @@ Notice that the orange dot is now green. Also note that there may be system upda
 
 ![Community Software Update Notification](images/tg-community-admin-config-update-notification.png)
 
-**IMPORTANT** Running the system update can take time. Please only click the up date link once. Be patient! You will receive a confirmation dialogue once the update is complete. It will look like this:
+Warning: Running the system update can take time. Please only click the up date link once. Be patient! You will receive a confirmation dialogue once the update is complete. It will look like this:
 
 ![Update Completed Confirmation](images/tg-community-admin-config-update-confirmation.png)

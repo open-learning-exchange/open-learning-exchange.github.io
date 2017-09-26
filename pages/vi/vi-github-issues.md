@@ -28,7 +28,7 @@ After this, you will then research the possible solutions or ideas on how to add
 
 ## Making a new Branch
 
-Every time you start to work on an issue you need to create a branch to keep your work on various issues separate from each other. Before you create your branch, sync your repo following the process in the [previous step](vi-gitandrepositories.md). Then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
+Every time you start to work on an issue you need to create a branch to keep your work on various issues separate from each other. Before you create your branch, sync your repo following the process in the [previous step](vi-github-and-repositories.md). Then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
 Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch back to master, the files on your local machine revert to how they were before you made changes, since you are no longer on the new branch created.
 
@@ -101,7 +101,7 @@ All that remains is posting your pull request in the chat and waiting until one 
 
 ![Delete Merged Branch](images/vi-delete-merged-branch.png)
 
-Note: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-gitandrepositories.md).
+Note: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md).
 
 This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
@@ -110,4 +110,4 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 [Mastering Issues](https://guides.github.com/features/issues/) - The official Git Guide on the basics of filing an issue.
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](firststeps.md#Step_6_-_GitHub_Issues_Tutorial)
+#### Return to [First Steps](first-steps.md#Step_6_-_GitHub_Issues_Tutorial)
