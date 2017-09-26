@@ -1,6 +1,6 @@
 # Bug Hunt
 
-https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1
+[Background / Introduction](https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1)
 
 ## What is an Issue?
 
@@ -11,7 +11,7 @@ An issue is an error, bug, flaw, failure or fault in BeLL app which causes it to
 * It should be about an existing feature. Not wishing for enhancement.
 * It should be reproducible. Otherwise, your computer is the only one which suffers from this issue.
 * How did you find the issue.
-* Image/screenshots of the issue.
+* Image/screen shots of the issue.
 * As detailed as possible.
 
 ## Writing Manual Test Cases
@@ -58,7 +58,6 @@ Create a project in Eclipse -> Right click on the project -> Build Path -> Add E
 
 Install [TestNG in Eclispe](http://www.guru99.com/all-about-testng-and-selenium.html).
 
-
 ### Tutorial
 
 ##### 1. Basic Tutorial for Selenium
@@ -85,6 +84,7 @@ Install [TestNG in Eclispe](http://www.guru99.com/all-about-testng-and-selenium.
 	* [Other interactions](http://seleniumhq.github.io/selenium/docs/api/java/)
 
 ##### 2. Basic Tutorial for TestNG
+
 ##### Listed below are annotations for manual test cases and how/when to use them.
 
 * @BeforeTest:  when you put this annotation above a method, the method will be executed before the whole test begins
@@ -104,10 +104,10 @@ Install [TestNG in Eclispe](http://www.guru99.com/all-about-testng-and-selenium.
 
 Be aware of picking a functionality that is under construction or that has previously been found buggy. You will know that by looking at the Github issue queue here: https://github.com/dogi/ole--vagrant-community/issues
 
-If a bug is found, describe the bug in this Google Doc first: [BugHunt.md](https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1)
+If a bug is found, describe the bug in this Google Doc first: [vi-bug-hunt.md](https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1)
 
 * Clearly describe exactly what the bug is, the number of the test case, and the steps that fail or produce unexpected output. Make sure that your description of the bug is easily understandable and describes the issue. Feel free to use images, to supplement your description.
 * Even though the test cases already have the steps outlined, it's always a good idea to provide more detailed description and pictures to help the developer to understand the situation.
 * If you know why the issue is happening, or have a potential solution to the issue, feel free to add your thoughts to the end of the bug description, or even start working on the problem yourself.                                                         
 * Ask @dogi or @Emily to check your proposed bug in the Google Doc above. They will give you advice and further instructions then.
-* See [the previous wiki](vi/vi-githubissues.md) on how to write a good Github issue.
+* See [the previous wiki](vi-github-issues.md) on how to write a good Github issue.

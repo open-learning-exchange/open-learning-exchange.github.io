@@ -9,7 +9,7 @@
 ## Documentation
 
 Documentation helps to understand overall progress of project. Visit following link to learn more about it.
-[Documentation](https://docs.google.com/document/d/1aAzah833gWCQ2hWtGyMJLIK83nmunPJn42bnliLrxDk/edit?usp=sharing) and [Tips & Tricks](https://docs.google.com/document/d/1d5HZYSkiNKn0WCYAjAd3tvSC8QlBbyECnvhRqCphT4c/edit)
+[Documentation](https://docs.google.com/document/d/1aAzah833gWCQ2hWtGyMJLIK83nmunPJn42bnliLrxDk) and [Tips & Tricks](https://docs.google.com/document/d/1d5HZYSkiNKn0WCYAjAd3tvSC8QlBbyECnvhRqCphT4c)
 
 ## Porting HTML App to CouchApp | 2 methods
 
@@ -20,10 +20,9 @@ The first way (which is a bit trickier and has more steps) will help you learn a
 Prerequisites:
 
 * Python2 with pip and setuptools
-* [Couchapp](htmlresources.md#Couchapp_Installation)
+* [Couchapp](vi-html-resources.md#Couchapp_Installation)
 * Couchdb Instance
 * Desired JavaScript/HTML application
-
 
 ## Couchapp Installation
 
@@ -195,27 +194,27 @@ First, you need to add a [New Dummy Resource](http://127.0.0.1:5985/apps/_design
 
 Now we have to mess around with some things in the [CouchDB](http://127.0.0.1:5985/_utils/). For ease of viewing, make sure to change "Rows per page:" to 50 or higher. You can see the resource you just added in the database titled `resources`.
 
-![dummyresourceincouch](uploads/images/dummy-couch-resource.png)
+![dummyresourceincouch](images/vi-dummy-couch-resource.png)
 
 Next, go into the folder on your computer where your couchapp is located, go into the `.couchapprc` file, and change the value for `db` to ```"http://127.0.0.1:5985/resources"```. This changes the directory of the next `couchapp push` to the `resources` database.
 
 Now we need a random `_id` value for the new Library resource. ```curl -X GET http://127.0.0.1:5985/_uuids``` will generate a random UUID. Copy that value from your command prompt/terminal and replace the value in the `_id` file with the random UUID.
 
-![randomcouchappid](uploads/images/random-couchapp-id.png)
+![randomcouchappid](images/vi-random-couchapp-id.png)
 
 Once these changes have been made, ```couchapp push myserver``` again. The app will be available at the URL specified.
 
 This next part is the most complicated, so make sure to pay extra attention here. Go to the [CouchDB](http://127.0.0.1:5985/_utils/) and open the *dummy resource* you made in one tab and the *app you just pushed* in another tab (both of which can be found in the `resources` database). As you can see when you compare your app and the dummy resource, the app is missing fields that are necessary for it to be usable in the Library. So now, go to the dummy resource click the "Source" tab. Double-click the source and copy everything from the dummy resource EXCEPT the `_id` and `_rev` fields.
 
-![dummyresourcesfieldstocopy](uploads/images/dummy-resource-fields.png)
+![dummyresourcesfieldstocopy](images/vi-dummy-resource-fields.png)
 
 Then, go into the "Source" of your app and paste those fields below the `_rev` field. Remember to put a comma after the last line you paste (`"timesRated": 0`) and feel free to change the `title` field to the name of your app.
 
-![pastedfieldsincouchapp](uploads/images/pasted-fields.png)
+![pastedfieldsincouchapp](images/vi-pasted-fields.png)
 
 If you scroll down to the `_attachments` field, you'll find a reference to an .html file called `index.html` or `main.html` or something along those lines. Cut the reference and all of its info and put it at the beginning of the `_attachments` field like so:
 
-![cutpasteindexhtml](uploads/images/cutpaste-indexhtml.png)
+![cutpasteindexhtml](images/vi-cutpaste-index-html.png)
 
 Once you make these changes, click `Save Document`. You should now be able to find your app in the [Library](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html#resources)!
 
@@ -223,7 +222,7 @@ Once you make these changes, click `Save Document`. You should now be able to fi
 
 Now delete your dummy resource by clicking `Delete`. Then click `Open` on you html resource to test it out.
 
-![finalstep1](uploads/images/Final_Step_1.png)
+![finalstep1](images/vi-final-step-1.png)
 
 Finally, push your app to the nation by clicking `Add to Nation`.
 
@@ -231,7 +230,7 @@ Finally, push your app to the nation by clicking `Add to Nation`.
 
 Friendly reminder again to use Firefox when doing these steps or 'Add to Nation' may not appear in other browsers.
 
-![finalstep2](uploads/images/Final_Step_2.png)
+![finalstep2](images/vi-final-step-2.png)
 
 #### Useful Links
 [What is Couchapp?](http://couchapp.readthedocs.io/en/latest/intro/what-is-couchapp.html)
@@ -250,7 +249,7 @@ Now you can zip the contents of your app. Select all files in your app and zip t
 
 Once you have your zip folder, add your app as a resource like you did during the intern application process, but select HTML under Open and put the file name of the main page (i.e. index.html) in Open Which File like below:
 
-![addzipfile](uploads/images/htmlresources.png)
+![addzipfile](images/vi-html-resources.png)
 
 Click save. Adding to your community will take some time (30 seconds - 5 minutes). Pushing to the nation will take even longer depending on your internet connection.
 

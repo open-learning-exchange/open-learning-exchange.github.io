@@ -38,7 +38,7 @@
   * [Community Quick Install / Windows](pages/techgenius/tg-windows-install.md)
   * [Manual / Full Installation](pages/techgenius/tg-installation.md)
   - - - -
-  * [Members](pages/techgenius/tg-team.md)
+  * [Members](pages/techgenius/profiles/tg-team.md)
 
 [Virtual Interns]() <!-- Intern Program -->
 
@@ -46,23 +46,23 @@
   * [Intern Orientation](pages/interns/in-intern-orientation.md)
   * [FAQ](pages/interns/in-faq.md)
   - - - -
-  * [Vagrant](pages/interns/in-vagrant.md)
-  * [GitHub and Markdown](pages/interns/in-githubandmarkdown.md)
-  * [BeLL-Apps](pages/interns/in-bellapps.md)
-  * [Git Repositories](pages/interns/in-gitandrepositories.md)
-  * [GitHub Issues](pages/interns/in-githubissues.md)
-  * [Nation BeLL](pages/interns/in-nation.md)
+  * [Vagrant](pages/vi/vi-vagrant.md)
+  * [GitHub and Markdown](pages/vi/vi-githubandmarkdown.md)
+  * [BeLL-Apps](pages/vi/vi-bellapps.md)
+  * [Git Repositories](pages/vi/vi-gitandrepositories.md)
+  * [GitHub Issues](pages/vi/vi-githubissues.md)
+  * [Nation BeLL](pages/vi/vi-nation.md)
   - - - -
-  * [Automated Testing](pages/automatedtesting.md)
-  * [Crowdin Integration](pages/crowdinintegration.md)
-  * [Windows Installer](pages/innoproject.md)
-  * [Simple Dev Install](pages/simpleinstall.md)
-  * [HTML Resources](pages/htmlresources.md)
-  * [Take Home](pages/takehome.md)
-  * [Raspberry Pi](pages/raspberrypi.md)
-  * [Angular Reboot](pages/angular.md)
+  * [Automated Testing](pages/vi/vi-automated-testing.md)
+  * [Crowdin Integration](pages/vi/vi-crowdin-integration.md)
+  * [Windows Installer](pages/vi/vi-inno-project.md)
+  * [Simple Dev Install](pages/vi/vi-simple-install.md)
+  * [HTML Resources](pages/vi/html-resources.md)
+  * [Take Home](pages/vi/vi-take-home.md)
+  * [Raspberry Pi](pages/vi/vi-raspberry-pi.md)
+  * [Angular Reboot](pages/vi/vi-angular.md)
   - - - -
-  * [Members](pages/interns/in-team.md)
+  * [Members](pages/vi/profiles/vi-team.md)
 
 [Chat]()
 

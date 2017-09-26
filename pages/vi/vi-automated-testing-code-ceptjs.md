@@ -43,8 +43,7 @@ The instructions I provided below are setting up the environment to work with We
 
 ### Works with Travis CI and Sauce Labs (*but also with BrowserStack and TestingBot*)
 
-Basically, CodeceptJS can work with the setup we already have in place (see [Setup Sauce Labs](http://webdriver.io/guide/services/sauce.html) for instructions on how to setup Sauce Labs).  
-However, we can also substitute Sauce Labs with BrowserStack or with TestingBot, if desired.
+Basically, CodeceptJS can work with the setup we already have in place (see [Setup Sauce Labs](http://webdriver.io/guide/services/sauce.html) for instructions on how to setup Sauce Labs).  However, we can also substitute Sauce Labs with BrowserStack or with TestingBot, if desired.
 
 ### PageObjects and Helpers are Easy to Setup
 
@@ -56,10 +55,7 @@ CodeceptJS provides an interactive shell, that allows to insert a `pause()` call
 
 ### Test Call Flexibility
 
-We can run all tests simply by typing `codeceptjs run` and one test only (for instance, a test called `login_test.js`) by typing `codeceptjs run . login_test.js`.   
-However, we can also run only tests that contain the word “login” by typing `codeceptjs run --grep "login"`.   
-Even more handy is the easiness with which we can run our tests on a different browser, by just typing `codeceptjs run --override '{ "helpers": {"WebDriverIO": {"browser": "chrome"}}}'`.   
-This way, instead of having to change our configuration, we can just override it momentarily.
+We can run all tests simply by typing `codeceptjs run` and one test only (for instance, a test called `login_test.js`) by typing `codeceptjs run . login_test.js`. However, we can also run only tests that contain the word “login” by typing `codeceptjs run --grep "login"`. Even more handy is the easiness with which we can run our tests on a different browser, by just typing `codeceptjs run --override '{ "helpers": {"WebDriverIO": {"browser": "chrome"}}}'`. This way, instead of having to change our configuration, we can just override it momentarily.
 
 ### Conclusion
 
@@ -119,8 +115,9 @@ At this point, you’ll see a confirmation message listing all the files that we
 
 Type `codeceptjs gt`  
 
-- You will see `Creating a new test…` - type the name of the test you want to create and press `Enter`  
-- You will see the name you entered above within parentheses and with an uppercase initial - type what you see in parentheses and press `Enter`  
+- You will see `Creating a new test…` 
+- Type the name of the test you want to create and press `Enter`  
+- You will see the name you entered above within parentheses and with an uppercase initial - type what you see in parentheses and press `Enter`
 **Example**  
 - To create a `login` test, when you see `Creating a new test…` - type `login`  
 - When you see `(Login)` - type `Login` and press `Enter`  

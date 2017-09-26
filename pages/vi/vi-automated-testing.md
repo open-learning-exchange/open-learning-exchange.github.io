@@ -28,7 +28,7 @@ The tests are triggered automatically by Travis CI every time a pull request or 
 
 What happens is that Travis CI creates an environment in the cloud, which includes a nation, and runs the Selenium tests through a tunnel established with Sauce Labs.
 
-Since this is the current state of the project, it is extremely important that you read carefully the documentation at [Automated Testing with Python](automatedtestingpython.md). That will introduce you to the motivation behind testing, and explain you how to setup a testing environment on your computer.
+Since this is the current state of the project, it is extremely important that you read carefully the documentation at [Automated Testing with Python](vi-automated-testing-python.md). That will introduce you to the motivation behind testing, and explain you how to setup a testing environment on your computer.
 
 That may change in the near future, but for now, we're still running locally the tests we write before sending a pull request to the repository, so it is vital for you to install all the necessary libraries and tools.
 
@@ -43,4 +43,4 @@ We already have a proof of concept documentation, explaining how to install the 
 
 It is then up to you, the current and future interns, to master all the difficulties and to determine whether or not this will be the future!
 
-To get started, you can find the documentation at [Automated Testing with CodeceptJS](automatedtestingcodeceptjs.md). Good luck!
+To get started, you can find the documentation at [Automated Testing with CodeceptJS](vi-automated-testing-code-ceptjs.md). Good luck!

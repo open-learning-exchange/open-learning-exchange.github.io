@@ -2,7 +2,7 @@
 
 *Offline mobile build for Open Learning Exchange*
 
-![Android Logo](uploads/images/android_logo.png)
+![Android Logo](images/vi-android-logo.png)
 
 ## Summary
 

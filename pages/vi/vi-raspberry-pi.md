@@ -23,14 +23,14 @@ Since ole--vagrant-treehouses creates a virtual machine, it works on all platfor
 
 **Building the treehouse-builder image with ole--vagrant-treehouses:**
 
-- A virtualization enabled computer with Vagrant & Virtualbox (If you could run the [vagrant](http://open-learning-exchange.github.io/#!pages/vi/vi-vagrant.md) tutorial without problems, then this is fine.) 
+- A virtualization enabled computer with Vagrant & Virtualbox (If you could run the [vagrant](vi-vagrant.md) tutorial without problems, then this is fine.) 
 - 8 Gb of harddrive space
 - 4 Gb of memory
 - An Internet connection
 
 ## Raspberry Pi Meetings
 
-We meet on Wednesdays at 4:30 PM EST online on [talk.ole.org](talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usually a few minutes after 4:30PM, unless of course the meeting is cancelled but that will be stated in the #raspberrypi chat channel on gitter.
+We meet on Wednesdays at 4:30 PM EST online on [http://talk.ole.org](http://talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usually a few minutes after 4:30PM, unless of course the meeting is cancelled but that will be stated in the #raspberrypi chat channel on gitter.
 
 ## How can I help?
 
@@ -52,7 +52,6 @@ d. Install packages needed for OLE such as docker and matchbox-keyboard
 e. Run autorun script
 4. Enter chroot if user needs to perform additional commands
 5. Write the .img file with a program such as Etcher to the MicroSD card.
-
 
 ## List of Relevant Repositories & Links
 

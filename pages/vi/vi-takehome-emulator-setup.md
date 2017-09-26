@@ -8,23 +8,23 @@ To run the app in Android Studio's virtual device, you will have to create a new
 
 * Click on the run button located at the top of your IDE. You will be prompted to Select Deployment Target. Select “Create New Emulator” button.
 
-![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
+![AndroidDeploymentTarget](images/vi-android-deployment-target.png)
 
 * Select a device definition from the list provided and click the next button
            
-![AndroidHardwareSelection](uploads/images/AndroidHardwareSelection.png)
+![AndroidHardwareSelection](images/vi-android-hardware-selection.png)
 
 * Select system image from the list shown. API Level 22 and above works best. Preferably, choose 22 with Android 5.1. Click next to continue.
 	
-![AndroidMarshmellowSystem](uploads/images/AndroidMarshmellowSystem.png)
+![AndroidMarshmellowSystem](images/vi-android-marshmellow-system.png)
 
 * Name the emulator and specify the necessary configuration as shown below. Click on finish to save the emulator. 
 	
-![AndroidVirtualDevice](uploads/images/AndroidVirtualDevice.png)
+![AndroidVirtualDevice](images/vi-android-virtual-device.png)
 
 * You will be presented with the “Select Deployment Target” dialogue again . Choose the emulator we just created and click on the “OK” button.
 
-![AndroidDeploymentTarget](uploads/images/AndroidDeploymentTarget.png)
+![AndroidDeploymentTarget](images/vi-android-deployment-target.png)
 
 * The emulator will be opened with application installed. You have successfully configured the development environment to get you started.
 
@@ -42,23 +42,23 @@ First, you need to find your IP address.
 
 For Windows, Open Command Prompt and type ```ipconfig``` in the window.
 
-![AndroidTakehomeSetupIP](uploads/images/AndroidTakehomeSetupIP.png)
+![AndroidTakehomeSetupIP](images/vi-android-takehome-setup-ip.png)
 
 For macOS and Ubuntu, Open Terminal and type ```ifconfig``` in the terminal.
 
-![AndroidTakehomeSetupIPForMac](uploads/images/AndroidTakehomeSetupIPForMac.png)
+![AndroidTakehomeSetupIPForMac](images/vi-android-takehome-setup-ip-for-osx.png)
 
 Second, you need to find your port number in MyBeLL.
 
-![AndroidTakehomeSetupPort](uploads/images/AndroidTakehomeSetupPort.png)
+![AndroidTakehomeSetupPort](images/vi-android-takehome-setup-port.png)
 
 Finally, You will combine both numbers into this format ```http://192.168.1.213:5985``` and then place it into the Setup menu inside the Take Home application.
 
-![AndroidSetupTakehomeIPPORT](uploads/images/AndroidSetupTakehomeIPPORT.png)
+![AndroidSetupTakehomeIPPORT](images/vi-android-setup-takehome-ip-port.png)
 
 After entering the IP and Port, click "Test". You should be prompted with a success screen.
 
-![AndroidTakeHomeCompleted](uploads/images/AndroidTakeHomeCompleted.png)
+![AndroidTakeHomeCompleted](images/vi-android-takehome-completed.png)
 
 You should now be able to sign into the Take Home application using the same login information that you use for MyBeLL.
 
