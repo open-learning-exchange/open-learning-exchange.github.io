@@ -1,30 +1,10 @@
 <!-- Name of your wiki // Do NOT remove the leading `#` character.  -->
 
+<!-- See additional notes below -->
+
 # OLE Support
 
-<!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
-
 [gimmick:theme (inverse: false)](bootstrap)
-
-<!-- Navigation (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)  -->
-
-<!-- A more complex navigation example: ----------------------------------------
-
-[Menu Item 1]()
-
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
-  - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
-
-[Menu Item 2](pages/item2.md)
-
-[Menu Item 3](pages/item3.md) -->
 
 [Tech Genius]()
 
@@ -32,8 +12,8 @@
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
   - - - -
   * [Planet Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
-  *  [Planet LAN & Tablet Configuraiton](pages/techgenius/tg-routerconfig.md)  
-  * [Content Management](pages/techgenius/-library-management.md)
+  *  [Planet LAN & Tablet Configuration](pages/techgenius/tg-routerconfig.md)  
+  * [Content & Library Management](pages/techgenius/-library-management.md)
   - - - -
   * [Community Quick Install / Windows](pages/techgenius/tg-windows-install.md)
   * [Manual / Full Installation](pages/techgenius/tg-installation.md)
@@ -42,9 +22,9 @@
 
 [Virtual Interns]() <!-- Intern Program -->
 
-  * [Start Here / On-Boarding](pages/interns/in-firststeps.md)
-  * [Intern Orientation](pages/interns/in-intern-orientation.md)
-  * [FAQ](pages/interns/in-faq.md)
+  * [Start Here / On-Boarding](pages/vi/vi-firststeps.md)
+  * [Intern Orientation](pages/vi/vi-intern-orientation.md)
+  * [FAQ](pages/vi/ivi-faq.md)
   - - - -
   * [Vagrant](pages/vi/vi-vagrant.md)
   * [GitHub and Markdown](pages/vi/vi-githubandmarkdown.md)
@@ -71,3 +51,25 @@
   * [Tech Genius'](https://gitter.im/open-learning-exchange/techgenius)
 
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
+
+<!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
+
+<!-- Navigation (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)  
+
+A more complex navigation example: 
+
+[Menu Item 1](
+
+  * # SubMenu Heading 1
+  * [SubMenu Item 1](pages/subitem1.md)
+  * [SubMenu Item 2](pages/subitem2.md)
+  - - - -
+  * # SubMenu Heading 2
+  * [SubMenu Item 3](pages/subitem3.md)
+  - - - -
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](pages/subitem3.md)
+
+[Menu Item 2](pages/item2.md)
+
+[Menu Item 3](pages/item3.md) -->
