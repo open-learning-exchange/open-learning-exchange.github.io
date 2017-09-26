@@ -44,6 +44,14 @@
   - - - -
   * [Members](pages/vi/vi-team.md)
 
+[Chat]()
+
+  * [General Chat](https://gitter.im/open-learning-exchange/chat)
+  * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
+  * [Tech Genius'](https://gitter.im/open-learning-exchange/techgenius)
+
+[Translation](https://crowdin.com/project/open-learning-exchange/invite)
+
 <!-- [Librarians]()
 
   * [FAQ](pages/librarians/lb-faq)
@@ -52,14 +60,7 @@
   * [Resource Management](pages/librarians/lb-resource-management)
   - - - -
   * [Members](pages/librarians/profiles/lb-team.md)
---->
-[Chat]()
-
-  * [General Chat](https://gitter.im/open-learning-exchange/chat)
-  * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
-  * [Tech Genius'](https://gitter.im/open-learning-exchange/techgenius)
-
-[Translation](https://crowdin.com/project/open-learning-exchange/invite)
+-->
 
 <!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
 
