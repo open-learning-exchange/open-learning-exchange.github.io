@@ -24,12 +24,12 @@
 
   * [Start Here / On-Boarding](pages/vi/vi-first-steps.md)
   * [Intern Orientation](pages/vi/vi-intern-orientation.md)
-  * [FAQ](pages/vi/iv-faq.md)
+  * [FAQ](pages/vi/vi-faq.md)
   - - - -
   * [Vagrant](pages/vi/vi-vagrant.md)
-  * [GitHub and Markdown](pages/vi/vi-githubandmarkdown.md)
+  * [GitHub and Markdown](pages/vi/vi-githu-band-markdown.md)
   * [BeLL-Apps](pages/vi/vi-bellapps.md)
-  * [Git Repositories](pages/vi/vi-git-and-repositories.md)
+  * [GitHub Repositories](pages/vi/vi-github-and-repositories.md)
   * [GitHub Issues](pages/vi/vi-github-issues.md)
   * [Nation BeLL](pages/vi/vi-nation.md)
   - - - -
