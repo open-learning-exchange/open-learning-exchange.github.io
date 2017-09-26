@@ -46,10 +46,12 @@
 
 [Librarians]()
 
-  * [FAQ](lb-faq)
-  * [Overview / Introduction](lb-overview-intro.md)
-  * [Library Management](lb-library-management.md)
-  * [Resource Management](lb-resource-management)
+  * [FAQ](pages/librarians/lb-faq)
+  * [Overview / Introduction](pages/librarians/lb-overview-intro.md)
+  * [Library Management](pages/librarians/lb-library-management.md)
+  * [Resource Management](pages/librarians/lb-resource-management)
+  - - - -
+  * [Members](pages/librarians/profiles/lb-team.md)
 
 [Chat]()
 
