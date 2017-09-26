@@ -52,16 +52,6 @@
 
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 
-<!-- [Librarians]()
-
-  * [FAQ](pages/librarians/lb-faq)
-  * [Overview / Introduction](pages/librarians/lb-overview-intro.md)
-  * [Library Management](pages/librarians/lb-library-management.md)
-  * [Resource Management](pages/librarians/lb-resource-management)
-  - - - -
-  * [Members](pages/librarians/profiles/lb-team.md)
--->
-
 <!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
 
 <!-- Navigation (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)  
