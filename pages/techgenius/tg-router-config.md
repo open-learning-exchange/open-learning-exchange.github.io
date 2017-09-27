@@ -1,4 +1,4 @@
-## Configuring Router/Network for Planet and Tablets
+## Configuring Router/Network for Planet
 
 ### Introduction
 
