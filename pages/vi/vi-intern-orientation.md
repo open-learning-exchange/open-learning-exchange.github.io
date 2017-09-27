@@ -12,21 +12,21 @@ The first thing that needs to happen now that you are an intern is meeting the r
 
 Typically interns choose what project they want to work on, but if you get tired of a certain project there is opportunity to switch projects. The follow list are the current areas of work for the interns - besides the [issues on ole-vi BeLL-Apps](https://github.com/ole-vi/BeLL-Apps/issues). Take a look at all of them, and if any particularly interest you there is a very good chance that you can work on them.
 
-* [Automated Testing](#!./pages/automatedtesting.md)
+* [Automated Testing](vi-automated-testing.md)
   * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI
-* [Translation (Crowdin)](#!./pages/crowdinintegration.md)
+* [Translation (Crowdin)](vi-crowdin-integration.md)
   * Help us translate the BeLL App user interface to other languages.
-* [Windows Installer](#!./pages/innoproject.md)
+* [Windows Installer](vi-inno-project.md)
   * Help develop a virtual machine packaged installer file for Windows.
-* [Simple Install](#!./pages/simpleinstall.md)
+* [Simple Install](vi-simple-install.md)
   * We are in the progress of making a script to install all the software needed to run and work on the Bell Apps.
-* [HTML Resources](#!./pages/htmlresources.md)
+* [HTML Resources](vi-html-resources.md)
   * Add existing educational HTML apps into the BeLL.
-* [Take Home](takehome.md)
+* [Take Home](vi-takehome.md)
   * Take home is an Android port of the BeLL apps.
-* [Raspberry Pi](#!./pages/raspberrypi.md)
+* [Raspberry Pi](vi-raspberry-pi.md)
   * The modified Raspbian image can be place on a microsd card for deployment in the field with a Raspberry Pi.
-* [Angular Reboot](#!./pages/angular.md)
+* [Angular Reboot](vi-angular.md)
   * Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality
 
 ## A Few Things to Know...
@@ -43,7 +43,7 @@ Once you have accepted your invitation, mark yourself as public at the [list of 
 
 ### Reviewing Pull Requests and Issues
 
-One of your responsibilities as an intern is to review and help prospective interns with their issues / pull request on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [reviewing on GitHub here](https://help.github.com/articles/about-pull-request-reviews/). 
+One of your responsibilities as an intern is to review and help prospective interns with their issues / pull request on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [Review on GitHub](https://help.github.com/articles/about-pull-request-reviews/). 
 
 You should check for things such as:
 
