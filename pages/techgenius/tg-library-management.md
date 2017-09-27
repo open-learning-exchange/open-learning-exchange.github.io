@@ -8,7 +8,7 @@ The library it the place where learning resources are stored and categorized wit
 
 The community library is a sub-set of the national library. The community library administrator can add resources locally and then push resources to the national library. Alternatively, resources can also be pushed from the national library to the community library.
 
-**Please Note:** if the same resources is up added in two different places then it will appear in the library in duplicate. 
+Note: If the same resources is up added in two different places then it will appear in the library in duplicate. 
 
 ## What is the preferred means of populating the library?
 
@@ -82,7 +82,7 @@ We have various types of resources that either form a collection or belong to co
 
 You may need to use a format converter to put your resource in the correct format before uploading. There are numerous free online converters which you may use.
 
-**IMPORTANT:** Until all Nations can communicate with each other and resources can easily be shared between Nations, resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that resources are available in each Nation.
+Important: Until all Nations can communicate with each other and resources can easily be shared between Nations, resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that resources are available in each Nation.
 
 ## How do I name a file so that it can be uploaded?
 

@@ -178,13 +178,13 @@ A collection is a group of Resources based on topic/subject and intended use.  P
 
 You will be taken to a loading screen while your Resource is uploaded into the Library. When the upload is complete, you will receive a confirmation for a successful upload.
 
-**IMPORTANT:** Once you have finished uploading your Resource, **locate the Resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
+Warning: Once you have finished uploading your Resource, **locate the Resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
 
 We have various types of Resources that either form a Collection or belong to common groups of Resources. These include the African Storybooks, Comic Books, CK-12 Textbooks, TED-Ed videos, Khan Academy Videos, etc.  If you are uploading one of these Resources, please read the specific guides we have created and follow the instructions. This maintains uniformity in Resource details and makes searches easier for Learners.
 
 You may need to use a format converter to put your Resource in the correct format before uploading. There are numerous free online converters which you may use. 
 
-**IMPORTANT:** Until all Nations can communicate with each other and Resources can easily be shared between Nations, Resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that Resources are available in each Nation.
+Warning: Until all Nations can communicate with each other and Resources can easily be shared between Nations, Resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that Resources are available in each Nation.
 
 ## How do I name a file so that it can be uploaded?
 
@@ -320,6 +320,7 @@ Fill out the following form:
 **NOTE:** Once you select *“Next Question,”* you cannot go back or save the Quiz until you have filled it out.
  
 ### General Guidelines for Steps and Courses
+
 Below is a list of general guidelines for Steps and Courses.
 
 * Aim to have between 6-10 Steps for each Course, although this will vary depending on the nature of the Course, i.e., if it is for school, general knowledge, professional development, etc. There are examples of Courses of 40-50 Steps which is applicable and needed in those cases. However, Courses should have a minimum of at least five Steps.
@@ -331,6 +332,7 @@ Below is a list of general guidelines for Steps and Courses.
 - If you change your mind and want to create a Quiz instead of a paper or vice versa, you can switch by going to the *“Edit Step”* tab.
  
 ### Managing a Course
+
 Below are tips for managing a Course.
  
 * You can always make changes to the Course by going to the “Courses” tab and clicking on “Manage.” 
@@ -347,7 +349,9 @@ Below are tips for managing a Course.
 
 
 ## Members Menu
+
 ### _What is Members Menu?_
+
 **Members** menu is a place to see, search, modify, and delete (for admin) an entire member of a community/nation where we logged in.
 
 A user is able to see and search for members within the community/nation, but can't modify other members data.

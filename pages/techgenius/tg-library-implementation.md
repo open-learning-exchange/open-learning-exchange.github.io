@@ -32,7 +32,7 @@ A collection is a group of resources that are grouped by attribute such as topic
 
 3.  After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
 
-![Add New Resource](techgenius/images/tg-resource-new.png)
+![Add New Resource](images/tg-resource-new.png)
 
 1.  The **Title** of the resource goes here. Capitalize all principal words and make sure everything is spelled correctly. If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”). Do not start the title with numbers or special characters (!@#$%^&*). If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new resource in parentheses. Examples are shown below.
 
@@ -76,7 +76,7 @@ A collection is a group of resources that are grouped by attribute such as topic
 
 While your resource is uploaded into the Library you will see a "loading" screen followed by a confirmation dialogue box once the upload has completed successfully.
 
-**IMPORTANT:** Once you have finished uploading your resource **locate the resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
+Warning: Once you have finished uploading your resource **locate the resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
 
 We have various types of resources that either form a collection or belong to common groups of resources. These include the African Storybooks, Comic Books, CK-12 Textbooks, TED-Ed videos, Khan Academy Videos, etc. If you are uploading one of these resources, please read the specific guides we have created and follow the instructions. This maintains uniformity in resource details and makes searches easier for Learners.
 
@@ -106,20 +106,20 @@ Collections can be used by Nation administrators and managers to categorize mate
 1. Log in to the Manager account.
 2. Click “Library” on the top navigation bar and then “Collections”.
 
-![Collections](techgenius/images/tg-collection.png)
+![Collections](images/tg-collection.png)
 
 3. You can either manage existing collections or create a new collection. We will first create a new collection. Click on “Add Collection.”
 
-![Add a Collection](techgenius/images/tg-collection-add.png)
+![Add a Collection](images/tg-collection-add.png)
 
 4. You will then be prompted to fill out the below form. Type the name name and description of the collection. “Nested Under” refers to whether this will be a top level collection or a sub-collection. Sub-collections are nested under other collections. If you wish to create a collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
 
-![Save a Collection](techgenius/images/tg-collection-save.png)
+![Save a Collection](images/tg-collection-save.png)
 
 5. Once complete click “Save” to create the new collection.
 
 6. To edit a collection, go back to the main collection page and click on the button next to the collection you want to edit.
 
-![Edit Collection](techgenius/images/tg-collection-main.png)
+![Edit Collection](images/tg-collection-main.png)
 
 7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the collection.
