@@ -178,13 +178,13 @@ A collection is a group of Resources based on topic/subject and intended use.  P
 
 You will be taken to a loading screen while your Resource is uploaded into the Library. When the upload is complete, you will receive a confirmation for a successful upload.
 
-Warning: Once you have finished uploading your Resource, **locate the Resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
+Important: Once you have finished uploading your Resource, **locate the Resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
 
 We have various types of Resources that either form a Collection or belong to common groups of Resources. These include the African Storybooks, Comic Books, CK-12 Textbooks, TED-Ed videos, Khan Academy Videos, etc.  If you are uploading one of these Resources, please read the specific guides we have created and follow the instructions. This maintains uniformity in Resource details and makes searches easier for Learners.
 
 You may need to use a format converter to put your Resource in the correct format before uploading. There are numerous free online converters which you may use. 
 
-Warning: Until all Nations can communicate with each other and Resources can easily be shared between Nations, Resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that Resources are available in each Nation.
+Important: Until all Nations can communicate with each other and Resources can easily be shared between Nations, Resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that Resources are available in each Nation.
 
 ## How do I name a file so that it can be uploaded?
 
