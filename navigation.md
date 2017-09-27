@@ -46,6 +46,7 @@
 
 [Chat]()
 
+  * [Intro to Chat (Read First)](pages/vi/vi-chat.md)
   * [General Chat](https://gitter.im/open-learning-exchange/chat)
   * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
   * [Tech Genius'](https://gitter.im/open-learning-exchange/techgenius)
