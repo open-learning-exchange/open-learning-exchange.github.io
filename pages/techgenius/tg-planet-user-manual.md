@@ -205,7 +205,7 @@ Yes. These Resources are covered in an additional manual titled, XXXXX. Please r
 
 Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library.  **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of PLANET.  Collections can only be created or changed by Managers. 
 
-1. Log in to the Manager account. 
+1. Log in to the Manager account.
 2. Click “Library” on the top navigation bar and then “Collections”. 
 
 ![Collections](images/tg-collection.png)
