@@ -12,7 +12,7 @@
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
   - - - -
   * [Planet Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
-  *  [Planet Router/LAN Configuration](pages/techgenius/tg-router-config.md)
+  *  [Router/LAN Configuration](pages/techgenius/tg-router-config.md)
   *  [Tablet Configuration](pages/techgenius/tg-tablet-config.md)
   * [Content & Library Management](pages/techgenius/tg-library-management.md)
   - - - -
