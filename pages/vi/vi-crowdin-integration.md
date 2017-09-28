@@ -17,7 +17,7 @@ These objectives will make more sense as you go through the steps. Before we get
 
 ### Tagging:
 
->Tagging in Crowdin is similar to tagging your friends on Facebook except here we tag strings on a screenshot.
+>Tagging in Crowdin is similar to tagging your friends on Facebook except here we tag strings on a screen shot.
 
 Now that you know what strings are and what tagging is, let’s show you how to accomplish the objectives above.
 
@@ -118,7 +118,7 @@ If Text Recognition cannot recognize the string on the screen shot. Follow the s
 ![Drag and Drop Button](images/vi-drag-and-drop.png)
 
 2- The list of strings will appear on the right side of the screen. Search for the string you want to tag.
-u
+
 3- Simply drag the string and drop it over the string you want to tag, then adjust the size of the text box so that it covers the intended string. See the figure below.
 
 ![Drag and Drop Strings](images/vi-drag-and-drop-strings.png)
@@ -135,4 +135,4 @@ You are now done with the first two objectives! Repeat these steps for half of t
 
 ![Edit Context](images/vi-edit-context.png)
 
-Hurray! You have completed the instructions for Crowdin Integration!
+Hurray! You have completed the instructions for Crowdin Integration.

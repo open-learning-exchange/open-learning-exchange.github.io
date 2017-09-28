@@ -47,10 +47,10 @@
 
 [Chat]()
 
-  * [READ FIRST | Intro to Chat](pages/vi/vi-chat.md)
+  * [**READ FIRST** | Intro to Chat](pages/vi/vi-chat.md)
   * [General Chat](https://gitter.im/open-learning-exchange/chat)
   * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
-  * [Tech Genius'](https://gitter.im/open-learning-exchange/techgenius)
+  * [Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
 
 [Translation](https://crowdin.com/project/open-learning-exchange/invite)
 

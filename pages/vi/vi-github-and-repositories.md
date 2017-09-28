@@ -18,12 +18,14 @@ As previously mentioned, you fork a repository to work on your own GitHub accoun
 
 This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.
 
-* [Clone your GitHub repository username.github.io](#Clone_your_GitHub_repository_username.github.io)
-* [Read the explanation to understand repositories and syncing process](#Explanation_about_repositories_and_syncing_process)
-* [Configure a remote for your fork](#Configure_a_remote_for_your_fork)
-* [Sync your fork](#Sync_your_fork)
+* [Clone Your GitHub Repository username.github.io](#Clone_Your_GitHub_Repository_username.github.io)
+* [Clone with HTTPS or Use SSH?](#Clone_with_HTTPS_or_Use_SSH?) 
+* [Read the Explanation to Understand Repositories and Syncing Process](#Explanation_About_Repositories_and_Syncing_Process)
+* [Configure a Remote Repository for your fork](#Configure_a_Remote_Repository_For_Your_Fork)
+* [Sync Your fork](#Sync_Your_Fork)
 
-### Clone your GitHub repository username.github.io
+### Clone Your GitHub Repository username.github.io
+
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided in the repository (see the picture below).
 
 ![GitHub Clone URL](images/vi-github-clone-url.png)
@@ -34,7 +36,7 @@ Then, turn to your command prompt and type your repository URL in the form of `g
 
 Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
-### Explanation about repositories and syncing process
+### Explanation About Repositories and Syncing Process
 
 The previous step created a clone of your repository on your OS.
 Now, there are three different Github repository levels: [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io), your username.github.io on GitHub, and your username.github.io on your OS. These three levels need to be constantly synced and up to date with one another as we will all be contributing to the upstream repository (open-learning-exchange.github.io). It's important to try and keep these separate and avoid mixing changes between them, as you will be unable to fork and git push/pull if they are very different versions.
@@ -114,10 +116,10 @@ $ git push origin master
 ```
 If you have uncommitted changes (from mixing interface and terminal use of GitHub repositories), then these commands will be aborted until you fix the discrepancy.
 
-
 Remember, you should repeatedly use the commands `git diff` and `git status` to respectively see the difference between your username.github.io and your local repository and then see the status of your repository and the changes you have made. Once again, you need to sync your repository with the correct master first, otherwise you will not see the correct `git diff` and `git status`. `git diff` and `git status` only look between your local and username.github.io repos, not your upstream repo.
 
 Below is an example of **git diff** command showing difference in the file of local and remote repository.
+
 ``` bash
 $ git diff
 diff --git a/<file name>.md b/<file name>.md
@@ -177,7 +179,7 @@ For more info on differences of merging vs. rebasing (and when to use which one)
   - If you're slightly confused, remember that the "upstream" we're referring to is the [main github repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io).
 3. Push the updates you just downloaded to your \<username\> repository by using ``git push``([info](https://git-scm.com/docs/git-info))
 
-**NOTE**: For steps 2 and 3, developers should do this every time they begin to work. This way we as a team can minimize data loss, and can save you some time. You want to make sure that you are always up to date with the GitHub.
+Note: For steps 2 and 3, developers should do this every time they begin to work. This way we as a team can minimize data loss, and can save you some time. You want to make sure that you are always up to date with the GitHub.
 
 ## Useful links
 
@@ -193,4 +195,4 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](vi-firststeps.md#Step_5_-_Keeping_Fork_Updated)
+#### Return to [First Steps](vi-first-steps.md#Step_5_-_Keeping_Fork_Updated)

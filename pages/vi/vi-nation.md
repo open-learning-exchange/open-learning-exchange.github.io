@@ -20,7 +20,7 @@ Click [here](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) to access
 
 ## Sync With the Nation
 
-In [Step 4](bellapps.md#Different_Kinds_of_Updates_to_Your_Community), you did 3 kinds of updates that you receive on the community side: updates, publications, and surveys. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
+In [Step 4](vi-bell-apps.md#Different_Kinds_of_Updates_to_Your_Community), you did 3 kinds of updates that you receive on the community side: updates, publications, and surveys. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
 
 As you can see from the picture below, click on "Manager".
 
@@ -52,6 +52,6 @@ Then, you should see a list of communities and the option to generate a report i
 
 ## Useful Links
 
-[Helpful links and videos](faq.md#Helpful_Links)
+[Helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](firststeps.md#Step_7_-_Nation_BeLL)
+#### Return to [First Steps](vi-first-steps.md#Step_7_-_Nation_BeLL)

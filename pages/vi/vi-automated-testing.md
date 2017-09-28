@@ -14,11 +14,11 @@ The project was initially called Bug Hunt, which is a funny name, isn't it?
 
 Certainly, much more amusing than the current, quite sober, name Automated Testing!  
 
-It focused on writing great issues for bugs, mistakes, and other problems that may be found in the codebase. It explained that issues should be constructive, rather than negative, which is to say that rather than just saying "This doesn't work," it is much more appropriate to describe in detail the problem encountered, even including screen shots, when they may be helpful. But, even more importantly, it means that one should take a proactive stance and try to figure out how a problem may be addressed, so that the issues end up looking much more like proposals for improvement than complaints about stuff not working properly.
+It focused on writing great issues for bugs, mistakes, and other problems that may be found in the code base. It explained that issues should be constructive, rather than negative, which is to say that rather than just saying "This doesn't work," it is much more appropriate to describe in detail the problem encountered, even including screen shots, when they may be helpful. But, even more importantly, it means that one should take a proactive stance and try to figure out how a problem may be addressed, so that the issues end up looking much more like proposals for improvement than complaints about stuff not working properly.
 
 Then, the project focused on manual tests, and explained how to conduct them and what to expect from them, highlighting pros and cons of such a testing practice. Finally, the project tackled the challenge of introducing automated testing, and envisioned writing Selenium tests in Java.
 
-The project got abandoned since, but the entire history is still available at [Bug Hunt](bughunt.md).
+The project got abandoned since, but the entire history is still available at [Bug Hunt](vi-bug-hunt.md).
 
 ## The Present
 

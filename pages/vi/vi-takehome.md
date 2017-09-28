@@ -8,7 +8,7 @@ In here you will find step by step guides to getting the Take Home Application u
 
 ## Take Home Intern Day-to-Day
 
-[Take Home Intern Day-to-Day](vi-takehome-intern-day=to-day.md)
+[Take Home Intern Day-to-Day](vi-takehome-intern-day-to-day.md)
 
 In this guide you will find day-to-day things you should be doing/considering every time you commit some time to your internship as a mobile intern.
 
