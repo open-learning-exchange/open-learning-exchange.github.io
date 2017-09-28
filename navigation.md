@@ -12,13 +12,13 @@
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
   - - - -
   * [Quick Start Setup](pages/techgenius/tg-hardware-setup.md)
-  * [Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
-  *  [Router/LAN Configuration](pages/techgenius/tg-router-config.md)
-  *  [Tablet Configuration](pages/techgenius/tg-tablet-config.md)
-  * [Content & Library Management](pages/techgenius/tg-library-management.md)
-  - - - -
+  * [Router/LAN Configuration](pages/techgenius/tg-router-config.md)
+  * [Tablet Configuration](pages/techgenius/tg-tablet-config.md)
   * [Community Quick Install / Windows](pages/techgenius/tg-windows-install.md)
-  * [Manual / Full Installation](pages/techgenius/tg-installation.md)
+  * [Manual/Full Installation](pages/techgenius/tg-installation.md)
+  * [Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
+- - - -
+  * [Content & Library Management](pages/techgenius/tg-library-management.md)
   - - - -
   * [Members](pages/techgenius/tg-team.md)
 
