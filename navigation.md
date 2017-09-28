@@ -28,7 +28,7 @@
   * [FAQ](pages/vi/vi-faq.md)
   - - - -
   * [Vagrant](pages/vi/vi-vagrant.md)
-  * [GitHub and Markdown](pages/vi/vi-github-and-markdown.md)
+  * [GitHub & Markdown](pages/vi/vi-github-and-markdown.md)
   * [BeLL-Apps](pages/vi/vi-bellapps.md)
   * [GitHub Repositories](pages/vi/vi-github-and-repositories.md)
   * [GitHub Issues](pages/vi/vi-github-issues.md)
