@@ -6,19 +6,19 @@ The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring 
 
 OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in in Asia, Africa, the Middle East, and Latin America.
 
-## The PLANET Learning System
+## The Planet Learning System
 
-### What is the OLE PLANET Learning System (PLANET)?
+### What is the OLE Planet Learning System (Planet)?
 
 Personalized Learning And Networked Enabled Teams (Planet) is a multilingual learning system and library with thousands of educational Resources including books, videos, and educational games.  The system also includes software tools for content and student management, student evaluation and monitoring, and Courses creation.
 
-At the core of PLANET is a repository of free, open access, and public domain Resources designed to benefit literate and preliterate, young and old, and novice and expert learners of all ages.  Resources of all kinds (literature, health, science, math, etc.), in various languages (English, Somali, Swahili, Arabic, Spanish, etc.), and in various formats (text, audio, video) are continually being added to PLANET.
+At the core of Planet is a repository of free, open access, and public domain Resources designed to benefit literate and preliterate, young and old, and novice and expert learners of all ages.  Resources of all kinds (literature, health, science, math, etc.), in various languages (English, Somali, Swahili, Arabic, Spanish, etc.), and in various formats (text, audio, video) are continually being added to Planet.
 
-The PLANET system exists in the cloud but it can also be configured to run locally without the need for internet connectivity making it a viable solution for remote locations where internet connectivity is unreliable or nonexistent.  PLANET facilitates frequent assessments of learners, leaders, and administrators.  It also promotes the evaluation and effectiveness of the learning Resources.  Robust usage feedback metrics make PLANET a powerful tool for those overseeing monitoring and evaluation of the education system.
+The Planet system exists in the cloud but it can also be configured to run locally without the need for internet connectivity making it a viable solution for remote locations where internet connectivity is unreliable or nonexistent.  Planet facilitates frequent assessments of learners, leaders, and administrators.  It also promotes the evaluation and effectiveness of the learning Resources.  Robust usage feedback metrics make Planet a powerful tool for those overseeing monitoring and evaluation of the education system.
 
-### What are PLANET Nations and Communities?
+### What are Planet Nations and Communities?
 
-Under the PLANET system, there are two types of structures: **Nations** and **Communities**.
+Under the Planet system, there are two types of structures: **Nations** and **Communities**.
 
 ![Planet System Hierarchy Chart](images/tg-planet-nations-tree.png)
 
@@ -30,17 +30,17 @@ Under the PLANET system, there are two types of structures: **Nations** and **Co
   * Different **Nations** cannot connect to each other.
 
 * **Communities**
-  * A **Community** is a local installations of the PLANET system;
+  * A **Community** is a local installations of the Planet system;
   * A **Community** does not require an internet to access;
   * Users connect to a **Community** via a router through a locally configured _intranet_ using either a device with a web browser (tablet, computer, etc.);
-  * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metics; and
+  * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metrics; and
   * A **Community** is not able to connect to other **Communities**.
 
 The **nations** may store thousands of Resources in many formats and languages.  Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**.  This gives a Learner a personalized approach to his or her education.
 
-## How do I navigate and use PLANET?
+## How do I Navigate and Use Planet?
 
-### _How do I access PLANET and become a member?_
+### _How do I access Planet and become a member?_
 
 1. To create an account use a web browser to navigate to your Nation or Community and click on “_Become a Member_” to get started.
 
@@ -50,11 +50,11 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 ![Add New Member](images/tg-planet-navigate-add-member.png)
 
-NOTE: Each PLANET system is unique; universal memberships do not exist.  If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community.  To become a member of another Nation or Community you must register with a new account.
+Note: Each Planet system is unique; universal memberships do not exist.  If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community.  To become a member of another Nation or Community you must register with a new account.
 
 ### _What are the differences between Learners, Leaders, and Managers?_
 
-In the PLANET system, there are three different kinds of users: **Learners**, **Leaders**, and **Managers**.
+In the Planet system, there are three different kinds of users: **Learners**, **Leaders**, and **Managers**.
 
 **Learner** is the default user level when a person first joins. Each person continues to be a Learner regardless of additional responsibilities and roles. All Learners have access to standard and individualized user functionality.
 
@@ -66,11 +66,11 @@ If you are currently using this manual, then you are most likely a manager who i
 
 ### How do I navigate the Dashboard?
 
-An example of the Manager Dashboard is shown below. The functionalities are defined for each element of the Dashboard.
+An example of the Manager Dashboard is shown below. The functionality are defined for each element of the Dashboard.
 
 ![Planet User Dashboard](images/tg-dashboard.png)
 
-1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most PLANET functionality.
+1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most Planet functionality.
 
 2. **e-Readers** functionality is under construction.
 
@@ -78,15 +78,15 @@ An example of the Manager Dashboard is shown below. The functionalities are defi
 
 4. **Courses** gives Learners the option to view each Course and to request admission.
 
-5. **Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other PLANET Learners.
+5. **Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other Planet Learners.
 
-6. **Members** provides a list of all Learners in this PLANET system. 
+6. **Members** provides a list of all Learners in this Planet system. 
 
 7. **Reports** allows Nation Managers to distribute Nation Reports as needed.
 
 8. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
 
-9. **Logout** logs the Learner out of the PLANET system.
+9. **Logout** logs the Learner out of the Planet system.
 
 10. **Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
 
@@ -106,7 +106,7 @@ An example of the Manager Dashboard is shown below. The functionalities are defi
 
 18. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
 
-19. **Surveys** allows Nation Managers to push a survey PLANET users based on characteristics like age, gender, member type, Community, etc.
+19. **Surveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
 
 20. **Update Welcome Video** allows Managers to change the welcome video for their Nation.
 
@@ -114,15 +114,15 @@ An example of the Manager Dashboard is shown below. The functionalities are defi
 
 ## What is the Library?
 
-The library where learning Resources are stored and categorized within the PLANET system.  Resources are listed alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
+The library where learning Resources are stored and categorized within the Planet system.  Resources are listed alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
 
 ## What is a Resource?
 
-A PLANET Resource is material that has been uploaded into the digital library.  There are many types of Resources, not just books.  PLANET can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications  (interactive content), and just about any other format.  Resources can be viewed in the library and may vary from Nations to Communities.  Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
+A Planet Resource is material that has been uploaded into the digital library.  There are many types of Resources, not just books.  Planet can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications  (interactive content), and just about any other format.  Resources can be viewed in the library and may vary from Nations to Communities.  Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
 
 ## What is a Collection?
 
-A collection is a group of Resources based on topic/subject and intended use.  PLANET currently follows a the Library of Congress categorization system.  Collections exist as the main category.  Sub-collections allow Nation Managers to group Resources more specifically within a collection.  Collections are alphabetized by topic.
+A collection is a group of Resources based on topic/subject and intended use.  Planet currently follows a the Library of Congress categorization system.  Collections exist as the main category.  Sub-collections allow Nation Managers to group Resources more specifically within a collection.  Collections are alphabetized by topic.
 
 # How do I navigate and use the Library?
 
@@ -134,7 +134,7 @@ A collection is a group of Resources based on topic/subject and intended use.  P
 
 3.  After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
 
-![Add New Resource](images/tg-new-resource.png)
+![Add New Resource](images/tg-resource-new.png)
 
 1.  The **Title** of the Resource goes here. Capitalize all principal words and make sure everything is spelled correctly.  If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”).  Do not start the title with numbers or special characters (!@#$%^&*).  If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new Resource in parentheses. Examples are shown below.
 
@@ -188,7 +188,7 @@ Note: Until all Nations can communicate with each other and Resources can easily
 
 ## How do I name a file so that it can be uploaded?
 
-The following file naming conventions should be used for any new file to upload to PLANET:
+The following file naming conventions should be used for any new file to upload to Planet:
 
 * Rename the file with a meaningful and unique file name that can be easily associated with the title/content of the Resource. For example: Alcott_LittleWomen.pdf
 * Use alpha-numeric characters only. Do not use special characters (except for "-" and "_").
@@ -203,7 +203,7 @@ Yes. These Resources are covered in an additional manual titled, XXXXX. Please r
 
 ## How do I create and use Collections?
 
-Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library.  **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of PLANET.  Collections can only be created or changed by Managers. 
+Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library.  **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of Planet.  Collections can only be created or changed by Managers. 
 
 1. Log in to the Manager account.
 2. Click “Library” on the top navigation bar and then “Collections”. 
@@ -227,10 +227,13 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the Collection.
 
 ## Courses Overview
+
 ### What is a Course?
+
 A Course allows Leaders to walk Learners through specific Resources and exercises to learn new skills.  Leaders can create Courses by grouping and ordering Resources and allowing Learners to upload papers or take Quizzes.  
 
 ### How do I create a Course?
+
 To create a Course, log in and start from the Home page.
 - Go to the *“Courses”* tab in the top menu and then select *“Add Course.”*
 
@@ -292,7 +295,7 @@ Fill out the following form:
   
 ![Create Quiz](images/tg-course-create-quiz-details.png)
 
-- In order to add a Resource, click the *“Add Resource”* button. The Resources must exist within PLANET before they can be included in a Course.  
+- In order to add a Resource, click the *“Add Resource”* button. The Resources must exist within Planet before they can be included in a Course.  
   
 - Follow the instructions below to add Resources to your Course.
   
@@ -381,7 +384,7 @@ Click on _“Reports”_ on the Dashboard main menu as shown below.
 
 ![Reports](images/tg-reports-overview.png)
 
-PLANET has three different kinds of Reports:  
+Planet has three different kinds of Reports:  
       
    **A.** Add a New Report   
    **B.** Activity Report  
@@ -437,7 +440,7 @@ Learners can give feedback for any page or Resource at any time by click on “F
 
 ### _How do I change the Language?_
 
-Learners can change the language of the PLANET system at any time by going to the Home page and selecting the language pull down menu  from in the top right corner.
+Learners can change the language of the Planet system at any time by going to the Home page and selecting the language pull down menu  from in the top right corner.
 
 ![Select Language](images/tg-language-select.png)
 
@@ -459,7 +462,7 @@ Fill in the information for the Event as shown below. When finished, click “Ad
 
 ## Email Overview
 
-### _How do I send and receive an email on the PLANET system?_
+### _How do I send and receive an email on the Planet system?_
 
 To send email to another user on the system click the “Email” button on the Dashboard. 
 
