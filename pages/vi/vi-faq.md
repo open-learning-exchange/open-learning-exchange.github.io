@@ -20,7 +20,7 @@
 - **Q13:** [Why does Firefox say “Unable to connect” when I try to load my community?](#Q13:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_community?)
 - **Q14:** [When I first run BeLL with the "vagrant up" command the download fails, why?](#Q14:_When_I_first_run_BeLL_with_the_"vagrant_up"_command_the_download_fails,_why?)
 - **Q15:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?](#Q15:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_I_need_to_delete_it?)
-- **Q16:** [What do I do if I already have a github.io with my username?](#Q16:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
+- **Q16:** [What do I do if I already have a github.io with my username?](Q16: What do I do if I already have a github.io with my user name?)
 - **Q17:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the vagrant vm?](#Q17:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_vagrant_vm?)
 
 

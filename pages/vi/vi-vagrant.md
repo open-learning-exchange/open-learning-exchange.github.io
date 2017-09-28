@@ -164,6 +164,6 @@ For more information go [here](http://stackoverflow.com/questions/23874260/error
 [Why install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
 [Vagrant download](https://www.vagrantup.com/downloads.html)
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
-[Other helpful links and videos](faq.md#Helpful_Links)
+[Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](first-steps.md#Step_2_-_Vagrant_Tutorial)
+#### Return to [First Steps](vi-first-steps.md#Step_2_-_Vagrant_Tutorial)

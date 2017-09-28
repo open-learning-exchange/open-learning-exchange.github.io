@@ -89,7 +89,7 @@ While you are free to work in your own style, we recommend you follow this basic
 * Check Gitter Interns room and your Gitter private messages.
 * If you are able join the [OLE google hangout](https://plus.google.com/hangouts/_/calendar/c3RlZmFuLnVudGVyaGF1c2VyQGdtYWlsLmNvbQ.mc101llc19b1np40p03fivdh1g?authuser=1) so you can follow what everyone is working on and get help fast.
 * Check Waffle.io, if you have no issues assigned, assign yourself to issues relating to the project you wish to work on.
-* Write a post in [Gitter Standup](https://gitter.im/open-learning-exchange/standup) with the format mentioned above.
+* Write a post in [Gitter Standup](https://gitter.im/open-learning-exchange/chat) with the format mentioned above.
 * Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
 * Work on your issues and write in intern chat any time you run into problems.
 * Make pull requests as often as possible so you can get feedback as you work.

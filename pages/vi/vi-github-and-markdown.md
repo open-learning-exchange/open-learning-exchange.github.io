@@ -119,6 +119,6 @@ Make sure to include a rawgit link to your page in your pull request.
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official Github Guide for Markdown syntax
 [How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories from Github.
 [Comparison of markdown and html](http://thebridge.jp/en/wp/wp-content/uploads/2013/05/markdown-vs-html.png) - The general comparison of markdown and html.
-[Other helpful links and videos](faq.md#Helpful_Links)
+[Other helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)
