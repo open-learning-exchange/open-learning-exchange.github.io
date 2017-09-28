@@ -29,19 +29,19 @@
   - - - -
   * [Vagrant](pages/vi/vi-vagrant.md)
   * [GitHub & Markdown](pages/vi/vi-github-and-markdown.md)
-  * [BeLL-Apps](pages/vi/vi-bellapps.md)
   * [GitHub Repositories](pages/vi/vi-github-and-repositories.md)
   * [GitHub Issues](pages/vi/vi-github-issues.md)
+  * [BeLL-Apps](pages/vi/vi-bellapps.md)
   * [Nation BeLL](pages/vi/vi-nation.md)
   - - - -
+  * [Angular Reboot](pages/vi/vi-angular.md)
   * [Automated Testing](pages/vi/vi-automated-testing.md)
   * [Crowdin Integration](pages/vi/vi-crowdin-integration.md)
-  * [Windows Installer](pages/vi/vi-inno-project.md)
-  * [Simple Dev Install](pages/vi/vi-simple-install.md)
   * [HTML Resources](pages/vi/vi-html-resources.md)
-  * [Take Home](pages/vi/vi-takehome.md)
   * [Raspberry Pi](pages/vi/vi-raspberry-pi.md)
-  * [Angular Reboot](pages/vi/vi-angular.md)
+  * [Simple Dev Install](pages/vi/vi-simple-install.md)
+  * [Take Home](pages/vi/vi-takehome.md)
+  * [Windows Installer](pages/vi/vi-inno-project.md)
   - - - -
   * [Members](pages/vi/vi-team.md)
 
