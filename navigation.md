@@ -7,6 +7,7 @@
 [gimmick:theme (inverse: false)](bootstrap)
 
 [Translators]()
+
   * [Bell-Apps](https://crowdin.com/project/open-learning-exchange/invite)
 
 [Tech Geniuses]() <!-- Tech Geniuses Program -->
