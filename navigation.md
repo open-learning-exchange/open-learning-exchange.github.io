@@ -8,7 +8,11 @@
 
 [Translators]()
 
+  * [Introduction](pages/techgenius/tr-introduction.md)
+  - - - -
   * [Bell-Apps](https://crowdin.com/project/open-learning-exchange/invite)
+  * [Planet](https://crowdin.com/project/ole-planet/invite)
+  * [take-home](https://crowdin.com/project/take-home)
 
 [Tech Geniuses]() <!-- Tech Geniuses Program -->
 
