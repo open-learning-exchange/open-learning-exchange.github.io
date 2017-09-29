@@ -4,7 +4,7 @@ Windows 10
 
 
 I graduated in 2017 from University of Maryland with a masters degree in Telecommunication Engineering.
-I really enjoy Anime,Also, I enjoy coding in Python.
+I really enjoy watching movies. Also, I love chocolates.
 
 
 ### Languages:
