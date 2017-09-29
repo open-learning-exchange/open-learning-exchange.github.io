@@ -10,7 +10,6 @@
 
   * [**Introduction**](pages/techgenius/tr-introduction.md)
   - - - -
-  * # Crowdin
   * [Bell-Apps](https://crowdin.com/project/open-learning-exchange/invite)
   * [Planet](https://crowdin.com/project/ole-planet/invite)
   * [take-home](https://crowdin.com/project/take-home/invite)
@@ -34,36 +33,34 @@
   * [**Introduction**](pages/techgenius/tg-introduction.md)
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
   - - - -
-  * # Manuals
   * [Quick Start Setup](pages/techgenius/tg-hardware-setup.md)
   * [Router / LAN Configuration](pages/techgenius/tg-router-config.md)
   * [Tablet Configuration](pages/techgenius/tg-tablet-config.md)
   * [Community Quick Install / Windows](pages/techgenius/tg-windows-install.md)
   * [Manual / Full Installation](pages/techgenius/tg-installation.md)
   * [Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
-- - - -
+  - - - -
   * [Content & Library Management](pages/techgenius/tg-library-management.md)
   - - - -
-  * [Members](pages/techgenius/tg-team.md)
+  * [**Members**](pages/techgenius/tg-team.md)
 
 [Robots]() <!-- Moon-Shot Programs -->
 
   * [**Orientation**](pages/robots/rbts-intern-orientation.md)
   - - - -
-  * # Projects
-  * [Angular Reboot](pages/robots/rbts-angular.md)
-  * [Automated Testing](pages/robots/rbts-automated-testing.md)
-  * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
-  * [HTML Resources](pages/robots/rbts-html-resources.md)
-  * [Raspberry Pi](pages/robots/rbts-raspberry-pi.md)
   * [Simple Dev Install](pages/robots/rbts-simple-install.md)
-  * [Take Home](pages/robots/rbts-takehome.md)
+  * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
+  * [Automated Testing](pages/robots/rbts-automated-testing.md)
+  * [HTML Resources](pages/robots/rbts-html-resources.md)
   * [Windows Installer](pages/robots/rbts-inno-project.md)
+  * [**Take Home**](pages/robots/rbts-takehome.md)
+  * [**Raspberry Pi**](pages/robots/rbts-raspberry-pi.md)
+  * [**Angular Reboot**](pages/robots/rbts-angular.md)  
 
 [Chat]()
 
-  * [**READ FIRST | Intro to Chat**](pages/vi/vi-chat.md)
-  * # Channels
+  * [**Introduction**](pages/vi/vi-chat.md)
+  - - - -
   * [General Chat](https://gitter.im/open-learning-exchange/chat)
   * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
   * [Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
