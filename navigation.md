@@ -6,6 +6,9 @@
 
 [gimmick:theme (inverse: false)](bootstrap)
 
+[Translators]()
+  * [Bell-Apps](https://crowdin.com/project/open-learning-exchange/invite)
+
 [Tech Geniuses]() <!-- Tech Geniuses Program -->
 
   * [Introduction](pages/techgenius/tg-introduction.md)
@@ -56,8 +59,6 @@
   * [General Chat](https://gitter.im/open-learning-exchange/chat)
   * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
   * [Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
-
-[Translation](https://crowdin.com/project/open-learning-exchange/invite)
 
 <!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
 
