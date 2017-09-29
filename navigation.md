@@ -8,17 +8,33 @@
 
 [Translators]()
 
-  * [Introduction](pages/techgenius/tr-introduction.md)
+  * [**Introduction**](pages/techgenius/tr-introduction.md)
   - - - -
+  * # Crowdin
   * [Bell-Apps](https://crowdin.com/project/open-learning-exchange/invite)
   * [Planet](https://crowdin.com/project/ole-planet/invite)
-  * [take-home](https://crowdin.com/project/take-home)
+  * [take-home](https://crowdin.com/project/take-home/invite)
+
+[Virtual Interns]() <!-- Intern Program -->
+
+  * [**Start Here / On-Boarding**](pages/vi/vi-first-steps.md)
+  * [FAQ](pages/vi/vi-faq.md)
+  - - - -
+  * [Vagrant](pages/vi/vi-vagrant.md)
+  * [GitHub & Markdown](pages/vi/vi-github-and-markdown.md)
+  * [GitHub Repositories](pages/vi/vi-github-and-repositories.md)
+  * [GitHub Issues](pages/vi/vi-github-issues.md)
+  * [BeLL-Apps](pages/vi/vi-bellapps.md)
+  * [Nation BeLL](pages/vi/vi-nation.md)
+  - - - -
+  * [**Members**](pages/vi/vi-team.md)
 
 [Tech Geniuses]() <!-- Tech Geniuses Program -->
 
-  * [Introduction](pages/techgenius/tg-introduction.md)
+  * [**Introduction**](pages/techgenius/tg-introduction.md)
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
   - - - -
+  * # Manuals
   * [Quick Start Setup](pages/techgenius/tg-hardware-setup.md)
   * [Router / LAN Configuration](pages/techgenius/tg-router-config.md)
   * [Tablet Configuration](pages/techgenius/tg-tablet-config.md)
@@ -30,25 +46,11 @@
   - - - -
   * [Members](pages/techgenius/tg-team.md)
 
-[Virtual Interns]() <!-- Intern Program -->
-
-  * [Start Here / On-Boarding](pages/vi/vi-first-steps.md)
-  * [Intern Orientation](pages/vi/vi-intern-orientation.md)
-  * [FAQ](pages/vi/vi-faq.md)
-  - - - -
-  * [Vagrant](pages/vi/vi-vagrant.md)
-  * [GitHub & Markdown](pages/vi/vi-github-and-markdown.md)
-  * [GitHub Repositories](pages/vi/vi-github-and-repositories.md)
-  * [GitHub Issues](pages/vi/vi-github-issues.md)
-  * [BeLL-Apps](pages/vi/vi-bellapps.md)
-  * [Nation BeLL](pages/vi/vi-nation.md)
-  - - - -
-  * [Members](pages/vi/vi-team.md)
-
 [Robots]() <!-- Moon-Shot Programs -->
 
-  * [Intern Orientation](pages/robots/rbts-intern-orientation.md)
+  * [**Orientation**](pages/robots/rbts-intern-orientation.md)
   - - - -
+  * # Projects
   * [Angular Reboot](pages/robots/rbts-angular.md)
   * [Automated Testing](pages/robots/rbts-automated-testing.md)
   * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
@@ -61,6 +63,7 @@
 [Chat]()
 
   * [**READ FIRST | Intro to Chat**](pages/vi/vi-chat.md)
+  * # Channels
   * [General Chat](https://gitter.im/open-learning-exchange/chat)
   * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
   * [Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
