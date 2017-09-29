@@ -1,6 +1,6 @@
 # Automated Testing
 
-* Stop doing it manually, test automatically*
+## Stop Doing it Manually Test Automatically
 
 This is a project that started long ago, then evolved into a new phase, and is very likely to evolve even further in the near future.
 
