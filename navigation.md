@@ -16,7 +16,7 @@
 
 [Virtual Interns]() <!-- Intern Program -->
 
-  * [**Start Here / On-Boarding**](pages/vi/vi-first-steps.md)
+  * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
   - - - -
   * [Vagrant](pages/vi/vi-vagrant.md)
