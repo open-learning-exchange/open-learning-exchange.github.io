@@ -1,7 +1,7 @@
 # Proof of Concept: Using CodeceptJS Instead of Python
 
 *Motivation and Setup Guide*  
-See [Documentations on Google Docs](https://docs.google.com/document/d/1FFpCPiTY3VmFtMHmYe78jOzpHLY_6ulhfdxJd6v7jXg/edit?usp=sharing)  
+See [Documentations on Google Docs](https://docs.google.com/document/d/1FFpCPiTY3VmFtMHmYe78jOzpHLY_6ulhfdxJd6v7jXg)  
 
 ## Motivation
 

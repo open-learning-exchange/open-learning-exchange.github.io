@@ -10,7 +10,7 @@ Functional testing is a form of black-box testing that should ideally start from
 
 ## What is Unit Testing?
 
-Unit testing, unlike functional testing, is aimed at testing small portions of code, such as methods or functions. Ideally, each function or method is tested mocking any dependencies, to ensure that it does what is expected. Writing unit tests ensures the validity of the codebase and goes to prove that the code is more robust (able to handle various normal and abnormal cases).
+Unit testing, unlike functional testing, is aimed at testing small portions of code, such as methods or functions. Ideally, each function or method is tested mocking any dependencies, to ensure that it does what is expected. Writing unit tests ensures the validity of the code base and goes to prove that the code is more robust (able to handle various normal and abnormal cases).
 
 ## Differences Between Functional Testing and Unit Testing
 
@@ -63,7 +63,7 @@ Then, check in a browser if http://localhost:8081 is resolving to http://localho
 
 The following steps are optional (next mandatory step is point 5 below).  
 
-**NOTE**: You should only follow these steps if you either know what you’re doing or you are sure you’ll be able to manage the virtual environment.
+Note: You should only follow these steps if you either know what you’re doing or you are sure you’ll be able to manage the virtual environment.
 
   * type `pip install virtualenv`
   * cd into the directory you want to use to store the tests
@@ -241,7 +241,7 @@ To use the bell library, you need to add `import bell` to your test module.
 
 Then, the following functions will be available for you to use in your code,
 
-`bell.get_url()` - this retuns the homepage url (i.e., http://127.0.0.1:5981/apps/_design/bell/MyApp/index.html)
+`bell.get_url()` - this returns the homepage url (i.e., http://127.0.0.1:5981/apps/_design/bell/MyApp/index.html)
 
 `bell.login(driver, username, password)` - provided a driver and user details,
 logs the user in

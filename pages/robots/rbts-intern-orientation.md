@@ -6,27 +6,27 @@ Congratulations. You have completed the first steps and have been selected to jo
 
 ## Get to Know the Team
 
-The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](vi-team.md). You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
+The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](!#.pages/vi/vi-team.md). You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
 
 ## Familiarize Yourself with Current Projects and Issues
 
 Typically interns choose what project they want to work on, but if you get tired of a certain project there is opportunity to switch projects. The follow list are the current areas of work for the interns - besides the [issues on ole-vi BeLL-Apps](https://github.com/ole-vi/BeLL-Apps/issues). Take a look at all of them, and if any particularly interest you there is a very good chance that you can work on them.
 
-* [Automated Testing](vi-automated-testing.md)
+* [Automated Testing](rbts-automated-testing.md)
   * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI
-* [Translation (Crowdin)](vi-crowdin-integration.md)
+* [Translation (Crowdin)](rbts-crowdin-integration.md)
   * Help us translate the BeLL App user interface to other languages.
-* [Windows Installer](vi-inno-project.md)
+* [Windows Installer](rbts-inno-project.md)
   * Help develop a virtual machine packaged installer file for Windows.
-* [Simple Install](vi-simple-install.md)
+* [Simple Install](rbts-simple-install.md)
   * We are in the progress of making a script to install all the software needed to run and work on the Bell Apps.
-* [HTML Resources](vi-html-resources.md)
+* [HTML Resources](rbts-html-resources.md)
   * Add existing educational HTML apps into the BeLL.
-* [Take Home](vi-takehome.md)
+* [Take Home](rbts-takehome.md)
   * Take home is an Android port of the BeLL apps.
-* [Raspberry Pi](vi-raspberry-pi.md)
+* [Raspberry Pi](rbts-raspberry-pi.md)
   * The modified Raspbian image can be place on a microsd card for deployment in the field with a Raspberry Pi.
-* [Angular Reboot](vi-angular.md)
+* [Angular Reboot](rbts-angular.md)
   * Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality
 
 ## A Few Things to Know...

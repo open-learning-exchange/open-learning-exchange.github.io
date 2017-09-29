@@ -46,4 +46,4 @@ You can check 'Always allow from this computer' to avoid doing it every time, be
 
 The app would be installed on your phone as 'Planet' or 'Take Home'. This might take several minutes. In case there is another pop-op, select OK or install as appropriate.
 
-Note: Configure and log into the app, just like you would do on an [Emulator](http://open-learning-exchange.github.io/#!./pages/takeHomeEmulatorSetup.md#Logging_in_on_Android_Emulator)
+Note: Configure and log into the app as you would on an Emulator. [You can see an example here](rbts-takehome-emulator-setup.md#Logging_in_on_Android_Emulator)

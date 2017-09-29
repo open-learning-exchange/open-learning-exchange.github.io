@@ -22,16 +22,16 @@ The Android Studio Setup Wizard guides you through the rest of the setup, which 
 
  We only need SDK 4.4 and above. You can install as many SDK’s packages as you wish to. Note that the packages are huge and therefore precaution must be taken with HDD available space in mind.
 
-![AndroidSDKManager](images/vi-android-SDK-manager.png)
+![Android SDK Manager](images/rbts-android-SDK-manager.png)
 
 ### GitHub Setting
 
 There are three steps that needs be done before you can make contribution to "take-home" project:
 
 1. Find and fork the "take-home" repository
-You can find "take-home" GitHub repository [here](https://github.com/open-learning-exchange/take-home). Fork the repository to your own GitHub account by clicking the fork button (just like what you did in [step 3](vi-github-and-markdown.md#Find_and_fork_the_correct_repository))
+You can [find "take-home" GitHub repository here](https://github.com/open-learning-exchange/take-home). Fork the repository to your own GitHub account by clicking the fork button (just like what you did in [step 3](vi-github-and-markdown.md#Find_and_fork_the_correct_repository))
 
-2. Clone your own GitHub repository yourGitHubUsername / take-home
+2. Clone your own GitHub repository yourGitHubUsername/take-home
 In a terminal / console of your choosing, navigate into the working directory of Android studio and git clone your own “take-home“ repository at `https://github.com/yourGitHubUsername/take-home.git`
 
 3. Configure a remote for your local repository
@@ -53,4 +53,4 @@ Download both files and put them into the take-home raw folder found here:
 
 - take-home\app\src\main\res\raw
 
-Now, The Take Home project is ready to run on an Android device or an Android Emulator. Check out [Android Device Setup](vi-takehome-device-setup.md) and [Android Device Emulator Setup](vi-takehome-emulator-setup.md) for more details.
+Now, The Take Home project is ready to run on an Android device or an Android Emulator. Check out [Android Device Setup](rbts-takehome-device-setup.md) and [Android Device Emulator Setup](rbts-takehome-emulator-setup.md) for more details.

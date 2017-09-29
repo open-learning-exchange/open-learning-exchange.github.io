@@ -46,6 +46,19 @@
   - - - -
   * [Members](pages/vi/vi-team.md)
 
+[Robots]() <!-- Moonshot Program -->
+
+  * [Intern Orientation](pages/robots/rbts-intern-orientation.md)
+  - - - -
+  * [Angular Reboot](pages/robots/rbts-angular.md)
+  * [Automated Testing](pages/robots/rbts-automated-testing.md)
+  * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
+  * [HTML Resources](pages/robots/rbts-html-resources.md)
+  * [Raspberry Pi](pages/robots/rbts-raspberry-pi.md)
+  * [Simple Dev Install](pages/robots/rbts-simple-install.md)
+  * [Take Home](pages/robots/rbts-takehome.md)
+  * [Windows Installer](pages/robots/rbts-inno-project.md)
+
 [Chat]()
 
   * [**READ FIRST | Intro to Chat**](pages/vi/vi-chat.md)

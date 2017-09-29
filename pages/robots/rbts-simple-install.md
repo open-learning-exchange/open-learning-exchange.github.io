@@ -2,7 +2,7 @@
 
 ## Objectives 
 
-* Create installation processes for different OS such as Linux, macOS, and Windows.
+* Create installation processes for different OS such as Linux, macOSX, and Windows.
 * Working on issues at https://github.com/dogi/ole--vagrant-community/issues.
 
 ## Documentation
@@ -25,7 +25,7 @@ In this project we are working on Batch programming. It is a command line script
 
 ### Creating .bat File
 
-* You can create .bat file by adding some commands in any editor like notpad or notepad++.
+* You can create .bat file by adding some commands in any editor like notepad or notepad++.
 * Save file with .bat extension. It will create executable file
 * you need to learn and research different DOS commands which help us to simplifies the process of installation and achieve our objective. 
 
@@ -42,9 +42,9 @@ In this project we are working on Batch programming. It is a command line script
 * Setting up any new environment requires finding, downloading, and installing different software.
 * To install different software and related components separately is time-consuming process.
 * It also increases the complexity overall if the software has compatibility issues or dependencies.
-* Hence automating the process of installation by runnning a single script is easiest way to avoid such overhead. 
+* Hence automating the process of installation by running a single script is easiest way to avoid such overhead. 
 * You do not need to install software separately for setting up environment and the script will install all software at once.
-In previous steps we need to install vagrant and virtualbox saperately. This script will simplify the process and help to configure Bell app.
+In previous steps we need to install vagrant and virtualbox separately. This script will simplify the process and help to configure Bell app.
 
 ## About Homebrew
 
@@ -54,8 +54,8 @@ In previous steps we need to install vagrant and virtualbox saperately. This scr
 
 ## Useful Links
 
-[Homebrew](http://brew.sh/ )  
-[Homebrew-Wiki](https://en.wikipedia.org/wiki/Homebrew_%28package_management_software%29)  
-[Homebrew Bulk installer](http://lifehacker.com/how-to-make-your-own-bulk-app-installer-for-os-x-1586252163)  
-[Batch Scripting](http://www.tutorialspoint.com/batch_script/batch_script_overview.htm)  
-[Batch file commands](http://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
+* [Homebrew](http://brew.sh/ )  
+* [Homebrew-Wiki](https://en.wikipedia.org/wiki/Homebrew_%28package_management_software%29)  
+* [Homebrew Bulk installer](http://lifehacker.com/how-to-make-your-own-bulk-app-installer-for-os-x-1586252163)  
+* [Batch Scripting](http://www.tutorialspoint.com/batch_script/batch_script_overview.htm)  
+* [Batch file commands](http://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
