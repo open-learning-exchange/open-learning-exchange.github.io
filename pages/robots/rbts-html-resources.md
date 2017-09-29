@@ -20,7 +20,7 @@ The first way (which is a bit trickier and has more steps) will help you learn a
 Prerequisites:
 
 * Python2 with pip and setuptools
-* [Couchapp](vi-html-resources.md#Couchapp_Installation)
+* [Couchapp](rbts-html-resources.md#Couchapp_Installation)
 * Couchdb Instance
 * Desired JavaScript/HTML application
 
@@ -204,7 +204,7 @@ This next part is the most complicated, so make sure to pay extra attention here
 
 Then, go into the "Source" of your app and paste those fields below the `_rev` field. Remember to put a comma after the last line you paste (`"timesRated": 0`) and feel free to change the `title` field to the name of your app.
 
-![Couch Pasted Fields in Couch App](images/rbts-couch-pasted-fields.png)
+![Couch Pasted Fields in Couchapp](images/rbts-couch-pasted-fields.png)
 
 If you scroll down to the `_attachments` field, you'll find a reference to an .html file called `index.html` or `main.html` or something along those lines. Cut the reference and all of its info and put it at the beginning of the `_attachments` field like so:
 
