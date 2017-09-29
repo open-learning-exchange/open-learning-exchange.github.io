@@ -41,7 +41,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 ### Login to Github with your username and password
 Since you have already created a username on GitHub, we can assume that you understand the basic layout and functionality. If you don't, please, explore and do some basic googling. When you're editing on GitHub, it is important to always make sure you are working on your own GitHub repository. To that end, make sure there is your own username before the slash and the correct repository after the slash. For example, EmilyLarkin/BeLL-Apps). All of Open Learning Exchange's work can be [found here](https://github.com/open-learning-exchange). All the different repositories represent different types of software used by OLE, and the repositories act as categorizing system.
 
-There is a lot to learn about GitHub, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example will specifically create your own &lt;username&gt;.github.io and allow you to edit and commit your changes.
+There is a lot to learn about GitHub, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example will specifically create your own `username.github.io` and allow you to edit and commit your changes.
 
 **NOTE**: Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-email-in-git/) for more information.
 
@@ -52,29 +52,27 @@ Now, you will fork the repository to your own account. Look at the picture below
 ![Forking on GitHub](uploads/images/Forking on GitHub update.png)
 
 ### Go to Settings and rename your repository
-After you fork the repository, you will be on your page: &lt;username&gt;/open-learning-exchange.github.io. Then, you should go to Settings at the top middle of the page and rename your repository to your GitHub username. See example below.
+After you fork the repository, you will be on your page: `username/open-learning-exchange.github.io`. Then, you should go to **Settings** at the top middle of the page and rename your repository to your GitHub username. See example below.
 
 ![Renaming Repository](uploads/images/Rename Repository.png)
 
 ### Post a link to your repository in chat
-After you rename it, make sure to post a link to the github.io website you've just created (&lt;username&gt;.github.io) in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
+After you rename it, make sure to post a link to the github.io website you've just created `username.github.io` in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
 ![Example of github.io page](uploads/images/examplegithubio.png)
 
 Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
-
 **NOTE**: Make sure you are looking at the forked repo instead of the original Open Learning Exchange repo before working on it. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
 
-
 ### Create a new file as your personal MDwiki page and commit your changes
- Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
+Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
 
 ![New Branch](uploads/images/New Branch.png)
 
- To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
+ To create your page click on the **pages/profiles** folder. Then, click **New File** and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
 
-In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
+**In the new file, please type** your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
 We recommend using at least 5 different types of Markdown and to try to be as creative as possible.
 
