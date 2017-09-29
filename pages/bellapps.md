@@ -42,7 +42,7 @@ As you can see from the image below, there is an update ready to be downloaded. 
 
 First, click the "Update Available" button and it will reload your homepage with a successful update message. An update refers to a new software update which improves the software. Next, click on "Publications", under the Manager page, and sync the publications. Publications add new resources or courses to your library. Last, repeat the process of sending an activities sync to the nation.
 
-**NOTE**: If `Update Available` or `Publications`, is not visible, continue on with tutorial. They will only display if necessary!
+**NOTE**: If `Update Available` or `Publications` is not visible, continue on with tutorial. They will only display if necessary.
 
 **NOTE**: If there is an "internet connection" error when you click the "Update Available" button, change your browser to Firefox or Chrome.
 
