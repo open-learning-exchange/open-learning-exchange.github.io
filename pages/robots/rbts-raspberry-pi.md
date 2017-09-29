@@ -55,7 +55,7 @@ Below we have a short step-by-step rundown of how the treehouse-builder works:
 
 * [ole--vagrant-treehouses](https://github.com/ole-vi/ole--vagrant-treehouses) - Creates a vagrant virtual machine that runs treehouse-builder.
 * [treehouse-builder](https://github.com/ole-vi/treehouse-builder) - Treehouse-builder will create a custom raspian image for the raspberry pi.  
-* [pirate-sh/ip](https://github.com/pirate-sh/ip) - Ip script used in treehouse-builder image that will let you manually connect to a network and change its' network settings.
+* [pirateship](https://github.com/ole-vi/pirateship) - IP script used in treehouse-builder image that will let you manually connect to a network and change its' network settings.
 * [bluetooth-rpi](https://github.com/ole-vi/bluetooth-rpi) - Android app that lets you send/receive commands to the rpi.
 * [mobile-piiper](https://github.com/ole-vi/mobile-piiper) - Usb-tethering with an Android device to the rpi.  
 * [Intro to Raspberry Pi](https://docs.google.com/document/d/1A6Riy_j_M_HmAUVK0p5JVTQkRlUxGGwfN36PIZjC0Mw/edit#heading=h.ufcaguoz6i00) - A old Google Doc with Raspberry Pi instructions.
