@@ -52,7 +52,7 @@ src/
 
 ### Styles
 
-This project is using SCSS/Sass, which is a CSS preprocessor.  You can read more about it [here](http://sass-lang.com/).
+This project is using SCSS/Sass, which is a CSS preprocessor.  You can [read more about it here](http://sass-lang.com/).
 
 We're keeping the variables all in one file `/src/app/variables.scss` and if you write a mixin please put it in a similar `/src/app/mixins.scss` file so others can use them.
 
@@ -70,7 +70,7 @@ If you end up having some component specific styles, make sure to read up on [co
 
 ### Accessing CouchDB
 
-Most components will eventually need to access the database.  If you are unfamiliar with CouchDB, check out the documentation [here](http://docs.couchdb.org/en/2.0.0/).
+Most components will eventually need to access the database.  If you are unfamiliar with CouchDB, [check out the documentation here](http://docs.couchdb.org/en/2.0.0/).
 
 There is a single service for accessing CouchDB in the shared folder that you can import to your component for accessing CouchDB.  It is very basic and flexible, allowing you to create an HTTP request for the CouchDB and returning the response as a JavaScript object.  You can import it with the line:
 
@@ -78,7 +78,7 @@ There is a single service for accessing CouchDB in the shared folder that you ca
 import { CouchService } from '../shared/couchdb.service';
 ```
 
-This service has four public methods: `get`, `post`, `put`, and `delete`.  The [CouchDB docs](http://docs.couchdb.org/en/2.0.0/) are very helpful to let you know which to use, so take a look there if you are unsure.
+This service has four public methods: `get`, `post`, `put`, and `delete`.  [The CouchDB docs](http://docs.couchdb.org/en/2.0.0/) are very helpful to let you know which to use, so take a look there if you are unsure.
 
 Here's a quick rundown of the parameters used in these methods:
 
@@ -103,6 +103,7 @@ A possible implementation would be to use Service Workers.  The first portion of
 One of the big things to think about in this regard is merge conflicts, and PouchDB has a good article on [possible strategies](https://pouchdb.com/guides/conflicts.html).
 
 Here are some links to some free courses which will help you learn more about Progressive Web Apps:
+
 * https://codelabs.developers.google.com/codelabs/your-first-pwapp
 * https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 

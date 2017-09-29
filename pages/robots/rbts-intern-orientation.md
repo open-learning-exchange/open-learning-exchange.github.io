@@ -6,7 +6,7 @@ Congratulations. You have completed the first steps and have been selected to jo
 
 ## Get to Know the Team
 
-The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](!#./pages/vi/vi-team.md). You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
+The first thing that needs to happen now that you are an intern is meeting the rest of the team, starting with chief technology officer Dogi, and the [current intern team leads](#!./pages/vi/vi-team.md). You can set up a time to have a Google hangout with them in the [Gitter Interns chat room](https://gitter.im/open-learning-exchange/interns), which you should now be able to access. While you're at it, meet the current interns and ask them what they have been working on, and get to know them better.
 
 ## Familiarize Yourself with Current Projects and Issues
 

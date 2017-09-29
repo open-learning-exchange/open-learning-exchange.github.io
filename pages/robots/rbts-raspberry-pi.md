@@ -21,7 +21,7 @@ Since ole--vagrant-treehouses creates a virtual machine, it works on all platfor
 
 **Building the treehouse-builder image with ole--vagrant-treehouses:**
 
-- A virtualization enabled computer with Vagrant & Virtualbox (If you can [run the vagrant](!#./pages/vi/vi-vagrant.md) tutorial without problems, then this is fine.) 
+- A virtualization enabled computer with Vagrant & Virtualbox (If you can [run the vagrant](#!./pages/vi/vi-vagrant.md) tutorial without problems, then this is fine.) 
 - 8 Gb of harddrive space
 - 4 Gb of memory
 - An Internet connection

@@ -91,7 +91,7 @@ Install [TestNG in Eclispe](http://www.guru99.com/all-about-testng-and-selenium.
 * @Test: put this annotation above your test method
 * @AfterTest: put this annotation above a cleanup method (a method that closes the browser in the end, etc.)
 * Assert.assertEquals("String1","String2"); // Checking whether two strings are equal
-* See [other Asserts](http://testng.org/javadocs/org/testng/Assert.html)
+* [See other Asserts](http://testng.org/javadocs/org/testng/Assert.html)
 
 ##### 3. Code Convention
 
@@ -104,10 +104,10 @@ Install [TestNG in Eclispe](http://www.guru99.com/all-about-testng-and-selenium.
 
 Be aware of picking a functionality that is under construction or that has previously been found buggy. You will know that by looking at the Github issue queue here: https://github.com/dogi/ole--vagrant-community/issues
 
-If a bug is found, describe the bug in this Google Doc first: [vi-bug-hunt.md](https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1)
+If a bug is found, describe the bug in [this Google document](https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit?pref=2&pli=1) first.
 
 * Clearly describe exactly what the bug is, the number of the test case, and the steps that fail or produce unexpected output. Make sure that your description of the bug is easily understandable and describes the issue. Feel free to use images, to supplement your description.
 * Even though the test cases already have the steps outlined, it's always a good idea to provide more detailed description and pictures to help the developer to understand the situation.
 * If you know why the issue is happening, or have a potential solution to the issue, feel free to add your thoughts to the end of the bug description, or even start working on the problem yourself.                                                         
 * Ask @dogi or @Emily to check your proposed bug in the Google Doc above. They will give you advice and further instructions then.
-* See [the previous wiki](vi-github-issues.md) on how to write a good Github issue.
+* [See the previous wiki](vi-github-issues.md) on how to write a good Github issue.

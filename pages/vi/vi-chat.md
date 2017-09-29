@@ -14,4 +14,4 @@ As you complete the [First Steps](vi-first-steps.md), we want you to keep us upd
   
 This good etiquette helps streamline communication between internship candidates and staff members alike! Feel free to look through the chat for more examples.
 
-Click [here](https://gitter.im/open-learning-exchange/chat) for the full Gitter chat page. We also encourage the use of Gitter chat apps, can be downloaded [here](https://gitter.im/apps) for Windows, OSX, Linux, Android and iPhone!
+[Click here](https://gitter.im/open-learning-exchange/chat) for the full Gitter chat page. We also encourage the use of Gitter chat apps, [can be downloaded here](https://gitter.im/apps) for Windows, OSX, Linux, Android and iPhone!
