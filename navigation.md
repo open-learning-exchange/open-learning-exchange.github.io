@@ -37,7 +37,7 @@
   - - - -
   * [Members](pages/vi/vi-team.md)
 
-[Robots]() <!-- Moonshot Programs -->
+[Robots]() <!-- Moon-Shot Programs -->
 
   * [Intern Orientation](pages/robots/rbts-intern-orientation.md)
   - - - -
@@ -65,7 +65,7 @@
 
 A more complex navigation example:
 
-[Menu Item 1](
+[Menu Item 1]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](pages/subitem1.md)
