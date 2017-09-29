@@ -6,7 +6,7 @@
 
 [gimmick:theme (inverse: false)](bootstrap)
 
-[Tech Geniuses]() 
+[Tech Geniuses]() <!-- Tech Geniuses Program -->
 
   * [Introduction](pages/techgenius/tg-introduction.md)
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
@@ -35,18 +35,9 @@
   * [BeLL-Apps](pages/vi/vi-bellapps.md)
   * [Nation BeLL](pages/vi/vi-nation.md)
   - - - -
-  * [Angular Reboot](pages/vi/vi-angular.md)
-  * [Automated Testing](pages/vi/vi-automated-testing.md)
-  * [Crowdin Integration](pages/vi/vi-crowdin-integration.md)
-  * [HTML Resources](pages/vi/vi-html-resources.md)
-  * [Raspberry Pi](pages/vi/vi-raspberry-pi.md)
-  * [Simple Dev Install](pages/vi/vi-simple-install.md)
-  * [Take Home](pages/vi/vi-takehome.md)
-  * [Windows Installer](pages/vi/vi-inno-project.md)
-  - - - -
   * [Members](pages/vi/vi-team.md)
 
-[Robots]() <!-- Moonshot Program -->
+[Robots]() <!-- Moonshot Programs -->
 
   * [Intern Orientation](pages/robots/rbts-intern-orientation.md)
   - - - -
