@@ -10,8 +10,11 @@
 
 
 
-   #Languages   and   Technologies :
+   # Languages   and   Technologies :
+   
 •     Java,   JavaScript   ( fluent)
-•    C,   Node.js,   Linux,   AngularJS,   Python,   GitHub,   bootstrap,   D3.js,   Html,   CSS   (i  ntermediate)
+
+•    C,   Node.js,   Linux,   AngularJS,   Python,   GitHub,   bootstrap,   D3.js,   Html,   CSS   (intermediate)
+
 •    ReactJS,   SQL   ( beginner)
 
