@@ -24,6 +24,5 @@
 Hi Everybody,
 
 My name is Amanuel Afework.  I am a recent graduate from Middlebury College with a bachelor of Computer Science  and minor in
-
-Mathematics. I am very excited to contrubute  to this project and I can't wait to get started.
+Mathematics. I am interested in full-stack web development. I am very excited to contrubute  to this project and I can't wait to get started.
 
