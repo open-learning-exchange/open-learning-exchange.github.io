@@ -14,7 +14,7 @@
    
 •     Java,   JavaScript   ( fluent)
 
-•    C,   Node.js,   Linux,   AngularJS,   Python,   GitHub,   bootstrap,   D3.js,   Html,   CSS   (intermediate)
+•    C,   Node.js,   Linux,   AngularJS,   Python,   Git,   bootstrap,   D3.js,   Html,   CSS   (intermediate)
 
 •    ReactJS,   SQL   ( beginner)
 
