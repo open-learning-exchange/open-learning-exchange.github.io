@@ -12,8 +12,6 @@ It is understood that tech geniuses have completed [the First Steps training exe
 
 ## Step 2 | Vagrant Environment Installation Confirmation
 
-Review and complete (if necessary) the [instructions on how to setup a pre-built community environment via Vagrant](#!./pages/vi/vi-vagrant.md). It is important that you fully understand how to build a local community and that a working community is installed on the target laptop. 
-
 If you have completed the the installation guide then you will find `c:/users/USERNAME/ole--vagrant-vi` under your file system. The `ole--vagrant-vi` directory indicates that this community is attached to the development environment that OLE uses for training and to develop, test, and deploy new features.
 
 In the steps outlined below we will build a community that is attached to the Madagascar Nation. To achieve this we will do the following:
