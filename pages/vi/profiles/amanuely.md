@@ -7,6 +7,8 @@
 
 **Operating System**: OS X EI Capitan version 10.11.6
 
+**Email**: aafework@middlebury.edu
+
 
 
 
