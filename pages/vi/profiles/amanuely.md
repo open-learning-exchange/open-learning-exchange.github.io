@@ -9,7 +9,7 @@
 
 **Email**: aafework@middlebury.edu
 
-[**Linkedin**:](https://www.linkedin.com/in/aafework/)
+**Linkedin**: [Clique here to check my Linkedin profile](https://www.linkedin.com/in/aafework/)
 
 
 
