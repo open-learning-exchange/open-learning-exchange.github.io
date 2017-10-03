@@ -1,9 +1,7 @@
 # __Sijing Xie__
 
-> _San Ramon, CA, USA (PST)_
-
-> _Windows 7_
-
+> _San Ramon, CA, USA (PST)_  
+> _Windows 7_  
 > [sxie@berkeley.edu](mailto:sxie@berkeley.edu)
 
 - - -
