@@ -1,12 +1,12 @@
-# **Sijing Xie**
+# __Sijing Xie__
 
-*San Ramon, CA, USA (PST)*
+_San Ramon, CA, USA (PST)_
 
-*Windows 7*
+_Windows 7_
 
 [sxie@berkeley.edu](mailto:sxie@berkeley.edu)
 
-* * *
+- - -
 
 Hello! I'm currently a senior at UC Berkeley and coding is my life  
 (not quite by design, but I usually enjoy it, so I guess I can't complain).  
@@ -32,6 +32,6 @@ Some activities I enjoy:
   * taking candid pictures of my loved ones
   * i'm sure there's more...I'm living my best life okay
 
-* * *
+- - -
 
-**It's nice to meet you! :D**
+__It's nice to meet you! :D__
