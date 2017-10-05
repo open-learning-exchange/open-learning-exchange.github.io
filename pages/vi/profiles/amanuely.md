@@ -13,9 +13,9 @@
 
    # Languages   and   Technologies :
    
-•    Java,   JavaScript   ( fluent)
-•    C,   Node.js,   Linux,   AngularJS,   Python,   Git,   bootstrap,   D3.js,   Html,   CSS   (intermediate)
-•    ReactJS,   SQL   ( beginner)
+•   Java,   JavaScript   ( fluent)
+•   C,   Node.js,   Linux,   AngularJS,   Python,   Git,   bootstrap,   D3.js,   Html,   CSS   (intermediate)
+•   ReactJS,   SQL   ( beginner)
 
 # Short Bio
 
