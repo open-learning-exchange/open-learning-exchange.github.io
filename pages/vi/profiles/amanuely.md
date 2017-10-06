@@ -11,11 +11,11 @@
 
 **Linkedin**: [Clique here to check my Linkedin profile](https://www.linkedin.com/in/aafework/)
 
- # Languages   and   Technologies :
-   
-• Java,   JavaScript   ( fluent)
-•  C,   Node.js,   Linux,   AngularJS,   Python,   Git,   bootstrap,   D3.js,   Html,   CSS   (intermediate)
-• ReactJS,   SQL   ( beginner)
+# Languages and Technologies
+
+* Java, JavaScript (fluent)
+* C, Node.js, Linux, AngularJS, Python, Git, bootstrap, D3.js, Html, CSS (intermediate)
+* ReactJS, SQL (beginner)
 
 # Short Bio
 
