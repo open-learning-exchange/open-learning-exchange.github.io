@@ -8,8 +8,15 @@ I really enjoy watching movies. Also, I love chocolates.
 
 
 ### Languages:
-    Python,Java,C++, HTML, SQL, CSS
+- Python
+- Java
+- C++
+- HTML
+- SQL
+- CSS
+
 ### IDE:
-    Eclipse,Pycharm
+- Eclipse
+- Pycharm
 
  [LinkedIn](https://www.linkedin.com/in/deepali-chaudhari-8b7378114/) | [GitHub](https://github.com/deepaliyc) |<deepaliychaudhari@gmail.com>
