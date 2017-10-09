@@ -15,7 +15,7 @@
 ## Technical Questions
 
 - **Q10:** [What is the purpose of Nations and Communities, and how do they work together?](#Q10:_What_is_the_purpose_of_Nations_and_Communities,_and_how_do_they_work_together?)
-- **Q11:** [How can I enable virtualization on my computer in order to turn Vagrant on?](#Q11:_How_can_I_enable_virtualization_onmy_computer_in_order_to_turn_Vagrant_on?)
+- **Q11:** [How can I enable virtualization on my computer in order to turn Vagrant on?](#Q11:_How_can_I_enable_virtualization_on_my_computer_in_order_to_turn_Vagrant_on?)
 - **Q12:** [Why is the "Submit" button not showing up when I try to submit my survey?](#Q12:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
 - **Q13:** [Why does Firefox say “Unable to Connect” when I try to load my Community?](#Q13:_Why_does_Firefox_say_“Unable_to_Connect”_when_I_try_to_load_my_Community?)
 - **Q14:** [When I first run BeLL with the "vagrant up" command, why does the download fail?](#Q14:_When_I_first_run_BeLL_with_the_"vagrant_up"_command,_why_does_the_download_fail?)
