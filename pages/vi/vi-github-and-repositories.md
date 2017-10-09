@@ -38,7 +38,8 @@ Both HTTPS and SSH URLs identify the same remote repositories but use different 
 
 ### Explanation About Repositories and Syncing Process
 
-The previous step created a clone of your repository on your OS. Now, there are three different GitHub repository levels:  
+The previous step created a clone of your repository on your OS. Now, there are three different GitHub repository levels:
+
   * [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) (*upstream*)
   * username.github.io on GitHub
   * username.github.io on your OS
