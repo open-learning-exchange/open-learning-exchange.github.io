@@ -30,7 +30,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 
 ![GitHub Clone URL](images/vi-github-clone-url.png)
 
- Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you  `cd  `   into your  `Username.github.io `  you can see different files which you will be working on during your internship.
+Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you  `cd  ` into your `<username>.github.io` you can see different files which you will be working on during your internship.
 
 ##### Clone with HTTPS or Use SSH?
 
