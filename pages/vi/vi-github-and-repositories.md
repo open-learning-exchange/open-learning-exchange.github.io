@@ -41,9 +41,9 @@ Both HTTPS and SSH URLs identify the same remote repositories but use different 
 The previous step created a clone of your repository on your OS.
 
 Now, there are three different GitHub repository levels:  
-	* [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) (*upstream*)  
-	* username.github.io on GitHub  
-	* username.github.io on your OS  
+  - [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) (*upstream*)  
+  - username.github.io on GitHub  
+  - username.github.io on your OS  
 
 These three levels need to be constantly synced and up-to-date with one another as we will all be contributing to the upstream repository (open-learning-exchange.github.io). It's important to try and keep these separate and avoid mixing changes between them, as you will be unable to fork and git push/pull if they are very different versions.
 
