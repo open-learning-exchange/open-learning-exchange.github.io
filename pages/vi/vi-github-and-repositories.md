@@ -12,7 +12,7 @@ On GitHub, our software code is organized in repositories, each of which represe
 
 As previously mentioned, you fork a repository to work on your own GitHub account, and then send back your changes to the upstream repository in the form of a pull request (PR). You went through this process to fork open-learning-exchange.github.io into your own repository and rename it to your own username. Normally, we do not rename repositories, but Markdown Wikis are slightly different. In the future, plan on forking different repositories, working on them, then sending your work to the upstream repo via PR. The general GitHub structure is outlined below.
 
-![Repository Relationships](images/vi-repo-diagram.png)
+![Repositories Relationship](images/vi-repo-diagram.png)
 
 ## Start Here
 
@@ -34,17 +34,14 @@ Then, turn to your command prompt and type your repository URL in the form of `g
 
 ##### Clone with HTTPS or Use SSH?
 
-Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences in thisarticle: [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
+Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
 ### Explanation About Repositories and Syncing Process
 
-The previous step created a clone of your repository on your OS.
-
-Now, there are three different GitHub repository levels:  
-
-  * [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) (*upstream*)  
-  * username.github.io on GitHub  
-  * username.github.io on your OS  
+The previous step created a clone of your repository on your OS. Now, there are three different GitHub repository levels:  
+  * [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) (*upstream*)
+  * username.github.io on GitHub
+  * username.github.io on your OS
 
 These three levels need to be constantly synced and up-to-date with one another as we will all be contributing to the upstream repository (open-learning-exchange.github.io). It's important to try and keep these separate and avoid mixing changes between them, as you will be unable to fork and git push/pull if they are very different versions.
 
