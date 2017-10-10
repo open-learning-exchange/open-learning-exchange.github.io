@@ -24,7 +24,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 * Clone_with_HTTPS_or_Use_SSH?
 * Read the Explanation to Understand Repositories and Syncing Process
 * Configure a Remote Repository for your fork
-* Sync Your fork](#Sync_Your_Fork
+* Sync Your fork
 
 ### Clone Your GitHub Repository username.github.io
 
