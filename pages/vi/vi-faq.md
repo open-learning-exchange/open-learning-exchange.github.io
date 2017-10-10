@@ -3,9 +3,9 @@
 ## General Internship Questions
 
 - **Q1:** [What will I be working on during this internship?](#Q1:_What_will_I_be_working_on_during_this_internship?)
-- **Q2:** [What kind of software will I be using for this internship?](#Q2:_What_kind_of_software_will_I_be_using_for_this_internship?)
+- **Q2:** [What kind of software will we be using for this internship?](#Q2:_What_kind_of_software_will_we_be_using_for_this_internship?)
 - **Q3:** [Where can I find more information about this internship?](#Q3:_Where_can_I_find_more_information_about_this_internship?)
-- **Q4:** [What is the time commitment for this internship?](#Q4:_What_is_the_time_commitment_for_this_internship?)
+- **Q4:** [What are the hours of the internship?](#Q4:_What_are_the_hours_of_the_internship?)
 - **Q5:** [Is this a paid internship?](#Q5:_Is_this_a_paid_internship?)
 - **Q6:** [What happens after the initial steps?](#Q6:_What_happens_after_the_initial_steps?)
 - **Q7:** [If I'm an international student, how soon can I get the paperwork required by my visa?](#Q7:_If_I'm_an_international_student,_how_soon_can_I_get_the_paperwork_required_by_my_visa?)
@@ -30,7 +30,7 @@
 
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
-#### Q2: What kind of software will I be using for this internship?
+#### Q2: What kind of software will we be using for this internship?
 
 As a part of this internship you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
@@ -38,7 +38,7 @@ As a part of this internship you will be working with software and languages inc
 
 More information about the internship can be found [here](https://www.indeed.com/jobs?q=%22virtual%20remote%20software%20engineer%20intern%22&l=Cambridge%2C%20MA).
 
-#### Q4: What is the time commitment for this internship?
+#### Q4: What are the hours of the internship?
 
 This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
