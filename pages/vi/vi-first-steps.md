@@ -104,4 +104,4 @@ Lastly, once you have completed all other steps, add yourself to the virtual int
 
 After the pull request, message in the gitter chat or message dogi to let him know you are done so that he can set up a meeting and add you to the team as soon as possible.
 
-Once you have been added to the team, read through the [intern orientation document](../robots/robotsrbts-intern-orientation.md).
+Once you have been added to the team, read through the [intern orientation document](./../robots/robotsrbts-intern-orientation.md).
