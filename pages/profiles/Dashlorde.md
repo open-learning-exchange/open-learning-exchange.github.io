@@ -1,8 +1,8 @@
 # Yunlu Zhou
----------
+
 Malden, MA / EST MAC OS X   
 
-_I am a recent graduate students in Northeastern University with the master of science degree in Telecommunication System Management. I have some projects related to my skills._
+_I am a recent graduate student in northeastern University with the master of science degree in Telecommunication System Management. I have some projects related to my skills._
 
 ## Languages
 `Java, PHP, Python, HTML, CSS, mySQL, JavaScript, jQuery`
