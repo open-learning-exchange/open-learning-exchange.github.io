@@ -65,7 +65,7 @@ There is no official deadline, work on your own time. However, please note that 
 
 ### Technical Questions
 
-#### Q10: What is the purpose of nations and communities, and how do they work together?
+#### Q10: What is the purpose of Nations and Communities, and how do they work together?
 
 We use the nation/community infrastructure because we often deploy our software in places without internet. Nations are the services sitting in the cloud (which are connected to the internet). Communities, which run locally on Raspberry Pis and/or laptops, are run on an *intranet* but are most of the time not connected to the *internet*. Because nations are connected to the internet, they allow a connection process between us (with internet) and users on communities (without internet). To sync with a nation, however, a community needs to be connected to the internet so that information can be sent in both directions.
 
@@ -77,7 +77,7 @@ First of all, you have to access the BIOS. To do that, you need to reboot your c
 
 Please make sure you’re using Firefox, as our BeLL software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the BeLL and logging back in, then go back to the survey. If that doesn’t work, log out of the BeLL, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Gitter chat](http://gitter.im/open-learning-exchange/chat).
 
-#### Q13: Why does Firefox say “Unable to connect” when I try to load my community?
+#### Q13: Why does Firefox say “Unable to connect” when I try to load my Community?
 
 Because a community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual BeLL user interface.
 
