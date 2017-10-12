@@ -6,9 +6,9 @@
 
 [gimmick:theme (inverse: false)](bootstrap)
 
-[Translators]()
+[Translators]() <!-- Translation Support Program -->
 
-  * [**Introduction**](pages/techgenius/tr-introduction.md)
+  * [**Introduction**](pages/translators/la-introduction.md)
   - - - -
   * [BeLL](https://crowdin.com/project/open-learning-exchange/invite)
   * [Planet](https://crowdin.com/project/ole-planet/invite)
