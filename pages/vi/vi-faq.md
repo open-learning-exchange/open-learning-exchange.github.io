@@ -44,7 +44,7 @@ This is an intensive internship that requires 16 hours of work each week. Work w
 
 #### Q5: Is this a paid internship?
 
-Unfortunately no. This position is unpaid, but it will provide a diverse range of experiences in the workplace. It can provide a certificate of completion, upon request. Also, academic credit can be provided through your institution (if applicable).
+Unfortunately, no. This position is unpaid, but it will provide a diverse range of experiences in the workplace. It can provide a certificate of completion, upon request. Also, academic credit can be provided through your institution (if applicable).
 
 #### Q6: What happens after the initial steps?
 
@@ -108,7 +108,7 @@ You now have a working communityBeLL on your OS.
 
 #### Q15: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or I need to delete it?
 
-You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
+You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the _Settings_ and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
 
 #### Q16: What do I do if I already have a github.io with my user name?
 
@@ -116,7 +116,7 @@ You have a couple of options.
 
 1. If you are not using the repo anymore you can delete it and then follow the [First Steps](vi-first-steps.md).
 
-2. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repro &lt;orgname&gt;.github.io
+2. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repo &lt;orgname&gt;.github.io
 
 3. Or you can just create another github account, and use that for OLE work
 
