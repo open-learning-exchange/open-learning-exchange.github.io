@@ -20,7 +20,7 @@ A Planet resource is any material that has been uploaded into the digital librar
 
 ## What is a Collection?
 
-A collection is a group of resources that are grouped by attribute such as topic/subject, grade level, intended use, etc. PLANET currently follows a the Library of Congress categorization system. Collections exist as the main category. Within a collection resources can be further grouped into sub-collections to further define and categorize the collection. Collections are alphabetized by topic.
+A collection is a group of resources that are grouped by attribute such as topic/subject, grade level, intended use, etc. PLANET currently follows the Library of Congress categorization system. Collections exist as the main category. Within a collection resources can be further grouped into sub-collections to further define and categorize the collection. Collections are alphabetized by topic.
 
 # Library Navigation
 
@@ -112,7 +112,7 @@ Collections can be used by Nation administrators and managers to categorize mate
 
 ![Add a Collection](images/tg-collection-add.png)
 
-4. You will then be prompted to fill out the below form. Type the name name and description of the collection. “Nested Under” refers to whether this will be a top level collection or a sub-collection. Sub-collections are nested under other collections. If you wish to create a collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
+4. You will then be prompted to fill out the below form. Type the name and description of the collection. “Nested Under” refers to whether this will be a top level collection or a sub-collection. Sub-collections are nested under other collections. If you wish to create a collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
 
 ![Save New Collection](images/tg-collection-save.png)
 
