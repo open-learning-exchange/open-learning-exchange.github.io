@@ -1,25 +1,75 @@
-<!--
-  -- Name of your wiki
-  -- Do NOT remove the leading `#` character.
-  -->
+<!-- Name of your wiki // Do NOT remove the leading `#` character.  -->
 
-# Virtual Interns
+<!-- See additional notes below -->
 
-
-<!--
-  -- Default theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
-  -->
+# OLE Support
 
 [gimmick:theme (inverse: false)](bootstrap)
 
+[Translators]() <!-- Translation Support Program -->
 
-<!--
-  -- Navigation
-  -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  -->
+  * [**Introduction**](pages/translators/la-introduction.md)
+  - - - -
+  * [BeLL](https://crowdin.com/project/open-learning-exchange/invite)
+  * [Planet](https://crowdin.com/project/ole-planet/invite)
+  * [Take Home](https://crowdin.com/project/take-home/invite)
 
-<!-- A more complex navigation example: ----------------------------------------
+[Virtual Interns]() <!-- Intern Program -->
+
+  * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
+  * [FAQ](pages/vi/vi-faq.md)
+  - - - -
+  * [Vagrant](pages/vi/vi-vagrant.md)
+  * [GitHub & Markdown](pages/vi/vi-github-and-markdown.md)
+  * [GitHub Repositories](pages/vi/vi-github-and-repositories.md)
+  * [GitHub Issues](pages/vi/vi-github-issues.md)
+  * [BeLL-Apps](pages/vi/vi-bellapps.md)
+  * [Nation BeLL](pages/vi/vi-nation.md)
+  - - - -
+  * [**Members**](pages/vi/vi-team.md)
+
+[Tech Geniuses]() <!-- Tech Geniuses Program -->
+
+  * [**Introduction**](pages/techgenius/tg-introduction.md)
+  * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
+  - - - -
+  * [Quick Start Setup](pages/techgenius/tg-hardware-setup.md)
+  * [Router / LAN Configuration](pages/techgenius/tg-router-config.md)
+  * [Tablet Configuration](pages/techgenius/tg-tablet-config.md)
+  * [Community Quick Install / Windows](pages/techgenius/tg-windows-install.md)
+  * [Manual / Full Installation](pages/techgenius/tg-installation.md)
+  * [Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
+  - - - -
+  * [Content & Library Management](pages/techgenius/tg-library-management.md)
+  - - - -
+  * [**Members**](pages/techgenius/tg-team.md)
+
+[Robots]() <!-- Moon-Shot Programs -->
+
+  * [**Orientation**](pages/robots/rbts-intern-orientation.md)
+  - - - -
+  * [Simple Dev Install](pages/robots/rbts-simple-install.md)
+  * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
+  * [Automated Testing](pages/robots/rbts-automated-testing.md)
+  * [HTML Resources](pages/robots/rbts-html-resources.md)
+  * [Windows Installer](pages/robots/rbts-inno-project.md)
+  * [**Take Home**](pages/robots/rbts-takehome.md)
+  * [**Raspberry Pi**](pages/robots/rbts-raspberry-pi.md)
+  * [**Angular Reboot**](pages/robots/rbts-angular.md)  
+
+[Chat]()
+
+  * [**Introduction**](pages/vi/vi-chat.md)
+  - - - -
+  * [General Chat](https://gitter.im/open-learning-exchange/chat)
+  * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
+  * [Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
+
+<!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
+
+<!-- Navigation (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)  
+
+A more complex navigation example:
 
 [Menu Item 1]()
 
@@ -35,59 +85,4 @@
 
 [Menu Item 2](pages/item2.md)
 
-[Menu Item 3](pages/item3.md)
-
----------------------------------------------------------------------------- -->
-
-[First Steps]()
-
-  * [Start Here](pages/firststeps.md)
-  - - - -
-  * [Vagrant](pages/vagrant.md)
-  * [GitHub and Markdown](pages/githubandmarkdown.md)
-  * [BeLL-Apps](pages/bellapps.md)
-  * [Git Repositories](pages/gitandrepositories.md)
-  * [GitHub Issues](pages/githubissues.md)
-  * [Nation BeLL](pages/nation.md)
-  - - - -
-  * [Community Login](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html)
-
-[Projects]()
-  
-  * [Intern Orientation](pages/internorientation.md)
-  - - - -
-  * [Automated Testing](pages/automatedtesting.md)
-  * [Crowdin Integration](pages/crowdinintegration.md)
-  * [Windows Installer](pages/innoproject.md)
-  * [Simple Dev Install](pages/simpleinstall.md)
-  * [HTML Resources](pages/htmlresources.md)
-  * [Take Home](pages/takehome.md)
-  * [Raspberry Pi](pages/raspberrypi.md)
-  * [Angular Reboot](pages/angular.md)
-
-[Members](pages/team.md)
-[FAQ](pages/faq.md)
-[Translation](https://crowdin.com/project/open-learning-exchange/invite)
-[Chat](pages/chat.md)
-
-<!--
-  -- Change the Language
-  -- Could be useful when there's more than one language wiki.
-  -->
-
-<!--
-[Change the Language]()
-
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/)
--->
-
-<!--
-  -- Let the user choose a theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  -->
-
-<!--
-[gimmick:themechooser](Choose theme)
--->
+[Menu Item 3](pages/item3.md) -->

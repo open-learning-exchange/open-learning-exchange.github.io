@@ -170,29 +170,6 @@
 
     function addInpageAnchors()
     {
-        // adds a pilcrow (paragraph) character to heading with a link for the
-        // inpage anchor
-        function addPilcrow ($heading, href) {
-            var c = $.md.config.anchorCharacter;
-            var $pilcrow = $('<span class="anchor-highlight"><a>' + c + '</a></span>');
-            $pilcrow.find('a').attr('href', href);
-            $pilcrow.hide();
-
-            var mouse_entered = false;
-            $heading.mouseenter(function () {
-                mouse_entered = true;
-                $.md.util.wait(300).then(function () {
-                    if (!mouse_entered) return;
-                    $pilcrow.fadeIn(200);
-                });
-            });
-            $heading.mouseleave(function () {
-                mouse_entered = false;
-                $pilcrow.fadeOut(200);
-            });
-            $pilcrow.appendTo($heading);
-        }
-
         // adds a link to the navigation at the top of the page
         function addJumpLinkToTOC($heading) {
             if($.md.config.useSideMenu === false) return;
@@ -219,15 +196,12 @@
         $('h1,h2,h3,h4,h5,h6').not('#md-title h1').each (function () {
             var $heading = $(this);
             $heading.addClass('md-inpage-anchor');
-            var text = $heading.clone().children('.anchor-highlight').remove().end().text();
-            var href = $.md.util.getInpageAnchorHref(text);
-            addPilcrow($heading, href);
 
             //add jumplink to table of contents
             addJumpLinkToTOC($heading);
         });
     }
-	
+
 	function externalLinksTargetBlank () {
 		$("a[href^='http://']").each(
 			function(){
@@ -235,14 +209,13 @@
 					$(this).attr('target', '_blank');
 				}
 		});
-         
+
 		$("a[href^='https://']").each(
 			function(){
 				if(this.href.indexOf(location.hostname) === -1 || location.hostname === '') {
 					$(this).attr('target', '_blank');
 				}
 		});
-		
 	}
 
     $.md.scrollToInPageAnchor = function(anchortext) {
