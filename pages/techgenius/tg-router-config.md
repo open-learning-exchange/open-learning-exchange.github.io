@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This document explain how to pair the router with the Community Planet server in a local area network via a static IP address so that it can be found by local devices - tablets and laptops. This guide assumes that the Planet Community is installed on a windows machine. These instructions were written using screen shots from a TP-LINK router (TL-WDR3500 or TL-WDR3600) but you should be able to apply these instructions and concepts to any router. In order to complete these steps you will need access to access the management login credentials of the router. The default login for TP-Link router is username: “admin” and password: “admin” without the quotation marks.
+This document explains how to pair the router with the Community Planet server in a local area network via a static IP address so that it can be found by local devices - tablets and laptops. This guide assumes that the Planet Community is installed on a windows machine. These instructions were written using screen shots from a TP-LINK router (TL-WDR3500 or TL-WDR3600) but you should be able to apply these instructions and concepts to any router. In order to complete these steps, you will need access to access the management login credentials of the router. The default login for TP-Link router is username: “admin” and password: “admin” without the quotation marks.
 Setup Diagram
 
 ![Setup Image](images/tg-setup.png)
@@ -15,19 +15,19 @@ Many (not all) routers are pre-configured to assign dynamic IP addresses in the 
 
 1. This use case assumes that Planet is installed on a Windows-based laptop.
 
-2. The Planet device should be connected to the router by WIFI NOT ethernet cable.
+2. The Planet device should be connected to the router by WIFI NOT Ethernet cable.
 
 ### Router Configuration | Assigning a Dedicated IP address to the Community
 
 On a laptop open a web browser and type [http://tplinklogin.net](http://tplinklogin.net) or the default address of the router you are using, in this case [http://192.168.0.1](http://192.168.0.1) in the above example). 
 
-If successful you will see the following dialogue box. Enter the credentials and click Log In:
+If successful, you will see the following dialogue box. Enter the credentials and click _Log In_:
 
 ![Router Login Screen](images/tg-router-login.png)
 
 Type the management credentials (“admin” and password: “admin”) or as per your device instructions;
 
-If you do not get the login challenge then you can use ONE of the following TWO methods (Windows) to discover the Default Gateway:
+If you do not get the login challenge, then you can use ONE of the following TWO methods (Windows) to discover the Default Gateway:
 
 _Via Command prompt_. Open the CMD window (press Windows button + R or search the Windows programs for “command prompt”). At the command prompt type “ipconfig” and press ENTER. Locate the Default Gateway - in this case it is 192.168.0.1.
 
@@ -35,7 +35,7 @@ _Via Command prompt_. Open the CMD window (press Windows button + R or search th
  
 _Via the Graphical User Interface_. Open Control Panel > Network and Sharing Center > Wi-Fi Connections (click link) > Details to get this dialogue box:
 
-![Windows GUI IP screen shot](images/tg-wifi-gui-config.png)
+![Windows GUI IP screen shot](images/wifi-gui-config.png)
 
 Click on DHCP
 
