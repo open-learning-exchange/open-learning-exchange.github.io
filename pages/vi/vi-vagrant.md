@@ -161,9 +161,8 @@ For more information go [here](http://stackoverflow.com/questions/23874260/error
 3. When you run ```vagrant up``` from command prompt on windows, you might get the following error :
 <blockquote>The executable 'curl' Vagrant is trying to run was not
 found in the %PATH% variable. This is an error. Please verify
-this software is installed and on the path.</blockquote>
-A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run vagrant up.
-For more information visit [here](https://github.com/hashicorp/vagrant/issues/6788)
+this software is installed and on the path.</blockquote> A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run vagrant up.
+For more information visit [issue](https://github.com/hashicorp/vagrant/issues/6788)
 
 ## Useful  Links
 
