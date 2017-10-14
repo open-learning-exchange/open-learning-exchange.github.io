@@ -158,6 +158,15 @@ For more information go [here](http://stackoverflow.com/questions/23874260/error
 
 2. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html in step 4, you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
 
+3. When you run ```vagrant up``` from command prompt on windows, you might get the following error :
+<blockquote>The executable 'curl' Vagrant is trying to run was not
+found in the %PATH% variable. This is an error. Please verify
+this software is installed and on the path.</blockquote>
+## Solution
+1. Add Cygwin bin folder to path variable.
+2. Use Git Bash rather than command prompt to run vagrant up.
+For more information visit [here](https://github.com/hashicorp/vagrant/issues/6788)
+
 ## Useful  Links
 
 [Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)
