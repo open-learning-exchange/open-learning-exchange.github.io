@@ -5,7 +5,7 @@
 |**Username**|**Join Date**|
 |------------|-------------|
 |**➤ Tech Geniuses**||
-|MadagascarOLE|10-13-17|
+|MadagascarOLE|2017-10-13|
 
 ## Tech Geniuses
 
