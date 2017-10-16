@@ -71,7 +71,7 @@ We use the nation/community infrastructure because we often deploy our software 
 
 #### Q11: How can I enable the Virtualization in order to turn vagrant on?
 
-First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2," "Esc" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x," "Intel Virtualization Technology" or something similar. Enable this option, save and reset. Now the "vagrant up" command should work.
+First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2", "Esc" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x", "Intel Virtualization Technology" or something similar. Enable this option, save and reset. Now the "vagrant up" command should work.
 
 #### Q12: Why is the "Submit" button not showing up when I try to submit my survey?
 
@@ -143,7 +143,7 @@ The other two tools we focus on are GitHub and Markdown. Similar to how we use V
 
 To sum up, the primary software/tools we cover in the 'First Steps' are BeLL, Vagrant, VirtualBox, Git/GitHub and Markdown. Though not immediately apparent, the tools we use are all unified by a common purpose. Each bit of software we use is chosen in an effort to promote collaboration. The use of Vagrant and VirtualBox mandates that each instance of BeLL is the same, making sure that all developers utilize the same system. Markdown simplifies the development process, as each piece of code must comply to its syntax, increasing clarity for all users. Finally, GitHub serves as the last piece in the puzzle, as it takes advantage of the standardized development environment that Vagrant/VirtualBox provide, as well as the streamlined syntax of Markdown to allow for easy collaboration.
 
-It can often be challenging to see the 'Big Picture,' and it’s easy to lose sight of it when focused on individual tasks. With that said, hopefully this synopsis has shed light on the importance of the process, and shown that each step is not an isolated assignment, but rather part of a greater task.
+It can often be challenging to see the 'Big Picture', and it’s easy to lose sight of it when focused on individual tasks. With that said, hopefully this synopsis has shed light on the importance of the process, and shown that each step is not an isolated assignment, but rather part of a greater task.
 
 ## Helpful Links
 
