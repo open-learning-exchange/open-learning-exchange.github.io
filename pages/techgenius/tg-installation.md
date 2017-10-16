@@ -74,7 +74,7 @@ cd ole--vagrant-vi
 vagrant up
 ```
 
-Note: Refer to the Prerequisites section of [Vagrant instructions](/vi/vi-vagrant.md) if you encountered an error while executing the command `vagrant up`
+Note: Refer to the Prerequisites section of [Vagrant instructions](#!pages/vi/vi-vagrant.md) if you encountered an error while executing the command `vagrant up`
 
 You now have a working [community BeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS.    
 It is advisable to use Firefox to access your community BeLL, so if you don't have it already on your system, you may want to download it.
