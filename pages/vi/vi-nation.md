@@ -20,9 +20,7 @@ Make sure vagrant is running and then click [here](http://127.0.0.1:5985/apps/_d
 
 ## Sync With the Nation
 
-
 In [Step 4](vi-bellapps.md#Different_Kinds_of_Updates_to_Your_Community), you did 3 kinds of updates that you receive on the community side: updates, publications, and surveys. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
-
 As you can see from the picture below, click on "Manager".
 
 ![Clicking on "Manager"](images/vi-nation-manager.png "Dashboard in your localhost")
