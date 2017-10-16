@@ -6,8 +6,7 @@
 |------------|-------------|
 |**➤ Volunteers**||
 |[mappuji](profiles/mappuji.md) (**ex-intern**)| 2017-04-29 |
-|**➤ Interns**||
-|[amanuely](profiles/amanuely.md)| 2017-10-16 |	
+|**➤ Interns**||	
 |[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 |
 |[hannahgdubin](profiles/hannahgdubin.md)| 2017-01-01 |
 |[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 2017-02-19 |
@@ -42,6 +41,7 @@
 |[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 |
 |[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 |
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
+|[amanuely](profiles/amanuely.md)| 2017-10-16 |
 
 ## Former Interns
 
