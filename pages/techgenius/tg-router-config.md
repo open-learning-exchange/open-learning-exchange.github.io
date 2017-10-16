@@ -35,7 +35,7 @@ _Via Command prompt_. Open the CMD window (press Windows button + R or search th
  
 _Via the Graphical User Interface_. Open Control Panel > Network and Sharing Center > Wi-Fi Connections (click link) > Details to get this dialogue box:
 
-![Windows GUI IP screen shot](images/wifi-gui-config.png)
+![Windows GUI IP screen shot](images/tg-wifi-gui-config.png)
 
 Click on DHCP
 
