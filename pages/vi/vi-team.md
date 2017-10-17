@@ -42,6 +42,7 @@
 |[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 |
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
 |[amanuely](profiles/amanuely.md)| 2017-10-16 |
+|[thesiege208](profiles/thesiege208.md)| 2017-10-16 |
 
 ## Former Interns
 
