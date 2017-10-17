@@ -5,11 +5,8 @@
 |**Username**|**Join Date**|
 |------------|-------------|
 |**➤ Tech Geniuses**||
-branch_cramartef
-|cramartef|12-10-17|
-
+|[cramartef](../vi/profiles/cramartef.md)|2017-10-12|
 |[MadagascarOLE](../vi/profiles/MadagascarOLE.md)|2017-10-13|
-master
 
 ## Tech Geniuses
 
