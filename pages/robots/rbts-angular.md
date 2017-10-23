@@ -34,7 +34,7 @@ This project is built with the [Angular CLI](https://cli.angular.io/), and once 
 
 ## Working on a Component
 
-Once you have the app up and running, you can start working on a component!  Feel free to post to the Gitter chat or check out the [Angular docs](https://angular.io/docs) if you need some guidance on Angular or JavaScript.  Here we'll focus on some key points you should be aware of.
+Once you have the app up and running, you can start working on a component! You can find tasks to work on [Waffle.io](https://waffle.io/ole-vi/planet). Feel free to post to the Gitter chat or check out the [Angular docs](https://angular.io/docs) if you need some guidance on Angular or JavaScript.  Here we'll focus on some key points you should be aware of.
 
 ### Keeping Things Organized
 
