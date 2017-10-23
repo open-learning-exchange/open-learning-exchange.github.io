@@ -43,6 +43,7 @@
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
 |[amanuely](profiles/amanuely.md)| 2017-10-16 |
 |[thesiege208](profiles/thesiege208.md)| 2017-10-16 |
+|[aas919](profiles/aas919.md)| 2017-10-23 |
 
 ## Former Interns
 
