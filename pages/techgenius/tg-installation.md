@@ -22,6 +22,8 @@ powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.github
 ```
 To run your community BeLL at the end of the installation, please, find the MyBeLL icon on your desktop and double click on it. It will open a Firefox browser and take you directly to your community BeLL web page.
 
+Note: If Firefox displays ```Unable to connect``` error when the MyBell icon is clicked, visit [Vagrant instructions](#!pages/vi/vi-vagrant.md) for more information on ```vagrant up```.
+
 ### Dependencies
 
 These programs will be automatically installed on your computer:
