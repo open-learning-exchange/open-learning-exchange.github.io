@@ -11,7 +11,7 @@ There are two options for installing the software:
 
 The easiest way to install the needed software to the tablets is via a USB drive. You can download the needed files directly from OLE via the links below.
 
-*  [Firefox Web Browser](http://https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKcmJVOS14WkQ5d28 "Firefox Web Browser")
+*  [Firefox Web Browser](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKcmJVOS14WkQ5d28 "Firefox Web Browser")
 *  [Adobe Flash](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKc29Xd0JueFN0TzQ "Adobe Flash")
 *  [Office Suite](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKa2UtTElTSFFTSWc "Office Suite")
 *  [OLE Take Home App](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKZzc4RDlfUTNpanc "OLE Take Hope App")
