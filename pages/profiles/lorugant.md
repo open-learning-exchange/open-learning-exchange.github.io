@@ -4,5 +4,4 @@
 ###### I am originally from 'India' but pursuing my masters in *UNC Charlotte*
 * I 
  * am
-   * in **Third** step of 10 steps total
-   
+   * in **Third** step of 10 steps total.
