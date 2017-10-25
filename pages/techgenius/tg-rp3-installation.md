@@ -1,10 +1,10 @@
-# How-To Install Planet on a Raspberry Pi 3
+# How-To Install Bell-Apps on a Raspberry Pi 3
 
 ## Introduction
 
-If you have completed [the on-boarding steps](#!pages/vi/vi-first-steps.md) as part of the Virtual Intern program then you have all of the skills and knowledge needed to complete an installation of Planet on a Raspberry Pi. 
+If you have completed [the on-boarding steps](#!pages/vi/vi-first-steps.md) as part of the Virtual Intern program then you have all of the skills and knowledge needed to complete an installation of Bell-Apps on a Raspberry Pi. 
 
-Note: Although Planet will run on any hardware, we design for the RPi as it represents the most affordable option for delivering content and services. 
+Note: Although Bell-Apps will run on any hardware, we design for the RPi as it represents the most affordable option for delivering content and services. 
 
 This installation guide is tailored for the RPi 3. It will configure the RPi to run a local Wi-Fi network that can serve content without a router. 
 
@@ -18,7 +18,7 @@ In order to complete this installation we will need a few hardware and software 
 
 * Software for burning an ISO image to an SD card. We use [etcher.io](https://etcher.io) but there are many from which to chose;
 
-* The [latest Planet build for RPi](http://dev.ole.org/treehouse-26.img.gz).
+* The [latest Bell-Apps build for RPi](http://dev.ole.org/treehouse-26.img.gz).
 
 ## Installation Steps
 
@@ -40,4 +40,4 @@ In order to complete this installation we will need a few hardware and software 
 
 6. Now place the SD card into the RPi and connect the power. The RPi will reboot three times to complete the installation process. This may take some time as it is downloading content for the first time. 
 
-You should now be able to connect to the Planet X by going to [the system login page](http://192.168.2.1:5984/apps/_design/bell/MyApp/index.html).
+You should now be able to connect to the Bell-Apps X by going to [the system login page](http://192.168.2.1:5984/apps/_design/bell/MyApp/index.html).
