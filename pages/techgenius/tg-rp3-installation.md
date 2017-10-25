@@ -2,7 +2,7 @@
 
 ## Introduction
 
-If you have completed the on-boarding steps outlined under as part of the Virtual Intern program then you have all of the skills and knowledge needed to complete an installation of Planet on a Raspberry Pi. Although Planet will run on any hardware, we design for the RPi as it represents the most affordable option for delivering content and services. 
+If you have completed [the on-boarding steps](#!pages/vi/vi-first-steps.md) as part of the Virtual Intern program then you have all of the skills and knowledge needed to complete an installation of Planet on a Raspberry Pi. Although Planet will run on any hardware, we design for the RPi as it represents the most affordable option for delivering content and services. 
 
 This installation guide is tailored for the RPi 3. It will configure the RPi to run a local Wi-Fi network that can serve content without a router. 
 
@@ -18,7 +18,7 @@ In order to complete this installation we will need a few hardware and software 
 
 * The [latest Planet build for RPi](http://dev.ole.org/treehouse-26.img.gz).
 
-## Steps
+## Installation Steps
 
 1. Burn the image to the flash memory card. This is a simple process with Etcher - select the image, select the memory card and burn the image;
 
