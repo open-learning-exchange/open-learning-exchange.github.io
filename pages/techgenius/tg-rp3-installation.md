@@ -30,14 +30,16 @@ In order to complete this installation we will need a few hardware and software 
 
 3. In order for the installation to complete we must create small text file called `autorunonce` and place it in the root directory of the SD card. 
 
+Note: There are two versions of the autorunonce file. One for the RPi 3 alone and one for the RPi 3 + Real Time Clock (RTC).
+
 	* Open any text editor (not a 1. word processing program)
 
-	* Copy and paste [script/text found here](https://gist.githubusercontent.com/dogi/3a82a35b7f4adacac46e3eac08e6d9c0/raw/85291252133bf80eafd9b29eac59ed7b9b76ab7c/autorunonce) into the file.
+	* If you have just the RPi 3: Copy and paste [script/text found here](https://gist.githubusercontent.com/dogi/3a82a35b7f4adacac46e3eac08e6d9c0/raw/85291252133bf80eafd9b29eac59ed7b9b76ab7c/autorunonce) into the file.
+
+	* If you have just the RPi 3 plus RRC: Copy and paste [script/text found here](https://gist.github.com/dogi/a3e9a0612d07436d5f7d2b3bb2051be3)
  
 	* Save with the file name autorunonce and place in the root directory of the SD card. 
 
-5. Add RTC Clock steps here?
-
-6. Now place the SD card into the RPi and connect the power. The RPi will reboot three times to complete the installation process. This may take some time as it is downloading content for the first time. 
+5. Now place the SD card into the RPi and connect the power. The RPi will reboot three times to complete the installation process. This may take some time as it is downloading content for the first time. 
 
 You should now be able to connect to the Bell-Apps X by going to [the system login page](http://192.168.2.1:5984/apps/_design/bell/MyApp/index.html).
