@@ -12,11 +12,11 @@ This installation guide is tailored for the RPi 3. It will configure the RPi to 
 
 In order to complete this installation we will need a few hardware and software components as follows:
 
-* A card reader so that your computer can access the MicroSD card
+* A microSD card reader so that your computer can access the microSD card
 
-* At least a 16GB MicroSD card. We recommend 32GB or greater
+* At least a 16GB microSD card. We recommend 32GB or greater
 
-* Software for burning image to MicroSD card. We use [Etcher](https://etcher.io), but there are many from which to chose
+* Software for burning image to microSD card. We use [Etcher](https://etcher.io), but there are many from which to chose
 
 * Unzipped [latest stable image for RPi](http://dev.ole.org/stable.img.gz)
 
@@ -24,7 +24,7 @@ In order to complete this installation we will need a few hardware and software 
 
 ## Installation Steps
 
-1. Burn the image to the MicroSD card. This is a simple process with Etcher - select the image, select the MicroSD card and burn the image;
+1. Burn the image to the microSD card. This is a simple process with Etcher - select the image, select the microSD card and burn the image;
 
 2. Once the image is completed unmount and remount the SD card so that you can view the contents. You will see a long file list as follows:
 
@@ -40,9 +40,9 @@ Note: There are two versions of the autorunonce file. One for the RPi 3 alone an
 
     * If you have **BOTH** RPi 3 **AND** RTC, copy and paste [script/text found here](https://gist.github.com/dogi/a3e9a0612d07436d5f7d2b3bb2051be3) to the file
  
-  * Save the file with name `autorunonce` and place it in the `boot` partition of the MicroSD card. 
+  * Save the file with name `autorunonce` and place it in the `boot` partition of the microSD card. 
 
-5. Unmount and remove the MicroSD card from the card reader and place it into the RPi.
+5. Unmount and remove the microSD card from the card reader and place it into the RPi.
 
 6. Connect a RJ45 network cable to the Ethernet port on the RPi.
 
