@@ -26,11 +26,11 @@ In order to complete this installation we will need a few hardware and software 
 
 1. Burn the image to the microSD card. This is a simple process with Etcher - select the image, select the microSD card and burn the image;
 
-2. Once the image is completed unmount and remount the SD card so that you can view the contents. You will see a long file list as follows:
+2. Once it's done burning, remount the microSD card if its unmounted by Etcher, so that you can view the contents in the `boot` partition. You will see a long list of files as follows:
 
   ![file list](images/tg-file-list.png)
 
-3. In order for the installation to complete we must create small text file called `autorunonce` and place it in the root directory of the SD card. 
+3. In order for the installation to complete, we must create a small text file called `autorunonce` and place it in the `boot` partition of the microSD card. 
 
 Note: There are two versions of the autorunonce file. One for the RPi 3 alone and one for the RPi 3 + Real Time Clock (RTC).
 
