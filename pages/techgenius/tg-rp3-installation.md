@@ -32,7 +32,7 @@ In order to complete this installation we will need a few hardware and software 
 
 3. In order for the installation to complete, we must create a small text file called `autorunonce` and place it in the `boot` partition of the microSD card. 
 
-Note: There are two versions of the autorunonce file. One for the RPi 3 alone and one for the RPi 3 + Real Time Clock (RTC).
+  Note: There are two versions of the autorunonce file. One for the RPi 3 alone and one for the RPi 3 + Real Time Clock (RTC).
 
   * Open any text editor (not a word processing program)
 
