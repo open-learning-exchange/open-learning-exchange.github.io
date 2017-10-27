@@ -42,14 +42,14 @@ Note: There are two versions of the autorunonce file. One for the RPi 3 alone an
  
   * Save the file with name `autorunonce` and place it in the `boot` partition of the microSD card. 
 
-5. Unmount and remove the microSD card from the card reader and place it into the RPi.
+4. Unmount and remove the microSD card from the card reader and place it into the RPi.
 
-6. Connect a RJ45 network cable to the Ethernet port on the RPi.
+5. Connect a RJ45 network cable to the Ethernet port on the RPi.
 
-7. Connect the power. 
+6. Connect the RPi to power. 
   
 Note: The RPi will download content and reboot three times to complete the installation process. The first time you boot the RPi it connects to the Nation server to download the base library content. This is a large download. It can take 5 - 15 minutes or longer depending on your internet speed. This is a one-time process. Future boots will be much faster. 
 
-6. Before we can access the new Bell-Apps, we need to connect to the local area network that was created by the installation script. Under your network settings, look for the network named "treehouse" and connect. 
+7. Before we can access the new Bell-Apps, we need to connect to the local area network that was created by the installation script. Under your network settings, look for the network named "treehouse" and connect. 
 
 Once the network connection is established, you should be able to access Bell-Apps by going to [the system login page](http://192.168.2.1:5984/apps/_design/bell/MyApp/index.html).
