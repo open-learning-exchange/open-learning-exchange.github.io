@@ -2,7 +2,7 @@
 
 ## Introduction
 
-If you have completed [the on-boarding steps](#!pages/vi/vi-first-steps.md) as part of the Virtual Intern program then you have all of the skills and knowledge needed to complete an installation of Bell-Apps on a Raspberry Pi. 
+If you have completed [the on-boarding steps](#!pages/vi/vi-first-steps.md) as part of the Virtual Intern program, then you have all of the skills and knowledge needed to complete an installation of Bell-Apps on a Raspberry Pi. 
 
 Note: Although Bell-Apps will run on any hardware, we designed it for the RPi as it represents the most affordable option for delivering content and services. 
 
@@ -10,17 +10,17 @@ This installation guide is tailored for the RPi 3. It will configure the RPi to 
 
 ## Prerequisites
 
-In order to complete this installation we will need a few hardware and software components as follows:
+In order to complete this installation, we will need a few hardware and software components as follows:
 
-* A microSD card reader so that your computer can access the microSD card
+* An internet connection and a RJ45 Ethernet cable
 
-* At least a 16GB microSD card. We recommend 32GB or greater
+* A microSD card reader
 
-* Software for burning image to microSD card. We use [Etcher](https://etcher.io), but there are many from which to chose
+* A [Class 10](https://www.sdcard.org/developers/overview/speed_class/index.html) microSD card (minimal 16GB, but we recommend 32GB or greater)
 
-* Unzipped [latest stable image for RPi](http://dev.ole.org/stable.img.gz)
+* Software for burning OS image to microSD card. We recommend [Etcher](https://etcher.io), but there are many from which to choose
 
-* An internet connection and RJ45 Ethernet cable
+* Unzipped OLE's [latest stable image for RPi](http://dev.ole.org/stable.img.gz)
 
 ## Installation Steps
 
@@ -48,8 +48,6 @@ In order to complete this installation we will need a few hardware and software 
 
 6. Connect the RPi to power. 
   
-Note: The RPi will download content and reboot three times to complete the installation process. The first time you boot the RPi it connects to the Nation server to download the base library content. This is a large download. It can take 5 - 15 minutes or longer depending on your internet speed. This is a one-time process. Future boots will be much faster. 
+  Note: The RPi will download content and reboot three times to complete the installation process. The first time you boot the RPi it connects to the Nation server to download the base library content. This is a large download. It can take 5 - 15 minutes or longer depending on your internet speed. This is a one-time process. Future boots will be much faster. 
 
-7. Before we can access the new Bell-Apps, we need to connect to the local area network that was created by the installation script. Under your network settings, look for the network named "treehouse" and connect. 
-
-Once the network connection is established, you should be able to access Bell-Apps by going to [the system login page](http://192.168.2.1:5984/apps/_design/bell/MyApp/index.html).
+7. Before we can access the new Bell-Apps, we need to connect to the wireless local area network created by the RPi. Under your network settings, look for the network named "treehouse" and connect. Once the network connection is established, you should be able to access Bell-Apps by going to [the system login page](http://192.168.2.1:5984/apps/_design/bell/MyApp/index.html).
