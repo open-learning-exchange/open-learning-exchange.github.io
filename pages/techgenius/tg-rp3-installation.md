@@ -12,6 +12,8 @@ This installation guide is tailored for the RPi 3. It will configure the RPi to 
 
 In order to complete this installation, we will need a few hardware and software components as follows:
 
+* Raspberry Pi 3 and 5V 2.4A power supply with microUSB connector
+
 * An internet connection and a RJ45 Ethernet cable
 
 * A microSD card reader
@@ -50,4 +52,4 @@ In order to complete this installation, we will need a few hardware and software
   
   Note: The RPi will download Bell-Apps, install community, create database, and reboot a few times to complete the installation. It may take 10 - 15 minutes or longer depending on your internet connection. This is a one-time process. Future boots will be much faster.
 
-7. Before we can access the new Bell-Apps, we need to connect to the wireless local area network created by the RPi. Under your network settings, look for the network named "treehouse" and connect. Once the network connection is established, you should be able to access Bell-Apps by going to [the system login page](http://192.168.2.1:5984/apps/_design/bell/MyApp/index.html).
+7. Before we can access the new Bell-Apps, you need to connect your device to the `treehouse` Wi-Fi hotspot created by the RPi. Once connected, you should be able to access Bell-Apps by going to [http://192.168.2.1:5984/apps/_design/bell/MyApp/index.html](http://192.168.2.1:5984/apps/_design/bell/MyApp/index.html).
