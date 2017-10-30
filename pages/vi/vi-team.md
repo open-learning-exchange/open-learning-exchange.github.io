@@ -44,6 +44,7 @@
 |[amanuely](profiles/amanuely.md)| 2017-10-16 |
 |[thesiege208](profiles/thesiege208.md)| 2017-10-16 |
 |[aas919](profiles/aas919.md)| 2017-10-23 |
+|[dashlorde](profiles/Dashlorde.md)| 2017-10-27 |
 
 ## Former Interns
 
