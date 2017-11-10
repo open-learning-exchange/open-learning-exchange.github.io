@@ -86,6 +86,15 @@ In the new file, please type your name, your location/time zone, and OS (includi
 
 We recommend using at least 5 different types of Markdown and to try to be as creative as possible.
 
+Here are some nice profiles which makes use of different types of Markdown
+
+[profile1](https://github.com/open-learning-exchange/open-learning-exchange.github.io/blob/master/pages/vi/profiles/RMDern.md)
+
+[profile2](https://github.com/open-learning-exchange/open-learning-exchange.github.io/blob/master/pages/vi/profiles/duongdo.md)
+
+[profile3](https://github.com/open-learning-exchange/open-learning-exchange.github.io/blob/master/pages/vi/profiles/jessica-spencer.md)
+
+[profile4](https://github.com/open-learning-exchange/open-learning-exchange.github.io/blob/master/pages/vi/profiles/prajwalajayaprakash.md)
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
   ![Edit Profile](images/vi-edit-profile.png)
