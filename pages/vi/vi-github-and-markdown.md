@@ -66,9 +66,8 @@ After you fork the repository, you will be on your page: &lt;username&gt;/open-l
 
 After you rename it, make sure to post a link to the github.io website you've just created (&lt;username&gt;.github.io) in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-> ** @dogi  please look at
-https://YourUserName.github.io and
- https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md **
+> @dogi  please look at
+https://YourUserName.github.io 
 
 Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
