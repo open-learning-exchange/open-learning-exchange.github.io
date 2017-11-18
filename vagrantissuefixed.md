@@ -1,0 +1,1 @@
+> In Troubleshooting part of Vagrant tutorial, for "no_db_found: issue", there is no need to use command "vagrant destroy", only "vagrant up" will work
