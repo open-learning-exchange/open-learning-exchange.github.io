@@ -1,0 +1,1 @@
+> Installing issues of Windows 10 can be fixed by updating VirtualBox and Vagrant to newest version
