@@ -15,6 +15,8 @@ To run the script, just copy and paste one of the lines below in a [Command prom
 ```bat
 @powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/dogi/ole--vagrant-vi/master/windows/install.ps1', 'install.ps1')" && @powershell -NoProfile -ExecutionPolicy Bypass -Command ".\install.ps1"
 ```
+> After executing the command, go to [VirtualBox](https://www.virtualbox.org/wiki/Downloads) to download and install the newest version Virtual Box, and then go to [vagrant](https://www.vagrantup.com/) to download and install the newest version vagrant
+
 #### Windows 7 and Above
 
 ```bat
