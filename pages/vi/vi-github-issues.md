@@ -111,5 +111,5 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)
-#### [Previous](vi-github-and-repositories.md)
-#### [Next](vi-nation.md)
+#### [Previous](vi-first-steps.md#Step_5_-_Keeping_Fork_Updated)
+<div style="text-align: right"><a href="vi-first-steps.md#Step_7_-_Nation_BeLL"></a></div>

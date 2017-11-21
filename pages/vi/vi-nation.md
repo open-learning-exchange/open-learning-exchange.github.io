@@ -55,4 +55,4 @@ Then, you should see a list of communities and the option to generate a report i
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_7_-_Nation_BeLL)
-#### [Previous](vi-github-issues.md)
+#### [Previous](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)

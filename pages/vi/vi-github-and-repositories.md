@@ -198,5 +198,5 @@ Note: For steps 2 and 3, developers should do this every time they begin to work
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_5_-_Keeping_Fork_Updated)
-#### [Previous](vi-bellapps.md)
-#### [Next](vi-github-issues.md)
+#### [Previous](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial)
+<div style="text-align: right"><a href="vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial">Next</a></div>
