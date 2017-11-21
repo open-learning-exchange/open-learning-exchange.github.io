@@ -60,3 +60,4 @@ Try to be as specific as possible, and include screen shots when necessary.
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial)
+#### [Previous](vi-github-and-markdown.md) ####[Next](vi-github-and-repositories.md)
