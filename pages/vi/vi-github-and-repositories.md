@@ -198,4 +198,5 @@ Note: For steps 2 and 3, developers should do this every time they begin to work
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_5_-_Keeping_Fork_Updated)
-#### [Previous](vi-bellapps.md) ####[Next](vi-github-issues.md)
+#### [Previous](vi-bellapps.md)
+#### [Next](vi-github-issues.md)
