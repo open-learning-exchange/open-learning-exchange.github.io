@@ -60,5 +60,4 @@ Then, post to the Gitter chat the screenshot you took earlier, so an admin can a
 Your registration request will be accepted from the nation side (this may take a day or two depending on when dogi sees it). After this happens, once you are logged in and online, you will see the following message.
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
-#### [Previous](./techgenis/tg-installation.md)
 #### [Next](vi-vagrant.md)
