@@ -123,4 +123,4 @@ Make sure to include a rawgit link to your page in your pull request.
 
 #### Return to [First Steps](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)
 #### [Previous](vi-first-steps.md#Step_2_-_Vagrant_Tutorial)
-<div style="text-align: right"><a href="vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial"></a></div>
+<div style="text-align: right"><a href="vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial">Next</a></div>
