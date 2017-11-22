@@ -80,7 +80,7 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 ![New Branch](images/vi-new-branch.png)
 
- To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
+ To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
@@ -90,7 +90,7 @@ If you need to edit your file again, just click the pencil icon to edit (as show
 
   ![Edit Profile](images/vi-edit-profile.png)
 
-Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/profiles/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
+Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/profiles/vi/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
 **NOTE**: If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 to reload the page with cache cleared.
 
@@ -108,7 +108,7 @@ Often there will be some feedback from the reviewer at this point for you to add
 
 After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/profiles). Be creative.  
+**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/vi/pages/profiles). Be creative.  
 Make sure to include a rawgit link to your page in your pull request.
 
 ## Useful Links
@@ -122,3 +122,4 @@ Make sure to include a rawgit link to your page in your pull request.
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)
+<div style="float: left"><a href="vi-first-steps.md#Step_2_-_Vagrant_Tutorial">Previous</a></div><div style="float: right"><a href="vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial">Next</a></div>

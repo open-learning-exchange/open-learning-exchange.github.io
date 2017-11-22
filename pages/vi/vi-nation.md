@@ -20,7 +20,7 @@ Make sure vagrant is running and then click [here](http://127.0.0.1:5985/apps/_d
 
 ## Sync With the Nation
 
-In [Step 4](vi-bellapps.md#Different_Kinds_of_Updates_to_Your_Community), you did 3 kinds of updates that you receive on the community side: updates, publications, and surveys. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
+In [Step 4](vi-bellapps.md#Different_Kinds_of_Updates_to_Your_Community), you did 2 kinds of updates that you receive on the community side: updates and publications. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
 
 As you can see from the picture below, click on "Manager".
 
@@ -55,3 +55,4 @@ Then, you should see a list of communities and the option to generate a report i
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_7_-_Nation_BeLL)
+#### [Previous](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)
