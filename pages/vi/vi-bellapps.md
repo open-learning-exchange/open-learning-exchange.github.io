@@ -60,5 +60,4 @@ Try to be as specific as possible, and include screen shots when necessary.
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial)
-#### [Previous](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)
-<div style="text-align: right"><a href="vi-first-steps.md#Step_5_-_Keeping_Fork_Updated">Next</a></div>
+<div style="text-align: left"><a href="vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial">Previous</a></div><div style="text-align: right"><a href="vi-first-steps.md#Step_5_-_Keeping_Fork_Updated">Next</a></div>
