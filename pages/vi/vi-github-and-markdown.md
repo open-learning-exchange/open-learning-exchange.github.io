@@ -66,7 +66,6 @@ After you fork the repository, you will be on your page: &lt;username&gt;/open-l
 
 After you rename it, make sure to post a link to the github.io website you've just created (&lt;username&gt;.github.io) in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-![Example of github.io page](images/vi-example-githubio.png)
 
 Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
@@ -80,12 +79,21 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 ![New Branch](images/vi-new-branch.png)
 
- To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
+ To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
 We recommend using at least 5 different types of Markdown and to try to be as creative as possible.
 
+Here are some nice profiles which makes use of different types of Markdown
+
+[profile1](https://github.com/open-learning-exchange/open-learning-exchange.github.io/blob/master/pages/vi/profiles/RMDern.md)
+
+[profile2](https://github.com/open-learning-exchange/open-learning-exchange.github.io/blob/master/pages/vi/profiles/duongdo.md)
+
+[profile3](https://github.com/open-learning-exchange/open-learning-exchange.github.io/blob/master/pages/vi/profiles/jessica-spencer.md)
+
+[profile4](https://github.com/open-learning-exchange/open-learning-exchange.github.io/blob/master/pages/vi/profiles/prajwalajayaprakash.md)
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
   ![Edit Profile](images/vi-edit-profile.png)
@@ -108,7 +116,7 @@ Often there will be some feedback from the reviewer at this point for you to add
 
 After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/profiles). Be creative.  
+**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/vi/profiles). Be creative.  
 Make sure to include a rawgit link to your page in your pull request.
 
 ## Useful Links
