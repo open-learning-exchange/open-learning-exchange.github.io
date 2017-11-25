@@ -110,3 +110,8 @@ Here are some links to some free courses which will help you learn more about Pr
 ## SSL
 
 WIP
+
+## Deployment with Docker
+
+We are using Docker container for our deployment both for nation and community (in field), and we also do effort to containerize (dockerize) another educational apps that can run on raspberry pi to increase usefulness of our platform. We provide Docker container both for development and deployment. A full documentationa about docker can be accessed here in [Angular and Docker love story]()
+
