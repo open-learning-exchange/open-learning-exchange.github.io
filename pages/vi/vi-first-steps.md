@@ -27,7 +27,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 0 - Introductory Steps
 
-1. Send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org.
+1. Send us your resume again (along with a short description of yourself and what you would like to be called) to [Virtual Intern](mailto:vi@ole.org).
 
 2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leomaxi) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. Look for the 'Watch' button at the top right of the page when you are in a repository.  Also follow each other to see what others in the group are doing.
 
