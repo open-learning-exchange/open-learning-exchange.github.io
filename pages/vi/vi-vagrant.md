@@ -168,3 +168,4 @@ or not commonly used. To see all subcommands, run the command
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_2_-_Vagrant_Tutorial)
+#### [Next](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)
