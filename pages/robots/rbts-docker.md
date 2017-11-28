@@ -21,6 +21,7 @@ Most of us running x86 based machine to do daily computing. However in productio
 Because the versatile nature of Docker technology, we provide Docker-based development environment for developer who wants to contribute to OLE's Planet development.
 
 ### How to use it
+An overview about how to use it is available in the planet repo [here](https://github.com/ole-vi/planet/blob/master/docker/README.md).
 
 ### How it works
 
