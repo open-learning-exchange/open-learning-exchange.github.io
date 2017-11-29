@@ -11,4 +11,4 @@
 
 *Github*- https://github.com/bani890
 
-**I am currently pursuing my masters from Wilmington University. I will be graduating in 2018 May. I worked as a Application Developer before and I am aquinted 
+I am currently pursuing my masters from Wilmington University. I will be graduating in 2018 May. I worked as a Application Developer before and I am acquainted with front-end and back-end technologies like CSS, HTML, Bootstrap, Angular js, Node js. It will be a great pleasure to work with you!! 
