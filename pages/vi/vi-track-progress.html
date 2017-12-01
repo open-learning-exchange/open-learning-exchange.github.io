@@ -69,7 +69,7 @@ var request = new XMLHttpRequest(); // global var
 		console.log(object)
 	
 
-if(user == "" || user == null) 	{	} else {
+if(!(user == "" || user == null)) {
 // Initialize a request
 request.open('get', object)
 request.send()
@@ -91,7 +91,7 @@ request.send()
 		console.log(object)
 	
 
-if(user == "" || user == null) 	{	} else {
+if(!(user == "" || user == null)) {
 // Initialize a request
 request.open('get', object)
 request.send()
@@ -111,7 +111,7 @@ request.send()
 		console.log(object)
 		//location.href =  object
 
-if(user == "" || user == null) 	{	} else {
+if(!(user == "" || user == null)) {
 // Initialize a request
 request.open('get', object)
 request.send()
