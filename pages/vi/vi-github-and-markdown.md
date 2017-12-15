@@ -39,8 +39,8 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 * [Find and fork the correct repository](#Find_and_fork_the_correct_repository)
 * [Go to Settings and rename your repository](#Go_to_Settings_and_rename_your_repository)
 * [Post a link to your repository in chat](#Post_a_link_to_your_repository_in_chat)
-* [Create a new file as your personal MDwiki page and commit your changes](#Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
-* [Open a pull request](#Open_a_pull_request)
+* [Create a new file as your personal MDwiki page and commit your changes](#Create_a_new_file_as_your_personal_MD_Wiki_page_and_commit_your_changes)
+* [Open a pull request](#Open_Pull_Request)
 
 ### Login to Github with your username and password
 
