@@ -94,7 +94,7 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 
 **NOTE**: If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 to reload the page with cache cleared.
 
-### Open a pull Request
+### Open Pull Request
 
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.   
 
