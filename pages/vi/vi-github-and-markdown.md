@@ -40,7 +40,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 * [Go to Settings and rename your repository](#Go_to_Settings_and_rename_your_repository)
 * [Post a link to your repository in chat](#Post_a_link_to_your_repository_in_chat)
 * [Create a new file as your personal MDwiki page and commit your changes](#Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
-* [Open a pull request](#Open_a_pull_Request)
+* [Open a pull request](#Open_a_pull_request)
 
 ### Login to Github with your username and password
 
@@ -74,7 +74,7 @@ Don't worry if you see a **404** when you access the link, it will take a while 
 
 Please, make sure to ALWAYS work on your own personal account via forking and pull requests.
 
-### Create a new file as your personal MD Wiki page and commit your changes
+### Create a new file as your personal MDwiki page and commit your changes
 
  Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
 
@@ -94,7 +94,7 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 
 **NOTE**: If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 to reload the page with cache cleared.
 
-### Open Pull Request
+### Open a pull request
 
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.   
 
