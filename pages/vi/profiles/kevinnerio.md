@@ -11,4 +11,4 @@ I am Kevin Nerio a Los Angeles native finishing my last semester at the Californ
   * CSS
   * SQL
 
-[LinkedIN](https://www.linkedin.com/in/kevin-nerio)
+[My LinkedIN Profile](https://www.linkedin.com/in/kevin-nerio)
