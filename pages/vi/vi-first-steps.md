@@ -8,7 +8,7 @@ If you are selected for the internship after completing the steps, you will be o
 
 Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
-**NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found [here](https://www.indeed.com/jobs?q=%22virtual%20remote%20software%20engineer%20intern%22&l=Cambridge%2C%20MA). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](vi-chat.md)!
+**NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found [here](http://open-learning-exchange.github.io/#!pages/vi/vi-faq.md). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](vi-chat.md)!
 
 # The Steps
 
