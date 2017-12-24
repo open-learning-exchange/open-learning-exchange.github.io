@@ -1,8 +1,8 @@
 # Kevin Nerio | CSULB Senior | Web Developer
 ### Los Angeles | Mac OS High Sierra 
 
-I am originally from Los Angeles and I grew up playing video games. This lead to my current interest in understanding everything that goes into creating software applications. 
-That is why I a currently looking to intern as a software engineer. 
+I am originally from Los Angeles and I grew up playing video games. This led to my current interest in understanding everything that goes into creating software & applications. 
+That is why I am currently looking to intern as a software engineer. 
 
 | Favorite Dessert |
 |------------------|
