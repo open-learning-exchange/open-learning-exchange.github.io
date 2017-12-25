@@ -8,4 +8,4 @@ I really enjoy programing in almost any language, but I primarily specialize in 
 ### Languages:
     Java, C, C++, XML, HTML, SQL, CSS.
 ### IDE:
-    Eclipse, Visual Studio
+    Python IDE, Eclipse, Visual Studio
