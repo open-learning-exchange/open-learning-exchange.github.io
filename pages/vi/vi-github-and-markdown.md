@@ -84,8 +84,6 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
-We recommend using at least 5 different types of Markdown and to try to be as creative as possible.
-
 We recommend using at least 5 different types of Markdown elements and to try to be as creative as possible. Some good examples of profiles are:
 - [Profile 1](profiles/Loshma93.md) links
 - [Profile 2](profiles/i5o.md) picture
