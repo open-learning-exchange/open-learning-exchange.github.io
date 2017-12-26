@@ -46,6 +46,7 @@
 |[aas919](profiles/aas919.md)| 2017-10-23 |
 |[dashlorde](profiles/Dashlorde.md)| 2017-10-27 |
 |[yaoxing1990](profiles/yaoxing1990.md)| 2017-12-06 |
+|[lorugant](profiles/lorugant.md)|2017-12-23|
 
 ## Former Interns
 
