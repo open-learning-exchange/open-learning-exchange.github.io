@@ -88,11 +88,11 @@ We recommend using at least 5 different types of Markdown and to try to be as cr
 
 +Please refer to the following links of profiles
  +
- +[Profile 1](https://rawgit.com/open-learning-exchange/open-learning-exchange.github.io/master/#!pages/vi/profiles/Loshma93.md.md)
+ +[Profile 1](profiles/Loshma93.md.md)
  +
- +[Profile 2](https://rawgit.com/open-learning-exchange/open-learning-exchange.github.io/master/#!pages/vi/profiles/i5o.md)
+ +[Profile 2](profiles/i5o.md)
  +
- +[Profile 3](https://rawgit.com/open-learning-exchange/open-learning-exchange.github.io/master/#!pages/vi/profiles/paulbert.md)
+ +[Profile 3](profiles/paulbert.md)
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
