@@ -87,7 +87,7 @@ In the new file, please type your name, your location/time zone, and OS (includi
 We recommend using at least 5 different types of Markdown and to try to be as creative as possible.
 
 We recommend using at least 5 different types of Markdown elements and to try to be as creative as possible. Some good examples of profiles are:
-- [Profile 1](profiles/Loshma93.md.md) links
+- [Profile 1](profiles/Loshma93.md) links
 - [Profile 2](profiles/i5o.md) picture
 - [Profile 3](profiles/paulbert.md) lists
 
