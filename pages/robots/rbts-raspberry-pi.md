@@ -36,13 +36,7 @@ So far we are working on creating a seamless experience for the image, meaning w
 
 There is always something to be done. Check the [GitHub issues](https://github.com/ole-vi/treehouse-builder/issues) for treehouse-builder to see what needs to be done or [waffle.io](https://waffle.io/ole-vi/treehouse-builder). Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go through the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on gitter.
 
-Since we are customizing the image, we would like to access it without using password everytime. In order to do that, [our implementation](https://github.com/ole-vi/treehouse-builder/blob/master/get_ssh_keys.py) requires you to have a SSH key in your GitHub account. Please follow the steps under [generating a new SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#generating-a-new-ssh-key) if you don't have one already.
-
-After you are done with generation of the key, the next step would be adding the key to your github account. So follow the steps from [here](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/).
-
-After the generation of SSH keys and adding it to your account, you can test your ssh connection by following the steps provided [here](https://help.github.com/articles/testing-your-ssh-connection/).
-
-Note: Please check if all the steps have been performed as per [here](https://help.github.com/articles/connecting-to-github-with-ssh/). Also please check in your github account by going into settings->SSH and GPG Keys. You should be able to see your SSH key associated with the email address you created the key with.
+Since we are customizing the image, we would like to access it without using password everytime. In order to do that, [our implementation](https://github.com/ole-vi/treehouse-builder/blob/master/get_ssh_keys.py) requires you to have a [SSH key in your GitHub account] (https://github.com/settings/keys). If you don't have one for the computer your are working on, please follow [the guide on GitHub Help](https://help.github.com/articles/connecting-to-github-with-ssh/) and return here when you are finished.
 
 After you are done generating and adding SSH keys, clone the treehouse builder with SSH by following the command,
 ```sh
