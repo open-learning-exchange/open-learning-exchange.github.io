@@ -74,7 +74,7 @@ Cross verify the above displayed key on terminal with typing the following comma
 cat ~/.ssh/id_rsa.pub
 ```
 
-Note: Please check if the two keys are the same and proceed with accessing the raspberry pi. On the next release, your key will be a part of it.
+Note: Please check if the two keys are the same and proceed with accessing the raspberry pi. On the next [release](http://dev.ole.org), your key will be a part of it.
 
 ## Brief Rundown of Treehouse-Builder
 
