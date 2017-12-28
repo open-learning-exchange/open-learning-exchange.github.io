@@ -45,24 +45,38 @@ After the generation of SSH keys and adding it to your account, you can test you
 Note: Please check if all the steps have been performed as per [here](https://help.github.com/articles/connecting-to-github-with-ssh/). Also please check in your github account by going into settings->SSH and GPG Keys. You should be able to see your SSH key associated with the email address you created the key with.
 
 After you are done generating and adding SSH keys, clone the treehouse builder with SSH by following the command,
-> git clone git@github.com:ole-vi|treehouse-builder.git
+```sh
+git clone git@github.com:ole-vi|treehouse-builder.git
+```
 
 After you are done cloning, go to the folder where treehouse-builder is located and create a new branch as you created previously and push.
-> git push --set-upstream origin "name of the branch you created"
+```sh
+git push --set-upstream origin "name of the branch you created"
+```
 
 Then, check if the key is present in get_ssh_key.py with the help of running the command below,
-> ./get_ssh_keys.py
+```sh
+./get_ssh_keys.py
+```
 
 Type the following command to view the files present,
-> less authorized_keys
+```sh
+less authorized_keys
+```
 
 To view your SSH key in the command line with the help of a parameter, type the following
-> cat authorized_keys|grep "enter a part of email address you generated the key with"
+```sh
+cat authorized_keys|grep <enter a part of email address you generated the key with>
+```
 
 Cross verify the above displayed key on terminal with typing the following command, 
-> cat ~/.ssh/id_rsa.pub
+```sh
+cat ~/.ssh/id_rsa.pub
+```
 
 Note: Please check if the two keys are the same and proceed with accessing the raspberry pi.
+
+
 
 ## Brief Rundown of Treehouse-Builder
 
