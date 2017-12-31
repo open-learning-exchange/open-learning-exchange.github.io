@@ -7,7 +7,7 @@
 <p>Currently pursuing Master's in Information Techonolgy at University of North Carolina at Charlotte</p>
 <p>I am always eager to learn new technologies.</p>
 
-<h3 style="background-color:blue">Some of my skills:</h3>
+<h3>Some of my skills:</h3>
 <ul>
   <li>C</li>
   <li>UNIX</li>
