@@ -10,5 +10,5 @@ I am always eager to learn new technologies.
 * JavaScript
 
 ### More info:
-[LinkedIn]("https://linkedin.com/in/katragadda-harika-a0340758/")
+[LinkedIn](https://www.linkedin.com/in/kyle-mathias-5b837958/)
 
