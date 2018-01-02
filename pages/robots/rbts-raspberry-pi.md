@@ -43,8 +43,8 @@ After you are done generating and adding SSH keys, clone the treehouse-builder w
 git clone git@github.com:ole-vi/treehouse-builder.git
 ```
 
-After you are done cloning, go to the folder where treehouse-builder is located and create a new branch as you created previously.
-Then, check if the key is present in get_ssh_key.py with the help of running the command below,
+After you are done cloning, go to the folder where treehouse-builder is located.
+Check if the key is present in get_ssh_key.py with the help of running the command below,
 ```sh
 ./get_ssh_keys.py
 ```
