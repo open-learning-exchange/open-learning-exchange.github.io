@@ -54,9 +54,6 @@ grep <your GitHub username> authorized_keys
 
 # compare if above displayed key is the same as the one on your machine
 cat ~/.ssh/id_rsa.pub
-
-# remove the authorized_keys file so our master branch is clean
-rm authorized_keys
 ```
 
 Note: On the next [release](http://dev.ole.org), your key will be in the image.
