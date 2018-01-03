@@ -10,5 +10,5 @@
 4. I am currently trying to get my Associates degree in Santa Fe Communinty College
 * This is my last year here!
 
-This is a moose
-![JK](https://www.nps.gov/lacl/learn/nature/images/Moose-page_-Image-w-cred-cap_-1200w_-Bull-Moose_2.jpg)
+This is me
+![](https://gyazo.com/22174d3e415a199eede1ee1ecea49f06)
