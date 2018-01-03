@@ -38,7 +38,7 @@ There is always something to be done. Check the [GitHub issues](https://github.c
 
 Since we are customizing the image, we would like to access it without using password everytime. In order to do that, [our implementation](https://github.com/ole-vi/treehouse-builder/blob/master/get_ssh_keys.py) requires you to set your membership to be public at [Open Learning Exchange](https://github.com/orgs/open-learning-exchange/people) and have a [SSH key in your GitHub account](https://github.com/settings/keys). If you don't have one for the computer your are working on, please follow [the guide on GitHub Help](https://help.github.com/articles/connecting-to-github-with-ssh/) and return here when you are finished.
 
-After you are done generating and adding SSH keys, let's double-check if it will be included in the next release
+After you are done generating and adding SSH keys, let's double-check if your key will be included in the next release
 ```sh
 # clone treehouse-builder with SSH
 git clone git@github.com:ole-vi/treehouse-builder.git
