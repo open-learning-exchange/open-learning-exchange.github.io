@@ -11,4 +11,4 @@
 * This is my last year here!
 
 This is me
-![image](C:\Users\Terrence\Pictures\me.jpg)
+![hi](C:\Users\Terrence\Desktop\me.jpg)
