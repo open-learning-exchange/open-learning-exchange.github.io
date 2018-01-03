@@ -11,4 +11,5 @@
 * This is my last year here!
 
 This is me
-![](https://gyazo.com/22174d3e415a199eede1ee1ecea49f06)
+---
+[![https://gyazo.com/22174d3e415a199eede1ee1ecea49f06](https://i.gyazo.com/22174d3e415a199eede1ee1ecea49f06.png)](https://gyazo.com/22174d3e415a199eede1ee1ecea49f06)
