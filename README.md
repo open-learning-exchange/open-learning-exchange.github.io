@@ -1,24 +1,17 @@
 What is this?
 =============
-
 See what this is all about: [http://open-learning-exchange.github.io/](http://open-learning-exchange.github.io/).
-
 How to Contribute
 =================
-
 First things first
 ------------------
-
 Learn [Markdown](https://help.github.com/articles/github-flavored-markdown)! Then check out MDwiki's [quick start](http://dynalon.github.io/mdwiki/#!quickstart.md) 
 
 Whenever you feel stuck, go to [MDwiki's own site](http://mdwiki.info) for further information.
 
-
 One Wiki Only? Fork It.
 -----------------------
-
 First off fork this repo and call it something like `<MyProject>-wiki`.
-
 Multiple Wikis? Clone It.
 -------------------------
 
@@ -111,7 +104,6 @@ Linux
 -----
 
 You can use [Prax](http://ysbaddaden.github.io/prax/). Prax is a pure ruby alternative to Pow!! that runs on GNU/Linux.
-
 
 For Developers
 ==============
