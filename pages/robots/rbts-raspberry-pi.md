@@ -49,8 +49,8 @@ cd treehouse-builder
 # run get_ssh_keys.py to get our authorized_keys file
 ./get_ssh_keys.py
 
-# display only your ssh key from authorized_keys
-cat authorized_keys|grep <your GitHub username>
+# grep your ssh key from authorized_keys
+grep <your GitHub username> authorized_keys
 
 # compare if above displayed key is the same as the one on your machine
 cat ~/.ssh/id_rsa.pub
