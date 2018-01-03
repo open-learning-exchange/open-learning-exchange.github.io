@@ -38,22 +38,28 @@ There is always something to be done. Check the [GitHub issues](https://github.c
 
 Since we are customizing the image, we would like to access it without using password everytime. In order to do that, [our implementation](https://github.com/ole-vi/treehouse-builder/blob/master/get_ssh_keys.py) requires you to set your membership to be public at [Open Learning Exchange](https://github.com/orgs/open-learning-exchange/people) and have a [SSH key in your GitHub account](https://github.com/settings/keys). If you don't have one for the computer your are working on, please follow [the guide on GitHub Help](https://help.github.com/articles/connecting-to-github-with-ssh/) and return here when you are finished.
 
-After you are done generating and adding SSH keys, clone the treehouse-builder with SSH by following the command,
+After you are done generating and adding SSH keys, let's double-check if it will be included in the next release
 ```sh
+# clone treehouse-builder with SSH
 git clone git@github.com:ole-vi/treehouse-builder.git
-```
 
-After you are done cloning, go to the folder where treehouse-builder is located.
-Check if the key is present in get_ssh_key.py with the help of running the command below,
-```sh
+# go to the folder where treehouse-builder is located
+cd treehouse-builder
+
+# run get_ssh_keys.py to get our authorized_keys file
 ./get_ssh_keys.py
-```
-Verify the above displayed key on terminal with typing the following command, 
-```sh
+
+# display only your ssh key from authorized_keys
+cat authorized_keys|grep <your GitHub username>
+
+# compare if above displayed key is the same as the one on your machine
 cat ~/.ssh/id_rsa.pub
+
+# remove the authorized_keys file so our master branch is clean
+rm authorized_keys
 ```
 
-Note: Proceed with accessing the raspberry pi. On the next [release](http://dev.ole.org), your key will be a part of it.
+Note: On the next [release](http://dev.ole.org), your key will be in the image.
 
 ## Brief Rundown of Treehouse-Builder
 
