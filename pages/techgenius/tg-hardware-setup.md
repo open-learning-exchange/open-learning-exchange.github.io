@@ -11,7 +11,7 @@ This manual assumes the reader possess some basic background on the Planet and t
 
 ## How do I Connect the Planet Hardware?
 
-The Planet system has two hardware configurations: Raspberry Pi and router configuration, and
+The Planet system has two hardware configurations: Raspberry Pi and router configuration.
 
 **Background** What is a Raspberry Pi? A Raspberry Pi (also referred to as an RPi) is low-cost and credit card-sized computer that stores data via microSD card. RPis are often used to teach people about computer basics and computer programming. There are also many higher-level applications that utilize the RPi due to low costs and considerable capabilities. In our case, it’s a very easy, small, cheap, and portable tool for our library. Check out [this video](https://www.youtube.com/watch?v=_cviTxswW8c) to learn more about the RPi.
 
