@@ -2,7 +2,7 @@
 
 ## The following list describes some things about me
 1. I live in Gainesville, FL
-* I am of the Eastern Standard Time zone (EST)
+  * I am of the Eastern Standard Time zone (EST)
 2. I use Windows as my operating system
   * Windows 10 to be exact
 3. I like to try new things
