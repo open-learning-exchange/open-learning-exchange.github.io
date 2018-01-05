@@ -152,11 +152,12 @@ or not commonly used. To see all subcommands, run the command
 
 ## Troubleshooting
 
-1. When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
-
-For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+1. When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual. For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
 
 2. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html in step 4, you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
+
+3. When you run ```vagrant up``` from command prompt on windows, you might get the following error :
+"The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run ```vagrant up```. For more information visit [issue](https://github.com/hashicorp/vagrant/issues/6788)
 
 ## Useful  Links
 

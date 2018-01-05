@@ -12,7 +12,7 @@ It is understood that tech geniuses have completed [the First Steps training exe
 
 ## Step 2 | Vagrant Environment Installation Confirmation
 
-If you have completed the the installation guide then you will find `c:/users/USERNAME/ole--vagrant-vi` under your file system. The `ole--vagrant-vi` directory indicates that this community is attached to the development environment that OLE uses for training and to develop, test, and deploy new features.
+If you have completed the installation guide, then you will find `c:\users\USERNAME\ole--vagrant-vi` (In Windows) or `Users/USERNAME/ole--vagrant-vi` (In Mac) or `/home/USERNAME/ole--vagrant-vi` (In Ubuntu) under your file system. The `ole--vagrant-vi` directory indicates that this community is attached to the development environment that OLE uses for training and to develop, test, and deploy new features.
 
 In the steps outlined below we will build a community that is attached to the Madagascar Nation. To achieve this we will do the following:
 

@@ -6,9 +6,9 @@
 
 [gimmick:theme (inverse: false)](bootstrap)
 
-[Translators]()
+[Translators]() <!-- Translation Support Program -->
 
-  * [**Introduction**](pages/techgenius/tr-introduction.md)
+  * [**Introduction**](pages/translators/la-introduction.md)
   - - - -
   * [BeLL](https://crowdin.com/project/open-learning-exchange/invite)
   * [Planet](https://crowdin.com/project/ole-planet/invite)
@@ -36,7 +36,8 @@
   * [Quick Start Setup](pages/techgenius/tg-hardware-setup.md)
   * [Router / LAN Configuration](pages/techgenius/tg-router-config.md)
   * [Tablet Configuration](pages/techgenius/tg-tablet-config.md)
-  * [Community Quick Install / Windows](pages/techgenius/tg-windows-install.md)
+  * [Community Installation](pages/techgenius/tg-install.md)
+  * [Community Installation / RPi3](pages/techgenius/tg-rp3-installation.md)
   * [Manual / Full Installation](pages/techgenius/tg-installation.md)
   * [Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
   - - - -

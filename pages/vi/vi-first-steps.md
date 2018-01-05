@@ -8,7 +8,7 @@ If you are selected for the internship after completing the steps, you will be o
 
 Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
-**NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found [here](https://www.indeed.com/jobs?q=%22virtual%20remote%20software%20engineer%20intern%22&l=Cambridge%2C%20MA). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](vi-chat.md)!
+**NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found [here](http://open-learning-exchange.github.io/#!pages/vi/vi-faq.md). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](vi-chat.md)!
 
 # The Steps
 
@@ -27,9 +27,9 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 0 - Introductory Steps
 
-1. Send us your resume again (along with a short description of yourself and what you would like to be called) to vi@ole.org.
+1. Send us your resume again (along with a short description of yourself and what you would like to be called) to [vi@ole.org](mailto:vi@ole.org).
 
-2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leonardmensah) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. Look for the 'Watch' button at the top right of the page when you are in a repository.  Also follow each other to see what others in the group are doing.
+2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leomaxi) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we "Watch" organization repositories and "Follow" individuals. Look for the 'Watch' button at the top right of the page when you are in a repository.  Also follow each other to see what others in the group are doing.
 
 ![Watch Screen Shot](images/vi-watch.png)
 
@@ -49,7 +49,7 @@ Review these [Vagrant instructions](vi-vagrant.md) to ensure that you have fully
 
 ## Step 3 - Markdown and Fork Tutorial
 
-Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/profiles/&lt;username&gt;.md).
+Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/vi/profiles/&lt;username&gt;.md).
 
 * Once you complete the Step 3 you will have:
     * 1 Pull request made
@@ -81,7 +81,7 @@ Follow the directions under the [Nation BeLL tab](vi-nation.md).
 
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue. You will follow the same steps as in [GitHub Issues](vi-github-issues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
 
-Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests, have them approved by at least three others and merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat and wait for at least three others to approve it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
+Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition, and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! (please refer to [#1108](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1108)). You must have made your pull requests, have them approved by at least three others and merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat and wait for at least three others to approve it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 
 **NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the title of your pull request.
 
@@ -104,4 +104,5 @@ Lastly, once you have completed all other steps, add yourself to the virtual int
 
 After the pull request, message in the gitter chat or message dogi to let him know you are done so that he can set up a meeting and add you to the team as soon as possible.
 
-Once you have been added to the team, read through the [intern orientation document](vi-intern-orientation.md).
+Once you have been added to the team, read through the [intern orientation document](../robots/rbts-intern-orientation.md).
+

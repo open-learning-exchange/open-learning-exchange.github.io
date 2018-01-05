@@ -12,7 +12,7 @@ In [Step 1 - BeLL Installation - Configuration](vi-configurations.md) you regist
 
 There should be constant communication between the nation and the communities. While it is not necessary for remote communities in the field, it is ideal for our goals of "improving the software and testing the increasing forms of communication and feedback between the nation and the communities". This communication takes the form of a syncing process from the community side, where you select material to send to the nation.
 
-Click [here](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) to access your Community BeLL.
+Make sure vagrant is running and then click [here](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) to access your Community BeLL.
 
 **NOTE**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user on your community. Therefore, create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it a password that you actually use, as other people logged in as admin may be able to see it-- you won't need the password in the future so don't worry about having to remember or save it after this one time). Then, login and double-check that you're listed under Members. Then, log out and log back in with your admin account. Now that your community has a user, you can sync with the nation.
 
@@ -20,7 +20,7 @@ Click [here](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) to access
 
 ## Sync With the Nation
 
-In [Step 4](vi-bell-apps.md#Different_Kinds_of_Updates_to_Your_Community), you did 3 kinds of updates that you receive on the community side: updates, publications, and surveys. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
+In [Step 4](vi-bellapps.md#Different_Kinds_of_Updates_to_Your_Community), you did 3 kinds of updates that you receive on the community side: updates, publications, and surveys. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
 
 As you can see from the picture below, click on "Manager".
 

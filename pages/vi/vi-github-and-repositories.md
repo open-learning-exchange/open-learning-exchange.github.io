@@ -18,11 +18,13 @@ As previously mentioned, you fork a repository to work on your own GitHub accoun
 
 This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.
 
-* [Clone Your GitHub Repository username.github.io](#Clone_Your_GitHub_Repository_username.github.io)
-* [Clone with HTTPS or Use SSH?](#Clone_with_HTTPS_or_Use_SSH?) 
-* [Read the Explanation to Understand Repositories and Syncing Process](#Explanation_About_Repositories_and_Syncing_Process)
-* [Configure a Remote Repository for your fork](#Configure_a_Remote_Repository_For_Your_Fork)
-* [Sync Your fork](#Sync_Your_Fork)
+
+
+* Clone Your GitHub Repository username.github.io
+* Clone_with_HTTPS_or_Use_SSH?
+* Read the Explanation to Understand Repositories and Syncing Process
+* Configure a Remote Repository for your fork
+* Sync Your fork
 
 ### Clone Your GitHub Repository username.github.io
 
@@ -30,7 +32,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 
 ![GitHub Clone URL](images/vi-github-clone-url.png)
 
-Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).
+Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you  `cd  ` into your `<username>.github.io` you can see different files which you will be working on during your internship.
 
 ##### Clone with HTTPS or Use SSH?
 

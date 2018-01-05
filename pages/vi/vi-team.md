@@ -41,6 +41,12 @@
 |[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 |
 |[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 |
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
+|[amanuely](profiles/amanuely.md)| 2017-10-16 |
+|[thesiege208](profiles/thesiege208.md)| 2017-10-16 |
+|[aas919](profiles/aas919.md)| 2017-10-23 |
+|[dashlorde](profiles/Dashlorde.md)| 2017-10-27 |
+|[yaoxing1990](profiles/yaoxing1990.md)| 2017-12-06 |
+|[lorugant](profiles/lorugant.md)|2017-12-23|
 
 ## Former Interns
 
