@@ -1,6 +1,6 @@
 # Nguyen Bui (Jack)
-Location: San Jose, California (Time Zone: Pacific Time Zone), U.S.A            My Spiritual Animal
-Phone: (727) 276-5984                                                           ![img](https://drive.google.com/file/d/1dc56MS9V5q5OZXBBzQg34qvadlRLkYnS/view?usp=sharing)
+Location: San Jose, California (Time Zone: Pacific Time Zone), U.S.A            My Spiritual Animal  
+Phone: (727) 276-5984                                                           ![img](https://drive.google.com/file/d/1dc56MS9V5q5OZXBBzQg34qvadlRLkYnS/view?usp=sharing)  
 Email: nguyenbui1996@gmail.com  
 
 ## Operating System
