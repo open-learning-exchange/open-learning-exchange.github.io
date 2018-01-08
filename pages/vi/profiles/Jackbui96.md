@@ -21,30 +21,30 @@ Fun fact: I am a huge fanboy of 9gag and meme.
 
 If you have any feedback, please feel free to contact me at: nguyenbui1996@gmail.com
 
-### Skills:
+## Skills:
 * Programming Language: Java, PHP
 * Experience working with Firebase, MySQL.
 * Experience working with Android Studio.
 * Exoerience in utilizing REST exposed service.
 
-### External Link
+## External Link
 * Have a look at my LinkedIn page for more information. [LinkedIn](https://www.linkedin.com/in/nguyen-bui-952b95a4/)
 * If you want to browse all of my projects, please visit at [GitHub](https://github.com/Jackbui96)
 
-### Personal references/resources (to be added)
+## Personal references/resources (to be added)
 * Item 1
 * Item 2
 
-### Laughing Corner
+## Laughing Corner
 
   1. *Notes on the Peanut*
   
-  **June Jordan, 1936 - 2002**
+ **June Jordan, 1936 - 2002**
 
-  For the Poet David Henderson
+ For the Poet David Henderson
 
-Hi there. My name is George  
-Washington  
+  Hi there. My name is George  
+  Washington  
 Carver.  
 If you bear with me  
 for a few minutes I  
