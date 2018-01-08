@@ -1,18 +1,21 @@
 # Nguyen Bui (Jack)
-Location: San Jose, California (Time Zone: Pacific Time Zone), U.S.A
+Location: San Jose, California (Time Zone: Pacific Time Zone), U.S.A  
+Phone: (727) 276-5984  
+Email: nguyenbui1996@gmail.com  
 
 ## Operating System
 I am currently using Ubuntu OS (16.04) and Windows 10 OS.
 
 ## Self Introduction
 
-Hello everyone and welcome to my Wiki page, I hope that you will have a
+Hello everyone and welcome to my Wiki page.  
+I hope that you will enjoy your stay here.  
 
-I am a Junior International Software Engineering at San Jose State Unviversity. 
-
-Currently working on my Bachelor's in Software Engineering at San Jose State University.
-
-I am easy to work with and like to learn new technologies.
+A little bit about myself.  
+My name is Nguyen Bui (Jack), a junior international student from Vietnam.    
+I am currently working toward my B.S in Software Engineering at San Jose State University.  
+I specialize in developing Android App and maintaining databases.  
+My goal is to learn and get a hand-on experience as much as possible before gruaduating.  
 
 ### Skills:
 * Java
@@ -20,8 +23,8 @@ I am easy to work with and like to learn new technologies.
 * Utilizing Firebase, MySQL, Android Studio and REST exposed service
 
 ### External Link
-* Have a look at my LinkedIn page for more information.[LinkedIn](https://www.linkedin.com/in/nguyen-bui-952b95a4/)
-* If you want to browse all of my projects, please visit at[GitHub](https://github.com/Jackbui96)
+* Have a look at my LinkedIn page for more information. [LinkedIn](https://www.linkedin.com/in/nguyen-bui-952b95a4/)
+* If you want to browse all of my projects, please visit at [GitHub](https://github.com/Jackbui96)
 
 ### Personal references/resources (to be added)
 * Item 1
