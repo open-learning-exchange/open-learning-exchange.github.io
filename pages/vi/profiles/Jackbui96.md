@@ -19,7 +19,7 @@ My goal is to learn and get a hand-on experience as much as possible before grad
 I am a fun and easy going guy.  
 Fun fact: I am a huge fanboy of 9gag and meme.
 
-If you have any feedback, please feel free to contact me at: (nguyenbui1996@gmail.com)
+If you have any feedback, please feel free to contact me at: nguyenbui1996@gmail.com
 
 ## Skills:
 * Programming Language: Java, PHP
@@ -31,7 +31,8 @@ If you have any feedback, please feel free to contact me at: (nguyenbui1996@gmai
 * Have a look at my LinkedIn page for more information. [LinkedIn](https://www.linkedin.com/in/nguyen-bui-952b95a4/)
 * If you want to browse all of my projects, please visit at [GitHub](https://github.com/Jackbui96)
 
-## Personal references/resources (to be added)
+## Personal References/Resources
+ **(to be added)**
 * Item 1
 * Item 2
 
