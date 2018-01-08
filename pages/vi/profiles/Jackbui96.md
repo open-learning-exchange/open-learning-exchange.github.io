@@ -40,8 +40,7 @@ If you have any feedback, please feel free to contact me at: nguyenbui1996@gmail
 
   1. *Notes on the Peanut*
   
- **June Jordan, 1936 - 2002**
-
+ **June Jordan, 1936 - 2002**  
   For the Poet David Henderson
 
   >Hi there. My name is George  
