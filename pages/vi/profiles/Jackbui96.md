@@ -21,7 +21,7 @@ Fun fact: I am a huge fanboy of 9gag and meme.
 
 If you have any feedback, please feel free to contact me at: nguyenbui1996@gmail.com
 
-## Skills:
+## Skills
 * Programming Language: Java, PHP
 * Experience working with Firebase, MySQL.
 * Experience working with Android Studio.
