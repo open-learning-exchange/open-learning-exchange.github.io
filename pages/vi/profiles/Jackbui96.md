@@ -15,12 +15,17 @@ A little bit about myself.
 My name is Nguyen Bui (Jack), a junior international student from Vietnam.    
 I am currently working toward my B.S in Software Engineering at San Jose State University.  
 I specialize in developing Android App and maintaining databases.  
-My goal is to learn and get a hand-on experience as much as possible before gruaduating.  
+My goal is to learn and get a hand-on experience as much as possible before graduating.  
+I am a fun and easy going guy.  
+Fun fact: I am a huge fanboy of 9gag and meme.
+
+If you have any feedback, please feel free to contact me at: nguyenbui1996@gmail.com
 
 ### Skills:
-* Java
-* PHP
-* Utilizing Firebase, MySQL, Android Studio and REST exposed service
+* Programming Language: Java, PHP
+* Experience working with Firebase, MySQL.
+* Experience working with Android Studio.
+* Exoerience in utilizing REST exposed service.
 
 ### External Link
 * Have a look at my LinkedIn page for more information. [LinkedIn](https://www.linkedin.com/in/nguyen-bui-952b95a4/)
@@ -96,3 +101,7 @@ into pyrotechnical utility
 and no sweat.  
 Please:  
 Speak right into the peanut!  
+
+Your name?
+
+Source: https://www.poets.org/poetsorg/poem/notes-peanut
