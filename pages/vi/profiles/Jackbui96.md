@@ -1,6 +1,6 @@
 # Nguyen Bui (Jack)
 Location: San Jose, California (Time Zone: Pacific Time Zone), U.S.A            My Spiritual Animal
-Phone: (727) 276-5984                                                           ![img](https://drive.google.com/open?id=1dc56MS9V5q5OZXBBzQg34qvadlRLkYnS)
+Phone: (727) 276-5984                                                           ![img](https://drive.google.com/file/d/1dc56MS9V5q5OZXBBzQg34qvadlRLkYnS/view?usp=sharing)
 Email: nguyenbui1996@gmail.com  
 
 ## Operating System
@@ -71,7 +71,7 @@ If you have any feedback, please feel free to contact me at: nguyenbui1996@gmail
   >supply of high energy dry roasted peanuts  
   >guaranteed to accelerate protein assimilation  
   >precisely documented by my pocket peanut calculator;   
-
+  >
   >May I ask when did you last contemplate the relationship  
   >between the expanding peanut products industry  
   >and the development of post-Marxian economic theory  
@@ -101,7 +101,7 @@ If you have any feedback, please feel free to contact me at: nguyenbui1996@gmail
   >and no sweat.  
   >Please:  
   >Speak right into the peanut!  
-
+  >
   >Your name?
 
 Source: https://www.poets.org/poetsorg/poem/notes-peanut
