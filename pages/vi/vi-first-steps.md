@@ -25,7 +25,7 @@ A very large part of these steps is finding problems with these steps and this M
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 
 
-## Step 0 - Introductory Steps
+## Step 0 | Introductory Steps
 
 1. Send us your resume again (along with a short description of yourself and what you would like to be called) to [vi@ole.org](mailto:vi@ole.org).
 
@@ -37,32 +37,32 @@ There is no official deadline to complete these steps, but most candidates who a
 
 3. We use Crowdin to translate our user interface in many different languages. If you know another language, go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. You may start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial) so that you have a better understanding of what BeLL Apps do. You may also reference the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
 
-## Step 1 - BeLL Installation
+## Step 1 | BeLL Installation
 
 Go to the [installation page](#!./pages/techgenius/tg-installation.md) to read through the basic instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
 
 Once you have finished installing, go to the [Configuration Guide](vi-configurations.md) to set up your Community BeLL.
 
-## Step 2 - Vagrant Tutorial
+## Step 2 | Vagrant Tutorial
 
 Review these [Vagrant instructions](vi-vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
 
-## Step 3 - Markdown and Fork Tutorial
+## Step 3 | Markdown and Fork Tutorial
 
 Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/vi/profiles/&lt;username&gt;.md).
 
 * Once you complete the Step 3 you will have:
     * 1 Pull request made
 
-## Step 4 - BeLL-Apps Tutorial
+## Step 4 | BeLL-Apps Tutorial
 
 Follow the instructions under the [BeLL-Apps tab](vi-bellapps.md).
 
-## Step 5 - Keeping Fork Updated
+## Step 5 | Keeping Fork Updated
 
 Follow the directions at [Git Repositories](vi-github-and-repositories.md) to keep your username.github.io and your local repository up to date.
 
-## Step 6 - GitHub Issues Tutorial
+## Step 6 | GitHub Issues Tutorial
 
 Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md) to create at least one issue. You will be working to improve this MarkDown Wiki so that it is clearer and better for future use. Post a link in Gitter whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. It is ok to file an issue on minor typos and very small changes, but do not make this the case for all of the issues that you file.
 
@@ -73,11 +73,11 @@ Contribute as much value as you can in each issue you file. If you know how to s
    * 1 comment added
    * 1 issue created
 
-## Step 7 - Nation BeLL
+## Step 7 | Nation BeLL
 
 Follow the directions under the [Nation BeLL tab](vi-nation.md).
 
-## Step 8 - Create Issues and Pull Requests
+## Step 8 | Create Issues and Pull Requests
 
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue. You will follow the same steps as in [GitHub Issues](vi-github-issues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
 
@@ -92,7 +92,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.html).
 
-## Step 9 - Submit Survey
+## Step 9 | Submit Survey
 
 Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the previous list from Step 8 done.
 
