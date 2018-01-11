@@ -1,6 +1,6 @@
 # Kevin Truong
 
-![Me](https://github.com/ketruong/ketruong.github.io/blob/test_branch/Pic.jpg)
+![Me](www.github.com/ketruong/ketruong.github.io/blob/test_branch/Pic.jpg)
 
 * New Haven, CT  
 * Eastern Standard Time  
