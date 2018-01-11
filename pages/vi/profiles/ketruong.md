@@ -1,5 +1,7 @@
 # Kevin Truong
 
+![alt text](https://github.com/ketruong/ketruong.github.io/blob/test_branch/Pic.png)
+
 * New Haven, CT  
 * Eastern Standard Time  
 * macOS High Sierra
