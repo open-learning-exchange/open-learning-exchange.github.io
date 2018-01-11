@@ -1,2 +1,5 @@
-Samriddhi Basnet Kathmandu Nepal 
-Computer Science graduate 
+> Samriddhi Basnet Kathmandu Nepal 
+  Computer Science graduate 
+ * Interests
+   * * Development
+   
