@@ -1,6 +1,6 @@
 # Kevin Truong
 
-![Kevin](https://www.static.wixstatic.com/media/abb80a_64d522900bde4febbf1880d981536843~mv2_d_3568_2368_s_2.jpg/v1/fill/w_770,h_760,al_c,q_85,usm_0.66_1.00_0.01/abb80a_64d522900bde4febbf1880d981536843~mv2_d_3568_2368_s_2.jpg)
+![Kevin](https://github.com/ketruong/ketruong.github.io/blob/test_branch/Pic.jpg)
 
 * New Haven, CT  
 * Eastern Standard Time  
