@@ -1,7 +1,7 @@
 # Kevin Truong
 
-New Haven, CT
-Eastern Standard Time
+New Haven, CT  
+Eastern Standard Time  
 macOS High Sierra
 
 ### About me 
