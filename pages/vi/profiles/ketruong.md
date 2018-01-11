@@ -1,6 +1,6 @@
 # Kevin Truong
 
-![Kevin](https://github.com/ketruong/ketruong.github.io/blob/test_branch/Pic.jpg)
+![Kevin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Leonard_P._Zakim_Bunker_Hill_Bridge_-_Boston%2C_MA_crop.jpg/220px-Leonard_P._Zakim_Bunker_Hill_Bridge_-_Boston%2C_MA_crop.jpg)
 
 * New Haven, CT  
 * Eastern Standard Time  
