@@ -20,4 +20,4 @@ Java, C, C++, HTML/CSS, Python, Matlab, Latex, Arduino
 
 ## Authors
 
-* **Kevin Truong** - (https://github.com/ketruong) (https://www.kdtruong.com)
+* **Kevin Truong** - [Github](https://github.com/ketruong) [Website](https://www.kdtruong.com)
