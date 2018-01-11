@@ -1,6 +1,6 @@
 # Kevin Truong
 
-![img](https://i.pinimg.com/736x/07/85/97/078597a43a1debcde268453d3307bdda--dog-jokes-dog-funnies.jpg)
+![Image](http://cdn1.bostonmagazine.com/wp-content/uploads/sites/2/2017/10/winterweather.jpg)
 
 * New Haven, CT  
 * Eastern Standard Time  
