@@ -1,8 +1,8 @@
 # Kevin Truong
 
-New Haven, CT  
-Eastern Standard Time  
-macOS High Sierra
+* New Haven, CT  
+* Eastern Standard Time  
+* macOS High Sierra
 
 ### About me 
 I am currently a sophomore at Yale University majoring in Electrical Engineering and Computer Science. I am an avid user
