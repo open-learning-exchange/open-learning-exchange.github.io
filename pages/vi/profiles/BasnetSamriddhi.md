@@ -1,11 +1,14 @@
 # Samriddhi Basnet
 
-##### 1. Location: Kathmandu ,Nepal
+##### 1. Location:Kathmandu, Nepal 
 ***
-##### 2. Timezone: Central Standard Time
+##### 2. Educatio level:Graduate
 ***
-##### 3. OS: Windows:10
+##### 3. OS: WINDOWS:10 
 ***
 ##### 4. Email: samriddhibasnet4@gmail.com
 ***
-##### 5. Computer Science Graduate.
+##### 5.
+
+
+
