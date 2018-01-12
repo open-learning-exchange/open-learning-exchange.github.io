@@ -2,7 +2,7 @@
 
 ##### 1. Location:Kathmandu, Nepal 
 ***
-##### 2. Educatio level:Graduate
+##### 2. Education level:Graduate
 ***
 ##### 3. OS: WINDOWS:10 
 ***
