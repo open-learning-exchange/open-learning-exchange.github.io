@@ -26,9 +26,9 @@ Operating System: Mac OS X EI Capitan 10.11.6
 ***
 #### Languages
 
-⋅⋅* English
+* English
 
-⋅⋅* Chinese
+* Chinese
 
 ***
 #### Links
