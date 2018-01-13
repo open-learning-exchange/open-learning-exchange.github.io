@@ -16,9 +16,11 @@ I am currently a graduate student at SIT. I am an enthusiatic learner, multitask
 ***
 #### Projects
 
-|project                 |Link   |Description   |
-|Help-find website |[link](https://github.com/bhavitha590/twitter_data_collection)|Twitter Data Collection in Python and saved in MongoDB, search stuff you lost, all the satisfiled tweets will show up|
-|Discussion Forum Chat|[link](https://github.com/StevensDeptECE/LMS640/tree/master/Discussion%20Forum%20Chat)|A course organization site which can manage groups, massages, files and group chatting|
+project|Link|Description
+---|---|---
+Help-find website |[link](https://github.com/bhavitha590/twitter_data_collection)|Twitter Data Collection in Python and saved in MongoDB, search stuff you lost, all the satisfiled tweets will show up
+
+Discussion Forum Chat|[link](https://github.com/StevensDeptECE/LMS640/tree/master/Discussion%20Forum%20Chat)|A course organization site which can manage groups, massages, files and group chatting
 
 ***
 #### Programming Languages
