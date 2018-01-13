@@ -8,7 +8,7 @@ Phone: (201)-565-5251
 
 Email: yangbai941205@gmail.com
 
-![alt text](https://ibb.co/fXpDMm "my picture")
+![alt text](https://ibb.co/eutUBm "my picture")
 
 Operating System: Mac OS X EI Capitan 10.11.6
 
