@@ -36,33 +36,49 @@ OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Libra
 
 As a part of this internship you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
+[Back to top](#General_Internship_Questions)
+
 #### Q3: Where can I find more information about this internship?
 
 More information about the internship can be found [here](https://www.indeed.com/jobs?q=%22virtual%20remote%20software%20engineer%20intern%22&l=Cambridge%2C%20MA).
+
+[Back to top](#General_Internship_Questions)
 
 #### Q4: What are the hours of the internship?
 
 This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
+[Back to top](#General_Internship_Questions)
+
 #### Q5: Is this a paid internship?
 
 Unfortunately, no. This position is unpaid, but it will provide a diverse range of experiences in the workplace. We can provide a certificate of completion, upon request. Also, academic credit can be provided through your institution (if applicable).
+
+[Back to top](#General_Internship_Questions)
 
 #### Q6: What happens after the initial steps?
 
 The initial steps are meant to introduce potential interns to the OLE BeLL software and the process that we use to develop features and improve upon the BeLL. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
 
+[Back to top](#General_Internship_Questions)
+
 #### Q7: If I'm an international student, how soon can I get my paperwork required by my visa?
 
 After you finish the first 10 steps, let us know if you need us to sign some paperwork or provide you with an offer letter for your visa. Since the first 10 steps are a vetting process, your internship technically doesn't start until you finish them. Think of the first 10 steps as a continued application process as you are not working or adding to our organizational software, but rather showing that you have enough technical background to work with us. We are more than happy to speak to you about providing you with an offer letter or assisting with organizational information once you complete the 10 steps, but as you are not working with us until you are officially an intern, we cannot provide proof of working with us until you complete the first steps.
+
+[Back to top](#General_Internship_Questions)
 
 #### Q8: How many pull requests and issues in total do I need to make to finish the steps?
 
 To finish the initial steps, you need to make a **minimum** of four issues and five pull requests so you can get familiar with GitHub and to show us that you can write proper issues/PRs.
 
+[Back to top](#General_Internship_Questions)
+
 #### Q9: How long do I have to complete these steps?
 
 There is no official deadline, so work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days.
+
+[Back to top](#General_Internship_Questions)
 
 
 ### Technical Questions
@@ -71,17 +87,25 @@ There is no official deadline, so work on your own time. However, please note th
 
 We use the nation/community infrastructure because we often deploy our software in places without internet. Nations are the services sitting in the cloud (which are connected to the internet). Communities, which run locally on Raspberry Pis and/or laptops, are run on an *intranet* but are most of the time not connected to the *internet*. Because nations are connected to the internet, they allow a connection process between us (with internet) and users on communities (without internet). To sync with a nation, however, a community needs to be connected to the internet so that information can be sent in both directions.
 
+[Back to top](#Technical_Questions)
+
 #### Q11: How can I enable virtualization on my computer in order to turn Vagrant on?
 
 First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2", "Esc" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x", "Intel Virtualization Technology" or something similar. Enable this option, save and reset. Now the "vagrant up" command should work.
+
+[Back to top](#Technical_Questions)
 
 #### Q12: Why is the "Submit" button not showing up when I try to submit my survey?
 
 Please make sure you’re using Firefox, as our BeLL software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the BeLL and logging back in, then go back to the survey. If that doesn’t work, log out of the BeLL, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Gitter chat](http://gitter.im/open-learning-exchange/chat).
 
+[Back to top](#Technical_Questions)
+
 #### Q13: Why does Firefox say “Unable to connect” when I try to load my Community?
 
 Because a Community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your Community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual BeLL user interface.
+
+[Back to top](#Technical_Questions)
 
 #### Q14: When I first run BeLL with the "vagrant up" command, why does the download fail?
 
@@ -108,9 +132,13 @@ vagrant up
 ```
 You now have a working communityBeLL on your OS.
 
+[Back to top](#Technical_Questions)
+
 #### Q15: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?
 
 You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
+
+[Back to top](#Technical_Questions)
 
 #### Q16: What do I do if I already have a github.io with my username?
 
@@ -121,6 +149,8 @@ You have a few options:
 2. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repo &lt;orgname&gt;.github.io.
 
 3. Or you can just create another GitHub account, and use that for OLE work.
+
+[Back to top](#Technical_Questions)
 
 #### Q17: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?
 
@@ -134,6 +164,8 @@ git clone https://github.com/dogi/ole--vagrant-vi.git
 cd ole--vagrant-vi
 vagrant up
 ```
+
+[Back to top](#Technical_Questions)
 
 ## 'First Steps' Software Summary
 
