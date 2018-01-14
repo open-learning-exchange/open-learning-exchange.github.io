@@ -36,7 +36,7 @@ As a part of this internship you will be working with software and languages inc
 
 #### Q3: Where can I find more information about this internship?
 
-More information about the internship can be found [here](https://www.indeed.com/cmp/Open-Learning-Exchange,-Inc./jobs/Virtual-Software-Engineer-Intern-0d660f98f7710439?q=Open+learning+exchange).
+More information about the internship can be found [here](https://www.indeed.com/cmp/Open-Learning-Exchange,-Inc./jobs).
 
 #### Q4: What are the hours of the internship?
 
