@@ -11,7 +11,7 @@ Operating System: Mac OS X EI Capitan 10.11.6
 ***
 #### Self Introduction
 
-I am currently a graduate student at SIT. I am an enthusiatic learner, multitasking team worker and creative developer having expierence in Web developement. Now I'm working as a peer tutor on campus which helps student tackle difficult programming problems. 
+I am currently a graduate student at SIT. I am an enthusiatic learner, multitasking team worker and creative developer having expierence in Web developement. Now I'm working as a peer tutor on campus which helps student tackle difficult programming problems. I'm very excited for the opportunity to work with the Open Learning Exchange and hope to expand my knowledge of working as a team on open source projects.
 
 ***
 #### Projects
@@ -25,7 +25,7 @@ Discussion Forum Chat|[link](https://github.com/StevensDeptECE/LMS640/tree/maste
 #### Programming Languages
 
 |Language   |Proficiency|
-|-----------|:---------:|
+|:-----------:|:---------:|
 |C++        |+++++      |
 |Java       |++++       |
 |Python     |+++        |
