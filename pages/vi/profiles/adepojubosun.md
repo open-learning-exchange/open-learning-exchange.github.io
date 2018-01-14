@@ -21,4 +21,4 @@ Also a Data structure and algorithm enthusiast. Looking forward to working with 
 
 
 
-[Github](https://github.com/adepojubosun) | [Portfolio](https://www.adepojubosun.github.io) | [Linkedin](https://www.linkedin.com/in/bosun-adepoju-a47a03108/) 
+[Github](https://github.com/adepojubosun) | [Portfolio](https://adepojubosun.github.io) | [Linkedin](https://www.linkedin.com/in/bosun-adepoju-a47a03108/) 
