@@ -1,12 +1,12 @@
-# Samriddhi Basnet
+# *Samriddhi Basnet* 
 
-##### 1. Location:Kathmandu, Nepal 
+##### 1. _Location:Kathmandu, Nepal_
 ***
-##### 2. Education level:Graduate
+##### 2. _Education level:Graduate_
 ***
-##### 3. OS: WINDOWS:10 
+##### 3._OS: WINDOWS:10_
 ***
-##### 4. Email: samriddhibasnet4@gmail.com
+##### 4. _Email: samriddhibasnet4@gmail.com_
 ***
 
 
