@@ -15,9 +15,7 @@ Since ole--vagrant-treehouses creates a virtual machine, it works on all platfor
 - Any RPI for testing the microSD card
 - A class10 microSD card (minimum 8 Gb) new image to the class10 microSD card
 - microSD card reader/writer for writing the
-
 **Building the image with treehouse-builder:**
-
 - Ubuntu or Debian based Linux distribution (Other distros are untested)
 - An Internet connection
 
