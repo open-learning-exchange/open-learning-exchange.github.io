@@ -36,7 +36,7 @@
 
 #### Q3: Where can I find more information about this internship?
 
-+ More information about the internship can be found [here](https://www.indeed.com/jobs?q=%22virtual%20remote%20software%20engineer%20intern%22&l=Cambridge%2C%20MA).
++ More information about the internship can be found [here](https://www.indeed.com/cmp/Open-Learning-Exchange,-Inc./jobs).
 
 #### Q4: What are the hours of the internship?
 
