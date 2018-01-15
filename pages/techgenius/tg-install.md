@@ -1,4 +1,4 @@
-## Step 0 | Introduction
+## Step 0 - Introduction
 
 This document was created to meet the immediate technical support needs of the Madagascar Ministry of Education. However, we fully expect that this document will become the general use case for any partners that are on-boarding our program.
 
@@ -6,11 +6,11 @@ The team in Madagascar is working to establish a system for sharing digital cont
 
 This effort will begin with the MOE establishing a number of local Communities on laptops at the MOE. Content will be loaded into community and pushed to the nation server. This strategy will allow the MOE to learn to use and deploy the system. It will also allow them to work offline, as bandwidth is a challenge.
 
-## Step 1 | Prerequisites
+## Step 1 - Prerequisites
 
 It is understood that tech geniuses have completed [the First Steps training exercises](#!./pages/vi/vi-first-steps.md) and that they are familiar and comfortable with the deployment tools and methods. 
 
-## Step 2 | Vagrant Environment Installation Confirmation
+## Step 2 - Vagrant Environment Installation Confirmation
 
 If you have completed the installation guide, then you will find `c:\users\USERNAME\ole--vagrant-vi` (In Windows) or `Users/USERNAME/ole--vagrant-vi` (In Mac) or `/home/USERNAME/ole--vagrant-vi` (In Ubuntu) under your file system. The `ole--vagrant-vi` directory indicates that this community is attached to the development environment that OLE uses for training and to develop, test, and deploy new features.
 
@@ -20,7 +20,7 @@ In the steps outlined below we will build a community that is attached to the Ma
 * Use Vagrant command line tools to start the new virtual machine; and
 * Configure the new local Community so that it is connected with the Madagascar Nation.
 
-## Step 3 | Vagrant
+## Step 3 - Vagrant
 
 ### How to Install a Community on a Local Laptop or PC
 
@@ -46,7 +46,7 @@ Note: At this point you will have two virtual machines installed and running on 
 vagrant halt
 ```
 
-## Step 4 | Configure the new Community
+## Step 4 - Configure the new Community
 
 Now that we have created a local Community, we'll need to configure it to connect with the Nation. This is done from the browser. Please start firefox and enter [http://localhost:8084](http://localhost:8084) into the address bar. When the Community loads you should see the following configuration screen:
 
@@ -73,7 +73,7 @@ Please complete all fields as follows:
 
 Click `Save` at the bottom of the page.
 
-## Step 5 | First Time Login
+## Step 5 - First Time Login
 
 Now return to the Community login page. [http://localhost:8084](http://localhost:8084). You should have full access to the community. However, it still must be activated by the administrator before you can upload/download resources, system updates, and user data. You can see that activation is pending because of the orange dot top right of the page as per below:
 
@@ -81,7 +81,7 @@ Now return to the Community login page. [http://localhost:8084](http://localhost
 
 Once the Community registration has been accepted by the Nation Administrator the dot will be green.
 
-## Step 6 | Accepting Community Registrations on the Nation
+## Step 6 - Accepting Community Registrations on the Nation
 
 The Nation Administrator is responsible for accepting new Community registrations. The Nation Administrator will receive an alert on their system whenever a new Community is registered as in the below image:
 
@@ -101,7 +101,7 @@ To activate the new Community do the following:
 
 Click on Accept to complete the registration.
 
-## Step 7 | Confirming Community Registration
+## Step 7 - Confirming Community Registration
 
 After the Community has been verified and accepted by the Nation Administrator the Community Administrator will receive a confirmation dialogue and should see any available updates on the home page. The confirmation dialogue looks like this:
 
