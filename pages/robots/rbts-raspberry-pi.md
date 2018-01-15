@@ -17,6 +17,7 @@ Since ole--vagrant-treehouses creates a virtual machine, it works on all platfor
 - microSD card reader/writer for writing the
 
 **Building the image with treehouse-builder:**
+
 - Ubuntu or Debian based Linux distribution (Other distros are untested)
 - An Internet connection
 
