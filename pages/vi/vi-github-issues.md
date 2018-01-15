@@ -42,7 +42,7 @@ If you're still confused, that's quite alright. The data flow of GitHub can be q
 
 ## Create a Commit
 
-After you are done making your changes, use the `git status` command to see which files in the working directory have been modified. If you wish to stage all of the modified files shown, use the `git add .` (The '.' is part of the command.) command. Otherwise you can choose only the file or files you wish to stage by using the `git add <file1> <file2> <file3>...` command. Now that you have selected the files you wish to include, use the commands `git commit -m "commit message"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
+After you are done making your changes, switch back to your origin branch using `git checkout master` and use the `git status` command to see which files in the working directory have been modified. If you wish to stage all of the modified files shown, use the `git add .` (The '.' is part of the command.) command. Otherwise you can choose only the file or files you wish to stage by using the `git add <file1> <file2> <file3>...` command. Now that you have selected the files you wish to include, use the commands `git commit -m "commit message"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
 
 ### Commit Message Style Guide
 
