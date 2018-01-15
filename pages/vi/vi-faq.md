@@ -114,11 +114,11 @@
 
 + You have a few options:
 
-1. If you are not using the repo anymore you can delete it and then follow the [First Steps](vi-first-steps.md).
+  1. If you are not using the repo anymore you can delete it and then follow the [First Steps](vi-first-steps.md).
 
-2. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repo &lt;orgname&gt;.github.io.
+  2. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repo &lt;orgname&gt;.github.io.
 
-3. Or you can just create another GitHub account, and use that for OLE work.
+  3. Or you can just create another GitHub account, and use that for OLE work.
 
 #### Q17: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?
 
