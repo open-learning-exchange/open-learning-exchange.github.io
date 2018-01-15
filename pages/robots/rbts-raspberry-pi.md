@@ -32,7 +32,7 @@ We meet on Wednesdays at 4:30 PM EST online on [http://talk.ole.org](http://talk
 
 ## How can I help?
 
-So far we are working on creating a seamless experience for the image, meaning we want the user to have many connectivity options without having to tinker too much with the Raspberry Pi. So our main concerns at the moment is getting the RPI to connect to different connectivity options such as wifi/bluetooth/ethernet automatically. This allows more people to contribute and debug unexpected problems. Once we have those bases covered, we can move onward to the software part. 
+So far we are working on creating a seamless experience for the image, meaning we want the user to have many connectivity options without having to tinker too much with the Raspberry Pi. So our main concern at the moment is getting the RPI to connect to different connectivity options such as wifi/bluetooth/ethernet automatically. This allows more people to contribute and debug unexpected problems. Once we have those bases covered, we can move onward to the software part. 
 
 There is always something to be done. Check the [GitHub issues](https://github.com/ole-vi/treehouse-builder/issues) for treehouse-builder to see what needs to be done or [waffle.io](https://waffle.io/ole-vi/treehouse-builder). Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go through the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on gitter.
 
@@ -71,7 +71,7 @@ Below we have a short step-by-step rundown of how the treehouse-builder works:
  - Install packages needed for OLE such as docker and matchbox-keyboard
  - Run autorun script
 4. Enter chroot if user needs to perform additional commands
-5. Write the .img file with a program such as Etcher to the MicroSD card.
+5. Write the .img file with a program such as Etcher to the MicroSD card
 
 ## List of Relevant Repositories & Links
 
