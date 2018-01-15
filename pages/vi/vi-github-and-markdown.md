@@ -89,6 +89,15 @@ We recommend using at least 5 different types of Markdown elements and to try to
 - [Profile 2](profiles/i5o.md) picture
 - [Profile 3](profiles/paulbert.md) lists
 
+Please refer to the following links of profiles
+
+[Profile 1](https://rawgit.com/open-learning-exchange/open-learning-exchange.github.io/master/#!pages/vi/profiles/RMDern.md)
+
+[Profile 2](https://rawgit.com/open-learning-exchange/open-learning-exchange.github.io/master/#!pages/vi/profiles/duongdo.md)
+
+[Profile 3](https://rawgit.com/open-learning-exchange/open-learning-exchange.github.io/master/#!pages/vi/profiles/jessica-spencer.md)
+
+
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
   ![Edit Profile](images/vi-edit-profile.png)
