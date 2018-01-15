@@ -32,6 +32,7 @@
 
   * [**Introduction**](pages/techgenius/tg-introduction.md)
   * [FAQ](pages/techgenius/tg-faq.md) <!-- This tg-faq.md needs to be written -->
+  * [TeamViewer](pages/techgenius/tg-teamviewer-install.md)
   - - - -
   * [Quick Start Setup](pages/techgenius/tg-hardware-setup.md)
   * [Router / LAN Configuration](pages/techgenius/tg-router-config.md)
