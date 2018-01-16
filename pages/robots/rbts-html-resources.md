@@ -24,7 +24,7 @@ Prerequisites:
 * Couchdb Instance
 * Desired JavaScript/HTML application
 
-## Couchapp Installation
+### Couchapp Installation
 
 #### Linux/OSX
 
@@ -75,7 +75,7 @@ There's a good amount of prerequisites for the couchapp installation on Windows.
 2. Download setuptools by [following the instructions for Windows here](https://pypi.python.org/pypi/setuptools).
 3. Download py2exe by [following the instructions here](https://pypi.python.org/pypi/py2exe/0.9.2.0/) (or [here](https://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/) if you're using Python 2.7 or below).
 4. [Download pywin32 here](https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/).
-5. Download curl by opening powershell with admin access and typing `choco install curl`
+5. Download curl by opening powershell with admin access and typing `choco install curl`.
 
 Once you have all of these, clone the [couchapp repository](https://github.com/couchapp/couchapp.git), build and install it. Run the following commands in the directory of your choice (from a terminal):
 
