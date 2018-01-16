@@ -8,13 +8,7 @@ I am experienced in an array of hardware and software aspects of programming.
 I've done projects in ASIC design with Verilog and embedded design wtih Embedded-C. 
 In addition, interactive projects with higher programming languages like Java, Python, and C++.
 
-**Languages**:
-* C
-* C++
-* Java
-* JavaScript
-* Matlab
-* Python
+**Languages**: C | C++ | Java | JavaScript | Matlab | Python
 
 
 **Hobbies**: Basketball | Gaming | Cooking
