@@ -53,9 +53,9 @@ We developed a course for aspiring virtual interns so that we could test the sof
 
 To get to Publications, click on "Manager" from the dashboard, then the publications button. Take the course, and the last question will ask you to specify any problems or improvements/suggestions that you have. Remember, people taking these courses out in remote areas of the world will probably run into the same problems if you do not raise them now and let the team know. This is a very important task, and your help is much appreciated.  
 **STEPS:**   
-1.Click on Courses (next to Library).  
-2.There is a course called Virtual Interns.  
-3.You will see a list of steps that test your knowledge of the discussed concepts from virtual interns first-steps.  
+1. Click on Courses (next to Library). 
+2. Open Virtual Interns Course .
+3. Carefully read and answer 12 steps.  
 
 Try to be as specific as possible, and include screen shots when necessary. 
 
