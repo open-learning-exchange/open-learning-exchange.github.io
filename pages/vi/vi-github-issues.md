@@ -109,3 +109,4 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)
+<div style="float: left"><a href="vi-first-steps.md#Step_5_-_Keeping_Fork_Updated">Previous</a></div><div style="float: right"><a href="vi-first-steps.md#Step_7_-_Nation_BeLL">Next</a></div>
