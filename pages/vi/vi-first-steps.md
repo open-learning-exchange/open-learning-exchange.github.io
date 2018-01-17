@@ -31,9 +31,9 @@ There is no official deadline to complete these steps, but most candidates who a
 
 2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leomaxi) and [Dogi](https://github.com/dogi) on GitHub. In GitHub we `Watch` organization repositories and `Follow` individuals. Look for the `Watch` button at the top right of the page when you are in a repository.  Also follow each other to see what others in the group are doing.
 
-![Watch Screen Shot](images/vi-watch.png)
+  ![Watch Screen Shot](images/vi-watch.png)
 
-![Follow Screen Shot](images/vi-follow.png)
+  ![Follow Screen Shot](images/vi-follow.png)
 
 3. We use Crowdin to translate our user interface in many different languages. If you know another language, go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to join Crowdin by creating an account. You may start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial) so that you have a better understanding of what BeLL Apps do. You may also reference the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. It would be very helpful for you to translate some of the words and familiarize yourself with the software. It would be great to get at least 10% on a language that you speak. If you want to spend additional time, feel free to provide translations to 100%.
 
