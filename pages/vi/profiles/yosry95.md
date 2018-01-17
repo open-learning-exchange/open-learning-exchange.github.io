@@ -3,7 +3,7 @@
 Berlin, Ubuntu 17.10
 
 I am currently studying information engineering in Germany  
-used to study in Egypt computer engineering.  
+used to study computer engineering in Egypt.  
 
 
 
@@ -21,6 +21,7 @@ used to study in Egypt computer engineering.
 
 
 
-you can see some of projects i did and my future projects in here
+You can see some of projects i did and my future projects in here
 [CodePen](https://codepen.io/yosry/)
 
+You can contact through abdelrahman.yosry.95@gmail.com
