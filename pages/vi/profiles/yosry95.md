@@ -2,7 +2,7 @@
 
 Berlin, Ubuntu 17.10
 
-I am currently studying information engineering in Germany  
+I am currently studying information engineering in Germany 
 used to study computer engineering in Egypt.  
 
 
