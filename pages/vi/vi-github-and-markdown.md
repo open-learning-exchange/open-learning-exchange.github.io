@@ -48,7 +48,7 @@ Since you have already created a username on GitHub, we can assume that you unde
 
 There is a lot to learn about GitHub, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example will specifically create your own &lt;username&gt;.github.io and allow you to edit and commit your changes.
 
-**NOTE**: Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-email-vi-git/) for more information.
+**NOTE**: Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-commit-email-address-in-git/) for more information.
 
 ### Find and fork the correct repository
 
