@@ -3,7 +3,7 @@
 * MST
 * Window 10 Home(version 1709)
 ## Skills
-Eclipse, SQL Server, Dreamweaver, Photoshop, Microsoft Office, Oracle Virtual Box
+Python, SQL, C, Java, C++, HTML, CSS, Javascript, T-SQL
 ## Languages
 * English
 * Chinese(Mandarin)
