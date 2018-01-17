@@ -10,6 +10,7 @@ used to study computer engineering in Egypt.
 ### language that i have good knowledge at 
   + **C/C++**
   + **Java**
+  + **JavaScript**
   + **MATLAB**
   + **HTML/CSS**
 
