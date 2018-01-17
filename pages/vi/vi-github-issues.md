@@ -108,6 +108,6 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 ## Useful Links
 
 [Mastering Issues](https://guides.github.com/features/issues/) - The official Git Guide on the basics of filing an issue.
-[Helpful links and videos](vi-faq.md#Helpful_Links) 
+[Helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)
