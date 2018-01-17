@@ -1,5 +1,4 @@
 # Abdelrahman Yosry
-![my image](files/users/home/pictures/picture.png)  
 
 Berlin, Ubuntu 17.10
 
