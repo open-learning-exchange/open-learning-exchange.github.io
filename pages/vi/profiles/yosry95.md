@@ -1,7 +1,6 @@
 # Abdelrahman Yosry
-![my image](C:\users\home\pictures\picture.png)  
+![my image](files/users/home/pictures/picture.png)  
 
-files/Users/jzhang/Desktop/Isolated.png
 Berlin, Ubuntu 17.10
 
 I am currently studying information engineering in Germany 
