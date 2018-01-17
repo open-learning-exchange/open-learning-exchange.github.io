@@ -1,0 +1,26 @@
+# Abdelrahman Yosry
+
+Berlin, Ubuntu 17.10
+
+I am currently studying information engineering in Germany  
+used to study in Egypt computer engineering.  
+
+
+
+### language that i have good knowledge of 
+  + **C/C++**
+  + **Java**
+  + **MATLAB**
+  + **HTML/CSS**
+
+### projects that has been done
+   + **Flowchart drawer and simulator**(produce code of the flowchart) using C++
+   + **Web Crawler** using Jama
+   + **ALU design and implementation** hardware using Multisim
+   + **3D Scanner** using MATLAB
+
+
+
+you can see some of projects i did and my future projects in here
+[CodePen](https://codepen.io/yosry/)
+
