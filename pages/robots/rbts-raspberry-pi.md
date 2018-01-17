@@ -38,25 +38,9 @@ So far we are working on creating a seamless experience for the image, meaning w
 
 There is always something to be done. Check the [GitHub issues](https://github.com/ole-vi/treehouse-builder/issues) for treehouse-builder to see what needs to be done or [waffle.io](https://waffle.io/ole-vi/treehouse-builder). Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go through the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on gitter.
 
-Since we are customizing the image, we would like to access it without using password everytime. In order to do that, [our implementation](https://github.com/ole-vi/treehouse-builder/blob/master/scripts.d/30_ssh_keys.sh) requires you to set your membership to be public at [Open Learning Exchange](https://github.com/orgs/open-learning-exchange/people) and have a [SSH key in your GitHub account](https://github.com/settings/keys). If you don't have one for the computer your are working on, please follow [the guide on GitHub Help](https://help.github.com/articles/connecting-to-github-with-ssh/) and return here when you are finished.
+Since we are customizing the image, we would like to access it without using password everytime. In order to do that, [our implementation](https://github.com/ole-vi/treehouse-builder/blob/master/scripts.d/30_ssh_keys.sh) requires you to set your membership to be public at [Open Learning Exchange](https://github.com/orgs/open-learning-exchange/people) and have a [SSH key in your GitHub account](https://github.com/settings/keys). If you don't have one for the computer your are working on, please follow [**the guide on GitHub Help**](https://help.github.com/articles/connecting-to-github-with-ssh/) and return here when you are finished.
 
-After you are done generating and adding SSH keys, let's double-check if your key will be included in the next release
-```sh
-# clone treehouse-builder with SSH
-git clone git@github.com:ole-vi/treehouse-builder.git
-
-# go to the folder where treehouse-builder is located
-cd treehouse-builder
-
-# run get_ssh_keys.py to get our authorized_keys file
-./get_ssh_keys.py
-
-# grep your ssh key from authorized_keys
-grep <your GitHub username> authorized_keys
-
-# compare if above displayed key is the same as the one on your machine
-cat ~/.ssh/id_rsa.pub
-```
+After you are done generating and adding SSH keys, use `https://github.com/<your-github-username>.keys` to double-check if your new key is on GitHub.
 
 Note: On the next [release](http://dev.ole.org), your key will be in the image.
 
