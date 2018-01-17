@@ -1,5 +1,5 @@
 # Teagan Jin
-* Denver,CO
+* Denver, CO
 * MST
 * Window 10 Home(version 1709)
 ## Skills
@@ -8,4 +8,4 @@ Python, SQL, C, Java, C++, HTML, CSS, Javascript, T-SQL
 * English
 * Chinese(Mandarin)
 ## Links
-### [LinkedIN](https://www.linkedin.com/in/teagan-jin/) 
+### [LinkedIn](https://www.linkedin.com/in/teagan-jin/) 
