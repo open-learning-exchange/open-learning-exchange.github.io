@@ -24,4 +24,4 @@ used to study computer engineering in Egypt.
 You can see some of projects i did and my future projects in here
 [CodePen](https://codepen.io/yosry/)
 
-You can contact through abdelrahman.yosry.95@gmail.com
+You can contact me through abdelrahman.yosry.95@gmail.com
