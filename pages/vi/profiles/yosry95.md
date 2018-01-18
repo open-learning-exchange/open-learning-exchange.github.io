@@ -8,14 +8,14 @@ used to study computer engineering in Egypt.
 
 
 
-### language that i have good knowledge at 
+### language that I know very well 
   + **C/C++**
   + **Java**
   + **JavaScript**
   + **MATLAB**
   + **HTML/CSS**
 
-### projects that has been done
+### projects that I have done
    + **Flowchart drawer and simulator**(produce code of the flowchart) using C++
    + **Web Crawler** using Jama
    + **ALU design and implementation** hardware using Multisim
@@ -24,7 +24,7 @@ used to study computer engineering in Egypt.
 __Quote I like__  
 _`Life isn't about finding yourself. It is about creating yourself.`_
 
-You can see some of projects i did and my future projects in here
+You can see some of projects I did and my future projects in here
 [CodePen](https://codepen.io/yosry/)
 
 You can contact me through abdelrahman.yosry.95@gmail.com
