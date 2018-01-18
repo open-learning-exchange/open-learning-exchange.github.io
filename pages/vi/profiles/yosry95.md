@@ -21,8 +21,8 @@ used to study computer engineering in Egypt.
    + **ALU design and implementation** hardware using Multisim
    + **3D Scanner** using MATLAB
 
-Quote I like
-`Life isn't about finding yourself. It is about creating yourself.`
+__Quote I like__  
+_`Life isn't about finding yourself. It is about creating yourself.`_
 
 You can see some of projects i did and my future projects in here
 [CodePen](https://codepen.io/yosry/)
