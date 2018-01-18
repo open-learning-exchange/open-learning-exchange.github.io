@@ -4,6 +4,7 @@
 * **Window 10 Home(version 1709)**
 
 ## Skills
+
 >Python, SQL, C, Java, C++, HTML, CSS, Javascript, T-SQL
 
 ## Languages
