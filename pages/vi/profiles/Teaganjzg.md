@@ -9,3 +9,5 @@ Python, SQL, C, Java, C++, HTML, CSS, Javascript, T-SQL
 * Chinese(Mandarin)
 ## Links
 ### [LinkedIn](https://www.linkedin.com/in/teagan-jin/) 
+## Pictures
+![](http://7-themes.com/data_images/out/33/6881182-daryl-the-walking-dead.jpg)
