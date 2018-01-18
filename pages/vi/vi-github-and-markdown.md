@@ -23,7 +23,7 @@ Below is a cheat sheet of Markdown to help you create your own individual MD Wik
 
 ![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
 
-[Markdown Tutorial](http://tylingsoft.com/tutorial.md/#whats-markdown)
+[Markdown Tutorial](http://mdp.tylingsoft.com)
 
 You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
