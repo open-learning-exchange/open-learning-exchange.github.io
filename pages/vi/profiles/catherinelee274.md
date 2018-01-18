@@ -2,11 +2,11 @@
 
 ---
 
-## Time zone: PST
+### Time zone: PST
 
-## Location: California, US
+### Location: California, US
 
-## OS: Windows 10 
+### OS: Windows 10 
 
 Hello! I am currently a student at University of California, Santa Cruz majoring in Computer Science.
 
