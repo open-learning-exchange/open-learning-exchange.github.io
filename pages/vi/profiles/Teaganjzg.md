@@ -10,4 +10,4 @@ Python, SQL, C, Java, C++, HTML, CSS, Javascript, T-SQL
 ## Links
 ### [LinkedIn](https://www.linkedin.com/in/teagan-jin/) 
 ## Pictures
-![](http://7-themes.com/data_images/out/33/6881182-daryl-the-walking-dead.jpg)
+![](http://www.imaginativeink.co.uk/store/wp-content/uploads/2016/07/14/TDT-TWD-Daryl-Dixon-Alpha-large-Sand.png)
