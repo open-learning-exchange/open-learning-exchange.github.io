@@ -1,9 +1,9 @@
 # Allison Wong
+![Imgur](https://i.imgur.com/DaEnlIF.jpg)
+
 > San Francisco, CA
 > Pacific Time
 > Mac OSX
-
-![Imgur](https://i.imgur.com/DaEnlIF.jpg)
 
 ## Profile
 > Computer Science Master's Student at University of San Francisco
@@ -18,5 +18,5 @@
 * Shell Scripting
 
 ## Contact
-> [azywong@gmail.com](mailto:azywong@gmail.com)
+> [email](mailto:azywong@gmail.com)
 > [linkedin](https://www.linkedin.com/in/allisonzywong/)
