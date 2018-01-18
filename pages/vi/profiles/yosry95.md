@@ -22,7 +22,7 @@ used to study computer engineering in Egypt.
    + **3D Scanner** using MATLAB
 
 Quote I like
-'Life is not about finding yourself it is about creating yourself.'
+`Life isn't about finding yourself. It is about creating yourself.`
 
 You can see some of projects i did and my future projects in here
 [CodePen](https://codepen.io/yosry/)
