@@ -40,7 +40,7 @@ There is always something to be done. Check the [GitHub issues](https://github.c
 
 Since we are customizing the image, we would like to access it without using password everytime. In order to do that, [our implementation](https://github.com/ole-vi/treehouse-builder/blob/master/scripts.d/30_ssh_keys.sh) requires you to set your membership to be public at [Open Learning Exchange](https://github.com/orgs/open-learning-exchange/people) and have a [SSH key in your GitHub account](https://github.com/settings/keys). If you don't have one for the computer your are working on, please follow [**the guide on GitHub Help**](https://help.github.com/articles/connecting-to-github-with-ssh/) and return here when you are finished.
 
-After you are done generating and adding SSH keys, use `https://github.com/<your-github-username>.keys` to double-check if your new key is on GitHub.
+After you are done generating and adding SSH keys, go to `https://github.com/<your-github-username>.keys` to double-check if your new key is on GitHub.
 
 Note: On the next [release](http://dev.ole.org), your key will be in the image.
 
