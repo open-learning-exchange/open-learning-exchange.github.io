@@ -6,7 +6,7 @@
 ##
 Hi Everyone,
 * I am Currently pursuing Masters Degree in Computer Science from the University of Alabama in Huntsville.  
-* I am passionate about Software development using JAVA, HTML5, CSS3, JavaScript, SQL, and so on.  
+* I am passionate about Software development using JAVA, HTML5, CSS3, JavaScript, SQL.  
 
 
  
