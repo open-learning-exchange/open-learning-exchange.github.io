@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system.
+Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system.
 
 If so, here are instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [Macintosh](http://kb.parallels.com/en/5653)
 
@@ -162,7 +162,7 @@ or not commonly used. To see all subcommands, run the command
 ## Useful  Links
 
 [Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)
-[Why install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
+[Why install Vagrant?](https://www.vagrantup.com/intro/index.html) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
 [Vagrant download](https://www.vagrantup.com/downloads.html)
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
