@@ -19,7 +19,8 @@ used to study computer engineering in Egypt.
    + **Flowchart drawer and simulator**(produce code of the flowchart) using C++
    + **Web Crawler** using Jama
    + **ALU design and implementation** hardware using Multisim
-   + **3D Scanner** using MATLAB
+   + **Card Scanner** using MATLAB
+   + **3D Scanner** using arduino
 
 __Quote I like__  
 _`Life isn't about finding yourself. It is about creating yourself.`_
