@@ -57,6 +57,8 @@ What this screen tells you is that you have a Vagrant virtual machine called `vi
 
 As you can see, in our case, the state of our machine is `running`. However, you can suspend your virtual machine issuing the command `vagrant suspend` or you can stop it completely with `vagrant halt`. In both cases, if you want to restart your machine, you will need to issue the command `vagrant up`.
 
+**NOTE**: If the command `vagrant up` is showing error i.e. if virtual box state is still poweroff after using `vagrant up` command then there is some problem with the vitual box. Re-installing newer version of [Virtual Box(Version 5.1.x)](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1) will fix this problem. Also, do not download virtual box version 5.2 or 5.2+ as it is not supported by current vagrant installations.
+
 When you issue the command `vagrant suspend`, your machine state will become `saved`, and after issuing `vagrant up` the machine will restart exactly from the point is was at when you suspended it. On the other hand, when you issue the command `vagrant halt`, the state will become `poweroff`, and after issuing `vagrant up` the machine will restart from the initial state it was at when you first installed it.
 
 Another command that may be sometimes useful is `vagrant destroy`, which allows you to delete your virtual machine. In this case, you will have to rebuild a new machine from scratch, if you ever need to use the machine again.
