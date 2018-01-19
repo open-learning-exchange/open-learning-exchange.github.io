@@ -49,7 +49,7 @@
 |[lorugant](profiles/lorugant.md)|2017-12-23|
 |[ketruong](profiles/ketruong.md)|2018-01-15|
 |[TooManySpaces](profiles/TooManySpaces.md)|2018-1-15|
-
+|[ybai8](profiles/ybai8.md)|2018-01-19|
 ## Former Interns
 
 |**Username**|**Join Date**|**Leave Date**|
