@@ -6,34 +6,29 @@
 * Create your own Markdown profile page
 * Understand the GitHub workflow (including forks, repositories, commits, and pull requests)
 
-## Prerequisites
+## Preparation
 
 You must already have a GitHub account with verified email address.
 
-[GitHub](https://help.github.com/categories/writing-on-github/) acts as a source code management system for Open Learning Exchange. Please, read some of the basic instructions below to learn how we use GitHub at OLE.
+[GitHub](https://help.github.com/categories/writing-on-github/) acts as a source code management system for Open Learning Exchange. Please read some of the basic instructions below to learn how we use GitHub at OLE.
 
-[Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. Markdown (MD) Wiki allows us to use Markdown on GitHub so that it is easily compatible with our current development environment. To put it simply, Markdown is a markup language that is very easy to learn and allows you to quickly format your text.
-In the screen shot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
+[MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. [Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language that is very easy to learn and allows us to quickly format our text. MDwiki uses Markdown as its input markup language and extends Markdown with some special [Gimmicks](https://dynalon.github.io/mdwiki/#!gimmicks.md).
+
+### Markdown
+
+Note that Markdown != HTML. In the screen shot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
 
 ![Markdown Preview](images/vi-markdown-ref.png)
 
-#### Markdown != HTML
-
-Below is a cheat sheet of Markdown to help you create your own individual MD Wiki page:
+Below is a cheat sheet of Markdown that might help you create your own individual Markdown page later:
 
 ![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
 
-[Markdown Tutorial](http://tylingsoft.com/tutorial.md/#whats-markdown)
-
-You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-If you want more practice using Markdown, check out [this site](http://www.markdowntutorial.com/lesson/1/) to explore the MD syntax and see results as you type.
-
-The main GitHub page used to store this MDwiki can be found at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and our virtual interns will essentially create their own MDwiki repository as a copy of open-learning-exchange.github.io.
+For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links). If you have not used Markdown before, you are recommended to go through one of the tutorials.
 
 ## Start here
 
-This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.
+This is a summary of the steps that we will need to perform. Please keep on reading for a detailed explanation of each step.
 
 * [Login to GitHub with your username and password](#Login_to_GitHub_with_your_username_and_password)
 * [Find and fork the correct repository](#Find_and_fork_the_correct_repository)
@@ -76,20 +71,31 @@ Please, make sure to ALWAYS work on your own personal account via forking and pu
 
 ### Create a new file as your personal MDwiki page and commit your changes
 
- Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
+First, before creating your file, we need to create a new branch
 
-![New Branch](images/vi-new-branch.png)
+1. click on the "Branch: **master**" drop down menu as shown in the image below
+  * make sure it says "Branch: **master**"" on the drop down menu button. If it's something else, click on the drop down and switch to master first
+2. Give your new branch a short and descriptive name (you can read more about branch naming [here](https://github.com/agis/git-style-guide#branches))
+3. Click on "Create branch: your-new-branch-name". Then you should see "Branch: **your-new-branch-name**" on the branch drop down menu
 
- To create your page click on the `pages/vi/profiles` folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
+  ![New Branch](images/vi-new-branch.png)
 
-In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
+Next, we are going to create your page
 
-We recommend using at least 5 different types of Markdown elements and to try to be as creative as possible. Some good examples of profiles are:
-- [Profile 1](profiles/Loshma93.md) links
-- [Profile 2](profiles/i5o.md) picture
-- [Profile 3](profiles/paulbert.md) lists
+1. go to the `pages/vi/profiles` folder
+2. click `Create new file` button
+3. name the file exactly the same as your GitHub username with file extension `.md`
+  * It is important that you stick with your GitHub username so we can easily identify you
+  * For reference, an example of a link to a personal page is [https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md), yours should be named in the same manner, only using your username.
 
-If you need to edit your file again, just click the pencil icon to edit (as shown below).
+Then, in the new Markdown file, include the following information:
+
+* your name, location/time zone, and OS (including version)
+* a short description of yourself (so your fellow virtual interns know who you are)
+
+You may use the "Preview" tab to have a primitive look of what your Markdown will looks like. We recommend using at least 5 different types of Markdown elements so you can get an idea of how it works. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) links, [Profile 2](profiles/i5o.md) picture, [Profile 3](profiles/paulbert.md) lists
+
+If you need to edit your file again, click the pencil icon to edit (as shown below).
 
   ![Edit Profile](images/vi-edit-profile.png)
 
@@ -99,29 +105,36 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 
 ### Open a pull request
 
-Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.
+Once you have your profile ready, it's time to create a pull request. Clink on the "Pull requests" button as highlighted in the screenshot below.
 
- ![Initiate Pull Request](images/vi-initiate-pull-request.png)
+![Initiate Pull Request](images/vi-initiate-pull-request.png) ![Complete Pull Request](images/vi-create-pull-request.png)
 
-Finally, click `Create pull request` and someone from our team will review the changes.
+There are a few things to watch out before clicking on the green "Create pull request" button. Make sure you:
 
- ![Complete Pull Request](images/vi-create-pull-request.png)
+* give the pull request a short and descriptive title (e.g. create yourusrename.md)
+* include the rawgit link to your Markdown profile page in the pull request description
+* scroll down the page and verify you used at least 3-5 Markdown elements in your profile
 
-Often there will be some feedback from the reviewer at this point for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will automatically affect the pull request. Once everything looks good, the reviewer will merge your page with the main repository.
+Finally, click "Create pull request" button and post the link to your pull request in the [gitter chat](https://gitter.im/open-learning-exchange/chat), someone from our team will review the changes and notify you.
 
-After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
+Often there will be some feedback from the reviewer for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will be automatically updated in the pull request. Once everything looks good, the reviewer will merge your Markdown profile with the main repository.
+
+After the pull request is merged, you'll be able to see your personal page on `open-learning-exchange.github.io/#!pages/vi/profiles/<YourUserName>.md`. Let us know in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat) after you complete this step.
 
 **NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/vi/profiles). Be creative.
 Make sure to include a rawgit link to your page in your pull request.
 
 ## Useful Links
 
-[GitHub - Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A GitHub help page on how to format and write, along with working with saved replies.
-[MDWiki – Quick Start](http://dynalon.github.io/mdwiki/#!quickstart.md) - The official MDwiki quick start guide on Markdown syntax.
-[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - An awesome interactive tutorial to experiment and learn more Markdown syntax with.
 [GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
+[MDWiki – Quick Start](http://dynalon.github.io/mdwiki/#!quickstart.md) - The official MDwiki quick start guide on Markdown syntax.
+[A bigger Markdown cheat sheet with examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Tutorial](http://tylingsoft.com/tutorial.md/#whats-markdown)
+[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - An awesome interactive tutorial to experiment and learn more Markdown syntax with.
+
+[GitHub - Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A GitHub help page on how to format and write, along with working with saved replies.
 [GitHub - How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories.
-[Comparison of Markdown and HTML](http://thebridge.jp/en/wp/wp-content/uploads/2013/05/markdown-vs-html.png) - The general comparison of Markdown and HTML.
+
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)
