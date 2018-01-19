@@ -8,14 +8,14 @@ used to study computer engineering in Egypt.
 
 
 
-### language that I know very well 
+### Languages that I know very well 
   + **C/C++**
   + **Java**
   + **JavaScript**
   + **MATLAB**
   + **HTML/CSS**
 
-### projects that I have done
+### Projects that I have done
    + **Flowchart drawer and simulator**(produce code of the flowchart) using C++
    + **Web Crawler** using Jama
    + **ALU design and implementation** hardware using Multisim
