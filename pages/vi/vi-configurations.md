@@ -49,7 +49,7 @@ Next, fill out the configurations. Your name and code must be the same and shoul
 
 After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.
 
-**Note:** *Adding images to Gitter is quite simple. Just drag and drop your screenshot from it's location on your computer to the chat and it will automatically upload.*
+**Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply use Ctrl+C and Ctrl+V to paste your image.*
 
 Then, click on the **"Register"** button and you will receive a confirmation that your community has been successfully registered (see below).
 
