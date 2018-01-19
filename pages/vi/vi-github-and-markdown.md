@@ -23,7 +23,7 @@ Below is a cheat sheet of Markdown to help you create your own individual MD Wik
 
 ![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
 
-[Markdown Tutorial](http://www.markdowntutorial.com/lesson/1/)
+[Markdown Tutorial](http://simpleprimate.com/jekyll-for-designers/blog/markdown-basics/)
 
 You can also find a bigger cheat sheet with examples [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -118,6 +118,7 @@ Make sure to include a rawgit link to your page in your pull request.
 
 [GitHub: Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A Github help page on how to format and write, along with working with saved replies.  
 [Markdown](http://dynalon.github.io/mdwiki/#!quickstart.md) - A more descriptive Github guide on more markdown syntax.  
+[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - An awesome interactive tutorial to experiment and learn more Markdown syntax with.  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official Github Guide for Markdown syntax.  
 [How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories from Github.  
 [Comparison of markdown and html](http://thebridge.jp/en/wp/wp-content/uploads/2013/05/markdown-vs-html.png) - The general comparison of markdown and html.  
