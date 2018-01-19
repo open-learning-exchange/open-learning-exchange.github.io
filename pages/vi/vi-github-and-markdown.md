@@ -16,7 +16,7 @@ You must already have a GitHub account with verified email address.
 
 ### Markdown
 
-Note that Markdown != HTML. In the screen shot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
+Note that Markdown != HTML. In the screenshot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
 
 ![Markdown Preview](images/vi-markdown-ref.png)
 
@@ -24,7 +24,7 @@ Below is a cheat sheet of Markdown that might help you create your own individua
 
 ![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
 
-For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links). If you have not used Markdown before, you are recommended to go through one of the tutorials.
+For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links). If you have not used Markdown before, you are recommended to go through one of the tutorials/guides.
 
 ## Start here
 
