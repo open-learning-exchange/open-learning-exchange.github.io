@@ -175,11 +175,11 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 
 ## Summary of steps
 
-1. Clone your git \<username\> repository and open your terminal window to it by using ``cd``
+1. Clone your GitHub repository username.github.io and open your terminal window to it by using ``cd``
 
 2. Check for changes you missed while you were gone. You can do this with ``git fetch upstream``([info](https://git-scm.com/docs/git-fetch)), ``git checkout master``, and ``git merge upstream/master``([info](https://git-scm.com/docs/git-merge)).
   - If you're slightly confused, remember that the "upstream" we're referring to is the [main github repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io).
-3. Push the updates you just downloaded to your \<username\> repository by using ``git push``([info](https://git-scm.com/docs/git-info))
+3. Push the updates you just downloaded to your GitHub repository by using ``git push``([info](https://git-scm.com/docs/git-info))
 
 Note: For steps 2 and 3, developers should do this every time they begin to work. This way we as a team can minimize data loss, and can save you some time. You want to make sure that you are always up to date with the GitHub.
 
