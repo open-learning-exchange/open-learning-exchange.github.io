@@ -15,7 +15,7 @@ You must already have a GitHub account with verified email address.
 [Markdown Wiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. Markdown (MD) Wiki allows us to use Markdown on GitHub so that it is easily compatible with our current development environment. To put it simply, Markdown is a markup language that is very easy to learn and allows you to quickly format your text.
 In the screen shot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
 
-![Markdown Preview](images/vi-markdown-ref.png)    
+![Markdown Preview](images/vi-markdown-ref.png)
 
 #### Markdown != HTML
 
@@ -58,15 +58,17 @@ First, you will need to find the correct GitHub repository to fork. Forking is e
 
 ### Go to Settings and rename your repository
 
-After you fork the repository, you will be on your page: &lt;username&gt;/open-learning-exchange.github.io. Then, you should go to Settings at the top middle of the page and rename your repository to your GitHub username. See example below.
+After you fork the repository, you will be on your page: &lt;username&gt;/open-learning-exchange.github.io. Then, you should go to Settings at the top middle of the page and rename your repository to your GitHub username.  See example below.
 
 ![Renaming Repository](images/vi-rename-repository.png)
+
+Check [FAQ Q16](http://open-learning-exchange.github.io/#!pages/vi/vi-faq.md) if you already have a repository named YourUserName.github.io.
 
 ### Post a link to your repository in chat
 
 After you rename it, make sure to post a link to the github.io website you've just created (&lt;username&gt;.github.io) in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-> @dogi  please look at  https://YourUserName.github.io 
+> @dogi  please look at  https://YourUserName.github.io
 
 Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
@@ -104,11 +106,11 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 
 ### Open a pull request
 
-Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.   
+Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.
 
  ![Initiate Pull Request](images/vi-initiate-pull-request.png)
 
-Finally, click `Create pull request` and someone from our team will review the changes.   
+Finally, click `Create pull request` and someone from our team will review the changes.
 
  ![Complete Pull Request](images/vi-create-pull-request.png)
 
@@ -116,7 +118,7 @@ Often there will be some feedback from the reviewer at this point for you to add
 
 After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/vi/profiles). Be creative.  
+**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/vi/profiles). Be creative.
 Make sure to include a rawgit link to your page in your pull request.
 
 ## Useful Links
