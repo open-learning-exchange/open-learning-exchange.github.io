@@ -1,5 +1,9 @@
 # Daren Sell
 
+<img src="https://images-ext-2.discordapp.net/external/CEZuWLsRIiHvgEXmkzFszvzjmdiRrrzzrTMhkVXqbgA/https/i.gyazo.com/thumb/1200/8279b3bc404a283f3ac4100e5a785054-png.jpg"
+alt="My Race Car"
+style="float: right; margin-right: 10px;" />
+
 ### Name
 * **Real Name** - Daren Sell
 * **GitHub Username** - Going-Gone
@@ -7,8 +11,8 @@
 ### Location
 * **City**  - Aberdeen
 * **State** - South Dakota
-* **Time Zone** - CST
-
+* **Time Zone** - CST                    
+                                     
 ### Operating System
 macOS High Sierra, Version 10.13.2
 
@@ -17,9 +21,10 @@ I am currently a full time student at Lake Area Tech pursuing a Computer Informa
 
 ### A Little More About Me
 **Hobbies**
-1. Bracket Drag Racing, _Track Champion 2013_
+1. Bracket Drag Racing, **_Track Champion 2013_**
 2. Building Computers
 3. Video Games
 4. Time Spent With Family And Pets
+5. Learning to code
 
 ***
