@@ -1,7 +1,7 @@
 # Cynthia Hilgeman _Cindy_
 ---
-Location: Bozeman, Montana (U.S.A) 
-Time Zone: Mountain Standard Time (MST), UTC/GMT -7hours
+Location: Bozeman, Montana (U.S.A)   
+Time Zone: Mountain Standard Time (MST), UTC/GMT -7hours  
 MS Windows 10 Pro, 10.0.16299
 
 This is me:
