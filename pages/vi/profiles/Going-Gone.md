@@ -1,6 +1,6 @@
 # Daren Sell
 
-![alt text](https://images-ext-2.discordapp.net/external/CEZuWLsRIiHvgEXmkzFszvzjmdiRrrzzrTMhkVXqbgA/https/i.gyazo.com/thumb/1200/8279b3bc404a283f3ac4100e5a785054-png.jpg "My Drag Racing Car")
+![My Race Car](https://images-ext-2.discordapp.net/external/CEZuWLsRIiHvgEXmkzFszvzjmdiRrrzzrTMhkVXqbgA/https/i.gyazo.com/thumb/1200/8279b3bc404a283f3ac4100e5a785054-png.jpg "My Drag Racing Car")
 
 ### Name
 * **Real Name** - Daren Sell
