@@ -11,12 +11,12 @@ This is me:
 I am a senior at Pennsylvania State University World Campus and currently pursuing a Bachelor’s Degree in Information Science and Technology, with a minor in Security and Risk Analysis. I enjoy the fields of programming and information security, and I am very eager to gain more experience in a technical and creative role. My degree coursework has afforded me the opportunity to acquire programming experience with C++, Python, and Java, experience with database design, risk and threat analysis techniques, and security tools. I enjoy being part of teams, problem-solving, being creative, and working towards a greater goal. 
 
 The Fun Stuff:
-  * Favorite Word: Fabulous
-  * Favorite TV Shows: Sherlock, Lucifer, Black Sails
-  * Favorite Reruns: House, Firefly, Psych, Gilmore Girls
-  * Favorite Movies: Casablanca, Sneakers, Contact
-  * Favorite Book: Tale of Two Cities
-  * Currently Reading: Bellevue: Three Centuries of Medicine and Mayhem at America's Most Storied Hospital
-  * Dream Trip: England, Scotland, and Ireland
+  * Favorite Word: Fabulous  
+  * Favorite TV Shows: Sherlock, Lucifer, Black Sails  
+  * Favorite Reruns: House, Firefly, Psych, Gilmore Girls  
+  * Favorite Movies: Casablanca, Sneakers, Contact  
+  * Favorite Book: Tale of Two Cities  
+  * Currently Reading: Bellevue: Three Centuries of Medicine and Mayhem at America's Most Storied Hospital  
+  * Dream Trip: England, Scotland, and Ireland  
   
   [LinkedIn Profile](https://www.linkedin.com/in/cindyhilgeman/)
