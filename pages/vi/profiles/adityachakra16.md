@@ -3,7 +3,7 @@
 **Location** : West Lafayette, Indiana
 **OS** : Windows 10 
 
-![] (Profile pic.PNG)
+![picture] (Profile pic.PNG)
 
 I am a sophomore in Purdue University, majoring in Electrical Engineering.
 
@@ -20,7 +20,7 @@ I am a sophomore in Purdue University, majoring in Electrical Engineering.
 * Listen to music
 * Watch movies
 
-Here is a link to my [LinkedIn] (https://www.linkedin.com/in/aditya-chakraborty-4a7b88130/)
+Here is a link to my [LinkedIn](https://www.linkedin.com/in/aditya-chakraborty-4a7b88130/)
 
 I like to learn new things everyday and believe in myself because as Nikos Kazantzakis said:
 > In order to succeed, we must first believe that we can.
