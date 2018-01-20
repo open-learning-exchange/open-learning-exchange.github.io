@@ -1,9 +1,9 @@
-## *Anil Vishwakarma*
+# Anil Vishwakarma
+
 * Location: Huntsville, AL 35816
 * Time Zone: Central Daylight Time
 * Operating System: Windows 10 Pro  
-![](https://image.ibb.co/kE5bu6/20219488.jpg) 
-##
+
 Hi Everyone,
 * I am Currently pursuing Masters Degree in Computer Science from the University of Alabama in Huntsville.  
 * I am passionate about Software development using JAVA, HTML5, CSS3, JavaScript, SQL.
