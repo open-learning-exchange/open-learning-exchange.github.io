@@ -20,15 +20,15 @@ Note that Markdown != HTML. In the screenshot below, you can see an example of M
 
 ![Markdown Preview](images/vi-markdown-ref.png)
 
-Below is a cheat sheet of Markdown that might help you create your own individual Markdown page later:
+Below is a cheat sheet of Markdown that might help you create your own Markdown page later:
 
 ![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
 
-For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links). If you have not used Markdown before, you are recommended to go through one of the tutorials/guides.
+For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links). If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.
 
 ## Start here
 
-This is a summary of the steps that we will need to perform. Please keep on reading for a detailed explanation of each step.
+Below is a summary of the steps that we will walk you through:
 
 * [Login to GitHub with your username and password](#Login_to_GitHub_with_your_username_and_password)
 * [Find and fork the correct repository](#Find_and_fork_the_correct_repository)
@@ -39,7 +39,7 @@ This is a summary of the steps that we will need to perform. Please keep on read
 
 ### Login to GitHub with your username and password
 
-Since you have already created a username on GitHub, we can assume that you understand the basic layout and functionality. If you don't, please, explore and do some basic googling. When you're editing on GitHub, it is important to always make sure you are working on your own GitHub repository. To that end, make sure there is your own username before the slash and the correct repository after the slash. For example, EmilyLarkin/BeLL-Apps). All of Open Learning Exchange's work can be [found here](https://github.com/open-learning-exchange). All the different repositories represent different types of software used by OLE, and the repositories act as categorizing system.
+Since you have already created an account on GitHub, we will assume that you understand the basic layout and functionality. If you don't, please explore and do some basic googling. When you're editing on GitHub, it is important to always make sure you are working on your own GitHub repository. To that end, make sure there is your own username before the slash and the correct repository after the slash. For example, EmilyLarkin/BeLL-Apps). All of Open Learning Exchange's work can be [found here](https://github.com/open-learning-exchange). All the different repositories represent different types of software used by OLE, and the repositories act as categorizing system.
 
 There is a lot to learn about GitHub, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example will specifically create your own &lt;username&gt;.github.io and allow you to edit and commit your changes.
 
@@ -93,7 +93,7 @@ Then, in the new Markdown file, include the following information:
 * your name, location/time zone, and OS (including version)
 * a short description of yourself (so your fellow virtual interns know who you are)
 
-You may use the "Preview" tab to have a primitive look of what your Markdown will looks like. We recommend using at least 5 different types of Markdown elements so you can get an idea of how it works. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) links, [Profile 2](profiles/i5o.md) picture, [Profile 3](profiles/paulbert.md) lists
+You may use the "Preview" tab to have a primitive look of what your Markdown will look like. We recommend using at least 5 different types of Markdown elements so you can get an idea of how it works. Avoid using HTML as the purpose of Markdown is to make pages easy to write and read. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) links, [Profile 2](profiles/i5o.md) picture, [Profile 3](profiles/paulbert.md) lists
 
 If you need to edit your file again, click the pencil icon to edit (as shown below).
 
@@ -111,7 +111,7 @@ Once you have your profile ready, it's time to create a pull request. Clink on t
 
 There are a few things to watch out before clicking on the green "Create pull request" button. Make sure you:
 
-* give the pull request a short and descriptive title (e.g. create yourusrename.md)
+* give the pull request a short and descriptive title (e.g. create YourUserName.md)
 * include the rawgit link to your Markdown profile page in the pull request description
 * scroll down the page and verify you used at least 3-5 Markdown elements in your profile
 
@@ -119,7 +119,7 @@ Finally, click "Create pull request" button and post the link to your pull reque
 
 Often there will be some feedback from the reviewer for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will be automatically updated in the pull request. Once everything looks good, the reviewer will merge your Markdown profile with the main repository.
 
-After the pull request is merged, you'll be able to see your personal page on `open-learning-exchange.github.io/#!pages/vi/profiles/<YourUserName>.md`. Let us know in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat) after you complete this step.
+After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/vi/profiles/<YourUserName>.md`. Let us know in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat) after you complete this step.
 
 **NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/vi/profiles). Be creative.
 Make sure to include a rawgit link to your page in your pull request.
