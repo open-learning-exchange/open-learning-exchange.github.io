@@ -1,4 +1,4 @@
-# Cynthia Hilgeman Cindy_italic_
+# Cynthia Hilgeman _Cindy_
 ---
 Location: Bozeman, Montana (U.S.A) 
 Time Zone: Mountain Standard Time (MST), UTC/GMT -7hours
@@ -19,4 +19,4 @@ The Fun Stuff:
   * Currently Reading: Bellevue: Three Centuries of Medicine and Mayhem at America's Most Storied Hospital
   * Dream Trip: England, Scotland, and Ireland
   
-  LinkedIn [link](https://www.linkedin.com/in/cindyhilgeman/)
+  [LinkedIn Profile](https://www.linkedin.com/in/cindyhilgeman/)
