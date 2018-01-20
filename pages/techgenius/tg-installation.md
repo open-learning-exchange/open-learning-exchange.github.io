@@ -63,8 +63,8 @@ If it does not work, try this:
     sudo apt-get install git
     sudo apt-get install virtualbox
     curl -o vagrant.deb https://releases.hashicorp.com/vagrant/2.0.1/vagrant_2.0.1_x86_64.deb
-    sudo apt-get install -fy
     sudo dpkg -i vagrant.deb
+    sudo apt-get install -fy
     vagrant -h
 ```
 
