@@ -3,7 +3,8 @@
 **Location** : West Lafayette, Indiana
 **OS** : Windows 10 
 
-![picture] (Profile pic.PNG)
+![picture](file:///C:/Users/chakra17/Desktop/OLE/Pic.html)
+
 
 I am a sophomore in Purdue University, majoring in Electrical Engineering.
 
