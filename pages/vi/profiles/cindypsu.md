@@ -6,7 +6,9 @@ MS Windows 10 Pro, 10.0.16299
 
 This is me:
 
-![Alt text](https://avatars0.githubusercontent.com/u/35432613?s=400&u=a0637d3f2d86623519841fb953df4592bdca9f80&v=4 "Me")
+![alt text][me]
+
+[me]: https://avatars0.githubusercontent.com/u/35432613?s=400&u=a0637d3f2d86623519841fb953df4592bdca9f80&v=4 "Me"
 
 I am a senior at Pennsylvania State University World Campus and currently pursuing a Bachelor’s Degree in Information Science and Technology, with a minor in Security and Risk Analysis. I enjoy the fields of programming and information security, and I am very eager to gain more experience in a technical and creative role. My degree coursework has afforded me the opportunity to acquire programming experience with C++, Python, and Java, experience with database design, risk and threat analysis techniques, and security tools. I enjoy being part of teams, problem-solving, being creative, and working towards a greater goal. 
 
