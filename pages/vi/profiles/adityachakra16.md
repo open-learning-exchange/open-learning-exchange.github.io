@@ -3,8 +3,8 @@
 **Location** : West Lafayette, Indiana
 **OS** : Windows 10 
 
-![picture](file:///C:/Users/chakra17/Desktop/OLE/Pic.html)
 
+![Purdue](https://giving.purdue.edu/s/1461/images/gid1010/editor/campaign/gateway-arch.png)
 
 I am a sophomore in Purdue University, majoring in Electrical Engineering.
 
