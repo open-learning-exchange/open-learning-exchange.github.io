@@ -1,7 +1,7 @@
 # Arash Dai
 Los Angeles, Ca, PST Ubuntu 17.10 & Windows 10
 
-![alt text](https://avatars1.githubusercontent.com/u/8280071?s=460&v=4 "a picture of me")
+![a picture of me](https://avatars1.githubusercontent.com/u/8280071?s=460&v=4 "a picture of me")
 
 
 > I grauated in Spring 2014 with a Bachelors in Hospitality and Tourism Management.
