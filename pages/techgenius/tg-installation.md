@@ -22,6 +22,8 @@ powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.github
 ```
 To run your community BeLL at the end of the installation, please, find the MyBeLL icon on your desktop and double click on it. It will open a Firefox browser and take you directly to your community BeLL web page.
 
+Note: If Firefox displays ```Unable to connect``` error when the MyBell icon is clicked, visit [Vagrant instructions](#!pages/vi/vi-vagrant.md) for more information on ```vagrant up```.
+
 ### Dependencies
 
 These programs will be automatically installed on your computer:
@@ -53,7 +55,7 @@ Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installe
 
 ## Ubuntu
 
-Note: You may [download this bash file](uploads/bashScripts/instructions.sh) to automate the installation process. Make sure that the bash file is in the directory where you would like to store the [ole--vagrant-vi](https://github.com/dogi/ole--vagrant-vi) repository. Go to terminal and use command `sudo sh instructions.sh`
+Note: You may [download this bash file](../uploads/bashScripts/instructions.sh) to automate the installation process. Make sure that the bash file is in the directory where you would like to store the [ole--vagrant-vi](https://github.com/dogi/ole--vagrant-vi) repository. Go to terminal and use command `sudo sh instructions.sh`
 
 If it does not work, try this:
 
@@ -74,7 +76,7 @@ cd ole--vagrant-vi
 vagrant up
 ```
 
-Note: Refer to the Prerequisites section of [Vagrant instructions](vagrant.md) if you encountered an error while executing the command `vagrant up`
+Note: Refer to the Prerequisites section of [Vagrant instructions](#!pages/vi/vi-vagrant.md) if you encountered an error while executing the command `vagrant up`
 
 You now have a working [community BeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS.    
 It is advisable to use Firefox to access your community BeLL, so if you don't have it already on your system, you may want to download it.

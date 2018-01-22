@@ -26,17 +26,17 @@ First, you will need to open an issue within the right repository ([upstream rep
 
 After this, you will then research the possible solutions or ideas on how to address the issue and write a comment with this information, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefully provide input (as Dogi did here) and then you can move ahead with making the proposed changes.
 
+Note: It is very important to patiently wait until someone from the OLE confirms to make the change that your issue has brought up before you start working on the issue. Check out this example issue that shows the importance of confirmation: [#1465](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1465).  
+
 ## Create a New Branch
 
 Every time you start to work on an issue you need to create a branch to keep your work on various issues separate from each other. Before you create your branch, sync your repo following the process in the [previous step](vi-github-and-repositories.md). Then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
 Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch back to master, the files on your local machine revert to how they were before you made changes, since you are no longer on the new branch created.
 
-Hint: The default branch in your repository is called master. Keeping the master branch clean of any changes is a good practice so if you make any changes you don't want, you may revert back.
-
 Now you can go and make the proposed changes to your local files.
 
-Note: It's important that you are on the new branch, make sure you are on the correct branch with `git checkout branch-name` before committing. Use `git branch` to make sure you are on the correct branch.
+Note: Use `git branch` to see which branch you are in.Your Master branch is the base working branch. It needs to remain untouched just in case you need to revert some changes back to a working version. Make sure you are on right branch using `git checkout branch-name` while making proposed changes to your local files and while committing.
 
 If you're still confused, that's quite alright. The data flow of GitHub can be quite challenging at first. See this diagram below. For better context, the new branch you just made is inside your "Forked Github IO".
 
@@ -109,5 +109,6 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 
 [Mastering Issues](https://guides.github.com/features/issues/) - The official Git Guide on the basics of filing an issue.
 [Helpful links and videos](vi-faq.md#Helpful_Links)
+[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 #### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)

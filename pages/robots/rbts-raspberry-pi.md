@@ -15,7 +15,9 @@ Since ole--vagrant-treehouses creates a virtual machine, it works on all platfor
 - Any RPI for testing the microSD card
 - A class10 microSD card (minimum 8 Gb) new image to the class10 microSD card
 - microSD card reader/writer for writing the
+
 **Building the image with treehouse-builder:**
+
 - Ubuntu or Debian based Linux distribution (Other distros are untested)
 - An Internet connection
 
@@ -32,9 +34,15 @@ We meet on Wednesdays at 4:30 PM EST online on [http://talk.ole.org](http://talk
 
 ## How can I help?
 
-So far we are working on creating a seamless experience for the image, meaning we want the user to have many connectivity options without having to tinker too much with the Raspberry Pi. So our main concerns at the moment is getting the RPI to connect to different connectivity options such as wifi/bluetooth/ethernet automatically. This allows more people to contribute and debug unexpected problems. Once we have those bases covered, we can move onward to the software part. 
+So far we are working on creating a seamless experience for the image, meaning we want the user to have many connectivity options without having to tinker too much with the Raspberry Pi. So our main goal at the moment is getting the RPI to connect to different connectivity options such as wifi/bluetooth/ethernet automatically. This allows more people to contribute and debug unexpected problems. Once we have those bases covered, we can move onward to the software part. 
 
 There is always something to be done. Check the [GitHub issues](https://github.com/ole-vi/treehouse-builder/issues) for treehouse-builder to see what needs to be done or [waffle.io](https://waffle.io/ole-vi/treehouse-builder). Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go through the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on gitter.
+
+Since we are customizing the image, we would like to access it without using password everytime. In order to do that, [our implementation](https://github.com/ole-vi/treehouse-builder/blob/master/scripts.d/30_ssh_keys.sh) requires you to set your membership to be public at [Open Learning Exchange](https://github.com/orgs/open-learning-exchange/people) and have a [SSH key in your GitHub account](https://github.com/settings/keys). If you don't have one for the computer your are working on, please follow [**the guide on GitHub Help**](https://help.github.com/articles/connecting-to-github-with-ssh/) and return here when you are finished.
+
+After you are done generating and adding SSH keys, go to `https://github.com/<your-github-username>.keys` to double-check if your new key is on GitHub.
+
+Note: On the next [release](http://dev.ole.org), your key will be in the image.
 
 ## Brief Rundown of Treehouse-Builder
 
@@ -49,7 +57,7 @@ Below we have a short step-by-step rundown of how the treehouse-builder works:
  - Install packages needed for OLE such as docker and matchbox-keyboard
  - Run autorun script
 4. Enter chroot if user needs to perform additional commands
-5. Write the .img file with a program such as Etcher to the MicroSD card.
+5. Write the .img file with a program such as Etcher to the MicroSD card
 
 ## List of Relevant Repositories & Links
 

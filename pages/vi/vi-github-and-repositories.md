@@ -8,7 +8,7 @@
 
 ## Introduction
 
-On GitHub, our software code is organized in repositories, each of which represents a different project we're working on. For example, you have been working on one of our repositories, called open-learning-exchange.github.io. We would strongly suggest you to look (look, don't touch) at our different repositories on GitHub [here](https://github.com/open-learning-exchange). These repositories act as a categorizing system for us to organize our code.
+On GitHub, our software code is organized in repositories, each of which represents a different project we're working on. For example, you have been working on one of our repositories, called **open-learning-exchange.github.io**. We would strongly suggest you to look (**look, don't touch**) at our different repositories on GitHub [here](https://github.com/open-learning-exchange). These repositories act as a categorizing system for us to organize our code.
 
 As previously mentioned, you fork a repository to work on your own GitHub account, and then send back your changes to the upstream repository in the form of a pull request. You went through this process to fork open-learning-exchange.github.io and rename it to your own repository. Normally, we do not rename repositories, but Markdown Wikis are slightly different. In the future, plan on forking different repositories, working on them, then sending your work to the upstream repo via pull request. The general GitHub structure is diagrammed below.
 
@@ -18,11 +18,13 @@ As previously mentioned, you fork a repository to work on your own GitHub accoun
 
 This is just a summary of the steps that you will need to perform. Please, keep on reading for a detailed explanation of each step.
 
+
+
 * [Clone Your GitHub Repository username.github.io](#Clone_Your_GitHub_Repository_username.github.io)
-* [Clone with HTTPS or Use SSH?](#Clone_with_HTTPS_or_Use_SSH?) 
-* [Read the Explanation to Understand Repositories and Syncing Process](#Explanation_About_Repositories_and_Syncing_Process)
-* [Configure a Remote Repository for your fork](#Configure_a_Remote_Repository_For_Your_Fork)
-* [Sync Your fork](#Sync_Your_Fork)
+* [Clone with HTTPS or Use SSH?](#Clone_with_HTTPS_or_Use_SSH?)
+* [Explanation About Repositories and Syncing Process](#Explanation_About_Repositories_and_Syncing_Process)
+* [Configure a Remote Repository for Your Fork](#Configure_a_Remote_Repository_for_Your_Fork)
+* [Sync Your Fork](#Sync_Your_Fork)
 
 ### Clone Your GitHub Repository username.github.io
 
@@ -30,9 +32,9 @@ Now, we will be using GitHub repositories on a command line, which means that th
 
 ![GitHub Clone URL](images/vi-github-clone-url.png)
 
-Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).
+Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you  `cd  ` into your `<username>.github.io` you can see different files which you will be working on during your internship.
 
-##### Clone with HTTPS or Use SSH?
+### Clone with HTTPS or Use SSH?
 
 Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
@@ -45,7 +47,7 @@ As you create a fork from the original repository and then clone your forked rep
 
 First, the GitHub help section and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://help.github.com/articles/syncing-a-fork/) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, following the steps below, you will need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io.
 
-#### Configure a Remote Repository for Your Fork
+### Configure a Remote Repository for Your Fork
 
 To be able to fetch updates from the upstream repository, you need to first configure the upstream repository by following these steps:
 
@@ -139,7 +141,7 @@ index bf400c0..fc7380b 100644
 
 This process needs to be repeated whenever you begin to work, to make sure that you are always up to date. If there are discrepancies, it will mess up the code and you could potentially lose your saved changes, because it was not updated properly. We will provide more information on editing and saving changes in the next tutorial.
 
-### Summary
+## Summary
 
 Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
 

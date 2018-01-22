@@ -63,13 +63,13 @@ var request = new XMLHttpRequest(); // global var
 	function Total_PRs(){ //Test-ALL
 	var user = prompt("Please enter username", "Dogi");
      
-		
+if (!(user == "" || user == null)) {		
 		var object= 'github.com';
 		object =  'https://api.github.com/search/issues?q=repo:open-learning-exchange/open-learning-exchange.github.io+author:'+user+'+type:pr&sort=created&order=asc'
 		console.log(object)
 	
 
-	
+
 // Initialize a request
 request.open('get', object)
 request.send()
@@ -79,19 +79,19 @@ request.send()
     }
 	}
 	
-
+	}
     }
 	
 		function Total_Issues(){ //Test-ALL
 	var user = prompt("Please enter username", "Dogi");
-     
+if (!(user == "" || user == null)) {   
 		
 		var object= 'github.com';
 		object =  'https://api.github.com/search/issues?q=repo:open-learning-exchange/open-learning-exchange.github.io+author:'+user+'+type:issue&sort=created&order=asc'
 		console.log(object)
 	
 
-	
+
 // Initialize a request
 request.open('get', object)
 request.send()
@@ -101,17 +101,17 @@ request.send()
     }
 	}
 	
-
+	}
     }
 	function Merged_PRs() { // test-Merged-PRs
 	var user = prompt("Please enter username", "Dogi");
-    
+if (!(user == "" || user == null)) {   
 		var object= 'github.com';
 		object =  'https://api.github.com/search/issues?q=repo:open-learning-exchange/open-learning-exchange.github.io+author:'+user+'+is:merged&sort=created&order=asc'
 		console.log(object)
 		//location.href =  object
 
-	
+
 // Initialize a request
 request.open('get', object)
 request.send()
@@ -122,7 +122,7 @@ request.send()
     } 
 	}
 
-	
+	}
     }
 
   </script>
@@ -188,7 +188,7 @@ Directions:
 <li>Move your cursor over the button below and click on one of the options. </li> 
 <li>Type in a valid username.</li>
 <li>Remember, in order to complete the <a href="http://open-learning-exchange.github.io/#!pages/vi/vi-first-steps.md">"First Steps"</a> you need at least 5 PRs and 4 issues.</li>
-<li>Click <a href="http://open-learning-exchange.github.io/#!index.md";>here</a> to return.</li>
+<li>Click <a href="http://open-learning-exchange.github.io/#!pages/vi/vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests";>here</a> to return.</li>
 
 
 

@@ -48,7 +48,7 @@ Since you have already created a username on GitHub, we can assume that you unde
 
 There is a lot to learn about GitHub, but to acclimatize you to it, we will provide a basic example of how to change something on GitHub. This example will specifically create your own &lt;username&gt;.github.io and allow you to edit and commit your changes.
 
-**NOTE**: Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-email-vi-git/) for more information.
+**NOTE**: Existing Github users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-commit-email-address-in-git/) for more information.
 
 ### Find and fork the correct repository
 
@@ -66,35 +66,43 @@ After you fork the repository, you will be on your page: &lt;username&gt;/open-l
 
 After you rename it, make sure to post a link to the github.io website you've just created (&lt;username&gt;.github.io) in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-![Example of github.io page](images/vi-example-githubio.png)
+> @dogi  please look at  https://YourUserName.github.io 
 
 Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
-**NOTE**: Always pay attention when you are working on GitHub, to make sure you work on your own personal account and not on Open Learning Exchange GitHub account. Once again, it is very important to distinguish between your personal GitHub account and the Open Learning Exchange account. As we want to keep a 'clean' version of our code, everyone forks the repositories, commit their changes to their own personal version of the repository, and then send the changes back to the Open Learning Exchange repository for approval (called a pull request), before the Open Learning Exchange code is updated.
+**NOTE**:
+• Always pay attention when you are working on GitHub, to make sure you work on your own personal account and not on Open Learning Exchange GitHub account. Once again, it is very important to distinguish between your personal GitHub account and the Open Learning Exchange account.
+• As we want to keep a 'clean' version of our code, everyone forks the repositories, commit their changes to their own personal version of the repository, and then send the changes back to the Open Learning Exchange repository for approval (called a pull request), before the Open Learning Exchange code is updated.
 
 Please, make sure to ALWAYS work on your own personal account via forking and pull requests.
 
-### Create a new file as your personal MD Wiki page and commit your changes
+### Create a new file as your personal MDwiki page and commit your changes
 
  Before creating your file create a new branch using the branch drop down menu as shown below. Click on the Branch drop down menu and name your branch(you can give any name to your branch) then click Create branch. Once you are done with that now you can see that your branch is listed in the menu.
 
 ![New Branch](images/vi-new-branch.png)
 
- To create your page click on the pages/profiles folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [kylemathias.github.io/blob/master/pages/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
+ To create your page click on the `pages/vi/profiles` folder. Then, click New File and name the file exactly the same as your GitHub username. We created pages for you using your GitHub username, so it is important that you stick with that name. For reference, an example of a link to a personal page is [https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md), so yours should be named in the same manner, only using your username.
 
 In the new file, please type your name, your location/time zone, and OS (including version). In addition, make sure to add a short description of yourself as well, so your fellow virtual interns know who you are. Also try to use several Markdown elements in your page to get an idea for how it works.
 
-We recommend using at least 5 different types of Markdown and to try to be as creative as possible.
+We recommend using at least 5 different types of Markdown elements and to try to be as creative as possible. Some good examples of profiles are:
+- [Profile 1](profiles/Loshma93.md) links
+- [Profile 2](profiles/i5o.md) picture
+- [Profile 3](profiles/paulbert.md) lists
 
 If you need to edit your file again, just click the pencil icon to edit (as shown below).
 
   ![Edit Profile](images/vi-edit-profile.png)
 
-Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/profiles/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
+Now, check what this looks like on your own page `https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md` and post a link to it in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat). Check and double check that everything looks good and is working before initiating a pull request.
 
-**NOTE**: If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 to reload the page with cache cleared.
+**NOTE**:
+• If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 to reload the page with cache cleared.
+• As MDwiki site is what we use for "production," please **always check** if everything renders as you expected using rawgit link. There are [different flavors of Markdown](https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors). Use GitHub's preview tab for reference only.
 
-### Open Pull Request
+
+### Open a pull request
 
 Then, you can create a pull request by clicking the `Pull requests` button and then clicking `New pull request`.   
 
@@ -108,7 +116,7 @@ Often there will be some feedback from the reviewer at this point for you to add
 
 After the pull request is completed, you'll be able to see this on open-learning-exchange.github.io in addition to your personal page. Let us know when you have completed this step in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
-**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/profiles). Be creative.  
+**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/vi/profiles). Be creative.  
 Make sure to include a rawgit link to your page in your pull request.
 
 ## Useful Links

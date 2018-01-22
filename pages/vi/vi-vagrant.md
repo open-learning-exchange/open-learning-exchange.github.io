@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system.
+Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system.
 
 If so, here are instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [Macintosh](http://kb.parallels.com/en/5653)
 
@@ -152,16 +152,17 @@ or not commonly used. To see all subcommands, run the command
 
 ## Troubleshooting
 
-1. When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual.
-
-For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+1. When typing the command "vagrant up" in OSX, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to perform the command below. ```sudo rm /opt/vagrant/embedded/bin/curl``` This will remove the old version of curl and vagrant should now work as usual. For more information go [here](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
 
 2. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html in step 4, you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
+
+3. When you run ```vagrant up``` from command prompt on windows, you might get the following error :
+"The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run ```vagrant up```. For more information visit [issue](https://github.com/hashicorp/vagrant/issues/6788)
 
 ## Useful  Links
 
 [Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)
-[Why install Vagrant?](https://www.vagrantup.com/docs/why-vagrant/) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
+[Why install Vagrant?](https://www.vagrantup.com/intro/index.html) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
 [Vagrant download](https://www.vagrantup.com/downloads.html)
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
