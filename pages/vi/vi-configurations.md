@@ -51,12 +51,10 @@ After filling out your configurations, remember to save a screenshot of the conf
 
 **Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply use Ctrl+C and Ctrl+V to paste your image.*
 
-Then, click on the **"Register"** button and you will receive a confirmation that your community has been successfully registered (see below).
-
-![Successfully Registered](images/vi-success.png)
-
-Then, post to the Gitter chat the screenshot you took earlier, so an admin can accept your registration request. 
-
-Your registration request will be accepted from the nation side (this may take a day or two depending on when dogi sees it). After this happens, once you are logged in and online, you will see the following message.
+Then, click on the **"Register"** button. Your registration request for your community will be automatically accepted from the nation side. You will see the following message.
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
+
+After clicking on OK button, you will be automatically logged in.
+
+Then, post to the Gitter chat the screenshot you took earlier.
