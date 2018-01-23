@@ -145,7 +145,7 @@ This process needs to be repeated whenever you begin to work, to make sure that 
 
 Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
 
-1. Clone your GitHub respoitory username.github.io
+1. Clone your GitHub repository username.github.io
 - Copy the HTTPS or SSH link from your repository on the GitHub site
 - On the command line, type `git clone *paste your HTTPS or SSH link here*`
 2. Understand that there are three levels of a Github repository: the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io)), your username.github.io on GitHub and your username.github.io on your OS.
@@ -160,7 +160,7 @@ These need to be synced and checked constantly.
 - `git fetch upstream` -  to fetch branches from the upstream repository
 - `git checkout master` - check to make sure branch is up-to-date with master
 - `git merge upstream/master` - You repository should now be synced to upstream/master
-5. Whenever you begin to work, make sure your respository is up to date with `git diff` and `git status` between your local and username.github.io repos, not your upstream repo.
+5. Whenever you begin to work, make sure your repository is up to date with `git diff` and `git status` between your local and username.github.io repos, not your upstream repo.
 
 If you find yourself needing to rebase your forked repository, the following two links should help:
 
