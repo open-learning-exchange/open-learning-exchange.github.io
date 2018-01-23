@@ -1,4 +1,4 @@
-# GitHub and Markdown <a name="github-and-markdown"></a>
+# GitHub and Markdown 
 
 ## Objectives
 

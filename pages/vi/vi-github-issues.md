@@ -1,4 +1,4 @@
-# GitHub Issues <a name="github-issues"></a>
+# GitHub Issues 
 
 ## Objectives
 

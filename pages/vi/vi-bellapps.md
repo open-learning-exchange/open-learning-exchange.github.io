@@ -1,4 +1,4 @@
-# BeLL-Apps: Communities and Nations <a name="bellapps"></a>
+# BeLL-Apps: Communities and Nations
 
 ## Objectives
 

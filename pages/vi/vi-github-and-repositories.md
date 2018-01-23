@@ -1,4 +1,4 @@
-# Git Repositories <a name="github-and-repositories"></a>
+# Git Repositories 
 
 ## Objectives
 
