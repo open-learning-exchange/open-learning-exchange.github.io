@@ -16,7 +16,7 @@ Make sure vagrant is running and then click [here](http://127.0.0.1:5985/apps/_d
 
 **NOTE**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user on your community. Therefore, create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it a password that you actually use, as other people logged in as admin may be able to see it-- you won't need the password in the future so don't worry about having to remember or save it after this one time). Then, login and double-check that you're listed under Members. Then, log out and log back in with your admin account. Now that your community has a user, you can sync with the nation.
 
-![Clicking on "Dummy User"](images/vi-nation-add-dummy.png "Dummy User")
+![Clicking on "Dummy User"](images/vi-JohnSmith-Dummy-User.png "Dummy User")
 
 ## Sync With the Nation
 
