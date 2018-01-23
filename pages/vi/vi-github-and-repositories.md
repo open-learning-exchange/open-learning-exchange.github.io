@@ -21,7 +21,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 
 
 * [Clone Your GitHub Repository username.github.io](#Clone_Your_GitHub_Repository_username.github.io)
-* [Clone with HTTPS or Clone with SSH?](#Clone_with_HTTPS_or_Use_SSH?)
+* [Clone with HTTPS or Use SSH?](#Clone_with_HTTPS_or_Use_SSH?)
 * [Explanation About Repositories and Syncing Process](#Explanation_About_Repositories_and_Syncing_Process)
 * [Configure a Remote Repository for Your Fork](#Configure_a_Remote_Repository_for_Your_Fork)
 * [Sync Your Fork](#Sync_Your_Fork)
@@ -34,7 +34,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 
 Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you  `cd  ` into your `<username>.github.io` you can see different files which you will be working on during your internship.
 
-### Clone with HTTPS or Clone with SSH?
+### Clone with HTTPS or Use SSH?
 
 Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
