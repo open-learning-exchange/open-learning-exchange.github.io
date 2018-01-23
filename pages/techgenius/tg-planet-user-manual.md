@@ -64,7 +64,7 @@ In the Planet system, there are three different kinds of users: **Learners**, **
 
 If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities.  In order to see the available manager functionality, click on “_Manager_” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections. 
 
-### How do I navigate the Dashboard?
+### _How do I navigate the Dashboard?_
 
 An example of the Manager Dashboard is shown below. The functionality are defined for each element of the Dashboard.
 
