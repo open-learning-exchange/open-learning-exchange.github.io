@@ -45,26 +45,26 @@ Once you have finished installing, go to the [Configuration Guide](vi-configurat
 
 ## Step 2 - Vagrant Tutorial
 
-Review these [Vagrant instructions](vi-vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
+Review these [Vagrant instructions](vi-vagrant.md#vagrant) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
 
 ## Step 3 - Markdown and Fork Tutorial
 
-Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/vi/profiles/&lt;username&gt;.md).
+Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md#github-and-markdown). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/vi/profiles/&lt;username&gt;.md).
 
 * Once you complete the Step 3 you will have:
     * 1 Pull request made
 
 ## Step 4 - BeLL-Apps Tutorial
 
-Follow the instructions under the [BeLL-Apps tab](vi-bellapps.md).
+Follow the instructions under the [BeLL-Apps tab](vi-bellapps.md#bellapps).
 
 ## Step 5 - Keeping Fork Updated
 
-Follow the directions at [Git Repositories](vi-github-and-repositories.md) to keep your username.github.io and your local repository up to date.
+Follow the directions at [Git Repositories](vi-github-and-repositories.md#github-and-repositories) to keep your username.github.io and your local repository up to date.
 
 ## Step 6 - GitHub Issues Tutorial
 
-Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md) to create at least one issue. You will be working to improve this MarkDown Wiki so that it is clearer and better for future use. Post a link in Gitter whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. It is ok to file an issue on minor typos and very small changes, but do not make this the case for all of the issues that you file.
+Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md#github-issues) to create at least one issue. You will be working to improve this MarkDown Wiki so that it is clearer and better for future use. Post a link in Gitter whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. It is ok to file an issue on minor typos and very small changes, but do not make this the case for all of the issues that you file.
 
 Contribute as much value as you can in each issue you file. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. Next, fix the issue on your repo and create pull requests, as per the tutorial. Don't forget you can also comment and work on issues that you didn't create. The more you work and commit and push, the more impressive your GitHub profile will become. This is very important to potential employers, thus we encourage you to spend time to increase your numbers to strengthen your profile. Make sure you have created at least one issue, resolved it and have a pull request with the fix merged before proceeding to the next step.
 
