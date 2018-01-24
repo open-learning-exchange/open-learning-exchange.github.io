@@ -21,8 +21,10 @@
   My most recent personal project is an Android app called What's for Dinner?  
   It works by using the Google Maps API to locate your device and then  
   uses the Google Web Services API to find restaurants near you.  
-  Finally, it selects one for you at random. 
+  Finally, it selects one for you at random.  
+  
+  My LinkedIn can be found at: [LinkedIn](www.linkedin.com/in/nick-bratt-sd)
   
 ### Hobbies
   In my free time I love to play the drums or play video games such as League of Legends.  
-  ![](https://github.com/NickBratt/ResponsiveWebDesign/tree/master/Lewis/drums.jpg?raw=true)
+  ![Drums](/Users/nickbratt/Desktop/drums.jpg)
