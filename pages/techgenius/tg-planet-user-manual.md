@@ -8,7 +8,7 @@ OLE’s mission is to ensure learning for all, not only universal basic literacy
 
 ## The Planet Learning System
 
-### What is the OLE Planet Learning System (Planet)?
+### _What is the OLE Planet Learning System (Planet)?_
 
 Personalized Learning And Networked Enabled Teams (Planet) is a multilingual learning system and library with thousands of educational Resources including books, videos, and educational games.  The system also includes software tools for content and student management, student evaluation and monitoring, and Courses creation.
 
@@ -16,7 +16,7 @@ At the core of Planet is a repository of free, open access, and public domain Re
 
 The Planet system exists in the cloud but it can also be configured to run locally without the need for internet connectivity making it a viable solution for remote locations where internet connectivity is unreliable or nonexistent.  Planet facilitates frequent assessments of learners, leaders, and administrators.  It also promotes the evaluation and effectiveness of the learning Resources.  Robust usage feedback metrics make Planet a powerful tool for those overseeing monitoring and evaluation of the education system.
 
-### What are Planet Nations and Communities?
+### _What are Planet Nations and Communities?_
 
 Under the Planet system, there are two types of structures: **Nations** and **Communities**.
 
@@ -228,11 +228,11 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 ## Courses Overview
 
-### What is a Course?
+### _What is a Course?_
 
 A Course allows Leaders to walk Learners through specific Resources and exercises to learn new skills.  Leaders can create Courses by grouping and ordering Resources and allowing Learners to upload papers or take Quizzes.  
 
-### How do I create a Course?
+### _How do I create a Course?_
 
 To create a Course, log in and start from the Home page.
 - Go to the *“Courses”* tab in the top menu and then select *“Add Course.”*
@@ -322,7 +322,7 @@ Fill out the following form:
 4. You can always return to the Quiz to add questions. 
 **NOTE:** Once you select *“Next Question,”* you cannot go back or save the Quiz until you have filled it out.
  
-### General Guidelines for Steps and Courses
+### _General Guidelines for Steps and Courses_
 
 Below is a list of general guidelines for Steps and Courses.
 
@@ -334,7 +334,7 @@ Below is a list of general guidelines for Steps and Courses.
  
 - If you change your mind and want to create a Quiz instead of a paper or vice versa, you can switch by going to the *“Edit Step”* tab.
  
-### Managing a Course
+### _Managing a Course_
 
 Below are tips for managing a Course.
  
