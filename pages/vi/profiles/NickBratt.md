@@ -11,12 +11,12 @@ My favorite programming langauges to code in are as follows:
 1. Java  
   * Android  
 2. C#  
-3.JavaScript  
+3. JavaScript  
   * p5  
   * jQuery  
 4. HTML/CSS  
   * Bootstrap  
-5.Last and definitely least, PHP  
+5. Last and definitely least, PHP  
 
 
 My most recent personal project is an Android app called What's for Dinner?  
