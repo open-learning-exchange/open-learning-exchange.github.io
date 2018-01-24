@@ -24,9 +24,13 @@ First, you will need to open an issue within the right repository ([upstream rep
 
 ![Providing Detail on New Issue](images/vi-new-issue.png)
 
-After this, you will then research the possible solutions or ideas on how to address the issue and write a comment with this information, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefully provide input (as Dogi did here) and then you can move ahead with making the proposed changes.
+After you have submitted the new Issue, you will then research the possible solutions, or ideas, on how to address the Issue. Once you've completed your research, then you will add a comment detailing your proposed solution, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefully provide input (as Dogi did here) and then you can move ahead with making the proposed changes.
 
-Note: It is very important to patiently wait until someone from the OLE confirms to make the change that your issue has brought up before you start working on the issue. Check out this example issue that shows the importance of confirmation: [#1465](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1465).  
+IMPORTANT: Issues are _not required_ to be approved _before_ a Pull Request is submitted for the respective fix; however, we do suggest that you wait until someone from the OLE confirms/approves the change that your issue addresses BEFORE you begin work on the fix. Check out this example issue, per Dogi, that shows the importance of confirmation: [#1465](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1465).  
+
+**BE WARNED!** If the OLE member(s) does not approve your issue, prior to the creation of the Pull Request, your efforts may be in vain. If the OLE member(s) does not approve the change, the Pull Request will not be merged and the Issue will not be counted towards your "First Steps" progress. Therefore, it is suggested that you wait for the OLE member(s) to approve your Issue submission.
+
+_**SPECIAL NOTE:**_ Aspiring Virtual Interns have a tendency to speed through this process in order to check off their "First Steps" requirements. The purpose of these requirements is to fix an actual problem and improve the "First Steps" as a whole. Take time to review the "First Steps" materials to identify real issues and to research helpful solutions. It is also important to search current/open Issues to see if the problem has already been identified.
 
 ## Create a New Branch
 
