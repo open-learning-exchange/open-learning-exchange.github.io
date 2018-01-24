@@ -23,8 +23,8 @@
   uses the Google Web Services API to find restaurants near you.  
   Finally, it selects one for you at random.  
   
-  My LinkedIn can be found at: [LinkedIn](www.linkedin.com/in/nick-bratt-sd)
+  My LinkedIn can be found at: [LinkedIn](https://www.linkedin.com/in/nick-bratt-sd)
   
 ### Hobbies
   In my free time I love to play the drums or play video games such as League of Legends.  
-  ![Drums](/Users/nickbratt/Desktop/drums.jpg)
+  
