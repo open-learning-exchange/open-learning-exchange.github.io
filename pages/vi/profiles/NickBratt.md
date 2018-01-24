@@ -9,13 +9,14 @@
   Hello, I am a Computer Science major graduating in the Spring of 2018.
   My favorite programming languages to code in are as follows: 
   1. Java 
-       * Android
-  2. C#
+    * Android
+  2. C#  
+  
   3. JavaScript
-       * p5
-       * jQuery
+    * p5
+    * jQuery
   4. HTML/CSS
-       * Bootstrap
+    * Bootstrap
   5. Last and definitely least, PHP
   
   My most recent personal project is an Android app called What's for Dinner?  
