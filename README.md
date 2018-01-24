@@ -9,7 +9,7 @@ How to Contribute
 First things first
 ------------------
 
-Learn [Markdown](https://help.github.com/articles/github-flavored-markdown)! Then check out MDwiki's [quick start](http://dynalon.github.io/mdwiki/#!quickstart.md) 
+Learn [Markdown](https://help.github.com/articles/github-flavored-markdown)! Then check out MDwiki's [quick start](http://dynalon.github.io/mdwiki/#!quickstart.md).
 
 Whenever you feel stuck, go to [MDwiki's own site](http://mdwiki.info) for further information.
 
@@ -53,9 +53,9 @@ _You should have a language wiki folder by now, if not, go back and read above t
 
 Suppose your first wiki is going to be in English, hence you must have a folder called `en`, as previously described.
 
-1. Open `index.html` file with your favorite plain text editor (the one that is at the same level where `ll_CC` and your language folder is located, **NOT the one inside your language folder**)
-1. Find where it says "Override `ll_CC` below with your default language and country code"
-1. Change refresh meta tag from `url=ll_CC/` to `url=en/` **(trailing `/` is very important)**
+1. Open `index.html` file with your favorite plain text editor (the one that is at the same level where `ll_CC` and your language folder is located, **NOT the one inside your language folder**).
+1. Find where it says "Override `ll_CC` below with your default language and country code."
+1. Change refresh meta tag from `url=ll_CC/` to `url=en/` **(trailing `/` is very important).**
 
 Structure
 ---------
