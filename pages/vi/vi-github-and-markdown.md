@@ -49,7 +49,7 @@ There is a lot to learn about GitHub, but to acclimatize you to it, we will walk
 
 Forking is essentially creating a copy of a repository on your own GitHub account, to avoid editing and, possibly, messing up with the main repository.
 
-Now, go to OLE's [MDwiki repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and click on the "Fork" button as shown in the screenshot below to fork the repository to your own GitHub account.
+Now, go to [OLE's github.io repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and click on the "Fork" button as shown in the screenshot below to fork the repository to your own GitHub account.
 
 ![Forking on GitHub](images/vi-github-forking.png)
 
@@ -76,19 +76,18 @@ Don't worry if you see a **404** when you access the link, it will take a while 
 
 First, before creating your file, we need to create a new branch
 
-1. click on the "Branch: **master**" drop down menu as shown in the screenshot below
-  * make sure it says "Branch: **master**"" on the drop down menu button. If it's something else, click on the drop down and switch to master first
-2. Give your new branch a short and descriptive name (you can read more about branch naming [here](https://github.com/agis/git-style-guide#branches))
-3. Click on "Create branch: your-new-branch-name". Then you should see "Branch: **your-new-branch-name**" on the branch drop down menu
+1. Click on the branch selector menu (make sure it says "Branch: **master**", if it's something else, click on it and switch to master branch first
+1. Give your new branch a short and descriptive name (you can read more about branch naming [here](https://github.com/agis/git-style-guide#branches))
+1. Click on "Create branch: your-new-branch-name". Then you should see "Branch: **your-new-branch-name**" on the branch selector menu
 
   ![New Branch](images/vi-new-branch.png)
 
 Next, we are going to create your page
 
-1. go to the `pages/vi/profiles` folder
-2. make sure you are still on the new branch your just created, look for "Branch: **new-branch-name**" on the branch drop down menu
-3. click `Create new file` button
-4. name the file exactly the same as your GitHub username with file extension `.md`
+1. Go to the `pages/vi/profiles` folder
+1. Make sure you are still on the new branch your just created, look for "Branch: **new-branch-name**" on the branch selector menu
+1. Click `Create new file` button
+1. Name the file exactly the same as your GitHub username with file extension `.md`
   * It is important that you stick with your GitHub username so we could easily identify you
   * For reference, an example of a link to a personal page is [https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md), yours should be named in the same manner, only using your username.
 
