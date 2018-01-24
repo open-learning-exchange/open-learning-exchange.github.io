@@ -89,4 +89,4 @@ If you are unable to connect to the router’s Wi-Fi, then the router should pro
 
 Turn on the router and press the small RESET button on the back of the router, hold for 30 seconds and then release while the router is restored to factory default settings.
 
-Start again.
+[Restart](#Router_Configuration_|_Background) configuration process after restoring settings to factory default.
