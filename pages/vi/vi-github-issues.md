@@ -16,7 +16,7 @@ Note: Issues are not just about adding to the wiki, but can also involve removin
 
 Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
 
-We encourage you to file as many issues as you can, no matter how big or small. If you notice something, but are not sure how to solve it, file an issue anyway to let others know about it. If you do not know how to, let others know about it so it can be fixed. Try to provide as much value with your issues and to the community to improve this section for all. Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
+We encourage you to file as many issues as you can, no matter how big or small. If you notice something, but are not sure how to solve it, file an issue anyway to let others know about it so it can be fixed. Strive to provide as much value as possible with the issues you submit. By doing so, you will better support the community and improve this section for all. Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
 
 ## Create an Issue
 

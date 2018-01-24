@@ -58,3 +58,6 @@ Then, click on the **"Register"** button. Your registration request for your com
 After clicking on OK button, you will be automatically logged in.
 
 Then, post to the Gitter chat the screenshot you took earlier.
+
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_Installation)
+
