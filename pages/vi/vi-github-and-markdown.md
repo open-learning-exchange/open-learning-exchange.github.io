@@ -8,23 +8,21 @@
 
 ## Preparation
 
-You must already have a GitHub account with verified email address.
+[GitHub](https://help.github.com/categories/writing-on-github/) – a web-based hosting service for version control using git, source code management system for OLE.
 
-[GitHub](https://help.github.com/categories/writing-on-github/) acts as a source code management system for Open Learning Exchange (OLE). Please read some of the basic instructions below to learn how we use GitHub at OLE.
+[Markdown](https://en.wikipedia.org/wiki/Markdown) – a lightweight markup language with plain text formatting syntax.
 
-[MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) is the software we use for our Virtual Intern website. [Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language that is very easy to learn and allows us to quickly format our text. MDwiki uses Markdown as its input markup language and extends Markdown with some special [Gimmicks](https://dynalon.github.io/mdwiki/#!gimmicks.md).
+[MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) – a CMS/Wiki built in HTML5/Javascript and runs on the client. It uses Markdown as its input markup language. The OLE support website you are currently viewing is realized with MDwiki.
 
 ### Markdown
 
-Note that Markdown != HTML. In the screenshot below, you can see an example of Markdown syntax on the left side and the way it is rendered on the right side:
-
 ![Markdown Preview](images/vi-markdown-ref.png)
-
-Below is a cheat sheet of Markdown that might help you create your own Markdown page later:
+Example of Markdown syntax on the left side and the way it is rendered on the right side (click on image to expand):
 
 ![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
+A Markdown cheat sheet that might help you create your own Markdown page later:
 
-For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links). If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.
+**NOTE**: Markdown != HTML. For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links). **If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.**
 
 ## Start Here
 
@@ -53,8 +51,8 @@ Now, go to [OLE's github.io repository](https://github.com/open-learning-exchang
 
 ![Forking on GitHub](images/vi-github-forking.png)
 
-**ATTENTION**: It is very important to **distinguish between your personal GitHub account and OLE's account**.
-As we want to keep a 'clean' version of our code, everyone forks the repositories, commit their changes to a branch on their own version of the repository, and then send the changes back to OLE's repository for approval (called a pull request), before OLE's code is updated. We'll walk you through the rest of the process in this guide.
+**NOTE**: It is very important to **distinguish between your personal GitHub account and OLE's account**.
+As we want to keep a 'clean' version of our code, everyone forks the repositories, commit their changes to a branch on their own version of the repository, and then send the changes back to OLE's repository for approval (called a pull request), before OLE's code is updated.
 
 ### Go to Settings and rename your repository
 
