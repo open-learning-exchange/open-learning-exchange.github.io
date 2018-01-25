@@ -1,13 +1,6 @@
 # Planet Quick Start Manual
 
-This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Rasperry Pi server. 
-
-- [How do I Connect the Planet Hardware?](#How_Do_I_Connect_the_Planet_Hardware?)
-- [How do I Connect the Community to the Internet?](#How_Do_I Connect_the Community_to_the_Internet?)
-- [How do I Perform Connection Troubleshooting?](#)
-- [Basic Troubleshooting](#Basic_Troubleshooting)
-
-This manual assumes the reader possess some basic background on the Planet and ts functionality; however, it does not assume the reader has a technical or software background.
+This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Rasperry Pi server. This manual also assumes the reader possess some basic background on the Planet and ts functionality; however, it does not assume the reader has a technical or software background.
 
 ## How do I Connect the Planet Hardware?
 
