@@ -45,7 +45,7 @@ Once you have finished installing, go to the [Configuration Guide](vi-configurat
 
 ## Step 2 - Vagrant Tutorial
 
-Review these [Vagrant instructions](vi-vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
+Review these [Vagrant instructions](vi-vagrant.md#Vagrant) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
 
 ## Step 3 - Markdown and Fork Tutorial
 
