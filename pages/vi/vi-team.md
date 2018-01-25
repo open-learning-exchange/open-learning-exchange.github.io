@@ -1,4 +1,4 @@
-# Members
+﻿# Members
 
 ## Active Members
 
@@ -49,6 +49,7 @@
 |[lorugant](profiles/lorugant.md)|2017-12-23|
 |[ketruong](profiles/ketruong.md)|2018-01-15|
 |[TooManySpaces](profiles/TooManySpaces.md)|2018-1-15|
+|[CindyPSU](profiles/cindypsu.md)|2018-1-25|
 
 ## Former Interns
 
