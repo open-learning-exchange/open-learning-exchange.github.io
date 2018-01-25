@@ -9,13 +9,13 @@ Location, time zone, and OS:
 Hello, I am a Computer Science major graduating in the Spring of 2018.  
 My favorite programming langauges to code in are as follows:  
 1. Java  
-  * Android  
+   * Android  
 2. C#  
 3. JavaScript  
-  * p5  
-  * jQuery  
+   * p5  
+   * jQuery  
 4. HTML/CSS  
-  * Bootstrap  
+   * Bootstrap  
 5. Last and definitely least, PHP  
 
 
@@ -29,4 +29,4 @@ My LinkedIn can be found at: [LinkedIn](https://www.linkedin.com/in/nick-bratt-s
 ### Hobbies  
 
 In my free time I love to play the drums or play video games such as league of legends.  
-![Drums](https://github.com/NickBratt/ResponsiveWebDesign/tree/master/Lewis/drums.png)
+![Drums](http://i63.tinypic.com/jsehs7.jpg "Drums")  
