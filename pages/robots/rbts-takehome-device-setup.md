@@ -4,21 +4,18 @@ Follow these steps to install and run the **Take Home** application on an Androi
 
 ## Step 1: Setting up Your Device
 
-First of all, in case you are new to mobile developing. If you want to debug **Take Home** using your mobile phone (which we suggest you should). You would need to activate "Developer Options".
-This functionality is purposely hidden from view because Android does not want inexperience user to mess up with the system. But for us developer there is a way to activate it.
-
-Here’s we will show you how to activate "Developer Options".
+Here we will show you how to activate "Developer Options".
 
 * __Locate 'Build number' on your device.__
 
-Here is where you can find your 'Build number' on a few popular devices.
+Follow these directories to find 'Build number' on a few popular devices.
 
     Stock Android: Settings > About phone > Build number
     Samsung Galaxy S5: Settings > About device > Build number
     LG G3: Settings > About phone > Software information > Build number
     HTC One (M8): Settings > About > Software information > More > Build number
 
-![BuildNumber](https://nguyenhkbui.000webhostapp.com/rsz_build_number.jpg)
+![BuildNumber](images/rbts-device-build-number.jpg)
 
 An example of "Build number" from Xperia Z5.
 
@@ -26,25 +23,19 @@ An example of "Build number" from Xperia Z5.
 
 A message 'You are now a Developer!' will flash on your screen.
 
-![NowDeveloper](https://nguyenhkbui.000webhostapp.com/rsz_now-deve.jpg)
+![NowDeveloper](images/rbts-device-now-a-developer.jpg)
 
 * __Go back to Settings main page.__
 
 You can now see a new 'Developer options' section.
 
-![BeforeDeveloper](https://nguyenhkbui.000webhostapp.com/rsz_pre-deve.jpg)
-
-Before Activating "Developer Options"
-
-![DeveloperOptions](https://nguyenhkbui.000webhostapp.com/rsz_developer_options.jpg)
-
-After Activating "Developer Options"
+![DeveloperOptions](images/rbts-device-developer-options.jpg)
 
 * __Go to 'Developer options' and check 'USB Debugging'.__
 
 Select `OK` on the 'Allow USB debugging' pop-up.
 
-![Debugg](https://nguyenhkbui.000webhostapp.com/rsz_usb_debug.jpg)
+![Debug](images/rbts-device-usb-debug-enable.jpg)
 
 * __Connect your device to the computer running Android Studio with USB to microUSB/Type C cable.__
 
@@ -67,7 +58,7 @@ Then wait for Gradle to finish building the application. This process can take q
 
 A list of connected and virtual devices will pop up.
 
-![ListsOfDevices](https://nguyenhkbui.000webhostapp.com/Select%20Deployment%20Target_030.png)
+![ListsOfDevices](images/rbts-android-select-deployment-target.jpg)
 
 
 * __Select `OK` on the Allow USB debugging pop-up on your device screen.__
