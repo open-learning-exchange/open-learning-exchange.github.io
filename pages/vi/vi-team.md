@@ -1,4 +1,4 @@
-# Members
+﻿# Members
 
 ## Active Members
 
@@ -51,7 +51,9 @@
 |[TooManySpaces](profiles/TooManySpaces.md)|2018-01-15|
 |[ybai8](profiles/ybai8.md)|2018-01-19|
 |[ofrank23447](profiles/ofrank23447.md)|2018-01-19|
+|[CindyPSU](profiles/cindypsu.md)|2018-01-25|
 |[vishwakarmaanil](profiles/vishwakarmaanil.md)|2018-01-25|
+
 
 ## Former Interns
 

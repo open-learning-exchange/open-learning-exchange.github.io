@@ -40,7 +40,7 @@ These programs will be automatically installed on your computer:
 **Note:** if you already have VirtualBox installed on your computer and have existing VMs on virtualbox already, running the command above to reintall VirtualBox won't affect/wipe out your existing VMs; it will just add the OLE VM to the ones you have.
 
 - **Vagrant**  
-[Vagrant](https://www.vagrantup.com) is an open source tool for building development environments. 
+[Vagrant](https://www.vagrantup.com) is an open source tool for building development environments.
 - **Firefox**  
 [Firefox](https://www.mozilla.org/en-US/firefox/new/) is a popular browser, which is guaranteed to work nicely with your community BeLL.
 
@@ -48,7 +48,7 @@ These programs will be automatically installed on your computer:
 
 Open your `Terminal`. We assume that [brew](http://brew.sh/) is already installed.
 ```bash
-    brew install git 
+    brew install git
     brew cask install vagrant
     brew cask install virtualbox
 ```
@@ -62,7 +62,10 @@ If it does not work, try this:
 ```bash
     sudo apt-get install git
     sudo apt-get install virtualbox
-    sudo apt-get install vagrant
+    curl -o vagrant.deb https://releases.hashicorp.com/vagrant/2.0.1/vagrant_2.0.1_x86_64.deb
+    sudo dpkg -i vagrant.deb
+    sudo apt-get install -fy
+    vagrant -h
 ```
 
 ## macOS and Ubuntu ONLY    

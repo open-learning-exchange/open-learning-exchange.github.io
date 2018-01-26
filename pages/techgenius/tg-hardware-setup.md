@@ -1,13 +1,6 @@
 # Planet Quick Start Manual
 
-This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Rasperry Pi server. 
-
-- [How do I Connect the Planet Hardware?](#How_Do_I_Connect_the_Planet_Hardware?)
-- [How do I Connect the Community to the Internet?](#How_Do_I Connect_the Community_to_the_Internet?)
-- [How do I Perform Connection Troubleshooting?](#)
-- [Basic Troubleshooting](#Basic_Troubleshooting)
-
-This manual assumes the reader possess some basic background on the Planet and ts functionality; however, it does not assume the reader has a technical or software background.
+This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Rasperry Pi server. This manual also assumes the reader possess some basic background on the Planet and ts functionality; however, it does not assume the reader has a technical or software background.
 
 ## How do I Connect the Planet Hardware?
 
@@ -15,11 +8,9 @@ The Planet system has two hardware configurations: Raspberry Pi and router confi
 
 **Background** What is a Raspberry Pi? A Raspberry Pi (also referred to as an RPi) is low-cost and credit card-sized computer that stores data via microSD card. RPis are often used to teach people about computer basics and computer programming. There are also many higher-level applications that utilize the RPi due to low costs and considerable capabilities. In our case, it’s a very easy, small, cheap, and portable tool for our library. Check out [this video](https://www.youtube.com/watch?v=_cviTxswW8c) to learn more about the RPi.
 
-Below are two images of the RPi with and without a case. On the right is an image of an RPi in a case.
+Below are two images of the RPi with and without a case. 
 
-![RPi w/ Case](images/tg-quickstart-rpi.png)
-
-![RPi Board](images/tg-quickstart-rpi-board.png)
+![RPi w/ Case](images/tg-quickstart-rpi.png) ![RPi Board](images/tg-quickstart-rpi-board.png)
 
 In order to create networked access to Plannet we connect the RPi to a router. The RPi then provides IP addresses and other network services to the connected hardware. For documentation purposes we use either the TP-Link N600 or the N750 but these steps are largely generic and can be performed on any router that works with the RPi. 
 
@@ -29,9 +20,8 @@ Note: We recommend that talk to OLE technical staff before purchasing a router, 
 
 Connect these two devices (router and RPi) via two cables - a micro-USB to USB (on the left) and an Ethernet cable (RJ45) (on the right).
 
-![RJ45 Cable](images/tg-quickstart-cable-rj45.png)
+![USB A to Micro-B Cable](images/tg-quickstart-cable-usb.png) ![RJ45 Cable](images/tg-quickstart-cable-rj45.png)
 
-![USB A > C Cable](images/tg-quickstart-cable-usb.png)
 
 As you can see on the back of the router in the image below, there are a number of available ports and different uses for these port
 
