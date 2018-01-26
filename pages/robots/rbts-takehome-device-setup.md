@@ -60,7 +60,6 @@ A list of connected and virtual devices will pop up.
 
 ![ListsOfDevices](images/rbts-android-select-deployment-target.jpg)
 
-
 * __Select `OK` on the Allow USB debugging pop-up on your device screen.__
 
 You can check 'Always allow from this computer' to avoid doing it every time, before selecting `OK`. Now, your device name would appear on the above pop-op on Android Studio.
