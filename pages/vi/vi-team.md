@@ -54,7 +54,7 @@
 |[CindyPSU](profiles/cindypsu.md)|2018-01-25|
 |[vishwakarmaanil](profiles/vishwakarmaanil.md)|2018-01-25|
 |[adepojubosun](profiles/adepojubosun.md)|2018-01-25|
-
+|[YangLou1](profiles/YangLou1.md)|2018-01-25|
 
 ## Former Interns
 
