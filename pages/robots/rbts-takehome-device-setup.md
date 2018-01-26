@@ -15,7 +15,7 @@ Follow these directories to find 'Build number' on a few popular devices.
     LG G3: Settings > About phone > Software information > Build number
     HTC One (M8): Settings > About > Software information > More > Build number
 
-![BuildNumber](images/rbts-device-build-number.jpg)
+![Build Number from Xperia Z5](images/rbts-device-build-number.jpg)
 
 An example of "Build number" from Xperia Z5.
 
@@ -23,19 +23,19 @@ An example of "Build number" from Xperia Z5.
 
 A message 'You are now a Developer!' will flash on your screen.
 
-![NowDeveloper](images/rbts-device-now-a-developer.jpg)
+![Now Developer Toast Display](images/rbts-device-now-a-developer.jpg)
 
 * __Go back to Settings main page.__
 
 You can now see a new 'Developer options' section.
 
-![DeveloperOptions](images/rbts-device-developer-options.jpg)
+![Developer Options from Setting](images/rbts-device-developer-options.jpg)
 
 * __Go to 'Developer options' and check 'USB Debugging'.__
 
 Select `OK` on the 'Allow USB debugging' pop-up.
 
-![Debug](images/rbts-device-usb-debug-enable.jpg)
+![Enable Debugging](images/rbts-device-usb-debug-enable.jpg)
 
 * __Connect your device to the computer running Android Studio with USB to microUSB/Type C cable.__
 
@@ -58,7 +58,7 @@ Then wait for Gradle to finish building the application. This process can take q
 
 A list of connected and virtual devices will pop up.
 
-![ListsOfDevices](images/rbts-android-select-deployment-target.jpg)
+![Lists Of Devices from Android Studio](images/rbts-android-select-deployment-target.jpg)
 
 * __Select `OK` on the Allow USB debugging pop-up on your device screen.__
 
