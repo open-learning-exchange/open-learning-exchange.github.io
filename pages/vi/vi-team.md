@@ -53,6 +53,7 @@
 |[ofrank23447](profiles/ofrank23447.md)|2018-01-19|
 |[CindyPSU](profiles/cindypsu.md)|2018-01-25|
 |[vishwakarmaanil](profiles/vishwakarmaanil.md)|2018-01-25|
+|[adepojubosun](profiles/adepojubosun.md)|2018-01-25|
 
 
 ## Former Interns
