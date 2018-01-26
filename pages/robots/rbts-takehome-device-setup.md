@@ -48,7 +48,7 @@ Select `OK` on the 'Allow USB debugging' pop-up.
 
 * __Connect your device to the computer running Android Studio with USB to microUSB/Type C cable.__
 
-You would see a 'USB debugging connected' notification drop drag down menu.
+You would see a 'USB debugging connected' notification from the drag down menu.
 
 ## Step 2: Install and Run Take Home on Your Device
 
