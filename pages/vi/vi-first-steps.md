@@ -4,7 +4,7 @@
 
 Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple instructions before you can progress to working on harder projects in bigger teams. Consider them to be the interview for the internship.
 
-If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the [Virtual Interns Gitter chatroom](https://gitter.im/open-learning-exchange/interns) and assign you to a specific team to work on developing and improving OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
+If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the Virtual Interns Gitter chatroom and assign you to a specific team to work on developing and improving OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
 
 Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
 
@@ -49,7 +49,7 @@ Review these [Vagrant instructions](vi-vagrant.md#Vagrant) to ensure that you ha
 
 ## Step 3 - Markdown and Fork Tutorial
 
-Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (&lt;username&gt;.github.io and &lt;username&gt;.github.io/#!pages/vi/profiles/&lt;username&gt;.md).
+Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (https://YourUserName.github.io and https://rawgit.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
 
 * Once you complete the Step 3 you will have:
     * 1 Pull request made

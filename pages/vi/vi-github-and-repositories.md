@@ -21,7 +21,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 
 
 * [Clone Your GitHub Repository username.github.io](#Clone_Your_GitHub_Repository_username.github.io)
-* [Clone with HTTPS or Use SSH?](#Clone_with_HTTPS_or_Use_SSH?)
+* [Clone with HTTPS or Clone with SSH?](#Clone_with_HTTPS_or_Clone_with_SSH?)
 * [Explanation About Repositories and Syncing Process](#Explanation_About_Repositories_and_Syncing_Process)
 * [Configure a Remote Repository for Your Fork](#Configure_a_Remote_Repository_for_Your_Fork)
 * [Sync Your Fork](#Sync_Your_Fork)
@@ -34,7 +34,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 
 Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you  `cd  ` into your `<username>.github.io` you can see different files which you will be working on during your internship.
 
-### Clone with HTTPS or Use SSH?
+### Clone with HTTPS or Clone with SSH?
 
 Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
@@ -145,7 +145,7 @@ This process needs to be repeated whenever you begin to work, to make sure that 
 
 Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
 
-1. Clone your GitHub respoitory username.github.io
+1. Clone your GitHub repository username.github.io
 - Copy the HTTPS or SSH link from your repository on the GitHub site
 - On the command line, type `git clone *paste your HTTPS or SSH link here*`
 2. Understand that there are three levels of a Github repository: the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io)), your username.github.io on GitHub and your username.github.io on your OS.
@@ -160,7 +160,7 @@ These need to be synced and checked constantly.
 - `git fetch upstream` -  to fetch branches from the upstream repository
 - `git checkout master` - check to make sure branch is up-to-date with master
 - `git merge upstream/master` - You repository should now be synced to upstream/master
-5. Whenever you begin to work, make sure your respository is up to date with `git diff` and `git status` between your local and username.github.io repos, not your upstream repo.
+5. Whenever you begin to work, make sure your repository is up to date with `git diff` and `git status` between your local and username.github.io repos, not your upstream repo.
 
 If you find yourself needing to rebase your forked repository, the following two links should help:
 
@@ -175,11 +175,11 @@ For more info on differences of merging vs. rebasing (and when to use which one)
 
 ## Summary of steps
 
-1. Clone your git \<username\> repository and open your terminal window to it by using ``cd``
+1. Clone your GitHub repository username.github.io. Open your command prompt/terminal and find the correct directory, `cd <username>.github.io.`
 
 2. Check for changes you missed while you were gone. You can do this with ``git fetch upstream``([info](https://git-scm.com/docs/git-fetch)), ``git checkout master``, and ``git merge upstream/master``([info](https://git-scm.com/docs/git-merge)).
   - If you're slightly confused, remember that the "upstream" we're referring to is the [main github repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io).
-3. Push the updates you just downloaded to your \<username\> repository by using ``git push``([info](https://git-scm.com/docs/git-info))
+3. Push the updates you just downloaded to your GitHub repository by using ``git push``([info](https://git-scm.com/docs/git-info))
 
 Note: For steps 2 and 3, developers should do this every time they begin to work. This way we as a team can minimize data loss, and can save you some time. You want to make sure that you are always up to date with the GitHub.
 
