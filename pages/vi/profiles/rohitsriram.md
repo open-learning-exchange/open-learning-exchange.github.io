@@ -7,10 +7,10 @@ During the summers I live in San Jose, California. I wanted to join this team si
 like to do my part to allow everyone access to a good education. 
 
 ### Hobbies
-*__Reading__
-*Coding
-*Cricket
-*Pool
-*Learning new things
-*Spending time with friends
+* __Reading__
+* Coding
+* Cricket
+* Pool
+* Learning new things
+* Spending time with friends
 
