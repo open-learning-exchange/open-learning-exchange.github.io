@@ -21,6 +21,16 @@ like to do my part to allow everyone access to a good education.
 3. OS: macOS Sierra
 
 ## Contact info
-E-mail                  | LinkedIn                                      | Github                        |
-------------------------|-----------------------------------------------|-------------------------------|
-rohitsriram14@gmail.com | https://www.linkedin.com/in/rohit-s-010ba793/ | https://github.com/rohitsriram|
+E-mail                  | LinkedIn                                                          | Github                        |
+------------------------|-------------------------------------------------------------------|-------------------------------|
+rohitsriram14@gmail.com | [Rohit's LinkedIn](https://www.linkedin.com/in/rohit-s-010ba793/) | https://github.com/rohitsriram|
+
+## Markdown Elements Used
+* Headers
+* Strong
+* Lists (Ordered/ Unordered)
+* Tables
+* Images
+* Blockquotes
+* Line Breaks
+* Links
