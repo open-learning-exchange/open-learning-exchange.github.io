@@ -51,9 +51,16 @@ First, click the "Update Available" button and it will reload your homepage with
 
 We developed a course for aspiring virtual interns so that we could test the software used to build courses and find bugs/things to improve. It is your job to take the course and find out what needs to be fixed/improved from the student standpoint.
 
-To get to Publications, click on "Manager" from the dashboard, then the publications button. Take the course, and the last question will ask you to specify any problems or improvements/suggestions that you have. Remember, people taking these courses out in remote areas of the world will probably run into the same problems if you do not raise them now and let the team know. This is a very important task, and your help is much appreciated. 
+Take the course, and the last question will ask you to specify any problems or improvements/suggestions that you have. Remember, people taking these courses out in remote areas of the world will probably run into the same problems if you do not raise them now and let the team know. This is a very important task, and your help is much appreciated.
+    
+**STEPS:**
+1. Click on Courses (next to Library)
+2. Open Virtual Interns Course
+3. Carefully read and answer 12 steps
 
-Try to be as specific as possible, and include screen shots when necessary. 
+![Take the Course](images/vi-take-the-course.png)
+
+Try to be as specific as possible, and include screen shots when necessary.
 
 ## Useful Links
 

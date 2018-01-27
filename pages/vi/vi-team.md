@@ -1,4 +1,4 @@
-# Members
+﻿# Members
 
 ## Active Members
 
@@ -48,7 +48,13 @@
 |[yaoxing1990](profiles/yaoxing1990.md)| 2017-12-06 |
 |[lorugant](profiles/lorugant.md)|2017-12-23|
 |[ketruong](profiles/ketruong.md)|2018-01-15|
-|[TooManySpaces](profiles/TooManySpaces.md)|2018-1-15|
+|[TooManySpaces](profiles/TooManySpaces.md)|2018-01-15|
+|[ybai8](profiles/ybai8.md)|2018-01-19|
+|[ofrank23447](profiles/ofrank23447.md)|2018-01-19|
+|[CindyPSU](profiles/cindypsu.md)|2018-01-25|
+|[vishwakarmaanil](profiles/vishwakarmaanil.md)|2018-01-25|
+|[adepojubosun](profiles/adepojubosun.md)|2018-01-25|
+|[YangLou1](profiles/YangLou1.md)|2018-01-25|
 
 ## Former Interns
 
