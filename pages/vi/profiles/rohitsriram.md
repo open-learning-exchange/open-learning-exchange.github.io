@@ -1,6 +1,6 @@
 # Greeting Earthlings!
 ## Intro
-![Profile Pic](/Users/rohitsriram/Documents/Quill_Clip_Art.jpg)
+![Profile Pic](https://st.depositphotos.com/1815767/1413/v/950/depositphotos_14135107-stock-illustration-quill-pen-and-inkwell-sketch.jpg)
 ### Bio
 >Hey Everyone, 
 My name is Rohit Sriram and I am a student studying Computer Science at the University of California, Irvine.
