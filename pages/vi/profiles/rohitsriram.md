@@ -14,3 +14,12 @@ like to do my part to allow everyone access to a good education.
 * Learning new things
 * Spending time with friends
 
+## Important info
+1. Name: Rohit Sriram
+2. Location/Time Zone: (PST) Pacifc Standard Time; UTC-8
+3. OS: macOS Sierra
+
+## Contact info
+E-mail                  | LinkedIn                                      | Github                        |
+------------------------|-----------------------------------------------|-------------------------------|
+rohitsriram14@gmail.com | https://www.linkedin.com/in/rohit-s-010ba793/ | https://github.com/rohitsriram|
