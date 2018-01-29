@@ -22,7 +22,13 @@ Example of Markdown syntax on the left side and the way it is rendered on the ri
 ![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
 A Markdown cheat sheet that might help you create your own Markdown page later:
 
-**NOTE**: Markdown != HTML. For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links). **If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.**
+[GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
+
+[Markdown Tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) - An interactive tutorial to learn Markdown.
+
+**NOTE**:
+• **If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.** For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links).
+• Markdown != HTML
 
 ## Start Here
 
@@ -31,7 +37,7 @@ Below is a summary of the steps that we will walk you through:
 * [Login to GitHub with your username and password](#Login_to_GitHub_with_your_username_and_password)
 * [Find and fork the correct repository](#Find_and_fork_the_correct_repository)
 * [Go to Settings and rename your repository](#Go_to_Settings_and_rename_your_repository)
-* [Post a link to your github.io website in chat](#Post_a_link_to_your_github.io_website_in_chat)
+* [Check if you github.io works](#Check_if_you_github.io_works)
 * [Create a new file as your personal MDwiki page and commit your changes](#Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
 * [Open a pull request](#Open_a_pull_request)
 
@@ -60,11 +66,9 @@ After you fork the repository, you will be on your repository: &lt;YourUserName&
 
 ![Renaming Repository](images/vi-rename-repository.png)
 
-### Post a link to your github.io website in chat
+### Check if you github.io works
 
-After renaming your forked repository, make sure to post a link to the github.io website you've just created in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat):
-
-> @/all I'm on step 3 - GitHub and Markdown, please look at https://YourUserName.github.io
+After renaming your forked repository, go to  https://YourUserName.github.io and make sure it works.
 
 Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
@@ -111,17 +115,21 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 
 Once you have your profile ready, it's time to create a pull request. Clink on the "Pull requests" button as highlighted in the screenshot below.
 
-![Initiate Pull Request](images/vi-initiate-pull-request.png) ![Complete Pull Request](images/vi-create-pull-request.png)
+![Initiate Pull Request](images/vi-initiate-pull-request.png)
 
-There are a few things to watch out before clicking on the green "Create pull request" button. Make sure you:
+![Complete Pull Request](images/vi-create-pull-request.png)
+
+**There are a few things to watch out before clicking on the green "Create pull request" button**. Make sure you:
 
 * give the pull request a short and descriptive title (e.g. create YourUserName.md)
 * include the rawgit link to your Markdown profile page in the pull request description
 * scroll down the page and verify you used at least 3-5 Markdown elements in your profile
 
-Finally, click "Create pull request" button and post the link to your pull request in the [gitter chat](https://gitter.im/open-learning-exchange/chat), someone from our team will review the changes and notify you.
+Finally, click "Create pull request" button and post the link to your github.io and profile pull request in the [gitter chat](https://gitter.im/open-learning-exchange/chat):
 
-Often there will be some feedback from the reviewer for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will be automatically updated in the pull request. Once everything looks good, the reviewer will merge your Markdown profile with the main repository.
+> @/all I'm on step 3 - GitHub and Markdown, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
+
+Someone from our team will review the changes and notify you on gitter. Often there will be some feedback from the reviewer for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will be automatically updated in the pull request. Once everything looks good, the reviewer will merge your Markdown profile with the main repository.
 
 After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/vi/profiles/<YourUserName>.md`. Let us know in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat) after you complete this step.
 
