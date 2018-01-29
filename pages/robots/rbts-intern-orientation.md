@@ -6,7 +6,7 @@ Congratulations. You have completed the first steps and have been selected to jo
 
 ## Get to Know the Team
 
-The first thing is to meet the team, starting with CTO Dogi, then the [current intern team lead and members](#!./pages/vi/vi-team.md). After having the initial meeting with Dogi, you can join <https://talk.ole.org> during weekly Google Hangouts sessions to meet with current interns, get to know each other, and ask them what they have been working on.
+The first thing is to meet the team, starting with CTO Dogi, then the [current intern team lead and members](#!./pages/vi/vi-team.md). After having the initial meeting with Dogi, you can join <https://talk.ole.org> during Google Hangouts meeting sessions to meet with current interns, get to know each other, and ask them what they have been working on.
 
 ## Familiarize Yourself with Current Projects and Issues
 
@@ -115,7 +115,6 @@ All of our Google Hangouts meetings can be joined at <https://talk.ole.org>. Cur
 * BeLL Reboot Angular Hacking Hangout
 * Raspberry Pi Hangout
 * Take Home Hangout
-
 
 To subscribe to our calendar, paste `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` into Google Calendar's "*Add a friend's calendar*" and hit `Enter`.
 
