@@ -1,6 +1,7 @@
 # Hello, my name is Nick Bratt  
 
 Location, time zone, and OS:  
+
 * Franklin, TN  
 * Central Time Zone  
 * Mac OS X El Capitan  
@@ -8,6 +9,7 @@ Location, time zone, and OS:
 ## About Me
 Hello, I am a Computer Science major graduating in the Spring of 2018.  
 My favorite programming langauges to code in are as follows:  
+
 1. Java  
    * Android  
 2. C#  
@@ -29,4 +31,5 @@ My LinkedIn can be found at: [LinkedIn](https://www.linkedin.com/in/nick-bratt-s
 ### Hobbies  
 
 In my free time I love to play the drums or play video games such as league of legends.  
+
 ![Drums](http://i63.tinypic.com/jsehs7.jpg "Drums")  
