@@ -113,7 +113,7 @@ Now, check what this looks like on your own page `https://rawgit.com/YourUserNam
 
 ### Open a pull request
 
-Once you have your profile ready, it's time to create a pull request. Clink on the "Pull requests" button as highlighted in the screenshot below.
+Once you have your profile ready, it's time to create a pull request. Clink on one of the "Pull request" button as highlighted in the screenshot below.
 
 ![Initiate Pull Request](images/vi-initiate-pull-request.png)
 
