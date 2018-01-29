@@ -13,13 +13,13 @@ The first thing is to meet the team, starting with CTO Dogi, then the [current i
 Typically, interns choose what project they want to work on based on their experience. If you get tired of a certain project, there is opportunity to switch. Take a look at our current projects below, if any particular ones interest you, there is a very good chance that you can work on them.
 
 * [Angular Reboot](rbts-angular.md)
-  * Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality
+  * Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
 * [Take Home](rbts-takehome.md)
   * Take home is an Android port of the BeLL apps.
 * [Raspberry Pi](rbts-raspberry-pi.md)
   * The modified Raspbian image can be place on a microsd card for deployment in the field with a Raspberry Pi.
 * [Automated Testing](rbts-automated-testing.md)
-  * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI
+  * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI.
 * [Translation (Crowdin)](rbts-crowdin-integration.md)
   * Help us translate the BeLL App user interface to other languages.
 * [Windows Installer](rbts-inno-project.md)
