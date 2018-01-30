@@ -49,7 +49,7 @@ Next, fill out the configurations. Your name and code must be the same and shoul
 
 After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.
 
-**Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply use Ctrl+C and Ctrl+V to paste your image.*
+**Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply copy and paste the image.*
 
 Then, click on the **"Register"** button. Your registration request for your community will be automatically accepted from the nation side. You will see the following message.
 
