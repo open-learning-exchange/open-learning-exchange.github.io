@@ -55,7 +55,7 @@ Then, click on the **"Register"** button. Your registration request for your com
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
 
-After clicking on OK button, you will be automatically logged in.
+After clicking on the OK button, you will be automatically logged in.
 
 Then, post to the Gitter chat the screenshot you took earlier.
 
