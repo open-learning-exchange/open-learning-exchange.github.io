@@ -1,4 +1,4 @@
-﻿# Members
+# Members
 
 ## Active Members
 
@@ -7,43 +7,16 @@
 |**➤ Volunteers**||
 |[mappuji](profiles/mappuji.md) (**ex-intern**)| 2017-04-29 |
 |**➤ Interns**||
-|[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 |
-|[hannahgdubin](profiles/hannahgdubin.md)| 2017-01-01 |
-|[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 2017-02-19 |
-|[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 |
-|[Chris-Boe](profiles/Chris-Boe.md)| 2017-02-26 |
 |[paulbert](profiles/paulbert.md) (**Intern Lead**)| 2017-03-08 |
 |[i5o](profiles/i5o.md) (**Intern Lead**)| 2017-03-08 |
-|[blakedelee](profiles/BlakeDeLee.md)| 2017-03-22 |
 |[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 |
 |[kylemathias](profiles/kylemathias.md) (**Mobile Intern Lead**)| 2017-03-31 |
 |[zeivhann](profiles/zeivhann.md) (**Mobile Intern Lead**)| 2017-04-01 |
-|[Supriyaranjan](profiles/Supriyaranjan.md)| 2017-04-04 |
-|[praneetharra](profiles/praneetharra.md)| 2017-04-21 |
-|[shahswet](profiles/shahswet.md)| 2017-05-01 |
-|[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 |
-|[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 |
 |[snazzybunny](profiles/snazzybunny.md) (**Embedded Systems Lead**)| 2017-05-11 |
-|[duongdo27](profiles/duongdo.md)| 2017-05-12 |
-|[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 |
-|[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 |
-|[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 |
-|[adhikara](profiles/adhikara.md)| 2017-06-16 |
-|[sagun98](profiles/sagun98.md)| 2017-06-22 |
-|[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26 |
-|[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27 |
 |[LKhadka](profiles/LKhadka.md)| 2017-06-29 |
-|[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 |
-|[daisywatson](profiles/daisywatson.md)| 2017-07-12 |
-|[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 |
 |[lucy811](profiles/lucy811.md)| 2017-07-18 |
 |[xyb994](profiles/xyb994.md)| 2017-07-31 |
-|[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 |
-|[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 |
-|[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
 |[amanuely](profiles/amanuely.md)| 2017-10-16 |
-|[thesiege208](profiles/thesiege208.md)| 2017-10-16 |
-|[aas919](profiles/aas919.md)| 2017-10-23 |
 |[dashlorde](profiles/Dashlorde.md)| 2017-10-27 |
 |[yaoxing1990](profiles/yaoxing1990.md)| 2017-12-06 |
 |[lorugant](profiles/lorugant.md)|2017-12-23|
@@ -60,6 +33,33 @@
 
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
+|[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 |
+|[hannahgdubin](profiles/hannahgdubin.md)| 2017-01-01 |
+|[Ebuka-Chibueze](profiles/Ebuka-Chibueze.md)| 2017-02-19 |
+|[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 |
+|[Chris-Boe](profiles/Chris-Boe.md)| 2017-02-26 |
+|[blakedelee](profiles/BlakeDeLee.md)| 2017-03-22 |
+|[Supriyaranjan](profiles/Supriyaranjan.md)| 2017-04-04 |
+|[praneetharra](profiles/praneetharra.md)| 2017-04-21 |
+|[shahswet](profiles/shahswet.md)| 2017-05-01 |
+|[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 |
+|[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 |
+|[duongdo27](profiles/duongdo.md)| 2017-05-12 |
+|[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 |
+|[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 |
+|[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 |
+|[adhikara](profiles/adhikara.md)| 2017-06-16 |
+|[sagun98](profiles/sagun98.md)| 2017-06-22 |
+|[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26 |
+|[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27 |
+|[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 |
+|[daisywatson](profiles/daisywatson.md)| 2017-07-12 |
+|[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 |
+|[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 |
+|[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 |
+|[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
+|[thesiege208](profiles/thesiege208.md)| 2017-10-16 |
+|[aas919](profiles/aas919.md)| 2017-10-23 |
 |[mappuji](profiles/mappuji.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
 |[𝖂𝖆𝖗𝖞𝖍𝖊𝖗𝖒𝖎𝖙](profiles/waryhermit.md) (**Intern Lead**)| 2016-12-13 | 2017-04-28 |
 |[FanisGk](profiles/FanisGk.md)| 2016-08-01 | 2017-01-31 |
