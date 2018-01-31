@@ -10,7 +10,9 @@ Location, time zone, and OS:
   
 ## About Me
 Hello, I am a Computer Science major graduating in the Spring of 2018.  
-My favorite programming langauges to code in are as follows:  
+My favorite programming langauges to code in are as follows:   
+
+
 1.Java  
   
 * Android  
