@@ -55,6 +55,7 @@
 |[vishwakarmaanil](profiles/vishwakarmaanil.md)|2018-01-25|
 |[adepojubosun](profiles/adepojubosun.md)|2018-01-25|
 |[YangLou1](profiles/YangLou1.md)|2018-01-25|
+|[Jackbui96](profiles/Jackbui96.md)|2018-02-02|
 
 ## Former Interns
 
