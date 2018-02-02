@@ -120,9 +120,11 @@ All of our Google Hangouts sessions can be joined at <https://talk.ole.org>. Cur
 * Raspberry Pi Hangout
 * Take Home Hangout
 
-To subscribe to our calendar, paste `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` into Google Calendar's "*Add a friend's calendar*" and hit `Enter`.
-
 Every Monday at the "[Happy hacking hangout](https://talk.ole.org)" session, we work on problems together and catch up on what people have been doing all week. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the meeting. Use the calendar to set up meetings and other events with interns.
+
+To subscribe to our calendar, paste `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` into [Google Calendar](https://calendar.google.com/)'s "*Add a friend's calendar*" and **hit `Enter` (do not click the + sign)**.
+
+![Google Calendar add a friend's calendar](images/rbts-orientation-add-calendar.png)
 
 ## Communicate, Communicate, Communicate!
 
