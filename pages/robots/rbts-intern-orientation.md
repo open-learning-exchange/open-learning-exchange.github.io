@@ -6,7 +6,7 @@ Congratulations. You have completed the first steps and have been selected to jo
 
 ## Get to Know the Team
 
-The first thing is to meet the team, starting with CTO Dogi, then the [current intern team lead and members](#!./pages/vi/vi-team.md). After having the initial meeting with Dogi, you can join <https://talk.ole.org> during Google Hangouts meeting sessions to meet with current interns, get to know each other, and ask them what they have been working on.
+The first thing is to meet the team, starting with CTO Dogi, then the [current intern team leads and members](#!./pages/vi/vi-team.md). After having the initial meeting with Dogi, you can join <https://talk.ole.org> during Google Hangouts session to meet with current interns, get to know each other, and ask them what they have been working on.
 
 ## Familiarize Yourself with Current Projects and Issues
 
@@ -31,9 +31,7 @@ Typically, interns choose what project they want to work on based on their exper
 
 ## A Few Things to Know...
 
-Once you've been added to the intern team, you will receive invites to become GitHub organization members of [open-learning-exchange](https://github.com/open-learning-exchange), [ole-vi](https://github.com/ole-vi) and [treehouses](https://github.com/treehouses).
-
-Make sure you accept these invites.
+Once you officially become an virtual intern, you will receive email invites to become GitHub organization members of [open-learning-exchange](https://github.com/open-learning-exchange), [ole-vi](https://github.com/ole-vi), and [treehouses](https://github.com/treehouses).
 
 Note that this will give you the ability to make bigger mistakes - so make sure you always double check what repository you are pushing to, or are working on.
 
@@ -76,20 +74,26 @@ Every time you merge a pull request, message the author on [Gitter chat](https:/
 
 ### Using Waffle.io
 
-[Waffle.io](https://waffle.io/ole-vi/BeLL-Apps) is what OLE uses to manage the BeLL app project. It's another way to view the projects that you and your team need to work on and review. You will be automatically added to the Waffle.io page once you become an intern. If not, then message someone on the Gitter chat and they will add you.
+[Waffle.io](https://waffle.io/ole-vi) is what OLE uses to manage some of our projects. It's another way to view the projects that you and your team need to work on and review. You will be automatically added to the Waffle.io page once you become a member of ole-vi GitHub organization.
 
 Choose issues to work on out of the `Ready` column and assign them to yourself. Move them to the `In Progress` column when you start working on them. Make sure you link the pull requests to their issues by mentioning them in the pull request title. E.g. "(fixes #54)".
 
-### Standup Post Format
+### Standup Message
 
-Every time you work on OLE projects and issues, you should post in the Standup Gitter chat room before you start working. Use the following format:
+Every time you work on OLE projects and issues, you should post the "[stand-up](https://en.wikipedia.org/wiki/Stand-up_meeting)" message in [our Gitter standup room](https://gitter.im/open-learning-exchange/standup) before you start working. Use the following format:
 
-* What did I achieve last?
-  * `Mention what you were able to achieve.`
-* What is my aim for today?
-  * `List what you are working on - consider linking to the issues.`
-* What obstacles are in the way of our progress?
-  * `List any problems.`
+```
+What did I achieve yesterday?
+- Mention what you were able to achieve
+
+What is my aim for today?
+- List what you are working on - consider linking to the issues
+
+What obstacles are in the way of our progress?
+- List any problems
+```
+
+This is especially helpful if you are not able to attend our Google Hangouts sessions.
 
 ## Form a Working Routine and Schedule
 
@@ -98,9 +102,9 @@ Every time you work on OLE projects and issues, you should post in the Standup G
 While you are free to work in your own style, we recommend you follow this basic daily routine:
 
 * Check Gitter interns room and your Gitter private messages.
-* Join the [OLE Google Hangouts meeting](https://talk.ole.org) if you are able to so you can follow what everyone is working on and get help fast.
+* Join the [OLE Google Hangouts session](https://talk.ole.org) if you are able to, so you can follow what everyone is working on and get help fast.
 * Check Waffle.io, if you have no issues assigned, assign yourself to issues relating to the project you wish to work on.
-* Write a post in [Gitter Standup](https://gitter.im/open-learning-exchange/chat) with the format mentioned above.
+* Write a message in [Gitter standup room](https://gitter.im/open-learning-exchange/standup) with the format mentioned above.
 * Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
 * Work on your issues and write in intern chat any time you run into problems.
 * Make pull requests as early as possible so you can get feedback as you work.
@@ -108,7 +112,7 @@ While you are free to work in your own style, we recommend you follow this basic
 
 ### Weekly Schedule
 
-All of our Google Hangouts meetings can be joined at <https://talk.ole.org>. Currently, we have a few scheduled sessions each week:
+All of our Google Hangouts sessions can be joined at <https://talk.ole.org>. Currently, we have a few scheduled sessions each week:
 
 * Happy hacking hangout
 * angular asia (h)acking (h)angout
