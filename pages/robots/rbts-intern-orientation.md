@@ -2,7 +2,7 @@
 
 ## Welcome to the OLE Intern Team!
 
-Congratulations. You have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have 16 hours a week to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
+Congratulations. You have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have at least 16 hours a week for the minimal of 3 month to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
 
 ## Get to Know the Team
 
