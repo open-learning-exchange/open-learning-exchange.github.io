@@ -62,7 +62,7 @@ As we want to keep a 'clean' version of our code, everyone forks the repositorie
 
 ### Go to Settings and rename your repository
 
-After you fork the repository, you will be on your repository: &lt;YourUserName&gt;/open-learning-exchange.github.io. Next, you should go to Settings at the top middle of the page and rename your repository to &lt;YourUserName&gt;.github.io. See example below.
+After you fork the repository, you will be on your repository: &lt;YourUserName&gt;/open-learning-exchange.github.io. Next, you should go to **Settings** at the top middle of the page and rename your repository to &lt;YourUserName&gt;.github.io. See example below.
 
 ![Renaming Repository](images/vi-rename-repository.png)
 
