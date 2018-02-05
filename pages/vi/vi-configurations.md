@@ -59,5 +59,8 @@ After clicking on the OK button, you will be automatically logged in.
 
 Then, post to the Gitter chat the screenshot you took earlier.
 
+## Troubleshooting
+1. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
+
 #### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_Installation)
 
