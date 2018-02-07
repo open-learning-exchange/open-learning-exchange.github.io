@@ -33,7 +33,7 @@ Typically, interns choose what project they want to work on based on their exper
 
 Once you officially become an virtual intern, you will receive email invites to become GitHub organization members of [open-learning-exchange](https://github.com/open-learning-exchange), [ole-vi](https://github.com/ole-vi), and [treehouses](https://github.com/treehouses).
 
-Note that this will give you the ability to make bigger mistakes - so make sure you always double check what repository you are pushing to, or are working on.
+**Now you should work on OLE's repositories instead of your own forked repositories**. Note that this will give you the ability to make bigger mistakes - so make sure you always double check what repository you are pushing to, or what branch you are working on.
 
 You will now have the ability to review, close, and merge pull requests and issues.
 
