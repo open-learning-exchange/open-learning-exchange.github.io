@@ -78,14 +78,14 @@ For example http://rawgit.com/EmilyLarkin/EmilyLarkin.github.io/master/#!index.m
 
 ![RawGit Generator](images/rawgitGenerator.png)
 
-You can also use the rawgit url generator on <https://rawgit.com>
+You can also use the Rawgit url generator on <https://rawgit.com>
 1.  Navigate to the page your changed in your fork of the github repository
 2.  Select the branch you were working on from the drop down on the top left
 3.  Copy the URL in your browser and paste it in the field on <https://rawgit.com>
 4.  Select the Development URL
 5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.
 
-Rawgit makes it easy to see what the page will look like if your branch is merged, so don't forget to include a rawgit link in your next step, the pull request.
+Rawgit makes it easy to see what the page will look like if your branch is merged, so don't forget to include a Rawgit link in your next step, the pull request.
 
 ## Create a Pull Request
 If you login to your own fork of OLE on Github, Github will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Press the green button that says Compare & pull request. In this new page, you can change the title and comments for the PR. Once you are done with filling out these forms, submit the pull request by clicking on the green create pull request button.
