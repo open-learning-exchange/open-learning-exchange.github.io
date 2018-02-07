@@ -74,6 +74,18 @@ For example http://rawgit.com/EmilyLarkin/EmilyLarkin.github.io/master/#!index.m
 
 ![Index via RawGit Link](images/vi-rawgit-index.png)
 
+### Rawgit Generator
+
+![RawGit Generator](images/rawgitGenerator.png)
+
+You can also use the rawgit url generator on <https://rawgit.com>
+1.  Navigate to the page your changed in your fork of the github repository
+2.  Select the branch you were working on from the drop down on the top left
+3.  Copy the URL in your browser and paste it in the field on <https://rawgit.com>
+4.  Select the Development URL
+5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.
+As shown in the previous example: http://rawgit.com/EmilyLarkin/EmilyLarkin.github.io/master/```#!```index.md
+
 Rawgit makes it easy to see what the page will look like if your branch is merged, so don't forget to include a rawgit link in your next step, the pull request.
 
 ## Create a Pull Request
