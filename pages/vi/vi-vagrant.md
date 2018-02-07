@@ -6,7 +6,7 @@
 
 Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V and Hyper-V is not enabled on your system.  
 
-**NOTE**: If you are running Windows, you will also need to have Hyper-V enabled. This can be done by enabling it in your Windows Features. This [link](https://blogs.technet.microsoft.com/canitpro/2015/09/08/step-by-step-enabling-hyper-v-for-use-on-windows-10/) offers a detailed explanation on how to enable this.  
+**NOTE**: If you are running Windows, you will also need to have Hyper-V enabled. This can be done by enabling it in your Windows Features. This [link](https://blogs.technet.microsoft.com/canitpro/2015/09/08/step-by-step-enabling-hyper-v-for-use-on-windows-10/) will walk you through the process step by step.  
 
 If so, here are instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [Macintosh](http://kb.parallels.com/en/5653)
 
