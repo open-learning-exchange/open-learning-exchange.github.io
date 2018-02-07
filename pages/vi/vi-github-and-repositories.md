@@ -53,7 +53,7 @@ To be able to fetch updates from the upstream repository, you need to first conf
 
 1. Open your command prompt/terminal and find the correct directory, `cd <username>.github.io.`
 
-2. List the current configured remote repository for your fork with `git remote -v`. This is how it would look like:
+2. List the current configured remote repository for your fork with `git remote -v`. This is what it should look like:
 ```
 $ git remote -v
 origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (fetch)
