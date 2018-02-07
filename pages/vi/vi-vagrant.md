@@ -4,7 +4,9 @@
 
 ## Prerequisites
 
-Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system.
+Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing Vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If you are having trouble running Vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system.    
+
+**NOTE**: If you are running Windows, you will also need to have Hyper-V enabled. This can be done by enabling it in your Windows Features. This [link](https://blogs.technet.microsoft.com/canitpro/2015/09/08/step-by-step-enabling-hyper-v-for-use-on-windows-10/) will walk you through the process step by step.         
 
 If so, here are instructions to enable virtualization for [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [Macintosh](http://kb.parallels.com/en/5653)
 
@@ -57,7 +59,7 @@ What this screen tells you is that you have a Vagrant virtual machine called `vi
 
 As you can see, in our case, the state of our machine is `running`. However, you can suspend your virtual machine issuing the command `vagrant suspend` or you can stop it completely with `vagrant halt`. In both cases, if you want to restart your machine, you will need to issue the command `vagrant up`.
 
-**NOTE**: If the command `vagrant up` is not working, try installing [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
+**NOTE**: If the command `vagrant up` is not working, try installing [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).  
 
 When you issue the command `vagrant suspend`, your machine state will become `saved`, and after issuing `vagrant up` the machine will restart exactly from the point is was at when you suspended it. On the other hand, when you issue the command `vagrant halt`, the state will become `poweroff`, and after issuing `vagrant up` the machine will restart from the initial state it was at when you first installed it.
 
