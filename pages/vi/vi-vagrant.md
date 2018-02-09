@@ -1,6 +1,6 @@
 # Vagrant
 
-[Vagrant](https://www.vagrantup.com/) is an open source tool to build development environments. We assume that you have followed the first instructions on [README.md](https://github.com/dogi/ole--vagrant-vi) to install Vagrant and VirtualBox on your OS. Below, you will find a shortened version on how to install this software quickly if needed as a reference.
+[Vagrant](https://www.vagrantup.com/) is an open source tool used to build development environments.
 
 ## Prerequisites
 
@@ -17,6 +17,10 @@ If so, here are instructions to enable virtualization for [Windows](https://www.
 
  1.    ``cd Desktop``
  2.    ``mkdir OLE``
+
+## Installation
+
+Follow the instructions in the [README.md](https://github.com/dogi/ole--vagrant-vi) to install Vagrant and VirtualBox on your OS. Below you will find a shortened quick reference guide.
 
 ## Windows
 
