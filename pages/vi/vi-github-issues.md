@@ -79,8 +79,8 @@ For example http://rawgit.com/EmilyLarkin/EmilyLarkin.github.io/master/#!index.m
 ![RawGit Generator](images/rawgitGenerator.png)
 
 You can also use the Rawgit url generator on <https://rawgit.com>
-1.  Navigate to the page your changed in your fork of the github repository
-2.  Select the branch you were working on from the drop down on the top left
+1.  Select the branch you were working on from the drop down on the top left
+2.  Navigate to the page your changed in your fork of the github repository  
 3.  Copy the URL in your browser and paste it in the field on <https://rawgit.com>
 4.  Select the Development URL
 5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.
