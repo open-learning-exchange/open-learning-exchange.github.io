@@ -13,8 +13,8 @@ Since ole--vagrant-treehouses creates a virtual machine, it works on all platfor
 **Testing the custom treehouse-builder image:**
 
 - Any RPI for testing the microSD card
-- A class10 microSD card (minimum 8 Gb) new image to the class10 microSD card
-- microSD card reader/writer for writing the
+- A Class 10 microSD card (minimal 16GB, but we recommend 32GB or greater)
+- microSD card reader
 
 **Building the image with treehouse-builder:**
 
@@ -24,8 +24,8 @@ Since ole--vagrant-treehouses creates a virtual machine, it works on all platfor
 **Building the treehouse-builder image with ole--vagrant-treehouses:**
 
 - A virtualization enabled computer with Vagrant & Virtualbox (If you can [run the vagrant](#!./pages/vi/vi-vagrant.md) tutorial without problems, then this is fine.) 
-- 8 Gb of harddrive space
-- 4 Gb of memory
+- 8 GB of harddrive space
+- 4 GB of memory
 - An Internet connection
 
 ## Raspberry Pi Meetings
