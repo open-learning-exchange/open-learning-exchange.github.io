@@ -7,7 +7,7 @@
 |[dogi](https://www.ole.org/our-team/stefan-unterhauser/)| Lead | secret |
 |[mappuji](profiles/mappuji.md)| Systems Lead | 2017-04-29 |
 |[paulbert](profiles/paulbert.md) | Angular Lead | 2017-03-08 |
-|[lmmrssa](https://lmmrssa.github.io) | | 2016-09 |
+|[lmmrssa](https://lmmrssa.github.io) | Angular Lead | 2016-09 |
 |[xyb994](profiles/xyb994.md)| "Gardening" Lead | 2017-07-31 |
 |[i5o](profiles/i5o.md)| Embedded Lead | 2017-03-08 |
 |[kylemathias](profiles/kylemathias.md)| Mobile Intern Lead | 2017-03-31 |
