@@ -28,7 +28,7 @@
 |[YangLou1](profiles/YangLou1.md)|2018-01-25|
 |[Going-Gone](profiles/Going-Gone.md)|2018-01-31|
 |[Jackbui96](profiles/Jackbui96.md)|2018-02-02|
-
+|[ArashDai](profiles/ArashDai.md)|2018-02-14|
 
 ## Former Interns
 
