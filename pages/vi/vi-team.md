@@ -29,7 +29,7 @@
 |[Going-Gone](profiles/Going-Gone.md)|2018-01-31|
 |[Jackbui96](profiles/Jackbui96.md)|2018-02-02|
 |[NickBratt](profiles/NickBratt.md)|2018-02-12|
-
+|[ArashDai](profiles/ArashDai.md)|2018-02-14|
 
 ## Former Interns
 
