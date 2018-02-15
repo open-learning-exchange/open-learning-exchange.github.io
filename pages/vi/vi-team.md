@@ -26,6 +26,8 @@
 |[YangLou1](profiles/YangLou1.md)| Intern* | 2018-01-25 |
 |[Going-Gone](profiles/Going-Gone.md)| Intern | 2018-01-31 |
 |[Jackbui96](profiles/Jackbui96.md)| Intern | 2018-02-02 |
+|[NickBratt](profiles/NickBratt.md)| Intern | 2018-02-12 |
+|[ArashDai](profiles/ArashDai.md)| Intern | 2018-02-14 |
 |[CindyPSU](profiles/cindypsu.md)| Future Intern | 2018-03-01 |
 
 ## Former Interns
