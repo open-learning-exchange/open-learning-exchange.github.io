@@ -16,6 +16,7 @@
 |------------|---------|-------------|
 |[LKhadka](profiles/LKhadka.md)| Intern | 2017-06-29 |
 |[lucy811](profiles/lucy811.md)| Intern | 2017-07-18 |
+|[aas919](profiles/aas919.md)| Intern | 2017-10-23 |
 |[dashlorde](profiles/Dashlorde.md)| Intern | 2017-10-27 |
 |[yaoxing1990](profiles/yaoxing1990.md)| 2017-12-06 |
 |[lorugant](profiles/lorugant.md)| Intern | 2017-12-23 |
