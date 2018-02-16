@@ -39,13 +39,13 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 1 - BeLL Installation
 
-Go to the [BeLL installation](#!./pages/vi/vi-bell-installation.md) to read through the basic instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
+Go to [BeLL Installation](#!./pages/vi/vi-bell-installation.md) to read the instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
 
-Once you have finished installing, go to the [Configuration Guide](vi-configurations.md) to set up your Community BeLL.
+Once you have finished installing BeLL, go to the [Configurations Guide](vi-configurations.md) to set up your Community BeLL.
 
 ## Step 2 - Vagrant Tutorial
 
-Review these [Vagrant instructions](vi-vagrant.md) to ensure that you have fully completed the previous step. You should be familiar with this since you will need to use it during your internship.
+Review [Vagrant Instructions](vi-vagrant.md) on how to interact with Vagrant through the command-line interface. You should be familiar with this since you will need to use it to control virtual machines during your internship.
 
 ## Step 3 - Markdown and Fork Tutorial
 
