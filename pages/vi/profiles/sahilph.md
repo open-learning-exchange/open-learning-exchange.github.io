@@ -1,7 +1,8 @@
 # Sahil Phule
 ### Location:
-![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f8/Downtown_Springfield.JPG "Springfield")
-#### Springfield, IL. The Land of Lincoln
+Springfield, IL. The Land of Lincoln
+![Springfield](https://upload.wikimedia.org/wikipedia/commons/f/f8/Downtown_Springfield.JPG "Springfield")
+
 ### Timezone:
 CST (Central Time)
 ### OS:
