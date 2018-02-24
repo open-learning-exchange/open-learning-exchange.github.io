@@ -1,7 +1,5 @@
 # Hello! 
-My name is **Arcy Flores**.
-
-![boston-img](https://github.com/ArcyFlores/images/blob/master/Boston-wallpaper-4.jpg "Boston Bridge")
+My name is **Arcy Flores**
  
  ## Details
   * Current Location: Boston, MA
@@ -22,7 +20,7 @@ My name is **Arcy Flores**.
  * IntelliJ
  
  ### Links
- [Github](https://github.com/ArcyFlores) | 
+ [Github](https://github.com/ArcyFlores)
  [LinkedIn](www.linkedin.com/in/arcy-flores)
  
  
