@@ -65,7 +65,7 @@ Try to be as specific as possible, and include screen shots when necessary.
 
 ## Introduction to Planet
 
-As we stated earlier in the first steps, we are currently rewriting BeLL using Angular. The repository is called [planet](https://github.com/ole-vi/planet). Head over to the [installation guide](#!pages/robots/rbts-angular.md#Installation) to quickly get Planet up and running. At current stage, it does not matter what nation/community you select. Please explore around.
+As we stated earlier in the first steps, we are currently rewriting BeLL using Angular. The repository is called [planet](https://github.com/ole-vi/planet). Head over to the [installation guide](#!pages/robots/rbts-angular.md#Installation) to quickly get Planet up and running. At current stage, it does not matter what nation/community you select. After logging in, please explore around and post a screenshot to the Gitter chat.
 
 ## Useful Links
 
