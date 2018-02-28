@@ -83,13 +83,13 @@
 
 #### Q14: When I first run BeLL with the "vagrant up" command, why does the download fail?
 
-+ You should first check if [Hashicorp's atlas](https://atlas.hashicorp.com/boxes/search) is up and running by looking at the left sidebar:
++ You should first check if [Hashicorp's atlas](https://status.hashicorp.com) is up and running by looking at the left sidebar:
 
   ![Left Sidebar](images/vi-atlas-status.png)
 
   If Atlas is operational, then maybe your download is being interrupted, you can try to download and set up the big Vagrant box file manually:
 
-  1. Go to this [atlas box page](https://atlas.hashicorp.com/ole/boxes/jessie64/).
+  1. Go to this [atlas box page](https://app.vagrantup.com/ole/boxes/jessie64).
 
   2. Click on the last version's (the uppermost) version number.
 
