@@ -83,7 +83,7 @@
 
 #### Q14: When I first run BeLL with the "vagrant up" command, why does the download fail?
 
-+ You should first check if [Hashicorp's atlas](https://status.hashicorp.com) is up and running by looking at the left sidebar:
++ You should first check if [Hashicorp's atlas](https://status.hashicorp.com) is up and running by status bar just below the logo:
 
   ![Left Sidebar](images/vi-atlas-status.png)
 
