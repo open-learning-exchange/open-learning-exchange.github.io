@@ -17,7 +17,6 @@ and other libraries to build compelling web and mobile applications for humans.
 * **Misc**:​ AJAX, JSON, APIs, React-router, Redux-thunk, Axios e.t.c. 
 * **Paradigms**:​ Agile Software Development. 
 
-
 ### `Social`
 [Twitter]: https://twitter.com/mike_gichia
 [Angellist]: https://angel.co/mike_gichia
@@ -28,6 +27,3 @@ and other libraries to build compelling web and mobile applications for humans.
 
 ## Quote:
 > ##### “We are  our greatest undoing.” 
-
-
-
