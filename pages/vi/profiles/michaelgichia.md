@@ -5,7 +5,8 @@ ___
 * **Time-zone:** EAT
 * **Os:** Ubuntu 16 LTS
 ```
-Front-end software developer working with JavaScript, React, React-native and other libraries to build compelling web and mobile applications for humans.
+Front-end software developer working with JavaScript, React, React-native 
+and other libraries to build compelling web and mobile applications for humans.
 ```
 
 ### `Skill`
