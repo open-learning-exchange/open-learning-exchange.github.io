@@ -110,9 +110,17 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 2. On Windows, when you run `vagrant up` from command prompt, you might get the following error :
 "The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
 
-3. If you see "no_db_found" when trying to access <http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html>. At this early stage, the simple solution would be using `vagrant destroy` to delete the current machine, then use `vagrant up` to rebuild it.
+3. On Ubuntu, you might get this error when you run `vagrant up`:
 
-4. If the command `vagrant up` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
+   > Stderr: VBoxManage: error: The virtual machine 'ud381_default_1463617458900_49294' has terminated unexpectedly during startup with exit code 1 (0x1) VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component MachineWrap, interface IMachine
+
+   This is caused when VirtualBox get a minor version Update. (i.e. 5.0.x -> 5.1.x or 5.1.x -> 5.2.x). There are some old unused modules, who are not compatible with the newer version, remain installed which causes the above problem and prevent VirtualBox from starting. A system restart also does not solve the problem.
+
+   To solve it first remove the unused packages using `sudo apt-get autoremove`. Then reconfigure VirtualBox to install updated modules using `sudo /sbin/vboxconfig`
+
+4. If you see "no_db_found" when trying to access <http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html>. At this early stage, the simple solution would be using `vagrant destroy` to delete the current machine, then use `vagrant up` to rebuild it.
+
+5. If the command `vagrant up` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
 
 ## Next Steps
 
