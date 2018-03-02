@@ -85,7 +85,7 @@
 
 + You should first check if Vagrant Cloud is up and running by looking at [HashiCorp's status page](https://status.hashicorp.com):
 
-  ![Left Sidebar](images/vi-vagrant-cloud-status.png)
+  ![Vagrant Cloud Status](images/vi-vagrant-cloud-status.png)
 
   If Vagrant Cloud is operational, then maybe your download is being interrupted, you can try to download and set up the big Vagrant box file manually:
 
