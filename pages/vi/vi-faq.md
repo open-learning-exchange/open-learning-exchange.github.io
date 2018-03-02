@@ -93,7 +93,7 @@
 
   2. Click on the last version's (the uppermost) version number.
 
-    ![Box Version](images/vi-atlas-last-version-box.png)
+    ![Box Version](images/vi-vagrant-cloud-last-version-box.png)
 
   3. Add `/providers/virtualbox.box` to the page link you have been redirected to and click 'Enter' to start the download via your browser, or copy the link and paste it in your preferred downloader, preferably one that has pause/resume functionality.
 
