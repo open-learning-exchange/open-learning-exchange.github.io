@@ -90,7 +90,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
    * 4 comments made (one at step 6 and three at step 8)
    * 4 issues created (one at step 6 and three at step 8)
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.html).
+**NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.md).
 
 ## Step 9 - Submit Survey
 
