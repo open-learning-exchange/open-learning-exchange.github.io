@@ -185,10 +185,6 @@ Note: For steps 2 and 3, developers should do this every time they begin to work
 
 ## Useful links
 
-[Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
-[Sync fork](https://help.github.com/articles/syncing-a-fork/)
-[GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-[Git help](https://git-scm.com/)
 [Configure a remote for fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/) - You can sync changes made in the original repository with a fork.
 [Sync fork](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
 [GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - An Introduction to Git and Github for beginners from Hubspot.
