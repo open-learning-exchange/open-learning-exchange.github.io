@@ -18,6 +18,7 @@
 
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
+  * [Track Progress](pages/vi/vi-track-progress.md)
   - - - -
   * [Vagrant](pages/vi/vi-vagrant.md)
   * [GitHub & Markdown](pages/vi/vi-github-and-markdown.md)
