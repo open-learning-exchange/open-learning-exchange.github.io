@@ -88,7 +88,7 @@ brew cask install virtualbox
 sudo apt-get update
 sudo apt-get -y install git virtualbox
 ```
-Next go to [Vagrant download page](https://www.vagrantup.com/downloads.html) in Firefox Web browser and Right click on the `64-Bit` version of `Debian` and select "Copy Link Location" from the dropdown menu.
+Next, go to [Vagrant download page](https://www.vagrantup.com/downloads.html) in Firefox Web browser and Right click on the `64-Bit` version of `Debian` and select "Copy Link Location" from the pop-up menu.
 Refer this image:
 
 ![Debian 64-Bit Download](images/vi-ubuntu-deb-download.png)
