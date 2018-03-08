@@ -85,9 +85,19 @@ brew cask install virtualbox
 #### For Ubuntu
 
 ```bash
-sudo apt-get install git
-sudo apt-get install virtualbox
-sudo apt-get install vagrant
+sudo apt-get update
+sudo apt-get -y install git virtualbox
+```
+Next, go to [Vagrant download page](https://www.vagrantup.com/downloads.html) in Firefox Web browser and Right click on the `64-Bit` version of `Debian` and select "Copy Link Location" from the pop-up menu.
+Refer this image:
+
+![Debian 64-Bit Download](images/vi-ubuntu-deb-download.png)
+
+Now replace `https://yourcopiedlink.com/vagrant.deb` in the following commands by the link which you just copied.
+```bash
+wget -O vagrant.deb https://yourcopiedlink.com/vagrant.deb
+sudo dpkg -i vagrant.deb
+sudo apt-get install -f
 ```
 
 #### For macOS and Ubuntu – Install a Community BeLL
