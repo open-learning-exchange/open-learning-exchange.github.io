@@ -14,6 +14,12 @@ Name | Scott
 *Sports* | :basketball:
 *Hobby* | Watch \*stars\*
 
+* My OS:
+
+  ```shell
+  Darwin blablall.local 17.2.0 Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64 x86_64
+  ```
+  
 * My Tech Stack:
 
   ```shell
