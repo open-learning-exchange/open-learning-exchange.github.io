@@ -36,7 +36,8 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 |
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
 |[thesiege208](profiles/thesiege208.md)| 2017-10-16 |
-|[aas919](profiles/aas919.md)| 2017-10-23 |
+|[amanuely](profiles/amanuely.md)| 2017-10-16 | 2018-01-16 |
+|[ybai8](profiles/ybai8.md)| 2018-01-19 | 2018-01-19 |
 |[mappuji](profiles/mappuji.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
 |[𝖂𝖆𝖗𝖞𝖍𝖊𝖗𝖒𝖎𝖙](profiles/waryhermit.md) (**Intern Lead**)| 2016-12-13 | 2017-04-28 |
 |[FanisGk](profiles/FanisGk.md)| 2016-08-01 | 2017-01-31 |
