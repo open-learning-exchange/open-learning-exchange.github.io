@@ -7,6 +7,7 @@
 Name | Scott
 --- | --- 
 *From* | `China` 
+*Now at* | `NY`
 *Age* | 21 
 *Major*| `ECE`
 *Sports* | :basketball:
