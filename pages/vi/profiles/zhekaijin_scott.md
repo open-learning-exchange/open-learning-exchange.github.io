@@ -1,6 +1,6 @@
 # Scott Jin (Zhekai Jin)
 ***
-[Imgur](https://i.imgur.com/1UTycAe.jpg)
+![Imgur](https://i.imgur.com/1UTycAe.jpg)
 
 :star: ***_Something About Myself_***
 
