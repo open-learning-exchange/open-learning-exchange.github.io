@@ -8,6 +8,7 @@ Name | Scott
 --- | --- 
 *From* | `China` 
 *Now at* | `NY`
+*Time Zone* | `EST`
 *Age* | 21 
 *Major*| `ECE`
 *Sports* | :basketball:
