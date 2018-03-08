@@ -59,4 +59,4 @@ Name | Scott
 
 > [LINKEDIN](https://www.linkedin.com/in/scott-zhekai-jin-196aa1b1/)
 
-> [GITHUB](https://www.github.com/in/zhekaijin)
+> [GITHUB](https://www.github.com/zhekaijin)
