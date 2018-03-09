@@ -47,14 +47,14 @@ Name | Scott
   * OpenCV
   * OpenGL
 
-## Some of My Previous Project:
+## SOME OF MY PREVIOUS PROJECTS:
 > [VR-TELE](https://github.com/ZhekaiJin/VR-TELE) 
 
 > [COOPER_IOT](https://github.com/ZhekaiJin/Cooper_IOT) 
 
 > [My PlayGround](https://github.com/ZhekaiJin/Practice-Projects) 
 
-## If YOU WANT TO KNOW ABOUT ME :
+## IF YOU WANT TO KNOW ABOUT ME :
 > [EMAIL](mailto:JIN4@COOPER.EDU) 
 
 > [LINKEDIN](https://www.linkedin.com/in/scott-zhekai-jin-196aa1b1/)
