@@ -4,11 +4,11 @@
 
 Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple instructions before you can progress to working on harder projects in bigger teams. Consider them to be the interview for the internship.
 
-If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the Virtual Interns Gitter chatroom and assign you to a specific team to work on developing and improving OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
+If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the Virtual Interns Gitter chatroom and assign you to a specific team to work on developing and improving OLE’s software. Our current projects could be found [here](#!./pages/robots/rbts-intern-orientation.md#Familiarize_Yourself_with_Current_Projects_and_Issues).
 
-Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
+Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will have the opportunity to work with software and languages including Git, GitHub, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, JavaScript, Node.js, and Angular.
 
-**NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found [here](http://open-learning-exchange.github.io/#!pages/vi/vi-faq.md). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](vi-chat.md)!
+**NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found at our [FAQ](vi-faq.md#General_Internship_Questions). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](vi-chat.md)!
 
 # The Steps
 
@@ -16,14 +16,13 @@ Social coding is a huge part of any open source and collaborative project, and t
 
 Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice here are very important in both this internship and a future software development career.
 
-The MD wiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step and we created a [FAQ page](vi-faq.md) where you can find the answers to some commonly asked questions. This page has even more useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
+The MDwiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step. We also created a [FAQ page](vi-faq.md) where you can find the answers to some commonly asked questions. This page has even more useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
 
 We also want you to keep us updated a relatively good amount in the Gitter chat as you complete these steps. Check our [Gitter chat](vi-chat.md) page for more information about how to best communicate in Gitter.
 
-A very large part of these steps is finding problems with these steps and this MD wiki, so take note of any issues that you run into or suggestions for improvement while doing these steps. Think of it as improving these steps and this MD wiki for future interns.
+A very large part of these steps is finding problems with these steps and this MDwiki, so take note of any issues that you run into or suggestions for improvement while doing these steps. Think of it as improving these steps and this MDwiki for future interns.
 
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
-
 
 ## Step 0 - Introductory Steps
 
@@ -39,9 +38,11 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 1 - BeLL Installation
 
-Go to [BeLL Installation](#!./pages/vi/vi-bell-installation.md) to read the instructions on how to install your own digital library (what we call the BeLL, or Basic e-Learning Library). Make sure you only follow the steps for your specific operating system.
+The BeLL – Basic e-Learning Library is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. we are currently rewriting BeLL using Angular.
 
-Once you have finished installing BeLL, go to the [Configurations Guide](vi-configurations.md) to set up your Community BeLL.
+Please go to [BeLL Installation](#!./pages/vi/vi-bell-installation.md) for instructions on how to set up your own digital library.
+
+Once you have finished setting up BeLL, go to the [Configurations Guide](vi-configurations.md) to configure your Community BeLL.
 
 ## Step 2 - Vagrant Tutorial
 
@@ -85,8 +86,8 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 **NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the title of your pull request.
 
-- Once you complete Step 8 you will have:
-   * 5 merged pull requests made (one at step 3, one at step 6 and three at step 8)
+- Once you complete Step 8, you should have:
+   * 5 merged pull requests (one at step 3, one at step 6 and three at step 8)
    * 4 comments made (one at step 6 and three at step 8)
    * 4 issues created (one at step 6 and three at step 8)
 
@@ -94,14 +95,10 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 ## Step 9 - Submit Survey
 
-Head over to [Open Learning Exchange Repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and make sure you have the previous list from Step 8 done.
+Once confirm you meet all requirements in the previous step, let us know in the Gitter chat so we can send the survey to your community. The survey notification will appear at the bottom of the dashboard in your community BeLL. Click on `Survey`, fill it out and submit it. Next, Sync your community with the nation (as you did in step 7.)
 
-If you meet these requirements let us know in the Gitter chat, so we can send the survey to your community. Then, fill out the survey and submit it. Next, Sync your community with the nation (as you did in step 7).
+Once you have completed all other steps, add yourself to the virtual intern list found in vi-team.md and create a pull request.
 
-**NOTE**: The survey sent by __@dogi__ will appear at the bottom of the page where the `Publications` and `Updates` appear in your community BeLL. Click on `Survey`, fill it out and submit it.
+After the pull request, message us or dogi in the Gitter chat to let us know you are done so that we can set up a meeting and add you to the team as soon as possible.
 
-Lastly, once you have completed all other steps, add yourself to the virtual intern list found in team.md and create a pull request.
-
-After the pull request, message in the gitter chat or message dogi to let him know you are done so that he can set up a meeting and add you to the team as soon as possible.
-
-Once you have been added to the team, read through the [intern orientation document](../robots/rbts-intern-orientation.md).
+Make sure to read through the [intern orientation document](#!./pages/robots/rbts-intern-orientation.md) before the meeting.
