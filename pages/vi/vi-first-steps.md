@@ -95,10 +95,8 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 ## Step 9 - Submit Survey
 
-Once confirm you meet all requirements in the previous step, let us know in the Gitter chat so we can send the survey to your community. The survey notification will appear at the bottom of the dashboard in your community BeLL. Click on `Survey`, fill it out and submit it. Next, Sync your community with the nation (as you did in step 7.)
+Once you have finished step 8, let us know in the Gitter chat so that we can send the survey to your community. The survey notification will appear at the bottom of the dashboard in your community BeLL. Once you fill out and submit the survey, sync your community with the nation (as you did in step 7.)
 
-Once you have completed all other steps, add yourself to the virtual intern list found in vi-team.md and create a pull request.
-
-After the pull request, message us or dogi in the Gitter chat to let us know you are done so that we can set up a meeting and add you to the team as soon as possible.
+Next thing is to add yourself to the virtual intern list found in vi-team.md and create a pull request. Message us ("@/all" and "@dogi") in the Gitter chat room so that we can set up a meeting and add you to the team as soon as possible.
 
 Make sure to read through the [intern orientation document](#!./pages/robots/rbts-intern-orientation.md) before the meeting.
