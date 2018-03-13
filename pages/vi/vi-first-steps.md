@@ -42,7 +42,7 @@ The BeLL – Basic e-Learning Library is a virtual library that is deployed inte
 
 Please go to [BeLL Installation](#!./pages/vi/vi-bell-installation.md) for instructions on how to set up your own digital library.
 
-Once you have finished setting up BeLL, go to the [Configurations Guide](vi-configurations.md) to configure your Community BeLL.
+Once you have finished installing BeLL, go to the [Configurations Guide](vi-configurations.md) to configure your Community BeLL.
 
 ## Step 2 - Vagrant Tutorial
 
