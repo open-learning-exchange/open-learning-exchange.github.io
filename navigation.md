@@ -51,7 +51,7 @@
   - - - -
   * [**Members**](pages/techgenius/tg-team.md)
 
-[Resources]() <!-- Moon-Shot Programs -->
+[Contributors]() <!-- Moon-Shot Programs -->
 
   * [**Angular Reboot**](pages/robots/rbts-angular.md)
   * [**Raspberry Pi**](pages/robots/rbts-raspberry-pi.md)
