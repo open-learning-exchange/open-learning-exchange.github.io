@@ -32,7 +32,6 @@
   * [Track Progress](pages/vi/vi-track-progress.md)
   - - - -
   * [**Members**](pages/vi/vi-team.md)
-  * [Orientation](pages/robots/rbts-intern-orientation.md)
 
 [Tech Geniuses]() <!-- Tech Geniuses Program -->
 
@@ -53,6 +52,8 @@
 
 [Contributors]() <!-- Moon-Shot Programs -->
 
+  * [Orientation](pages/robots/rbts-intern-orientation.md)
+  - - - -
   * [**Angular Reboot**](pages/robots/rbts-angular.md)
   * [**Raspberry Pi**](pages/robots/rbts-raspberry-pi.md)
   * [**Take Home**](pages/robots/rbts-takehome.md)
