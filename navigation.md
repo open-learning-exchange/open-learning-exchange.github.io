@@ -19,7 +19,6 @@
 
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
-  * [Track Progress](pages/vi/vi-track-progress.md)
   - - - -
   * [Step 1 - BeLL Installation & Configuration](pages/vi/vi-bell-installation.md)
   * [Step 2 - Vagrant Instructions](pages/vi/vi-vagrant.md)
@@ -30,9 +29,10 @@
   * [Step 7 - Nation BeLL](pages/vi/vi-nation.md)
   * [Step 8 - Create Issues and Pull Requests](pages/vi/vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)
   * [Step 9 - Submit Survey](pages/vi/vi-first-steps.md#Step_9_-_Submit_Survey)
-  * [Orientation](pages/robots/rbts-intern-orientation.md)
+  * [Track Progress](pages/vi/vi-track-progress.md)
   - - - -
   * [**Members**](pages/vi/vi-team.md)
+  * [Orientation](pages/robots/rbts-intern-orientation.md)
 
 [Tech Geniuses]() <!-- Tech Geniuses Program -->
 
