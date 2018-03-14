@@ -64,7 +64,6 @@
   * [HTML Resources](pages/robots/rbts-html-resources.md)
   * [Windows Installer](pages/robots/rbts-inno-project.md)
 
-
 [Chat]()
 
   * [**Introduction**](pages/vi/vi-chat.md)
