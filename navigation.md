@@ -13,19 +13,23 @@
   * [BeLL](https://crowdin.com/project/open-learning-exchange/invite)
   * [Planet](https://crowdin.com/project/ole-planet/invite)
   * [Take Home](https://crowdin.com/project/take-home/invite)
+  * [Remote](https://crowdin.com/project/treehousesremote/invite)
 
 [Virtual Interns]() <!-- Intern Program -->
 
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
-  * [Track Progress](pages/vi/vi-track-progress.md)
   - - - -
-  * [Vagrant](pages/vi/vi-vagrant.md)
-  * [GitHub & Markdown](pages/vi/vi-github-and-markdown.md)
-  * [GitHub Repositories](pages/vi/vi-github-and-repositories.md)
-  * [GitHub Issues](pages/vi/vi-github-issues.md)
-  * [BeLL-Apps](pages/vi/vi-bellapps.md)
-  * [Nation BeLL](pages/vi/vi-nation.md)
+  * [Step 1 - BeLL Installation & Configuration](pages/vi/vi-bell-installation.md)
+  * [Step 2 - Vagrant Instructions](pages/vi/vi-vagrant.md)
+  * [Step 3 - Markdown and Fork Tutorial](pages/vi/vi-github-and-markdown.md)
+  * [Step 4 - BeLL-Apps Tutorial](pages/vi/vi-bellapps.md)
+  * [Step 5 - Keeping Fork Updated](pages/vi/vi-github-and-repositories.md)
+  * [Step 6 - GitHub Issues Tutorial](pages/vi/vi-github-issues.md)
+  * [Step 7 - Nation BeLL](pages/vi/vi-nation.md)
+  * [Step 8 - Create Issues and Pull Requests](pages/vi/vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)
+  * [Step 9 - Submit Survey](pages/vi/vi-first-steps.md#Step_9_-_Submit_Survey)
+  * [Track Progress](pages/vi/vi-track-progress.md)
   - - - -
   * [**Members**](pages/vi/vi-team.md)
 
@@ -46,24 +50,25 @@
   - - - -
   * [**Members**](pages/techgenius/tg-team.md)
 
-[Robots]() <!-- Moon-Shot Programs -->
+[Contributors]() <!-- Moon-Shot Programs -->
 
-  * [**Orientation**](pages/robots/rbts-intern-orientation.md)
+  * [Orientation](pages/robots/rbts-intern-orientation.md)
+  - - - -
+  * [**Angular Reboot**](pages/robots/rbts-angular.md)
+  * [**Raspberry Pi**](pages/robots/rbts-raspberry-pi.md)
+  * [**Take Home**](pages/robots/rbts-takehome.md)
   - - - -
   * [Simple Dev Install](pages/robots/rbts-simple-install.md)
   * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
   * [Automated Testing](pages/robots/rbts-automated-testing.md)
   * [HTML Resources](pages/robots/rbts-html-resources.md)
   * [Windows Installer](pages/robots/rbts-inno-project.md)
-  * [**Take Home**](pages/robots/rbts-takehome.md)
-  * [**Raspberry Pi**](pages/robots/rbts-raspberry-pi.md)
-  * [**Angular Reboot**](pages/robots/rbts-angular.md)  
 
 [Chat]()
 
   * [**Introduction**](pages/vi/vi-chat.md)
   - - - -
-  * [General Chat](https://gitter.im/open-learning-exchange/chat)
+  * [General Chat (Open to Public)](https://gitter.im/open-learning-exchange/chat)
   * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
   * [Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
 
