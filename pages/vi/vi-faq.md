@@ -206,7 +206,7 @@ name, and try again.
 	   ```
 	+ do ```vagrant up ``` should give you an indepedent vm.
 
-	Note you have to halt one VM to get another started in the corresponding folder[ make sure you run ```vagrant up ``` in the desired VM folder] to avoid conflicting ports.
+Note: You have to halt one VM to get another started in the corresponding folder[ make sure you run ```vagrant up ``` in the desired VM folder] to avoid conflicting ports.
 	
 + if you want to run multiple VMs together, you need to change the vagrant file as instructed in [multi-machine](https://www.vagrantup.com/docs/multi-machine/).
 
