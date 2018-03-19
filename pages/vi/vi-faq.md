@@ -134,6 +134,83 @@
     vagrant up
     ```
 
+#### Q18: What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?
+
++ You can follow these steps:
+
+	1. check the original folder where ole--vagrant-vi lies, if the folder still exists: run 
+	   
+	   ```
+	   cd ole--vagrant-vi
+	   	vagrant global-status
+		vagrant destroy [imagename]
+		cd ..
+		rm -rf ole--vagrant-vi
+		git clone https://github.com/dogi/ole--vagrant-vi.git
+		cd ole--vagrant-vi
+		vagrant up
+		```
+	if not, just deleted the image and recreate it. 
+	
+		```
+		vagrant global-status
+		vagrant destroy [imagename]
+		git clone https://github.com/dogi/ole--vagrant-vi.git
+		cd ole--vagrant-vi
+		vagrant up
+		```
+	2. You may run into error messege in creating virtual image using ```vagrant up ```:
+	 
+	 ```
+	 A Virtual Box machine with the name 'vi' already exists.
+Please use another name or delete the machine with the existing
+name, and try again.
+	 ```
+	 Try running```VBoxManage list vms && VBoxManage list runningvms```
+	 to check out the running virtual images and their names
+	 then identify your vm's name and ID ["my-vm" {c700b8b6-b766-4638-871b-736b44b7db18}]
+	 
+	 + You may not need to delete it: Copy the ID of the desired VM  into the contents of ole--vagrant-vi/.vagrant/machines/default/virtualbox/id. Save the file then run ```vagrant up```. For more information, check out 
+[Vagrant Issues #6623](https://github.com/hashicorp/vagrant/issues/6623).
+	 + Another option is to delete the VM by running
+	 
+		 ```
+		 VBoxManage controlvm name_of_vm poweroff
+		 VBoxManage unregistervm name_of_vm --delete
+	    ```
+	 retry ```vagrant up``` in the cloned folder.
+	
+
+#### Q19: What if I want to create two virtual images from ole--vagrant-vi folder [to do an interface testing] but ```vagrant up``` gives the same error message in Q18 step 2?
++ It is totally doable as long as their configuration does not collide on each other(port forwarding... etc). Here are some ways:
+  1. If you just want two independent VMs, and you will not run them together: 
+ 
+ 	+ Copy the directory holding Vagrantfile to the new place and run vagrant up from it.
+	+ If you copy the directory before ```vagrant up``` the box for the first time, skip the next step.
+	+ Vagrant now assume that these two locations refer to the same box.  Delete copied_directory/.vagrant to unlink.
+	  	
+	   ```
+	   cd copied_directory
+	   rm -rf .vagrant
+	   ```
+	+ all the above steps could be replaced with 
+		
+		```
+	   mkdir new_directory
+	   git clone https://github.com/dogi/ole--vagrant-vi.git
+		cd ole--vagrant-vi
+	   ```
+	+ now you just need to change line 24 of the vagrant file 
+	   ```
+	   vb.name = "a_dfferent_name"
+	   ```
+	+ do ```vagrant up ``` should give you an indepedent vm.
+
+	Note you have to halt one VM to get another started in the corresponding folder[ make sure you run ```vagrant up ``` in the desired VM folder] to avoid conflicting ports.
+	
++ if you want to run multiple VMs together, you need to change the vagrant file as instructed in [multi-machine](https://www.vagrantup.com/docs/multi-machine/).
+
+
 ## 'First Steps' Software Summary
 
 >_The aim of the ‘First Steps’ is to introduce prospective interns to the software that they will be using, and make sure they are familiar with each. While each step goes into detail on the specific program(s) at hand, it can be easy at times to lose sight of the bigger picture. To that end, below is a brief synopsis of the primary tools you will be using/learning about in the first steps, and how they work together to empower our collaborative development environment._
