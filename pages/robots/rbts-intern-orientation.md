@@ -6,7 +6,7 @@ Congratulations. You have completed the first steps and have been selected to jo
 
 ## Get to Know the Team
 
-The first thing is to meet the team, starting with CTO Dogi, then the [current intern team leads and members](#!./pages/vi/vi-team.md). After having the initial meeting with Dogi, you can join <https://talk.ole.org> during Google Hangouts session to meet with current interns, get to know each other, and ask them what they have been working on.
+The first thing is to meet the team, starting with CTO Dogi, then the [current intern team leads and members](#!./pages/vi/vi-team.md). After having the initial meeting with Dogi, you can join <http://talk.ole.org> during Google Hangouts session to meet with current interns, get to know each other, and ask them what they have been working on.
 
 ## Familiarize Yourself with Current Projects and Issues
 
@@ -102,7 +102,7 @@ This is especially helpful if you are not able to attend our Google Hangouts ses
 While you are free to work in your own style, we recommend you follow this basic daily routine:
 
 * Check Gitter interns room and your Gitter private messages.
-* Join the [OLE Google Hangouts session](https://talk.ole.org) if you are able to, so you can follow what everyone is working on and get help fast.
+* Join the [OLE Google Hangouts session](http://talk.ole.org) if you are able to, so you can follow what everyone is working on and get help fast.
 * Check Waffle.io, if you have no issues assigned, assign yourself to issues relating to the project you wish to work on.
 * Write a message in [Gitter standup room](https://gitter.im/open-learning-exchange/standup) with the format mentioned above.
 * Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
@@ -112,7 +112,7 @@ While you are free to work in your own style, we recommend you follow this basic
 
 ### Weekly Schedule
 
-All of our Google Hangouts sessions can be joined at <https://talk.ole.org>. Currently, we have a few scheduled sessions each week:
+All of our Google Hangouts sessions can be joined at <http://talk.ole.org>. Currently, we have a few scheduled sessions each week:
 
 * Happy hacking hangout
 * angular asia (h)acking (h)angout
@@ -120,7 +120,7 @@ All of our Google Hangouts sessions can be joined at <https://talk.ole.org>. Cur
 * Raspberry Pi Hangout
 * Take Home Hangout
 
-Every Monday at the "[Happy hacking hangout](https://talk.ole.org)" session, we work on problems together and catch up on what people have been doing all week. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the meeting. Use the calendar to set up meetings and other events with interns.
+Every Monday at the "[Happy hacking hangout](http://talk.ole.org)" session, we work on problems together and catch up on what people have been doing all week. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the meeting. Use the calendar to set up meetings and other events with interns.
 
 To subscribe to our calendar, paste `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` into [Google Calendar](https://calendar.google.com/)'s "*Add a friend's calendar*" and **hit `Enter` (do not click the + sign)**.
 
