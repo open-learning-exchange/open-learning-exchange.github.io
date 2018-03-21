@@ -177,12 +177,12 @@
 
 	 + Another option is to delete the VM by running
 	 
-	     ```
-   	     VBoxManage controlvm name_of_vm poweroff
-	     VBoxManage unregistervm name_of_vm --delete
-	     ```
+	   ```
+   	   VBoxManage controlvm name_of_vm poweroff
+	   VBoxManage unregistervm name_of_vm --delete
+	   ```
 	   
-	   Retry ```vagrant up``` in the cloned folder.
+	    Retry ```vagrant up``` in the cloned folder.
 
 
 #### Q19: What if I want to create two virtual images from ole--vagrant-vi folder to do an interface testing but get the same error message in Q18 step 2?
