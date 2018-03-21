@@ -175,15 +175,14 @@
 	 + You may not need to delete it: Copy the ID of the desired VM into the contents of ole--vagrant-vi/.vagrant/machines/default/virtualbox/id. Save the file then run ```vagrant up```. For more information, check out
 [Vagrant Issues #6623](https://github.com/hashicorp/vagrant/issues/6623).
 
-	 + Another option is to delete the VM by running	
-
-		```
-		VBoxManage controlvm name_of_vm poweroff
-		VBoxManage unregistervm name_of_vm --delete
-		```
-		
-	    Retry ```vagrant up``` in the cloned folder.
-
+	 + Another option is to delete the VM by running
+	 
+	   ```
+	   VBoxManage controlvm name_of_vm poweroff
+	   VBoxManage unregistervm name_of_vm --delete
+	   ```
+	   Retry ```vagrant up``` in the cloned folder.
+	 
 
 #### Q19: What if I want to create two virtual images from ole--vagrant-vi folder to do an interface testing but get the same error message in Q18 step 2?
 + It is totally doable as long as their configuration does not collide on each other(port forwarding... etc). Here are some ways:
