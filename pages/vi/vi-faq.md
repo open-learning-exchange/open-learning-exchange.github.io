@@ -169,7 +169,7 @@
 Please use another name or delete the machine with the existing
 name, and try again.
 	 ```
-	 Try running```VBoxManage list vms && VBoxManage list runningvms``` to check out the running virtual images and their names then identify your vm's name and ID ["my-vm" {c700b8b6-b766-4638-871b-736b44b7db18}]
+     Try running ```VBoxManage list vms && VBoxManage list runningvms``` to check out the running virtual images and their names then identify your vm's name and ID ["my-vm" {c700b8b6-b766-4638-871b-736b44b7db18}]
 
 	 + You may not need to delete it: Copy the ID of the desired VM into the contents of ole--vagrant-vi/.vagrant/machines/default/virtualbox/id. Save the file then run ```vagrant up```. For more information, check out 
 [Vagrant Issues #6623](https://github.com/hashicorp/vagrant/issues/6623).
@@ -188,7 +188,7 @@ name, and try again.
 
  	+ Copy the directory holding Vagrantfile to the new place and run vagrant up from it.
 	+ If you copy the directory before ```vagrant up``` the box for the first time, skip the next step.
-	+ Vagrant now assume that these two locations refer to the same box.  Delete copied_directory/.vagrant to unlink.
+	+ Vagrant now assume that these two locations refer to the same box. Delete copied_directory/.vagrant to unlink.
 
 	   ```
 	   cd copied_directory
@@ -199,7 +199,7 @@ name, and try again.
 		```
 	   mkdir new_directory
 	   git clone https://github.com/dogi/ole--vagrant-vi.git
-		cd ole--vagrant-vi
+       cd ole--vagrant-vi
 	   ```
 	+ Now you just need to change line 24 of the vagrant file
         ```
