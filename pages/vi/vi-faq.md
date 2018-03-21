@@ -144,13 +144,13 @@
 	1. Check where the original folder ole--vagrant-vi lies, if the folder still exists: run
 
 		```
-        cd ole--vagrant-vi
+		cd ole--vagrant-vi
 		vagrant global-status
 		vagrant destroy [image_name]
-        cd ..
+		cd ..
 		rm -rf ole--vagrant-vi
 		git clone https://github.com/dogi/ole--vagrant-vi.git
-        cd ole--vagrant-vi
+		cd ole--vagrant-vi
 		vagrant up
 		```
 	      
@@ -160,7 +160,7 @@
 		vagrant global-status
 		vagrant destroy [image_name]
 		git clone https://github.com/dogi/ole--vagrant-vi.git
-        cd ole--vagrant-vi
+		cd ole--vagrant-vi
 		vagrant up
 		```
 
@@ -179,8 +179,9 @@
 	 	
 	   ```
    	   VBoxManage controlvm name_of_vm poweroff
-       VBoxManage unregistervm name_of_vm --delete
-       ```
+	   VBoxManage unregistervm name_of_vm --delete
+	   ```
+	   
 	   Retry ```vagrant up``` in the cloned folder.
 
 
@@ -193,9 +194,9 @@
 	+ Vagrant now assume that these two locations refer to the same box. Delete .vagrant folder under copied_directory the to unlink.
 
 	  ```
-      cd copied_directory
-      rm -rf .vagrant
-      ```
+	  cd copied_directory
+	  rm -rf .vagrant
+	  ```
 
 	+ All the above steps could be replaced with
 
@@ -208,8 +209,8 @@
 	+ Now you just need to change line 24 of the vagrant file
 
 	  ```
-      vb.name = "a_different_name"
-      ```
+	  vb.name = "a_different_name"
+	  ```
 
 	+ Do ```vagrant up ``` should give you an independent vm.
 
