@@ -153,7 +153,7 @@
 	   cd ole--vagrant-vi
 	   vagrant up
 	   ```
-	If it does not, just delete the image and recreate it. 
+	If it does not, just delete the image and recreate it.
 
 		```
 		vagrant global-status
@@ -162,6 +162,7 @@
 		cd ole--vagrant-vi
 		vagrant up
 		```
+		
 	2. You may run into error messege in creating virtual image using ```vagrant up ```:
 
 	 ```
@@ -169,17 +170,19 @@
 Please use another name or delete the machine with the existing
 name, and try again.
 	 ```
+	 
      Try running ```VBoxManage list vms && VBoxManage list runningvms``` to check out the running virtual images and their names then identify your vm's name and ID ["my-vm" {c700b8b6-b766-4638-871b-736b44b7db18}]
 
 	 + You may not need to delete it: Copy the ID of the desired VM into the contents of ole--vagrant-vi/.vagrant/machines/default/virtualbox/id. Save the file then run ```vagrant up```. For more information, check out 
 [Vagrant Issues #6623](https://github.com/hashicorp/vagrant/issues/6623).
+	 
 	 + Another option is to delete the VM by running
 
 		 ```
 		 VBoxManage controlvm name_of_vm poweroff
 		 VBoxManage unregistervm name_of_vm --delete
 	    ```
-	 Retry ```vagrant up``` in the cloned folder.
+	    Retry ```vagrant up``` in the cloned folder.
 
 
 #### Q19: What if I want to create two virtual images from ole--vagrant-vi folder to do an interface testing but get the same error message in Q18 step 2?
@@ -188,12 +191,13 @@ name, and try again.
 
  	+ Copy the directory holding Vagrantfile to the new place and run vagrant up from it.
 	+ If you copy the directory before ```vagrant up``` the box for the first time, skip the next step.
-	+ Vagrant now assume that these two locations refer to the same box. Delete copied_directory/.vagrant to unlink.
+	+ Vagrant now assume that these two locations refer to the same box. Delete .vagrant folder under copied_directory the to unlink.
 
 	   ```
 	   cd copied_directory
 	   rm -rf .vagrant
 	   ```
+	   
 	+ All the above steps could be replaced with
 
 	   ```
@@ -201,11 +205,13 @@ name, and try again.
 	   git clone https://github.com/dogi/ole--vagrant-vi.git
        cd ole--vagrant-vi
 	   ```
+	   
 	+ Now you just need to change line 24 of the vagrant file
 
        ```
 	   vb.name = "a_dfferent_name"
 	   ```
+	   
 	+ Do ```vagrant up ``` should give you an indepedent vm.
 
 Note: You have to halt one VM to get another started in the corresponding folder[ make sure you run ```vagrant up ``` in the desired VM folder] to avoid conflicting ports.
