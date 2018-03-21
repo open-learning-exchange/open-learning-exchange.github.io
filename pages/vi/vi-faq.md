@@ -141,7 +141,7 @@
 
 + You can follow these steps:
 
-	1. check where the original folder ole--vagrant-vi lies, if the folder still exists: run
+	1. Check where the original folder ole--vagrant-vi lies, if the folder still exists: run
 
 	   ```
 	   cd ole--vagrant-vi
@@ -153,7 +153,7 @@
 	   cd ole--vagrant-vi
 	   vagrant up
 	   ```
-	if it does not, just delete the image and recreate it. 
+	If it does not, just delete the image and recreate it. 
 
 		```
 		vagrant global-status
@@ -179,12 +179,12 @@ name, and try again.
 		 VBoxManage controlvm name_of_vm poweroff
 		 VBoxManage unregistervm name_of_vm --delete
 	    ```
-	 retry ```vagrant up``` in the cloned folder.
+	 Retry ```vagrant up``` in the cloned folder.
 
 
 #### Q19: What if I want to create two virtual images from ole--vagrant-vi folder to do an interface testing but get the same error message in Q18 step 2?
 + It is totally doable as long as their configuration does not collide on each other(port forwarding... etc). Here are some ways:
-  1. If you just want two independent VMs, and you will not run them together: 
+  1. If you just want two independent VMs, and you will not run them together:
 
  	+ Copy the directory holding Vagrantfile to the new place and run vagrant up from it.
 	+ If you copy the directory before ```vagrant up``` the box for the first time, skip the next step.
@@ -194,22 +194,22 @@ name, and try again.
 	   cd copied_directory
 	   rm -rf .vagrant
 	   ```
-	+ all the above steps could be replaced with
+	+ All the above steps could be replaced with
 
 		```
 	   mkdir new_directory
 	   git clone https://github.com/dogi/ole--vagrant-vi.git
 		cd ole--vagrant-vi
 	   ```
-	+ now you just need to change line 24 of the vagrant file
+	+ Now you just need to change line 24 of the vagrant file
         ```
 	    vb.name = "a_dfferent_name"
 	    ```
-	+ do ```vagrant up ``` should give you an indepedent vm.
+	+ Do ```vagrant up ``` should give you an indepedent vm.
 
 Note: You have to halt one VM to get another started in the corresponding folder[ make sure you run ```vagrant up ``` in the desired VM folder] to avoid conflicting ports.
 
-+ if you want to run multiple VMs together, you need to change the vagrant file as instructed in [multi-machine](https://www.vagrantup.com/docs/multi-machine/).
++ If you want to run multiple VMs together, you need to change the vagrant file as instructed in [multi-machine](https://www.vagrantup.com/docs/multi-machine/).
 
 
 ## 'First Steps' Software Summary
