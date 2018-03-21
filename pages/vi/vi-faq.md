@@ -177,10 +177,10 @@
 
 	 + Another option is to delete the VM by running
 	 
-	   ```
-   	   VBoxManage controlvm name_of_vm poweroff
-	   VBoxManage unregistervm name_of_vm --delete
-	   ```
+	    ```
+   	    VBoxManage controlvm name_of_vm poweroff
+	    VBoxManage unregistervm name_of_vm --delete
+	    ```
 	   
 	    Retry ```vagrant up``` in the cloned folder.
 
