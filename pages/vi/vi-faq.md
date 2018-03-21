@@ -196,15 +196,16 @@ name, and try again.
 	   ```
 	+ All the above steps could be replaced with
 
-		```
+	   ```
 	   mkdir new_directory
 	   git clone https://github.com/dogi/ole--vagrant-vi.git
        cd ole--vagrant-vi
 	   ```
 	+ Now you just need to change line 24 of the vagrant file
-        ```
-	    vb.name = "a_dfferent_name"
-	    ```
+
+       ```
+	   vb.name = "a_dfferent_name"
+	   ```
 	+ Do ```vagrant up ``` should give you an indepedent vm.
 
 Note: You have to halt one VM to get another started in the corresponding folder[ make sure you run ```vagrant up ``` in the desired VM folder] to avoid conflicting ports.
