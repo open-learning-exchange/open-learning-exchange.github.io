@@ -1,6 +1,6 @@
 # Jonas Tillman
 
-**Phan Rang, Vietnam**
+**Phan Rang, Vietnam (UTC+7 [ITC, Indochina Time])**
 
 ![Phan Rang Communist Statue (from Wikicommons)][phan-rang]
 
