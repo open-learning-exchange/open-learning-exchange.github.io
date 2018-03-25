@@ -63,7 +63,7 @@ Take the course, and the last question will ask you to specify any problems or i
 
 **STEPS:**
 1. Click on Courses on the top navigation
-2. Find the course "Virtual Interns," click on Administration
+2. Find the course "Virtual Interns," click on Admission
 3. Click on Open
 4. Carefully finish 12 steps of the course
 5. When you provide feedback, try to be as specific as possible, and include screen shots when necessary
