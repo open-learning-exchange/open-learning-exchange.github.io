@@ -55,7 +55,7 @@ Take the course, and the last question will ask you to specify any problems or i
     
 **STEPS:**
 1. Click on Courses (next to Library)
-2. Click on Administration
+2. Click on Admission
 3. Open Virtual Interns Course
 4. Carefully read and answer 12 steps
 
