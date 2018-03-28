@@ -150,17 +150,36 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 #### *GitHub and Markdown*
 
-- [GitHub and Markdown Short Tutorials](https://guides.github.com/)
-- [GitHub Help](https://help.github.com/categories/search/)
-- [GitHub's Git Tutorial](https://try.github.io/)
-- [Git-it Workshop](http://jlord.us/git-it/)
-- [Codecademy's Learn Git Course](https://www.codecademy.com/learn/learn-git)
-- [Git Pro (Book)](https://git-scm.com/book/en/v2)
-- [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
-- [GitHub Tips](https://github.com/git-tips/tips/blob/master/README.md)
-- [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
-- [Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
-- [Markdown Editor](https://jbt.github.io/markdown-editor/)
+
+* General
+    - [GitHub and Markdown Short Tutorials](https://guides.github.com/)
+    - [GitHub Help](https://help.github.com/categories/search/)
+    - [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
+
+* First Steps
+    - [GitHub's Git Tutorial](https://try.github.io/)
+    - [Git-it Workshop](http://jlord.us/git-it/)
+    - [Codecademy's Learn Git Course](https://www.codecademy.com/learn/learn-git)
+
+* Intermediate
+    - [Git Immersion](http://gitimmersion.com/)
+
+* Reference/Advanced
+    - [Git Pro (Book)](https://git-scm.com/book/en/v2)
+    - [GitHub Tips](https://github.com/git-tips/tips/blob/master/README.md)
+    - [Oh, Shit, Git](http://ohshitgit.com/)
+
+* Git Workflow
+    - [Git Workflow - High Level](https://www.atlassian.com/git/tutorials/comparing-workflows)
+    - [Git Workflow - High Level, Short](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
+    - [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+
+* Markdown
+    - [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
+    - [Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+    - [Markdown Editor](https://jbt.github.io/markdown-editor/)
+
+#### *Vi/Vim*
 - [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/sheets/vi_help_sheet.pdf)
 
 #### *VirtualBox*
