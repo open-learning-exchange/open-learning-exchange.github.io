@@ -7,7 +7,7 @@
 
 ### ABOUT ME 
 
->I am a **Master's** Student of Computer Science at the **University of Texas at Dallas.**
+I am a **Master's** Student of Computer Science at the **University of Texas at Dallas.**
 ## Skills
 
 | Skill Type | Value |
@@ -23,5 +23,5 @@
 >This is my [LinkedIn Page](https://www.linkedin.com/in/girija-godbole-1845847b).  
 
 >Contact:
->* Email: gsgodbole@gmail.com
->* Phone: (+1) 408-221-8161
+> * Email: gsgodbole@gmail.com
+> * Phone: (+1) 408-221-8161
