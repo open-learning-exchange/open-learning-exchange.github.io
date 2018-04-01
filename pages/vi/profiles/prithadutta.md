@@ -3,6 +3,7 @@
 ### Windows 10
 
 <img src="https://cdn2.hercampus.com/UNH2.jpg" alt="University of New Hampshire-Manchester"/>
+
 <a href="https://manchester.unh.edu/">University of New Hampshire-Manchester</a>
 
 ### Introduction
