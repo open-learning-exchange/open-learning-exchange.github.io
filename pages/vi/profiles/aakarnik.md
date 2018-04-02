@@ -1,8 +1,8 @@
 ***
 ## Anuya Karnik
-#### **Michigan, US**
-#### **Eastern Time Zone (GMT-5)**
-#### **Windows 8.1**
+##### **Michigan, US**
+##### **Eastern Time Zone (GMT-5)**
+##### **Windows 8.1**
 ___
 ## Introduction
 Hi everyone! My name is Anuya. I am an undergrad at **[Andrews University](https://www.andrews.edu/)**, Michigan majoring in **Computer Science**. My minors are Mathematics and Graphic Design.
