@@ -2,6 +2,7 @@
 ## Durham, New Hampshire, USA-03824
 ### Windows 10
 ![Alt University of New Hampshire](https://cdn2.hercampus.com/UNH2.jpg)
+
 [University of New Hampshire-Manchester](https://manchester.unh.edu/ "Search")
 
 ### Introduction
