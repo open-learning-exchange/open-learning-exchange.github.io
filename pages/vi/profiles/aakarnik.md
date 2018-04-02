@@ -11,17 +11,18 @@ Hi everyone! My name is Anuya. I am an undergrad at **[Andrews University](https
 
 The mission of **Open Learning Exchange** - Making quality education available globally, especially in inaccessible world regions - is very captivating for me. I am excited about the opportunity of being a virtual intern at OLE and contribute to its mission while developing my skills.
 ___
-### Skills and Experience:
+### Skills and Experience
 ___
 - Programming in C/C++, Java, JavaScript, and Python.
 - Designing in Photoshop and InDesign.
 - Relevant coursework includes Application Development in Android Studio, Data Structures and Algorithms, and Introduction to AI.
 ___
-### Fun Facts:
+### Fun Facts
 ___
 - I really love to play Badminton and listen to Bollywood music.
 ___
-### Contact Info:
+### Contact Info
 ___
 - Email: aakarnik8@gmail.com
 - Find out more about me on **[LinkedIn](https://www.linkedin.com/in/anuya-karnik-7a9515b5)**
+___
