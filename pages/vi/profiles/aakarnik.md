@@ -1,6 +1,5 @@
-***
+
 # Anuya Karnik
-***
 ##### **Michigan, US**
 ##### **Eastern Time Zone (GMT-5)**
 ##### **Windows 8.1**
