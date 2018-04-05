@@ -1,9 +1,12 @@
-Please search through Issues tab to make sure your issue has not been brought up before.
-
-Please use the following starter template for new issues, include screenshot when it's necessary.
-
-Thank you for contributing! Please remove above text before creating a new issue.
+<!-- This is a new issue template for open-learning-exchange.github.io.
+Please ensure you have searched open and closed issues for duplicate.
+You may preview your issue before submission.
+You may also remove sections that aren't applicable to your particular issue.
+Thank you for contributing! -->
 
 ### Problem
+
+### Screenshots
+<!-- drag and drop images below -->
 
 ### Proposed solution
