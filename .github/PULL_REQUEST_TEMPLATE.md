@@ -9,8 +9,8 @@ Thank you for contributing! -->
 <!-- issue number this pull request resolves -->
 Fixes #
 
-### description
+### Description
 
 
-### rawgit preview link
+### RawGit preview link
 <!-- rawgit link to page(s) changed -->
