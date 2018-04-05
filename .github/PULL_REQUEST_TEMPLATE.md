@@ -1,7 +1,16 @@
+<!-- This is a new pull request template for open-learning-exchange.github.io.
+
 Please make sure to:
+- add (fixes #issue_number) to the end of pull request title when applicable,
+- drop a link to your new pull request in our gitter chat.
 
-- add (fixes #issue_number) to the end of the title when applicable,
-- include the rawgit link to the page changed in the description,
-- drop a link to the pull request in our gitter chat.
+Thank you for contributing! -->
 
-Thank you for contributing! Please remove above text before creating a pull request.
+<!-- issue number this pull request resolves -->
+Fixes #
+
+### description
+
+
+### rawgit preview link
+<!-- rawgit link to page(s) changed -->
