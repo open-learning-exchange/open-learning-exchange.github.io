@@ -1,7 +1,7 @@
-# Hey, I am Karl Kevin Tiba Fossoh :us:
-![img](https://www.jwhomes.com/~/media/JW%20Homes/Georgia/Atlanta/Marietta/The%20Quad%20at%20Meeting%20Park/Carousel/Quad_at_Meeting_Park_by_John_Wieland_Marietta_Square.ashx)
-#### :clock5: Marietta, Georgia, U.S.A. | Time Zone: Eastern Daylight Time(EDT)
-###### :computer: Using macOS High Sierra version 10.13.3
+# Hey, I am Karl Kevin Tiba Fossoh
+![Picture of the center of Marietta, the wonderful timeless park](https://www.jwhomes.com/~/media/JW%20Homes/Georgia/Atlanta/Marietta/The%20Quad%20at%20Meeting%20Park/Carousel/Quad_at_Meeting_Park_by_John_Wieland_Marietta_Square.ashx)
+#### Marietta, Georgia, U.S.A. | Time Zone: Eastern Daylight Time(EDT)
+###### Using macOS High Sierra version 10.13.3
 > Yes I am a developer, not an artist
 ---
 ### About me
