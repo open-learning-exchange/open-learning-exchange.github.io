@@ -27,8 +27,3 @@ I am lover for Java and surprisingly it is the only language that I did not self
 * Ionic (my side bae)
 
 Check out my [Github](https://github.com/ManiBlitz) and my [LinkedIn](https://www.linkedin.com/in/karl-kevin-tiba-fossoh-a85067142/)
-
-![img](https://i.pinimg.com/originals/d2/ca/6f/d2ca6f145a4d0cfd38cde425ff634c81.jpg)
-
-
-
