@@ -1,7 +1,7 @@
 # Gus Cantieni
 
-:computer: Linux Mint 18.3 Sylvia  
-:alarm_clock: Eastern time (Boston, MA)
+* __Operating System:__ Linux Mint 18.3 Sylvia  
+* __Time Zone:__ Eastern time (Boston, MA)
 
 I'm a sophomore at Brown University studying computer science with particular interests in machine leanring, systems,
 and web development. When I'm not at school, I'm in my rural New England home in western Massachusetts where I help my dad run a
