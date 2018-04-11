@@ -134,7 +134,7 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 
 6. If you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command windows 10` try adding the following path variable to your system variables under Advanced Settings
 
-`%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
+__`%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
 
 
 ## Next Steps
