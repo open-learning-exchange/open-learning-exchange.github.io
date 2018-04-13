@@ -155,8 +155,8 @@ Generally, follow these commands in your command line, but refer back above if t
 2. Your username.github.io on GitHub
 3. Your username.github.io on your OS.
 
-##### These need to be synced and checked constantly.
-##### The **upstream repository** is the one we are contributing to.
+These need to be synced and checked constantly.
+The **upstream repository** is the one we are contributing to.
 
 #### Configure the upstream repository to your fork
 - `cd <username>.github.io.`
@@ -175,7 +175,7 @@ Generally, follow these commands in your command line, but refer back above if t
 - `git status` - to view the changes made in the branch, whether the branch is up-to-date with master
 - `git push` - to push the updates that you downloaded within the GitHub repositories 
 
-**Note**: Developers should alway sync their fork and make sure their repos are up to date with GitHub every time they begin to work. This way we as a team can minimize data loss, and can save you some time.
+**NOTE**: Developers should alway sync their fork and make sure their repos are up to date with GitHub every time they begin to work. This way we as a team can minimize data loss, and can save you some time.
 
 #### If you find yourself needing to rebase your forked repository, the following two links should help:
 - [Rebase](https://git-scm.com/docs/git-rebase)
@@ -186,16 +186,6 @@ Generally, follow these commands in your command line, but refer back above if t
 For more info on differences of merging vs. rebasing (and when to use which one), [check this out](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 If you would like to understand how syncing with the fork works, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
-
-## Summary of steps
-
-1. Clone your GitHub repository username.github.io. , `cd <username>.github.io.`
-
-2. Check for changes you missed while you were gone. You can do this with ``git fetch upstream``, ``git checkout master``, and ``git merge upstream/master``.
-  - If you're slightly confused, remember that the "upstream" we're referring to is the [main github repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io).
-3. Push the updates you just downloaded to your GitHub repository by using ``git push``([info](https://git-scm.com/docs/git-info))
-
-Note: For steps 2 and 3, developers should do this every time they begin to work. This way we as a team can minimize data loss, and can save you some time. You want to make sure that you are always up to date with the GitHub.
 
 ## Useful links
 
