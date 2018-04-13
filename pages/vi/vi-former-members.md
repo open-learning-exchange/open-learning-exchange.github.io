@@ -15,12 +15,12 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[blakedelee](profiles/BlakeDeLee.md)| 2017-03-22 |
 |[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 |
 |[zeivhann](profiles/zeivhann.md) (**Mobile Intern Lead**)| 2017-04-01 |
-|[Supriyaranjan](profiles/Supriyaranjan.md)| 2017-04-04 |
-|[praneetharra](profiles/praneetharra.md)| 2017-04-21 |
-|[shahswet](profiles/shahswet.md)| 2017-05-01 |
-|[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 |
-|[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 |
-|[snazzybunny](profiles/snazzybunny.md) (**Embedded Systems Lead**)| 2017-05-11 |
+|[Supriyaranjan](profiles/Supriyaranjan.md)| 2017-04-04 | 2017-05-17
+|[praneetharra](profiles/praneetharra.md)| 2017-04-21 | 2017-06-19
+|[shahswet](profiles/shahswet.md)| 2017-05-01 | 2017-05-03
+|[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 | 2017-08-24
+|[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 | 2017-07-31
+|[snazzybunny](profiles/snazzybunny.md) (**Embedded Systems Lead**)| 2017-05-11 | 2017-07-12
 |[duongdo27](profiles/duongdo.md)| 2017-05-12 | 2017-08-12
 |[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 | 2017-08-02
 |[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 | 2017-07-18
