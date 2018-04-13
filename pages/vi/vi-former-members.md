@@ -21,19 +21,19 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 |
 |[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 |
 |[snazzybunny](profiles/snazzybunny.md) (**Embedded Systems Lead**)| 2017-05-11 |
-|[duongdo27](profiles/duongdo.md)| 2017-05-12 |
-|[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 |
-|[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 |
-|[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 |
-|[adhikara](profiles/adhikara.md)| 2017-06-16 |
+|[duongdo27](profiles/duongdo.md)| 2017-05-12 | 2017-08-12
+|[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 | 2017-08-02
+|[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 | 2017-07-18
+|[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 | 2017-06-12
+|[adhikara](profiles/adhikara.md)| 2017-06-16 | 2017-06-18
 |[sagun98](profiles/sagun98.md)| 2017-06-22 | 2017-07-22
 |[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26 | 2017-07-19
 |[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27 | 2017-07-07
 |[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 | 2017-08-09
-|[daisywatson](profiles/daisywatson.md)| 2017-07-12 | *2017-07-20*
+|[daisywatson](profiles/daisywatson.md)| 2017-07-12 | 2017-09-20
 |[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 | 2017-08-22
-|[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 | *2017-08-01*
-|[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 | *2017-08-17*
+|[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 | **2017-08-01**
+|[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 | **2017-08-17**
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 | 2017-11-07
 |[thesiege208](profiles/thesiege208.md)| 2017-10-16 | 2018-01-03 
 |[aas919](profiles/aas919.md)| 2017-10-23 |2018-02-10
