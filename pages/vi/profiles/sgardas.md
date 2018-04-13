@@ -10,5 +10,13 @@ Currently pursuing masters at UMass Lowell. Love towards programming. Ready to t
 
 ### IDE:
     Eclipse, Netbeans, NodeJS
+    
+ I like playing :  
+
+* Cricket
+* Chess  
+* Volleyball
+* Video games(PS4)    
+
  
  [LinkedIn](https://www.linkedin.com/in/satwikgardas/) | [GitHub](https://github.com/sgardas) |  <satwik.gardas@gmail.com>
