@@ -27,15 +27,15 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 |
 |[adhikara](profiles/adhikara.md)| 2017-06-16 |
 |[sagun98](profiles/sagun98.md)| 2017-06-22 |
-|[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26 |
-|[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27 |
-|[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 |
-|[daisywatson](profiles/daisywatson.md)| 2017-07-12 |
-|[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 |
-|[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 |
-|[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 |
-|[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 |
-|[thesiege208](profiles/thesiege208.md)| 2017-10-16 |
+|[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26 | 2017-07-19
+|[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27 | 2017-07-07
+|[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 | 2017-08-09
+|[daisywatson](profiles/daisywatson.md)| 2017-07-12 | *2017-07-20*
+|[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 | 2017-08-22
+|[l0rd3141](profiles/l0rd3141.md)| 2017-08-01 | *2017-08-01*
+|[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 | *2017-08-17*
+|[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 | 2017-11-07
+|[thesiege208](profiles/thesiege208.md)| 2017-10-16 | 2018-01-03 
 |[aas919](profiles/aas919.md)| 2017-10-23 |2018-02-10
 |[mappuji](profiles/mappuji.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
 |[𝖂𝖆𝖗𝖞𝖍𝖊𝖗𝖒𝖎𝖙](profiles/waryhermit.md) (**Intern Lead**)| 2016-12-13 | 2017-04-28 |
