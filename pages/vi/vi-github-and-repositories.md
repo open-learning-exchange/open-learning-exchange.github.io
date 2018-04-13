@@ -173,9 +173,10 @@ The **upstream repository** is the one we are contributing to.
 #### Make sure your repository is up to date
 - `git diff` - for comparing different versions of the same file
 - `git status` - to view the changes made in the branch, whether the branch is up-to-date with master
-- `git push` - to push the updates that you downloaded within the GitHub repositories 
+- `git pull` - to sync the local repository with the remote repository ([more info](https://git-scm.com/docs/git-pull))
+- `git push` - to push the updates that you made to the local repositories to the GitHub repositories ([more info](https://git-scm.com/docs/git-push))
 
-**NOTE**: Developers should alway sync their fork and make sure their repos are up to date with GitHub every time they begin to work. This way we as a team can minimize data loss, and can save you some time.
+**NOTE**: Developers should alway sync their fork and make sure their repositories are up to date with GitHub every time they begin to work. This way we as a team can minimize data loss, and can save you some time.
 
 #### If you find yourself needing to rebase your forked repository, the following two links should help:
 - [Rebase](https://git-scm.com/docs/git-rebase)
