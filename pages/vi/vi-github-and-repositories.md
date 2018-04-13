@@ -158,7 +158,9 @@ These need to be synced and checked constantly.
 - `git remote -v` origins should remain the same as step 2, but you should also be fetching and pushing to OLE as the upstream now
 4. Sync Your Fork
 - `git fetch upstream` -  to fetch branches from the upstream repository
-- `git checkout master` - check to make sure branch is up-to-date with master
+- `git checkout master` - to checkout the `master` branch
+- `git show-branch` - to see branches and the changes made in them
+- `git status` - check to make sure branch is up-to-date with master
 - `git merge upstream/master` - You repository should now be synced to upstream/master
 5. Whenever you begin to work, make sure your repository is up to date with `git diff` and `git status` between your local and username.github.io repos, not your upstream repo.
 
