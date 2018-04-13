@@ -26,7 +26,7 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 |
 |[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 |
 |[adhikara](profiles/adhikara.md)| 2017-06-16 |
-|[sagun98](profiles/sagun98.md)| 2017-06-22 |
+|[sagun98](profiles/sagun98.md)| 2017-06-22 | 2017-07-22
 |[NavneetKarnam](profiles/navneetkarnam.md)| 2017-06-26 | 2017-07-19
 |[tjyothsna16](profiles/tjyothsna16.md)| 2017-06-27 | 2017-07-07
 |[prajwalajayaprakash](profiles/prajwalajayaprakash.md)| 2017-06-30 | 2017-08-09
