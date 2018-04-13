@@ -8,11 +8,11 @@ To view the list of current members, go to [active members page](vi-team.md).
 
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
-|[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 |
-|[hannahgdubin](profiles/hannahgdubin.md)| 2017-01-01 |
-|[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 |
-|[Chris-Boe](profiles/Chris-Boe.md)| 2017-02-26 |
-|[blakedelee](profiles/BlakeDeLee.md)| 2017-03-22 |
+|[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 | 2017-03-28
+|[hannahgdubin](profiles/hannahgdubin.md)| 2017-01-01 | 2017-03-31
+|[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 | 2017-03-25
+|[Chris-Boe](profiles/Chris-Boe.md)| 2017-02-26 | 2017-03-22
+|[blakedelee](profiles/BlakeDeLee.md)| 2017-03-22 | 2017-03-24
 |[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 |
 |[zeivhann](profiles/zeivhann.md) (**Mobile Intern Lead**)| 2017-04-01 | 2017-07-24
 |[Supriyaranjan](profiles/Supriyaranjan.md)| 2017-04-04 | 2017-05-17
