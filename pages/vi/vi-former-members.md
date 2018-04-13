@@ -13,7 +13,7 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 | 2017-03-25
 |[Chris-Boe](profiles/Chris-Boe.md)| 2017-02-26 | 2017-03-22
 |[blakedelee](profiles/BlakeDeLee.md)| 2017-03-22 | **2017-03-24**
-|[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 |
+|[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 | 2017-08-22
 |[zeivhann](profiles/zeivhann.md) (**Mobile Intern Lead**)| 2017-04-01 | 2017-07-24
 |[Supriyaranjan](profiles/Supriyaranjan.md)| 2017-04-04 | 2017-05-17
 |[praneetharra](profiles/praneetharra.md)| 2017-04-21 | 2017-06-19
