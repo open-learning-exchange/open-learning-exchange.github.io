@@ -1,4 +1,4 @@
-﻿# Members
+# Members
 
 ## Active Members
 
@@ -9,20 +9,18 @@ To view the list of current members, go to [active members page](vi-team.md).
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
 |[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 | 2017-03-28
-|[hannahgdubin](profiles/hannahgdubin.md)| 2017-01-01 | 2017-03-31
-|[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 | 2017-03-25
+|[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 | 2017-08-31
 |[Chris-Boe](profiles/Chris-Boe.md)| 2017-02-26 | 2017-03-22
 |[blakedelee](profiles/BlakeDeLee.md)| 2017-03-22 | **2017-03-24**
-|[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 | 2017-08-22
+|[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 | 2018-01-31
 |[zeivhann](profiles/zeivhann.md) (**Mobile Intern Lead**)| 2017-04-01 | 2017-07-24
 |[Supriyaranjan](profiles/Supriyaranjan.md)| 2017-04-04 | 2017-05-17
 |[praneetharra](profiles/praneetharra.md)| 2017-04-21 | 2017-06-19
 |[shahswet](profiles/shahswet.md)| 2017-05-01 | 2017-05-03
 |[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 | 2017-08-24
 |[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 | 2017-07-31
-|[snazzybunny](profiles/snazzybunny.md) (**Embedded Systems Lead**)| 2017-05-11 | 2017-07-12
+|[snazzybunny](profiles/snazzybunny.md) (**Embedded Systems Lead**)| 2017-05-11 | 2017-11-30
 |[duongdo27](profiles/duongdo.md)| 2017-05-12 | 2017-08-12
-|[aurinsomnia](profiles/aurinsomnia.md)| 2017-05-25 | 2017-08-02
 |[kanishk1010](profiles/kanishk1010.md)| 2017-06-10 | 2017-07-18
 |[ChenjieZhou](profiles/ChenjieZhou.md)| 2017-06-10 | 2017-06-12
 |[adhikara](profiles/adhikara.md)| 2017-06-16 | 2017-06-18
@@ -36,7 +34,6 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[sahityaLMaruvada](profiles/sahityaLMaruvada.md)| 2017-08-14 | **2017-08-17**
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 | 2017-11-07
 |[thesiege208](profiles/thesiege208.md)| 2017-10-16 | 2018-01-03 
-|[aas919](profiles/aas919.md)| 2017-10-23 |2018-02-10
 |[mappuji](profiles/mappuji.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
 |[𝖂𝖆𝖗𝖞𝖍𝖊𝖗𝖒𝖎𝖙](profiles/waryhermit.md) (**Intern Lead**)| 2016-12-13 | 2017-04-28 |
 |[FanisGk](profiles/FanisGk.md)| 2016-08-01 | 2017-01-31 |
