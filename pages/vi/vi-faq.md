@@ -31,7 +31,7 @@
 
 #### Q1: What will I be working on during this internship?
 
-+ OLE virtual interns will be helping develop OLE’s Planet Learning system (Planet). Planet is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
++ OLE virtual interns will be helping develop OLE’s Planet Learning system (Planet) and its related software, systems, and services. Planet is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
 #### Q2: What kind of software will we be using for this internship?
 
@@ -147,7 +147,7 @@
   1. If you want to run multiple VMs together, you need to change the vagrant file as instructed in [multi-machine](https://www.vagrantup.com/docs/multi-machine/).
 
   2. If you will not run those two communities at the same time:
-      - clone `ole--vagrant-vi` again and name the fodler `ole--vagrant-vi-1`:
+    - clone `ole--vagrant-vi` again and name the fodler `ole--vagrant-vi-1`:
 
       ```
       git clone https://github.com/dogi/ole--vagrant-vi.git ole--vagrant-vi-1
@@ -164,16 +164,17 @@
 
 + In `git bash`:
 
-    ```
-    cd ole--vagrant-vi
-    vagrant global-status
-    vagrant destroy [virtual_machine_name]
-    cd ..
-    rm -rf ole--vagrant-vi
-    git clone https://github.com/dogi/ole--vagrant-vi.git
-    cd ole--vagrant-vi
-    vagrant up
-    ```
+  ```
+  # remove existing VM and Vagrantfile
+  vagrant global-status
+  vagrant destroy [virtual_machine_name]
+  rm -rf ole--vagrant-vi
+
+  # clone again to start over
+  git clone https://github.com/dogi/ole--vagrant-vi.git
+  cd ole--vagrant-vi
+  vagrant up
+  ```
 
 ## 'First Steps' Software Summary
 
