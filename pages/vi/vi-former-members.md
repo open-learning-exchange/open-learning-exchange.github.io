@@ -16,7 +16,6 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[zeivhann](profiles/zeivhann.md) (**Mobile Intern Lead**)| 2017-04-01 | 2017-07-24
 |[Supriyaranjan](profiles/Supriyaranjan.md)| 2017-04-04 | 2017-05-17
 |[praneetharra](profiles/praneetharra.md)| 2017-04-21 | 2017-06-19
-|[shahswet](profiles/shahswet.md)| 2017-05-01 | 2017-05-03
 |[Yurockkk](profiles/Yurockkk.md)| 2017-05-05 | 2017-08-24
 |[sarah-lu102](profiles/sarah-lu102.md) (**Wiki Intern Lead**)| 2017-05-10 | 2017-07-31
 |[snazzybunny](profiles/snazzybunny.md) (**Embedded Systems Lead**)| 2017-05-11 | 2017-11-30
@@ -39,7 +38,6 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[FanisGk](profiles/FanisGk.md)| 2016-08-01 | 2017-01-31 |
 |[prmurphy](profiles/prmurphy.md)| 2016-10-23 | 2017-01-31 |
 |[aberdean](profiles/aberdean.md) (**Intern Lead**)| 2016-09-04 | 2016-12-23 |
-|[IshanSoni](profiles/IshanSoni.md)| 2016-12-20 | 2016-12-20 |
 |[mepda](profiles/mepda.md)| 2016-10-20 | 2016-12-18 |
 |[EmilyLarkin](profiles/EmilyLarkin.md) (**Intern Lead**)| 2016-03-01 | 2016-08-31 |
 |[DrewPerlman](profiles/DrewPerlman.md) (**Intern Lead**)| 2016-06-20 | 2016-08-14 |
@@ -52,6 +50,5 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[Neha1990](profiles/Neha1990.md)| 2016-07-12 | 2016-09-26 |
 |[cw-lin](profiles/cw-lin.md)| 2016-07-22 | 2016-09-14 |
 |[epistulae](profiles/epistulae.md)| 2016-06-01 | 2016-07-01 |
-|[pranesh-s](profiles/pranesh-s.md)| 2016-05-25 | 2016-06-03 |
+|[pranesh-s](profiles/pranesh-s.md)| 2016-05-25 | 2016-09-05 |
 |[314159265359](profiles/314159265359.md)| 2016-05-23 | 2016-06-03 |
-|[fangninghe](profiles/fangninghe.md)| 2017-01-23 | 2017-01-23 |
