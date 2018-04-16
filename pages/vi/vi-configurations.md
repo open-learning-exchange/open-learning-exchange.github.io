@@ -63,6 +63,4 @@ Then, post to the Gitter chat the screenshot you took earlier.
 
 1. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
 
-2. In the case you use the command ```vagrant destroy```, your current machine will be wiped from your local server, but not on the nation side. After rebuilding your BeLL App using ```vagrant up```, next, fill out the configurations. Your name and code must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation.
-
 #### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_Installation)
