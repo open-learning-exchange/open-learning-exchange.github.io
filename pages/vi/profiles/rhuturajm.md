@@ -1,6 +1,6 @@
 # Rhuturaj Mehta
 Buffalo, NY / EST
-macOS High Sierra version 10.13.4
+macOS High Sierra 10.13.4
 
 This is me: 
 
