@@ -36,7 +36,7 @@ Then, turn to your command prompt and type your repository URL in the form of `g
 
 ### Clone with HTTPS or Clone with SSH?
 
-Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences using [HTTPS or SSH for cloning](https://help.github.com/articles/which-remote-url-should-i-use/).
+Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences using [connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
 ### Explanation About Repositories and Syncing Process
 
