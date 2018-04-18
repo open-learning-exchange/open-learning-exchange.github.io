@@ -15,5 +15,6 @@
 * SQL
 * HTML5
 
-#### [Click here to visit my Linked Profile](https://www.linkedin.com/in/siddharth-m-608765150/).
+#### [Click here to visit my LinkedIn Profile](https://www.linkedin.com/in/siddharth-m-608765150/).
+#### My email id is sidmehta65@gmail.com
 
