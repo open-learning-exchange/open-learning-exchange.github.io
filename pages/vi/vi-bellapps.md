@@ -6,6 +6,9 @@
 * Understand basic functions of community BeLL
 * Add resources to your Community in order to get accustomed to the BeLL-Apps interface
 
+## Preparation
+Please go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html or use `vagrant global-status` to see if your community BeLL is currently running. If not, please go to `ole--vagrant-vi` directory and run `vagrant up`.
+
 ## Watch Videos
 
 Watch the videos below to learn the basic functions of your BeLL. These videos were created a few years ago, but they should do a decent job of introducing you to the BeLL.
