@@ -124,7 +124,7 @@ Note: Remember to always sync your fork before starting to work on a new issue. 
 
 This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
-## Summary of steps to resolving an issue and generating pull request
+## Summary of steps to resolve an issue and create a pull request
 
 ### Creating a branch 
 1.  Open an issue within the right repository (upstream repository) and explain the problem.
