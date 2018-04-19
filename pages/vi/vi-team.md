@@ -32,6 +32,7 @@
 |[NickBratt](profiles/NickBratt.md)|2018-02-12|
 |[ArashDai](profiles/ArashDai.md)|2018-02-14|
 |[SahilPh](profiles/sahilph.md)|2018-03-09|
+|[Maniblitz](profiles/Maniblitz.md)|2018-04-19|
 
 ## Former Interns
 
