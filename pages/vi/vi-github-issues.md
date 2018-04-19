@@ -127,24 +127,24 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 ## Summary of steps to resolve an issue and create a pull request
 
   ### 1. Creating a branch 
-    1.  Open an issue within the right repository (upstream repository) and explain the problem. If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , `git checkout master`, and `git merge upstream/master`.
+  1.  Open an issue within the right repository (upstream repository) and explain the problem. If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , `git checkout master`, and `git merge upstream/master`.
 
-    2.  Use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
+  2.  Use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
 
   ### 2. Uploading the changes to your branch
-    1.  Use the `git status` command to see which files in the working directory have been modified.
+  1.  Use the `git status` command to see which files in the working directory have been modified.
 
-    2.  Use the `git add .` to stage all or `git add <file1> <file2> <file3>...` to stage specific modified files and then use the commands `git commit -m "commit message (Title of the issue and don't forget to close it out with (Fixes #issue no))"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github.
+  2.  Use the `git add .` to stage all or `git add <file1> <file2> <file3>...` to stage specific modified files and then use the commands `git commit -m "commit message (Title of the issue and don't forget to close it out with (Fixes #issue no))"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github.
 
-    3.  You can view these changes by going to https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md once you have pushed the changes to your Github
+  3.  You can view these changes by going to https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md once you have pushed the changes to your Github
 
   ### 3. Creating a pull request
-    1.  Go to your own fork of OLE on Github https://github.com/YourUsername/YourUsername.github.io and press Compare & pull request.
+  1.  Go to your own fork of OLE on Github https://github.com/YourUsername/YourUsername.github.io and press Compare & pull request.
 
-    2.  Fill out the details fo the pull request according to the given structure and also create a checklist for other's understanding.
+  2.  Fill out the details fo the pull request according to the given structure and also create a checklist for other's understanding.
 
   ### 4. Deleting the branch once it is merged
-    1.  Wait for review and once the pull request is merged use `git branch -d yourLocalBranchName` to delete the branch.
+  1.  Wait for review and once the pull request is merged use `git branch -d yourLocalBranchName` to delete the branch.
 
 ## Useful Links
 
