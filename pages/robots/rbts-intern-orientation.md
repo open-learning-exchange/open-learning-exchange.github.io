@@ -12,16 +12,25 @@ The first thing is to meet the team, starting with CTO Dogi, then the [current i
 
 Typically, interns choose what project they want to work on based on their experience. If you get tired of a certain project, there is opportunity to switch. Take a look at our current projects below, if any particular ones interest you, there is a very good chance that you can work on them.
 
-* [Angular Reboot](rbts-angular.md)
-  * Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
-* [Take Home](rbts-takehome.md)
-  * Take home is an Android port of the BeLL apps.
+#### Very Active Projects
+
+* [Planet](rbts-angular.md)
+  * A Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
+* [Takeout](https://github.com/ole-vi/takeout/)
+  * Takeout is an Android port of the Planet apps.
+* [Remote](https://github.com/treehouses/remote/)
+  * An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 * [Raspberry Pi](rbts-raspberry-pi.md)
   * The modified Raspbian image can be place on a microsd card for deployment in the field with a Raspberry Pi.
-* [Automated Testing](rbts-automated-testing.md)
-  * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI.
+
+#### Other Projects
+
 * [Translation (Crowdin)](rbts-crowdin-integration.md)
   * Help us translate the BeLL App user interface to other languages.
+* [Take Home](rbts-takehome.md)
+  * Take home is an Android port of the BeLL apps. Takeout is the rewrite of Take home.
+* [Automated Testing](rbts-automated-testing.md)
+  * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI.
 * [Windows Installer](rbts-inno-project.md)
   * Help develop a virtual machine packaged installer file for Windows.
 * [Simple Install](rbts-simple-install.md)
@@ -122,7 +131,10 @@ All of our Google Hangouts sessions can be joined at <http://talk.ole.org>. Curr
 
 Every Monday at the "[Happy hacking hangout](http://talk.ole.org)" session, we work on problems together and catch up on what people have been doing all week. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the meeting. Use the calendar to set up meetings and other events with interns.
 
-To subscribe to our calendar, paste `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` into [Google Calendar](https://calendar.google.com/)'s "*Add a friend's calendar*" and **hit `Enter` (do not click the + sign)**.
+Please subscribe to our calendar:
+
+* In [Google Calendar](https://calendar.google.com/), paste `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` into "*Add a friend's calendar*" and **hit `Enter` (do not click the + sign)**.
+* Use [this iCalendar file](https://calendar.google.com/calendar/ical/ole.org_u2koassrool56icb7fqko9abac%40group.calendar.google.com/public/basic.ics) to access our calendar from other applications.
 
 ![Google Calendar add a friend's calendar](images/rbts-orientation-add-calendar.png)
 
