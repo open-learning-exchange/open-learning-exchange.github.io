@@ -43,7 +43,7 @@ You will be shown the page below. Make sure you fill it out completely.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
-Next, fill out the configurations. Your name and code must be the same and should match your Github name. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below:
+Next, fill out the configurations. Your name and code must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below:
 
 ![Configurations](images/vi-configuration.png)
 
@@ -62,5 +62,7 @@ Then, post to the Gitter chat the screenshot you took earlier.
 ## Troubleshooting
 
 1. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
+
+2. In the case you use the command `vagrant destroy`, your community BeLL will be wiped together with the virtual machine, but  community registration still exist on the nation side. After rebuilding your community BeLL using `vagrant up`, fill out the configurations again with a slightly difference Name and Code (e.g. adding a number or letter to the end of your original GitHub username) so we can still locate your community on the Nation side.
 
 #### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_Installation)
