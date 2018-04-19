@@ -14,7 +14,7 @@ As you complete the [First Steps](vi-first-steps.md), we want you to keep us upd
 
 This good etiquette helps streamline communication between internship candidates and staff members alike! Feel free to look through the chat for more examples.
 
-You may want to include clarifying *images* with your messages. To add images in the chat, either drag and drop or copy and paste the image into the messaging area.
+You may want to include clarifying *images* with your messages. To add an image in the chat, either drag and drop or copy and paste it into the messaging area.
 
 Below is the preview of our Gitter chat room. [Click here](https://gitter.im/open-learning-exchange/chat) for the full Gitter chat page. We also encourage the use of Gitter chat apps for Windows, macOS, Linux, Android and iPhone, visit the download [page here](https://gitter.im/apps).
 
