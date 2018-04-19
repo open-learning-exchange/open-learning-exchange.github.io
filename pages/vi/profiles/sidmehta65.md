@@ -6,7 +6,7 @@
 #### Central daylight time
 #### Windows 8.1
 #### Hello my name is Siddharth Mehta. I am a graduate student at Texas Tech University. I will be graduating in May 2019. I have completed my bachelor's in Computer Engineering from University of Pune.
-![](https://rawgit.com/sid2121/sidmehta65.github.io/add-sidmehta65-profile/pages/uploads/images/AdminBuilding.jpg)
+![](https://imgur.com/XLxxD8d)
 
 #### Languages 
 
