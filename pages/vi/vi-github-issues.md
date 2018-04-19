@@ -130,7 +130,7 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 1.  Open an issue within the right repository (upstream repository) and explain the problem.
 If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , ``git checkout master``, and ``git merge upstream/master``.
 
-2.  Use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. Check which branch you are on using `git checkout branch-name` before you make the desired changes to local files.
+2.  Use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
 
 ### Uploading the changes to your branch
 3.  Use the `git status` command to see which files in the working directory have been modified.
