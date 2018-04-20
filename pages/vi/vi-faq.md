@@ -22,41 +22,45 @@
 - **Q15:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?](#Q15:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
 - **Q16:** [What do I do if I already have a github.io with my username?](#Q16:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
 - **Q17:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?](#Q17:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_Vagrant_VM?)
-
+- **Q18:** [What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?](#Q18:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_ole--vagrant-vi_folder,_how_do_I_recreate_my_manager_profile?)
+- **Q19:** [What do I do if I get error message "A Virtual Box machine with the name 'vi' already exists"?](#Q19:_What_do_I_do_if_I_get_error_message_"A_Virtual_Box_machine_with_the_name_'vi'_already_exists"?)
+- **Q20:** [How can I run two communities on the same machine?](#Q20:_How_can_I_run_two_communities_on_the_same_machine?)
+- **Q21:** [How do I destroy the Virtual Machine and start over?](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?)
 
 ### General Internship Questions
 
 #### Q1: What will I be working on during this internship?
 
-+ OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
++ OLE virtual interns will be helping develop OLE’s Planet Learning system (Planet) and its related software, systems, and services. Planet is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
 #### Q2: What kind of software will we be using for this internship?
 
-+ As a part of this internship you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, Javascript, and Node.js.
++ As a part of this internship you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, JavaScript, Node.js, and Angular.
 
 #### Q3: Where can I find more information about this internship?
 
-+ More information about the internship can be found [here](https://www.indeed.com/cmp/Open-Learning-Exchange,-Inc./jobs).
++ More information about the internship can be found at the Virtual Software Engineer Intern listing [here](https://www.indeed.com/cmp/Open-Learning-Exchange,-Inc./jobs).
 
 #### Q4: What are the hours of the internship?
 
 + This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
++ The reason we are having 16 hours minimal commitment per week is that things are move forward quickly and it might be hard for virtual interns to catch up with changes. Basically we would have a few hours of Google Hangout sessions per week where everyone share their screen, discuss problems, work on issues together. Then the rest of the time is for catching up with the change and work on issues assigned.
 
 #### Q5: Is this a paid internship?
 
-+ Unfortunately, no. This position is unpaid, but it will provide a diverse range of experiences in the workplace. We can provide a certificate of completion, upon request. Also, academic credit can be provided through your institution (if applicable).
++ This position is unpaid, but it will provide a diverse range of experiences in the workplace. We can provide a certificate of completion, upon request. Also, academic credit can be provided through your institution (if applicable).
 
 #### Q6: What happens after the initial steps?
 
-+ The initial steps are meant to introduce potential interns to the OLE BeLL software and the process that we use to develop features and improve upon the BeLL. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
++ The initial steps are meant to introduce potential interns to the OLE BeLL/Planet, planet software and the process that we use to develop features and improve upon the BeLL/Planet. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
 
 #### Q7: If I'm an international student, how soon can I get my paperwork required by my visa?
 
-+ After you finish the first 10 steps, let us know if you need us to sign some paperwork or provide you with an offer letter for your visa. Since the first 10 steps are a vetting process, your internship technically doesn't start until you finish them. Think of the first 10 steps as a continued application process as you are not working or adding to our organizational software, but rather showing that you have enough technical background to work with us. We are more than happy to speak to you about providing you with an offer letter or assisting with organizational information once you complete the 10 steps, but as you are not working with us until you are officially an intern, we cannot provide proof of working with us until you complete the first steps.
++ After you finish the first 10 steps, let us know if you need us to sign some paperwork or provide you with an offer letter for your visa compliance. Since the first 10 steps are a vetting process, your internship technically doesn't start until you finish them. Think of the first 10 steps as a continued application process as you are not working or adding to our organizational software, but rather showing that you have enough technical background to work with us. We are more than happy to speak to you about providing you with an offer letter or assisting with organizational information once you complete the 10 steps, but as you are not working with us until you are officially an intern, we cannot provide proof of working with us until you complete the first steps.
 
 #### Q8: How many pull requests and issues in total do I need to make to finish the steps?
 
-+ To finish the initial steps, you need to make a **minimum** of four issues and five pull requests so you can get familiar with GitHub and to show us that you can write proper issues/PRs.
++ To finish the initial steps, you need to make a **minimum** of 4 issues and 5 pull requests so you can get familiar with GitHub and to show us that you can write proper issues/PRs.
 
 #### Q9: How long do I have to complete these steps?
 
@@ -122,17 +126,55 @@
 
 #### Q17: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?
 
-+ In ```git bash``` type:
++ Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
 
-    ```
-    cd ole--vagrant-vi
-    vagrant destroy -f
-    cd ..
-    rm -rf ole--vagrant-vi
-    git clone https://github.com/dogi/ole--vagrant-vi.git
-    cd ole--vagrant-vi
-    vagrant up
-    ```
+#### Q18: What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?
+
++ Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
+
+#### Q19: What do I do if I get error message "A Virtual Box machine with the name 'vi' already exists"?
+
++ There are 2 potential solutions:
+
+  1. Use `VBoxManage list vms` to find out the name and ID of the virtual machines. Copy the ID of the desired VM into the contents of `ole--vagrant-vi/.vagrant/machines/default/virtualbox/id`. Save the change and run `vagrant up` again. For more information, check out [Vagrant Issues #6623](https://github.com/hashicorp/vagrant/issues/6623).
+
+  2. Delete the "vi" VM in VirtualBox or command line, then run `vagrant up` to start over again.
+
+#### Q20: How can I run two communities on the same machine?
+
++ Running two communities on the same machine is possible as long as their configurations (virtualbox name, port forwarding, etc.) does not collide on each other.
+
+  1. If you want to run multiple VMs together, you need to change the vagrant file as instructed in [multi-machine](https://www.vagrantup.com/docs/multi-machine/).
+
+  2. If you will not run those two communities at the same time:
+    - clone `ole--vagrant-vi` again and name the fodler `ole--vagrant-vi-1`:
+
+      ```
+      git clone https://github.com/dogi/ole--vagrant-vi.git ole--vagrant-vi-1
+      cd ole--vagrant-vi-1
+      ```
+
+     - change line 24 of the `vagrant` file
+
+      ```
+      vb.name = "a_different_name"
+      ```
+
+#### Q21: How do I destroy the Virtual Machine and start over?
+
++ In `git bash`:
+
+  ```
+  # remove existing VM and Vagrantfile
+  vagrant global-status
+  vagrant destroy [virtual_machine_name]
+  rm -rf ole--vagrant-vi
+
+  # clone again to start over
+  git clone https://github.com/dogi/ole--vagrant-vi.git
+  cd ole--vagrant-vi
+  vagrant up
+  ```
 
 ## 'First Steps' Software Summary
 
