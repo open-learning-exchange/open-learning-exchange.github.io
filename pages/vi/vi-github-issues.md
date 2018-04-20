@@ -134,7 +134,7 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 ### 2. Push the Changes
   1.  Use the `git status` command to see which files in the working directory have been modified.
 
-  2.  Use the `git add .` to stage all or `git add <file1> <file2> <file3>...` to stage specific modified files and then use the commands `git commit -m "commit message (Title of the issue and don't forget to close it out with (Fixes #issue no))"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github.
+  2.  Use the `git add .` to stage all or `git add <file1> <file2> <file3>...` to stage specific modified files and then use the commands `git commit -m "your_commit_message"` (don't forget to end the commit message with `(fixes #issue_no)`) and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github.
 
   3.  You can view these changes by going to https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md once you have pushed the changes to your Github
 
