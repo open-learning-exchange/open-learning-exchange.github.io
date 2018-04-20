@@ -124,6 +124,28 @@ NOTE: Remember to always sync your fork before starting to work on a new issue. 
 
 This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
+## Summary of Steps to Work on an Issue and Create a Pull Request
+
+### 1. Create a branch 
+  1.  Open an issue within the right repository (upstream repository) and explain the problem. If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , `git checkout master`, and `git merge upstream/master`.
+
+  2.  Use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
+
+### 2. Push the Changes
+  1.  Use the `git status` command to see which files in the working directory have been modified.
+
+  2.  Use the `git add .` to stage all or `git add <file1> <file2> <file3>...` to stage specific modified files and then use the commands `git commit -m "your_commit_message (fixes #issue_no)"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github.
+
+  3.  You can view these changes by going to https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md once you have pushed the changes to your Github
+
+### 3. Create a Pull Request
+  1.  Go to your own fork of OLE on Github https://github.com/YourUsername/YourUsername.github.io and press Compare & pull request.
+
+  2.  Fill out the details fo the pull request according to the given structure and also create a checklist for other's understanding.
+
+### 4. Delete the Branch
+  1.  Wait for review and once the pull request is merged, use `git branch -d yourLocalBranchName` to delete the branch.
+
 ## Useful Links
 
 [Mastering Issues](https://guides.github.com/features/issues/) - The official Git Guide on the basics of filing an issue.
