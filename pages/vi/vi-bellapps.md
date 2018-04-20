@@ -37,7 +37,7 @@ In case you forgot to take the screen shot of your configurations, go to http://
 
 ## Different Kinds of Updates to Your Community
 
-There are three other important kinds of updates that you receive on the community side: updates, publications, and surveys. 
+There are three important kinds of updates that you may receive on the community side: updates, publications, and surveys. 
 
 As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see  publication(s) ready to be downloaded.
 
