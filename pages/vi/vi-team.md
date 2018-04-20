@@ -1,4 +1,4 @@
-﻿# Members
+# Members
 
 ## Active Members
 
@@ -35,7 +35,6 @@
 |[Maniblitz](profiles/Maniblitz.md)|2018-04-19|
 |[aakarnik](profiles/aakarnik.md)|2018-04-19|
 |[rhuturajm](profiles/rhuturajm.md)|2018-04-20|
-
 
 ## Former Interns
 
