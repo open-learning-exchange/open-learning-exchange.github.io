@@ -18,10 +18,10 @@ You may want to include clarifying *images* with your messages. To add an image 
 
 Below is the preview of our Gitter chat room. [Click here](https://gitter.im/open-learning-exchange/chat) for the full Gitter chat page. We also encourage the use of Gitter chat apps for Windows, macOS, Linux, Android and iPhone, visit the download [page here](https://gitter.im/apps).
 
----
-
 ## Gitter Chat Room Preview
 
 [Open open-learning-exchange/chat in new tab](https://gitter.im/open-learning-exchange/chat/)
+
+---
 
 <iframe src="https://gitter.im/open-learning-exchange/chat/~embed" style="width: 100%;border:none;height:70vh;"></iframe>
