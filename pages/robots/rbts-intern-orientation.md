@@ -59,8 +59,8 @@ You should check if the following conditions are met:
 * [x] include issue number in pull request title
 * [x] no unneeded files/lines change in pull request
 * [x] there's a branch for the patch
-* [x] the pull request actually fix the issue
-* [x] it display without any errors on rawgit
+* [x] the pull request actually fixes the issue
+* [x] it displays without any errors on rawgit
 * [x] no merge conflicts
 * [x] commits are associated with GitHub account
 
