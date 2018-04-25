@@ -2,7 +2,7 @@
 
 ## Objectives
 
-* Understand how the BeLL-Apps interface is structured
+* Understand how BeLL-Apps interface is structured
 * Understand basic functions of community BeLL
 * Add resources to your Community in order to get accustomed to the BeLL-Apps interface
 

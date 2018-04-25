@@ -56,11 +56,11 @@ Since we are a very diverse community with people coming from different backgrou
 
 You should check if the following conditions are met:
 
-* [x] include issue number in pull request title
-* [x] no unneeded files/lines change in pull request
+* [x] issue number is included in pull request title and description
+* [x] there are no unnecessary files/lines change in pull request
 * [x] there's a branch for the patch
 * [x] the pull request actually fixes the issue
-* [x] it displays without any errors on rawgit
+* [x] changes are rendered correctly on rawgit preview
 * [x] no merge conflicts
 * [x] commits are associated with GitHub account
 
