@@ -3,7 +3,7 @@
 > * New York, NY / EST (UTC-5)
 > * macOS High Sierra
 
-***
+
 ## My Information:
 I am a master in New York University and will graduate in May. 
 I concentrated on web application include front end and back end. But I am more interested in front end develop.
