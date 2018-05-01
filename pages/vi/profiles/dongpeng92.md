@@ -1,7 +1,7 @@
 # Peng Dong
 ![nyu](https://i.imgur.com/Z54W1hg.png)
-> * New York, NY / EST (UTC-5)
-> * macOS High Sierra
+* New York, NY / EST (UTC-5)
+* macOS High Sierra
 
 
 ## My Information:
