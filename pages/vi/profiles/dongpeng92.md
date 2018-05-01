@@ -1,8 +1,8 @@
 # Peng Dong
 ![nyu](https://i.imgur.com/Z54W1hg.png)
-* New York, NY / EST (UTC-5)
-* macOS High Sierra
 
+> * New York, NY / EST (UTC-5)
+> * macOS High Sierra
 
 ## My Information:
 I am a master in New York University and will graduate in May. 
@@ -25,4 +25,4 @@ MySQL, PostgreSQL, MongoDB, Redis
 ~~~
 
 ***
-[LinkedIn](http://linkedin.com/in/pdong92) | [GitHub](https://github.com/dongpeng92) | [My Resume](https://imgur.com/bSv8zAV) | [pd1364@nyu.edu](pd1364@nyu.edu)
+[LinkedIn](http://linkedin.com/in/pdong92) | [GitHub](https://github.com/dongpeng92) | [My Resume](https://imgur.com/bSv8zAV) | <pd1364@nyu.edu>
