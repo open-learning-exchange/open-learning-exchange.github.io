@@ -67,3 +67,4 @@ Below we have a short step-by-step rundown of how the treehouse-builder works:
 * [bluetooth-rpi](https://github.com/ole-vi/bluetooth-rpi) - Android app that lets you send/receive commands to the rpi.
 * [mobile-piiper](https://github.com/ole-vi/mobile-piiper) - Usb-tethering with an Android device to the rpi.  
 * [Intro to Raspberry Pi](https://docs.google.com/document/d/1A6Riy_j_M_HmAUVK0p5JVTQkRlUxGGwfN36PIZjC0Mw/edit#heading=h.ufcaguoz6i00) - A old Google Doc with Raspberry Pi instructions.
+* [Raspberry Pi Zero/W USB gadget](#!pages/robots/rbts-raspberry-pi-0-usb-gadget.md) - connect to your Pi zero just by plugging in a micro B cable
