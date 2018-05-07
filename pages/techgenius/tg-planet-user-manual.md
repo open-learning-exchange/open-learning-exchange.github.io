@@ -494,7 +494,7 @@ In order to update software and receive Publications,
 
   2. After logging in, any updates and/or available Publications will be visible as shown below.
 
-    ![After Login](images/tg-software-overview-1.png)
+   [After Login](images/tg-software-overview-update.png)
 
   3. These two gray buttons in red writing will allow you to update the software and sync Publications. First, click “Update Available (0.12.33)”.
 
