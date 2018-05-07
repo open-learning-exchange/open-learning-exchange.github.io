@@ -486,18 +486,18 @@ Add the recipients and fill in the email subject. Write your message and click �
 
 ### _How do I receive a software update for my Community?_
 
-> In order to update software and receive Publications,
+ In order to update software and receive Publications,
 
- >> 1.You must connect your router to the internet via Ethernet cable and log in as a Manager. Most likely, your Manager           account will be the following:
+  1.You must connect your router to the internet via Ethernet cable and log in as a Manager. Most likely, your Manager           account will be the following:
  
-   >>> **Login:** Admin User Name
+   **Login:** Admin User Name
 
-   >>> **Password:** Admin Password
+   **Password:** Admin Password
 
- >> 2.After logging in, any updates and/or available Publications will be visible as shown below.
+  2.After logging in, any updates and/or available Publications will be visible as shown below.
 
-   >>>>> ![After Login](images/tg-software-overview-1.png)
+   ![After Login](images/tg-software-overview-1.png)
 
- >> 3.These two gray buttons in red writing will allow you to update the software and sync Publications. First, click             “Update Available (0.12.33)”.
+  3.These two gray buttons in red writing will allow you to update the software and sync Publications. First, click             “Update Available (0.12.33)”.
 
- >> 4.The update will automatically run and may take several minutes depending on your internet connection. While the             loading screen is still spinning, remain connected and wait until you get a message notifying you that the software         update has been successful.
+  4.The update will automatically run and may take several minutes depending on your internet connection. While the             loading screen is still spinning, remain connected and wait until you get a message notifying you that the software         update has been successful.
