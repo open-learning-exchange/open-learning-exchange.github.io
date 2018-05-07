@@ -14,7 +14,7 @@ The easiest way to install the needed software to the tablets is via a USB drive
 *  [Firefox Web Browser](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKcmJVOS14WkQ5d28 "Firefox Web Browser")
 *  [Adobe Flash](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKc29Xd0JueFN0TzQ "Adobe Flash")
 *  [Office Suite](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKa2UtTElTSFFTSWc "Office Suite")
-*  [OLE Take Home App](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKZzc4RDlfUTNpanc "OLE Take Hope App")
+*  [OLE Take Home App](https://github.com/open-learning-exchange/take-home/releases/tag/v395)
 
 Once all files are downloaded to the USB drive you can eject the drive from the computer and plug it in to the tablet. You will need a USB A to USB C converter. It will look something like this:
 
