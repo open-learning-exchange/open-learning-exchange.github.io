@@ -15,7 +15,7 @@ Ubuntu 16.04
 
 ##### Description:
 
-I am a second year student of Bachelor of Technology (Electronics and Communication Engineering) ,
+I am a second year student of Bachelor of Technology (Electronics and Communication Engineering),
 
 I have interest in the field of computer science. I am good knowledge in the field of Mobile-Web MultiPlatform Development.
 
