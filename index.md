@@ -8,9 +8,4 @@ The [Open Learning Exchange](http://www.ole.org/) is a social benefit and for-pu
 
 ![](pages/uploads/images/planet-landing-page.png)
 
-
-**Find Us On:** [Linkedin](https://www.linkedin.com/company/open-learning-exchange)
-
-**Follow Us On:** [Twitter](https://twitter.com/oleorg)
-
-**Like Us On:** [Facebook](https://www.facebook.com/openlearningexchange/)
+**Find Us On:** [Linkedin](https://www.linkedin.com/company/open-learning-exchange) | [Twitter](https://twitter.com/oleorg) | [Facebook](https://www.facebook.com/openlearningexchange/)
