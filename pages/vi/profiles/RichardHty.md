@@ -3,7 +3,7 @@
 
 ### GMT -4:00
 
-![alt text](https://github.com/RichardHty/JS_practice/blob/master/css_practice/bu.png)
+![school name](https://github.com/RichardHty/JS_practice/blob/master/css_practice/bu.png)
 
 #### Fun Facts
 
