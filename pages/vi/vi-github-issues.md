@@ -22,7 +22,7 @@ We encourage you to file as many issues as you can, no matter how big or small. 
 
 First, you will need to open an issue within the right repository ([upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)) and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures if possible.
 
-![Providing Detail on New Issue](images/vi-new-issue.png)
+![Providing Detail on New Issue](images/vi-new-issue-format.png)
 
 After you have submitted the new Issue, you will then research the possible solutions, or ideas, on how to address the Issue. Once you've completed your research, then you will add a comment detailing your proposed solution, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefully provide input (as Dogi did here) and then you can move ahead with making the proposed changes.
 
