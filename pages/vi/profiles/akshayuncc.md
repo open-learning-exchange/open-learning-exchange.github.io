@@ -21,7 +21,7 @@ jQuery, DynamoDB, Cassandra, Firebase,Android,DynamoDB.
 
 Profile :
 
-1.LinkedIn: [**Akshay Adagale**](www.linkedin.com/in/akshayadagale/) 
+1.LinkedIn: [**Akshay Adagale**](https://www.linkedin.com/in/akshayadagale/) 
 
 2.GitHub : [**Akshayuncc**](https://github.com/akshayuncc)
 
