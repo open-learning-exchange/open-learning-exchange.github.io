@@ -1,9 +1,11 @@
 # Richard Huang
 ## Boston, MA, USA
 ### GMT -4:00
-![](https://github.com/RichardHty/JS_practice/blob/master/css_practice/bu.png)
+
+![Boston University logo](https://github.com/RichardHty/JS_practice/blob/master/css_practice/bu.png)
 
 - OS: macOS High Sierra,  version 10.13.14
+
 #### Fun Facts
 
   * Graduate student for MS in Computer Science
