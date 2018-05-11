@@ -1,7 +1,7 @@
 # Richard Huang
 ## Boston, MA, USA
 ### GMT -4:00
-![school_logo](https://github.com/RichardHty/JS_practice/blob/master/css_practice/bu.png)
+![](https://github.com/RichardHty/JS_practice/blob/master/css_practice/bu.png)
 
 - OS: macOS High Sierra,  version 10.13.14
 #### Fun Facts
