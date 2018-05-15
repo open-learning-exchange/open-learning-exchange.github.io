@@ -1,0 +1,32 @@
+<!-- This is a new issue template for open-learning-exchange.github.io.
+Please ensure you have searched open and closed issues for duplicate.
+You may preview your issue before submission.
+Please write N/A in the sections that aren't applicable to your particular issue.
+Thank you for contributing! -->
+
+### Problem
+When ever I search for any resources from the library and click on view details I am able to edit and make changes to the main resource file. I am not the owner or the edit but still I can make those changes. I am not sure if you want it to be editable for everyone but I think this should not be made editable for everyone because of security reasons. Anyone can make changes to anyone's resource. 
+
+
+### Steps to reproduce the problem
+Steps:
+1. Login to your Bell MyApp using username and password.
+2. Click on library 
+3. From any of the available resources click on view details.
+4. A new view details page is visible which lets me edit the resource details.
+
+### Screenshots
+![image](https://user-images.githubusercontent.com/25532941/39996470-9a5a3376-574d-11e8-8ca4-50bd5f190f52.png)
+
+![image](https://user-images.githubusercontent.com/25532941/39996501-b0f9a77e-574d-11e8-8f51-4d8f34ca5879.png)
+
+
+### Proposed solution
+<!-- Write N/A if not applicable -->
+1.Every resource should have authentication so that only the person authenticated should be able to edit it.
+2. If I have not uploaded the resource or am not the admin then I should not be able to see the edit button and not be able to edit the resource details.
+3. Proper authentication hierarchy is missing and needs to be implemented for security point of view.
+
+(I am not sure if it is suppose to be like this but I think there should be some authentication before anyone can change the resource details),
+
+Thank you.
