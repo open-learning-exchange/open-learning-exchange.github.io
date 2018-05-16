@@ -2,7 +2,7 @@
 ## Boston, MA, USA
 ### GMT -4:00
 
-![Boston University logo](https://github.com/RichardHty/JS_practice/blob/master/css_practice/bu.png)
+![Boston University logo](https://raw.githubusercontent.com/RichardHty/JS_practice/master/css_practice/bu.png)
 
 - OS: macOS High Sierra,  version 10.13.14
 
