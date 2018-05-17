@@ -1,5 +1,7 @@
 # Amjed Muhsin :smiley:
 
+![uiuc image](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/snhu-online-degree-cost-768x509.jpg?itok=59O59oBU)
+
 ``` bash
 Location: Concord, New Hampshire
 Timezone: Eastern
@@ -29,3 +31,7 @@ Hello, my name is `Amjed Muhsin` and I'm `Computer Science` major with a focus i
 * Lua
 
 * Objective-C (Basic knowledge)
+
+### Contact
+Github: [onlyserenity](https://github.com/onlyserenity)
+Linkedin: [amjedcha](https://www.linkedin.com/in/amjedcha/)
