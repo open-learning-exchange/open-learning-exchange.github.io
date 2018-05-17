@@ -5,6 +5,7 @@
 |**Username**|**Join Date**|
 |------------|-------------|
 |**➤ Volunteers**||
+|[lmmrssa](https://lmmrssa.github.io)| 2016-9 |
 |[mappuji](profiles/mappuji.md) (**ex-intern**)| 2017-04-29 |
 |[vishwakarmaanil](profiles/vishwakarmaanil.md)|2018-01-25|
 |[Tille88](profiles/tille88.md)|2018-03-29|
