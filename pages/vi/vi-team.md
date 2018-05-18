@@ -37,6 +37,7 @@
 |[aakarnik](profiles/aakarnik.md)|2018-04-19|
 |[rhuturajm](profiles/rhuturajm.md)|2018-04-20|
 |[gcantieni](profiles/gcantieni.md)|2018-05-10|
+|[NirmalKumarJoshi](profiles/NirmalKumarJoshi.md)|2018-05-11|
 
 ## Former Interns
 
