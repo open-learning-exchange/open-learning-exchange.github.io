@@ -17,10 +17,12 @@ In my free time I'm either at the *gym* or *traveling* to *snowboard*.
 
 You can see some of my existing work on my [Portfolio](http://phillstack.com/) and previous coding samples on my [Github](http://www.github.com/mphill05).
 
+---
+
 ## TL:DR
 * Freelance Dev
-1 iOS (Swift)
-2 Web Dev (Angular 5/MEAN stack)
+1. iOS (Swift)
+2. Web Dev (Angular 5/MEAN stack)
 * Outside of coding
 - Music Producer/DJ
 - Ableton Live
