@@ -1,11 +1,11 @@
 # Mark Phillips
 ### Los Angeles, CA (Pacific Standard Time (PST))
-##### Mac OS El Capitan
+#### Mac OS El Capitan
 
 ## Who I am
 
 I am currently a freelance **iOS developer** as well as a **Web** **Developer** primarily using *Angular* *5* and learning to expand on my
-skills with the **MEAN** **stack**. I write iOS software natively in **Swift** and learned coding with Java in college.
+skills with the **MEAN** **stack**. I write iOS software natively in **Swift** and learned coding with *Java* in college.
 
 ## Outside of coding
 
@@ -17,7 +17,7 @@ In my free time I'm either at the *gym* or *traveling* to *snowboard*.
 
 You can see some of my existing work on my [Portfolio](http://phillstack.com/) and previous coding samples on my [Github](http://www.github.com/mphill05).
 
-# TL:DR
+## TL:DR
 * Freelance Dev
 * iOS (Swift)
 * Web Dev (Angular 5/MEAN stack)
