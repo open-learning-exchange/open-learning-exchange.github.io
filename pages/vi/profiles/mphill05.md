@@ -25,9 +25,9 @@ You can see some of my existing work on my [Portfolio](http://phillstack.com/) a
   * Web Dev (Angular 5/MEAN stack)
 - Outside of coding
   * Music Producer/DJ
-  * Ableton Live
-    * Gym rat
-    * Travel to Snowboard
+    * Ableton Live
+  * Gym rat
+  * Travel to Snowboard
 - Portfolio & Github
   * [Portfolio](http://phillstack.com/)
   * [Github](http://www.github.com/mphill05)
