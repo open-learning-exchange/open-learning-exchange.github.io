@@ -20,14 +20,14 @@ You can see some of my existing work on my [Portfolio](http://phillstack.com/) a
 ---
 
 ## TL:DR
-* Freelance Dev
-1. iOS (Swift)
-2. Web Dev (Angular 5/MEAN stack)
-* Outside of coding
-- Music Producer/DJ
-- Ableton Live
--- Gym rat
--- Travel to Snowboard
-* Portfolio & Github
-- [Portfolio](http://phillstack.com/)
-- [Github](http://www.github.com/mphill05)
+- Freelance Dev
+* iOS (Swift)
+* Web Dev (Angular 5/MEAN stack)
+- Outside of coding
+* Music Producer/DJ
+* Ableton Live
+* Gym rat
+* Travel to Snowboard
+- Portfolio & Github
+* [Portfolio](http://phillstack.com/)
+* [Github](http://www.github.com/mphill05)
