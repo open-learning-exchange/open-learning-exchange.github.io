@@ -20,5 +20,5 @@ to transition by attending the [Ph.d Program](http://www.gujaratuniversity.ac.in
 * Nagios
 
 ### Links
-[Github](https://github.com/shahmeetk)
-[LinkedIn](www.linkedin.com/in/meetshah10290)
+[Github](https://www.github.com/shahmeetk)
+[LinkedIn](https://www.linkedin.com/in/meetshah10290)
