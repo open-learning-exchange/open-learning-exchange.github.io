@@ -21,7 +21,7 @@ Typically, interns choose what project they want to work on based on their exper
 * [Remote](https://github.com/treehouses/remote/)
   * An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 * [Raspberry Pi](rbts-raspberry-pi.md)
-  * The modified Raspbian image can be place on a microsd card for deployment in the field with a Raspberry Pi.
+  * The modified Raspbian image can be placed on a microsd card for deployment in the field with a Raspberry Pi.
 
 #### Other Projects
 
