@@ -1,6 +1,6 @@
 # Planet Quick Start Manual
 
-This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Rasperry Pi server. This manual also assumes the reader possess some basic background on the Planet and ts functionality; however, it does not assume the reader has a technical or software background.
+This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Rasperry Pi server. This manual also assumes the reader possesses some basic background on the Planet and ts functionality; however, it does not assume the reader has a technical or software background.
 
 ## How do I Connect the Planet Hardware?
 
@@ -33,7 +33,7 @@ As you can see on the back of the router in the image below, there are a number 
 
 ![RPi USB Power Connect](images/tg-quickstart-rpi-power.png)
 
-*  Plug the Ethernet/RJ45 cable into the router via one of the *yellow* ports on the right. Then, plug the RJ45 cord into the RPi as show in the port below.
+*  Plug the Ethernet/RJ45 cable into the router via one of the *yellow* ports on the right. Then, plug the RJ45 cord into the RPi as shown in the port below.
 
 ![RPi RJ45 Connect](images/tg-quickstart-cable-rj45.png)
 
@@ -57,7 +57,7 @@ You will occasionally need to plug your router and RPi to an Internet connection
 
 ![Router w/ Internet Connection](images/tg-quickstart-router-internet.png)
 
-*  When properly connected, the lights on your router and RPi should be on or flashing. You should now be able to access the Community. If the lights are flashing, than the connection is likely working.
+*  When properly connected, the lights on your router and RPi should be on or flashing. You should now be able to access the Community. If the lights are flashing, then the connection is likely working.
 
 ## Basic Troubleshooting 
 
@@ -65,6 +65,6 @@ You will occasionally need to plug your router and RPi to an Internet connection
 
 *  Assuming that your hardware is connected correctly, the second most common problem is connectivity via router (seen as Wi-fi connectivity on the laptop or tablet). In our Community systems, we use an Intranet system (rather than Internet) to connect the tablets to the router/RPi where the tablets connect to a Wi-fi network. If the Wi-fi is not configured properly it will not work. Oftentimes, the Wi-fi is connected to the wrong network meaning that Communities cannot be accessed.
 
-*  To troubleshoot this issue you will need a tablet. If you are facing a connection issue your screen will display something similar to screen shot below indicating that you are “Unable to Connect”:
+*  To troubleshoot this issue you will need a tablet. If you are facing a connection issue your screen will display something similar to screenshot below indicating that you are “Unable to Connect”:
 
 Note: This Wi-fi connection was shown on OLE’s tablets that are currently used. However, the process of connecting to the Wi-fi should be largely the same on any system. The solution is to change the Wi-fi settings to the correct Wi-fi network.
