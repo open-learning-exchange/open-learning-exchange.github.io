@@ -44,7 +44,7 @@
 #### Q4: What are the hours of the internship?
 
 + This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
-+ The reason we are having 16 hours minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically we would have a few hours of Google Hangout sessions per week where everyone share their screen, discuss problems, work on issues together. Then the rest of the time is for catching up with the change and work on issues assigned.
++ The reason we are having 16 hours minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discuss problems, work on issues together. Then the rest of the time is for catching up with the change and work on issues assigned.
 
 #### Q5: Is this a paid internship?
 
