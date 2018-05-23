@@ -2,7 +2,7 @@
 
 ## What is the Library?
 
-The library it the place where learning resources are stored and categorized within the Planet system. Resources are listed alphabetically which allows Learners to select the first letter of their resource or the page number they wish to view. Additionally, library resources can be organized into collections which allows Learners to quickly find resources that are categorized by subject, grade level, or any attributes assigned. Resources and collections are explained in detail below.
+The library it the place where learning resources are stored and categorized within the Planet system. Resources are listed alphabetically, which allows Learners to select the first letter of their resource or the page number they wish to view. Additionally, library resources can be organized into collections, which allows Learners to quickly find resources that are categorized by subject, grade level, or any attributes assigned. Resources and collections are explained in detail below.
 
 ## How are the Community and National Library Different?
 
@@ -16,7 +16,7 @@ Although resources can be added at either the community or national level, it is
 
 ## What is a Resource?
 
-A Planet resource is any material that has been uploaded into the digital library. There are many types of resources. PLANET can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications (interactive content), and just about any other format. Resources can be viewed in the library . The make of the the library can vary from Communities to Community and from Nation to Nation. Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
+A Planet resource is any material that has been uploaded into the digital library. There are many types of resources. PLANET can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications (interactive content), and just about any other format. Resources can be viewed in the library . The make of the the library can vary from Communities to Community and from Nation to Nation. Resources may also be stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
 
 ## What is a Collection?
 
@@ -82,7 +82,7 @@ We have various types of resources that either form a collection or belong to co
 
 You may need to use a format converter to put your resource in the correct format before uploading. There are numerous free online converters which you may use.
 
-Important: Until all Nations can communicate with each other and resources can easily be shared between Nations, resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that resources are available in each Nation.
+Important: Until all Nations can communicate with each other and resources can easily be shared between Nations, resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time-consuming process, but it is currently the only way we can ensure that resources are available in each Nation.
 
 ## How do I name a file so that it can be uploaded?
 
