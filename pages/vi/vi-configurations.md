@@ -43,11 +43,9 @@ You will be shown the page below. Make sure you fill it out completely.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
-Next, fill out the configurations. Your name and code must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below:
+Next, fill out the configurations. Your name and code must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.**
 
 ![Configurations](images/vi-configuration.png)
-
-After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.
 
 **Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply copy and paste the image.*
 
