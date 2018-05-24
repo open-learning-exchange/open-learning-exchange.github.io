@@ -18,7 +18,7 @@ Because these steps are simple, we expect high quality work, which may take a lo
 
 The MDwiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step. We also created a [FAQ page](vi-faq.md) where you can find the answers to some commonly asked questions. This page has even more useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not in the FAQ page, Google and Stack Exchange are your friends :)
 
-`We also want you to keep us updated a relatively good amount in the Gitter chat as you complete these steps. We will ask you to send us messages, links, and screenshots along the First Steps, We will use this to track your progress, so please do not forget to do so.`
+**We also want you to keep us updated a relatively good amount in the Gitter chat as you complete these steps. We will ask you to send us messages, links, and screenshots along the First Steps, and we will use this to track your progress, so please do not forget to do so.**
 Check our [Gitter chat](vi-chat.md) page for more information about how to best communicate in Gitter.
 
 A very large part of these steps is finding problems with these steps and this MDwiki, so take note of any issues that you run into or suggestions for improvement while doing these steps. Think of it as improving these steps and this MDwiki for future interns.
