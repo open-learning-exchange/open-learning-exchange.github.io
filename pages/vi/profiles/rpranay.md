@@ -4,6 +4,7 @@ I am currently a Computer Science graduate in University of Illinois at Chicago 
 I love fotball and a big fan of Manchester United and my favourite player is Messi.  
 
 ![Chicago](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/800px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg)
+
 * :city_sunset: Chicago  
 * :clock6: Central Standard Time  
 * :computer: Windows 10  
