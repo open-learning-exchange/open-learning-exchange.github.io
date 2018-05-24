@@ -63,12 +63,7 @@ Then, post to the Gitter chat the screenshot you took earlier.
 
 1. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
 
-2. If you accidentally delete your BeLL acccount, you cannot simply click the "Become a Member" button and create a new account. The best way to solve this problem is to solve this issue is to start over and create a new community. 
-You must use the following git commands: 
-  -  Make sure you are in the right directory, you should be in the `ole--vagrant-vi` folder
-  -  Use the command: `vagrant destroy`
-  -  Then use: `vagrant up`
-Once you have completed these steps, click on the MyBeLL icon and fill out the information to create a new account. 
+2. If you accidentally delete your BeLL admin acccount, creating a new learner account on login page will casue problem in latter steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy` then `vagrant up` in `ole--vagrant-vi` folder.
 
 3. In the case you use the command `vagrant destroy`, your community BeLL will be wiped together with the virtual machine, but  community registration still exist on the nation side. After rebuilding your community BeLL using `vagrant up`, fill out the configurations again with a slightly difference Name and Code (e.g. adding a number or letter to the end of your original GitHub username) so we can still locate your community on the Nation side.
 
