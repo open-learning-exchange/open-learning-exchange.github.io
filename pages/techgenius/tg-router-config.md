@@ -19,7 +19,7 @@ Many (not all) routers are pre-configured to assign dynamic IP addresses in the 
 
 ## Router Configuration | Assigning a Dedicated IP address to the Community
 
-On a laptop open a web browser and type [http://tplinklogin.net](http://tplinklogin.net) or the default address of the router you are using, in this case [http://192.168.0.1](http://192.168.0.1) in the above example). 
+Open a web browser and type [http://tplinklogin.net](http://tplinklogin.net) or the default address of the router you are using, in this case [http://192.168.0.1](http://192.168.0.1) in the above example). 
 
 If successful you will see the following dialogue box. Enter the credentials and click Log In:
 
