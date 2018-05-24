@@ -16,7 +16,7 @@ In order to create networked access to Plannet we connect the RPi to a router. T
 
 ![Router](images/tg-quickstart-router.png)
 
-Note: We recommend that talk to OLE technical staff before purchasing a router, as some of the newer routers do not work with RPis. Just check with us and we can suggest the best hardware for purchasing.
+Note: We recommend that you talk to an OLE technical staff before purchasing a router, as some of the newer routers do not work with RPis. Just check with us and we can suggest the best hardware for purchasing.
 
 Connect these two devices (router and RPi) via two cables - a micro-USB to USB (on the left) and an Ethernet cable (RJ45) (on the right).
 
