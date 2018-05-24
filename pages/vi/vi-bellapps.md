@@ -9,6 +9,8 @@
 ## Preparation
 Please go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html or use `vagrant global-status` to see if your community BeLL is currently running. If not, please go to `ole--vagrant-vi` directory and run `vagrant up`.
 
+Do not forget to send the screen shot of your community configurations (from earlier when you registered your configurations) to our chat. In case you forgot to take the screen shot of your configurations, go to the dashboard, click on manager, click on the configurations tab, take a screen shot of the page, and send it to the Gitter chat.
+
 ## Watch Videos
 
 Watch the videos below to learn the basic functions of your BeLL. These videos were created a few years ago, but they should do a decent job of introducing you to the BeLL.
@@ -41,8 +43,6 @@ Fill out the information:
 - Make sure to have something in all of the drop-down menus and text boxes.
 
 Next, click on `Save`. You have now uploaded the resource. You should be able to find the resource in Library, make sure that you can open it. Repeat the same process for all three resources.
-
-Do not forget to send the screen shot of your community configurations (from earlier when you registered your configurations) to our chat. In case you forgot to take the screen shot of your configurations, go to the dashboard, click on manager, click on the configurations tab, take a screen shot of the page, and send it to the Gitter chat.
 
 ## Different Kinds of Updates to Your Community
 
