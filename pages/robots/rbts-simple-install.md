@@ -27,7 +27,7 @@ In this project we are working on Batch programming. It is a command line script
 
 * You can create .bat file by adding some commands in any editor like notepad or notepad++.
 * Save file with .bat extension. It will create executable file
-* you need to learn and research different DOS commands which help us to simplifies the process of installation and achieve our objective. 
+* you need to learn and research different DOS commands which help us to simplify the process of installation and achieve our objective. 
 
 ### Script Should Perform following Functionality:
 
