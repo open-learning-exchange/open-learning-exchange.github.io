@@ -16,7 +16,7 @@ The easiest way to install the needed software to the tablets is via a USB drive
 *  [Office Suite](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKa2UtTElTSFFTSWc "Office Suite")
 *  [OLE Take Home App](https://github.com/open-learning-exchange/take-home/releases)
 
-Once all files are downloaded to the USB drive you can eject the drive from the computer and plug it in to the tablet. You will need a USB A to USB C converter. It will look something like this:
+Once all files are downloaded to the USB drive you can eject the drive from the computer and plug it in to the tablet. You will need an OTG USB A female to micro B male adapter. It will look something like this:
 
 ![USB A to C Adapter](images/tg-tablet-usb-a-to-c.png)
 
