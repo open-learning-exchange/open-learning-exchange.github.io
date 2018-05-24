@@ -1,6 +1,6 @@
 # Planet Quick Start Manual
 
-This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Rasperry Pi server. This manual also assumes the reader possesses some basic background on the Planet and ts functionality; however, it does not assume the reader has a technical or software background.
+This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Rasperry Pi server. This manual also assumes the reader possesses some basic background on the Planet and its functionality; however, it does not assume the reader has a technical or software background.
 
 ## How do I Connect the Planet Hardware?
 
@@ -12,7 +12,7 @@ Below are two images of the RPi with and without a case.
 
 ![RPi w/ Case](images/tg-quickstart-rpi.png) ![RPi Board](images/tg-quickstart-rpi-board.png)
 
-In order to create networked access to Plannet we connect the RPi to a router. The RPi then provides IP addresses and other network services to the connected hardware. For documentation purposes we use either the TP-Link N600 or the N750 but these steps are largely generic and can be performed on any router that works with the RPi. 
+In order to create networked access to Plannet we connect the RPi to a router. The RPi then provides an IP address and other network services to the connected hardware. For documentation purposes we use either the TP-Link N600 or the N750 but these steps are largely generic and can be performed on any router that works with the RPi. 
 
 ![Router](images/tg-quickstart-router.png)
 
