@@ -38,7 +38,12 @@
 |[rhuturajm](profiles/rhuturajm.md)|2018-04-20|
 |[gcantieni](profiles/gcantieni.md)|2018-05-10|
 |[NirmalKumarJoshi](profiles/NirmalKumarJoshi.md)|2018-05-11|
+|[jiajunc](profiles/jiajunc.md)|2018-05-24|
+|[AkshayUNCC](profiles/akshayuncc.md)|2018-05-24|
+|[onlyserenity](profiles/onlyserenity.md)|2018-05-25|
+|[Sajna Kadalikat](profiles/sjkadali.md)|2018-05-25|
 |[VaishnaviYandapalli](profiles/yyvaishnavi.md)|2018-05-25|
+
 ## Former Interns
 
 To view the list of former interns, go to [former members page](vi-former-members.md).
