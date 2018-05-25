@@ -39,6 +39,7 @@
 |[gcantieni](profiles/gcantieni.md)|2018-05-10|
 |[NirmalKumarJoshi](profiles/NirmalKumarJoshi.md)|2018-05-11|
 |[onlyserenity](profiles/onlyserenity.md)|2018-05-25|
+|[Sajna Kadalikat](profiles/sjkadali.md)|2018-05-25|
 
 ## Former Interns
 
