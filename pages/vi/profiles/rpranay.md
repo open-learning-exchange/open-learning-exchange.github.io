@@ -1,5 +1,5 @@
 # Pranay Kumar Rasulury  
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/800px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg)
+![Chicago](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/800px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg)
 
 # About Me  
 I am currently a Computer Science graduate in University of Illinois at Chicago and expected to graduate in may 2019. 
