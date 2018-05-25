@@ -2,7 +2,7 @@
 
 ## Welcome to the OLE Intern Team!
 
-Congratulations. You have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have at least 16 hours a week for the minimal of 3 month to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
+Congratulations. You have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have at least 16 hours a week for the minimal of 3 months to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
 
 ## Get to Know the Team
 
@@ -21,7 +21,7 @@ Typically, interns choose what project they want to work on based on their exper
 * [Remote](https://github.com/treehouses/remote/)
   * An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 * [Raspberry Pi](rbts-raspberry-pi.md)
-  * The modified Raspbian image can be place on a microsd card for deployment in the field with a Raspberry Pi.
+  * The modified Raspbian image can be placed on a microsd card for deployment in the field with a Raspberry Pi.
 
 #### Other Projects
 
@@ -40,7 +40,7 @@ Typically, interns choose what project they want to work on based on their exper
 
 ## A Few Things to Know...
 
-Once you officially become an virtual intern, you will receive email invites to become GitHub organization members of [open-learning-exchange](https://github.com/open-learning-exchange), [ole-vi](https://github.com/ole-vi), and [treehouses](https://github.com/treehouses).
+Once you officially become a virtual intern, you will receive email invites to become GitHub organization members of [open-learning-exchange](https://github.com/open-learning-exchange), [ole-vi](https://github.com/ole-vi), and [treehouses](https://github.com/treehouses).
 
 **Now you should work on OLE's repositories instead of your own forked repositories, the workflow will be [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)**. Note that this will give you the ability to make bigger mistakes - so make sure you always double check what branch you are working on. Remember to commit often and create pull request early, so other virtual interns could look at your code and make sure you are on the right track at early stage.
 

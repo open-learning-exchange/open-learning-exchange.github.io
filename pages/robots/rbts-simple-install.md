@@ -58,4 +58,4 @@ In previous steps we need to install vagrant and virtualbox separately. This scr
 * [Homebrew-Wiki](https://en.wikipedia.org/wiki/Homebrew_%28package_management_software%29)  
 * [Homebrew Bulk installer](http://lifehacker.com/how-to-make-your-own-bulk-app-installer-for-os-x-1586252163)  
 * [Batch Scripting](http://www.tutorialspoint.com/batch_script/batch_script_overview.htm)  
-* [Batch file commands](http://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
+* [Batch file commands](https://web.archive.org/web/20171102225146/http://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
