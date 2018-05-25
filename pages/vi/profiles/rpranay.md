@@ -5,9 +5,9 @@
 I am currently a Computer Science graduate in University of Illinois at Chicago and expected to graduate in may 2019. 
 I love fotball and a big fan of Manchester United and my favourite player is Messi.  
 
-* :city_sunset: Chicago  
-* :clock6: Central Standard Time  
-* :computer: Windows 10  
+* Chicago  
+* Central Standard Time  
+* Windows 10  
 
 Languages I'm familiar with
 ---
