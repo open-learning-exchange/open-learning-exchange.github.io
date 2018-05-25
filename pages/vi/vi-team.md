@@ -42,6 +42,7 @@
 |[AkshayUNCC](profiles/akshayuncc.md)|2018-05-24|
 |[onlyserenity](profiles/onlyserenity.md)|2018-05-25|
 |[Sajna Kadalikat](profiles/sjkadali.md)|2018-05-25|
+|[VaishnaviYandapalli](profiles/yyvaishnavi.md)|2018-05-25|
 
 ## Former Interns
 
