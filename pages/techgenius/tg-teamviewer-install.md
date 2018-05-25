@@ -1,6 +1,6 @@
 # TeamViewer
 
-From time to time, OLE may ask your to install TeamViewer to provide advanced troubleshooting support.
+From time to time, OLE may ask you to install TeamViewer to provide advanced troubleshooting support.
 
 [TeamViewer](https://www.teamviewer.com) is a piece of software used for internet-based remote access and support. TeamViewer software can connect to any PC or Mac that is also running TeamViewer to allow remote control of the target device as if you were sitting right in front of it.
 
