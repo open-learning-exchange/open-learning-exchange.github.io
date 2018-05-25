@@ -38,7 +38,7 @@
 |[rhuturajm](profiles/rhuturajm.md)|2018-04-20|
 |[gcantieni](profiles/gcantieni.md)|2018-05-10|
 |[NirmalKumarJoshi](profiles/NirmalKumarJoshi.md)|2018-05-11|
-
+|[AkshayUNCC](profiles/akshayuncc.md)|2018-05-24|
 ## Former Interns
 
 To view the list of former interns, go to [former members page](vi-former-members.md).
