@@ -14,7 +14,8 @@ I am currently pursuing my masters in Computer Science at The University of Texa
 
 I love football. My favourite club is Manchester United. **GGMU !!!!**
 
-[Glory Glory Man United]("http://e1.365dm.com/17/09/16-9/20/skysports-football-old-trafford-manchester-united_4100339.jpg?20170914145353")
+![Glory Glory Man United](http://e1.365dm.com/17/09/16-9/20/skysports-football-old-trafford-manchester-united_4100339.jpg?20170914145353)
+
 
 
 # Skills
