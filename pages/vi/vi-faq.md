@@ -117,7 +117,7 @@
 #### Q16: What do I do if I already have a github.io with my username?
 
 + You have a few options:
-  1. If you are still using it and you don't want to overwrite it, you can go to the forked repository settings rename the repository to YourUsername-ole.github.io and then deploy it to GitHub Pages by selecting "master branch" in the repostiroy settings under GitHub Pages. By doing that, you can access the forked OLE repository with this link `YourUsername.github.io/YourUsername-ole.github.io/`.
+  1. If you are still using it and you don't want to overwrite it, you can go to the forked repository settings rename the repository to YourUsername-ole.github.io and then deploy it to GitHub Pages by selecting "master branch" in the repository settings under GitHub Pages. By doing that, you can access the forked OLE repository with this link `YourUsername.github.io/YourUsername-ole.github.io/`.
   
   2. If you are not using the repo anymore you can delete it and then follow the [First Steps](vi-first-steps.md).
 
@@ -148,7 +148,7 @@
   1. If you want to run multiple VMs together, you need to change the vagrant file as instructed in [multi-machine](https://www.vagrantup.com/docs/multi-machine/).
 
   2. If you will not run those two communities at the same time:
-    - clone `ole--vagrant-vi` again and name the fodler `ole--vagrant-vi-1`:
+    - clone `ole--vagrant-vi` again and name the folder `ole--vagrant-vi-1`:
 
       ```
       git clone https://github.com/dogi/ole--vagrant-vi.git ole--vagrant-vi-1
