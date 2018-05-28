@@ -1,5 +1,4 @@
 
-
 ![NYC](https://media.timeout.com/images/103444978/1372/772/image.jpg)
 
 # About Me
