@@ -10,7 +10,7 @@ The first thing is to meet the team, starting with CTO Dogi, then the [current i
 
 ## Familiarize Yourself with Current Projects and Issues
 
-Typically, interns choose what project they want to work on based on their experience. If you get tired of a certain project, there is opportunity to switch. Take a look at our current projects below, if any particular ones interest you, there is a very good chance that you can work on them.
+Typically, interns choose what project they want to work on based on their experience. If you get tired of a certain project, there is an opportunity to switch. Take a look at our current projects below, if any particular ones interest you, there is a very good chance that you can work on them.
 
 #### Very Active Projects
 
@@ -42,11 +42,11 @@ Typically, interns choose what project they want to work on based on their exper
 
 Once you officially become a virtual intern, you will receive email invites to become GitHub organization members of [open-learning-exchange](https://github.com/open-learning-exchange), [ole-vi](https://github.com/ole-vi), and [treehouses](https://github.com/treehouses).
 
-**Now you should work on OLE's repositories instead of your own forked repositories, the workflow will be [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)**. Note that this will give you the ability to make bigger mistakes - so make sure you always double check what branch you are working on. Remember to commit often and create pull request early, so other virtual interns could look at your code and make sure you are on the right track at early stage.
+**Now you should work on OLE's repositories instead of your own forked repositories, the workflow will be [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)**. Note that this will give you the ability to make bigger mistakes - so make sure you always double check what branch you are working on. Remember to commit often and create pull request early, so other virtual interns could look at your code and make sure you are on the right track at an early stage.
 
 You will now have the ability to review, close, and merge pull requests and issues.
 
-Once you have accepted your invitation, mark yourself as public at the [list of OLE contributors.](https://github.com/orgs/open-learning-exchange/people)
+Once you have accepted your invitation, mark yourself as a public member in the [list of OLE contributors.](https://github.com/orgs/open-learning-exchange/people)
 
 ### Reviewing Pull Requests and Issues
 
@@ -75,7 +75,7 @@ When you are ready to merge the pull request:
 * Select "Squash Merge"
 * **Remove all of the commit messages in the extended description, and make sure the commit title is clear and short.** 
 * Include “(fixes #IssueNumber)” in the title so it will automatically close the issue.
-  * If you forget to add keyword, go to the issue and manually close it and link to the original pull request.
+  * If you forget to add a keyword, go to the issue and manually close it and link to the original pull request.
   * An example of good commit title is: "update vi-configuration.md (fix #1530) (#1557)", where "1530" is the issue number and "1557" is pull request number.
   * Read more about [closing Issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/).
 
