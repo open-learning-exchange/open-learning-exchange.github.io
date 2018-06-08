@@ -1,6 +1,8 @@
 # BeLL Installation
 
-We will need community [BeLL](https://github.com/open-learning-exchange/BeLL-Apps) (Basic e-Learning Library) and its dependencies on our system to complete the next steps. Please follow the directions for your OS below.
+The Basic e-Learning Library (BeLL) is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
+
+Please follow the directions of your OS below to install your community BeLL and its dependencies on our system.
 
 ## Prerequisites
 
@@ -134,6 +136,8 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 
 6. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
 
-## Next Steps
+## Next Section
 
-Now that you have installed your community Bell, head over to [BeLL Configurations](#!./pages/vi/vi-configurations.md) to register your community with the nation.
+Now  you have installed your community Bell, head over to [BeLL Configurations](#!./pages/vi/vi-configurations.md) to register your community with the nation.
+
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_and_Vagrant)

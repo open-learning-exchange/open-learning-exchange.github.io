@@ -1,4 +1,4 @@
-# Vagrant Instructions
+# Vagrant Tutorial
 
 In [Step 1 - BeLL Installation - Installation](vi-bell-installation.md), we installed Vagrant, VirtualBox, Git, and BeLL to our OS.
 
@@ -112,4 +112,4 @@ or not commonly used. To see all subcommands, run the command
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](vi-first-steps.md#Step_2_-_Vagrant_Tutorial)
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_and_Vagrant)

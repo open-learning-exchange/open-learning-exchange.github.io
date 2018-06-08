@@ -35,13 +35,18 @@ There is no official deadline to complete these steps, but most candidates who a
 <!-- TODO: it's the mix of planet and bell link below for now, should update after First steps fully move to planet. -->
 3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. You can start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial). See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what BeLL/planet do.
 
-## Step 1 - BeLL Installation
+## Step 1 - BeLL and Vagrant
 
-The BeLL – Basic e-Learning Library is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. we are currently rewriting BeLL using Angular.
+There are 3 sections in this step:
 
-Please go to [BeLL Installation](#!./pages/vi/vi-bell-installation.md) for instructions on how to set up your own digital library.
+1. [BeLL Installation](#!./pages/vi/vi-bell-installation.md)
+  The **BeLL** (Basic e-Learning Library) is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this section, you will learn about how to set up your own Community BeLL.
 
-Once you have finished installing BeLL, go to the [Configurations Guide](vi-configurations.md) to configure your Community BeLL.
+1. [BeLL Configurations](vi-configurations.md)
+  In this section, you will learn about how to configure your Community BeLL.
+
+1. [Vagrant Tutorial](vi-vagrant.md)
+  **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this section, you will learn about how to interact with Vagrant through the command-line interface.
 
 ## Step 2 - Vagrant Tutorial
 
