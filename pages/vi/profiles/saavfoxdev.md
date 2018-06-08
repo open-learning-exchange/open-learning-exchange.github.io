@@ -15,6 +15,7 @@
 > ## **About Me:** 
 > ~~Im a recent graduate from Harvard University~~
 > I’m a Web and Software Engineer/Developer from Moreno Valley, California.
+
  I work primarily with: 
  * C#
  * JavaScript
@@ -22,6 +23,7 @@
  * CSS
  * Swift
  * SQL.
+ 
 > On my spare time I enjoy working on Art, for example, painting, drawing & 3D-modeling.
 > I am also interested in animation.
 > I also enjoy fixing electronics and building gaming pc's for friends and for fun.
