@@ -48,9 +48,15 @@ There are 3 sections in this step:
 1. [Vagrant Tutorial](vi-vagrant.md)
   **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this section, you will learn about how to interact with Vagrant through the command-line interface.
 
-## Step 2 - Vagrant Tutorial
+## Step 2 - Planet and Docker
 
-Review [Vagrant Instructions](vi-vagrant.md) on how to interact with Vagrant through the command-line interface. You should be familiar with this since you will need to use it to control virtual machines during your internship.
+There are 2 sections in this step:
+
+1. [Planet Installation and Configuration](#!./pages/vi/vi-planet-installation-and-configuration.md)
+  We are currently rewriting BeLL, the project is called **Planet**. The objective is to create a Progressive Web App using Angular & CouchDB with the BeLL Apps functionality. In this section, you will learn about how to install and configure your own community Planet.
+
+1. [Docker Tutorial](vi-docker-tutorial.md)
+  **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface.
 
 ## Step 3 - Markdown and Fork Tutorial
 
