@@ -54,9 +54,9 @@
 
   * [Orientation](pages/robots/rbts-intern-orientation.md)
   - - - -
-  * [**Angular Reboot**](pages/robots/rbts-angular.md)
+  * [**Planet (Angular)**](pages/robots/rbts-angular.md)
   * [**Raspberry Pi**](pages/robots/rbts-raspberry-pi.md)
-  * [**Take Home**](pages/robots/rbts-takehome.md)
+  * [**Takeout (Android)**](pages/robots/rbts-takeout.md)
   - - - -
   * [Simple Dev Install](pages/robots/rbts-simple-install.md)
   * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
