@@ -2,13 +2,13 @@
 
 * * *
 
-### *Location:* **Riverside, California**
+## *Location:* **Riverside, California**
 
 ### *Time Zone:* **Los Angeles time**
 
 * * *
 
-## *Operating System:* **Windows 10**
+### *Operating System:* **Windows 10**
 
 * * * 
 
@@ -29,7 +29,6 @@
 
 ### Personal Website
 
-Here is my [portfolio] [1]
-[1]: https://saavfoxdev.github.io/ "Portfolio"
+Here is my link [portfolio](https://saavfoxdev.github.io/).
 
 ![](https://i1.wp.com/www.whats-your-sign.com/wp-content/uploads/2018/02/FoxAnimalSymbolism.jpg?zoom=1.75&fit=1600%2C1078&ssl=1)
