@@ -25,6 +25,7 @@
  * CSS
  * Swift
  * SQL
+ 
  On my spare time I enjoy working on Art, for example, painting, drawing & 3D-modeling.
  I am also interested in animation.
  I also enjoy fixing electronics and building gaming pc's for friends and for fun.
