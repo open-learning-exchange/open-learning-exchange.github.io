@@ -16,7 +16,7 @@ Typically, interns choose what project they want to work on based on their exper
 
 * [Planet](rbts-angular.md)
   * A Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
-* [Takeout](https://github.com/ole-vi/takeout/)
+* [Takeout](rbts-takeout.md)
   * Takeout is an Android port of the Planet apps.
 * [Remote](https://github.com/treehouses/remote/)
   * An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
