@@ -4,11 +4,13 @@
 
 ## *Location:* **Riverside, California**
 
-### *Time Zone:* **Los Angeles time**
+* * * 
+
+## *Time Zone:* **Los Angeles time**
 
 * * *
 
-### *Operating System:* **Windows 10**
+## *Operating System:* **Windows 10**
 
 * * * 
 
