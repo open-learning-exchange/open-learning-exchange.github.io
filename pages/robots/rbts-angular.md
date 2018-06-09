@@ -1,4 +1,4 @@
-# Planet
+# planet
 
 *Note: This project page is a work in progress. Please reach out on the gitter chat if you would like to contribute to this project*
 

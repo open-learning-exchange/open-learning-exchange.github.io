@@ -54,7 +54,7 @@
 
   * [Orientation](pages/robots/rbts-intern-orientation.md)
   - - - -
-  * [**Planet (Angular)**](pages/robots/rbts-angular.md)
+  * [**planet (Angular)**](pages/robots/rbts-angular.md)
   * [**Raspberry Pi**](pages/robots/rbts-raspberry-pi.md)
   * [**Takeout (Android)**](pages/robots/rbts-takeout.md)
   - - - -

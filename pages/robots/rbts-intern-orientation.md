@@ -14,10 +14,10 @@ Typically, interns choose what project they want to work on based on their exper
 
 #### Very Active Projects
 
-* [Planet](rbts-angular.md)
+* [planet](rbts-angular.md)
   * A Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
 * [Takeout](rbts-takeout.md)
-  * Takeout is an Android port of the Planet apps.
+  * Takeout is an Android port of the planet apps.
 * [Remote](https://github.com/treehouses/remote/)
   * An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 * [Raspberry Pi](rbts-raspberry-pi.md)
