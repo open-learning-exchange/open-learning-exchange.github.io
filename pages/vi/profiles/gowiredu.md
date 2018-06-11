@@ -8,7 +8,7 @@ _Pictured: DePauw University_
 
 🕘EDT (UTC -4)
 
-💻macOS High Sierra 10.13.5
+💻macOS High Sierra
 
 ## About Me
 My name is **Gordon Kwame Owiredu**. I hold a B.A. in Computer Science from DePauw University. 
