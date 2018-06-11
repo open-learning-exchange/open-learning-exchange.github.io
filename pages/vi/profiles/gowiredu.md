@@ -1,6 +1,7 @@
 # Gordon Owiredu
 
 ![DePauw University](https://www.commonapp.org/files/school/image/Header_DEPAUW_AndersonStreet.jpg)
+
 _Pictured: DePauw University_
 
 📍Orange, New Jersey
