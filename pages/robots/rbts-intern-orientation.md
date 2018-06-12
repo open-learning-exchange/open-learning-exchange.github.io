@@ -22,7 +22,7 @@ Typically, interns choose what project they want to work on based on their exper
   * An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 * [Raspberry Pi](rbts-raspberry-pi.md)
   * The modified Raspbian image can be placed on a microsd card for deployment in the field with a Raspberry Pi.
-* [Docker](rbts-docker.md)
+* [Docker](https://hub.docker.com/r/treehouses/)
 
 #### Older Projects
 
