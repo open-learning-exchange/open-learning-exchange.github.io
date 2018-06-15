@@ -2,7 +2,9 @@
 
 We are currently rewriting BeLL, the project is called **[`planet`](https://github.com/open-learning-exchange/planet)**. The objective is to create a Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
 
-Please follow the directions below to install your community `planet` and its dependencies to your machine.
+Please follow the directions below to install Docker and your community `planet` to your machine. There are three parts in this section, you can use the side bar on the left to quickly navigate between them.
+
+---
 
 ## Install Docker
 
@@ -93,6 +95,8 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 - Apply executable permissions to the binary: `sudo chmod +x /usr/local/bin/docker-compose`
 - Test the installation: `docker-compose --version`
 
+---
+
 ## Planet Installation
 
 1. Launch Docker on your machine
@@ -114,6 +118,8 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
   ```
 
 1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
+
+---
 
 ## Planet Configuration
 
