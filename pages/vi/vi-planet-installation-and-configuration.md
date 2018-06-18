@@ -12,11 +12,11 @@ In order to run `planet`, you will need Docker Community Edition installed.
 
 ### Windows
 
-[Chocolatey](https://chocolatey.org/) – the package manager for Windows was installed to your machine in the previous step.
-
-If you have 64bit Windows 10 Pro, Enterprise and Education (1607 Anniversary Update, Build 14393 or later), please follow the official [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/) guide or run `choco install docker-for-windows`.
-
-Otherwise you will need to ...
+- For **64bit Windows 10 Pro, Enterprise and Education 1607 Anniversary Update, Build 14393 or later**, please use one of the following 2 methods to installs Docker for Windows:
+  - Follow the official [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/) guide
+  - [Chocolatey](https://chocolatey.org/) – the package manager for Windows was installed to your machine in the previous step. Please read [What to know before you install
+](https://docs.docker.com/docker-for-windows/install/#what-to-know-before-you-install) and run `choco install docker-for-windows`
+- If you do not have Windows version specified above, you will need to install [Docker Toolbox](https://docs.docker.com/toolbox/overview/). Please follow the official guide [Install Docker Toolbox on Windows](https://docs.docker.com/toolbox/toolbox_install_windows/).
 
 ### macOS
 
@@ -30,6 +30,8 @@ Please follow the official [Install Docker for Mac](https://docs.docker.com/dock
   - macOS El Capitan 10.11 and newer macOS releases
   - At least 4GB of RAM
   - VirtualBox prior to version 4.3.30 must NOT be installed.
+- If your system **does not** satisfy requirements above, you can install [Docker Toolbox](https://docs.docker.com/toolbox/overview/), which uses Oracle VirtualBox instead of HyperKit. Please follow the official guide [Install Docker Toolbox on macOS](https://docs.docker.com/toolbox/toolbox_install_mac/).
+
 - What the install includes: The installation provides Docker Engine, Docker CLI client, Docker Compose, Docker Machine, and Kitematic.
 
 #### Install and run Docker for Mac
