@@ -4,14 +4,18 @@ In the previous section, you installed Docker to your machine.
 
 **[Docker](https://www.docker.com/what-docker)** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface.
 
-Take a look at [READM](https://github.com/open-learning-exchange/planet/tree/master/docker#planet--docker) file in docker folder of `planet`.
+Now, take a look at [READM](https://github.com/open-learning-exchange/planet/tree/master/docker#planet--docker) file in docker folder of `planet` then read the brief rundown below.
 
 ## Docker
 
-Docker
+Please read about [Docker concept](https://docs.docker.com/get-started/#docker-concepts) and [Docker overview](https://docs.docker.com/engine/docker-overview/) to get a sense of what Docker is.
+
+A few common Docker CLI commands you might need for working with `planet` are:
 
 - `docker ps` – show running containers
 - `docker ps -a` - show all containers
+- `docker logs <container-id> -f` - follow the log output of a container
+- `docker images` – list images
 
 ## Docker Compose
 
@@ -210,3 +214,5 @@ Commands:
   up                 Create and start containers
   version            Show the Docker-Compose version information
 ```
+
+#### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
