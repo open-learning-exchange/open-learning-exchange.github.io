@@ -141,7 +141,7 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 ### 3. Create a Pull Request
   1.  Go to your own fork of OLE on Github https://github.com/YourUsername/YourUsername.github.io and press Compare & pull request.
 
-  2.  Fill out the details fo the pull request according to the given structure and also create a checklist for other's understanding.
+  2.  Fill out the details for the pull request according to the given structure and also create a checklist for other's understanding.
 
 ### 4. Delete the Branch
   1.  Wait for review and once the pull request is merged, use `git branch -d yourLocalBranchName` to delete the branch.
