@@ -69,6 +69,7 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 ---
 
 ## macOS or Ubuntu
+### Preparation
 
 Open your `Terminal`
 
