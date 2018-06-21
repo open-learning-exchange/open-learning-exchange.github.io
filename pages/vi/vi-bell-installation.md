@@ -102,7 +102,7 @@ sudo apt-get install -f
 
 #### For macOS and Ubuntu – Install a Community BeLL
 
-Make sure you've `cd` to the designate OLE directory you created earlier.
+Make sure you `cd` to the designated OLE directory you created earlier.
 
 ```bash
 git clone https://github.com/dogi/ole--vagrant-vi.git
