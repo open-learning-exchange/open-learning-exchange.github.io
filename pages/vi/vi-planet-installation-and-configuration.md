@@ -150,7 +150,7 @@ When you want to have `planet` up and running again: `docker-compose -f planet.y
 
 [FAQ – Helpful links](vi-faq.md#Helpful_Links)
 
-## Next Section
+## Next Section **→**
 
 Now you have `panet` installed, head over to [Docker Tutorial](vi-docker-tutorial.md) to learn about the basics of interacting with Docker and Docker Compose through the command-line interface.
 
