@@ -69,6 +69,7 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 ---
 
 ## macOS or Ubuntu
+
 ### Preparation
 
 Open your `Terminal`
@@ -101,7 +102,7 @@ sudo dpkg -i vagrant.deb
 sudo apt-get install -f
 ```
 
-#### For macOS and Ubuntu – Install a Community BeLL
+### Install a Community BeLL
 
 Make sure you `cd` to the designated OLE directory you created earlier.
 
