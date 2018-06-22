@@ -115,6 +115,8 @@ vagrant up
 You now have a working [community BeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS.
 It is advisable to use Firefox to access your community BeLL. If you don't have it already, you may want to download it.
 
+---
+
 ## Troubleshooting
 
 1. On macOS, when you run `vagrant up`, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to use this command `sudo rm /opt/vagrant/embedded/bin/curl`, This will remove the old version of curl in Vagrant and `vagrant up` should now work as usual. For more information, visit [this Stack Overflow question](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
