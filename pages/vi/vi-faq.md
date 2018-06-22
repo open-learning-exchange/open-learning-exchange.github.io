@@ -108,7 +108,7 @@
         vagrant init ole/jessie64
         vagrant up
         ```
-  You now have a working communityBeLL on your OS.
+  You now have a working community BeLL on your OS.
 
 #### Q15: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?
 
