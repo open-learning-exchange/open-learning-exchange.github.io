@@ -65,9 +65,12 @@ Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown
 * Once you complete the Step 3 you will have:
     * 1 Pull request made
 
-## Step 4 - BeLL-Apps Tutorial
+## Step 4 - BeLL-Apps and planet Tutorial
 
-Follow the instructions under the [BeLL-Apps tab](vi-bellapps.md).
+There are 2 sections in this step:
+
+- [BeLL-Apps Tutorial](vi-bellapps.md)
+- [Planet Tutorial](vi-planet-tutorial.md)
 
 ## Step 5 - Keeping Fork Updated
 

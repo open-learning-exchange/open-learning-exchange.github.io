@@ -1,4 +1,4 @@
-# BeLL-Apps: Communities and Nations
+# BeLL-Apps Tutorial
 
 ## Objectives
 
@@ -72,6 +72,10 @@ Take the course, and the last question will ask you to specify any problems or i
 5. When you provide feedback, try to be as specific as possible, and include screen shots when necessary
 
 ![Take the Course](images/vi-take-the-course.png)
+
+## Next Section **→**
+
+Now you have played around with BeLL-Apps, head over to [**`Planet` Tutorial**](vi-planet-tutorial.md) for an introduction to `planet`.
 
 ## Useful Links
 
