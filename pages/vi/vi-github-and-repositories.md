@@ -176,7 +176,7 @@ The **upstream repository** is the one we are contributing to.
 - `git pull` - to sync the local repository with the remote repository ([more info](https://git-scm.com/docs/git-pull))
 - `git push` - to push the updates that you made to the local repositories to the GitHub repositories ([more info](https://git-scm.com/docs/git-push))
 
-**NOTE**: Developers should alway sync their fork and make sure their repositories are up to date with GitHub every time they begin to work. This way we as a team can minimize data loss, and can save you some time.
+**NOTE**: Developers should always sync their fork and make sure their repositories are up to date with GitHub every time they begin to work. This way we as a team can minimize data loss, and can save you some time.
 
 #### If you find yourself needing to rebase your forked repository, the following two links should help:
 - [Rebase](https://git-scm.com/docs/git-rebase)
