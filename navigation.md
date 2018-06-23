@@ -20,6 +20,7 @@
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
   - - - -
+  * [Step 0 - Introductory Steps](pages/vi/vi-first-steps.md#Step_0_-_Introductory_Steps)
   * [Step 1 - BeLL Installation & Configuration](pages/vi/vi-bell-installation.md)
   * [Step 2 - Vagrant Instructions](pages/vi/vi-vagrant.md)
   * [Step 3 - Markdown and Fork Tutorial](pages/vi/vi-github-and-markdown.md)
