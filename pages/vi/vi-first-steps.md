@@ -65,7 +65,7 @@ Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown
 * Once you complete the Step 3 you will have:
     * 1 Pull request made
 
-## Step 4 - BeLL-Apps and planet Tutorial
+## Step 4 - BeLL-Apps and Planet Tutorial
 
 There are 2 sections in this step:
 

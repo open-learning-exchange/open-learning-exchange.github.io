@@ -35,4 +35,4 @@ Next, click on `Submit`. You have now uploaded the resource. You should be able 
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial)
+#### Return to [First Steps](vi-first-steps.md#Step_4_-_BeLL-Apps_and_Planet_Tutorial)

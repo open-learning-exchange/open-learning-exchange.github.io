@@ -83,4 +83,4 @@ Now you have played around with BeLL-Apps, head over to [**`Planet` Tutorial**](
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial)
+#### Return to [First Steps](vi-first-steps.md#Step_4_-_BeLL-Apps_and_Planet_Tutorial)
