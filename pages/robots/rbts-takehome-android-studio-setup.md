@@ -29,13 +29,13 @@ The Android Studio Setup Wizard guides you through the rest of the setup, which 
 There are three steps that needs be done before you can make contribution to "take-home" project:
 
 1. Find and fork the "take-home" repository
-You can [find "take-home" GitHub repository here](https://github.com/open-learning-exchange/take-home). Fork the repository to your own GitHub account by clicking the fork button (just like what you did in [step 3](vi-github-and-markdown.md#Find_and_fork_the_correct_repository))
+You can [find "take-home" GitHub repository here](https://github.com/open-learning-exchange/take-home). Fork the repository to your own GitHub account by clicking the fork button (just like what you did in [step 3](#!pages/vi/vi-github-and-markdown.md#Find_and_fork_the_correct_repository))
 
 2. Clone your own GitHub repository yourGitHubUsername/take-home
 In a terminal / console of your choosing, navigate into the working directory of Android studio and git clone your own “take-home“ repository at `https://github.com/yourGitHubUsername/take-home.git`
 
 3. Configure a remote for your local repository
-Under your "take-home" directory, type `git remote add upstream https://github.com/open-learning-exchange/take-home.git` so that you can fetch updates from the upstream repository (reference [step 5](vi-git-and-repositories.md#Configure_a_remote_for_your_fork))
+Under your "take-home" directory, type `git remote add upstream https://github.com/open-learning-exchange/take-home.git` so that you can fetch updates from the upstream repository (reference [step 5](#!pages/vi/vi-github-and-repositories.md#Configure_a_Remote_Repository_for_Your_Fork))
 
 Now, Run Android studio. Select New from the file menu and select import project. Navigate to Android studio -> take-home and select the settings.gradle file to import and open the project.
 

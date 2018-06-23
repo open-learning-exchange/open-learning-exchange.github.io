@@ -20,6 +20,7 @@
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
   - - - -
+  * [Step 0 - Introductory Steps](pages/vi/vi-first-steps.md#Step_0_-_Introductory_Steps)
   * [Step 1 - BeLL and Vagrant](pages/vi/vi-bell-installation.md)
   * [Step 2 - Planet and Docker](pages/vi/vi-planet-installation-and-configuration.md)
   * [Step 3 - Markdown and Fork Tutorial](pages/vi/vi-github-and-markdown.md)
@@ -54,9 +55,9 @@
 
   * [Orientation](pages/robots/rbts-intern-orientation.md)
   - - - -
-  * [**Angular Reboot**](pages/robots/rbts-angular.md)
-  * [**Raspberry Pi**](pages/robots/rbts-raspberry-pi.md)
-  * [**Take Home**](pages/robots/rbts-takehome.md)
+  * [**Planet (Angular)**](pages/robots/rbts-angular.md)
+  * [**Raspberry Pi (Linux)**](pages/robots/rbts-raspberry-pi.md)
+  * [**Takeout (Android)**](pages/robots/rbts-takeout.md)
   - - - -
   * [Simple Dev Install](pages/robots/rbts-simple-install.md)
   * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
