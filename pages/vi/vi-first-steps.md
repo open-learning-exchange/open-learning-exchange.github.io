@@ -71,7 +71,7 @@ Contribute as much value as you can in each issue you file. If you know how to s
 
 - Once you complete Step 6 you will have:
    * 2 pull requests made (one at step 3 and one at step 6)
-   * 1 comment added
+   * 1 comment added (on an issue you didn't create)
    * 1 issue created
 
 ## Step 7 - Nation BeLL
@@ -88,7 +88,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 - Once you complete Step 8, you should have:
    * 5 merged pull requests (one at step 3, one at step 6 and three at step 8)
-   * 4 comments made (one at step 6 and three at step 8)
+   * 4 comments made (on issues you didn't create, one at step 6 and three at step 8)
    * 4 issues created (one at step 6 and three at step 8)
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.md).

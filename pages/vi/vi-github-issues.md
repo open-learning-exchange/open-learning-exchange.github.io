@@ -14,9 +14,9 @@ On GitHub, each repository has a section where issues can be added, discussed, a
 
 NOTE: Issues are not just about adding to the wiki, but can also involve removing repetitive or unnecessary code or content.
 
-Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
+We encourage you to file as many issues as you can, no matter how big or small. If you notice something, but are not sure how to solve it, file an issue anyway to let others know about it so it can be fixed. Strive to provide as much value as possible with the issues you submit. By doing so, you will better support the community and improve this section for all.
 
-We encourage you to file as many issues as you can, no matter how big or small. If you notice something, but are not sure how to solve it, file an issue anyway to let others know about it so it can be fixed. Strive to provide as much value as possible with the issues you submit. By doing so, you will better support the community and improve this section for all. Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
+Below, you'll find the workflow where we brought up a problem, researched an answer, and then fixed the issue.
 
 ## Create an Issue
 
@@ -36,7 +36,7 @@ _**SPECIAL NOTE:**_ Aspiring Virtual Interns have a tendency to speed through th
 
 Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other. Before you create your branch, sync your repo following the process in Summary of Steps - Sync Your Fork section of the [previous step](vi-github-and-repositories.md#Summary_of_Steps). 
 
-Use `git checkout master` to swith to master branch, then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
+Use `git checkout master` to switch to master branch, then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
 Now you can go and make the proposed changes to your local files.
 
@@ -141,7 +141,7 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 ### 3. Create a Pull Request
   1.  Go to your own fork of OLE on Github https://github.com/YourUsername/YourUsername.github.io and press Compare & pull request.
 
-  2.  Fill out the details fo the pull request according to the given structure and also create a checklist for other's understanding.
+  2.  Fill out the details for the pull request according to the given structure and also create a checklist for other's understanding.
 
 ### 4. Delete the Branch
   1.  Wait for review and once the pull request is merged, use `git branch -d yourLocalBranchName` to delete the branch.
