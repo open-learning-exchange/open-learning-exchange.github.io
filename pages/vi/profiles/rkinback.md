@@ -16,7 +16,7 @@
 >Electro-mechanical Engineering. I have worked as firmware engineer and a 
 >Software engineer, but my favorite thing to do is develop Android applications
 >and work on new uses for mobile technology. In my spare time I enjoy working on 
->robotics and lifting weights. 
+>robotics and lifting weights.
 
 ##### Some of the Programming Languages I Use 
  * Java
