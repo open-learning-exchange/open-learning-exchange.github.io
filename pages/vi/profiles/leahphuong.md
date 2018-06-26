@@ -8,7 +8,7 @@
 
 ---
 
-:rainbow: Junior Web Developer. :airplane: Globetrotter. :dog2: Dog Lover. :ramen: Food Enthusiast. 
+🌈 Junior Web Developer. ✈️ Globetrotter. 🐕 Dog Lover. 🍜 Food Enthusiast. 
 
 ---
 I speak to _human_  in `English`, `Vietnamese`, `Chinese Mandarin` and *computer* in `HTML`, `CSS`, `jQuery`, `Ruby`, `Rails`, `Javascript`, `SQL`, `EmberJS`.
