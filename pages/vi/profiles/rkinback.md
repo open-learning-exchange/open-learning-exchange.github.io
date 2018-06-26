@@ -18,4 +18,11 @@ Software engineer, but my favorite thing to do is develop Android applications
 and work on new uses for mobile technology. In my spare time I enjoy working on 
 robotics and lifting weights. 
 
+##### Programming of Some Languages I Use 
+ * Java
+ * C
+ * C++
+ * SQL
+ * PHP
+
 ### **Here is a new camera app that I came up with and coded (it is a work in progress)**  [Scenie: Put Your Selfie in Your Scenery](https://play.google.com/store/apps/details?id=com.scenieapp.appalachia.scenie)
