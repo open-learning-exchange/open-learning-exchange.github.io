@@ -18,7 +18,7 @@ Software engineer, but my favorite thing to do is develop Android applications
 and work on new uses for mobile technology. In my spare time I enjoy working on 
 robotics and lifting weights. 
 
-##### Programming of Some Languages I Use 
+##### Some of the Programming Languages I Use 
  * Java
  * C
  * C++
