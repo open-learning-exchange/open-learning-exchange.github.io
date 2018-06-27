@@ -73,6 +73,7 @@ Take the course, and the last question will ask you to specify any problems or i
 
 ![Take the Course](images/vi-take-the-course.png)
 
+If the course "Virtual Interns" is not there, check dashboard to see if your publications are updated and synced. Otherwise please message us and "@" an admin in the Gitter chat so we can send you the course manually.
 
 ## Introduction to Planet
 
