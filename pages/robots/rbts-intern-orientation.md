@@ -2,41 +2,30 @@
 
 ## Welcome to the OLE Intern Team!
 
-Congratulations. You have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have at least 16 hours a week for the minimal of 3 months to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
+Congratulations! You have completed the first steps and have been selected to join the Open Learning Exchange virtual intern team. Please remember that we expect interns to have at least 16 hours a week for the minimal of 3 months to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
 
 ## Get to Know the Team
 
-The first thing is to meet the team, starting with CTO Dogi, then the [current intern team leads and members](#!./pages/vi/vi-team.md). After having the initial meeting with Dogi, you can join <http://talk.ole.org> during Google Hangouts session to meet with current interns, get to know each other, and ask them what they have been working on.
+The first thing is to meet the team, starting with CTO [dogi](https://github.com/dogi), then the [current intern team leads and members](#!./pages/vi/vi-team.md). After having the initial meeting with dogi, you can join <http://talk.ole.org> during Google Hangouts session to meet with current interns, get to know each other, and ask them what they have been working on.
 
 ## Familiarize Yourself with Current Projects and Issues
 
 Typically, interns choose what project they want to work on based on their experience. If you get tired of a certain project, there is an opportunity to switch. Take a look at our current projects below, if any particular ones interest you, there is a very good chance that you can work on them.
 
-#### Very Active Projects
+#### Active Projects
 
-* [Planet](rbts-angular.md)
+* [`planet`](rbts-angular.md)
   * A Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
-* [Takeout](https://github.com/ole-vi/takeout/)
-  * Takeout is an Android port of the Planet apps.
+* [Takeout](rbts-takeout.md)
+  * Takeout is an Android port of the `planet` apps.
 * [Remote](https://github.com/treehouses/remote/)
   * An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 * [Raspberry Pi](rbts-raspberry-pi.md)
   * The modified Raspbian image can be placed on a microsd card for deployment in the field with a Raspberry Pi.
+* [Docker](https://hub.docker.com/r/treehouses/) <!--replace link to rbts-docker.md once PR #1384 is finished-->
+  * Containerize CouchDB, `planet`, BeLL, and other educational applications
 
-#### Other Projects
-
-* [Take Home](rbts-takehome.md)
-  * Take home is an Android port of the BeLL apps. Takeout is the rewrite of Take home.
-* [Automated Testing](rbts-automated-testing.md)
-  * Automated UI testing via selenium, codeceptjs, and Saucelabs/Travis CI.
-* [Windows Installer](rbts-inno-project.md)
-  * Help develop a virtual machine packaged installer file for Windows.
-* [Simple Install](rbts-simple-install.md)
-  * We are in the progress of making a script to install all the software needed to run and work on the Bell Apps.
-* [HTML Resources](rbts-html-resources.md)
-  * Add existing educational HTML apps into the BeLL.
-* [Translation (Crowdin)](rbts-crowdin-integration.md)
-  * Help us translate the BeLL App user interface to other languages.
+[Past Projects](rbts-past-projects.md)
 
 ## A Few Things to Know...
 
