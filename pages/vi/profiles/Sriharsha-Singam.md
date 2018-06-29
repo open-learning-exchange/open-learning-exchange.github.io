@@ -1,7 +1,6 @@
 # Sriharsha Singam
 
 ### Who Am I???
----------
 
 > #### Bachelors of Science in Computer Engineering @ Georgia Institute of Technology
 
