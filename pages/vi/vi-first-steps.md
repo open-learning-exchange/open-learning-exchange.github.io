@@ -38,7 +38,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 1 - BeLL Installation
 
-The BeLL – Basic e-Learning Library is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. we are currently rewriting BeLL using Angular.
+The BeLL – Basic e-Learning Library is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. We are currently rewriting BeLL using Angular.
 
 Please go to [BeLL Installation](#!./pages/vi/vi-bell-installation.md) for instructions on how to set up your own digital library.
 
