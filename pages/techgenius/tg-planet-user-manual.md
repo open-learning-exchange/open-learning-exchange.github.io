@@ -114,7 +114,7 @@ An example of the Manager Dashboard is shown below. The functionality are define
 
 ## What is the Library?
 
-The library where learning Resources are stored and categorized within the Planet system.  Resources are alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
+The library is where learning Resources are stored and categorized within the Planet system.  Resources are alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
 
 ## What is a Resource?
 
