@@ -83,7 +83,7 @@ As we stated earlier in the first steps, we are currently rewriting BeLL using A
 - You will be asked to
     - Create an admin account
     - Fill out configuration
-      - To cerate your Planet community and connect to the Virtual Intern Nation:
+      - To create your Planet community and connect to the Virtual Intern Nation:
         - Select `Community` from `Select Nation/Community`drop-down
         - Select `vi` from `Nation(s)` drop-down
         - Use your GitHub username as `Name`
