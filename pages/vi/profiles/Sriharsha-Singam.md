@@ -3,8 +3,7 @@
 ### Who Am I???
 -----
 
-
-> #### Bachelors of Science in Computer Engineering @ Georgia Institute of Technology
+__Bachelors of Science in Computer Engineering @ Georgia Institute of Technology__
 
 * ###### America - Eastern Time Zone
 
