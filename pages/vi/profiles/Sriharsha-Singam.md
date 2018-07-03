@@ -1,6 +1,6 @@
 # Sriharsha Singam
 
-### Who Am I???
+### Who Am I???  :smile:
 -----
 
 __Bachelors of Science in Computer Engineering @ Georgia Institute of Technology__
@@ -13,7 +13,7 @@ __Bachelors of Science in Computer Engineering @ Georgia Institute of Technology
 
 
 ------
-### Skills
+### Skills  :point_down:
 ------
 ```
 Entry-Level Web Development
@@ -21,7 +21,7 @@ Android App Development
 iOS App Development
 ```
 ------
-### Programming Languages That I Know
+### Programming Languages That I Know  :computer:
 ------
 ```
 Java
@@ -38,7 +38,7 @@ Firebase
 
 ________
 
-### Hi! Hello!
+### Hi:exclamation: Hello:exclamation:  :smile:
 _________
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/ideaappsoftware.appspot.com/o/rsz_profileimage.jpg?alt=media&token=c53fe253-d255-4db5-9af9-b841afca423f "Profile Picture")
