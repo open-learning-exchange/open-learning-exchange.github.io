@@ -6,11 +6,13 @@
 
 > #### Bachelors of Science in Computer Engineering @ Georgia Institute of Technology
 
->> ###### America - Eastern Time Zone
+* ###### America - Eastern Time Zone
 
->> ###### macOS High Sierra Version 10.13.5
+* ###### macOS High Sierra Version 10.13.5
 
->> ###### I love to experiment and try new things. I am very passionate about music and love a good game of soccer or ultimate frisbee. 
+* ###### I love to experiment and try new things. I am very passionate about music and love a good game of soccer or ultimate frisbee. 
+
+
 ------
 ### Skills
 ------
