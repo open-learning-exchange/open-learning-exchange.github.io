@@ -10,8 +10,10 @@ We recommend you designate a new directory for your work at OLE. This put all of
 
 To do this, you could make a new folder directly through your OS GUI. Or you could open `Terminal`(macOS), `cmd`(Windows), or `shell`(Linux) and use the following commands: (Note the commands should be identical on all three operating systems)
 
-1. `cd Desktop`
-1. `mkdir OLE`
+```bash
+cd Desktop
+mkdir OLE
+```
 
 #### Virtualization
 
