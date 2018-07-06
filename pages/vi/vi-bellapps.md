@@ -7,7 +7,7 @@
 * Add resources to your Community in order to get accustomed to the BeLL-Apps interface
 
 ## Preparation
-Please go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html or use `vagrant global-status` to see if your community BeLL is currently running. If not, please go to `ole--vagrant-vi` directory and run `vagrant up`.
+Please go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html or run `vagrant global-status` in the command line to see if your community BeLL is currently running. If not, please `cd` into `ole--vagrant-vi` directory in your local machine and run `vagrant up`.
 
 Do not forget to send the screen shot of your community configurations (from earlier when you registered your configurations) to our chat. In case you forgot to take the screen shot of your configurations, go to the dashboard, click on manager, click on the configurations tab, take a screen shot of the page, and send it to the Gitter chat.
 
