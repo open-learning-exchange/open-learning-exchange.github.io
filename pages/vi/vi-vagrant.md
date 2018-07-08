@@ -48,7 +48,7 @@ The above output tells us:
 - We have a Vagrant virtual machine called `vi` running in VirtualBox.
 - The directory of the virtual machine's Vagrantfile is located at `/Users/aberdean/ole--vagrant-vi`.
 
-## Up, Suspend, Halt, and Destroy
+## Vagrant Commands
 
 - [`vagrant up`](https://www.vagrantup.com/docs/cli/up.html) will turn the virtual machine back on if it's currently "poweroff".
 - [`vagrant suspend`](https://www.vagrantup.com/docs/cli/suspend.html) will suspend the "running" virtual machine, its state will become "saved".
