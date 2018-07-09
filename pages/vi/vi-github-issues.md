@@ -34,7 +34,7 @@ _**SPECIAL NOTE:**_ Aspiring Virtual Interns have a tendency to speed through th
 
 ## Create a New Branch
 
-Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other. Before you create your branch, sync your repo following the process in Summary of Steps - Sync Your Fork section of the [previous step](vi-github-and-repositories.md#Summary_of_Steps). 
+Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other. Before you create your branch, sync your repo following the process in Summary of Steps - Sync Your Fork section of the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
 Use `git checkout master` to switch to master branch, then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
@@ -126,8 +126,8 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 
 ## Summary of Steps to Work on an Issue and Create a Pull Request
 
-### 1. Create a branch 
-  1.  Open an issue within the right repository (upstream repository) and explain the problem. If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , `git checkout master`, and `git merge upstream/master`.
+### 1. Create a branch
+  1.  Open an issue within the right repository (upstream repository) and explain the problem. If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , `git checkout master`, `git merge upstream/master`, and `git push origin master`.
 
   2.  Use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
 
