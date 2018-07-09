@@ -127,7 +127,7 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 ## Summary of Steps to Work on an Issue and Create a Pull Request
 
 ### 1. Create a branch
-  1.  Open an issue within the right repository (upstream repository) and explain the problem. If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , `git checkout master`, and `git merge upstream/master`, and then `git push origin master`.
+  1.  Open an issue within the right repository (upstream repository) and explain the problem. If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , `git checkout master`, `git merge upstream/master`, and `git push origin master`.
 
   2.  Use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
 
