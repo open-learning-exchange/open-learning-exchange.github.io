@@ -22,7 +22,7 @@
 ---
 
 ### Contact Info
-**Email**: bhargavinadendla@gmail.com  
+**Email**: bhargavinadendla@gmail.com
 **Github**: [Github](https://github.com/BhargaviNadendla)
 
 
