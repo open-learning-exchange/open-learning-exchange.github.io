@@ -12,14 +12,14 @@ I am a software engineering student with a background in Mechanical Engineerinng
 Add me on **LinkedIn** :arrow_right: [LinkedIn](https://www.linkedin.com/in/emiton-alves-4b418672/)
 
 ## Somethings to keep in mind
-> "In the middle of every ~difficulty~ lies **opportunity**". - Albert Einstein
+> "In the middle of every difficulty lies **opportunity**". - Albert Einstein
 
 >"\* ....Whoa how did you get an asterisk on GitHub?" -Elon Musk
 
 ## What I'm working on
-- [ ] Complete OLE training
-- [ ] Make my first real contribution to OLE's software
-- [ ] Soak up as much knowledge as I can
+- Complete OLE training
+- Make my first real contribution to OLE's software
+- Soak up as much knowledge as I can
 
 
 ```javascript
