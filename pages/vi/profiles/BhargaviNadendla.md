@@ -1,5 +1,7 @@
 ## Bhargavi Nadendla
 
+---
+
 ### About Me
 * Masters of Science in Computer Science at the University of Missouri-Kansas City specialising in Software Development
 * Kansas City, MO, (CDT), UTC -5
