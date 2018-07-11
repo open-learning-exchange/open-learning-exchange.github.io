@@ -9,7 +9,7 @@
 ## About Me:
 I am a software engineering student with a background in Mechanical Engineerinng. I was introduced to programming my senior year and became interested in learning on my own. After taking a few courses and teaching myself during my free time, I was able to enroll in a Master's program for CS. In my freetime I am currently working with web technologies like MEAN stack and also building web applicatons using C#.
 
-Add me on **LinkedIn** [LinkedIn](https://www.linkedin.com/in/emiton-alves-4b418672/)
+Add me on [LinkedIn](https://www.linkedin.com/in/emiton-alves-4b418672/)
 
 ## Somethings to keep in mind
 > "In the middle of every difficulty lies **opportunity**". - Albert Einstein
