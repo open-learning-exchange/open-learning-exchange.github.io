@@ -46,6 +46,7 @@
 |[gowiredu](profiles/gowiredu.md)|2018-06-22|
 |[NestorSaavedra](profiles/saavfoxdev.md)|2018-06-21|
 |[rkinback](profiles/rkinback.md)|2018-07-02|
+|[vncentou422](profiles/vncentou422.md)|2018-07-10|
 
 ## Former Interns
 
