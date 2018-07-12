@@ -48,6 +48,7 @@
 |[rkinback](profiles/rkinback.md)|2018-07-02|
 |[vncentou422](profiles/vncentou422.md)|2018-07-10|
 |[leahphuong](profiles/leahphuong.md)|2018-07-10|
+|[Sriharsha Singam](profiles/Sriharsha-Singam.md)|2018-07-10|
 
 ## Former Interns
 
