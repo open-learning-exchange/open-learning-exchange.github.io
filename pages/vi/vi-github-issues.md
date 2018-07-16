@@ -12,35 +12,43 @@
 
 On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the BeLL and in our code.
 
-Note: Issues are not just about adding to the wiki, but can also involve removing repetitive or unnecessary code or content.
+NOTE: Issues are not just about adding to the wiki, but can also involve removing repetitive or unnecessary code or content.
 
-Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
+We encourage you to file as many issues as you can, no matter how big or small. If you notice something, but are not sure how to solve it, file an issue anyway to let others know about it so it can be fixed. Strive to provide as much value as possible with the issues you submit. By doing so, you will better support the community and improve this section for all.
 
-We encourage you to file as many issues as you can, no matter how big or small. If you notice something, but are not sure how to solve it, file an issue anyway to let others know about it. If you do not know how to, let others know about it so it can be fixed. Try to provide as much value with your issues and to the community to improve this section for all. Below, you'll find an example of an issue where I brought up a problem, researched an answer, and then fixed the issue.
+Below, you'll find the workflow where we brought up a problem, researched an answer, and then fixed the issue.
 
 ## Create an Issue
 
 First, you will need to open an issue within the right repository ([upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)) and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures if possible.
 
-![Providing Detail on New Issue](images/vi-new-issue.png)
+![Providing Detail on New Issue](images/vi-new-issue-format.png)
 
-After this, you will then research the possible solutions or ideas on how to address the issue and write a comment with this information, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefully provide input (as Dogi did here) and then you can move ahead with making the proposed changes.
+After you have submitted the new Issue, you will then research the possible solutions, or ideas, on how to address the Issue. Once you've completed your research, then you will add a comment detailing your proposed solution, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefully provide input (as Dogi did here) and then you can move ahead with making the proposed changes.
+
+IMPORTANT: Issues are _not required_ to be approved _before_ a Pull Request is submitted for the respective fix; however, we do suggest that you wait until someone from the OLE confirms/approves the change that your issue addresses BEFORE you begin work on the fix. Check out this example issue, per Dogi, that shows the importance of confirmation: [#1465](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1465).  
+
+**BE WARNED!** If the OLE member(s) does not approve your issue, prior to the creation of the Pull Request, your efforts may be in vain. If the OLE member(s) does not approve the change, the Pull Request will not be merged and the Issue will not be counted towards your "First Steps" progress. Therefore, it is suggested that you wait for the OLE member(s) to approve your Issue submission.
+
+_**SPECIAL NOTE:**_ Aspiring Virtual Interns have a tendency to speed through this process in order to check off their "First Steps" requirements. The purpose of these requirements is to fix an actual problem and improve the "First Steps" as a whole. Take time to review the "First Steps" materials to identify real issues and to research helpful solutions. It is also important to search current/open Issues to see if the problem has already been identified.
 
 ## Create a New Branch
 
-Every time you start to work on an issue you need to create a branch to keep your work on various issues separate from each other. Before you create your branch, sync your repo following the process in the [previous step](vi-github-and-repositories.md). Then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
+Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other. Before you create your branch, sync your repo following the process in Summary of Steps - Sync Your Fork section of the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
-Now when you make changes to files on your local machine, you are actually making changes to files in your new branch. If you switch back to master, the files on your local machine revert to how they were before you made changes, since you are no longer on the new branch created.
-
-Hint: The default branch in your repository is called master. Keeping the master branch clean of any changes is a good practice so if you make any changes you don't want, you may revert back.
+Use `git checkout master` to switch to master branch, then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
 Now you can go and make the proposed changes to your local files.
 
-Note: It's important that you are on the new branch, make sure you are on the correct branch with `git checkout branch-name` before committing. Use `git branch` to make sure you are on the correct branch.
+NOTE: Use `git branch` to see which branch you are in. Your `master` branch is the base working branch. It needs to remain untouched just in case you need to revert some changes back to a working version. Make sure you are on right branch using `git checkout branch-name` while making proposed changes to your local files and while committing.
 
-If you're still confused, that's quite alright. The data flow of GitHub can be quite challenging at first. See this diagram below. For better context, the new branch you just made is inside your "Forked Github IO".
+If you're still confused, that's quite alright. [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) can be quite challenging at first. See this diagram below. For better context, the new branch you just made is inside your "Forked Github IO".
 
 ![GitHub Repo Flowchart](images/vi-repo-flowchart.png)
+
+## Preview Changes Locally
+
+After making modifications to your local files and before making a commit, you would want to preview the changes locally. The following link, [how to preview changes](http://dynalon.github.io/mdwiki/#!faq.md), gives all the informations about how to preview changes from your machine.
 
 ## Create a Commit
 
@@ -60,17 +68,28 @@ For edits to this markdown wiki, we recommend that your commit messages only con
 Here is an example of how you would write your commit message:
 `$ git commit -m "Add commit message style guide and add Rawgit section (fixes #841)"`
 
-NOTE: in your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
+NOTE: In your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
 ## Rawgit
 
-Rawgit is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md`and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request.
+Rawgit is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md` and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request.
 
 For example http://rawgit.com/EmilyLarkin/EmilyLarkin.github.io/master/#!index.md will result with this:
 
 ![Index via RawGit Link](images/vi-rawgit-index.png)
 
-Rawgit makes it easy to see what the page will look like if your branch is merged, so don't forget to include a rawgit link in your next step, the pull request.
+### Rawgit Generator
+
+![RawGit Generator](images/rawgitGenerator.png)
+
+You can also use the Rawgit url generator on <https://rawgit.com>
+1.  Select the branch you were working on from the drop down on the top left
+2.  Navigate to the page your changed in your fork of the github repository  
+3.  Copy the URL in your browser and paste it in the field on <https://rawgit.com>
+4.  Select the Development URL
+5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.
+
+Rawgit makes it easy to see what the page will look like if your branch is merged, so don't forget to include a Rawgit link in your next step, the pull request.
 
 ## Create a Pull Request
 If you login to your own fork of OLE on Github, Github will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Press the green button that says Compare & pull request. In this new page, you can change the title and comments for the PR. Once you are done with filling out these forms, submit the pull request by clicking on the green create pull request button.
@@ -101,13 +120,36 @@ All that remains is posting your pull request in the chat and waiting until one 
 
 ![Delete Merged Branch](images/vi-delete-merged-branch.png)
 
-Note: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md).
+NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md).
 
 This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
+
+## Summary of Steps to Work on an Issue and Create a Pull Request
+
+### 1. Create a branch
+  1.  Open an issue within the right repository (upstream repository) and explain the problem. If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , `git checkout master`, `git merge upstream/master`, and `git push origin master`.
+
+  2.  Use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
+
+### 2. Push the Changes
+  1.  Use the `git status` command to see which files in the working directory have been modified.
+
+  2.  Use the `git add .` to stage all or `git add <file1> <file2> <file3>...` to stage specific modified files and then use the commands `git commit -m "your_commit_message (fixes #issue_no)"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github.
+
+  3.  You can view these changes by going to https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md once you have pushed the changes to your Github
+
+### 3. Create a Pull Request
+  1.  Go to your own fork of OLE on Github https://github.com/YourUsername/YourUsername.github.io and press Compare & pull request.
+
+  2.  Fill out the details for the pull request according to the given structure and also create a checklist for other's understanding.
+
+### 4. Delete the Branch
+  1.  Wait for review and once the pull request is merged, use `git branch -d yourLocalBranchName` to delete the branch.
 
 ## Useful Links
 
 [Mastering Issues](https://guides.github.com/features/issues/) - The official Git Guide on the basics of filing an issue.
 [Helpful links and videos](vi-faq.md#Helpful_Links)
+[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 #### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)

@@ -1,12 +1,12 @@
-# Angular BeLL Reboot
+# Planet
 
 *Note: This project page is a work in progress. Please reach out on the gitter chat if you would like to contribute to this project*
 
-## Objective:
+## Objective
 
-Create a prototype Progressive Web App using Angular & CouchDB with the BeLL Apps functionality
+Create a Progressive Web App using Angular & CouchDB with the BeLL Apps functionality
 
-### Ways to Contribute:
+### Ways to Contribute
 
 1. Working on a component
     Including
@@ -18,8 +18,8 @@ Create a prototype Progressive Web App using Angular & CouchDB with the BeLL App
 
 ## Installation
 
-1. You should have Vagrant installed already, but if not follow the instructions [here](https://github.com/dogi/ole--vagrant-vi) up to **Install a communityBeLL on your OS** to install Vagrant
-2. Clone the [planet repository](https://github.com/ole-vi/planet)
+1. You should have Vagrant installed already, but if not follow the instructions [here](https://github.com/dogi/ole--vagrant-vi) up to **Install a community BeLL on your OS** to install Vagrant
+2. Clone the [`planet` repository](https://github.com/open-learning-exchange/planet)
 3. Run `vagrant up` in the repo directory
 4. After the virtual machine has been installed & a few more seconds to compile the code you can visit the application at `localhost:3000`
 5. To run additional commands, you will need to ssh into the virtual machine with `vagrant ssh` and then `cd /vagrant` to get into the project directory
@@ -29,12 +29,12 @@ Some additional commands:
 
 This project is built with the [Angular CLI](https://cli.angular.io/), and once you are in the working directory in the virtual machine you can use any of the commands available with the CLI.  Most often you'll be using one of the testing commands:
 
-1. `ng test` Will run unit tests which are available at `localhost:9876` after compiling.
-2. `ng e2e` Will run end to end tests which are available at `localhost:49152` after compiling.
+1. `ng test` will run unit tests which are available at `localhost:9876` after compiling.
+2. `ng e2e` will run end to end tests which are available at `localhost:49152` after compiling.
 
 ## Working on a Component
 
-Once you have the app up and running, you can start working on a component! You can find tasks to work on [Waffle.io](https://waffle.io/ole-vi/planet). Feel free to post to the Gitter chat or check out the [Angular docs](https://angular.io/docs) if you need some guidance on Angular or JavaScript.  Here we'll focus on some key points you should be aware of.
+Once you have the app up and running, you can start working on a component! You can find tasks to work on [Waffle.io](https://waffle.io/open-learning-exchange/planet). Feel free to post to the Gitter chat or check out the [Angular docs](https://angular.io/docs) if you need some guidance on Angular or JavaScript.  Here we'll focus on some key points you should be aware of.
 
 ### Keeping Things Organized
 
@@ -70,7 +70,7 @@ If you end up having some component specific styles, make sure to read up on [co
 
 ### Accessing CouchDB
 
-Most components will eventually need to access the database.  If you are unfamiliar with CouchDB, [check out the documentation here](http://docs.couchdb.org/en/2.0.0/).
+Most components will eventually need to access the database.  If you are unfamiliar with CouchDB, [check out the documentation here](http://docs.couchdb.org/en/2.1.1/).
 
 There is a single service for accessing CouchDB in the shared folder that you can import to your component for accessing CouchDB.  It is very basic and flexible, allowing you to create an HTTP request for the CouchDB and returning the response as a JavaScript object.  You can import it with the line:
 
@@ -78,7 +78,7 @@ There is a single service for accessing CouchDB in the shared folder that you ca
 import { CouchService } from '../shared/couchdb.service';
 ```
 
-This service has four public methods: `get`, `post`, `put`, and `delete`.  [The CouchDB docs](http://docs.couchdb.org/en/2.0.0/) are very helpful to let you know which to use, so take a look there if you are unsure.
+This service has four public methods: `get`, `post`, `put`, and `delete`.  [The CouchDB docs](http://docs.couchdb.org/en/2.1.1/) are very helpful to let you know which to use, so take a look there if you are unsure.
 
 Here's a quick rundown of the parameters used in these methods:
 

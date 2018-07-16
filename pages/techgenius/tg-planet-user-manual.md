@@ -8,7 +8,7 @@ OLE’s mission is to ensure learning for all, not only universal basic literacy
 
 ## The Planet Learning System
 
-### What is the OLE Planet Learning System (Planet)?
+### _What is the OLE Planet Learning System (Planet)?_
 
 Personalized Learning And Networked Enabled Teams (Planet) is a multilingual learning system and library with thousands of educational Resources including books, videos, and educational games.  The system also includes software tools for content and student management, student evaluation and monitoring, and Courses creation.
 
@@ -16,7 +16,7 @@ At the core of Planet is a repository of free, open access, and public domain Re
 
 The Planet system exists in the cloud but it can also be configured to run locally without the need for internet connectivity making it a viable solution for remote locations where internet connectivity is unreliable or nonexistent.  Planet facilitates frequent assessments of learners, leaders, and administrators.  It also promotes the evaluation and effectiveness of the learning Resources.  Robust usage feedback metrics make Planet a powerful tool for those overseeing monitoring and evaluation of the education system.
 
-### What are Planet Nations and Communities?
+### _What are Planet Nations and Communities?_
 
 Under the Planet system, there are two types of structures: **Nations** and **Communities**.
 
@@ -64,7 +64,7 @@ In the Planet system, there are three different kinds of users: **Learners**, **
 
 If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities.  In order to see the available manager functionality, click on “_Manager_” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections. 
 
-### How do I navigate the Dashboard?
+### _How do I navigate the Dashboard?_
 
 An example of the Manager Dashboard is shown below. The functionality are defined for each element of the Dashboard.
 
@@ -114,7 +114,7 @@ An example of the Manager Dashboard is shown below. The functionality are define
 
 ## What is the Library?
 
-The library where learning Resources are stored and categorized within the Planet system.  Resources are listed alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
+The library is where learning Resources are stored and categorized within the Planet system.  Resources are alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
 
 ## What is a Resource?
 
@@ -228,11 +228,11 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 ## Courses Overview
 
-### What is a Course?
+### _What is a Course?_
 
 A Course allows Leaders to walk Learners through specific Resources and exercises to learn new skills.  Leaders can create Courses by grouping and ordering Resources and allowing Learners to upload papers or take Quizzes.  
 
-### How do I create a Course?
+### _How do I create a Course?_
 
 To create a Course, log in and start from the Home page.
 - Go to the *“Courses”* tab in the top menu and then select *“Add Course.”*
@@ -322,7 +322,7 @@ Fill out the following form:
 4. You can always return to the Quiz to add questions. 
 **NOTE:** Once you select *“Next Question,”* you cannot go back or save the Quiz until you have filled it out.
  
-### General Guidelines for Steps and Courses
+### _General Guidelines for Steps and Courses_
 
 Below is a list of general guidelines for Steps and Courses.
 
@@ -334,7 +334,7 @@ Below is a list of general guidelines for Steps and Courses.
  
 - If you change your mind and want to create a Quiz instead of a paper or vice versa, you can switch by going to the *“Edit Step”* tab.
  
-### Managing a Course
+### _Managing a Course_
 
 Below are tips for managing a Course.
  
@@ -481,3 +481,21 @@ To view an email, click “Email” and then click “View” to read the email.
 ![Send Email](images/tg-email-compose.png)
 Add the recipients and fill in the email subject. Write your message and click “Send.”
 ![Compose Email](images/tg-email-compose-2.png)
+
+## Software Overview
+
+### _How do I receive a software update for my Community?_
+
+In order to update software and receive Publications,
+
+  1. You must connect your router to the internet via Ethernet cable and log in as a Manager. Most likely, your Manager account will be the following:
+    **Login:** Admin User Name
+    **Password:** Admin Password
+
+  2. After logging in, any updates and/or available Publications will be visible as shown below.
+
+   ![Dashboard Software Update](images/tg-software-overview-update.png)
+
+  3. These two gray buttons in red writing will allow you to update the software and sync Publications. First, click “Update Available (0.12.33)”.
+
+  4. The update will automatically run and may take several minutes depending on your internet connection. While the loading screen is still spinning, remain connected and wait until you get a message notifying you that the software update has been successful.

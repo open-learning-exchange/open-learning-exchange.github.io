@@ -11,3 +11,12 @@ As a means of communication we encourage you to subscribe to the [General Gitter
 ## Crowdin
 
 OLE uses crowdin to manage our software translations. We have found crowdin to be very friendly to the open source community. As well, crowdin offers a number of integration tools that fit our workflow. We are grateful for their support. 
+
+## Start Translating
+
+Below are the links to our Crowdin translation projects:
+
+- [BeLL](https://crowdin.com/project/open-learning-exchange/invite)
+- [Planet](https://crowdin.com/project/ole-planet/invite)
+- [Take Home](https://crowdin.com/project/take-home/invite)
+- [Remote](https://crowdin.com/project/treehousesremote/invite)

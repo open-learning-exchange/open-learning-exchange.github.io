@@ -43,20 +43,26 @@ You will be shown the page below. Make sure you fill it out completely.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
-Next, fill out the configurations. Your name and code must be the same and should match your Github name. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below:
+Next, fill out the configurations. Your name and code must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.**
 
 ![Configurations](images/vi-configuration.png)
 
-After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.
+**Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply copy and paste the image.*
 
-**Note:** *Adding images to Gitter is quite simple. Just drag and drop your screenshot from it's location on your computer to the chat and it will automatically upload.*
-
-Then, click on the **"Register"** button and you will receive a confirmation that your community has been successfully registered (see below).
-
-![Successfully Registered](images/vi-success.png)
-
-Then, post to the Gitter chat the screenshot you took earlier, so an admin can accept your registration request. 
-
-Your registration request will be accepted from the nation side (this may take a day or two depending on when dogi sees it). After this happens, once you are logged in and online, you will see the following message.
+Then, click on the **"Register"** button. Your registration request for your community will be automatically accepted from the nation side. You will see the following message.
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
+
+After clicking on the OK button, you will be automatically logged in.
+
+Then, post to the Gitter chat the screenshot you took earlier.
+
+## Troubleshooting
+
+1. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
+
+2. If you accidentally delete your BeLL admin acccount, creating a new learner account on login page will casue problem in latter steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy` then `vagrant up` in `ole--vagrant-vi` folder.
+
+3. In the case you use the command `vagrant destroy`, your community BeLL will be wiped together with the virtual machine, but  community registration still exist on the nation side. After rebuilding your community BeLL using `vagrant up`, fill out the configurations again with a slightly difference Name and Code (e.g. adding a number or letter to the end of your original GitHub username) so we can still locate your community on the Nation side.
+
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_Installation)

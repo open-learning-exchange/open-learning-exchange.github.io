@@ -18,7 +18,7 @@ It focused on writing great issues for bugs, mistakes, and other problems that m
 
 Then, the project focused on manual tests, and explained how to conduct them and what to expect from them, highlighting pros and cons of such a testing practice. Finally, the project tackled the challenge of introducing automated testing, and envisioned writing Selenium tests in Java.
 
-The project got abandoned since, but the entire history is still available at [Bug Hunt](#!./pages/rbts/rbts-bug-hunt.md).
+The project got abandoned since, but the entire history is still available at [Bug Hunt](https://docs.google.com/document/d/1cLbduhSoH0y6JKxcgoKGXz_BkxEV2P0sv1FtbVQztR0/edit).
 
 ## The Present
 
