@@ -2,19 +2,19 @@
 
 # OLE
 
-The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people.  We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world. 
+The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world. 
 
-OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in in Asia, Africa, the Middle East, and Latin America.
+OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts. Today there are OLE affiliates in in Asia, Africa, the Middle East, and Latin America.
 
 ## The Planet Learning System
 
 ### _What is the OLE Planet Learning System (Planet)?_
 
-Personalized Learning And Networked Enabled Teams (Planet) is a multilingual learning system and library with thousands of educational Resources including books, videos, and educational games.  The system also includes software tools for content and student management, student evaluation and monitoring, and Courses creation.
+Personalized Learning And Networked Enabled Teams (Planet) is a multilingual learning system and library with thousands of educational Resources including books, videos, and educational games. The system also includes software tools for content and student management, student evaluation and monitoring, and Courses creation.
 
-At the core of Planet is a repository of free, open access, and public domain Resources designed to benefit literate and preliterate, young and old, and novice and expert learners of all ages.  Resources of all kinds (literature, health, science, math, etc.), in various languages (English, Somali, Swahili, Arabic, Spanish, etc.), and in various formats (text, audio, video) are continually being added to Planet.
+At the core, Planet is a repository of free, open access, and public domain Resources designed to benefit literate and preliterate, young and old, and novice and expert learners of all ages. Resources of all kinds (literature, health, science, math, etc.), in various languages (English, Somali, Swahili, Arabic, Spanish, etc.), and in various formats (text, audio, video) are continually being added to Planet.
 
-The Planet system exists in the cloud but it can also be configured to run locally without the need for internet connectivity making it a viable solution for remote locations where internet connectivity is unreliable or nonexistent.  Planet facilitates frequent assessments of learners, leaders, and administrators.  It also promotes the evaluation and effectiveness of the learning Resources.  Robust usage feedback metrics make Planet a powerful tool for those overseeing monitoring and evaluation of the education system.
+The Planet system exists in the cloud but it can also be configured to run locally without the need for internet connectivity making it a viable solution for remote locations where internet connectivity is unreliable or nonexistent. Planet facilitates frequent assessments of learners, leaders, and administrators. It also promotes the evaluation and effectiveness of the learning Resources. Robust usage feedback metrics make Planet a powerful tool for those overseeing monitoring and evaluation of the education system.
 
 ### _What are Planet Nations and Communities?_
 
@@ -36,7 +36,7 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
   * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metrics; and
   * A **Community** is not able to connect to other **Communities**.
 
-The **nations** may store thousands of Resources in many formats and languages.  Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**.  This gives a Learner a personalized approach to his or her education.
+The **nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education.
 
 ## How do I Navigate and Use Planet?
 
@@ -50,7 +50,7 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 ![Add New Member](images/tg-planet-navigate-add-member.png)
 
-Note: Each Planet system is unique; universal memberships do not exist.  If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community.  To become a member of another Nation or Community you must register with a new account.
+Note: Each Planet system is unique; universal memberships do not exist. If you become a member of a specific Nation or Community, you do not automatically become a member of any other existing Nations and Community. To become a member of another Nation or Community you must register with a new account.
 
 ### _What are the differences between Learners, Leaders, and Managers?_
 
@@ -60,9 +60,9 @@ In the Planet system, there are three different kinds of users: **Learners**, **
 
 **Leaders** are Learners that have created a Course or have become _Course Leaders_. Leaders have access to all Learner functionality and to additional Course management functionality.
 
-**Managers** have access to Learner, Leader, and additional functionality that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.  
+**Managers** have access to Learner, Leader, and additional functionality that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.
 
-If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities.  In order to see the available manager functionality, click on “_Manager_” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections. 
+If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities. In order to see the available manager functionality, click on “_Manager_” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections. 
 
 ### _How do I navigate the Dashboard?_
 
@@ -74,11 +74,11 @@ An example of the Manager Dashboard is shown below. The functionality are define
 
 2. **e-Readers** functionality is under construction.
 
-3. **Library** allows a Learner to browse the digital Resources.  It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
+3. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
 
 4. **Courses** gives Learners the option to view each Course and to request admission.
 
-5. **Meetups** allows setup for basic meetings.  Meetups are sent to the calendars of other Planet Learners.
+5. **Meetups** allows setup for basic meetings. Meetups are sent to the calendars of other Planet Learners.
 
 6. **Members** provides a list of all Learners in this Planet system. 
 
@@ -114,43 +114,43 @@ An example of the Manager Dashboard is shown below. The functionality are define
 
 ## What is the Library?
 
-The library is where learning Resources are stored and categorized within the Planet system.  Resources are alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view.  Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes.  Both Resources and collections are explained in further depth below.
+The library is where learning Resources are stored and categorized within the Planet system. Resources are alphabetized which allows Learners to select the first letter of their Resource or the page number they wish to view. Additionally, library Resources can be organized into collections which allow Learners to categorize and group Resources by subject or other attributes. Both Resources and collections are explained in further depth below.
 
 ## What is a Resource?
 
-A Planet Resource is material that has been uploaded into the digital library.  There are many types of Resources, not just books.  Planet can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications  (interactive content), and just about any other format.  Resources can be viewed in the library and may vary from Nations to Communities.  Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
+A Planet Resource is material that has been uploaded into the digital library. There are many types of Resources, not just books. Planet can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications (interactive content), and just about any other format. Resources can be viewed in the library and may vary from Nations to Communities. Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
 
 ## What is a Collection?
 
-A collection is a group of Resources based on topic/subject and intended use.  Planet currently follows a the Library of Congress categorization system.  Collections exist as the main category.  Sub-collections allow Nation Managers to group Resources more specifically within a collection.  Collections are alphabetized by topic.
+A collection is a group of Resources based on topic/subject and intended use. Planet currently follows a the Library of Congress categorization system. Collections exist as the main category. Sub-collections allow Nation Managers to group Resources more specifically within a collection. Collections are alphabetized by topic.
 
 # How do I navigate and use the Library?
 
 ## How do I upload a Resource?
 
-1.  Log in as a **Learner**, **Leader**, or **Manager**.
+1. Log in as a **Learner**, **Leader**, or **Manager**.
 
-2.  Start on the main **_Dashboard_** and click on the **_Library_** heading.
+2. Start on the main **_Dashboard_** and click on the **_Library_** heading.
 
-3.  After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
+3. After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
 
 ![Add New Resource](images/tg-resource-new.png)
 
-1.  The **Title** of the Resource goes here. Capitalize all principal words and make sure everything is spelled correctly.  If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”).  Do not start the title with numbers or special characters (!@#$%^&*).  If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new Resource in parentheses. Examples are shown below.
+1. The **Title** of the Resource goes here. Capitalize all principal words and make sure everything is spelled correctly. If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”). Do not start the title with numbers or special characters (!@#$%^&*). If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new Resource in parentheses. Examples are shown below.
 
           a. A Tale of Two Cities
           b. A Tale of Two Cities (Spanish)
           
-2. Type the name of Author(s)/Editor. Authors should be listed as follows:  “FIRST NAME, LAST NAME.” Illustrators, editors, translators, etc., should be identified in this section with their title in parentheses.
+2. Type the name of Author(s)/Editor. Authors should be listed as follows: “FIRST NAME, LAST NAME.” Illustrators, editors, translators, etc., should be identified in this section with their title in parentheses.
 
           a. John Doe
           b. Jane Doe (Translator)
           
-3. **_Publisher/Attribution_** is mandatory for copyright purposes.  Please do not leave this field blank.  Type the name of the organization or publisher (and any websites associated with the Resource, if applicable).  Attribution allows OLE to use the source under Creative Commons or copyright and protects us violating copyright laws. 
+3. **_Publisher/Attribution_** is mandatory for copyright purposes. Please do not leave this field blank. Type the name of the organization or publisher (and any websites associated with the Resource, if applicable). Attribution allows OLE to use the source under Creative Commons or copyright and protects us violating copyright laws. 
 
 4. If available, type the **_Year_** in which the Resource was published. 
 
-5. **_Link to License_** is also mandatory for copyright purposes.  Locate the copyright information for the Resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the Link to License field.  Type “Public Domain” if the Resource is in the public domain.
+5. **_Link to License_** is also mandatory for copyright purposes. Locate the copyright information for the Resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the Link to License field. Type “Public Domain” if the Resource is in the public domain.
 
 6. In the **_Language field_**, choose the language of the Resource. If the Resource is a multilingual document, choose the language that you think is the primary or most applicable language.
 
@@ -158,7 +158,7 @@ A collection is a group of Resources based on topic/subject and intended use.  P
 
 8. Select at least one **_Level_** from the drop down list to assign to your Resource. Levels refer to the reading level required to be able to understand this Resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the Resource. 
 
-9. You may choose a **_Collection_** in which to place your Resource. Collections are more narrow than subjects in their scope.  In many cases, you may find a Collection name that already exists and best fits your Resource. Use the search bar at the top of the drop down list to search for relevant Collections. If the Resource fits into more than one Collection, choose more than one. The “Add New” button next to Collection should be used only if a relevant existing Collection cannot be found. In most cases, Learners will not need to add new Collections. 
+9. You may choose a **_Collection_** in which to place your Resource. Collections are more narrow than subjects in their scope. In many cases, you may find a Collection name that already exists and best fits your Resource. Use the search bar at the top of the drop down list to search for relevant Collections. If the Resource fits into more than one Collection, choose more than one. The “Add New” button next to Collection should be used only if a relevant existing Collection cannot be found. In most cases, Learners will not need to add new Collections. 
 
 10. Choose the **_Media_** for your Resource: Text, Graphic/Pictures, Audio/Music/Book, or Video. If you are unsure, leave this tab on the default Text.
 
@@ -180,7 +180,7 @@ You will be taken to a loading screen while your Resource is uploaded into the L
 
 Note: Once you have finished uploading your Resource, **locate the Resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
 
-We have various types of Resources that either form a Collection or belong to common groups of Resources. These include the African Storybooks, Comic Books, CK-12 Textbooks, TED-Ed videos, Khan Academy Videos, etc.  If you are uploading one of these Resources, please read the specific guides we have created and follow the instructions. This maintains uniformity in Resource details and makes searches easier for Learners.
+We have various types of Resources that either form a Collection or belong to common groups of Resources. These include the African Storybooks, Comic Books, CK-12 Textbooks, TED-Ed videos, Khan Academy Videos, etc. If you are uploading one of these Resources, please read the specific guides we have created and follow the instructions. This maintains uniformity in Resource details and makes searches easier for Learners.
 
 You may need to use a format converter to put your Resource in the correct format before uploading. There are numerous free online converters which you may use. 
 
@@ -203,7 +203,7 @@ Yes. These Resources are covered in an additional manual titled, XXXXX. Please r
 
 ## How do I create and use Collections?
 
-Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library.  **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of Planet.  Collections can only be created or changed by Managers. 
+Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library. **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of Planet. Collections can only be created or changed by Managers. 
 
 1. Log in to the Manager account.
 2. Click “Library” on the top navigation bar and then “Collections”. 
@@ -214,7 +214,7 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 ![Add New Collection](images/tg-collection-add.png)
 
-4. You will then be prompted to fill in the form shown below. Type the Collection name and description. “Nested Under” refers to whether this will be a top level Collection or a sub-Collection.  Sub-Collections are nested under other Collections. If you wish to create a Collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
+4. You will then be prompted to fill in the form shown below. Type the Collection name and description. “Nested Under” refers to whether this will be a top level Collection or a sub-Collection. Sub-Collections are nested under other Collections. If you wish to create a Collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
 
 ![Save Collection](images/tg-collection-save.png)
 
@@ -230,7 +230,7 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 ### _What is a Course?_
 
-A Course allows Leaders to walk Learners through specific Resources and exercises to learn new skills.  Leaders can create Courses by grouping and ordering Resources and allowing Learners to upload papers or take Quizzes.  
+A Course allows Leaders to walk Learners through specific Resources and exercises to learn new skills. Leaders can create Courses by grouping and ordering Resources and allowing Learners to upload papers or take Quizzes.  
 
 ### _How do I create a Course?_
 
@@ -243,35 +243,35 @@ Fill out the following form:
 
 ![](images/tg-course-add-details.png)
 
-1. **Course Title.**  The name or title of the Course.
+1. **Course Title.** The name or title of the Course.
 
-2. **Language of Instruction.**  The language of Course materials. Please use the name of the language in that language. For example, العربية .
+2. **Language of Instruction.** The language of Course materials. Please use the name of the language in that language. For example, العربية .
  
-3. **Member Limit.**  The number of Learners that are allowed to enter the Course.
+3. **Member Limit.** The number of Learners that are allowed to enter the Course.
 
-4. **Course Leader.**  Choose a single Leader or multiple Leaders to manage the Course
+4. **Course Leader.** Choose a single Leader or multiple Leaders to manage the Course
 
-5. **Description.**  Provide a course description.
+5. **Description.** Provide a course description.
 
-6. **Method.**  Describe the way you envision the Course being used (e.g., school Course, enrichment Course, training manual, independent learning, special programs, etc.)
+6. **Method.** Describe the way you envision the Course being used (e.g., school Course, enrichment Course, training manual, independent learning, special programs, etc.)
 
-7. **Grade Level.**  Suggested grade level of the Learners
+7. **Grade Level.** Suggested grade level of the Learners
 
-8. **Subject Level.**  Subject level - beginner, intermediate, or advanced. 
+8. **Subject Level.** Subject level - beginner, intermediate, or advanced. 
 
-9. **Start Date.**  Start date of the Course (only if applicable)
+9. **Start Date.** Start date of the Course (only if applicable)
 
-10. **End Date.**  End date of the Course (only if applicable)
+10. **End Date.** End date of the Course (only if applicable)
 
-11. **Frequency.**  Frequency of Course meeting, either Daily or Weekly (only if applicable)
+11. **Frequency.** Frequency of Course meeting, either Daily or Weekly (only if applicable)
 
-12.	**Start Time.**  Start time of the Course (only if applicable)
+12.	**Start Time.** Start time of the Course (only if applicable)
 
-13.	**End Time.**  End time of the Course (only if applicable)
+13.	**End Time.** End time of the Course (only if applicable)
 
-14.	**Location.**  Physical location of Course (only if applicable)
+14.	**Location.** Physical location of Course (only if applicable)
 
-15.	**Foreground/Background Color.**  Colors shown to Learners on their Dashboard when they join the Course 
+15.	**Foreground/Background Color.** Colors shown to Learners on their Dashboard when they join the Course 
 
 - Scroll down to the bottom of the screen and select *“Add Step”* to create the first lesson of the Course.
   
@@ -279,17 +279,17 @@ Fill out the following form:
 
 ![Add/Save Course Step Details](images/tg-couirse-add-step-save.png)
 
-1. **Title:**  Name of the Step
+1. **Title:** Name of the Step
 
-2. **Step Method.**  Describe the way you envision the Step being used
+2. **Step Method.** Describe the way you envision the Step being used
 
-3. **Description.**  Describe the Step and the material that will be covered
+3. **Description.** Describe the Step and the material that will be covered
 
-4. **Step Goals.**  List the goals of accomplishing and completing the Step
+4. **Step Goals.** List the goals of accomplishing and completing the Step
 
-5. **Outcomes.**  Please select either Paper, Quiz, or both Paper and Quiz (by selecting both) to complete the Step
+5. **Outcomes.** Please select either Paper, Quiz, or both Paper and Quiz (by selecting both) to complete the Step
 
-6. **Passing Percentage.**  Select the percentage required on the Paper or Quiz to pass the Step
+6. **Passing Percentage.** Select the percentage required on the Paper or Quiz to pass the Step
 
 - By selecting *“View Details”* of a specific Course, you can then see the screen below and modify the Course. Select *“Add Resource”* to search through the Library for Resources to include in the Step. You can also create a Quiz from this section by selecting *“Create Quiz."*
   
@@ -299,7 +299,7 @@ Fill out the following form:
   
 - Follow the instructions below to add Resources to your Course.
   
-1. Perform a keyword search to search for specific Resources.  To refine/broaden your search, filter by subject, Collections, level, medium, or rating.
+1. Perform a keyword search to search for specific Resources. To refine/broaden your search, filter by subject, Collections, level, medium, or rating.
 
 2. Check individual or all Resources that come up in the search results.
 
@@ -312,7 +312,7 @@ Fill out the following form:
   
 ![Save Quiz](images/tg-course-create-quiz.png)
  
-1. You can create as many or as few questions as you want for each Quiz.  However, you must give 5 choices (Options A, B, C, D,/ and E) for each question. You can make True or False questions by making Option A = True, Option B = False, and inserting a “-” to fill the other answer choices. Select *“Add Question”* in order to add the question to your Quiz. 
+1. You can create as many or as few questions as you want for each Quiz. However, you must give 5 choices (Options A, B, C, D,/ and E) for each question. You can make True or False questions by making Option A = True, Option B = False, and inserting a “-” to fill the other answer choices. Select *“Add Question”* in order to add the question to your Quiz. 
 **NOTE:** If you do not select *“Add Question,”* the Quiz question will not be automatically added. 
  
 2. Once your Quiz is complete, click *“Save Quiz.”*
@@ -432,7 +432,7 @@ Feedback allows Learners to provide feedback on the currently open page. Feedbac
 
 ### _How do I provide Feedback?_
 
-Learners can give feedback for any page or Resource at any time by click on “Feedback” and filling out the information in the form shown below.  When finished, click “Submit” to send feedback to OLE.
+Learners can give feedback for any page or Resource at any time by click on “Feedback” and filling out the information in the form shown below. When finished, click “Submit” to send feedback to OLE.
 
 ![Resource Feedback](images/tg-resource-feedback.png)
 
@@ -440,7 +440,7 @@ Learners can give feedback for any page or Resource at any time by click on “F
 
 ### _How do I change the Language?_
 
-Learners can change the language of the Planet system at any time by going to the Home page and selecting the language pull down menu  from in the top right corner.
+Learners can change the language of the Planet system at any time by going to the Home page and selecting the language pull down menu from in the top right corner.
 
 ![Select Language](images/tg-language-select.png)
 
