@@ -39,7 +39,7 @@ As you can see on the back of the router in the image below, there are a number 
 
 ![RJ45 Ethernet Cable](images/tg-quickstart-rpi-rj45.png)
 
-*  If your RPi and router connections look like the picture below then should be connected properly to your router. Congratulations!
+*  If your RPi and router connections look like the picture below, then it should be properly connected to your router. Congratulations!
 
 ![RPi + Router](images/tg-quickstart-rpi-router.png)
 
