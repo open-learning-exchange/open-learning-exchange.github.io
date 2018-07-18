@@ -23,7 +23,7 @@ Connect these two devices (router and RPi) via two cables - a micro-USB to USB (
 ![USB A to Micro-B Cable](images/tg-quickstart-cable-usb.png) ![RJ45 Cable](images/tg-quickstart-cable-rj45.png)
 
 
-As you can see on the back of the router in the image below, there are a number of available ports and different uses for these port
+As you can see on the back of the router in the image below, there are a number of available ports with different uses for each port.
 
 ![Router Rear-View](images/tg-quickstart-router-rear.png)
  
