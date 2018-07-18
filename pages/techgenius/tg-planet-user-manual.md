@@ -4,7 +4,8 @@
 
 The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world. 
 
-OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts. Today there are OLE affiliates in in Asia, Africa, the Middle East, and Latin America.
+
+OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
 
 ## The Planet Learning System
 
@@ -30,7 +31,7 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
   * Different **Nations** cannot connect to each other.
 
 * **Communities**
-  * A **Community** is a local installations of the Planet system;
+  * A **Community** is a local installation of the Planet system;
   * A **Community** does not require an internet to access;
   * Users connect to a **Community** via a router through a locally configured _intranet_ using either a device with a web browser (tablet, computer, etc.);
   * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metrics; and
@@ -66,7 +67,7 @@ If you are currently using this manual, then you are most likely a manager who i
 
 ### _How do I navigate the Dashboard?_
 
-An example of the Manager Dashboard is shown below. The functionality are defined for each element of the Dashboard.
+An example of the Manager Dashboard is shown below. The functionality is defined for each element of the Dashboard.
 
 ![Planet User Dashboard](images/tg-dashboard.png)
 
@@ -118,7 +119,10 @@ The library is where learning Resources are stored and categorized within the Pl
 
 ## What is a Resource?
 
-A Planet Resource is material that has been uploaded into the digital library. There are many types of Resources, not just books. Planet can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications (interactive content), and just about any other format. Resources can be viewed in the library and may vary from Nations to Communities. Resources may also stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
+
+A Planet Resource is material that has been uploaded into the digital library.  There are many types of Resources, not just books.  Planet can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications  (interactive content), and just about any other format.  Resources can be viewed in the library and may vary from Nations to Communities.  Resources may also be stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
+
+
 
 ## What is a Collection?
 
@@ -146,7 +150,8 @@ A collection is a group of Resources based on topic/subject and intended use. Pl
           a. John Doe
           b. Jane Doe (Translator)
           
-3. **_Publisher/Attribution_** is mandatory for copyright purposes. Please do not leave this field blank. Type the name of the organization or publisher (and any websites associated with the Resource, if applicable). Attribution allows OLE to use the source under Creative Commons or copyright and protects us violating copyright laws. 
+
+3. **_Publisher/Attribution_** is mandatory for copyright purposes.  Please do not leave this field blank.  Type the name of the organization or publisher (and any websites associated with the Resource, if applicable).  Attribution allows OLE to use the source under Creative Commons or copyright and protects us from violating copyright laws.
 
 4. If available, type the **_Year_** in which the Resource was published. 
 
