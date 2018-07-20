@@ -49,6 +49,7 @@
 |[vncentou422](profiles/vncentou422.md)|2018-07-10|
 |[leahphuong](profiles/leahphuong.md)|2018-07-10|
 |[Sriharsha Singam](profiles/Sriharsha-Singam.md)|2018-07-10|
+|[Bhargavi Nadendla](profiles/BhargaviNadendla.md)|2018-07-18|
 
 ## Former Interns
 
