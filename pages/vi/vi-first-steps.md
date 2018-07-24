@@ -32,8 +32,10 @@ There is no official deadline to complete these steps, but most candidates who a
 
   ![Watch Screen Shot](images/vi-watch.png)
   ![Follow Screen Shot](images/vi-follow.png)
-<!-- TODO: it's the mix of planet and bell link below for now, should update after First steps fully move to planet. -->
+
 3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. You can start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial). See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what BeLL/Planet do.
+
+**NOTE**: As we are transitioning from BeLL to Planet, the screenshots in the Planet User Manual may still be from BeLL. The concepts remain the same, though the UI will look different.
 
 ## Step 1 - BeLL and Vagrant
 
