@@ -8,7 +8,7 @@ Now, take a look at [README](https://github.com/open-learning-exchange/planet/tr
 
 ## Docker
 
-Please read about [Docker concept](https://docs.docker.com/get-started/#docker-concepts) and [Docker overview](https://docs.docker.com/engine/docker-overview/) to get a sense of what Docker is.
+Please read about [Docker concepts](https://docs.docker.com/get-started/#docker-concepts) and [Docker overview](https://docs.docker.com/engine/docker-overview/) to get a sense of what Docker is.
 
 A few common Docker CLI commands you might need for working with `planet` are:
 

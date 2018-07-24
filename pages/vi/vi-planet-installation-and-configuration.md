@@ -135,7 +135,7 @@ Go to your community `planet` at <http://127.0.0.1>. You will be asked to:
 
 - Create an admin account
 - Fill out configuration
-  - To cerate your `planet` community and connect to the Virtual Intern Nation:
+  - To create your `planet` community and connect to the Virtual Intern Nation:
     - Select `Community` from `Select Nation/Community`drop-down
     - Select `vi` from `Nation(s)` drop-down
     - Use your GitHub username as `Name` so we can locate you on Virtual Intern nation. (`Name` must be unique on the nation side, if you have configured `planet` using your GitHub username before, please add a letter or digits to the end of your original username.)
