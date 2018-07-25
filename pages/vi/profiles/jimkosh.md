@@ -5,9 +5,9 @@
 ---
 
 ### About Me
-Hey, nice to meet you!  You can call me Joshua or Kangsan, either is cool with me.  
-I aspire broadly to work in software development while giving a voice to the marginalized.  
-In my free time I enjoy playing basketball, listening to Hip-Hop and cooking/eating.
+> Hey, nice to meet you!  You can call me Joshua or Kangsan, either is cool with me.  
+> I aspire broadly to work in software development while giving a voice to the marginalized.  
+> In my free time I enjoy playing basketball, listening to Hip-Hop and cooking/eating.
 
 | Languages I Like | My Plugs | Other Information |
 |:-:|:-:|:-:|
