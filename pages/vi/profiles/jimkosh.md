@@ -1,6 +1,6 @@
 # Joshua Kangsan Kim
 
-<img src="https://odis.homeaway.com/odis/destination/2b4108ba-cbdb-4505-8950-57b997042ef9.hw1.jpg"/>
+![losAngeles](https://odis.homeaway.com/odis/destination/2b4108ba-cbdb-4505-8950-57b997042ef9.hw1.jpg)
 
 ---
 
