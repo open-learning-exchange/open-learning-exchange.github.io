@@ -13,7 +13,7 @@
 |:-:|:-:|:-:|
 | Python |[Linked-In](https://www.linkedin.com/in/kimkangsan/) |  Currently In: _P.S.T._ |
 | Java | [Git-Hub](https://github.com/jimkosh) | Operating System: _macOS High Sierra_ |
-| Javascript| [SoundCloud](https://soundcloud.com/kangsanoise) | Position: _Virtual Intern Candidate_ |
+| Javascript| [SoundCloud](https://soundcloud.com/kangsanoise) | Position: _Virtual Intern_ |
 
 ### Education 
 * __B.A. Mathematics__  
