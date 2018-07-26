@@ -1,4 +1,4 @@
-# BeLL-Apps: Communities and Nations
+# BeLL-Apps Tutorial
 
 ## Objectives
 
@@ -75,30 +75,12 @@ Take the course, and the last question will ask you to specify any problems or i
 
 If the course "Virtual Interns" is not there, check dashboard to see if your publications are updated and synced. Otherwise please message us and "@" an admin in the Gitter chat so we can send you the course manually.
 
-## Introduction to Planet
+## Next Section **→**
 
-As we stated earlier in the first steps, we are currently rewriting BeLL using Angular. The repository is called [planet](https://github.com/ole-vi/planet). Head over to the [Planet installation guide](#!pages/robots/rbts-angular.md#Installation) to quickly get Planet up and running.
-
-- Go to Planet at <http://localhost:3000>.
-- You will be asked to
-    - Create an admin account
-    - Fill out configuration
-      - To create your Planet community and connect to the Virtual Intern Nation:
-        - Select `Community` from `Select Nation/Community`drop-down
-        - Select `vi` from `Nation(s)` drop-down
-        - Use your GitHub username as `Name`
-        - Use upper case of your GitHub username as `Code` (so we can easily identify your community in Virtual Intern Nation)
-    - Fill out contact details
-    - Click `Submit` and let us know in the Gitter chat so we can accept your community registration on VI Nation.
-
-![Planet Community Configuration](images/vi-planet-configuration.png)
-
-After logging in, please explore around and post a screenshot of your Planet to the Gitter chat.
-
-![Planet UI Screenshot](images/vi-planet-ui-screenshot.png)
+Now you have played around with BeLL-Apps, head over to [**`Planet` Tutorial**](vi-planet-tutorial.md) for an introduction to `planet`.
 
 ## Useful Links
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial)
+#### Return to [First Steps](vi-first-steps.md#Step_4_-_BeLL-Apps_and_Planet_Tutorial)

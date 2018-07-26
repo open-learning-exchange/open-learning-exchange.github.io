@@ -1,4 +1,4 @@
-# Configurations
+# BeLL Configurations
 
 ## Objectives
 
@@ -65,4 +65,8 @@ Then, post to the Gitter chat the screenshot you took earlier.
 
 3. In the case you use the command `vagrant destroy`, your community BeLL will be wiped together with the virtual machine, but  community registration still exist on the nation side. After rebuilding your community BeLL using `vagrant up`, fill out the configurations again with a slightly difference Name and Code (e.g. adding a number or letter to the end of your original GitHub username) so we can still locate your community on the Nation side.
 
-#### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_Installation)
+## Next Section **→**
+
+Now you have configured your community BeLL, head over to [Vagrant Tutorial](vi-vagrant.md) to learn about how to interact with Vagrant through the command-line interface. You should be familiar with this since you will need to use it to control virtual machines during your internship.
+
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_and_Vagrant)

@@ -12,11 +12,11 @@ Once accepted, you and your team will work on an assignment, and we’ll switch 
 
 # The Steps
 
-Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange is no different. In the following series of steps, you will learn about the GitHub team work-flow, including git, forking, pull requests, and repository issues. You will also be introduced to Markdown’s rich text formatting and OLE’s Basic e-Learning Library (BeLL), the digital library that hosts the learning materials.
+Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Vagrant, Docker, Git, GitHub, GitHub issues, GitHub pull requests, etc. You will also be introduced to OLE’s digital library that hosts the learning materials – Basic e-Learning Library (BeLL) and its next iteration – Planet.
 
-Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice here are very important for both this internship and a future software development career.
+Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the BeLL and Planet, using Vagrant and Docker, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice here are very important for both this internship and a future software development career.
 
-The MDwiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step. We also created a [FAQ page](vi-faq.md) where you can find the answers to some commonly asked questions. This page has even more useful links and video tutorials that will help you become familiar with the tools/languages we use. For anything that is not on the FAQ page, Google and Stack Exchange are your friends :)
+The MDwiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step. We also created a [FAQ page](vi-faq.md) where you can find the answers to some commonly asked questions. This page has even more [useful links and video tutorials](https://open-learning-exchange.github.io/#!./pages/vi/vi-faq.md#Helpful_Links) that will help you become familiar with the tools/languages we use. For anything that is not on the FAQ page, Google and Stack Exchange are your friends :)
 
 **We also want you to keep us updated a relatively good amount in the Gitter chat as you complete these steps. We will ask you to send us messages, links, and screenshots along the First Steps, and we will use this to track your progress, so please do not forget to do so.** Check our [Gitter chat](vi-chat.md) page for more information about how to best communicate in Gitter.
 
@@ -26,27 +26,39 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 0 - Introductory Steps
 
-1. Send us your resume again (along with a short description of yourself and what you would like to be called) to [vi+resume@ole.org](mailto:vi+resume@ole.org).
+1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
 
-2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leomaxi) and [Dogi](https://github.com/dogi) on GitHub. In GitHub, we `Watch` organization repositories and `Follow` individuals. Look for the `Watch` button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing.
+2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange's github.io repo](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leomaxi) and [Dogi](https://github.com/dogi) on GitHub. In GitHub, we "Watch" organization repositories and "Follow" individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing. (Click on the image to enlarge.)
 
   ![Watch Screen Shot](images/vi-watch.png)
-
   ![Follow Screen Shot](images/vi-follow.png)
 
-3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/open-learning-exchange/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate 100% of the words. You can start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial). See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what BeLL Apps do.
+3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. You can start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial). See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what BeLL/Planet do.
 
-## Step 1 - BeLL Installation
+**NOTE**: As we are transitioning from BeLL to Planet, the screenshots in the Planet User Manual may still be from BeLL. The concepts remain the same, though the UI will look different.
 
-The BeLL – Basic e-Learning Library is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. We are currently rewriting BeLL using Angular.
+## Step 1 - BeLL and Vagrant
 
-Please go to [BeLL Installation](#!./pages/vi/vi-bell-installation.md) for instructions on how to set up your own digital library.
+There are 3 sections in this step:
 
-Once you have finished installing BeLL, go to the [Configurations Guide](vi-configurations.md) to configure your Community BeLL.
+1. [BeLL Installation](#!./pages/vi/vi-bell-installation.md)
+  The **BeLL** (Basic e-Learning Library) is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this section, you will learn about how to set up your own Community BeLL.
 
-## Step 2 - Vagrant Tutorial
+1. [BeLL Configurations](vi-configurations.md)
+  In this section, you will learn about how to configure your Community BeLL.
 
-Review [Vagrant Instructions](vi-vagrant.md) on how to interact with Vagrant through the command-line interface. You should be familiar with this since you will need to use it to control virtual machines during your internship.
+1. [Vagrant Tutorial](vi-vagrant.md)
+  **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this section, you will learn about how to interact with Vagrant through the command-line interface.
+
+## Step 2 - Planet and Docker
+
+There are 2 sections in this step:
+
+1. [Planet Installation and Configuration](#!./pages/vi/vi-planet-installation-and-configuration.md)
+  We are currently rewriting BeLL, the project is called **Planet**. The objective is to create a Progressive Web App using Angular & CouchDB with the BeLL Apps functionality. In this section, you will learn about how to install and configure your own community Planet.
+
+1. [Docker Tutorial](vi-docker-tutorial.md)
+  **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface.
 
 ## Step 3 - Markdown and Fork Tutorial
 
@@ -55,9 +67,12 @@ Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown
 * Once you complete the Step 3 you will have:
     * 1 Pull request made
 
-## Step 4 - BeLL-Apps Tutorial
+## Step 4 - BeLL-Apps and Planet Tutorial
 
-Follow the instructions under the [BeLL-Apps tab](vi-bellapps.md).
+There are 2 sections in this step:
+
+- [BeLL-Apps Tutorial](vi-bellapps.md)
+- [Planet Tutorial](vi-planet-tutorial.md)
 
 ## Step 5 - Keeping Fork Updated
 
