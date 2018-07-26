@@ -58,6 +58,7 @@
   * [**Planet (Angular)**](pages/robots/rbts-angular.md)
   * [**Raspberry Pi (Linux)**](pages/robots/rbts-raspberry-pi.md)
   * [**Takeout (Android)**](pages/robots/rbts-takeout.md)
+  * [**Docker**](pages/robots/rbts-docker.md)
   - - - -
   * [Simple Dev Install](pages/robots/rbts-simple-install.md)
   * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)

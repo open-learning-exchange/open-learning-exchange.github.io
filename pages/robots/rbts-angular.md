@@ -109,4 +109,9 @@ Here are some links to some free courses which will help you learn more about Pr
 
 ## SSL
 
-Refer to [open-learning-exchange/planet issue #649](https://github.com/open-learning-exchange/planet/issues/649)
+WIP
+
+## Deployment with Docker
+
+We are using Docker container for both our nation and community (in field) deployment. We also put effort into containerizing (Dockerizing) a few other educational applications that can run on Raspberry Pi to increase usefulness of our platform. We provide Docker container both for development and deployment. A full documentation about docker can be accessed in [Angular and Docker love story](pages/robots/rbts-docker.md).
+
