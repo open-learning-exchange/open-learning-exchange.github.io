@@ -32,7 +32,6 @@
 |[Jackbui96](profiles/Jackbui96.md)|2018-02-02|
 |[NickBratt](profiles/NickBratt.md)|2018-02-12|
 |[ArashDai](profiles/ArashDai.md)|2018-02-14|
-|[SahilPh](profiles/sahilph.md)|2018-03-09|
 |[Maniblitz](profiles/Maniblitz.md)|2018-04-19|
 |[aakarnik](profiles/aakarnik.md)|2018-04-19|
 |[rhuturajm](profiles/rhuturajm.md)|2018-04-20|
@@ -41,16 +40,16 @@
 |[jiajunc](profiles/jiajunc.md)|2018-05-24|
 |[AkshayUNCC](profiles/akshayuncc.md)|2018-05-24|
 |[onlyserenity](profiles/onlyserenity.md)|2018-05-25|
-|[Sajna Kadalikat](profiles/sjkadali.md)|2018-05-25|
+|[sjkadali](profiles/sjkadali.md)|2018-05-25|
 |[VaishnaviYandapalli](profiles/yyvaishnavi.md)|2018-05-25|
 |[gowiredu](profiles/gowiredu.md)|2018-06-22|
 |[NestorSaavedra](profiles/saavfoxdev.md)|2018-06-21|
 |[rkinback](profiles/rkinback.md)|2018-07-02|
 |[vncentou422](profiles/vncentou422.md)|2018-07-10|
 |[leahphuong](profiles/leahphuong.md)|2018-07-10|
-|[Sriharsha Singam](profiles/Sriharsha-Singam.md)|2018-07-10|
-|[Bhargavi Nadendla](profiles/BhargaviNadendla.md)|2018-07-18|
-|[Emiton Alves](profiles/Emiton.md)|2018-07-21|
+|[Sriharsha-Singam](profiles/Sriharsha-Singam.md)|2018-07-10|
+|[BhargaviNadendla](profiles/BhargaviNadendla.md)|2018-07-18|
+|[Emiton](profiles/Emiton.md)|2018-07-21|
 
 ## Former Interns
 

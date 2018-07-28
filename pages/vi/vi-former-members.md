@@ -8,6 +8,7 @@ To view the list of current members, go to [active members page](vi-team.md).
 
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
+|[SahilPh](profiles/sahilph.md)| 2018-03-09 | 2018-07-27 |
 |[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 | 2017-03-28 |
 |[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 | 2017-08-31 |
 |[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 | 2018-01-31 |
