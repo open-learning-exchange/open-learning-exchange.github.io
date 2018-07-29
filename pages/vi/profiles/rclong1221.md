@@ -15,7 +15,7 @@ For fun, I've mostly been exploring social groups, such as anime, gaming, and sp
   <li>jQuery</li>
   <li>MongoDB</li>
   <li>React</li>
-  <li>SQL (PSQL, MySQL</li>
+  <li>SQL (PSQL, MySQL)</li>
   <li>Qlik Sense</li>
 </ul>
   
