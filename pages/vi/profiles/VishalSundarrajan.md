@@ -1,6 +1,6 @@
 # Vishal Sundarrajan
 
-Location        : Lowell, MA 01854, USA (:us:)
+Location        : Lowell, MA 01854, USA 
 
 Time Zone       : Eastern Standard Time (EST)     
 
@@ -25,12 +25,12 @@ designs from scratch. I code in multiple languages yet try hard to maintain the 
 
 ## What are my hobbies?
 
-1. If I have enough time and food, I play chess all day.     
+i. If I have enough time and food, I play chess all day.     
 
-    i. Check out my elo [here](https://www.chess.com/member/vishalicious) and send me a game request if you think you are good.
+    - Check out my elo [here](https://www.chess.com/member/vishalicious) and send me a game request if you think you are good.
     
 
-2. I like to think/write one unique mystery/suspense story that was never before.
+ii. I like to think/write one unique mystery/suspense story that was never before.
 
 ## How do you want to connect to me?
 
