@@ -1,10 +1,10 @@
 # Vishal Sundarrajan
 
-:round_pushpin: : Lowell, MA 01854, USA (:us:)
+Location        : Lowell, MA 01854, USA (:us:)
 
-:alarm_clock:   : Eastern Standard Time (EST)     
+Time Zone       : Eastern Standard Time (EST)     
 
-:computer:      : macOS High Sierra (Version: 10.13.6) 
+OS              : macOS High Sierra (Version: 10.13.6) 
 *************
 
 ## Who am I ?
@@ -27,7 +27,7 @@ designs from scratch. I code in multiple languages yet try hard to maintain the 
 
 1. If I have enough time and food, I play chess all day.     
 
-    - Check out my elo [here](https://www.chess.com/member/vishalicious) and send me a game request if you think you are good. :fearful:
+    - Check out my elo [here](https://www.chess.com/member/vishalicious) and send me a game request if you think you are good.
     
 
 2. I like to think/write one unique mystery/suspense story that was never before.
