@@ -1,5 +1,8 @@
 # Andrew Kaiser
 
+![iceland glaciers photo](https://farm8.staticflickr.com/7083/26781928475_7078d3af66_k_d.jpg)
+glaciers in iceland!
+
 ```html
 <head>
   <meta name="location"         content="Cambridge, MA">
