@@ -26,9 +26,8 @@ designs from scratch. I code in multiple languages yet try hard to maintain the 
 ## What are my hobbies?
 
 i. If I have enough time and food, I play chess all day.     
-
-    + Check out my elo [here](https://www.chess.com/member/vishalicious) and send me a game request if you think you are good.
-    
+   
+   + Checkout my elo [here](https://www.chess.com/member/vishalicious) and join me a game.
 
 ii. I like to think/write one unique mystery/suspense story that was never before.
 
