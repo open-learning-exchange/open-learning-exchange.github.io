@@ -27,7 +27,7 @@ designs from scratch. I code in multiple languages yet try hard to maintain the 
 
 i. If I have enough time and food, I play chess all day.     
 
-    - Check out my elo [here](https://www.chess.com/member/vishalicious) and send me a game request if you think you are good.
+    + Check out my elo [here](https://www.chess.com/member/vishalicious) and send me a game request if you think you are good.
     
 
 ii. I like to think/write one unique mystery/suspense story that was never before.
