@@ -9,7 +9,7 @@
 
 ### Personal Background:
 
-#### My name is David Nhem, and I'm a recent CS graduate studied at University of Bridgeport. I used to live in New york and now I just move to San Diego for career opportunity.
+#### My name is David Nhem, and I'm a recent CS graduate studied at University of Bridgeport. I used to live in New York and now I just move to San Diego for career opportunity.
 #### My favorite hobbies include listening to music, playing video games, watching preferred TV shows or movies, and visiting national parks. My favorite programming language is *Python*. My least favorite programming language is *C++*. 
 
 ### Personal Profile Links:
