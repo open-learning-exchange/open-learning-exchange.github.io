@@ -1,10 +1,10 @@
 # Vishal Sundarrajan
 
-Location        : Lowell, MA 01854, USA 
+📍 : Lowell, MA 01854, USA 🇺🇸
 
-Time Zone       : Eastern Standard Time (EST)     
+⏰ : Eastern Standard Time (EST)     
 
-OS              : macOS High Sierra (Version: 10.13.6) 
+💻 : macOS High Sierra (Version: 10.13.6) 
 *************
 
 ## Who am I ?
