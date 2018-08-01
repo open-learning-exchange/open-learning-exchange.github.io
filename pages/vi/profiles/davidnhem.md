@@ -10,7 +10,7 @@
 ### 1. Personal Background:
 
 #### My name is David Nhem, and I'm a recent CS graduate studied at University of Bridgeport. I used to live in New York and now I just move to San Diego for career opportunity.
-#### My favorite hobbies include listening to music, playing video games, watching preferred TV shows or movies, and visiting national parks. My favorite programming language is *Python*. My least favorite programming language is *C++*. 
+#### My favorite hobbies include listening to music:musical_note:, playing video games:video_game:, watching preferred TV shows:tv: or movies:movie_camera:, and visiting national parks:evergreen_tree:. My favorite programming language is *Python*. My least favorite programming language is *C++*. 
 
 ### 2. Technical Skills:
    * __2.1 Programming Languages:__
