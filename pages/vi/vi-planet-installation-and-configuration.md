@@ -105,7 +105,7 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 
 1. Go to your OLE project folder
 
-1. Clone the `planet` repository: `git clone https://github.com/open-learning-exchange/docker.git`
+1. Clone the `planet` repository: `git clone https://github.com/open-learning-exchange/planet.git`
 
 1. Go to 'planet/docker' folder: `cd planet/docker`
 
