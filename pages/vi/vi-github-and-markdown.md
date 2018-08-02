@@ -29,6 +29,7 @@ A Markdown cheat sheet that might help you create your own Markdown page later:
 **NOTE**:
 • **If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.** For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links).
 • Markdown != HTML
+• If you like to use emoji in your profile, copy the actual emoji directly instead of git markdown markup code or HTML unicode (Use '🐱' instead of ':emojicode:'). You can use this [link](https://emojipedia.org/) to copy emoji.
 
 ## Start Here
 
