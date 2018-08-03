@@ -20,7 +20,7 @@ In the steps outlined below we will build a community that is attached to the Ma
 * Use Vagrant command line tools to start the new virtual machine; and
 * Configure the new local Community so that it is connected with the Madagascar Nation.
 
-## Step 3 - Vagrant
+## Step 3 - [Vagrant](https://www.vagrantup.com "Vagrant Website")
 
 ### How to Install a Community on a Local Laptop or PC
 
