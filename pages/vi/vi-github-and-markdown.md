@@ -130,6 +130,9 @@ Finally, click "Create pull request" button and post the link to your github.io 
 
 > @/all I'm on step 3 - GitHub and Markdown, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
 
+Remember, it can take a while for `https://YourUserName.github.io` to be up and running, so don't worry if you see a **404** when you access the link!
+
+
 Someone from our team will review the changes and notify you on gitter. Often there will be some feedback from the reviewer for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will be automatically updated in the pull request. Once you get 3 approving reviews, we will merge your Markdown profile with the main repository.
 
 After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/vi/profiles/<YourUserName>.md`. Let us know in the [gitter.im chat](https://gitter.im/open-learning-exchange/chat) after you complete this step.
