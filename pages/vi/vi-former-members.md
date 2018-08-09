@@ -23,7 +23,7 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 | 2017-08-22 |
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 | 2017-11-07 |
 |[thesiege208](profiles/thesiege208.md)| 2017-10-16 | 2018-01-03 |
-|[mappuji](profiles/mappuji.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
+|[empeje](profiles/empeje.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
 |[𝖂𝖆𝖗𝖞𝖍𝖊𝖗𝖒𝖎𝖙](profiles/waryhermit.md) (**Intern Lead**)| 2016-12-13 | 2017-04-28 |
 |[FanisGk](profiles/FanisGk.md)| 2016-08-01 | 2017-01-31 |
 |[prmurphy](profiles/prmurphy.md)| 2016-10-23 | 2017-01-31 |
