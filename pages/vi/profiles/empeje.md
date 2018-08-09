@@ -1,14 +1,12 @@
-# Abdurrachman Mappuji
+# Abdurrachman M
 
 
 ## About Me
 ----------
 
-  * Name : Abdurrachman Mappuji
-  * Location/time zone: Yogyakarta, Indonesia / GMT+7
-  * Operating System : Windows 10
-  * LinkedIn : [My LinkedIn](https://www.linkedin.com/in/mappuji)
-  * Email : hi@mappuji.com
+  * Name : Abdurrachman M
+  * Location/time zone: Jakarta, Indonesia / GMT+7
+  * Operating System : MacOSX
 
 ### Short Bio
 
