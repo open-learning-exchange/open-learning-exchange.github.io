@@ -114,6 +114,9 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
   - `docker pull treehouses/planet:latest`
   - `docker pull treehouses/planet:db-init`
 
+  - `docker tag treehouses/planet:latest treehouses/planet:local`
+  - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local` 
+
 1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
 
 1. See if the docker containers are running: `docker ps`. You'll see your running container similar to this
