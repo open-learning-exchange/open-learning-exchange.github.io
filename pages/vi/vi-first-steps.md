@@ -2,7 +2,7 @@
 
 # The Big Picture
 
-Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple instructions before you can progress to working on harder projects in bigger teams. Consider them to be the interview for the internship.  (It is recommended to use Chrome as you follow these steps, as you may encounter cosmetic bugs with other browsers.)
+Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple instructions before you can progress to working on harder projects in bigger teams. Consider them to be the interview for the internship.
 
 If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the Virtual Interns Gitter chatroom and assign you to a specific team to work on developing and improving OLE’s software. Our current projects could be found [here](#!./pages/robots/rbts-intern-orientation.md#Familiarize_Yourself_with_Current_Projects_and_Issues).
 
@@ -25,6 +25,8 @@ A very large part of these steps is finding problems with these steps and this M
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 
 ## Step 0 - Introductory Steps
+
+**NOTE**: We recommend using Chrome for these steps, as you may encounter cosmetic bugs with other browsers.
 
 1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
 
