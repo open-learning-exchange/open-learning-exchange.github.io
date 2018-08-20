@@ -17,4 +17,4 @@ In my free time I love swimming,playing football. I also enjoy reading books.
 *Networking protocols
 
 ###Contact Info:
-[Email:](suryakirandv10@gmail.com) [GitHub:](http://https://github.com/suryadv)
+[Email](suryakirandv10@gmail.com) [GitHub](http://https://github.com/suryadv)
