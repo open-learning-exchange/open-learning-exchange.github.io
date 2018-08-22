@@ -135,8 +135,8 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 ## Planet Configuration
 
 Go to your community `planet` at <http://127.0.0.1>.
-Note: If you are using docker toolbox then you should use the IP: 192.168.99.100
-![IP address configuration](images/vi-IP.PNG)
+Note If you are using docker toolbox then you should use the IP: 192.168.99.100
+![IP address configuration](images/vi-ipaddress.png)
  You will be asked to:
 
 - Create an admin account
