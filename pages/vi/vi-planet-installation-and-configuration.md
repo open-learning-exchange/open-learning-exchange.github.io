@@ -1,4 +1,4 @@
-# Planet Installation and Configuration
+﻿# Planet Installation and Configuration
 
 We are currently rewriting BeLL, the project is called **[`planet`](https://github.com/open-learning-exchange/planet)**. The objective is to create a Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
 
@@ -128,7 +128,9 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
   3c2309e92dc6        treehouses/couchdb:2.1.1    "tini -- /docker-ent…"   39 seconds ago      Up 48 seconds               4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp   planet_couchdb_1
   ```
 
-1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
+1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' only after the you see the contents in the below screenshot to exit logs view
+
+![docker log](images/issue_1.PNG)
 
 ---
 
@@ -142,7 +144,7 @@ Go to your community `planet` at <http://127.0.0.1>. You will be asked to:
     - Select `Community` from `Select Nation/Community`drop-down
     - Select `vi` from `Nation(s)` drop-down
     - Use your GitHub username as `Name` so we can locate you on Virtual Intern nation. (`Name` must be unique on the nation side, if you have configured `planet` using your GitHub username before, please add a letter or digits to the end of your original username.)
-    - `Code` is not editable and it will be automatically filled
+    - `Code` is not editabl e and it will be automatically filled
 - Fill out contact details
 - Click `Submit` and let us know in the Gitter chat <!-- so we can accept your community registration on VI Nation -->
 
