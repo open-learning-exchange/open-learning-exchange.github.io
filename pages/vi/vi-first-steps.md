@@ -26,6 +26,8 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 0 - Introductory Steps
 
+**NOTE**: We recommend using Chrome for these steps, as you may encounter cosmetic bugs with other browsers.
+
 1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
 
 2. Create a [GitHub account](https://github.com/) then watch <a href="https://github.com/open-learning-exchange/open-learning-exchange.github.io" target="_blank">Open Learning Exchange's github.io repo</a> and Follow [Leonard](https://github.com/leomaxi) and [Dogi](https://github.com/dogi) on GitHub. In GitHub, we "Watch" organization repositories and "Follow" individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing. (Click on the image to enlarge.)
