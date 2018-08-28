@@ -8,4 +8,4 @@
 "Happy to be with OLE TEAM!!!"
 >
 ----------------------------------------------------------------------------
-Hey from [Ministry of natonal education Madagascar](www.education.gov.mg)
+Hey from [Ministry of natonal education Madagascar](http://www.education.gov.mg)
