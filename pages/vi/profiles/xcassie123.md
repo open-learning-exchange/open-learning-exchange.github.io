@@ -11,8 +11,8 @@
 
 ### Technologies and Languages:
 ```
-Programming Laguages: Proficient in Java, HTML5, CSS3, JavaScript, SQL, python
-Frameworkds, IDE & Tools: Git/GitHub, Eclipse, MySQL, phpMyAdmin, Android App Dev, Flask/Python, Bootstrap, JQuery
+Programming Languages: Proficient in Java, HTML5, CSS3, JavaScript, SQL, python
+Frameworks, IDE & Tools: Git/GitHub, Eclipse, MySQL, phpMyAdmin, Android App Dev, Flask/Python, Bootstrap, JQuery
 ```
 
 ---
