@@ -130,6 +130,7 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 
 1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' only after the you see the contents in the below screenshot to exit logs view:
 
+
 ![docker log](images/Issue1.png)
 
 ---
