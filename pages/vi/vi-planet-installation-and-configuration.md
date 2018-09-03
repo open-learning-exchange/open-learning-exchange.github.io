@@ -136,7 +136,7 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 
 Go to your community `planet` at <http://127.0.0.1>.
 
- If you are using docker toolbox then you should use the IP given in the docker tool box
+ For Windows, if you are using docker toolbox then you should use the IP Address given in the docker toolbox instead of 127.0.0.1. Please look for IP Address as seen in image below.
 
 ![IP address configuration](images/vi-ip.png)
  
