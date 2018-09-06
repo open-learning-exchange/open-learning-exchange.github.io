@@ -51,6 +51,8 @@
 |[Sriharsha Singam](profiles/Sriharsha-Singam.md)|2018-07-10|
 |[Bhargavi Nadendla](profiles/BhargaviNadendla.md)|2018-07-18|
 |[Emiton Alves](profiles/Emiton.md)|2018-07-21|
+|[Joshua Kim](profiles/jimkosh.md)|2018-09-06|
+
 
 ## Former Interns
 
