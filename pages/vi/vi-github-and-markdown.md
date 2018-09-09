@@ -29,6 +29,7 @@ A Markdown cheat sheet that might help you create your own Markdown page later:
 **NOTE**:
 • **If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.** For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links).
 • Markdown != HTML
+• If you like to use emoji in your profile, copy the actual emoji directly instead of git markdown markup code or HTML unicode (Use '🐱' instead of ':emojicode:'). You can use this [link](https://emojipedia.org/) to copy emoji.
 
 ## Start Here
 
@@ -128,6 +129,9 @@ Once you have your profile ready, it's time to create a pull request. Click on o
 Finally, click "Create pull request" button and post the link to your github.io and profile pull request in the [gitter chat](https://gitter.im/open-learning-exchange/chat):
 
 > @/all I'm on step 3 - GitHub and Markdown, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
+
+Remember, it can take a while for `https://YourUserName.github.io` to be up and running, so don't worry if you see a **404** when you access the link!
+
 
 Someone from our team will review the changes and notify you on gitter. Often there will be some feedback from the reviewer for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will be automatically updated in the pull request. Once you get 3 approving reviews, we will merge your Markdown profile with the main repository.
 

@@ -26,14 +26,16 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 0 - Introductory Steps
 
+**NOTE**: We recommend using Chrome for these steps, as you may encounter cosmetic bugs with other browsers.
+
 1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
 
-2. Create a [GitHub account](https://github.com/) then watch [Open Learning Exchange's github.io repo](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and Follow [Leonard](https://github.com/leomaxi) and [Dogi](https://github.com/dogi) on GitHub. In GitHub, we "Watch" organization repositories and "Follow" individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing. (Click on the image to enlarge.)
+2. Create a [GitHub account](https://github.com/) then watch <a href="https://github.com/open-learning-exchange/open-learning-exchange.github.io" target="_blank">Open Learning Exchange's github.io repo</a> and Follow [Leonard](https://github.com/leomaxi) and [Dogi](https://github.com/dogi) on GitHub. In GitHub, we "Watch" organization repositories and "Follow" individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing. (Click on the image to enlarge.)
 
   ![Watch Screen Shot](images/vi-watch.png)
   ![Follow Screen Shot](images/vi-follow.png)
 
-3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. You can start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial). See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what BeLL/Planet do.
+3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. You can start contributing on Crowdin after finishing [Step 4 - BeLL-Apps Tutorial](vi-first-steps.md#Step_4_-_BeLL-Apps_Tutorial). _See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms._ Your contributions will not only help us out but also give you a better understanding of what BeLL/Planet do.
 
 **NOTE**: As we are transitioning from BeLL to Planet, the screenshots in the Planet User Manual may still be from BeLL. The concepts remain the same, though the UI will look different.
 

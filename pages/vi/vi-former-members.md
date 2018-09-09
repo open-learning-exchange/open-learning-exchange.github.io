@@ -8,6 +8,7 @@ To view the list of current members, go to [active members page](vi-team.md).
 
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
+|[SahilPh](profiles/sahilph.md)| 2018-03-09 | 2018-07-27 |
 |[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 | 2017-03-28 |
 |[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 | 2017-08-31 |
 |[Loshma93](profiles/Loshma93.md) (**Wiki Intern Lead**)| 2017-03-31 | 2018-01-31 |
@@ -22,7 +23,7 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[alexkarasik](profiles/alexkarasik.md)| 2017-07-17 | 2017-08-22 |
 |[ajGingrich](profiles/ajGingrich.md)| 2017-09-11 | 2017-11-07 |
 |[thesiege208](profiles/thesiege208.md)| 2017-10-16 | 2018-01-03 |
-|[mappuji](profiles/mappuji.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
+|[empeje](profiles/empeje.md) (**Intern Lead**)| 2017-01-22 |2017-05-29 |
 |[𝖂𝖆𝖗𝖞𝖍𝖊𝖗𝖒𝖎𝖙](profiles/waryhermit.md) (**Intern Lead**)| 2016-12-13 | 2017-04-28 |
 |[FanisGk](profiles/FanisGk.md)| 2016-08-01 | 2017-01-31 |
 |[prmurphy](profiles/prmurphy.md)| 2016-10-23 | 2017-01-31 |

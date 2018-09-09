@@ -105,7 +105,7 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 
 1. Go to your OLE project folder
 
-1. Clone the `planet` repository: `git clone https://github.com/open-learning-exchange/docker.git`
+1. Clone the `planet` repository: `git clone https://github.com/open-learning-exchange/planet.git`
 
 1. Go to 'planet/docker' folder: `cd planet/docker`
 
@@ -113,6 +113,9 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 
   - `docker pull treehouses/planet:latest`
   - `docker pull treehouses/planet:db-init`
+
+  - `docker tag treehouses/planet:latest treehouses/planet:local`
+  - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local` 
 
 1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
 
