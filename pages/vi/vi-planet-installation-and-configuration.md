@@ -1,4 +1,4 @@
-# Planet Installation and Configuration
+﻿# Planet Installation and Configuration
 
 We are currently rewriting BeLL, the project is called **[`planet`](https://github.com/open-learning-exchange/planet)**. The objective is to create a Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
 
@@ -134,7 +134,13 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 
 ## Planet Configuration
 
-Go to your community `planet` at <http://127.0.0.1>. You will be asked to:
+Go to your community `planet` at <http://127.0.0.1>.
+
+ For Windows, if you are using docker toolbox then you should use the IP Address given in the docker toolbox instead of 127.0.0.1. Please look for IP Address as seen in image below.
+
+![IP address configuration](images/vi-ip.png)
+ 
+You will be asked to:
 
 - Create an admin account
 - Fill out configuration
