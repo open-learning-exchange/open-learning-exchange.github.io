@@ -1,4 +1,4 @@
-# Howdy my name is Simily Hill
+# Howdy! my name is Simily Hill.
 ## I am from sunny California (PTD), the Bay Area to be exact. 
  ![Alt Text](https://wwwassets.rand.org/content/rand/about/locations/san-francisco/office/jcr:content/par/herotitle.aspectfit.0x0.jpg/x1495302287458.jpg.pagespeed.ic.rrW0wEC4EC.jpg) 
 _OS X El Capitan_ *(version 10.11.6)*
@@ -6,7 +6,7 @@ _OS X El Capitan_ *(version 10.11.6)*
 * Junior at SF State studing Compter Science.
 * I am an Audiophile. 
 * A Boba tea enthusiast. 
-* Terrified of spiders. :smile:
+* Terrified of spiders :smile:.
 
 
 **Check out some fun stuff I did here-->** [fun stuff click me!](http://www.similythesitebuilder.com).
