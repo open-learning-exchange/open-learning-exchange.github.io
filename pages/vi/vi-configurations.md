@@ -55,7 +55,7 @@ Then, click on the **"Register"** button. Your registration request for your com
 
 After clicking on the OK button, you will be automatically logged in.
 
-Then, post to the Gitter chat the screenshot you took earlier.
+Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) the screenshot you took earlier.
 
 ## Troubleshooting
 
