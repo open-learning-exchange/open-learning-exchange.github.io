@@ -150,11 +150,11 @@ You will be asked to:
     - Use your GitHub username as `Name` so we can locate you on Virtual Intern nation. (`Name` must be unique on the nation side, if you have configured `planet` using your GitHub username before, please add a letter or digits to the end of your original username.)
     - `Code` is not editable and it will be automatically filled
 - Fill out contact details
-- Click `Submit` and let us know in the Gitter chat <!-- so we can accept your community registration on VI Nation -->
+- Click `Submit` and let us know in the [Gitter chat](https://gitter.im/open-learning-exchange/chat) <!-- so we can accept your community registration on VI Nation -->
 
 ![Planet Community Configuration](images/vi-planet-configuration.png)
 
-After logging in, please explore around and post a screenshot of your `planet` to the Gitter chat.
+After logging in, please explore around and post a screenshot of your `planet` to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
 ![Planet UI Screenshot](images/vi-planet-ui-screenshot.png)
 
