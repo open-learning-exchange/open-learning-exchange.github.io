@@ -43,7 +43,7 @@ You will be shown the page below. Make sure you fill it out completely.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
-Next, fill out the configurations. Your name and code must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the Gitter chat after submitting your registration request.**
+Next, fill out the configurations. Your name and code must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) after submitting your registration request.**
 
 ![Configurations](images/vi-configuration.png)
 
@@ -55,7 +55,7 @@ Then, click on the **"Register"** button. Your registration request for your com
 
 After clicking on the OK button, you will be automatically logged in.
 
-Then, post to the Gitter chat the screenshot you took earlier.
+Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) the screenshot you took earlier.
 
 ## Troubleshooting
 
