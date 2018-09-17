@@ -128,7 +128,7 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
   3c2309e92dc6        treehouses/couchdb:2.1.1    "tini -- /docker-ent…"   39 seconds ago      Up 48 seconds               4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp   planet_couchdb_1
   ```
 
-> **For MacOS** If you see the following error, go to `Docker > Preferences > File Sharing` and change the folder `/etc/planet` to `/Users/<username>/planet`. To check the path you can run the following command `cd ~` and `pwd`.
+> **For MacOS** If you see the following error, open the `planet.yml` file and change the path `/etc/planet` to `/Users/<username>/planet`. To check the path you can run the following command `cd ~` and `pwd`.
 
 ```➜ docker git:(master) docker-compose -f planet.yml -p planet up -d --build
 Starting planet_couchdb_1 ... done
