@@ -47,9 +47,5 @@ else{
  go for walk
  go to 10
 }
-  
-
-
 ```
-   > "Life in like riding a bicycle. To keep your balance, you must keep moving"
-       > Einstein
+ 
