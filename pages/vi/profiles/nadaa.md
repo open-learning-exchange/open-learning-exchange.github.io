@@ -10,7 +10,7 @@ Windows 7 sp1
 ## About me
 
 I am orignally from Yemen, I came to Jordan four years ago to persue my master in computer science.  
-It a pleasure to join OLE,can't wait to join you all :).
+It a pleasure to join OLE, can't wait to meet you all :).
 
 |*My village*|
 |:--:|
