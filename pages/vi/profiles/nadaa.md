@@ -47,7 +47,7 @@ It a pleasure to join OLE,can't wait to join you all :).
    }
 5. else{
 6.  go for a walk
-7.  go to 10
+7.  go to 1
   }
 ```
  
