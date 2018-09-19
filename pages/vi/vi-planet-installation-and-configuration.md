@@ -128,6 +128,20 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
   3c2309e92dc6        treehouses/couchdb:2.1.1    "tini -- /docker-ent…"   39 seconds ago      Up 48 seconds               4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp   planet_couchdb_1
   ```
 
+> **For MacOS** If you see the following error, open the `planet.yml` file and change the path `/etc/planet` to `/Users/<username>/planet`. To check the path you can run the following command `cd ~` and `pwd`.
+
+```➜ docker git:(master) docker-compose -f planet.yml -p planet up -d --build
+Starting planet_couchdb_1 ... done
+Starting planet_planet_1 ... error
+Starting planet_db-init_1 ...
+
+ERROR: for planet_planet_1 Cannot start service planet: b'Mounts denied: \r\nThe path /etc/planet\r\nis not shared from OS X and is not known to Docker.\r\nYou can configure sharStarting planet_db-init_1 ... done
+
+ERROR: for planet Cannot start service planet: b'Mounts denied: \r\nThe path /etc/planet\r\nis not shared from OS X and is not known to Docker.\r\nYou can configure shared paths from Docker -> Preferences... -> File Sharing.\r\nSee https://docs.docker.com/docker-for-mac/osxfs/#namespaces for more info.\r\n.'
+ERROR: Encountered errors while bringing up the project.
+```
+
+
 1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
 
 ---
