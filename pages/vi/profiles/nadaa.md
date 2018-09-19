@@ -14,7 +14,7 @@ It a pleasure to join OLE,can't wait to join you all :).
 
 |*My village*|
 |:--:|
-|![my village](https://i.imgur.com/Q5CGdRK.jpg)
+|![](https://i.imgur.com/Kcq4mJd.jpg)
 
 |I like| I don't like|
 |------|-------------|
@@ -37,15 +37,15 @@ It a pleasure to join OLE,can't wait to join you all :).
    
 ## Debugging routine
 ```
-10. while (there is a bug){
-  comment line by line
-}
-if (a bug is fixed){
-  celebrate
-}
-else{
- go for walk
- go to 10
-}
+1. while (there is a bug){
+2.  comment line by line
+   }
+3. if (a bug is fixed){
+4.  celebrate
+   }
+5. else{
+6.  go for a walk
+7.  go to 10
+  }
 ```
  
