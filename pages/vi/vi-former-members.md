@@ -8,6 +8,7 @@ To view the list of current members, go to [active members page](vi-team.md).
 
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
+|[AkshayUNCC](profiles/akshayuncc.md)|2018-05-24| 2018-09-15 | 
 |[SahilPh](profiles/sahilph.md)| 2018-03-09 | 2018-07-27 |
 |[hikaruit15](profiles/hikaruit15.md)| 2016-11-17 | 2017-03-28 |
 |[sarvanivadali](profiles/sarvanivadali.md)| 2017-02-23 | 2017-08-31 |
@@ -40,4 +41,3 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[Neha1990](profiles/Neha1990.md)| 2016-07-12 | 2016-09-26 |
 |[cw-lin](profiles/cw-lin.md)| 2016-07-22 | 2016-09-14 |
 |[pranesh-s](profiles/pranesh-s.md)| 2016-05-25 | 2016-09-05 |
-|[AkshayUNCC](profiles/akshayuncc.md)|2018-05-24| 2018-09-15 | 
