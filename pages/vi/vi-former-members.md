@@ -40,3 +40,4 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[Neha1990](profiles/Neha1990.md)| 2016-07-12 | 2016-09-26 |
 |[cw-lin](profiles/cw-lin.md)| 2016-07-22 | 2016-09-14 |
 |[pranesh-s](profiles/pranesh-s.md)| 2016-05-25 | 2016-09-05 |
+|[AkshayUNCC](profiles/akshayuncc.md)|2018-05-24| 2018-09-15 | 
