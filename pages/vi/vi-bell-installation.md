@@ -78,7 +78,7 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 
 Open your `Terminal`
 
-#### For macOS
+### For macOS
 
 We assume that [brew](http://brew.sh/) is already installed:
 
@@ -87,8 +87,9 @@ brew install git
 brew cask install vagrant
 brew cask install virtualbox
 ```
+If VirtualBox installation fails, go to `System Preferences > Security & Privacy` and click `Allow`. You may need to eject VirtualBox from `Finder > Devices` and retry multiple times. More information in [this thread](https://apple.stackexchange.com/questions/301303/virtualbox-5-1-28-fails-to-install-on-macos-10-13-due-to-kext-security).
 
-#### For Ubuntu
+### For Ubuntu
 
 ```bash
 sudo apt-get update
