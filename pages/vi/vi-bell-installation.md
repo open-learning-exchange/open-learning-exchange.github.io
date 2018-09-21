@@ -43,6 +43,8 @@ To run the script, copy and paste one of the lines below in a [Command prompt](h
 ```bat
 powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/dogi/ole--vagrant-vi/master/windows/install.bat', 'install.bat')" && start install.bat && exit
 ```
+Note: if you see a message in the terminal tell to upgrade PowerShell to version 3, please refer to [Troubleshooting](#Troubleshooting).
+
 To run your community BeLL at the end of the installation, please find the MyBeLL icon on your desktop and double click on it. It will open a Firefox browser and take you directly to your community BeLL web page.
 
 Note: If Firefox displays ```Unable to connect``` error when the MyBell icon is clicked, visit [Vagrant instructions](#!pages/vi/vi-vagrant.md) for more information on ```vagrant up```.
@@ -127,6 +129,10 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 
 2. On Windows, when you run `vagrant up` from command prompt, you might get the following error :
 "The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
+
+The BeLL-Apps installtion on Windows 7 might stop if the version of PowerShell is lower than 3, please follow the steps bellow to upgrade the PowerShell:
+  - Download & install [Microsoft .Net Framework 4.0] (https://www.microsoft.com/en-us/download/details.aspx?id=17851)
+Your computer will restart and then the installation will resume.
 
 3. On Ubuntu, you might get this error when you run `vagrant up`:
 
