@@ -43,7 +43,7 @@ To run the script, copy and paste one of the lines below in a [Command prompt](h
 ```bat
 powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/dogi/ole--vagrant-vi/master/windows/install.bat', 'install.bat')" && start install.bat && exit
 ```
-Note: If you see a message in the terminal tell to upgrade PowerShell to version 3, please refer to [Troubleshooting](#Troubleshooting).
+Note: If you see a message in the terminal tell to upgrade PowerShell to version 3, please refer to [Troubleshooting](#Troubleshooting) (point 2).
 
 To run your community BeLL at the end of the installation, please find the MyBeLL icon on your desktop and double click on it. It will open a Firefox browser and take you directly to your community BeLL web page.
 
