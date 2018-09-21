@@ -9,7 +9,7 @@
 ## Preparation
 Please go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html or run `vagrant global-status` in the command line to see if your community BeLL is currently running. If not, please `cd` into `ole--vagrant-vi` directory in your local machine and run `vagrant up`.
 
-Do not forget to send the screenshot of your BeLL-apps community configurations ([from the earlier step when you registered your configurations](vi-configurations.md)) to our chat. In case you forgot to take the screenshot of your configurations, go to the dashboard of BeLL-apps, click on manager settings (besides your name), click on the configurations tab, take a screenshot of the page, and send it to the Gitter chat.
+Do not forget to send the screenshot of your BeLL-Apps community configurations ([from the earlier step when you registered your configurations](vi-configurations.md)) to our chat. In case you forgot to take the screenshot of your configurations, go to the dashboard of BeLL-Apps, click on manager settings (besides your name), click on the configurations tab, take a screenshot of the page, and send it to the Gitter chat.
 
 ## Watch Videos
 
