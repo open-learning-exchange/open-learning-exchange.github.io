@@ -130,7 +130,7 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 2. On Windows, when you run `vagrant up` from command prompt, you might get the following error :
 "The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
 
-  The BeLL-Apps installtion on Windows 7 might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Microsoft .Net Framework 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=17851). Your computer will restart and then the installation will resume.
+ The BeLL-Apps installtion on Windows 7 might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Microsoft .Net Framework 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=17851). Your computer will restart and then the installation will resume.
 
 3. On Ubuntu, you might get this error when you run `vagrant up`:
 
