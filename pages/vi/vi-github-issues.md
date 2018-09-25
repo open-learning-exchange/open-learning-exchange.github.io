@@ -34,7 +34,12 @@ _**SPECIAL NOTE:**_ Aspiring Virtual Interns have a tendency to speed through th
 
 ## Create a New Branch
 
-Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other. Before you create your branch, sync your repo following the process in Summary of Steps - Sync Your Fork section of the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
+Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other. Before you create your branch, sync your repo using next commands: 
+`git fetch upstream` , 
+`git checkout master`, 
+`git merge upstream/master`, 
+`git push origin master`. 
+More details in the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
 Use `git checkout master` to switch to master branch, then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
@@ -46,13 +51,22 @@ If you're still confused, that's quite alright. [Forking Workflow](https://www.a
 
 ![GitHub Repo Flowchart](images/vi-repo-flowchart.png)
 
-## Preview Changes Locally
+### Preview Changes Locally
 
 After making modifications to your local files and before making a commit, you would want to preview the changes locally. The following link, [how to preview changes](http://dynalon.github.io/mdwiki/#!faq.md), gives all the informations about how to preview changes from your machine.
 
-## Create a Commit
+## Create a Commit and Push the Changes
+Use the next commands to commit and push the changes:
 
-After you are done making your changes, use the `git status` command to see which files in the working directory have been modified. If you wish to stage all of the modified files shown, use the `git add .` (The '.' is part of the command.) command. Otherwise you can choose only the file or files you wish to stage by using the `git add <file1> <file2> <file3>...` command. Now that you have selected the files you wish to include, use the commands `git commit -m "commit message"` (refer to the commit message guidelines below) and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
+1.  `git status` to see which files in the working directory have been modified.
+
+2.  `git add .` to stage **ALL** of the modified files shown, 
+    or `git add <file1> <file2> <file3>...` to stage specific modified files. 
+
+3.  `git commit -m "your_commit_message (fixes #issue_no)"` 
+	(refer to the commit message guidelines below). 
+
+4.  `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
 
 ### Commit Message Style Guide
 
@@ -70,7 +84,7 @@ Here is an example of how you would write your commit message:
 
 NOTE: In your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
-## Rawgit
+### Rawgit
 
 Rawgit is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md` and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request.
 
@@ -78,7 +92,7 @@ For example http://rawgit.com/EmilyLarkin/EmilyLarkin.github.io/master/#!index.m
 
 ![Index via RawGit Link](images/vi-rawgit-index.png)
 
-### Rawgit Generator
+#### Rawgit Generator
 
 ![RawGit Generator](images/rawgitGenerator.png)
 
@@ -112,24 +126,26 @@ Additionally, creating a checklist will help others understand what you have don
 
 Some of these items are of course optional, but try to include as much useful information for others as possible in your checklists because nobody really wants to work on something that has already been completed by someone else.
 
-## Wait for Review
+## Delete the Branch after Staff review
 
+*  **Wait for the pull request merge.**
 All that remains is posting your pull request in the chat and waiting until one of the OLE staff gets a chance to look at it. Be aware that a staff member may either submit a code review asking you to modify some of your changes, or accept the pull request and close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
 
-**After your pull request has been approved and merged** by OLE staff, you might want to delete the branch that is associated with your pull request. It can keep your local and remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below). To delete the defunct branch in your local repository, use the command `git branch -d yourLocalBranchName` (make sure you are not on the branch that you want to delete). Go [here](https://tecadmin.net/delete-git-remote-and-local-branch/) to find out more about how to delete a branch locally.
+* **Delete the branch from your remote repository.**
+After your pull request has been approved and merged by OLE staff, you might want to delete the branch that is associated with your pull request. It can keep your local and remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below). 
 
 ![Delete Merged Branch](images/vi-delete-merged-branch.png)
+
+* **Delete the branch from your local repository.**
+To delete the defunct branch in your local repository, use the command `git branch -d yourLocalBranchName` (make sure you are not on the branch that you want to delete). Go [here](https://tecadmin.net/delete-git-remote-and-local-branch/) to find out more about how to delete a branch locally.
 
 NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md).
 
 This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
-## Summary of Steps to Work on an Issue and Create a Pull Request
+<!-- ## Summary of Steps to Work on an Issue and Create a Pull Request
 
-### 1. Create a branch
-  1.  Open an issue within the right repository (upstream repository) and explain the problem. If the issue is approved, `cd` to `yourusername.github.io` directory and sync with the upstream repository using `git fetch upstream` , `git checkout master`, `git merge upstream/master`, and `git push origin master`.
 
-  2.  Use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository.
 
 ### 2. Push the Changes
   1.  Use the `git status` command to see which files in the working directory have been modified.
@@ -144,7 +160,7 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
   2.  Fill out the details for the pull request according to the given structure and also create a checklist for other's understanding.
 
 ### 4. Delete the Branch
-  1.  Wait for review and once the pull request is merged, use `git branch -d yourLocalBranchName` to delete the branch.
+  1.  Wait for review and once the pull request is merged, use `git branch -d yourLocalBranchName` to delete the branch. -->
 
 ## Useful Links
 
