@@ -27,8 +27,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 * [Sync Your Fork](#Sync_Your_Fork)
 
 
-** Note :** You will see some common names used in git (which you can change), such as `master: the name of the main branch`, `upstream: the location where you forked the repository from`, and `origin: your github`. Both `upstream and origin` are considered remote.
-You need also to know that a repository may include many branches.
+** Note :** You will see some common names used in git (which you can change), such as `master: the name of the main branch`, `upstream: the location where you forked the repository from`, and `origin: your github`. Both `upstream and origin` are considered remote. Keep in mind also, a repository may contain many branches.
 
 ### Clone Your GitHub Repository username.github.io
 
