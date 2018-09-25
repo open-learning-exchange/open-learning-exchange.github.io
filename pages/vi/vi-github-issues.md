@@ -35,10 +35,10 @@ _**SPECIAL NOTE:**_ Aspiring Virtual Interns have a tendency to speed through th
 ## Create a New Branch
 
 Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other. Before you create your branch, sync your repo using next commands: 
-`git fetch upstream` , 
-`git checkout master`, 
-`git merge upstream/master`, 
-`git push origin master`. 
+`git fetch upstream`  
+`git checkout master`
+`git merge upstream/master` 
+`git push origin master` 
 More details in the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
 Use `git checkout master` to switch to master branch, then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
@@ -142,25 +142,6 @@ To delete the defunct branch in your local repository, use the command `git bran
 NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md).
 
 This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
-
-<!-- ## Summary of Steps to Work on an Issue and Create a Pull Request
-
-
-
-### 2. Push the Changes
-  1.  Use the `git status` command to see which files in the working directory have been modified.
-
-  2.  Use the `git add .` to stage all or `git add <file1> <file2> <file3>...` to stage specific modified files and then use the commands `git commit -m "your_commit_message (fixes #issue_no)"` and `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github.
-
-  3.  You can view these changes by going to https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md once you have pushed the changes to your Github
-
-### 3. Create a Pull Request
-  1.  Go to your own fork of OLE on Github https://github.com/YourUsername/YourUsername.github.io and press Compare & pull request.
-
-  2.  Fill out the details for the pull request according to the given structure and also create a checklist for other's understanding.
-
-### 4. Delete the Branch
-  1.  Wait for review and once the pull request is merged, use `git branch -d yourLocalBranchName` to delete the branch. -->
 
 ## Useful Links
 
