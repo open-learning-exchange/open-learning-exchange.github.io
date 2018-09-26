@@ -126,9 +126,9 @@ Additionally, creating a checklist will help others understand what you have don
 
 Some of these items are of course optional, but try to include as much useful information for others as possible in your checklists because nobody really wants to work on something that has already been completed by someone else.
 
-## Delete the Branch after Staff review
+## Delete the Branch
 
-*  **Wait for the pull request merge.**
+*  **Wait for the pull request merge!**
 All that remains is posting your pull request in the chat and waiting until one of the OLE staff gets a chance to look at it. Be aware that a staff member may either submit a code review asking you to modify some of your changes, or accept the pull request and close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
 
 * **Delete the branch from your remote repository.**
