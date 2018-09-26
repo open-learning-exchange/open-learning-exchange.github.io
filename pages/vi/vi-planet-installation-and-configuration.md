@@ -1,5 +1,13 @@
 ﻿# Planet Installation and Configuration
 
+## Objectives
+
+- Install Docker
+- Install and configure Planet
+- Let us know in Gitter chat
+
+## Introduction
+
 We are currently rewriting BeLL, the project is called **[`planet`](https://github.com/open-learning-exchange/planet)**. The objective is to create a Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
 
 Please follow the directions below to install Docker and your community `planet` to your machine. There are three parts in this section, you can use the side bar on the left to quickly navigate between them.

@@ -1,5 +1,12 @@
 # BeLL Installation
 
+## Objectives
+
+- Set up an environment for Bell
+- Install Community Bell
+
+## Introduction
+
 The Basic e-Learning Library (BeLL) is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
 
 Please follow the directions of your OS below to install your community BeLL and its dependencies on our system.
