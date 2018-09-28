@@ -26,6 +26,9 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 * [Configure a Remote Repository for Your Fork](#Configure_a_Remote_Repository_for_Your_Fork)
 * [Sync Your Fork](#Sync_Your_Fork)
 
+
+** Note :** You will see some common names used in git (*which you can change*), such as `master: the name of the main branch`, `upstream: the location where you forked the repository from`, and `origin: the location you cloned repository from`. Both `upstream and origin` are considered **remote**. Keep in mind also, a repository may contain many branches.
+
 ### Clone Your GitHub Repository username.github.io
 
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided in the repository (see the picture below).
@@ -102,11 +105,11 @@ Fast-forward
 If you get something like this,
 
 ```
-Please enter a commit message to explain 
-why this merge is necessary, especially 
-if it merges an updated upstream into a 
-topic branch. Lines starting with '#' 
-will be ignored, and an empty message 
+Please enter a commit message to explain
+why this merge is necessary, especially
+if it merges an updated upstream into a
+topic branch. Lines starting with '#'
+will be ignored, and an empty message
 aborts the commit.
 ~
 ~
@@ -151,7 +154,7 @@ Generally, follow these commands in your command line, but refer back above if t
 - Copy the HTTPS or SSH link from your repository on the GitHub site
 - On the command line, type `git clone *paste your HTTPS or SSH link here*`
 
-#### Understand that there are three levels of a Github repository: 
+#### Understand that there are three levels of a Github repository:
 1. the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io))
 2. Your username.github.io on GitHub
 3. Your username.github.io on your OS.
