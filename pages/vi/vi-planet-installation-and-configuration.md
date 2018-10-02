@@ -125,6 +125,9 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
   - `docker tag treehouses/planet:latest treehouses/planet:local`
   - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local` 
 
+6. To exit the logs press `CTRL+C` when you see the following code: 
+![db-init-img](https://user-images.githubusercontent.com/41874655/44394481-03d79d00-a557-11e8-91ed-378eccc95011.jpg)
+
 1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
 
 1. See if the docker containers are running: `docker ps`. You'll see your running container similar to this
@@ -138,7 +141,8 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 
 > **For MacOS** If you see the following error, open the `planet.yml` file and change the path `/etc/planet` to `/Users/<username>/planet`. To check the path you can run the following command `cd ~` and `pwd`.
 
-```➜ docker git:(master) docker-compose -f planet.yml -p planet up -d --build
+```
+➜ docker git:(master) docker-compose -f planet.yml -p planet up -d --build
 Starting planet_couchdb_1 ... done
 Starting planet_planet_1 ... error
 Starting planet_db-init_1 ...
