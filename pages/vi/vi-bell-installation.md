@@ -8,7 +8,7 @@ Please follow the directions of your OS below to install your community BeLL and
 
 #### Staying Organized
 
-We recommend you designate a new directory for your work at OLE. This put all of your OLE related repositories in one place and enables you to be organized and efficient.
+We recommend you designate a new directory for your work at OLE. This puts all of your OLE related repositories in one place and enables you to be organized and efficient.
 
 To do this, you could make a new folder directly through your OS GUI. Or you could open `Terminal`(macOS), `cmd`(Windows), or `shell`(Linux) and use the following commands: (Note the commands should be identical on all three operating systems)
 
@@ -19,7 +19,7 @@ mkdir OLE
 
 #### Virtualization
 
-Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing Vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If later you are having trouble running Vagrant, it may just be the case that VT-x/AMD-V is not enabled on your system.
+Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing Vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If later you are having trouble running Vagrant, it may be that VT-x/AMD-V is not enabled on your system.
 
 If so, here are instructions to enable virtualization on [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [Macintosh](http://kb.parallels.com/en/5653)
 
@@ -132,11 +132,12 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 
    > Stderr: VBoxManage: error: The virtual machine 'ud381_default_1463617458900_49294' has terminated unexpectedly during startup with exit code 1 (0x1) VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component MachineWrap, interface IMachine
 
-   This is caused when VirtualBox get a minor version Update. (i.e. 5.0.x -> 5.1.x or 5.1.x -> 5.2.x). There are some old unused modules, who are not compatible with the newer version, remain installed which causes the above problem and prevent VirtualBox from starting. A system restart also does not solve the problem.
+   This is caused when VirtualBox gets a minor version Update. (i.e. 5.0.x -> 5.1.x or 5.1.x -> 5.2.x). There are some old unused modules, which are not compatible with the newer version. They remain installed, which causes the above problem and prevents VirtualBox from starting. A system restart also does not solve the problem.
 
    To solve it first remove the unused packages using `sudo apt-get autoremove`. Then reconfigure VirtualBox to install updated modules using `sudo /sbin/vboxconfig`
 
-4. If you see "no_db_found" when trying to access <http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html>. At this early stage, the simple solution would be using `vagrant destroy` to delete the current machine, then use `vagrant up` to rebuild it.
+4. If you see "no_db_found" when trying to access <http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html>: 
+At this early stage, the simple solution would be using `vagrant destroy` to delete the current machine, then use `vagrant up` to rebuild it.
 
 5. If the command `vagrant up` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
 
