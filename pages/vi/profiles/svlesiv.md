@@ -3,8 +3,7 @@ Location: Boston, MA
 Time Zone: GMT-4   
 OS: macOS High Sierra Version 10.13.6
 
-![Boston, MA](http://svitlanalesiv.me/portfolio/boston_.png)
-> Boston, MA
+![My photo](http://svitlanalesiv.me/portfolio/img/photo.jpg)
 
 ## About Me
 My name is Lana. Originally I'm from Lviv (Ukraine), but I have been living in the USA (Greater Boston area) for six years. 
