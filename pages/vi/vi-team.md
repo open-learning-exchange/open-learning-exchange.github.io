@@ -50,8 +50,8 @@
 |[BhargaviNadendla](profiles/BhargaviNadendla.md)|2018-07-18|
 |[Emiton](profiles/Emiton.md)|2018-07-21|
 |[jimkosh](profiles/jimkosh.md)|2018-09-06|
-|[nadaa](profiles/nadaa.md)| 2018-10-03|
+|[svlesiv](profiles/svlesiv.md)|2018-10-03|
+|[nadaa](profiles/nadaa.md)|2018-10-03|
 
 ## Former Interns
-
 To view the list of former interns, go to [former members page](vi-former-members.md).
