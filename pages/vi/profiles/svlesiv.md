@@ -9,7 +9,6 @@ OS: macOS High Sierra Version 10.13.6
 My name is Lana. Originally I'm from Lviv (Ukraine), but I have been living in the USA (Greater Boston area) for six years. 
 Recently I received Web Technologies Certificate from Harvard Extension School and would be happy to put my knowledge into practice.
 
-
 ## Links
 [LinkedIn](https://www.linkedin.com/in/svitlana-lesiv-32137955/)
 
