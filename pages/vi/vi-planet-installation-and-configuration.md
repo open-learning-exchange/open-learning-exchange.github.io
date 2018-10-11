@@ -125,7 +125,7 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
   - `docker tag treehouses/planet:latest treehouses/planet:local`
   - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local` 
 
-6. To exit the logs press `CTRL+C` when you see the following code: 
+6. To exit the logs press `CTRL+C` when you see the following code:  
 ![db-init-img](https://user-images.githubusercontent.com/41874655/44394481-03d79d00-a557-11e8-91ed-378eccc95011.jpg)
 
 1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
