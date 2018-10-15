@@ -62,7 +62,9 @@ The above output tells us:
 - [`vagrant halt`](https://www.vagrantup.com/docs/cli/halt.html) will shut down the "running" virtual machine, its state will become "poweroff".
 - [`vagrant destroy`](https://www.vagrantup.com/docs/cli/destroy.html) will delete the virtual machine entirely. To use community BeLL again, we will have to rebuild a new machine from scratch using `vagrant up`.
 
-To conserve hardware resources of your computer, you could use `vagrant halt` to shutdown the virtual machine that's running your community BeLL. Use `vagrant up` to turn the virtual machine back on when you need to access your community BeLL again.
+NOTE: Since you have already configured BeLL, you might not want to use `vagrant destroy` command. This will delete the virtual machine entirely and you have to re-configure community BeLL. To conserve hardware resources of your computer, you could use `vagrant halt` to shutdown the virtual machine that's running your community BeLL. Use `vagrant up` to turn the virtual machine back on when you need to access your community BeLL again.
+
+
 
 ## More about Vagrant CLI
 
