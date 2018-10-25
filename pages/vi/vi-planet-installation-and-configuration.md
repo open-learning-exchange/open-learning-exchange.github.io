@@ -24,7 +24,7 @@ In order to run `planet`, you will need Docker Community Edition installed.
   - Follow the official [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/) guide
   - [Chocolatey](https://chocolatey.org/) – the package manager for Windows was installed to your machine in the previous step. Please read [What to know before you install
 ](https://docs.docker.com/docker-for-windows/install/#what-to-know-before-you-install) and run `choco install docker-for-windows`
-- If you do not have Windows version specified above, you will need to install [Docker Toolbox](https://docs.docker.com/toolbox/overview/). Please follow the official guide [Install Docker Toolbox on Windows](https://docs.docker.com/toolbox/toolbox_install_windows/).
+- If you do not have Windows version specified above, you will need to install [Docker Toolbox](https://docs.docker.com/toolbox/overview/). Please follow the official guide [Install Docker Toolbox on Windows](https://docs.docker.com/toolbox/toolbox_install_windows/). *NOTE: You may need to check the "Install VirtualBox with NDIS5 driver" option when it asks to install VirtualBox.*
 
 ### macOS
 
