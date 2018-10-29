@@ -84,26 +84,26 @@ Here is an example of how you would write your commit message:
 
 NOTE: In your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
-### Rawgit
+### Raw.githack
 
-Rawgit is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://rawgit.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!index.md` and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request.
+Raw.githack is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://raw.githack.com/{YouGitHubUsername}/{YouGitHubUsername}.github.io/{YourBranchName}/#!YourGitHubUserName.md` and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request.
 
-For example http://rawgit.com/EmilyLarkin/EmilyLarkin.github.io/master/#!index.md will result with this:
+For example http://raw.githack.com/EmilyLarkin/EmilyLarkin.github.io/master/#!index.md will result with this:
 
-![Index via RawGit Link](images/vi-rawgit-index.png)
+![Index via Raw.githack Link](images/vi-raw.githack-index.png)
 
-#### Rawgit Generator
+#### Raw.githack Generator
 
-![RawGit Generator](images/rawgitGenerator.png)
+![Raw.githack Generator](images/raw.githackGenerator.png)
 
-You can also use the Rawgit url generator on <https://rawgit.com>
+You can also use the Raw.githack url generator on <https://raw.githack.com>
 1.  Select the branch you were working on from the drop down on the top left
 2.  Navigate to the page your changed in your fork of the github repository  
-3.  Copy the URL in your browser and paste it in the field on <https://rawgit.com>
+3.  Copy the URL in your browser and paste it in the field on <https://raw.githack.com>
 4.  Select the Development URL
 5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.
 
-Rawgit makes it easy to see what the page will look like if your branch is merged, so don't forget to include a Rawgit link in your next step, the pull request.
+Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a Raw.githack link in your next step, the pull request.
 
 ## Create a Pull Request
 If you login to your own fork of OLE on Github, Github will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Press the green button that says Compare & pull request. In this new page, you can change the title and comments for the PR. Once you are done with filling out these forms, submit the pull request by clicking on the green create pull request button.
