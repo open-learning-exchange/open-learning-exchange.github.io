@@ -7,7 +7,7 @@
 
 	  Description: I am a passionate Software Development student at NHTI.
 	  I am graduating soon and hope to find a job after. This internship will
-	  give me a lot of valuable experience to get a job in IT.```
+	  give me a lot of valuable experience to get a job in IT.
 
 **I have good experience with Languages such as**
 
