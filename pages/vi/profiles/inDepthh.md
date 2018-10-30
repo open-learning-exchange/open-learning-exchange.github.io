@@ -10,12 +10,14 @@
 	  give me a lot of valuable experience to get a job in IT.```
 
 **I have good experience with Languages such as**
+
 * Java
 * C#
 * HTML5
 * CSS3
 
 **I have some experience with**
+
 * SQL
 * JavaScript
 * P5.js 
