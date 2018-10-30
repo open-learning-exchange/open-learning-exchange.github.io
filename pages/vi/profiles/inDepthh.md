@@ -11,18 +11,22 @@
 
 **I have good experience with Languages such as**
 
-* Java
-* C#
-* HTML5
-* CSS3
+<ul>
+  <li>Java</li>
+  <li>C#</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>
 
 **I have some experience with**
 
-* SQL
-* JavaScript
-* P5.js 
-* Raspberry Pi 3
-* Bash
-* Linux
-* CLI
-* And other technologies	
+<ul>
+  <li>SQL</li>
+  <li>JavaScript</li>
+  <li>P5.js</li>
+  <li>Raspberry Pi 3</li>
+  <li>Bash</li>
+  <li>Linux</li>
+  <li>CLI</li>
+  <li>And other technologies</li>
+</ul>
