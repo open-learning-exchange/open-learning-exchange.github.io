@@ -1,7 +1,6 @@
 ﻿# Planet Installation and Configuration
 
-## Objectives
-
+## Objective
 - Install Docker
 - Install and configure Planet
 - Let us know in Gitter chat
@@ -39,9 +38,6 @@ Please follow the official [Install Docker for Mac](https://docs.docker.com/dock
   - At least 4GB of RAM
   - VirtualBox prior to version 4.3.30 must NOT be installed.
 - If your system **does not** satisfy requirements above, you can install [Docker Toolbox](https://docs.docker.com/toolbox/overview/), which uses Oracle VirtualBox instead of HyperKit. Please follow the official guide [Install Docker Toolbox on macOS](https://docs.docker.com/toolbox/toolbox_install_mac/).
-
-NOTE: If you use docker toolbox, it might downgrade your virtual box, make sure that your virtual box is up to 
-date after installation
 
 - What the install includes: The installation provides Docker Engine, Docker CLI client, Docker Compose, Docker Machine, and Kitematic.
 
@@ -109,6 +105,9 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 - Test the installation: `docker-compose --version`
 
 ---
+
+NOTE: If you use docker toolbox, it might downgrade your virtual box, make sure that your virtual box is up to
+date after installation
 
 ## Planet Installation
 
