@@ -1,6 +1,7 @@
 ﻿# Planet Installation and Configuration
 
-## Objective
+## Objectives
+
 - Install Docker
 - Install and configure Planet
 - Let us know in Gitter chat
