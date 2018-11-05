@@ -26,8 +26,7 @@ In order to run `planet`, you will need Docker Community Edition installed.
 ](https://docs.docker.com/docker-for-windows/install/#what-to-know-before-you-install) and run `choco install docker-for-windows`
 - If you do not have Windows version specified above, you will need to install [Docker Toolbox](https://docs.docker.com/toolbox/overview/). Please follow the official guide [Install Docker Toolbox on Windows](https://docs.docker.com/toolbox/toolbox_install_windows/).
 
-**NOTE**: If you use docker toolbox, it might downgrade your virtual box, make sure that your virtual box is up to
-date after installation
+**NOTE**: If you use **docker toolbox**, it might downgrade your virtual box, make sure that your virtual box is up to date after installation
 
 ### macOS
 
