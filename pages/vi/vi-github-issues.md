@@ -41,11 +41,11 @@ Every time you start to work on an issue, you need to create a branch to keep is
 `git push origin master` 
 More details in the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
-Use `git checkout master` to switch to master branch, then use `git checkout -b name_of_your_new_branch` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
+Use `git checkout master` to switch to master branch, then use `git checkout -b <name_of_your_new_branch>` to create and switch to a new branch on your local repository. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
 Now you can go and make the proposed changes to your local files.
 
-NOTE: Use `git branch` to see which branch you are in. Your `master` branch is the base working branch. It needs to remain untouched just in case you need to revert some changes back to a working version. Make sure you are on right branch using `git checkout branch-name` while making proposed changes to your local files and while committing.
+NOTE: Use `git branch` to see which branch you are in. Your `master` branch is the base working branch. It needs to remain untouched just in case you need to revert some changes back to a working version. Make sure you are on right branch using `git checkout <branch-name>` while making proposed changes to your local files and while committing.
 
 If you're still confused, that's quite alright. [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) can be quite challenging at first. See this diagram below. For better context, the new branch you just made is inside your "Forked Github IO".
 
@@ -63,10 +63,10 @@ Use the next commands to commit and push the changes:
 2.  `git add .` to stage **ALL** of the modified files shown, 
     or `git add <file1> <file2> <file3>...` to stage specific modified files. 
 
-3.  `git commit -m "your_commit_message (fixes #issue_no)"` 
+3.  `git commit -m "<your_commit_message> (fixes #<issue_no>)"` 
 	(refer to the commit message guidelines below). 
 
-4.  `git push -u origin name_of_your_new_branch` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
+4.  `git push -u origin <name_of_your_new_branch>` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
 
 ### Commit Message Style Guide
 
@@ -137,7 +137,7 @@ After your pull request has been approved and merged by OLE staff, you might wan
 ![Delete Merged Branch](images/vi-delete-merged-branch.png)
 
 * **Delete the branch from your local repository.**
-To delete the defunct branch in your local repository, use the command `git branch -d yourLocalBranchName` (make sure you are not on the branch that you want to delete). Go [here](https://tecadmin.net/delete-git-remote-and-local-branch/) to find out more about how to delete a branch locally.
+To delete the defunct branch in your local repository, use the command `git branch -d <yourLocalBranchName>` (make sure you are not on the branch that you want to delete). Go [here](https://tecadmin.net/delete-git-remote-and-local-branch/) to find out more about how to delete a branch locally.
 
 NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md).
 
