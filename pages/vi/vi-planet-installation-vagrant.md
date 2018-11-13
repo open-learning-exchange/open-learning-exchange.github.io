@@ -126,6 +126,6 @@ At this early stage, the simple solution would be using `vagrant destroy dev` to
 
 ## Next Section **→**
 
-Now  you have installed your community Planet, head over to [Planet Configurations](#!./pages/vi/vi-configurations.md) to register your community with the nation.
+Now  you have installed your community Planet, head over to [Planet Configurations](#!./pages/vi/vi-configurations-vagrant.md) to register your community with the nation.
 
 #### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Vagrant)

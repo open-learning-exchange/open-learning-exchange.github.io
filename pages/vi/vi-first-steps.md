@@ -42,7 +42,7 @@ There are 3 sections in this step:
 1. [Planet Installation with vagrant](#!./pages/vi/vi-planet-installation-vagrant.md)
   The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this section, you will learn about how to set up your own Community Planet using vagrant.
 
-1. [Planet Configurations](vi-configurations.md)
+1. [Planet Configurations](vi-configurations-vagrant.md)
   In this section, you will learn about how to configure your Community Planet.
 
 1. [Vagrant Tutorial](vi-vagrant.md)
@@ -50,13 +50,10 @@ There are 3 sections in this step:
 
 ## Step 2 - Planet and Docker
 
-There are 3 sections in this step:
+There are 2 sections in this step:
 
 1. [Planet Installation with docker](#!./pages/vi/vi-planet-installation-and-configuration.md)
   The objective is to create a Progressive Web App using Angular & CouchDB. In this section, you will learn about how to set up your own Community Planet using docker.
-
-1. [Planet Configurations](vi-configurations.md)
-  In this section, you will learn about how to configure your Community Planet.
 
 1. [Docker Tutorial](vi-docker-tutorial.md)
   **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface.
