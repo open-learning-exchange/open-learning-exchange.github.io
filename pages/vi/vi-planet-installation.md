@@ -1,15 +1,15 @@
-# BeLL Installation
+# Planet Installation
 
 ## Objectives
 
-- Set up an environment for Bell
-- Install Community Bell
+- Set up an environment for Planet
+- Install Community Planet
 
 ## Introduction
 
-The Basic e-Learning Library (BeLL) is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
+The Planet is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources.
 
-Please follow the directions of your OS below to install your community BeLL and its dependencies on our system.
+Please follow the directions of your OS below to install your community Planet and its dependencies on our system.
 
 ## Prerequisites
 
@@ -34,7 +34,7 @@ If so, here are instructions to enable virtualization on [Windows](https://www.h
 
 ## Windows
 
-We wrote two different scripts to install the community BeLL and its dependencies on your computer.
+We wrote two different scripts to install the community Planet and its dependencies on your computer.
 
 They are equivalent, so if you run Windows 8.1 or above, you can use either of the two. If you like, you can also try both and provide us with feedback on which one worked better for you. It is not required to try both, but we would be grateful if you decide to do so.   
 
@@ -52,18 +52,14 @@ powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.github
 ```
 Note: If you see a message in the terminal which tells you to upgrade PowerShell to version 3, please refer to [Troubleshooting](#Troubleshooting) (point 2).
 
-To run your community BeLL at the end of the installation, please find the MyBeLL icon on your desktop and double click on it. It will open a Firefox browser and take you directly to your community BeLL web page.
+To run your community Planet at the end of the installation, please open browser and browse [http://localhost:3000](http://localhost:3000)
 
-Note: If Firefox displays ```Unable to connect``` error when the MyBell icon is clicked, visit [Vagrant instructions](#!pages/vi/vi-vagrant.md) for more information on ```vagrant up```.
+Note: If browser displays ```Unable to connect``` error, visit [Vagrant instructions](#!pages/vi/vi-vagrant.md) for more information on ```vagrant up```.
 
 #### Dependencies
 
 These programs will be automatically installed on your computer:
 
-- **Chocolatey**
-[Chocolatey](https://chocolatey.org/) is a package manager for Windows that we use to install/uninstall all the other programs in a simple and reliable way.
-- **Bonjour**
-[Bonjour](https://support.apple.com/kb/DL999?locale=en_US) is used to implement zero-configuration networking on your computer.
 - **Git**
 [Git](https://git-scm.com) is an open source version control system that we use for communication and management for our software. More specifically, we use gitter.im for communication and github.com for software management.
 - **VirtualBox**
@@ -73,11 +69,8 @@ These programs will be automatically installed on your computer:
 - **Vagrant**  
 [Vagrant](https://www.vagrantup.com) is an open source tool for building development environments.
 
-- **Firefox**
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) is a popular browser, which is guaranteed to work nicely with your community BeLL.
-
-You now have a working [community BeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS. If you run into a problem, head over to [Troubleshooting section](#Troubleshooting).
-It is advisable to use Firefox to access your community BeLL. If you don't have it already, you may want to download it.
+You now have a working [community Planet](http://localhost:3000) on your OS. If you run into a problem, head over to [Troubleshooting section](#Troubleshooting).
+It is advisable to use Firefox to access your community Planet. If you don't have it already, you may want to download it.
 
 ---
 
@@ -116,18 +109,18 @@ sudo dpkg -i vagrant.deb
 sudo apt-get install -f
 ```
 
-### Install a Community BeLL
+### Install a Community Planet
 
 Make sure you `cd` to the designated OLE directory you created earlier.
 
 ```bash
-git clone https://github.com/dogi/ole--vagrant-vi.git
-cd ole--vagrant-vi
-vagrant up
+git clone https://github.com/open-learning-exchange/planet.git
+cd plaent
+vagrant up dev
 ```
 
-You now have a working [community BeLL](http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html) on your OS.
-It is advisable to use Firefox to access your community BeLL. If you don't have Firefox already, you may want to [download](https://www.mozilla.org/en-US/firefox/new/) it.
+You now have a working [community Planet](http://localhost:3000) on your OS.
+It is advisable to use Firefox to access your community Planet. If you don't have Firefox already, you may want to [download](https://www.mozilla.org/en-US/firefox/new/) it.
 
 ---
 
@@ -138,7 +131,7 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 2. On Windows, when you run `vagrant up` from command prompt, you might get the following error :
 "The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
 
-  On Windows 7 the BeLL-Apps installation might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Windows Management Framework 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595). Please, read the installation instructions to know which version to download.
+  On Windows 7 the Planet installation might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Windows Management Framework 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595). Please, read the installation instructions to know which version to download.
   Your computer will restart and then the installation will resume.
 
 3. On Ubuntu, you might get this error when you run `vagrant up`:
@@ -149,15 +142,15 @@ It is advisable to use Firefox to access your community BeLL. If you don't have 
 
    To solve it first remove the unused packages using `sudo apt-get autoremove`. Then reconfigure VirtualBox to install updated modules using `sudo /sbin/vboxconfig`
 
-4. If you see "no_db_found" when trying to access <http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html>: 
-At this early stage, the simple solution would be using `vagrant destroy` to delete the current machine, then use `vagrant up` to rebuild it.
+4. If you see "no_db_found" when trying to access <http://localhost:3000>: 
+At this early stage, the simple solution would be using `vagrant destroy dev` to delete the current machine, then use `vagrant up dev` to rebuild it.
 
-5. If the command `vagrant up` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
+5. If the command `vagrant up dev` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
 
 6. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
 
 ## Next Section **→**
 
-Now  you have installed your community Bell, head over to [BeLL Configurations](#!./pages/vi/vi-configurations.md) to register your community with the nation.
+Now  you have installed your community Planet, head over to [Planet Configurations](#!./pages/vi/vi-configurations.md) to register your community with the nation.
 
-#### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_and_Vagrant)
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Vagrant)
