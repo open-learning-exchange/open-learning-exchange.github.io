@@ -34,43 +34,18 @@ If so, here are instructions to enable virtualization on [Windows](https://www.h
 
 ## Windows
 
-We wrote two different scripts to install the community Planet and its dependencies on your computer.
-
-They are equivalent, so if you run Windows 8.1 or above, you can use either of the two. If you like, you can also try both and provide us with feedback on which one worked better for you. It is not required to try both, but we would be grateful if you decide to do so.   
-
-To run the script, copy and paste one of the lines below in a [Command prompt](http://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/) opened as administrator.
-
-##### Windows 8.1 and Above
-
-```bat
-@powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/dogi/ole--vagrant-vi/master/windows/install.ps1', 'install.ps1')" && @powershell -NoProfile -ExecutionPolicy Bypass -Command ".\install.ps1"
-```
-##### Windows 7 and Above
-
-```bat
-powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/dogi/ole--vagrant-vi/master/windows/install.bat', 'install.bat')" && start install.bat && exit
-```
-Note: If you see a message in the terminal which tells you to upgrade PowerShell to version 3, please refer to [Troubleshooting](#Troubleshooting) (point 2).
-
-To run your community Planet at the end of the installation, please open browser and browse [http://localhost:3000](http://localhost:3000)
-
-Note: If browser displays ```Unable to connect``` error, visit [Vagrant instructions](#!pages/vi/vi-vagrant.md) for more information on ```vagrant up```.
-
 #### Dependencies
 
-These programs will be automatically installed on your computer:
+You need to install following programs on your computer:
 
 - **Git**
-[Git](https://git-scm.com) is an open source version control system that we use for communication and management for our software. More specifically, we use gitter.im for communication and github.com for software management.
+[Git](https://git-scm.com) is an open source version control system that we use for communication and management for our software. More specifically, we use gitter.im for communication and github.com for software management. [Download](https://git-scm.com/download/win)
+
 - **VirtualBox**
-[Virtualbox](https://www.virtualbox.org) allows you to install a software virtualization package as an application on your OS.
+[Virtualbox](https://www.virtualbox.org) allows you to install a software virtualization package as an application on your OS. [Download](https://www.virtualbox.org/wiki/Downloads)
 
-  **Note:** if you already have VirtualBox installed on your computer and have existing VMs on virtualbox already, running the command above will re-intall VirtualBox and won't affect/wipe out your existing VMs; it will only add the a VM called "vi" to the ones you already have.
 - **Vagrant**  
-[Vagrant](https://www.vagrantup.com) is an open source tool for building development environments.
-
-You now have a working [community Planet](http://localhost:3000) on your OS. If you run into a problem, head over to [Troubleshooting section](#Troubleshooting).
-It is advisable to use Firefox to access your community Planet. If you don't have it already, you may want to download it.
+[Vagrant](https://www.vagrantup.com) is an open source tool for building development environments. [Download](https://www.vagrantup.com/downloads.html)
 
 ---
 
@@ -115,7 +90,7 @@ Make sure you `cd` to the designated OLE directory you created earlier.
 
 ```bash
 git clone https://github.com/open-learning-exchange/planet.git
-cd plaent
+cd planet
 vagrant up dev
 ```
 
@@ -126,15 +101,15 @@ It is advisable to use Firefox to access your community Planet. If you don't hav
 
 ## Troubleshooting
 
-1. On macOS, when you run `vagrant up`, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to use this command `sudo rm /opt/vagrant/embedded/bin/curl`, This will remove the old version of curl in Vagrant and `vagrant up` should now work as usual. For more information, visit [this Stack Overflow question](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+1. On macOS, when you run `vagrant up dev`, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to use this command `sudo rm /opt/vagrant/embedded/bin/curl`, This will remove the old version of curl in Vagrant and `vagrant up` should now work as usual. For more information, visit [this Stack Overflow question](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
 
-2. On Windows, when you run `vagrant up` from command prompt, you might get the following error :
-"The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
+2. On Windows, when you run `vagrant up dev` from command prompt, you might get the following error :
+"The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up dev`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
 
   On Windows 7 the Planet installation might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Windows Management Framework 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595). Please, read the installation instructions to know which version to download.
   Your computer will restart and then the installation will resume.
 
-3. On Ubuntu, you might get this error when you run `vagrant up`:
+3. On Ubuntu, you might get this error when you run `vagrant up dev`:
 
    > Stderr: VBoxManage: error: The virtual machine 'ud381_default_1463617458900_49294' has terminated unexpectedly during startup with exit code 1 (0x1) VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component MachineWrap, interface IMachine
 

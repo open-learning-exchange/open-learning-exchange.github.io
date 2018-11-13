@@ -26,8 +26,6 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 0 - Introductory Steps
 
-**NOTE**: We recommend using Chrome for these steps, as you may encounter cosmetic bugs with other browsers.
-
 1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
 
 2. Create a [GitHub account](https://github.com/) then watch <a href="https://github.com/open-learning-exchange/open-learning-exchange.github.io" target="_blank">Open Learning Exchange's github.io repo</a> and Follow [Leonard](https://github.com/leomaxi) and [Dogi](https://github.com/dogi) on GitHub. In GitHub, we "Watch" organization repositories and "Follow" individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing. (Click on the image to enlarge.)
@@ -41,8 +39,8 @@ There is no official deadline to complete these steps, but most candidates who a
 
 There are 3 sections in this step:
 
-1. [Planet Installation](#!./pages/vi/vi-planet-installation.md)
-  The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this section, you will learn about how to set up your own Community Planet.
+1. [Planet Installation with vagrant](#!./pages/vi/vi-planet-installation-vagrant.md)
+  The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this section, you will learn about how to set up your own Community Planet using vagrant.
 
 1. [Planet Configurations](vi-configurations.md)
   In this section, you will learn about how to configure your Community Planet.
@@ -52,10 +50,13 @@ There are 3 sections in this step:
 
 ## Step 2 - Planet and Docker
 
-There are 2 sections in this step:
+There are 3 sections in this step:
 
-1. [Planet Installation and Configuration](#!./pages/vi/vi-planet-installation-and-configuration.md)
-  The objective is to create a Progressive Web App using Angular & CouchDB. In this section, you will learn about how to install and configure your own community Planet.
+1. [Planet Installation with docker](#!./pages/vi/vi-planet-installation-and-configuration.md)
+  The objective is to create a Progressive Web App using Angular & CouchDB. In this section, you will learn about how to set up your own Community Planet using docker.
+
+1. [Planet Configurations](vi-configurations.md)
+  In this section, you will learn about how to configure your Community Planet.
 
 1. [Docker Tutorial](vi-docker-tutorial.md)
   **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface.
@@ -109,8 +110,8 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 ## Step 9 - Submit Survey
 
-Once you have finished step 8, let us know in the Gitter chat so that we can send the survey to your community. The survey notification will appear at the bottom of the dashboard in your community Planet. Once you fill out and submit the survey, sync your community with the nation (as you did in step 7.)
+Once you have finished step 8, let us know in the Gitter chat so that we can send the survey to your community. The survey notification will appear at the left of the dashboard in your community Planet. Once you fill out and submit the survey, sync your community with the nation (as you did in step 7.)
 
-Next thing is to add yourself to the virtual intern list found in vi-team.md and create a pull request. Message us ("@/all" and "@dogi") in the Gitter chat room so that we can set up a meeting and add you to the team as soon as possible.
+Next thing is to add yourself to the virtual intern list found in [vi-team.md](vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Gitter chat room so that we can set up a meeting and add you to the team as soon as possible.
 
 Make sure to read through the [intern orientation document](#!./pages/robots/rbts-intern-orientation.md) before the meeting.
