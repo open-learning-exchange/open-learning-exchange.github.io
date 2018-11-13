@@ -24,49 +24,49 @@ The Planet is not only a library, but also an individualized learning system, wh
 
 ## macOS and Ubuntu
 
-Check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up`, open Firefox (download if you don't already have it - it is VERY important that you always use the Planet in Firefox to limit errors). Go to http://127.0.0.1:5985. You could also use http://localhost:5985, meaning that 127.0.0.1 refers to your machine. Both localhost:5985 and 127.0.0.1:5985 are interchangeable. Make sure to have the correct port number (5985), otherwise it will not work correctly.
-
-Your first page will look like this:
-
-![127.0.0.1:5985](images/vi-127.0.0.1-5985.png)
+Check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up dev`, open browser. Go to http://localhost:3000. Make sure to have the correct port number (3000), otherwise it will not work correctly.
 
 ## Windows
 
 Open browser and browse [http://localhost:3000](http://localhost:3000). You should see the user interface of application (see below).  If you get an `Unable to connect` page, check out Q13 at [FAQ](vi-faq.md#Technical_Questions).
 
 ## Database
-[CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the BeLL. You can see the backend interface of our CouchDB at http://127.0.0.1:5985/_utils. In _utils, you have the opportunity to see all of the software dev of your vagrant BeLL.
+[CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the BeLL. You can see the backend interface of our CouchDB at http://localhost:2200/_utils. In _utils, you have the opportunity to see all data of your Planet application.
 
 ## User Interface
-To see the actual user interface, go to http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html.
-You will be shown the page below. Make sure you fill it out completely.
+To see the actual user interface, go to http://localhost:3000.
+You will be shown the page below. Make sure you remember the credentials.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
-Next, fill out the configurations. Your name and code must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Write your `name` in lowercase and `code` in uppercase, and pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) after submitting your registration request.**
+Next, fill out the configurations. Your name must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) after submitting your registration request.**
 
 ![Configurations](images/vi-configuration.png)
 
 **Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply copy and paste the image.*
 
-Then, click on the **"Register"** button. Your registration request for your community will be automatically accepted from the nation side. You will see the following message.
+Next, you will see form for contact details of administrator (maintainer) of the community. Provide your information as contact details.
+
+![Contact Details](images/vi-contact-details.png)
+
+Then, click on the **"Submit"** button. Your registration request for your community will be send to nation side for approval. You will see the following message.
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
 
-After clicking on the OK button, you will be automatically logged in.
+Now you can login with the admin credential you created.
 
 Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) the screenshot you took earlier.
 
 ## Troubleshooting
 
-1. When trying to access http://127.0.0.1:5985/apps/_design/bell/MyApp/index.html you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant destroy``` to delete the current machine, then try ```vagrant up``` to rebuild it.
+1. When trying to access http://localhost:3000 you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant halt dev``` ```vagrant destroy dev``` to delete the current machine, then try ```vagrant up dev``` to rebuild it.
 
-2. If you accidentally delete your BeLL admin acccount, creating a new learner account on login page will casue problem in latter steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy` then `vagrant up` in `ole--vagrant-vi` folder.
+2. If you accidentally delete your Planet admin acccount, creating a new learner account on login page will casue problem in latter steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy dev` then `vagrant up dev` in `planet` folder.
 
-3. In the case you use the command `vagrant destroy`, your community BeLL will be wiped together with the virtual machine, but  community registration still exist on the nation side. After rebuilding your community BeLL using `vagrant up`, fill out the configurations again with a slightly difference Name and Code (e.g. adding a number or letter to the end of your original GitHub username) so we can still locate your community on the Nation side.
+3. In the case you use the command `vagrant destroy dev`, your community Planet will be wiped together with the virtual machine, but  community registration still exist on the nation side. After rebuilding your community Planet using `vagrant up dev`, fill out the configurations again with a slightly difference Name (e.g. adding a number or letter to the end of your original GitHub username) so we can still locate your community on the Nation side.
 
 ## Next Section **→**
 
-Now you have configured your community BeLL, head over to [Vagrant Tutorial](vi-vagrant.md) to learn about how to interact with Vagrant through the command-line interface. You should be familiar with this since you will need to use it to control virtual machines during your internship.
+Now you have configured your community Planet, head over to [Vagrant Tutorial](vi-vagrant.md) to learn about how to interact with Vagrant through the command-line interface. You should be familiar with this since you will need to use it to control virtual machines during your internship.
 
-#### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_and_Vagrant)
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Vagrant)
