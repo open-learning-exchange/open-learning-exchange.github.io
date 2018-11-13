@@ -10,7 +10,6 @@
 
   * [**Introduction**](pages/translators/la-introduction.md)
   - - - -
-  * [BeLL](https://crowdin.com/project/open-learning-exchange/invite)
   * [Planet](https://crowdin.com/project/ole-planet/invite)
   * [Take Home](https://crowdin.com/project/take-home/invite)
   * [Remote](https://crowdin.com/project/treehousesremote/invite)
@@ -21,13 +20,13 @@
   * [FAQ](pages/vi/vi-faq.md)
   - - - -
   * [Step 0 - Introductory Steps](pages/vi/vi-first-steps.md#Step_0_-_Introductory_Steps)
-  * [Step 1 - BeLL and Vagrant](pages/vi/vi-bell-installation.md)
+  * [Step 1 - Planet and Vagrant](pages/vi/vi-planet-installation.md)
   * [Step 2 - Planet and Docker](pages/vi/vi-planet-installation-and-configuration.md)
   * [Step 3 - Markdown and Fork Tutorial](pages/vi/vi-github-and-markdown.md)
-  * [Step 4 - BeLL-Apps and Planet Tutorial](pages/vi/vi-bellapps.md)
+  * [Step 4 - Planet Tutorial](pages/vi/vi-planetapps.md)
   * [Step 5 - Keeping Fork Updated](pages/vi/vi-github-and-repositories.md)
   * [Step 6 - GitHub Issues Tutorial](pages/vi/vi-github-issues.md)
-  * [Step 7 - Nation BeLL](pages/vi/vi-nation.md)
+  * [Step 7 - Nation Planet](pages/vi/vi-nation.md)
   * [Step 8 - Create Issues and Pull Requests](pages/vi/vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)
   * [Step 9 - Submit Survey](pages/vi/vi-first-steps.md#Step_9_-_Submit_Survey)
   * [Track Progress](pages/vi/vi-track-progress.md)
@@ -44,7 +43,7 @@
   * [Tablet Configuration](pages/techgenius/tg-tablet-config.md)
   * [Community Installation](pages/techgenius/tg-install.md)
   * [Community Installation / RPi3](pages/techgenius/tg-rp3-installation.md)
-  * [Manual / Full Installation](pages/vi/vi-bell-installation.md)
+  * [Manual / Full Installation](pages/vi/vi-planet-installation.md)
   * [Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
   - - - -
   * [Content & Library Management](pages/techgenius/tg-library-management.md)

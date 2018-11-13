@@ -113,7 +113,7 @@ or not commonly used. To see all subcommands, run the command
 
 ## Useful Links
 
-[Instructions to install Vagrant - README.md](http://open-learning-exchange.github.io/#!pages/vi/vi-planet-installation.md)
+[Instructions to install Vagrant - README.md](#!pages/vi/vi-planet-installation.md)
 [Why install Vagrant?](https://www.vagrantup.com/intro/index.html) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
 [Vagrant download](https://www.vagrantup.com/downloads.html)
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
