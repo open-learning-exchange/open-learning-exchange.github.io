@@ -75,10 +75,6 @@ Take the course, and the last question will ask you to specify any problems or i
 
 If the course "Virtual Interns" is not there, check **Manage Sync** of manager settings to see if your synchronization are completed. Otherwise please message us and "@" an admin in the Gitter chat so we can send you the course manually.
 
-## Next Section **→**
-
-Now you have played around with Planet, head over to [**Keeping Fork Updated**](vi-github-and-repositories.md).
-
 ## Useful Links
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
