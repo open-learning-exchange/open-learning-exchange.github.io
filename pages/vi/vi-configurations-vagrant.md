@@ -31,7 +31,7 @@ Check that your vagrant is up and running with `vagrant global-status`. Assuming
 Open browser and browse [http://localhost:3000](http://localhost:3000). You should see the user interface of application (see below).  If you get an `Unable to connect` page, check out Q13 at [FAQ](vi-faq.md#Technical_Questions).
 
 ## Database
-[CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the BeLL. You can see the backend interface of our CouchDB at http://localhost:2200/_utils. In _utils, you have the opportunity to see all data of your Planet application.
+[CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the Planet. You can see the backend interface of our CouchDB at http://localhost:2200/_utils. In _utils, you have the opportunity to see all data of your Planet application.
 
 ## User Interface
 To see the actual user interface, go to http://localhost:3000.
