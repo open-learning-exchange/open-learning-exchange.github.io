@@ -24,17 +24,17 @@ The Planet is not only a library, but also an individualized learning system, wh
 
 ## macOS and Ubuntu
 
-Check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up dev`, open browser. Go to http://localhost:3000. Make sure to have the correct port number (3000), otherwise it will not work correctly.
+Check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up prod`, open browser. Go to http://localhost:3100. Make sure to have the correct port number (3000), otherwise it will not work correctly.
 
 ## Windows
 
-Open browser and browse [http://localhost:3000](http://localhost:3000). You should see the user interface of application (see below).  If you get an `Unable to connect` page, check out Q13 at [FAQ](vi-faq.md#Technical_Questions).
+Open browser and browse [http://localhost:3100](http://localhost:3100). You should see the user interface of application (see below).  If you get an `Unable to connect` page, check out Q13 at [FAQ](vi-faq.md#Technical_Questions).
 
 ## Database
-[CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the Planet. You can see the backend interface of our CouchDB at http://localhost:2200/_utils. In _utils, you have the opportunity to see all data of your Planet application.
+[CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the Planet. You can see the backend interface of our CouchDB at http://localhost:2300/_utils. In _utils, you have the opportunity to see all data of your Planet application.
 
 ## User Interface
-To see the actual user interface, go to http://localhost:3000.
+To see the actual user interface, go to http://localhost:3100.
 You will be shown the page below. Make sure you remember the credentials.
 
 ![Become an Administrator](images/vi-become-admin.png)
@@ -59,11 +59,11 @@ Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) t
 
 ## Troubleshooting
 
-1. When trying to access http://localhost:3000 you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant halt dev``` ```vagrant destroy dev``` to delete the current machine, then try ```vagrant up dev``` to rebuild it.
+1. When trying to access http://localhost:3100 you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant halt prod``` ```vagrant destroy prod``` to delete the current machine, then try ```vagrant up prod``` to rebuild it.
 
-2. If you accidentally delete your Planet admin acccount, creating a new learner account on login page will casue problem in latter steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy dev` then `vagrant up dev` in `planet` folder.
+2. If you accidentally delete your Planet admin acccount, creating a new learner account on login page will casue problem in latter steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy prod` then `vagrant up prod` in `planet` folder.
 
-3. In the case you use the command `vagrant destroy dev`, your community Planet will be wiped together with the virtual machine, but  community registration still exist on the nation side. After rebuilding your community Planet using `vagrant up dev`, fill out the configurations again with a slightly difference Name (e.g. adding a number or letter to the end of your original GitHub username) so we can still locate your community on the Nation side.
+3. In the case you use the command `vagrant destroy prod`, your community Planet will be wiped together with the virtual machine, but  community registration still exist on the nation side. After rebuilding your community Planet using `vagrant up prod`, fill out the configurations again with a slightly difference Name (e.g. adding a number or letter to the end of your original GitHub username) so we can still locate your community on the Nation side.
 
 ## Next Section **→**
 

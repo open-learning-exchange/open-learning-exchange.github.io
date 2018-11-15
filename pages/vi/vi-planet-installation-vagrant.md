@@ -94,22 +94,22 @@ cd planet
 vagrant up dev
 ```
 
-You now have a working [community Planet](http://localhost:3000) on your OS.
+You now have a working [community Planet](http://localhost:3100) on your OS.
 It is advisable to use Firefox to access your community Planet. If you don't have Firefox already, you may want to [download](https://www.mozilla.org/en-US/firefox/new/) it.
 
 ---
 
 ## Troubleshooting
 
-1. On macOS, when you run `vagrant up dev`, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to use this command `sudo rm /opt/vagrant/embedded/bin/curl`, This will remove the old version of curl in Vagrant and `vagrant up` should now work as usual. For more information, visit [this Stack Overflow question](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+1. On macOS, when you run `vagrant up prod`, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to use this command `sudo rm /opt/vagrant/embedded/bin/curl`, This will remove the old version of curl in Vagrant and `vagrant up` should now work as usual. For more information, visit [this Stack Overflow question](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
 
-2. On Windows, when you run `vagrant up dev` from command prompt, you might get the following error :
-"The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up dev`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
+2. On Windows, when you run `vagrant up prod` from command prompt, you might get the following error :
+"The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up prod`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
 
   On Windows 7 the Planet installation might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Windows Management Framework 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595). Please, read the installation instructions to know which version to download.
   Your computer will restart and then the installation will resume.
 
-3. On Ubuntu, you might get this error when you run `vagrant up dev`:
+3. On Ubuntu, you might get this error when you run `vagrant up prod`:
 
    > Stderr: VBoxManage: error: The virtual machine 'ud381_default_1463617458900_49294' has terminated unexpectedly during startup with exit code 1 (0x1) VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component MachineWrap, interface IMachine
 
@@ -117,10 +117,10 @@ It is advisable to use Firefox to access your community Planet. If you don't hav
 
    To solve it first remove the unused packages using `sudo apt-get autoremove`. Then reconfigure VirtualBox to install updated modules using `sudo /sbin/vboxconfig`
 
-4. If you see "no_db_found" when trying to access <http://localhost:3000>: 
-At this early stage, the simple solution would be using `vagrant destroy dev` to delete the current machine, then use `vagrant up dev` to rebuild it.
+4. If you see "no_db_found" when trying to access <http://localhost:3100>: 
+At this early stage, the simple solution would be using `vagrant destroy prod` to delete the current machine, then use `vagrant up prod` to rebuild it.
 
-5. If the command `vagrant up dev` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
+5. If the command `vagrant up prod` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
 
 6. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
 

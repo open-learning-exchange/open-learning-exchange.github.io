@@ -52,17 +52,17 @@ with Vagrant commands from any directory. For example:
 ```
 
 The above output tells us:
-- We have a Vagrant virtual machine called `dev` running in VirtualBox.
+- We have a Vagrant virtual machine called `prod` running in VirtualBox.
 - The directory of the virtual machine's Vagrantfile is located at `/Users/aberdean/planet`.
 
 ## Vagrant Commands
 
-- [`vagrant up dev`](https://www.vagrantup.com/docs/cli/up.html) will turn the virtual machine back on if it's currently "poweroff".
-- [`vagrant suspend dev`](https://www.vagrantup.com/docs/cli/suspend.html) will suspend the "running" virtual machine, its state will become "saved".
-- [`vagrant halt dev`](https://www.vagrantup.com/docs/cli/halt.html) will shut down the "running" virtual machine, its state will become "poweroff".
-- [`vagrant destroy dev`](https://www.vagrantup.com/docs/cli/destroy.html) will delete the virtual machine entirely. To use community Planet again, we will have to rebuild a new machine from scratch using `vagrant up`.
+- [`vagrant up prod`](https://www.vagrantup.com/docs/cli/up.html) will turn the virtual machine back on if it's currently "poweroff".
+- [`vagrant suspend prod`](https://www.vagrantup.com/docs/cli/suspend.html) will suspend the "running" virtual machine, its state will become "saved".
+- [`vagrant halt prod`](https://www.vagrantup.com/docs/cli/halt.html) will shut down the "running" virtual machine, its state will become "poweroff".
+- [`vagrant destroy prod`](https://www.vagrantup.com/docs/cli/destroy.html) will delete the virtual machine entirely. To use community Planet again, we will have to rebuild a new machine from scratch using `vagrant up`.
 
-To conserve hardware resources of your computer, you could use `vagrant halt dev` to shutdown the virtual machine that's running your community Planet. Use `vagrant up dev` to turn the virtual machine back on when you need to access your community Planet again.
+To conserve hardware resources of your computer, you could use `vagrant halt prod` to shutdown the virtual machine that's running your community Planet. Use `vagrant up prod` to turn the virtual machine back on when you need to access your community Planet again.
 
 ## More about Vagrant CLI
 

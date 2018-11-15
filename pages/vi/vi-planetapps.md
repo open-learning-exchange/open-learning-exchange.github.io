@@ -7,7 +7,7 @@
 * Add resources to your Community in order to get accustomed to the Planet interface
 
 ## Preparation
-Please go to http://localhost:3000 or run `vagrant global-status` in the command line to see if your community Planet is currently running. If not, please `cd` into `planet` directory in your local machine and run `vagrant up dev`.
+Please go to http://localhost:3100 or run `vagrant global-status` in the command line to see if your community Planet is currently running. If not, please `cd` into `planet` directory in your local machine and run `vagrant up prod`.
 
 Do not forget to send the screenshot of your Planet community configurations ([from the earlier step when you registered your configurations](vi-configurations-vagrant.md)) to our chat. In case you forgot to take the screenshot of your configurations, login to Planet, click on manager settings (top bar person with gear icon), click on the configuration button, take a screenshot of the page, and send it to the Gitter chat.
 
@@ -32,7 +32,7 @@ Here are three type of resources that you can download to your computer and then
 [mp3 song - "Opposite Song"](music/vi-oppositesong.mp3)
 [mp4 video - "Burka Avenger"](movies/vi-burkaavenger.mp4)
 
-Next, go to [your community Planet](http://localhost:3000). Select `Library` from the dashboard, then select `+` icon. You will see:
+Next, go to [your community Planet](http://localhost:3100). Select `Library` from the dashboard, then select `+` icon. You will see:
 
 ![Upload resource screenshot](images/vi-add-new-resource.png)
 
