@@ -59,6 +59,7 @@
   * [**Takeout (Android)**](pages/robots/rbts-takeout.md)
   * [**Docker**](pages/robots/rbts-docker.md)
   - - - -
+  * [BeLL-Apps Markdown Wiki](https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/bellapps/#!index.md)
   * [Simple Dev Install](pages/robots/rbts-simple-install.md)
   * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
   * [Automated Testing](pages/robots/rbts-automated-testing.md)
