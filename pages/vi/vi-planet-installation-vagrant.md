@@ -91,7 +91,7 @@ Make sure you `cd` to the designated OLE directory you created earlier.
 ```bash
 git clone https://github.com/open-learning-exchange/planet.git
 cd planet
-vagrant up dev
+vagrant up prod
 ```
 
 You now have a working [community Planet](http://localhost:3100) on your OS.
