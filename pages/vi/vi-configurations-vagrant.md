@@ -19,7 +19,7 @@ The Planet is not only a library, but also an individualized learning system, wh
 #### Planet Nations (Internet)
 
 * Nations are Planet apps for the Internet, allowing communities to interact with each other.
-* Nations are over a group of communities, and can run reports on any communities it owns.
+* Nations are connected to many communities, and can run reports on any communities it owns.
 * As you complete these instructions, an OLE administrator will complete the registration of your community with the Virtual Intern Nation.
 
 ## macOS and Ubuntu
