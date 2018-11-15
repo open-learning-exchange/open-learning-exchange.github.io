@@ -103,7 +103,7 @@ Create three more issues, add comments to three other issues, and resolve three 
 
 Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! (please refer to [#1108](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1108)). You must have made your pull requests and have them each approved by at least three other OLE team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 
-**NOTE**: For every new issue created, a new branch should be created for that issue.
+**NOTE**: For every new issue/commit created, a new branch should be created for that commit.
 
 **NOTE**: When you are fixing an issue, mention the number of the issue you are fixing in the title of your pull request.
 
