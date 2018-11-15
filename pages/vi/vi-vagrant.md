@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In [Step 1 - BeLL Installation - Installation](vi-bell-installation.md), we installed Vagrant, VirtualBox, Git, and BeLL to our OS.
+In [Step 1 - Planet Installation with vagrant](vi-planet-installation.md), we installed Vagrant, VirtualBox, Git, and Planet to our OS.
 
 **[Vagrant](https://www.vagrantup.com/) is an open-source software product for building and maintaining portable virtual software development environments.** Below, you will find some basic instruction on interacting with Vagrant through the command-line interface (CLI). You should be familiar with this since you will need to use it to control virtual machines during your internship.
 
@@ -17,7 +17,7 @@ In [Step 1 - BeLL Installation - Installation](vi-bell-installation.md), we inst
 
 There are three command line programs you could use to interact with Vagrant CLI:
 
-1. **Git Bash**: This is our recommended command line program. GitBash is already installed along with ole--vagrant-vi installation script. After you open **Git Bash**, you will find its default directory at `C:\Users\YOUR_USERNAME`.
+1. **Git Bash**: This is our recommended command line program. GitBash is already installed along with planet installation script. After you open **Git Bash**, you will find its default directory at `C:\Users\YOUR_USERNAME`.
 
 2. **Command Prompt**: There are two Command Prompt options on Windows: **Command Prompt** and **Command Prompt(Admin)**. You could use either of them to access directories and interact with Vagrant CLI. The only difference is their default directory: **Command Prompt(Admin)** has `C:\Windows\system32` as default directory and **Command Prompt** has `C:\Users\YOUR_USERNAME` as default directory.
 
@@ -31,8 +31,8 @@ Normally we use Terminal to interact with Vagrant CLI.
 
 A lot of Vagrant commands require us to specify a target machine or run from a directory with target machine's Vagrantfile, otherwise you might encounter error like "A Vagrant environment or target machine is required." Please go to the directory that contains our Vagrantfile:
 
-- Windows user: `cd C:\Users\YOUR_USERNAME\ole--vagrant-vi`
-- macOS or Linux  user: `cd` to where you `git clone` the `ole--vagrant-vi` repository in Step 1 - Bell Installation
+- Windows user: `cd C:\Users\YOUR_USERNAME\planet`
+- macOS or Linux  user: `cd` to where you `git clone` the `planet` repository in Step 1 - Planet Installation
 
 ## Global Status
 
@@ -41,7 +41,7 @@ A lot of Vagrant commands require us to specify a target machine or run from a d
 ```
 id       name   provider   state   directory
 ---------------------------------------------------------------------------
-219abaa  vi     virtualbox running /Users/aberdean/ole--vagrant-vi
+219abaa  dev     virtualbox running /Users/aberdean/planet
 
 The above shows information about all known Vagrant environments
 on this machine. This data is cached and may not be completely
@@ -52,17 +52,17 @@ with Vagrant commands from any directory. For example:
 ```
 
 The above output tells us:
-- We have a Vagrant virtual machine called `vi` running in VirtualBox.
-- The directory of the virtual machine's Vagrantfile is located at `/Users/aberdean/ole--vagrant-vi`.
+- We have a Vagrant virtual machine called `prod` running in VirtualBox.
+- The directory of the virtual machine's Vagrantfile is located at `/Users/aberdean/planet`.
 
 ## Vagrant Commands
 
-- [`vagrant up`](https://www.vagrantup.com/docs/cli/up.html) will turn the virtual machine back on if it's currently "poweroff".
-- [`vagrant suspend`](https://www.vagrantup.com/docs/cli/suspend.html) will suspend the "running" virtual machine, its state will become "saved".
-- [`vagrant halt`](https://www.vagrantup.com/docs/cli/halt.html) will shut down the "running" virtual machine, its state will become "poweroff".
-- [`vagrant destroy`](https://www.vagrantup.com/docs/cli/destroy.html) will delete the virtual machine entirely. To use community BeLL again, we will have to rebuild a new machine from scratch using `vagrant up`.
+- [`vagrant up prod`](https://www.vagrantup.com/docs/cli/up.html) will turn the virtual machine back on if it's currently "poweroff".
+- [`vagrant suspend prod`](https://www.vagrantup.com/docs/cli/suspend.html) will suspend the "running" virtual machine, its state will become "saved".
+- [`vagrant halt prod`](https://www.vagrantup.com/docs/cli/halt.html) will shut down the "running" virtual machine, its state will become "poweroff".
+- [`vagrant destroy prod`](https://www.vagrantup.com/docs/cli/destroy.html) will delete the virtual machine entirely. To use community Planet again, we will have to rebuild a new machine from scratch using `vagrant up`.
 
-To conserve hardware resources of your computer, you could use `vagrant halt` to shutdown the virtual machine that's running your community BeLL. Use `vagrant up` to turn the virtual machine back on when you need to access your community BeLL again.
+To conserve hardware resources of your computer, you could use `vagrant halt prod` to shutdown the virtual machine that's running your community Planet. Use `vagrant up prod` to turn the virtual machine back on when you need to access your community Planet again.
 
 ## More about Vagrant CLI
 
@@ -113,10 +113,9 @@ or not commonly used. To see all subcommands, run the command
 
 ## Useful Links
 
-[Instructions to install Vagrant - README.md](https://github.com/dogi/ole--vagrant-vi)
 [Why install Vagrant?](https://www.vagrantup.com/intro/index.html) - Explanation of some basic concepts about why Vagrant is useful for developers, operators and designers.
 [Vagrant download](https://www.vagrantup.com/downloads.html)
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](vi-first-steps.md#Step_1_-_BeLL_and_Vagrant)
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Vagrant)
