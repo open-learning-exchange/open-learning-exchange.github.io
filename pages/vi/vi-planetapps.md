@@ -51,7 +51,7 @@ As you can see from the image below, there is an update ready to be downloaded. 
 
 ![Update from the nation](images/vi-update-publication.png "Dashboard in your localhost")
 
-- First, click the "Upgrade" button on Manager page and it take you to upgarde page. An update refers to a software update which improves the Planet. If you do not see "Upgrade" button then simply carry on.
+- First, click the "Upgrade" button on Manager page and it take you to upgrade page. An update refers to a software update which improves the Planet. If you do not see "Upgrade" button then simply carry on.
 - Next, click on "Get Courses" or "Get Resources", under the Manager page. It will fetch Courses or Resources provided to community by nation.
 - Last, repeat the process of sending an activities sync to the nation.
 
