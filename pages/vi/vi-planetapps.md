@@ -45,14 +45,14 @@ Next, click on `Submit`. You have now uploaded the resource. You should be able 
 
 ## Different Kinds of Updates to Your Community
 
-There are three important kinds of updates that you may receive on the community side: updates, publications, and surveys.
+There are three important kinds of updates that you may receive on the community side: updates,  resources/courses and sync.
 
 As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see publication(s) (we send to you from the nation) ready to be downloaded.
 
 ![Update from the nation](images/vi-update-publication.png "Dashboard in your localhost")
 
-- First, click the "Upgrade" button and it will reload your homepage with a successful update message. An update refers to a software update which improves the Planet. If you do not see "Upgrade" button then simply carry on.
-- Next, click on "Publications", under the Manager page, and sync the publications. Publications add new resources or courses to your library.
+- First, click the "Upgrade" button on Manager page and it take you to upgarde page. An update refers to a software update which improves the Planet. If you do not see "Upgrade" button then simply carry on.
+- Next, click on "Get Courses" or "Get Resources", under the Manager page. It will fetch Courses or Resources provided to community by nation.
 - Last, repeat the process of sending an activities sync to the nation.
 
 **NOTE**: If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.
