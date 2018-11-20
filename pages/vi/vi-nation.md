@@ -48,7 +48,7 @@ Then, click on "Communities" to access reports from various communities on the n
 
 ![Clicking on "Communities"](images/vi-nation-communities.png "Community Manage Page in ole site")
 
-Finally you should see a list of communities and the option to generate a report of community you created.
+Finally you should see a report of communities.
 
 ![Generate Report](images/vi-nation-report.png "Communities Requests Page in ole site")
 
