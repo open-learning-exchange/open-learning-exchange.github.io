@@ -44,7 +44,7 @@ On the nation side ([vi.ole.org](http://vi.ole.org)), you can log in with the us
 
 ![Clicking on "Manager" after logging in to the nation](images/vi-nation-manager.png "Dashboard in ole site")
 
-Then, click on "Communities" to access reports from various communities on the nation.
+Then, click on "Report Details" to access reports from various communities on the nation.
 
 ![Clicking on "Communities"](images/vi-nation-communities.png "Community Manage Page in ole site")
 
