@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e5250ac-873d-45c4-8c09-f5235417567b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/vi/vi-planet-installation-and-configuration.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/vi/vi-planet-installation-and-configuration.md" afterDir="false" />
-    </list>
+    <list default="true" id="0e5250ac-873d-45c4-8c09-f5235417567b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/pages/vi/vi-planet-installation-and-configuration.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="303">
-                <caret line="117" column="84" selection-start-line="117" selection-start-column="84" selection-end-line="117" selection-end-column="84" />
+              <first_editor relative-caret-position="388">
+                <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -142,12 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544212867817</updated>
-      <workItem from="1544212871833" duration="1355000" />
+      <workItem from="1544212871833" duration="1646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1355000" />
+    <option name="totallyTimeSpent" value="1646000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,8 +208,8 @@
     <entry file="file://$PROJECT_DIR$/pages/vi/vi-planet-installation-and-configuration.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="303">
-            <caret line="117" column="84" selection-start-line="117" selection-start-column="84" selection-end-line="117" selection-end-column="84" />
+          <first_editor relative-caret-position="388">
+            <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
