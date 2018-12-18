@@ -115,9 +115,9 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 
 1. Go to your OLE project folder
 
-1. Clone the `planet` repository: `git clone https://github.com/open-learning-exchange/planet.git`
+1. Use `cd planet` to enter into the `planet` directory. This is the repository you cloned in the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md)
 
-1. Go to 'planet/docker' folder: `cd planet/docker`
+1. Then enter into the docker folder with `cd docker`. To do steps 3 and 4 together, use `cd planet/docker`.
 
 1. Pull the latest `planet` and its db-init Docker image
 
