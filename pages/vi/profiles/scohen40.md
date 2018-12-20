@@ -14,7 +14,7 @@
 Mac OS Sierra, Version 10.12.6 
   
 &nbsp;
-### 😊 Who am I?
+### 😊Who am I?
 I am a Computer Science Junior at [Touro College](https://www.touro.edu/), graduating next year. 
 
 &nbsp;
