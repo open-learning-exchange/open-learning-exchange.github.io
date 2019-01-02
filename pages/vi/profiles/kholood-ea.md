@@ -1,9 +1,9 @@
- #  Kholood Eassa <br>
+ #  Kholood Eassa 
  
- ![Egypt](https://media.webjet.com.au/Images/cities/1200x472/CAI1.jpg)
+ [Egypt](https://media.webjet.com.au/Images/cities/1200x472/CAI1.jpg)
 
-Location/Time zone : Egypt, cairo, GMT+2 <br>
-OS: Mac High Sierra 10.13.6 <br>
+Location/Time zone : Egypt, cairo, GMT+2 
+OS: Mac High Sierra 10.13.6 
 
 Software engineering graduate from king Abdulaziz university in Saudi Arabia,
 very passionate about software and technologies :)
@@ -13,11 +13,11 @@ very passionate about software and technologies :)
 + Objective C
 + C#
 + C++
-+Swift
++ Swift
 
 **Interested in**
 - Programming
 - Application Development
-- Problem Solving <br><br>
+- Problem Solving
 
-<a href="https://www.linkedin.com/in/kholood-eassa-44220996//"> Linkde Account </a>
+[Linkedin Account](https://www.linkedin.com/in/kholood-eassa-44220996)
