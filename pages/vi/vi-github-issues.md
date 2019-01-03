@@ -20,11 +20,9 @@ Below, you'll find the workflow where we brought up a problem, researched an ans
 
 ## Create an Issue
 
-First, you will need to open an issue within the right repository ([upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)) and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures if possible.
+First, you will need to open an issue within the right repository ([upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)) and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures as necessary. You will then research the possible solutions or ideas on how to address the Issue before detailing your proposed solution, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1985). Someone else will hopefully provide input, and then you can move ahead with making the proposed changes.
 
 ![Providing Detail on New Issue](images/vi-new-issue-format.png)
-
-After you have submitted the new Issue, you will then research the possible solutions, or ideas, on how to address the Issue. Once you've completed your research, then you will add a comment detailing your proposed solution, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15). Someone else will hopefully provide input (as Dogi did here) and then you can move ahead with making the proposed changes.
 
 IMPORTANT: Issues are _not required_ to be approved _before_ a Pull Request is submitted for the respective fix; however, we do suggest that you wait until someone from the OLE confirms/approves the change that your issue addresses BEFORE you begin work on the fix. Check out this example issue, per Dogi, that shows the importance of confirmation: [#1465](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1465).  
 
