@@ -84,7 +84,9 @@ sudo dpkg -i vagrant.deb
 sudo apt-get install -f
 ```
 
-### Install a Community Planet
+---
+
+## Install a Community Planet  
 
 Make sure you `cd` to the designated OLE directory you created earlier.
 
