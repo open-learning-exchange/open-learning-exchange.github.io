@@ -16,4 +16,4 @@ I am currently pursuing MS in Computer Science from University of Illinois, Spri
 * REST
 * Angular 2+
 
-A [GitHub](https://github.com/coder8102).
+[GitHub](https://github.com/coder8102)
