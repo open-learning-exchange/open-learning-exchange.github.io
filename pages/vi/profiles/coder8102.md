@@ -2,7 +2,7 @@
 This is Varsha Patel
 
 ## Info
-* Location: Chicago, IL
+* Location: Naperville, IL
 * Time zone: CST
 * OS: Windows 10
 
