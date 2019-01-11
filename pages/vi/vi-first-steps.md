@@ -69,7 +69,7 @@ Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown
 
 ## Step 4 - Planet Tutorial
 
-This step explains includes [Planet Tutorial](vi-planetapps.md) which explains features of application
+This step includes the [Planet Tutorial](vi-planetapps.md), which explains the features of the application.
 
 ## Step 5 - Keeping Fork Updated
 
