@@ -1,7 +1,10 @@
 # Kool Havis
-###### Atlanta, Ga - USA
+###### US
 ###### Eastern Time Zone
 **macOS 10.14.2**
 
 I've been doing JavaScript development for sometime.
 My hobbies include Audio engineering and production,lifting weights, and learning the latest technology trends in development. 
+
+
+Here is a link to my not so updated [portfolio](http://kool-portfolio.surge.sh/).  Hope you like it. There is a neat memory game in the **My Project** section, if you care to play, or you can click [Memory Game](http://big10_memory_game.surge.sh/).
