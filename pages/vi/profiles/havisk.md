@@ -1,6 +1,6 @@
 # Kool Havis
-###### US
-###### Eastern Time Zone
+###### Location: US
+###### Time Zone: Eastern
 **macOS 10.14.2**
 
 I've been doing JavaScript development for sometime.
