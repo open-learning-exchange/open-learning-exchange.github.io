@@ -35,7 +35,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. You can start contributing on Crowdin after finishing [Step 4 - Planet Tutorial](vi-first-steps.md#Step_4_-_Planet_Tutorial). 
 
-**NOTE**: See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what Planet do.
+**NOTE**: See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what Planet does.
 
 ## Step 1 - Planet and Vagrant
 
