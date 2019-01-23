@@ -1,8 +1,8 @@
 # Paul's Introduction
 
 ### Personal Information
-* *Name:* Paul Pan  
-* *Location:* La Jolla, California  
+* *Name:* Paul Pan
+* *Location:* La Jolla, California
 * *Time Zone:* Pacific Standard Time
 
 ### Links
