@@ -4,6 +4,7 @@
 * *Name:* Paul Pan  
 * *Location:* La Jolla, California  
 * *Time Zone:* Pacific Standard Time
+
 ### Links
 1. [GitHub](https://github.com/paulpan05)
 2. [LinkedIn](https://linkedin.com/in/jpan05)
