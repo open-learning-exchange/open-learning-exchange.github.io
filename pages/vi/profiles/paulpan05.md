@@ -4,6 +4,7 @@
 * *Name:* Paul Pan
 * *Location:* La Jolla, California
 * *Time Zone:* Pacific Standard Time
+* *Operating System:* MacOS Mojave Version 10.14.2
 
 ### Links
 1. [GitHub](https://github.com/paulpan05)
