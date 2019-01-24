@@ -4,8 +4,7 @@
  
 **Location**: Chicago, IL  
 **Time Zone**: CST  
-**OS**: Windows 10, 64-bit operating system, x64-based processor 
-
+**OS**: Windows 10 Home 
 ## About Me    
 
 I am currently a senior in college, pursuing my Bachelor's in Computer Science. I will be graduating in May 2019.  
