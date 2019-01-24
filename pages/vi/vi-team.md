@@ -53,6 +53,7 @@
 |[svlesiv](profiles/svlesiv.md)|2018-10-03|
 |[nadaa](profiles/nadaa.md)|2018-10-03|
 |[inDepthh](profiles/inDepthh.md)|2018-11-12|
+|[jazdao](profiles/jazdao.md)|2019-01-21|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
