@@ -24,11 +24,13 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[rhuturajm](profiles/rhuturajm.md)|2018-04-20| -- |
 |[Maniblitz](profiles/Maniblitz.md)|2018-04-19| -- |
 |[aakarnik](profiles/aakarnik.md)|2018-04-19| -- |
+|[Tille88](profiles/tille88.md) (**Volunteer**)|2018-03-29| -- |
 |[SahilPh](profiles/sahilph.md)| 2018-03-09 | 2018-07-27 |
 |[ArashDai](profiles/ArashDai.md)|2018-02-14| -- |
 |[NickBratt](profiles/NickBratt.md)|2018-02-12| -- |
 |[Jackbui96](profiles/Jackbui96.md)|2018-02-02| -- |
 |[Going-Gone](profiles/Going-Gone.md)|2018-01-31| -- |
+|[vishwakarmaanil](profiles/vishwakarmaanil.md) (**Volunteer**)|2018-01-25| -- |
 |[CindyPSU](profiles/cindypsu.md)|2018-01-25| -- |
 |[adepojubosun](profiles/adepojubosun.md)|2018-01-25| -- |
 |[YangLou1](profiles/YangLou1.md)|2018-01-25| -- |
