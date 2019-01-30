@@ -94,7 +94,8 @@ Next, we are going to create your page
 1. Click `Create new file` button
 1. Name the file exactly the same as your GitHub username with file extension `.md`
   * It is important that you stick with your GitHub username so we could easily identify you
-  * For reference, an example of a link to a personal page is [https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md](https://github.com/kylemathias/kylemathias.github.io/blob/master/pages/vi/profiles/kylemathias.md), yours should be named in the same manner, only using your username.
+  * For reference, an example of a link to a personal page is [https://github.com/xyb994/open-learning-exchange.github.io/blob/master/pages/vi/profiles/xyb994.md]( https://github.com/xyb994/open-learning-exchange.github.io/blob/master/pages/vi/profiles/xyb994.md).  
+    Yours should be named in the same manner, only using your username.
 
 Then, in the new Markdown file, include the following information:
 
