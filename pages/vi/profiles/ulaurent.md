@@ -1,6 +1,6 @@
 # Hello Everybody
 
-## Urbenson Laurent , Providence RI, Windows 10
+## Urbenson Laurent , Providence RI, EST, Windows 10
 
 Hello everyone, my Nickname is "Ben" and I am eager software programmer ready to learn and apply! :)
 
