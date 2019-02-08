@@ -32,14 +32,6 @@
 
 ## Projects 
 
-Personal Website 2019
-React-Rails Weight Tracker 2019
-React-Native IOS/Android Calculator 2019
-React-Rails Top News 2018
-HTML/Javascript/JQuery/CSS Sentences Program (Freelance) 2018
-
-
-
 | Project Name   | Year         | 
 | :------------- | :----------: | 
 | Personal Website | 2019   | 
