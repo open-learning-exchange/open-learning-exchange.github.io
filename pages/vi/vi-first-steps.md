@@ -109,7 +109,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 ## Step 9 - Submit Survey
 
-Once you have finished step 8, let us know in the Gitter chat so that we can send the survey to your community. The survey notification will appear at the left of the dashboard in your community Planet. Once you fill out and submit the survey, sync your community with the nation (as you did in step 7.)
+Once you have finished step 8, let us know in the Gitter chat so that we can send the survey to your community. The survey notification will appear at the left of the dashboard in your community Planet. Once you fill out and submit the survey, sync your community with the nation (as you did in step 7).
 
 Next thing is to add yourself to the virtual intern list found in [vi-team.md](vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Gitter chat room so that we can set up a meeting and add you to the team as soon as possible.
 
