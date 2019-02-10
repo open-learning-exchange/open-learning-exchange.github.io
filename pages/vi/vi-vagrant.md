@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In [Step 1 - Planet Installation with vagrant](vi-planet-installation.md), we installed Vagrant, VirtualBox, Git, and Planet to our OS.
+In [Step 1 - Planet Installation with vagrant](vi-planet-installation-vagrant.md), we installed Vagrant, VirtualBox, Git, and Planet to our OS.
 
 **[Vagrant](https://www.vagrantup.com/) is an open-source software product for building and maintaining portable virtual software development environments.** Below, you will find some basic instruction on interacting with Vagrant through the command-line interface (CLI). You should be familiar with this since you will need to use it to control virtual machines during your internship.
 
