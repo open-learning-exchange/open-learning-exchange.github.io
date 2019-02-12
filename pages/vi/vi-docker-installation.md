@@ -1,22 +1,8 @@
-﻿# Planet Installation and Configuration
+﻿# Docker Installation
 
-## Objectives
-
-- Install Docker
-- Install and configure Planet
-- Let us know in Gitter chat
-
-## Introduction
-
-We are currently rewriting BeLL, the project is called **[`planet`](https://github.com/open-learning-exchange/planet)**. The objective is to create a Progressive Web App using Angular & CouchDB with the BeLL Apps functionality.
-
-Please follow the directions below to install Docker and your community `planet` to your machine. There are three parts in this section, you can use the side bar on the left to quickly navigate between them.
+The below guide includes steps to install Docker directly on to your machine. This part is optional and included if you are curious about running Docker on your OS. Note that in order to run `planet`, you will need Docker Community Edition installed.
 
 ---
-
-## Install Docker
-
-In order to run `planet`, you will need Docker Community Edition installed.
 
 ### Windows
 
@@ -109,38 +95,11 @@ Follow the official [Install Docker Compose](https://docs.docker.com/compose/ins
 
 ---
 
-## Planet Installation
+## MacOS Note
 
-1. Launch Docker on your machine
+> If you see the following error when installing Planet, open the `planet.yml` file and change the path `/etc/planet` to `/Users/<username>/planet`. To check the path you can run the following command `cd ~` and `pwd`.
 
-1. Go to your OLE project folder
-
-1. Use `cd planet` to enter into the `planet` directory. This is the repository you cloned in the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md)
-
-1. Then enter into the docker folder with `cd docker`. To do steps 3 and 4 together, use `cd planet/docker`.
-
-1. Pull the latest `planet` and its db-init Docker image
-
-  - `docker pull treehouses/planet:latest`
-  - `docker pull treehouses/planet:db-init`
-
-  - `docker tag treehouses/planet:latest treehouses/planet:local`
-  - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local` 
-
-1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
-
-1. See if the docker containers are running: `docker ps`. You'll see your running container similar to this
-
-  ```
-  CONTAINER ID        IMAGE                       COMMAND                  CREATED             STATUS                      PORTS                                        NAMES
-  6ad5d3f2ba2b        treehouses/planet:latest    "/bin/sh -c 'sh ./do…"   38 seconds ago      Up 46 seconds               0.0.0.0:80->80/tcp                           planet_planet_1
-  e78eb9287454        treehouses/planet:db-init   "/bin/sh -c 'bash ./…"   38 seconds ago      Exited (0) 34 seconds ago                                                planet_db-init_1
-  3c2309e92dc6        treehouses/couchdb:2.1.1    "tini -- /docker-ent…"   39 seconds ago      Up 48 seconds               4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp   planet_couchdb_1
-  ```
-
-> **For MacOS** If you see the following error, open the `planet.yml` file and change the path `/etc/planet` to `/Users/<username>/planet`. To check the path you can run the following command `cd ~` and `pwd`.
-
-```➜ docker git:(master) docker-compose -f planet.yml -p planet up -d --build
+``` ➜ docker git:(master) docker-compose -f planet.yml -p planet up -d --build
 Starting planet_couchdb_1 ... done
 Starting planet_planet_1 ... error
 Starting planet_db-init_1 ...
@@ -150,47 +109,3 @@ ERROR: for planet_planet_1 Cannot start service planet: b'Mounts denied: \r\nThe
 ERROR: for planet Cannot start service planet: b'Mounts denied: \r\nThe path /etc/planet\r\nis not shared from OS X and is not known to Docker.\r\nYou can configure shared paths from Docker -> Preferences... -> File Sharing.\r\nSee https://docs.docker.com/docker-for-mac/osxfs/#namespaces for more info.\r\n.'
 ERROR: Encountered errors while bringing up the project.
 ```
-
-
-1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
-
----
-
-## Planet Configuration
-
-Go to your community `planet` at <http://127.0.0.1>.
-
- For Windows, if you are using docker toolbox then you should use the IP Address given in the docker toolbox instead of 127.0.0.1. Please look for IP Address as seen in image below.
-
-![IP address configuration](images/vi-ip.png)
- 
-You will be asked to:
-
-- Create an admin account
-- Fill out configuration
-  - To create your `planet` community and connect to the Virtual Intern Nation:
-    - Select `Community` from `Select Nation/Community`drop-down
-    - Select `vi` from `Nation(s)` drop-down
-    - Use your GitHub username as `Name` so we can locate you on Virtual Intern nation. (`Name` must be unique on the nation side, if you have configured `planet` using your GitHub username before, please add a letter or digits to the end of your original username.)
-    - `Code` is not editable and it will be automatically filled
-- Fill out contact details
-- Click `Submit` and let us know in the [Gitter chat](https://gitter.im/open-learning-exchange/chat) <!-- so we can accept your community registration on VI Nation -->
-
-![Planet Community Configuration](images/vi-planet-configuration.png)
-
-After logging in, please explore around and post a screenshot of your `planet` to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
-
-![Planet UI Screenshot](images/vi-planet-ui-screenshot.png)
-
-When you're done, you can stop `planet`: `docker-compose -f planet.yml -p planet stop`
-When you want to have `planet` up and running again: `docker-compose -f planet.yml -p planet start`
-
-## Useful Links
-
-[FAQ – Helpful links](vi-faq.md#Helpful_Links)
-
-## Next Section **→**
-
-Now you have `planet` installed, head over to [Docker Tutorial](vi-docker-tutorial.md) to learn about the basics of interacting with Docker and Docker Compose through the command-line interface.
-
-#### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
