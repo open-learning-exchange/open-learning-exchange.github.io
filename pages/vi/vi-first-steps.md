@@ -33,7 +33,7 @@ There is no official deadline to complete these steps, but most candidates who a
   ![Watch Screen Shot](images/vi-watch.png)
   ![Follow Screen Shot](images/vi-follow.png)
 
-3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. After finishing [Step 4 - Planet Tutorial](vi-first-steps.md#Step_4_-_Planet_Tutorial), check out this [link](https://crowdin.com/page/tour#tab_translators) to learn how you can start contributing on Crowdin.   
+3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. After finishing [Step 3 - Planet Tutorial](vi-first-steps.md#Step_3_-_Planet_Tutorial), check out this [link](https://crowdin.com/page/tour#tab_translators) to learn how you can start contributing on Crowdin.   
 
 **NOTE**: See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what Planet does.
 
@@ -50,49 +50,39 @@ There are 3 sections in this step:
 1. [Vagrant Tutorial](vi-vagrant.md)
   **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this section, you will learn about how to interact with Vagrant through the command-line interface.
 
-## Step 2 - Planet and Docker
-
-There are 2 sections in this step:
-
-1. [Planet Installation with docker](#!./pages/vi/vi-planet-installation-and-configuration.md)
-  The objective is to create a Progressive Web App using Angular & CouchDB. In this section, you will learn about how to set up your own Community Planet using docker.
-
-1. [Docker Tutorial](vi-docker-tutorial.md)
-  **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface.
-
-## Step 3 - Markdown and Fork Tutorial
+## Step 2 - Markdown and Fork Tutorial
 
 Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (https://YourUserName.github.io and https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
 
 **NOTE**: Raw.githack link above is case sensitive to your username.
 
-* Once you complete the Step 3 you will have:
+* Once you complete the Step 2 you will have:
     * 1 Pull request made
 
-## Step 4 - Planet Tutorial
+## Step 3 - Planet Tutorial
 
 This step includes the [Planet Tutorial](vi-planetapps.md), which explains the features of the application.
 
-## Step 5 - Keeping Fork Updated
+## Step 4 - Keeping Fork Updated
 
 Follow the directions at [Git Repositories](vi-github-and-repositories.md) to keep your username.github.io and your local repository up to date.
 
-## Step 6 - GitHub Issues Tutorial
+## Step 5 - GitHub Issues Tutorial
 
 Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md) to create at least one issue. Post a link in [Gitter](https://gitter.im/open-learning-exchange/chat) whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file. You can also work on issues that you didn't create.
 
 Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged before proceeding to the next step.
 
-- Once you complete Step 6 you will have:
-   * 2 pull requests made (one at step 3 and one at step 6)
+- Once you complete Step 5 you will have:
+   * 2 pull requests made (one at step 2 and one at step 5)
    * 1 comment added (on an issue you didn't create)
    * 1 issue created
 
-## Step 7 - Nation Planet
+## Step 6 - Nation Planet
 
 Follow the directions under the [Nation Planet tab](vi-nation.md).
 
-## Step 8 - Create Issues and Pull Requests
+## Step 7 - Create Issues and Pull Requests
 
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. **Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue.** You will follow the same steps as in [GitHub Issues](vi-github-issues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
 
@@ -100,16 +90,16 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 **NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from master branch.
 
-- Once you complete Step 8, you should have:
-   * 5 merged pull requests (one at step 3, one at step 6 and three at step 8)
-   * 4 comments made on *issues you didn't create* (one at step 6 and three at step 8)
-   * 4 issues created (one at step 6 and three at step 8)
+- Once you complete Step 7, you should have:
+   * 5 merged pull requests (one at step 2, one at step 5 and three at step 7)
+   * 4 comments made on *issues you didn't create* (one at step 5 and three at step 7)
+   * 4 issues created (one at step 5 and three at step 7)
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.md).
 
-## Step 9 - Submit Survey
+## Step 8 - Submit Survey
 
-Once you have finished step 8, let us know in the Gitter chat so that we can send the survey to your community. The survey notification will appear at the left of the dashboard in your community Planet. Once you fill out and submit the survey, sync your community with the nation (as you did in step 7).
+Once you have finished step 7, let us know in the Gitter chat so that we can send the survey to your community. The survey notification will appear at the left of the dashboard in your community Planet. Once you fill out and submit the survey, sync your community with the nation (as you did in step 6).
 
 Next thing is to add yourself to the virtual intern list found in [vi-team.md](vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Gitter chat room so that we can set up a meeting and add you to the team as soon as possible.
 

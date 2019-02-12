@@ -52,11 +52,11 @@
 
 #### Q6: What happens after the initial steps?
 
-+ The initial steps are meant to introduce potential interns to the OLE BeLL/Planet, planet software and the process that we use to develop features and improve upon the BeLL/Planet. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
++ The initial steps are meant to introduce potential interns to the OLE BeLL/Planet, planet software and the process that we use to develop features and improve upon the BeLL/Planet. To be more clear: the initial 9 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 9 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
 
 #### Q7: If I'm an international student, how soon can I get my paperwork required by my visa?
 
-+ Since the first 10 steps are a vetting process, your internship technically doesn't start until you finish them. Think of the first 10 steps as a continued application process; you are not working on or adding to our organizational software, but rather showing that you have enough technical background to work with us. After you finish the first 10 steps, let us know if you need us to sign some paperwork, give you organizational information, or provide you with an offer letter for your visa compliance and we'd be more than happy to help.
++ Since the first 9 steps are a vetting process, your internship technically doesn't start until you finish them. Think of the first 9 steps as a continued application process; you are not working on or adding to our organizational software, but rather showing that you have enough technical background to work with us. After you finish the first 9 steps, let us know if you need us to sign some paperwork, give you organizational information, or provide you with an offer letter for your visa compliance and we'd be more than happy to help.
 
 #### Q8: How many pull requests and issues in total do I need to make to finish the steps?
 

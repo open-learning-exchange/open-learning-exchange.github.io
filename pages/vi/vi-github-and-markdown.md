@@ -131,7 +131,7 @@ Once you have your profile ready, it's time to create a pull request. Click on o
 
 Finally, click "Create pull request" button and post the link to your github.io and profile pull request in the [gitter chat](https://gitter.im/open-learning-exchange/chat):
 
-> @/all I'm on step 3 - GitHub and Markdown, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
+> @/all I'm on step 2 - GitHub and Markdown, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
 
 Remember, it can take a while for `https://YourUserName.github.io` to be up and running, so don't worry if you see a **404** when you access the link!
 
@@ -155,4 +155,4 @@ After the pull request is merged, you'll be able to see your personal page at `o
 
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)
+#### Return to [First Steps](vi-first-steps.md#Step_2_-_Markdown_and_Fork_Tutorial)

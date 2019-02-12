@@ -79,4 +79,4 @@ If the course "Virtual Interns" is not there, check **Manage Sync** of manager s
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](vi-first-steps.md#Step_4_-_Planet_Tutorial)
+#### Return to [First Steps](vi-first-steps.md#Step_3_-_Planet_Tutorial)
