@@ -3,6 +3,7 @@
 ## Objectives
 
 - Learn about Docker and Docker Compose
+- Learn about running Planet with Docker
 - Learn Docker and Docker Compose commands
 
 ## Introduction
@@ -49,7 +50,40 @@ Below you'll find a few common `docker-compose` commands you would need througho
 
 - `docker-compose -f planet.yml -p planet down` – stops containers and removes containers, networks, volumes, and images created
 
+## Docker & Planet
+
+In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md) when you ran `vagrant up prod` Docker is set up to run Planet automatically. Below are the steps to install Planet manually, which can also be used to upgrade to the latest version of Planet. 
+
+1. Go to your OLE project folder, and use `cd planet` to enter into the `planet` directory. This is the repository you cloned in the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md)
+
+1. Use `vagrant ssh prod` to connect to your virtual machine
+
+1. Then enter into the docker folder with `cd /vagrant/docker`.
+
+1. Pull the latest `planet` and its db-init Docker image
+
+  - `docker pull treehouses/planet:latest`
+  - `docker pull treehouses/planet:db-init`
+
+  - `docker tag treehouses/planet:latest treehouses/planet:local`
+  - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local` 
+
+1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
+
+1. See if the docker containers are running: `docker ps`. You'll see your running container similar to this
+
+  ```
+  CONTAINER ID        IMAGE                       COMMAND                  CREATED             STATUS                      PORTS                                        NAMES
+  6ad5d3f2ba2b        treehouses/planet:latest    "/bin/sh -c 'sh ./do…"   38 seconds ago      Up 46 seconds               0.0.0.0:80->80/tcp                           planet_planet_1
+  e78eb9287454        treehouses/planet:db-init   "/bin/sh -c 'bash ./…"   38 seconds ago      Exited (0) 34 seconds ago                                                planet_db-init_1
+  3c2309e92dc6        treehouses/couchdb:2.1.1    "tini -- /docker-ent…"   39 seconds ago      Up 48 seconds               4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp   planet_couchdb_1
+  ```
+
+1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
+
 ## More about Docker and Docker Compose
+
+We install and run Docker and Docker Compose from the Vagrant virtual machine because it is quicker to get everyone up and running and easier to troubleshoot as issues come up. Docker can also be installed directly on your machine. If you are curious about how to install Docker you can [read our guide](vi-docker-installation.md). We do not recommend running Planet this way because we may not be able to help if there are issues.
 
 We suggest you to look at [Docker CLI's reference](https://docs.docker.com/engine/reference/commandline/cli/) and [docker-compose CLI's reference](https://docs.docker.com/compose/reference/overview/) to find out more about their commands and usage.
 
