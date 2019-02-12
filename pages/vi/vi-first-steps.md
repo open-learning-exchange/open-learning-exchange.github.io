@@ -52,13 +52,7 @@ There are 3 sections in this step:
 
 ## Step 2 - Planet and Docker
 
-There are 2 sections in this step:
-
-1. [Planet Installation with docker](#!./pages/vi/vi-planet-installation-and-configuration.md)
-  The objective is to create a Progressive Web App using Angular & CouchDB. In this section, you will learn about how to set up your own Community Planet using docker.
-
-1. [Docker Tutorial](vi-docker-tutorial.md)
-  **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface.
+Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
 
 ## Step 3 - Markdown and Fork Tutorial
 

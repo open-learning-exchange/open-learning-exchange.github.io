@@ -21,7 +21,7 @@
   - - - -
   * [Step 0 - Introductory Steps](pages/vi/vi-first-steps.md#Step_0_-_Introductory_Steps)
   * [Step 1 - Planet and Vagrant](pages/vi/vi-planet-installation-vagrant.md)
-  * [Step 2 - Planet and Docker](pages/vi/vi-planet-installation-and-configuration.md)
+  * [Step 2 - Planet and Docker](pages/vi/vi-docker-tutorial.md)
   * [Step 3 - Markdown and Fork Tutorial](pages/vi/vi-github-and-markdown.md)
   * [Step 4 - Planet Tutorial](pages/vi/vi-planetapps.md)
   * [Step 5 - Keeping Fork Updated](pages/vi/vi-github-and-repositories.md)
