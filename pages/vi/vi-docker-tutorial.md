@@ -83,7 +83,7 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
 
 ## More about Docker and Docker Compose
 
-We install and run Docker and Docker Compose from the Vagrant virtual machine because it is quicker to get everyone up and running and easier to troubleshoot as issues come up. Docker can also be installed directly on your machine. If you are curious about how to install Docker you can [read our guide](vi-docker-installation.md). We do not recommend running Planet this way because we may not be able to help if there are issues.
+We install and run Docker and Docker Compose from the Vagrant virtual machine because it is quicker to get everyone up and running and easier to troubleshoot as issues come up. Docker can also be installed directly on your machine. If you are curious about how to install Docker you can [read our guide](vi-docker-installation.md). We do **not recommend** running Planet this way because we may **not be able to help** if there are issues.
 
 We suggest you to look at [Docker CLI's reference](https://docs.docker.com/engine/reference/commandline/cli/) and [docker-compose CLI's reference](https://docs.docker.com/compose/reference/overview/) to find out more about their commands and usage.
 
