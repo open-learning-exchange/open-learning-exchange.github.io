@@ -36,7 +36,7 @@
 | Express.js    | Python(briefly)|
 | React(briefly)| 
 
-I've also deployed apps of heroku, used Git, Github, JQuery, you can find more details ==>
+I've also deployed apps of heroku, used Git, Github, JQuery, you can find more details about me on my website or linkedin ==>
 
 [My portfolio website](https://www.mounirb.com/)
 
