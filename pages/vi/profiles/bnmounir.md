@@ -26,7 +26,6 @@
     
 ---
 ## Technologies/Languages 
-### (I've worked with so far)
 
 
 | Technologies    | Languages        | 
