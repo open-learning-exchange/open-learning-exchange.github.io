@@ -16,11 +16,11 @@
 ## About Me
 
 ---
-- Originally from Batna a smathe northeastern part of Algeria in a city called Batna.
-- Moved to the U.S. (Brooklyn, New York) in 2015 in pursuit of development and improvement.
-- Learning how to coding was a big part of what I was trying to accomplish. 
-- I'm in a coding bootcamp graduating in 08/2019 for Web Development.
+- Originally from Batna a small city in the northeast of Algeria.
+- Moved to the U.S. (Brooklyn, New York) in 2015 for education and improvement.
+- Learning how to coding was a big part of who I wanted to be. 
 - I'm a self taught coder for the most part and I really like it. 
+- Now I'm in a coding bootcamp graduating in 08/2019 for Web Development.
 - I'm always enthusiastic about learning new stuff, which brings me to this opportunity. 
 - I'm very excited to work with all of the Open Learning Exchange Team and also make new friends.
     
