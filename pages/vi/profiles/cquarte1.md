@@ -3,7 +3,7 @@
 #Eastern Standard Time#
 *Window 10*
 
-Programming language
+Programming language:
 1. Java
 2. Visual Basic
 3. Swift
