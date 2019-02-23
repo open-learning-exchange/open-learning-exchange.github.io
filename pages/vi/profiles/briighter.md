@@ -18,7 +18,3 @@ Being a software engineer allows me to create tools to enable people to be more 
 </ul>
 
 <a href="https://www.linkedin.com/in/jaylima0/">LinkedIn</a>
-
-//
-your name, location/time zone, and OS (including version)
-a short description of yourself (so your fellow virtual interns know who you are)
