@@ -12,9 +12,10 @@ Being a software engineer allows me to create tools to enable people to be more 
 
 ### Hobbies
 <ul>
-<li>Programming</li>
-<li>Video Games</li>
-<li>Reading</li>
+  <li>Programming</li>
+  <li>Video Games</li>
+  <li>Reading</li>
+  <li>Movies</li>
 </ul>
 
 <a href="https://www.linkedin.com/in/jaylima0/">LinkedIn</a>
