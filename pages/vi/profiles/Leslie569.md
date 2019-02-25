@@ -1,12 +1,11 @@
-# Leslie Wang :koala:
+# Leslie Wang 🐨
 
 ![santa](https://i.pinimg.com/564x/52/4c/20/524c2046bef42cf7cbde1cdbc562d675.jpg)
 
 |Location :earth_americas:|Time :clock5:|OS :computer:|
 |:--:|:--:|:--:|
 |Atlanta,GA|EST|macOS Mojave, v 10.14.3|
-   
-
+      
 Who I Am :ghost:            
 ---
 Hello everyone. I am from Mountain View, California, currently majoring in  electrical engineering at Georgia Tech. 
