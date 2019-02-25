@@ -2,11 +2,11 @@
 
 ![santa](https://i.pinimg.com/564x/52/4c/20/524c2046bef42cf7cbde1cdbc562d675.jpg)
 
-|Location :earth_americas:|Time :clock5:|OS :computer:|
+|Location |Time |OS |
 |:--:|:--:|:--:|
 |Atlanta,GA|EST|macOS Mojave, v 10.14.3|
       
-Who I Am :ghost:            
+Who I Am 
 ---
 Hello everyone. I am from Mountain View, California, currently majoring in  electrical engineering at Georgia Tech. 
 Although my major courses are more hardware-based, I have strong interest in programming outside of class. I am on 
@@ -15,7 +15,7 @@ Although my major courses are more hardware-based, I have strong interest in pro
 
 [1]: http://solarracing.gatech.edu/  "solar racing"
 
-Hobbies :stuck_out_tongue_winking_eye:
+Hobbies 
 ---
 * Cooking
 * Basketball
@@ -23,7 +23,7 @@ Hobbies :stuck_out_tongue_winking_eye:
 * Gundam
 * Model Car Colletion
 
-Languages :checkered_flag:
+Languages 
 ---
 * Python
 * HTML & CSS
