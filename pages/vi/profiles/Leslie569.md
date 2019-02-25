@@ -1,4 +1,4 @@
-# Leslie Wang 🐨
+# Leslie Wang
 
 ![santa](https://i.pinimg.com/564x/52/4c/20/524c2046bef42cf7cbde1cdbc562d675.jpg)
 
