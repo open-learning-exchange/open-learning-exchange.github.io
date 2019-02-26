@@ -16,37 +16,34 @@
 ## About Me
 
 ---
-    Originally from the northeastern part of Algeria in a city called Batna, 
-    followed a scientific track of education ever since.
-    
-    Moved to the U.S. (Brooklyn, New York) in 2015 in pursuit of self improvement, coding was a big part of what I was trying to accomplish in algeria, 
-    I'm in a coding bootcamp graduating in 08/2019 for Web Development.
-    
-    Turns out the best teacher is your self when it comes to coding, which brings me to this opportunity 
-    I'm very excited about working with all of the Open Learning Exchange Team and hopefully make some new friends at the same time.
+- Originally from Batna a small city in the northeast of Algeria.
+- Moved to the U.S. (Brooklyn, New York) in 2015 for education.
+- Learning how to coding was a big part of who I wanted to be. 
+- I'm a self taught coder for the most part and I really like it. 
+- Now I'm in a coding bootcamp graduating in 08/2019 for Web Development.
+- I'm always enthusiastic about learning new stuff, which brings me to this opportunity. 
+- I'm very excited to work with all of the Open Learning Exchange Team and also make new friends.
     
 ---
 ## Technologies/Languages 
-### (I've worked with so far)
 
 
-| Technologies  | Languages      | 
-|---------------|----------------|
-| Node.js       | Javascript     |
-| Express.js    | Python(briefly)|
-| React(briefly)| 
+| Technologies    | Languages        | 
+|-----------------|------------------|
+| Node.js         | Javascript       |
+| Express.js      | Python           |
+| React           | 
 
 I've also deployed apps of heroku, used Git, Github, JQuery, you can find more details about me on my website or linkedin ==>
 
-[My portfolio website](https://www.mounirb.com/)
-
 ---
+
+[My portfolio website](https://www.mounirb.com/)
     
- [add me on linkedin here](https://www.linkedin.com/in/mounir-benabderrahmane-16837814a/)
+[Add me on linkedin](https://www.linkedin.com/in/mounir-benabderrahmane-16837814a/)
+ 
+
+
     
     
         02/15/2019
-    
-    
-    
-
