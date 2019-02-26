@@ -23,7 +23,7 @@
 - **Q16:** [What do I do if I already have a github.io with my username?](#Q16:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
 - **Q17:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?](#Q17:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_Vagrant_VM?)
 - **Q18:** [What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?](#Q18:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_ole--vagrant-vi_folder,_how_do_I_recreate_my_manager_profile?)
-- **Q19:** [What do I do if I get error message "A Virtual Box machine with the name 'vi' already exists"?](#Q19:_What_do_I_do_if_I_get_error_message_"A_Virtual_Box_machine_with_the_name_'vi'_already_exists"?)
+- **Q19:** [What do I do if I get an error message "A Virtual Box machine with the name 'vi' already exists"?](#Q19:_What_do_I_do_if_I_get_error_message_"A_Virtual_Box_machine_with_the_name_'vi'_already_exists"?)
 - **Q20:** [How can I run two communities on the same machine?](#Q20:_How_can_I_run_two_communities_on_the_same_machine?)
 - **Q21:** [How do I destroy the Virtual Machine and start over?](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?)
 
@@ -35,7 +35,7 @@
 
 #### Q2: What kind of software will we be using for this internship?
 
-+ As a part of this internship you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, JavaScript, Node.js, and Angular.
++ As a part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, JavaScript, Node.js, and Angular.
 
 #### Q3: Where can I find more information about this internship?
 
@@ -44,7 +44,7 @@
 #### Q4: What are the hours of the internship?
 
 + This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
-+ The reason we are having 16 hours minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discuss problems, work on issues together. Then the rest of the time is for catching up with the change and work on issues assigned.
++ The reason we are having 16 hours minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discuss problems, work on issues together. Then the rest of the time is for catching up with the change and work on issues assigned.
 
 #### Q5: Is this a paid internship?
 
@@ -101,7 +101,7 @@
 
   3. Add `/providers/virtualbox.box` to the page link you have been redirected to and click 'Enter' to start the download via your browser, or copy the link and paste it in your preferred downloader, preferably one that has pause/resume functionality.
 
-  4. After you download the box run the following commands while in your `ole--vagrant-vi` directory. Also include the correct path to the box you just downloaded:
+  4. After you download the box run the following commands while in your `ole--vagrant-vi` directory. Also, include the correct path to the box you just downloaded:
 
         ``` bash
         vagrant box add ole/jessie64 /path/to/vagrant-box.box
@@ -131,7 +131,7 @@
 
 + Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
 
-#### Q19: What do I do if I get error message "A Virtual Box machine with the name 'vi' already exists"?
+#### Q19: What do I do if I get an error message "A Virtual Box machine with the name 'vi' already exists"?
 
 + There are 2 potential solutions:
 
@@ -181,11 +181,11 @@
 
 We start off by learning about BeLL, or the 'Basic e-Learning Library.' BeLL is the learning tool that OLE uses to provide the educational materials and resources to its students. It is a lightweight digital Library that can be accessed through Local networks (’Communities’)  and synced through the Internet (‘Nations’). To do so, we need to install a few software packages, Vagrant and VirtualBox primary among them. We use Vagrant (a development environment builder), in conjunction with VirtualBox (virtual machine software) to initialize a BeLL environment on the local system. Using this virtual environment we access the BeLL interface locally and create our own communities/nations.
 
-The other two tools we focus on are GitHub and Markdown. Similar to how we use Vagrant and VirtualBox to standardize the development environment for each developer, we use Git/GitHub in order to centralize the development process, and enable greater collaboration and teamwork. Git is a revision control system that allows many users to simultaneously edit and develop the same projects, and GitHub is a website/hosting service that utilizes the git system, and hosts the git repositories we work on. Markdown, on the other hand, is a style of formatting text native to GitHub and thus used in the Virtual Intern program. Markdown simplifies formatting and emphasizes readability, helping coders focus on content, and not get bogged down in syntax.
+The other two tools we focus on are GitHub and Markdown. Similar to how we use Vagrant and VirtualBox to standardize the development environment for each developer, we use Git/GitHub in order to centralize the development process and enable greater collaboration and teamwork. Git is a revision control system that allows many users to simultaneously edit and develop the same projects, and GitHub is a website/hosting service that utilizes the git system and hosts the git repositories we work on. Markdown, on the other hand, is a style of formatting text native to GitHub and thus used in the Virtual Intern program. Markdown simplifies formatting and emphasizes readability, helping coders focus on content, and not get bogged down in syntax.
 
 To sum up, the primary software/tools we cover in the 'First Steps' are BeLL, Vagrant, VirtualBox, Git/GitHub and Markdown. Though not immediately apparent, the tools we use are all unified by a common purpose. Each bit of software we use is chosen in an effort to promote collaboration. The use of Vagrant and VirtualBox mandates that each instance of BeLL is the same, making sure that all developers utilize the same system. Markdown simplifies the development process, as each piece of code must comply with its syntax, increasing clarity for all users. Finally, GitHub serves as the last piece in the puzzle, as it takes advantage of the standardized development environment that Vagrant/VirtualBox provide, as well as the streamlined syntax of Markdown to allow for easy collaboration.
 
-It can often be challenging to see the 'Big Picture', and it’s easy to lose sight of it when focused on individual tasks. With that said, hopefully this synopsis has shed light on the importance of the process, and shown that each step is not an isolated assignment, but rather part of a greater task.
+It can often be challenging to see the 'Big Picture', and it’s easy to lose sight of it when focused on individual tasks. With that said, hopefully, this synopsis has shed light on the importance of the process, and shown that each step is not an isolated assignment, but rather part of a greater task.
 
 ## Helpful Links
 
