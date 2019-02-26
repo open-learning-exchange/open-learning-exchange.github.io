@@ -17,8 +17,14 @@
 |[nadaa](profiles/nadaa.md)|2018-10-03|
 |[inDepthh](profiles/inDepthh.md)|2018-11-12|
 |[jazdao](profiles/jazdao.md)|2019-01-21|
+<<<<<<< HEAD
 |[yuserahn](profiles/yuserahn.md)|2019-02-04|  
 |[coder8102](profiles/coder8102.md)|2019-02-18| 
+=======
+|[yuserahn](profiles/yuserahn.md)|2019-02-04| 
+|[cquarte1](profiles/cquarte1.md)|2019-02-14|  
+
+>>>>>>> 0568c842102a4fb2127b5051eb628923428d8a52
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
