@@ -43,7 +43,7 @@
 
 #### Q4: What are the hours of the internship?
 
-+ This is an intensive internship that requires 16 hour of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
++ This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 + The reason we have a 16 hour minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discusses problems, and works on issues together. Then the rest of the time is for catching up with the changes and working on issues assigned.
 
 #### Q5: Is this a paid internship?
@@ -185,7 +185,7 @@ The other two tools we focus on are GitHub and Markdown. Similar to how we use V
 
 To sum up, the primary software/tools we cover in the 'First Steps' are BeLL, Vagrant, VirtualBox, Git/GitHub and Markdown. Though not immediately apparent, the tools we use are all unified by a common purpose. Each bit of software we use is chosen in an effort to promote collaboration. The use of Vagrant and VirtualBox mandates that each instance of BeLL is the same, making sure that all developers utilize the same system. Markdown simplifies the development process, as each piece of code must comply with its syntax, increasing clarity for all users. Finally, GitHub serves as the last piece in the puzzle, as it takes advantage of the standardized development environment that Vagrant/VirtualBox provide, as well as the streamlined syntax of Markdown to allow for easy collaboration.
 
-It can often be challenging to see the 'Big Picture', and it’s easy to lose sight of it when focused on individual tasks. With that said, hopefully, this synopsis has shed light on the importance of the process, and shown that each step is not an isolated assignment, but rather part of a greater task.
+It can often be challenging to see the 'Big Picture', and it’s easy to lose sight of it when focused on individual tasks. With that said, hopefully this synopsis has shed light on the importance of the process, and shown that each step is not an isolated assignment, but rather part of a greater task.
 
 ## Helpful Links
 
