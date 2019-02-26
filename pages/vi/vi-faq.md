@@ -23,7 +23,7 @@
 - **Q16:** [What do I do if I already have a github.io with my username?](#Q16:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
 - **Q17:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?](#Q17:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_Vagrant_VM?)
 - **Q18:** [What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?](#Q18:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_ole--vagrant-vi_folder,_how_do_I_recreate_my_manager_profile?)
-- **Q19:** [What do I do if I get an error message "A Virtual Box machine with the name 'vi' already exists"?](#Q19:_What_do_I_do_if_I_get_error_message_"A_Virtual_Box_machine_with_the_name_'vi'_already_exists"?)
+- **Q19:** [What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?](#Q19:_What_do_I_do_if_I_get_error_message_"A_Virtual_Box_machine_with_the_name_'vi'_already_exists"?)
 - **Q20:** [How can I run two communities on the same machine?](#Q20:_How_can_I_run_two_communities_on_the_same_machine?)
 - **Q21:** [How do I destroy the Virtual Machine and start over?](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?)
 
@@ -43,8 +43,8 @@
 
 #### Q4: What are the hours of the internship?
 
-+ This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
-+ The reason we are having 16 hours minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discuss problems, work on issues together. Then the rest of the time is for catching up with the change and work on issues assigned.
++ This is an intensive internship that requires 16 hour of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
++ The reason we have a 16 hour minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discusses problems, and works on issues together. Then the rest of the time is for catching up with the changes and working on issues assigned.
 
 #### Q5: Is this a paid internship?
 
@@ -101,7 +101,7 @@
 
   3. Add `/providers/virtualbox.box` to the page link you have been redirected to and click 'Enter' to start the download via your browser, or copy the link and paste it in your preferred downloader, preferably one that has pause/resume functionality.
 
-  4. After you download the box run the following commands while in your `ole--vagrant-vi` directory. Also, include the correct path to the box you just downloaded:
+  4. After you download the box, run the following commands while in your `ole--vagrant-vi` directory. Also, include the correct path to the box you just downloaded:
 
         ``` bash
         vagrant box add ole/jessie64 /path/to/vagrant-box.box
@@ -131,7 +131,7 @@
 
 + Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
 
-#### Q19: What do I do if I get an error message "A Virtual Box machine with the name 'vi' already exists"?
+#### Q19: What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?
 
 + There are 2 potential solutions:
 
