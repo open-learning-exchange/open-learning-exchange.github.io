@@ -1,6 +1,6 @@
 #Carlos Quarterman
-**Albany, GA**
-**Eastern Standard Time**
+*Albany, GA*
+*Eastern Standard Time*
 *Window 10*
 
 Programming language:
