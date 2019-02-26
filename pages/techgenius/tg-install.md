@@ -17,10 +17,10 @@ If you have completed the installation guide, then you will find the directory `
 In the steps outlined below we will build a community that is attached to the Madagascar Nation. To achieve this we will do the following:
 
 * Use git command line tools to [clone](#!./pages/vi/vi-github-and-repositories.md#Clone_your_GitHub_repository_username.github.io) the ole--vagrant-community repository to your local machine;
-* Use Vagrant command line tools to start the new virtual machine; and
+* Use [Vagrant](https://www.vagrantup.com "Vagrant Website") command line tools to start the new virtual machine; and
 * Configure the new local Community so that it is connected with the Madagascar Nation.
 
-## Step 3 - Vagrant
+## Step 3 - Installation
 
 ### How to Install a Community on a Local Laptop or PC
 
