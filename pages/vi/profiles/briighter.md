@@ -11,9 +11,9 @@ what kind of value I want to bring to others.
 Being a software engineer allows me to create tools to enable people to be more than human.
 
 ### Hobbies
-*Programming
-*Video Games
-*Reading
-*Movies
+* Programming
+* Video Games
+* Reading
+* Movies
 
 [LinkedIn Profile](https://www.linkedin.com/in/jaylima0/)
