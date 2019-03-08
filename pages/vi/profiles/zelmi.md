@@ -18,4 +18,4 @@ I look forward to learning much more with OLE as I do my best to give back as we
 
 ---
 
-Lets connect on [LinkedIn](www.linkedin.com/in/zehur-elmi)!
+Lets connect on [LinkedIn](http://www.linkedin.com/in/zehur-elmi)!
