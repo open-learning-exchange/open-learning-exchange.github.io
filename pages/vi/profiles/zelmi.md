@@ -14,6 +14,8 @@ I spend my free time volunteering to teach young kids and adults about science! 
 
 My current area of expertise is in **Java development**, **web development** in HTML and CSS, and general **software testing**.
 
-I look forward to learning much more with OLE as I do my best to give back as well. :smile:
+I look forward to learning much more with OLE as I do my best to give back as well.
+
+---
 
 Lets connect on [LinkedIn](www.linkedin.com/in/zehur-elmi)!
