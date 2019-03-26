@@ -20,6 +20,7 @@
 |[yuserahn](profiles/yuserahn.md)|2019-02-04|  
 |[coder8102](profiles/coder8102.md)|2019-02-18| 
 |[bnmounir](profiles/bnmounir.md)|2019-03-08| 
+|[zelmi](profiles/zelmi.md)|2019-03-26|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
