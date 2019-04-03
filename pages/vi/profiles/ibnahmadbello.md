@@ -1,4 +1,5 @@
 # Abdulrazaq Ahmed Bello
+
 ---
 
 Location | Timezone | OS
@@ -14,6 +15,7 @@ I look forward to working with you all.
 ---
 
 Some of my experience include:
+
 * Using Java to design desktop application: **JavaFX**.
 * Using Java to design Native Android App.
 * Using Java to design Web backend service: **Spring and Play Framework**.
