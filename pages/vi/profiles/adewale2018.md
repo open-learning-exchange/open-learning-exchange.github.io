@@ -19,7 +19,7 @@ ___
 ```
 ___
 ##### `JOURNEY OF ALMOST A YEAR:`
- - HTML5
+  - HTML5
   - CSS3
   - BOOTSTRAP
   - JAVASCRIPT
