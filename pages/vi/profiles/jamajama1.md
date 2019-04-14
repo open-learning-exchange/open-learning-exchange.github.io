@@ -4,7 +4,7 @@ Jama Jama
 ### Location
 Buffalo, NY
 ### Timezone
-US NY Eastern Time
+NY Eastern Time
 ### Operating System
 Microsoft Windows 10 Home edition.
 
@@ -19,3 +19,10 @@ I am working on improving my skills as an engineer and currently pursuing intern
 I consider myself a web scraping expert. I hope to work with you all in the near future. You can find my 
 LinkedIn page [here](https://www.linkedin.com/in/jama-jama-007915162). Feel free to connect with me.
 
+Languages I have worked with:
+* Java
+* C++
+* MySql
+* Html
+* CSS
+* Javascript using React and React Native
