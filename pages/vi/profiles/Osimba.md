@@ -16,4 +16,4 @@ I hope to develop my skills and confidence to start developing web applications 
 
 * [LinkedIn](https://www.linkedin.com/in/osei-quashie-a95327146/)
 
-* [Portfolio](portfolio.proqweb.com)
+* [Portfolio](https://portfolio.proqweb.com)
