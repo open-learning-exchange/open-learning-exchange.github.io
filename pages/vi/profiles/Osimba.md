@@ -12,8 +12,8 @@ I hope to develop my skills and confidence to start developing web applications 
 
 
 ## Links
-[Github](https://github.com/Osimba)
+* [Github](https://github.com/Osimba)
 
-[LinkedIn](https://www.linkedin.com/in/osei-quashie-a95327146/)
+* [LinkedIn](https://www.linkedin.com/in/osei-quashie-a95327146/)
 
-[Portfolio](portfolio.proqweb.com)
+* [Portfolio](portfolio.proqweb.com)
