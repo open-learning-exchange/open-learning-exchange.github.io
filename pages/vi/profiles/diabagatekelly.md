@@ -15,5 +15,3 @@ Hi everyone, I'm Kelly. I am currently a [Launchcode](https://www.launchcode.com
 * Angular 7
 
 Check out my [Github](https://www.github.com/diabagatekelly)!
-
-:smirk:
