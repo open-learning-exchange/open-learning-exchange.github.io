@@ -1,4 +1,4 @@
-# Docker Tutorial
+﻿# Docker Tutorial
 
 ## Objectives
 
@@ -7,8 +7,6 @@
 - Learn Docker and Docker Compose commands
 
 ## Introduction
-
-In the previous section, you installed Docker to your machine.
 
 **[Docker](https://www.docker.com/what-docker)** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface.
 
