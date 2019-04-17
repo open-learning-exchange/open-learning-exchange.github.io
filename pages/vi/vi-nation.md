@@ -24,7 +24,7 @@ In [Step 4](vi-planetapps.md#Different_Kinds_of_Updates_to_Your_Community), we l
 
 As you can see from the picture below, click on "Manager" as shown on the image below.
 
-![Clicking on "Manager"](images/vi-nation-manager.png "Dashboard in your localhost")
+![Clicking on "Manager"](images/edit-vi-nation-manager.png "Dashboard in your localhost")
 
 Next, click on "Sync with Nation".
 
