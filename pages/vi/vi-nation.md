@@ -22,7 +22,7 @@ Make sure vagrant is running and then click [here](http://localhost:3100) to acc
 
 In [Step 4](vi-planetapps.md#Different_Kinds_of_Updates_to_Your_Community), we listed 3 kinds of updates that you might receive on the community side: updates, publications, and surveys. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
 
-As you can see from the picture below, click on "Manager".
+As you can see from the picture below, click on "Manager" as shown on the image below.
 
 ![Clicking on "Manager"](images/vi-nation-manager.png "Dashboard in your localhost")
 
