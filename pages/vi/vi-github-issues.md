@@ -20,7 +20,7 @@ Below, you'll find the workflow where we brought up a problem, researched an ans
 
 ## Create an Issue
 
-First, you will need to open an issue within the right repository ([upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)) and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures as necessary. You will then research the possible solutions or ideas on how to address the Issue before detailing your proposed solution, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1985). Someone else will hopefully provide input, and then you can move ahead with making the proposed changes.
+First, you will need to open an issue within the right repository ([upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)) and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures as necessary. You will then research the possible solutions or ideas on how to address the issue before detailing your proposed solution, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1985). Someone else will hopefully provide input, and then you can move ahead with making the proposed changes.
 
 ![Providing Detail on New Issue](images/vi-new-issue-format.JPG)
 
