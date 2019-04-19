@@ -256,11 +256,11 @@ Commands:
 
 ## Useful Links
 
-[Why install Docker?](https://www.docker.com/why-docker) - Explanation of some basic concepts about why Docker is useful for developers and IT.
+[Why install Docker?](https://www.docker.com/why-docker) 
 [Docker Concepts](https://docs.docker.com/get-started/#docker-concepts)
 [Docker Overview](https://docs.docker.com/engine/docker-overview/)
 [Docker Compose](https://docs.docker.com/compose/overview/)
-[Wikipedia page on Docker](https://en.wikipedia.org/wiki/Docker_(software))
+[Wikipedia page on Docker](https://en.wikipedia.org/wiki/Docker_(software)
 [Other useful Docker tutorial](https://scotch.io/tutorials/getting-started-with-docker)
 
 #### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
