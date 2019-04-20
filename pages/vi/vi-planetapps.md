@@ -67,13 +67,12 @@ Take the course, and the last question will ask you to specify any problems or i
 1. Click on `Courses` on the top navigation  
 2. Find the course "Virtual Interns," click on `Join`  
 3. Click on Course to `Open`
-4. Carefully finish all steps of the course  
+4. Carefully finish all steps of the course
 
 
-      ![Finished Planet Course](images/vi-planet-course.jpg)
+    ![Finished Planet Course](images/vi-planet-course.jpg)
 
-
-5. To verify that your course answers were submitted, click on `Home`, then on `Submissions`
+5. To verify that your course answers were submitted, click on `Home`, then on `Submissions`  
 
 
     ![Submissions button](images/vi-planet-submissions-button.png)
