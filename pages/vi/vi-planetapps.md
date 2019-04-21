@@ -64,19 +64,14 @@ We created a course for aspiring virtual interns so that we could test the softw
 Take the course, and the last question will ask you to specify any problems or improvements/suggestions that you have. Remember, people taking these courses in remote areas of the world will probably run into the same problems if you do not raise them now and let the team know. This is a very important task, and your help is much appreciated.
 
 **STEPS:**  
-1\. Click on `Courses` on the top navigation  
-2\. Find the course "Virtual Interns," click on `Join`  
-3\. Click on Course to `Open`  
-4\. Carefully finish all steps of the course  
+1. Click on `Courses` on the top navigation  
+2. Find the course "Virtual Interns," click on `Join`  
+3. Click on Course to `Open`  
+4. Carefully finish all steps of the course ![Finished Planet Course](images/vi-planet-course.jpg)  
 
-![Finished Planet Course](images/vi-planet-course.jpg)  
+5. To verify that your course answers were submitted, click on `Home`, then on `Submissions` ![Submissions button](images/vi-planet-submissions-button.png) ![View Submissions](images/vi-planet-submissions.png)  
 
-5\. To verify that your course answers were submitted, click on `Home`, then on `Submissions`  
-
-![Submissions button](images/vi-planet-submissions-button.png)
-![View Submissions](images/vi-planet-submissions.png)  
-
-6\. When you provide feedback, try to be as specific as possible, and include screen shots when necessary  
+6. When you provide feedback, try to be as specific as possible, and include screen shots when necessary  
 
 ![Take the Course](images/vi-take-the-course.png)
 ![Course Overview](images/vi-course-view.png)
