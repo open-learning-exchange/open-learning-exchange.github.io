@@ -45,7 +45,7 @@ Next, click on `Submit`. You have now uploaded the resource. You should be able 
 
 ## Different Kinds of Updates to Your Community
 
-There are three important kinds of updates that you may receive on the community side: updates,  resources/courses and sync.
+There are three important kinds of updates that you may receive on the community side: updates,  resources/courses and sync. If you do not see the buttons highlighted in the picture below on your Manager page, post a message to the Gitter Chat channel to get help.
 
 As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see publication(s) (we send to you from the nation) ready to be downloaded.
 
