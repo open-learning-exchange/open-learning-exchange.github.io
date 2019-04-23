@@ -22,6 +22,7 @@
 |[bnmounir](profiles/bnmounir.md)|2019-03-08| 
 |[zelmi](profiles/zelmi.md)|2019-03-26|
 |[simily00](profiles/simily00.md)|2019-04-01|
+|[ibnahmadbello](profiles/ibnahmadbello.md)|2019-04-23|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
