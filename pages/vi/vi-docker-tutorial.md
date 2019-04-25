@@ -256,11 +256,11 @@ Commands:
 
 ## Useful Links
 
-[Why install Docker?](https://www.docker.com/why-docker) 
+[What is Docker?](https://www.docker.com/what-docker)
 [Docker Concepts](https://docs.docker.com/get-started/#docker-concepts)
 [Docker Overview](https://docs.docker.com/engine/docker-overview/)
 [Docker Compose](https://docs.docker.com/compose/overview/)
-[Wikipedia page on Docker](https://en.wikipedia.org/wiki/Docker_(software)
-[Other useful Docker tutorial](https://scotch.io/tutorials/getting-started-with-docker)
+[Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
+[Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
 
 #### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
