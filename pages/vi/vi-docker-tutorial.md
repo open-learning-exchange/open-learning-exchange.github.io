@@ -50,7 +50,7 @@ Below you'll find a few common `docker-compose` commands you would need througho
 
 ## Docker & Planet
 
-In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md) when you ran `vagrant up prod` Docker is set up to run Planet automatically. Below are the steps to install Planet manually, which can also be used to upgrade to the latest version of Planet. 
+In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md) when you ran `vagrant up prod` Docker is set up to run Planet automatically. Below are the steps to install Planet manually, which can also be used to upgrade to the latest version of Planet.
 
 1. Go to your OLE project folder, and use `cd planet` to enter into the `planet` directory. This is the repository you cloned in the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md)
 
@@ -64,7 +64,7 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
   - `docker pull treehouses/planet:db-init`
 
   - `docker tag treehouses/planet:latest treehouses/planet:local`
-  - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local` 
+  - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local`
 
 1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
 
@@ -253,5 +253,14 @@ Commands:
   up                 Create and start containers
   version            Show the Docker-Compose version information
 ```
+
+## Useful Links
+
+[What is Docker?](https://www.docker.com/what-docker)
+[Docker Concepts](https://docs.docker.com/get-started/#docker-concepts)
+[Docker Overview](https://docs.docker.com/engine/docker-overview/)
+[Docker Compose](https://docs.docker.com/compose/overview/)
+[Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
+[Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
 
 #### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
