@@ -9,7 +9,8 @@
 ## Preparation
 Please go to http://localhost:3100 or run `vagrant global-status` in the command line to see if your community Planet is currently running. If not, please `cd` into `planet` directory in your local machine and run `vagrant up prod`.
 
-Do not forget to send the screenshot of your Planet community configurations ([from the earlier step when you registered your configurations](vi-configurations-vagrant.md)) to our chat. In case you forgot to take the screenshot of your configurations, login to Planet, click on manager settings (top bar person with gear icon), click on the configuration button, take a screenshot of the page, and send it to the Gitter chat.
+Do not forget to send the screenshot of your Planet community configurations ([from the earlier step when you registered your configurations](vi-configurations-vagrant.md)) to our chat. In case you forgot to take the screenshot of your configurations, login to Planet, click on manager settings (top bar person with gear icon as below image), click on the configuration button, take a screenshot of the page, and send it to the Gitter chat.
+![Clicking on "Manager"](images/edit-vi-nation-manager.png "Dashboard in your localhost")
 
 ## Watch Videos
 
