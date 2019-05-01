@@ -1,4 +1,4 @@
-## Hello! :open_hands:
+## Hello!
 
 My name is *Anastasiia Petrechenko.* I live in Seattle, WA, USA, PDT. I am using macOS High Sierra, Version 10.13.2.
 
