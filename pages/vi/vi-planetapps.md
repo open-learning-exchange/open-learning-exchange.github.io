@@ -75,7 +75,7 @@ Take the course, and the last question will ask you to specify any problems or i
 ![Take the Course](images/vi-take-the-course.png)
 ![Course Overview](images/vi-course-view.png)
 
-If the course "Virtual Interns" is not there, check **Manage Sync** of manager settings to see if your synchronization are completed. Otherwise please message us and "@" an admin in the Gitter chat so we can send you the course manually.
+If the course "Virtual Interns" is not there, check `Manage Sync` of manager settings page to see if your synchronization are completed. Otherwise please message us and "@" an admin in the Gitter chat so we can send you the course manually.
 
 ## Useful Links
 
