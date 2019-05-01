@@ -11,6 +11,8 @@ Please go to http://localhost:3100 or run `vagrant global-status` in the command
 
 Do not forget to send the screenshot of your Planet community configurations ([from the earlier step when you registered your configurations](vi-configurations-vagrant.md)) to our chat. In case you forgot to take the screenshot of your configurations, login to Planet, click on manager settings (top bar person with gear icon), click on the configuration button, take a screenshot of the page, and send it to the Gitter chat.
 
+![Clicking on "Manager"](images/edit-vi-nation-manager.png "Dashboard in your localhost")
+
 ## Watch Videos
 
 Watch the videos below to learn the basic functions of your Planet. These videos were created a few years ago, on old system BeLL but they should do a decent job of introducing you to the Planet.
