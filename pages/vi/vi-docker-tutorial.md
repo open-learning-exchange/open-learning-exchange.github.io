@@ -29,7 +29,7 @@ Compose is a tool for defining and running multi-container Docker applications. 
 
 Now, take a look at [the YAML file for planet](https://github.com/open-learning-exchange/planet/blob/master/docker/planet.yml). There are 3 services in planet's docker-compose YAML file:
 
-- `planet` – our production optimized `planet` that's served via Nginx
+- `planet` – our production optimized `planet` that's served via [Nginx](https://kinsta.com/knowledgebase/what-is-nginx/)
 - `couchdb` – a CouchDB container
 - `db-init` – CouchDB initialization data, it contains all the schema necessary for our `planet` to run.
 
