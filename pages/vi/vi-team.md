@@ -22,6 +22,7 @@
 |[bnmounir](profiles/bnmounir.md)|2019-03-08|
 |[zelmi](profiles/zelmi.md)|2019-03-26|
 |[simily00](profiles/simily00.md)|2019-04-01|
+|[ibnahmadbello](profiles/ibnahmadbello.md)|2019-04-23|
 |[diabagatekelly](profiles/diabagatekelly.md)|2019-04-26|
 
 ## Former Interns
