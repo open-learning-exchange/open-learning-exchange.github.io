@@ -14,7 +14,7 @@ There should be constant communication between the nation and the communities. W
 
 Make sure vagrant is running and then click [here](http://localhost:3100) to access your Community Planet.
 
-**NOTE**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user on your community. Therefore, create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it a password that you actually use). Then, login to dummy account you just created and double-check that you're listed under Members. Then, log out and log back in with your admin account. Now that your community has a user, you can sync with the nation.
+**NOTE**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user on your community. Therefore, create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it a password that you actually use). Then, login to dummy account you just created and double-check that you're listed under Members on Manager page. Then, log out and log back in with your admin account. Now that your community has a user, you can sync with the nation.
 
 ![Clicking on "Dummy User"](images/vi-become-member.png "Dummy User")
 
