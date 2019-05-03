@@ -24,6 +24,7 @@
 |[simily00](profiles/simily00.md)|2019-04-01|
 |[ibnahmadbello](profiles/ibnahmadbello.md)|2019-04-23|
 |[diabagatekelly](profiles/diabagatekelly.md)|2019-04-26|
+|[ScottHuangNYU](profiles/ScottHuangNYU.md.md)|2019-05-03|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
