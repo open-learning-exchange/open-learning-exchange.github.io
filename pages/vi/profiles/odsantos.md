@@ -3,9 +3,9 @@
 ## Who... Where... Which...
 My name is __*Osvaldo Dias dos Santos*__, and I am from Luanda, the capital city of Angola __(UTC +1)__, a country at southern of Africa.
 
-![Angola](https://upload.wikimedia.org/wikipedia/commons/8/8d/Angola_in_Africa.svg)
+![Angola](https://upload.wikimedia.org/wikipedia/commons/8/8d/Angola_in_Africa.svg)  
 
-Angola ([TUBS, 2011](https://commons.wikimedia.org/wiki/File:Angola_in_Africa.svg))
+Angola ([TUBS, 2011](https://commons.wikimedia.org/wiki/File:Angola_in_Africa.svg))  
 
 Currently, I am using a small factor HP desktop computer running _Microsoft Windows 10 Pro_.
   
