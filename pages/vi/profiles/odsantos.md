@@ -8,7 +8,7 @@ My name is __*Osvaldo Dias dos Santos*__, and I am from Luanda, the capital city
 Angola ([TUBS, 2011](https://commons.wikimedia.org/wiki/File:Angola_in_Africa.svg))
 
 Currently, I am using a small factor HP desktop computer running _Microsoft Windows 10 Pro_.
-
+  
   
 ## I happen to be...
 Curious about new things, especially related to technology and including electronics, and the outer space.  
