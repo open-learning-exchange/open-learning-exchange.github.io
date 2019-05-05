@@ -9,6 +9,7 @@ Angola ([TUBS, 2011](https://commons.wikimedia.org/wiki/File:Angola_in_Africa.sv
 
 Currently, I am using a small factor HP desktop computer running _Microsoft Windows 10 Pro_.
   
+  
 ## I happen to be...
 Curious about new things, especially related to technology and including electronics, and the outer space.  
 So, recently I began pursuing a Computer Science undergraduate degree at University of the People, and found myself now at a sort of Associate degree equivalence.  
