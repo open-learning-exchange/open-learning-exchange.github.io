@@ -26,7 +26,7 @@ You can click on "Manager" icon as you can see on the picture below.
 
 ![Clicking on "Manager"](images/edit-vi-nation-manager.png "Dashboard in your localhost")
 
-Next, click on "Sync with Nation".
+Next, click on "Manage Sync".
 
 ![Clicking on "Sync with Nation"](images/vi-nation-sync.png "Community Manage Page in your localhost")
 
