@@ -11,7 +11,7 @@ Hello Everyone! I am a senior studying in [Penn State University](https://en.wik
 
 ```
 I love long walks
-Huskies = <3
+Huskies = 🖤
 I play games in my free time
 ```
 ![Penn State](https://sites.psu.edu/newtopsu/files/2017/04/weare-1079ccs.jpg)
