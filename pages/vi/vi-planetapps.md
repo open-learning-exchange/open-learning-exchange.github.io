@@ -57,7 +57,9 @@ As you can see from the image below, there is an update ready to be downloaded. 
 - Next, click on "Get Courses" or "Get Resources", under the Manager page. It will fetch Courses or Resources provided to community by nation.
 - Last, repeat the process of sending an activities sync to the nation.
 
-**NOTE**: If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.
+**NOTE**:  
+• If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.  
+• If new updates are not reflected, use `Command+Shift+R` or `Control+Shift+R` to clear cache and refresh.
 
 ## Take the Course
 
