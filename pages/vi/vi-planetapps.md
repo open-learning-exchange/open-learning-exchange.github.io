@@ -58,8 +58,8 @@ As you can see from the image below, there is an update ready to be downloaded. 
 - Last, repeat the process of sending an activities sync to the nation.
 
 **NOTE**: 
-* If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.
-* If new updates are not reflected, use `Command+Shift+R` or `Control+Shift+R` to clear cache and refresh.
+• If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.
+• If new updates are not reflected, use `Command+Shift+R` or `Control+Shift+R` to clear cache and refresh.
 
 ## Take the Course
 
