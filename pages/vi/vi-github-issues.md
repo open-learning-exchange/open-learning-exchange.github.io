@@ -147,4 +147,8 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
+## Next Section **→**
+
+[Step 7 - Nation Planet](vi-nation.md)
+
 #### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)
