@@ -92,4 +92,8 @@ If the course "Virtual Interns" is not there, check `Manage Sync` of manager set
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
+## Next Section **→**
+
+[Step 5 - Keeping Fork Updated](vi-github-and-repositories.md)
+
 #### Return to [First Steps](vi-first-steps.md#Step_4_-_Planet_Tutorial)
