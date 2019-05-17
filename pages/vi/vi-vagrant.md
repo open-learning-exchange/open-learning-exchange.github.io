@@ -118,4 +118,9 @@ or not commonly used. To see all subcommands, run the command
 [Wikipedia page on Vagrant](https://en.wikipedia.org/wiki/Vagrant_%28software%29)
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
+
+## Next Section **→**
+
+[Step 2 - Planet and Docker](vi-docker-tutorial.md)
+
 #### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Vagrant)
