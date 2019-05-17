@@ -263,4 +263,8 @@ Commands:
 [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
 [Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
 
+## Next Section **→**
+
+[Step 3 - Markdown and Fork Tutorial](vi-github-and-markdown.md)
+
 #### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
