@@ -94,6 +94,6 @@ If the course "Virtual Interns" is not there, check `Manage Sync` of manager set
 
 ## Next Section **→**
 
-[Step 5 - Keeping Fork Updated](vi-github-and-repositories.md)
+In the next step, you will learn more about how our Git repositories work, and how to sync your own repository to keep up-to-date.
 
 #### Return to [First Steps](vi-first-steps.md#Step_4_-_Planet_Tutorial)
