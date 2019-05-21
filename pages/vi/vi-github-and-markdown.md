@@ -157,6 +157,6 @@ After the pull request is merged, you'll be able to see your personal page at `o
 
 ## Next Section **→**
 
-[Step 4 - Planet Tutorial](vi-planetapps.md)
+In the next step, you will learn more about your community Planet, and the Planet interface.
 
 #### Return to [First Steps](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)
