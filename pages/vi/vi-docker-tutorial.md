@@ -265,6 +265,6 @@ Commands:
 
 ## Next Section **→**
 
-[Step 3 - Markdown and Fork Tutorial](vi-github-and-markdown.md)
+Markdown is a lightweight markup language with plain text formatting syntax. In the next section, you will learn Markdown to create a profile page, and learn how to create a pull request.
 
 #### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
