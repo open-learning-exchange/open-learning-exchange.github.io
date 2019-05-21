@@ -149,6 +149,6 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 
 ## Next Section **→**
 
-[Step 7 - Nation Planet](vi-nation.md)
+In the next step, you will learn how to sync your Community Planet with the Nation.
 
 #### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)
