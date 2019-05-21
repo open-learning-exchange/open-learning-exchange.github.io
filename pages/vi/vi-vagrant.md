@@ -121,6 +121,6 @@ or not commonly used. To see all subcommands, run the command
 
 ## Next Section **→**
 
-Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). Docker is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
+Docker is a computer program that performs operating-system-level virtualization also known as containerization. In the next section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
 
 #### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Vagrant)
