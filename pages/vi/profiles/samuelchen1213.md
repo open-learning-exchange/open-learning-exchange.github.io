@@ -1,7 +1,15 @@
+![Alt Text](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+
 ## Information
--**Name:** Samuel Chen
--**Location/Timezone:** Canada (Eastern Daylight Time)
--**OS:** macOS Mohave 10.14.4
+**Name:** Samuel Chen
+
+
+**Location/Timezone:** Canada (Eastern Daylight Time)
+
+
+**OS:** macOS Mohave 10.14.4
+
+
 
 ## Description
 Hello everyone! My name is Samuel Chen and I attend the University of Waterloo for Computing and Financial Mangement. 
