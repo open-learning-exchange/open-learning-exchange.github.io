@@ -1,5 +1,3 @@
-![Alt Text](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
-
 ## Information
 **Name:** Samuel Chen
 
@@ -19,3 +17,4 @@ You can find my linkedin page here if you want to connect with me: [Samuel's Lin
 
 Here is a picture of my school!
 ![Waterloo University](https://i.cbc.ca/1.2955245.1423777526!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/university-of-waterloo.jpg)
+![Alt Text](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
