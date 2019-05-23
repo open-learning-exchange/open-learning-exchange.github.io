@@ -1,11 +1,6 @@
 # _JOE FONTANA_
 ###### Spokane, WA (PDT -8:00) | Ubuntu 18.10
 
-![bowlandpitcher][bowlandpitcher]
-
-[bowlandpitcher]: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/bowl-and-pitcher-mark-kiver.jpg "Bowl and Pitcher -  
-Riverside State Park"
-
 ## About Me
 Recently graduated from Western Governors University with a B.S. in Software Development. Experience developing JavaFX desktop applications and Android mobile applications. Interested in learning more about full stack web development.
 
