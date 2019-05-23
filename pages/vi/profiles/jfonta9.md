@@ -5,9 +5,9 @@
 Recently graduated from Western Governors University with a B.S. in Software Development. Experience developing JavaFX desktop applications and Android mobile applications. Interested in learning more about full stack web development.
 
 ## Favorite Quotes
-> - I can't change the direction of the wind, but I can adjust my sails to always reach my destination.  
+>  I can't change the direction of the wind, but I can adjust my sails to always reach my destination.  
 -Jimmy Dean  
-> - Don't give up. Don't ever give up.  
+>  Don't give up. Don't ever give up.  
 -Jim Valvano
 
 ## Links
