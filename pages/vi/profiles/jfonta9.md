@@ -6,9 +6,10 @@ Recently graduated from Western Governors University with a B.S. in Software Dev
 
 ## Favorite Quotes
 >  I can't change the direction of the wind, but I can adjust my sails to always reach my destination.  
--Jimmy Dean  
+>-Jimmy Dean  
+>
 >  Don't give up. Don't ever give up.  
--Jim Valvano
+>-Jim Valvano
 
 ## Links
 [GitHub][1]  
