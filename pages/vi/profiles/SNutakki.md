@@ -1,7 +1,7 @@
 # Sashank Nutakki
 
 __Location__: Fremont, CA, US  
-__Time Zone__: Pacific Standard Time (PST)  
+__Time Zone__: Pacific Daylight Time (PDT)  
 __OS__: macOS Mojave (10.14)
 
 ---
