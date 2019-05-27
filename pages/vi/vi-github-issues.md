@@ -104,7 +104,7 @@ You can also use the Raw.githack url generator on <https://raw.githack.com>
 Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a Raw.githack link in your next step, the pull request.
 
 ## Create a Pull Request
-If you login to your own fork of OLE on Github, Github will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Press the green button that says Compare & pull request. In this new page, you can change the title and comments for the PR. Once you are done with filling out these forms, submit the pull request by clicking on the green create pull request button.
+If you login to your own fork of OLE on Github, Github will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Press the green button that says Compare & pull request. In this new page, give the PR a title and description. Once you are done with filling out these forms, submit the pull request by clicking on the green create pull request button.
 
 ![Compare & Pull](images/vi-compare-pull.png)
 
@@ -146,5 +146,9 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 [Mastering Issues](https://guides.github.com/features/issues/) - The official Git Guide on the basics of filing an issue.
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
+## Next Section **→**
+
+In the next step, you will learn how to sync your Community Planet with the Nation.
 
 #### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)

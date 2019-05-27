@@ -155,4 +155,8 @@ After the pull request is merged, you'll be able to see your personal page at `o
 
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
+## Next Section **→**
+
+In the next step, you will learn more about your community Planet, and the Planet interface.
+
 #### Return to [First Steps](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)

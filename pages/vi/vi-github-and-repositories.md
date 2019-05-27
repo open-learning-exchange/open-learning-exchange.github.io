@@ -174,7 +174,7 @@ The **upstream repository** is the one we are contributing to.
 - `git merge upstream/master` - You repository should now be synced to upstream/master ([more info](https://git-scm.com/docs/git-merge))
 
 #### Make sure your repository is up to date
-- `git diff` - for comparing different versions of the same file
+- `git diff` - for comparing different versions of the same file ([more info](https://git-scm.com/docs/git-diff))
 - `git status` - to view the changes made in the branch, whether the branch is up-to-date with master
 - `git pull` - to sync the local repository with the remote repository ([more info](https://git-scm.com/docs/git-pull))
 - `git push` - to push the updates that you made to the local repositories to the GitHub repositories ([more info](https://git-scm.com/docs/git-push))
@@ -200,5 +200,9 @@ If you would like to understand how syncing with the fork works, here is a usefu
 [Git-it Workshop](http://jlord.us/git-it/) - Runs in your terminal to work and provides a hands-on approach to learn Git and GitHub repositories.
 [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
+
+## Next Section **→**
+
+In the next section, you will learn the process for creating and resolving issues with GitHub.
 
 #### Return to [First Steps](vi-first-steps.md#Step_5_-_Keeping_Fork_Updated)
