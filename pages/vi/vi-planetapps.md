@@ -43,9 +43,8 @@ Fill out the information:
 1. Fill in all of the text boxes and drop-down menus (As this is just practice, accuracy of information is not important)
 2. Be sure to **upload** one of the `PDF - "Feelings"`, `mp3 song - "Opposite Song"`, or `mp4 video - "Burka Avenger"` files.
 3. Next, click on Submit. You have now uploaded the resource.
-4. Repeat this until all three files have been uploaded as resources.
-
-Next, click on `Submit`. You have now uploaded the resource. You should be able to find the resource in Library, make sure that you can open it. Repeat the same process for all three resources.
+4. Find the resources in `Library`, and make sure that you can open it.
+5. Repeat this until all three files have been uploaded as resources.
 
 ## Different Kinds of Updates to Your Community
 
