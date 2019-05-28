@@ -54,9 +54,9 @@ As you can see from the image below, there is an update ready to be downloaded. 
 
 ![Update from the nation](images/vi-update-publication.png "Dashboard in your localhost")
 
-- First, click the "Upgrade" button on Manager page and it take you to upgrade page. An update refers to a software update which improves the Planet. If you do not see "Upgrade" button then simply carry on.
-- Next, click on "Get Courses" or "Get Resources", under the Manager page. It will fetch Courses or Resources provided to community by nation.
-- Last, repeat the process of sending an activities sync to the nation.
+1. Click the "Upgrade" button on Manager page and it take you to upgrade page. An update refers to a software update which improves the Planet (Note: If you do not see "Upgrade" button then simply carry on). It will then ask you for verification.
+2. After the upgrade is complete, undergo `vagrant halt prod`, `vagrant up prod`, and log out and in again.
+3. Go back to the Manager page and click on "Get Courses". (Note: If you do not see "Get Courses" button then simply carry on to the next step)
 
 **NOTE**:  
 • If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.  
