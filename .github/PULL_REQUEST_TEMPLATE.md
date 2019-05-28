@@ -12,5 +12,5 @@ Fixes #
 ### Description
 
 
-### RawGit preview link
-<!-- rawgit link to page(s) changed -->
+### Raw.githack preview link
+<!-- Raw.githack link to page(s) changed -->
