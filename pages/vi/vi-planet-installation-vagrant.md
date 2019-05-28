@@ -119,25 +119,6 @@ It is advisable to use Firefox to access your community Planet. If you don't hav
 
    To solve it first remove the unused packages using `sudo apt-get autoremove`. Then reconfigure VirtualBox to install updated modules using `sudo /sbin/vboxconfig`
 
-4. If you see "no_db_found" when trying to access <http://localhost:3100>: 
-At this early stage, the simple solution would be using `vagrant destroy prod` to delete the current machine, then use `vagrant up prod` to rebuild it.
-
-5. If the command `vagrant up prod` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
-
-6. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
-
-
- On Windows 7 the Planet installation might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Windows Management Framework 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595). Please, read the installation instructions to know which version to download.
-  Your computer will restart and then the installation will resume.
-
-3. On Ubuntu, you might get this error when you run `vagrant up prod`:
-
-   > Stderr: VBoxManage: error: The virtual machine 'ud381_default_1463617458900_49294' has terminated unexpectedly during startup with exit code 1 (0x1) VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component MachineWrap, interface IMachine
-
-   This is caused when VirtualBox gets a minor version Update. (i.e. 5.0.x -> 5.1.x or 5.1.x -> 5.2.x). There are some old unused modules, which are not compatible with the newer version. They remain installed, which causes the above problem and prevents VirtualBox from starting. A system restart also does not solve the problem.
-
-   To solve it first remove the unused packages using `sudo apt-get autoremove`. Then reconfigure VirtualBox to install updated modules using `sudo /sbin/vboxconfig`
-
 4. If you see the following error:
    > The provider 'virtualbox' that was requested to back the machine 'prod' is reporting that it isn't usable on this system. The reason is shown below:
    > VirtualBox is complaining that the installation is incomplete. Please run `VBoxManage --version` to see the error message which should contain instructions on how to fix this error.
