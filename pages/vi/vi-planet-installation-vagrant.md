@@ -126,11 +126,8 @@ At this early stage, the simple solution would be using `vagrant destroy prod` t
 
 6. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
 
-## Next Section **→**
 
-Now  you have installed your community Planet, head over to [Planet Configurations](#!./pages/vi/vi-configurations-vagrant.md) to register your community with the nation.
-
-  On Windows 7 the Planet installation might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Windows Management Framework 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595). Please, read the installation instructions to know which version to download.
+ On Windows 7 the Planet installation might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Windows Management Framework 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595). Please, read the installation instructions to know which version to download.
   Your computer will restart and then the installation will resume.
 
 3. On Ubuntu, you might get this error when you run `vagrant up prod`:
