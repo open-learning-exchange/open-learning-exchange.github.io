@@ -78,7 +78,7 @@ For edits to this markdown wiki, we recommend that your commit messages only con
 * Use the imperative mood in the subject line
 
 Here is an example of how you would write your commit message:
-`$ git commit -m "Add commit message style guide and add Rawgit section (fixes #841)"`
+`$ git commit -m "Add commit message style guide and add Raw.githack section (fixes #841)"`
 
 NOTE: In your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
@@ -108,7 +108,7 @@ If you login to your own fork of OLE on Github, Github will notice that you rece
 
 ![Compare & Pull](images/vi-compare-pull.png)
 
-For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest to include the issue for which the pull request is resolving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request) to the title of your PR and also the rawgit link into the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the rawgit link.
+For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest to include the issue for which the pull request is resolving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request) to the title of your PR and also the Raw.githack link into the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the Raw.githack link.
 
 ![Pull Request Check List](images/vi-pull-request-details.png)
 
@@ -118,7 +118,7 @@ Additionally, creating a checklist will help others understand what you have don
 [x] Are there any unneeded files in the pull request?
 [x] Did they make a branch for their patch?
 [x] Does the pull request actually fix the issue?
-[x] Check the pull request on rawgit, does it display without any errors?
+[x] Check the pull request on Raw.githack, does it display without any errors?
 [x] Is there any merge conflicts?
 [x] Make sure that people use their GitHub accounts when making commits through git
 
