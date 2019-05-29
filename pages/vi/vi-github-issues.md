@@ -24,9 +24,11 @@ First, you will need to open an issue within the right repository ([upstream rep
 
 ![Providing Detail on New Issue](images/vi-new-issue-format.JPG)
 
-IMPORTANT: Issues are _not required_ to be approved _before_ a Pull Request is submitted for the respective fix; however, we do suggest that you wait until someone from the OLE confirms/approves the change that your issue addresses BEFORE you begin work on the fix. Check out this example issue, per Dogi, that shows the importance of confirmation: [#1465](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1465).  
+**IMPORTANT:** Issues are _not required_ to be approved _before_ a Pull Request is submitted for the respective fix; however, we do suggest that you wait until someone from the OLE confirms/approves the change that your issue addresses BEFORE you begin work on the fix. Check out this example issue, per Dogi, that shows the importance of confirmation: [#1465](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1465).  
 
 **BE WARNED!** If the OLE member(s) does not approve your issue, prior to the creation of the Pull Request, your efforts may be in vain. If the OLE member(s) does not approve the change, the Pull Request will not be merged and the Issue will not be counted towards your "First Steps" progress. Therefore, it is suggested that you wait for the OLE member(s) to approve your Issue submission.
+
+**Already available issues:** You can also help on issues which has already been created. Issues which are tagged as `first step intern` can be taken and worked on. Please make sure when you start working on these issue, you should assign yourself to issue or ask to be assigned. Also if someone is assigned then do not try to work on that issue.
 
 _**SPECIAL NOTE:**_ Aspiring Virtual Interns have a tendency to speed through this process in order to check off their "First Steps" requirements. The purpose of these requirements is to fix an actual problem and improve the "First Steps" as a whole. Take time to review the "First Steps" materials to identify real issues and to research helpful solutions. It is also important to search current/open Issues to see if the problem has already been identified.
 
