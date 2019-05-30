@@ -80,7 +80,7 @@ For edits to this markdown wiki, we recommend that your commit messages only con
 * Use the imperative mood in the subject line
 
 Here is an example of how you would write your commit message:
-`$ git commit -m "Add commit message style guide and add Rawgit section (fixes #841)"`
+`$ git commit -m "Add commit message style guide and add raw.githack section (fixes #841)"`
 
 NOTE: In your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
@@ -96,21 +96,21 @@ For example http://raw.githack.com/EmilyLarkin/EmilyLarkin.github.io/master/#!in
 
 ![Raw.githack Generator](images/raw.githackGenerator.png)
 
-You can also use the Raw.githack url generator on <https://raw.githack.com>
+You can also use the raw.githack url generator on <https://raw.githack.com>
 1.  Select the branch you were working on from the drop down on the top left
 2.  Navigate to the page your changed in your fork of the github repository  
 3.  Copy the URL in your browser and paste it in the field on <https://raw.githack.com>
 4.  Select the Development URL
 5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.
 
-Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a Raw.githack link in your next step, the pull request.
+Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a raw.githack link in your next step, the pull request.
 
 ## Create a Pull Request
 If you login to your own fork of OLE on Github, Github will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Press the green button that says Compare & pull request. In this new page, give the PR a title and description. Once you are done with filling out these forms, submit the pull request by clicking on the green create pull request button.
 
 ![Compare & Pull](images/vi-compare-pull.png)
 
-For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest to include the issue for which the pull request is resolving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request) to the title of your PR and also the rawgit link into the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the rawgit link.
+For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest to include the issue for which the pull request is resolving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request) to the title of your PR and also the raw.githack link into the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the raw.githack link.
 
 ![Pull Request Check List](images/vi-pull-request-details.png)
 
@@ -120,7 +120,7 @@ Additionally, creating a checklist will help others understand what you have don
 [x] Are there any unneeded files in the pull request?
 [x] Did they make a branch for their patch?
 [x] Does the pull request actually fix the issue?
-[x] Check the pull request on rawgit, does it display without any errors?
+[x] Check the pull request on raw.githack, does it display without any errors?
 [x] Is there any merge conflicts?
 [x] Make sure that people use their GitHub accounts when making commits through git
 
