@@ -1,7 +1,7 @@
 # Jay Son
 
 ## About Me
-Hey, everyone! My name's **Seung "Jay" Son** and I'm currently on my last year for getting my Master's at **Northeastern University**, in **Boston, MA**.
+Hey, everyone! My name's **Seung "Jay" Son** and I'm currently on my last year for getting my Master's at **Northeastern University**, in **Boston, MA**. My time zone is on **Eastern**.
 
 ![Boston](https://images.unsplash.com/photo-1488750059241-ed3ad4563245?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80 "Boston")
 
