@@ -53,7 +53,7 @@ If you're still confused, that's quite alright. [Forking Workflow](https://www.a
 
 ### Preview Changes Locally
 
-After making modifications to your local files and before making a commit, you would want to preview the changes locally. The following link, [how to preview changes](http://dynalon.github.io/mdwiki/#!faq.md), gives all the informations about how to preview changes from your machine.There's also a another option to preview using online environment. This [link](https://dillinger.io/) takes you to the online environment.
+After making modifications to your local files and before making a commit, you would want to preview the changes locally. The following link, [how to preview changes](http://dynalon.github.io/mdwiki/#!faq.md), gives all the informations about how to preview changes from your machine. There's also a another option to preview using online environment. This [link](https://dillinger.io/) takes you to the online environment.
  
 ## Create a Commit and Push the Changes
 Use the next commands to commit and push the changes:
