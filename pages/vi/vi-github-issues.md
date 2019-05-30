@@ -68,6 +68,8 @@ Use the next commands to commit and push the changes:
 
 4.  `git push -u origin <name_of_your_new_branch>` to save your changes and push them to your Github (for any further commit on the same branch after the first one, you can just use `git push`).
 
+NOTE: In case you have come up with the wrong edit and if you'd like to revert it back to the previous version of the file follow this        [link](https://githowto.com/undoing_local_changes). This is applicable only before commiting the change.
+
 ### Commit Message Style Guide
 
 Because the commits you will be making on this markdown wiki are fairly basic, it is not necessary to enforce a wordy commit style. However, in the future, when you start to work on more complex projects, it is helpful to write your commit messages in a certain way. Here is an article on [how to write good commit messages](https://chris.beams.io/posts/git-commit/).
