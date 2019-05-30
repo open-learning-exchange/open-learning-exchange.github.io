@@ -108,7 +108,7 @@ If you need to edit your file again, click the pencil icon to edit (as shown bel
 
   ![Edit Profile](images/vi-edit-profile.png)
 
-Now, check what this looks like on your own page `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`.The raw.githack link allows reviewers to preview your changes.RawGit acts as a caching proxy for files in GitHub. It is   basically an internet app that serves files on GitHub to external CDNs. Please double check that everything looks good and is working as you  hoped before moving on to next section. 
+Now, check what this looks like on your own page `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`. The raw.githack link allows reviewers to preview your changes.RawGit acts as a caching proxy for files in GitHub. It is   basically an internet app that serves files on GitHub to external CDNs. Please double check that everything looks good and is working as you  hoped before moving on to next section. 
 
 **NOTE**:
 • If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 to reload the page with cache cleared.
