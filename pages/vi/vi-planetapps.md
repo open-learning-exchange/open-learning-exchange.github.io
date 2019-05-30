@@ -52,11 +52,13 @@ There are three important kinds of updates that you may receive on the community
 
 As you can see from the image below, there is an update ready to be downloaded. Usually, next to the update, you should also see publication(s) (we send to you from the nation) ready to be downloaded.
 
-![Update from the nation](images/vi-update-publication.png "Dashboard in your localhost")
+![Update from the nation](images/vi-planet-upgrade.png "Manager Dashboard in your localhost")
+![Fetch Items from the nation](images/vi-planet-fetch-items.png "Manager Dashboard in your localhost")
 
-- First, click the "Upgrade" button on Manager page and it take you to upgrade page. An update refers to a software update which improves the Planet. If you do not see "Upgrade" button then simply carry on.
-- Next, click on "Get Courses" or "Get Resources", under the Manager page. It will fetch Courses or Resources provided to community by nation.
-- Last, repeat the process of sending an activities sync to the nation.
+1. Click the `Upgrade` button on Manager page and it take you to upgrade page. An update refers to a software update which improves the Planet (Note: If you do not see `Upgrade` button then simply carry on). It will then ask you for verification.
+2. After the upgrade is complete, undergo `vagrant halt prod` and `vagrant up prod` to restart planet.
+3. Go back to the Manager page and click on `Fetch Items` and download the courses offered (2nd picture). (**Note:** Fetch Items is only available if nation has sent anything to your community. If you do not see Fetch Items the please carry on.)
+4. Finally, repeat the process of sending an activities sync to the nation using `Manage Sync`.
 
 **NOTE**:  
 • If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.  
