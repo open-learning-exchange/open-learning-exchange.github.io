@@ -1,4 +1,4 @@
-# Planet Tutorial
+﻿# Planet Tutorial
 
 ## Objectives
 
@@ -28,7 +28,7 @@ We suggest you to play around a bit, try to explore and feel comfortable with Pl
 
 In this section, we will practice uploading resources to the Planet. Although there are several kinds of resources, the majority of them are PDFs, mp3s, and mp4s.
 
-Here are three type of resources that you can download to your computer and then upload to your Planet. Right-click on each one of these links and save them to your computer.
+Here are three types of resources that you can download to your computer and then upload to your Planet. Right-click on each one of these links and save them to your computer.
 
 [PDF - "Feelings"](pdf/vi-feelings.pdf)
 [mp3 song - "Opposite Song"](music/vi-oppositesong.mp3)
