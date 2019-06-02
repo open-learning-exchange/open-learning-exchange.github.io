@@ -67,9 +67,9 @@ Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) t
 
 4. There is a chance upon having your account approved that the website does not recognize you as registered. You will be stuck infinitely loading and upon refresh, the page will be blank.
 
-![Screenshot (3)](https://user-images.githubusercontent.com/22685147/58672048-259a5780-8313-11e9-8146-6d419e83537e.png)
+![Not recognized](https://user-images.githubusercontent.com/22685147/58755806-bb6fe700-84b9-11e9-8a27-d3e3ab56ffba.png)
 
-![Screenshot (4)](https://user-images.githubusercontent.com/22685147/58672123-7611b500-8313-11e9-843f-d54932d684c3.png)
+![Blank](https://user-images.githubusercontent.com/22685147/58755807-be6ad780-84b9-11e9-86b5-c745f584ac41.png)
 
 In order to fix this problem, simply follow the procedures stated above in bullet 3: use `vagrant destroy prod`, then `vagrant up prod`. Afterwards, use a slightly different name for your configuration, take a screenshot of the new configuration page, and post it to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
