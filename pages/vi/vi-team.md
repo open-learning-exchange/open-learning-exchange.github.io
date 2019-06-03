@@ -1,4 +1,4 @@
-# Members
+﻿# Members
 
 ## Active Members
 
@@ -26,6 +26,7 @@
 |[diabagatekelly](profiles/diabagatekelly.md)|2019-04-26|
 |[ScottHuangNYU](profiles/ScottHuangNYU.md)|2019-05-03|
 |[Liew211](profiles/Liew211.md)|2019-05-22|
+|[sjson421](profiles/sjson421.md)|2019-06-03|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
