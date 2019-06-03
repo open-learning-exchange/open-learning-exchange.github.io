@@ -58,7 +58,7 @@ As you can see from the image below, there is an update ready to be downloaded. 
 1. Click the `Upgrade` button on Manager page and it take you to upgrade page. An update refers to a software update which improves the Planet (Note: If you do not see `Upgrade` button then simply carry on). It will then ask you for verification.
 2. After the upgrade is complete, undergo `vagrant halt prod` and `vagrant up prod` to restart planet.
 3. Go back to the Manager page and click on `Fetch Items` and download the courses offered (2nd picture). (**Note:** Fetch Items is only available if nation has sent anything to your community. If you do not see Fetch Items the please carry on.)
-4. Finally, repeat the process of sending an activities sync to the nation using `Manage Sync`.
+4. Finally, send an activities sync to the nation using `Manage Sync`.
 
 **NOTE**:  
 • If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.  
