@@ -149,35 +149,35 @@ This process needs to be repeated whenever you begin to work, to make sure that 
 Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
 
 #### Clone your GitHub repository username.github.io
-- Open your command prompt/terminal and find the correct directory
-- Copy the HTTPS or SSH link from your repository on the GitHub site
-- On the command line, type `git clone *paste your HTTPS or SSH link here*`
+1. Open your command prompt/terminal and find the correct directory
+2. Copy the HTTPS or SSH link from your repository on the GitHub site
+3. On the command line, type `git clone *paste your HTTPS or SSH link here*`
 
 #### Understand that there are three levels of a Github repository:
-1. the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io))
-2. Your username.github.io on GitHub
-3. Your username.github.io on your OS.
+- the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io))
+- Your username.github.io on GitHub
+- Your username.github.io on your OS.
 
 These need to be synced and checked constantly.
 The **upstream repository** is the one we are contributing to.
 
 #### Configure the upstream repository to your fork
-- `cd <username>.github.io.`
-- `git remote -v` see above to make sure you are pushing and fetching to your own repository on GitHub as the origin
-- `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
-- `git remote -v` origins should remain the same as step 2, but you should also be fetching and pushing to OLE as the upstream now
+1. `cd <username>.github.io.`
+2. `git remote -v` see above to make sure you are pushing and fetching to your own repository on GitHub as the origin
+3. `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
+4. `git remote -v` origins should remain the same, but you should also be fetching and pushing to OLE as the upstream now
 
 #### Sync Your Fork
-- `git fetch upstream` -  to fetch branches from the upstream repository ([more info](https://git-scm.com/docs/git-fetch))
-- `git checkout master` - to checkout the `master` branch
-- `git show-branch` - to see branches and the changes made in them
-- `git merge upstream/master` - You repository should now be synced to upstream/master ([more info](https://git-scm.com/docs/git-merge))
+1. `git fetch upstream` -  to fetch branches from the upstream repository ([more info](https://git-scm.com/docs/git-fetch))
+2. `git checkout master` - to checkout the `master` branch
+3. `git show-branch` - to see branches and the changes made in them
+4. `git merge upstream/master` - You repository should now be synced to upstream/master ([more info](https://git-scm.com/docs/git-merge))
 
 #### Make sure your repository is up to date
-- `git diff` - for comparing different versions of the same file ([more info](https://git-scm.com/docs/git-diff))
-- `git status` - to view the changes made in the branch, whether the branch is up-to-date with master
-- `git pull` - to sync the local repository with the remote repository ([more info](https://git-scm.com/docs/git-pull))
-- `git push` - to push the updates that you made to the local repositories to the GitHub repositories ([more info](https://git-scm.com/docs/git-push))
+1. `git diff` - for comparing different versions of the same file ([more info](https://git-scm.com/docs/git-diff))
+2. `git status` - to view the changes made in the branch, whether the branch is up-to-date with master
+3. `git pull` - to sync the local repository with the remote repository ([more info](https://git-scm.com/docs/git-pull))
+4. `git push` - to push the updates that you made to the local repositories to the GitHub repositories ([more info](https://git-scm.com/docs/git-push))
 
 **NOTE**: Developers should always sync their fork and make sure their repositories are up to date with GitHub every time they begin to work. This way we as a team can minimize data loss, and can save you some time.
 

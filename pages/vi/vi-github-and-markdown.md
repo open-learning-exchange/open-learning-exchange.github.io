@@ -108,11 +108,11 @@ If you need to edit your file again, click the pencil icon to edit (as shown bel
 
   ![Edit Profile](images/vi-edit-profile.png)
 
-Now, check what this looks like on your own page `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`. Please double check that everything looks good and is working as you hoped before moving on to next section.
+Now, check what this looks like on your own page `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`. The raw.githack link allows reviewers to preview your changes. Please double check that everything looks good and is working as you hoped before moving on to next section.
 
 **NOTE**:
 • If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 to reload the page with cache cleared.
-• As MDwiki site is what we use for "production," please **always check** if everything renders as you expected using rawgit link. There are [different flavors of Markdown](https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors). Use GitHub's preview tab for reference only.
+• As MDwiki site is what we use for "production," please **always check** if everything renders as you expected using raw.githack link. There are [different flavors of Markdown](https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors). Use GitHub's preview tab for reference only.
 
 
 ### Open a pull request
@@ -126,7 +126,7 @@ Once you have your profile ready, it's time to create a pull request. Click on o
 **There are a few things to watch out before clicking on the green "Create pull request" button**. Make sure you:
 
 * give the pull request a short and descriptive title (e.g. create YourUserName.md)
-* include the rawgit link to your Markdown profile page in the pull request description
+* include the raw.githack link to your Markdown profile page in the pull request description
 * scroll down the page and verify you used at least 3-5 Markdown elements in your profile
 
 Finally, click "Create pull request" button and post the link to your github.io and profile pull request in the [gitter chat](https://gitter.im/open-learning-exchange/chat):

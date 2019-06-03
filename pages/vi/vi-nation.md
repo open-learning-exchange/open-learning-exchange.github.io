@@ -34,7 +34,7 @@ Then, you will end on page showing all sync process. Click on **Run Sync** butto
 
 ![Clicking on "Select All" and "Send"](images/vi-nation-sync-send.png "Community Manage Page in your localhost")
 
-You will be prompt to provide Administrator password. Once you confirm password, sync process will start.
+You will be prompted to provide Administrator password. Once you confirm password, sync process will start.
 
 You have now sent all activities on your community to the nation. To explain further, the nation receives a number of data points: number of resources opened, number of logins, number of members, resource ratings, technical feedback, and resource requests. We don't get specific information on individual users, but rather usage and feedback as whole.
 

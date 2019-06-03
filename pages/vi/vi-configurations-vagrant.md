@@ -24,7 +24,7 @@ The Planet is not only a library, but also an individualized learning system, wh
 
 ## macOS and Ubuntu
 
-Check that your vagrant is up and running with `vagrant global-status`. Assuming that it's running or you launch it using `vagrant up prod`, open browser. Go to http://localhost:3100. Make sure to have the correct port number (3100), otherwise it will not work correctly.
+Please go to [http://localhost:3100](http://localhost:3100) or run `vagrant global-status` in the command line to see if your community Planet is currently running. If not, please `cd` into `planet` directory in your local machine and run `vagrant up prod`. Make sure to have the correct port number(3100), or else it will not work. 
 
 ## Windows
 
