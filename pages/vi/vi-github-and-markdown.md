@@ -59,7 +59,7 @@ Now, go to [OLE's github.io repository](https://github.com/open-learning-exchang
 ![Forking on GitHub](images/vi-github-forking.png)
 
 **NOTE**: It is very important to **distinguish between your personal GitHub account and OLE's account**.
-As we want to keep a 'clean' version of our code, everyone forks the repositories, commit their changes to a branch on their own version of the repository, and then send the changes back to OLE's repository for approval (called a pull request), before OLE's code is updated.
+First, you should fork the repository to create your own 'clean' version of the code. You should commit any changes you make to a branch on this version of the repository. These changes should be sent back to OLE's repository through pull requests. OLE's code will be updated when the pull requests are approved.
 
 ### Go to Settings and rename your repository
 
