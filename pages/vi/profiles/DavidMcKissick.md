@@ -28,3 +28,9 @@ __You can find my very work-in-progress personal site [here](https://mckissick.d
 
 ### *My favorite quote would have to be:* 
 >Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. - Rick cook, 1989
+
+## Get ahold of me
+* [Github](https://github.com/DavidMcKissick)
+* [Twitter (I am not very active)](https://twitter.com/VaguePancakes)
+* [LinkedIn](https://www.linkedin.com/in/david-mckissick-b49a9594/)
+* [Email](mailto:david@mckissick.dev)
