@@ -71,10 +71,10 @@ When you are ready to merge the pull request:
 Every time you merge a pull request, message the author on [Gitter chat](https://gitter.im/open-learning-exchange/chat), make sure you include a link to the pull request and commit id.
 
 
- ### Using Waffle.io
-[Waffle.io](https://waffle.io/ole-vi) is what OLE uses to manage some of our projects. It's another way to view the projects that you and your team need to work on and review. You will be automatically added to the Waffle.io page once you become a member of ole-vi GitHub organization.
+ <!-- ### Using Waffle.io
+[Waffle.io](https://waffle.io/ole-vi) is what OLE uses to manage some of our projects. It's another way to view the projects that you and your team need to work on and review. You will be automatically added to the Waffle.io page once you become a member of ole-vi GitHub organization. -->
 
-Choose issues to work on out of the `Ready` column and assign them to yourself. Move them to the `In Progress` column when you start working on them. Make sure you link the pull requests to their issues by mentioning them in the pull request title. E.g. "(fixes #54)".
+<!-- Choose issues to work on out of the `Ready` column and assign them to yourself. Move them to the `In Progress` column when you start working on them. Make sure you link the pull requests to their issues by mentioning them in the pull request title. E.g. "(fixes #54)". -->
 
 ### Standup Message
 
