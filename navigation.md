@@ -50,7 +50,8 @@
   - - - -
   * [**Members**](pages/techgenius/tg-team.md)
 
-[Manual]()
+[Manual]() <!-- System Manual -->
+
   * [Planet User Manual](pages/manual/planet/overview.md)
   * [myPlanet User Manual]()
 
