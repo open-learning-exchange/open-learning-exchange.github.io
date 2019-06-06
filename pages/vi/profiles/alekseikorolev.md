@@ -9,5 +9,5 @@ I am was an engineer with huge years of experience. Now I falling in love with a
 * HTML
 * CSS
 ## Contact
-* ![LinkedIn](https://www.linkedin.com/in/aleksei-korolev-a49447169)
-* ![GitHub](https://github.com/AlekseiKorolev)
+* [LinkedIn](https://www.linkedin.com/in/aleksei-korolev-a49447169)
+* [GitHub](https://github.com/AlekseiKorolev)
