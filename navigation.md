@@ -50,6 +50,10 @@
   - - - -
   * [**Members**](pages/techgenius/tg-team.md)
 
+[Manual]()
+  * [Planet User Manual](pages/manual/planet/overview.md)
+  * [myPlanet User Manual]()
+
 [Contributors]() <!-- Moon-Shot Programs -->
 
   * [Orientation](pages/robots/rbts-intern-orientation.md)
