@@ -102,7 +102,7 @@ Then, in the new Markdown file, include the following information:
 * your name, location/time zone, and OS (including version)
 * a short description of yourself (so your fellow virtual interns know who you are)
 
-You may use the "Preview" tab to have a primitive look of what your Markdown will look like. We recommend using at least 5 different types of Markdown elements so you can get an idea of how it works. Avoid using HTML as the purpose of Markdown is to make pages easy to write and read. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) (links), [Profile 2](profiles/ketruong.md) (picture), [Profile 3](profiles/paulbert.md) (lists)
+You may use the "Preview" tab to have a primitive look of what your Markdown will look like. Please use at least 5 different types of Markdown elements so you can get an idea of how it works. Avoid using HTML as the purpose of Markdown is to make pages easy to write and read. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) (links), [Profile 2](profiles/ketruong.md) (picture), [Profile 3](profiles/paulbert.md) (lists)
 
 If you need to edit your file again, click the pencil icon to edit (as shown below).
 
@@ -127,7 +127,7 @@ Once you have your profile ready, it's time to create a pull request. Click on o
 
 * give the pull request a short and descriptive title (e.g. create YourUserName.md)
 * include the raw.githack link to your Markdown profile page in the pull request description
-* scroll down the page and verify you used at least 3-5 Markdown elements in your profile
+* scroll down the page and verify you used at least 5 **different** Markdown elements in your profile
 
 Finally, click "Create pull request" button and post the link to your github.io and profile pull request in the [gitter chat](https://gitter.im/open-learning-exchange/chat):
 
