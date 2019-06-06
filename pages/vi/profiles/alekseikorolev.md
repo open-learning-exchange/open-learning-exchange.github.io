@@ -3,7 +3,7 @@
 * Timezone CET
 * OS Windows 8.1 (6.3.9600) _(current)_ / Ubuntu 18.04 LTS
 ## About me
-I was an engineer with huge years of experience. Falling in love with a programmer career in 2018 and now my goal is grow and improve the experience.
+I was an engineer with huge years of experience. Falling in love with a programming and now my goal is grow and improve the experience.
 ## Skills
 * JavaScript
 * HTML
