@@ -28,6 +28,7 @@
 |[Liew211](profiles/Liew211.md)|2019-05-22|
 |[samuelchen1213](profiles/samuelchen1213.md)|2019-05-29|
 |[jeevast](profiles/jeevast.md)|2019-05-31|
+|[Kid243](profiles/Kid243.md)|2019-06-03|
 |[sjson421](profiles/sjson421.md)|2019-06-03|
 
 ## Former Interns
