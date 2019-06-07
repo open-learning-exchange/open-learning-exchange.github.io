@@ -1,4 +1,4 @@
-# Planet Configurations
+﻿# Planet Configurations
 
 ## Objectives
 
@@ -64,6 +64,14 @@ Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) t
 2. If you accidentally delete your Planet admin account, creating a new learner account on the login page will cause problems in later steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy prod` and then `vagrant up prod` in `planet` folder.
 
 3. In the case that you use the command `vagrant destroy prod`, your community Planet would be wiped together with the virtual machine, but  community registration would still exist on the nation side. After rebuilding your community Planet using `vagrant up prod`, fill out the configurations again with a slightly different Name (e.g. adding a number or letter to the end of your original GitHub username) so that we can still locate your community on the Nation side. Also, remember to take a screenshot of the new configuration page and post it to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
+
+4. There is a chance upon having your account approved that the website does not recognize you as registered. You will be stuck infinitely loading and upon refresh, the page will be blank.
+
+![Not recognized](https://user-images.githubusercontent.com/22685147/58755806-bb6fe700-84b9-11e9-8a27-d3e3ab56ffba.png)
+
+![Blank](https://user-images.githubusercontent.com/22685147/58755807-be6ad780-84b9-11e9-86b5-c745f584ac41.png)
+
+In order to fix this problem, simply follow the procedures stated above in bullet 3: use `vagrant destroy prod`, then `vagrant up prod`. Afterwards, use a slightly different name for your configuration, take a screenshot of the new configuration page, and post it to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
 ## Next Section **→**
 
