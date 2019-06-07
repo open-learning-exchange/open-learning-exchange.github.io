@@ -13,8 +13,8 @@ I am from Hong Kong, a very beautiful city. I am working towards my Computer Sci
 In order to not scare you guys I didn't post my selfie, but I am happy to share my furry family member to you all:)
 
 ## Skills
-C++
-Java
-Pyhton 
-Node.js
-R
+* C++
+* Java
+* Pyhton 
+* Node.js
+* R
