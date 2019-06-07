@@ -6,7 +6,7 @@ The library it the place where learning resources are stored and categorized wit
 
 ## How are the Community and National Library Different?
 
-The community library is a sub-set of the national library. The community library administrator can add resources locally and then push resources to the national library. Alternatively, resources can also be pushed from the national library to the community library.
+The community library is a subset of the national library. The community library administrator can add resources locally and then push resources to the national library. Alternatively, resources can also be pushed from the national library to the community library.
 
 Note: If the same resources is up added in two different places then it will appear in the library in duplicate. 
 
@@ -16,7 +16,7 @@ Although resources can be added at either the community or national level, it is
 
 ## What is a Resource?
 
-A Planet resource is any material that has been uploaded into the digital library. There are many types of resources. PLANET can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications (interactive content), and just about any other format. Resources can be viewed in the library . The make of the the library can vary from Communities to Community and from Nation to Nation. Resources may also be stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
+A Planet resource is any material that has been uploaded into the digital library. There are many types of resources. PLANET can accommodate PDFs (books), MP3s (audio), MP4s (videos), HTML5 applications (interactive content), and just about any other format. Resources can be viewed in the library . The make of the library can vary from Communities to Community and from Nation to Nation. Resources may also be stored in a variety of languages, including (but not limited to) English, Kiswahili, French, Spanish, Arabic, and Somali.
 
 ## What is a Collection?
 
