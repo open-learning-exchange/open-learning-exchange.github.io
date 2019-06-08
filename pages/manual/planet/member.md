@@ -7,7 +7,7 @@ When you first open Planet, you will see the login page. Click on the "Become a 
 
 To return to the login page from the "Become a member" page, click on the "Already have an account?" button.
 
-![](images/planet-become-a-member.png)
+![](images/planet-become-member.png)
 
 ## Different kind of roles available in system
 There are several different roles available in Planet: "admin", "manager", "learner", "leader", and "monitor". Members are "learners" by default, and only the "admin" is allowed to set specific roles of members.
