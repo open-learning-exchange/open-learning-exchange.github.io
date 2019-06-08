@@ -9,6 +9,15 @@ engineering, mobile application development, and machine learning. I knew progra
 first line of python code. I love how it gives me the ability to use logical problem solving and creativity which 
 really drives me.
 
+### Languages
+```
+• Python
+• Java
+• Swift
+• C/C++
+• SQL
+• IBM Assembly
+```
 
 ### Contact
 * __LinkedIn:__ [mmoore96](https://www.linkedin.com/in/george-moore-733688135/)
