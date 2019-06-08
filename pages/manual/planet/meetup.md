@@ -17,7 +17,7 @@ You can also click on the plus icon (Green box) to add a new meetup (see "Adding
 
 ![Access Meetup](images/planet-meetup-page.png)
 
-2. You can join meetups (Picture 1) and leave meetups you are apart of (Picture 2) as you can see below
+2. You can join meetups (Picture 1) and leave meetups you are apart of (Picture 2). First click on the small box on the left of the meetup to select it and pick an action (Red box).
 
 ![Leave Meetup](images/planet-join-meetup.png)
 ![Join Meetup](images/planet-leave-meetup.png)
