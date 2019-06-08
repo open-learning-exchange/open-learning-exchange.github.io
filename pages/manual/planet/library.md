@@ -10,7 +10,7 @@ The Library page can be accessed through the menu bar at the top, or by clicking
 
 There are several different actions that can be performed in the library.
 
-**Action Menu** - Here, you can add the resource to your library, or give feedback.
+**Action Menu** - Here, you can add the resource to your library, give feedback, or download the resource.
 
 ![](images/planet-library-action-menu.png)
 
