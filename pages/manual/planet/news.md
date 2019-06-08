@@ -5,7 +5,7 @@ Topics:
 3. [Editing or Deleting Stories](#adding-meetups)
 
 ## Navigating To The News Page
-As you can see below, once you are in your planet dashboard you can access the page on the bottom left (Red Box)
+As you can see below, once you are in your planet dashboard you can access the page using `ourNews` (Red Box)
 
 ![Access News](images/planet-news-dashboard.png)
 
