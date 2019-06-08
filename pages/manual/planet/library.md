@@ -1,10 +1,13 @@
 # Library
 
 ## Getting to Library page
-From Menu
-From Dashboard Tile
+The Library page can be accessed through the menu bar at the top, or by clicking "Add item to myLibrary" on your dashboard.
+
+![](images/planet-home-library.png)
+
 ## List of Resources
-## Different actions on list page
+![](images/planet-library.png)
+
 Action Menu
 Rating
 Selection
