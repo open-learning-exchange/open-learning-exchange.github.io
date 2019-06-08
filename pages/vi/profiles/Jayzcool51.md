@@ -1,8 +1,10 @@
+![Profile Picture](https://drive.google.com/open?id=1HnhpXPm2zcjQ0P6ERPUP6-oozM6y4Nk7)
+
 # Jayzcool51
 
 Location | Timezone | OS
 :--- | :--- | :--- 
-San Jose, CA | PST | Windows 10 & Ubuntu 19.04 (Vmware)
+San Jose, CA | PST (Los Angeles) | Windows 10 & Ubuntu 19.04 (Vmware)
 
 
 ## About Me
