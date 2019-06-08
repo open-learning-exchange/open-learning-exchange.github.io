@@ -14,7 +14,7 @@ Once accepted, you and your team will work on an assignment, and we’ll switch 
 
 Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Vagrant, Docker, Git, GitHub, GitHub issues, GitHub pull requests, etc. You will also be introduced to OLE’s digital library that hosts the learning materials – [Planet](https://github.com/open-learning-exchange/planet).
 
-Because these steps are simple, we expect high quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the Planet, using Vagrant and Docker, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice here are very important for both this internship and a future software development career.
+Because these steps are simple, we expect high-quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the Planet, using Vagrant and Docker, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice here are very important for both this internship and a future software development career.
 
 The MDwiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step. We also created a [FAQ page](vi-faq.md) where you can find the answers to some commonly asked questions. This page has even more [useful links and video tutorials](https://open-learning-exchange.github.io/#!./pages/vi/vi-faq.md#Helpful_Links) that will help you become familiar with the tools/languages we use. For anything that is not on the FAQ page, Google and Stack Exchange are your friends :)
 
@@ -60,7 +60,7 @@ Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown
 
 **NOTE**: Raw.githack link above is case sensitive to your username.
 
-* Once you complete the Step 3 you will have:
+* Once you complete Step 3 you will have:
     * 1 Pull request made
 
 ## Step 4 - Planet Tutorial
@@ -92,7 +92,7 @@ Create three more issues, add comments to three other issues, and resolve three 
 
 Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! (please refer to [#1108](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1108)). You must have made your pull requests and have them each approved by at least two other OLE team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 
-**NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from master branch.
+**NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
 
 - Once you complete Step 8, you should have:
    * 5 merged pull requests (one at step 3, one at step 6 and three at step 8)
@@ -101,7 +101,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.md).
 
-## Step 9 - Be part of team
+## Step 9 - Be part of the team
 
 Once you have finished step 8, sync your community with the nation (as you did in step 7).
 
