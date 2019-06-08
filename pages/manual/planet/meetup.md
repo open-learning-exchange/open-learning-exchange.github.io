@@ -1,4 +1,4 @@
-# Meetup
+# Meetups
 Topics:
 1. [Navigating To The Meetup Page](#navigating-to-the-meetup-page)
 2. [Available Actions On Meetup Page](#available-actions-on-meetup-page)
@@ -6,7 +6,7 @@ Topics:
 4. [Inviting Others](#inviting-others)
 
 ## Navigating To The Meetup Page
-As you can see below you can access the page using the **Dashboard Tile** (Red box) and the **Menu** (Blue box):
+As you can see below, once you are in your planet dashboard you can access the page using the **Dashboard Tile** (Red box) and the **Menu** (Blue box):
 
 ![Access Meetup](images/planet-access-meetup.png)
 
