@@ -5,7 +5,7 @@ Location | Timezone | OS
 San Jose, CA | PST | Windows 10 & Ubuntu 19.04 (Vmware)
 
 
-##About Me
+## About Me
 
 Hello everyone, I am pursuing my Master's in software engineering from San Jose State University. I had completed undergrad in computer engineering.
 I am exploring emerging technologies for my future endeavour. I think virtual intern would be great opportunity to leverage my technical skills and communication skills.
