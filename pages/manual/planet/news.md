@@ -2,7 +2,7 @@
 Topics:
 1. [Navigating To The News Page](#navigating-to-the-news-page)
 2. [Adding A Story](#adding-a-story)
-3. [Editing or Deleting Stories](#adding-meetups)
+3. [Editing or Deleting Stories](#editing-or-deleting-stories)
 
 ## Navigating To The News Page
 As you can see below, once you are in your planet dashboard you can access the page using `ourNews` (Red Box)
@@ -14,7 +14,7 @@ After navigating to the `News` Page, you will be able to browse previous stories
 
 ![Adding A Story](images/planet-news-post.png)
 
-## Editing or Deleting A Story
+## Editing or Deleting Stories
 You can edit a story by clicking the pencil icon on the post (Red circle) and delete a story by clicking the garbage can icon (Blue circle)
 
-![Adding A Story](images/planet-news-edit-delete.png)
+![Editing or Deleting Stories](images/planet-news-edit-delete.png)
