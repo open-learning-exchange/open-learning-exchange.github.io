@@ -4,12 +4,11 @@
 
 
 ## About 
-I am a rising freshman at Harvard University with an interest in Computer Science, Music, and Psychology. I live in Carlisle, Massachusetts (EST) 
-and I'm currently running Windows 10. 
+I am a rising freshman at Harvard University with an interest in Computer Science, Music, and Psychology. I live in Carlisle, Massachusetts (EST) and I'm currently running Windows 10. 
 
 On the side, I enjoy playing the oboe, drums, playing tennis, taking photos, and of course, coding! 
 
-## Languages: 
+## Languages 
 - java
 - python
 - C
