@@ -19,19 +19,23 @@ As you can see below, once you are in your planet dashboard you can add feedback
 
 ## Giving Feedback To Different Items
 1. Resources
+
 ![Resources Feedback](images/planet-feedback-library.png)
 
 2. Courses
+
 ![Courses Feedback](images/planet-feedback-courses.png)
 
 3. Teams
+
 ![Teams Feedback](images/planet-feedback-teams.png)
 
 3. Meetups
+
 ![Meetups Feedback](images/planet-feedback-meetups.png)
 
 ## View Feedbacks
-Firstly, you can view your feedbacks by going to the `Manager Page` then `Feedbacks` to view the feedback list.
+Firstly, you can view your feedbacks by going to the `Manager Page` (Picture 1) then `Feedbacks` (Picture 2) to view the feedback list.
 
 ![Dashboard Feedback](images/planet-feedback-to-manager.png)
 ![Manager Feedback](images/planet-feedback-manager.png)
