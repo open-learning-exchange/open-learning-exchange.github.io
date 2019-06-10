@@ -1,4 +1,4 @@
-* * *
+
 # Jiaying Luo
 
 * Los Angeles, CA
@@ -11,4 +11,4 @@
 Hi, everyone! I am a master student majoring in Computer Science in USC. I am interested in this virtual intern 
 because I can gain working experience and help others at the same time. I look forward working with you all!!! :smile:
 
-* * *
+
