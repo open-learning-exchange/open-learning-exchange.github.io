@@ -131,7 +131,7 @@ Clicking on the "Add Resources" button will display the list of resources in you
 
 Surveys are nearly identical to tests in function, but are used for the purpose of collecting data from the course's students rather than testing their knowledge.
 
-![Survey creation](#courses-survey)
+![Survey creation](images/courses-survey.PNG)
 
 Upon clicking the "Add Question" button, you will find there are four types of questions: "Text - Short answer", "Text - Long answer", "Multiple Choice - single answer" and "Multiple Choice - multiple answer". While multiple choice questions are automatically graded, text questions must be manually graded.
 
