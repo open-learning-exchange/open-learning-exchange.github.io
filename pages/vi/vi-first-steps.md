@@ -63,6 +63,8 @@ Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown
 * Once you complete Step 3 you will have:
     * 1 Pull request made
 
+You can confirm your count [here.](http://open-learning-exchange.github.io/#!pages/vi/vi-track-progress.md)
+
 ## Step 4 - Planet Tutorial
 
 This step includes the [Planet Tutorial](vi-planetapps.md), which explains the features of the application.
