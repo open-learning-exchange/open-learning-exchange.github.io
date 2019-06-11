@@ -13,17 +13,17 @@ There are two ways to get to the Courses page:
 
 1. From the Navigation Bar, click on the "Courses" Tab at the top.
 
-![Getting to courses with Navigation Bar](images/get-courses-navbar)
+![Getting to courses with Navigation Bar](images/get-courses-navbar.png)
 
 2. From the dashboard tile, click on the "myCourses" tile right on the front page.
 
-![Getting to courses with dashboard](images/get-courses-tile)
+![Getting to courses with dashboard](images/get-courses-tile.png)
 
 ## List of Courses
 
 Upon getting to the courses page, you will be greeted a page similar to the following, with each course being an item in a list.
 
-![List](images/courses-list)
+![List](images/courses-list.PNG)
 
 By clicking on "Title", or "Rating", you are able to sort the course list accordingly.
 
@@ -31,7 +31,7 @@ By clicking on "Title", or "Rating", you are able to sort the course list accord
 
 * Action Menu
 
-![Menu](images/courses-menu)
+![Menu](images/courses-menu.PNG)
 
 The action menu has several different actions available.
 
@@ -39,7 +39,7 @@ The action menu has several different actions available.
 
 2. To join a course, select the checkbox next to a course then click the "Join Selected" button. The selected course is now part of your myCourses, and can be seen on the front page's dashboard. Multiple courses are able to be joined at once.
 
-![course-added](images/my-courses-added)
+![course-added](images/my-courses-added.png)
 
 Alternatively, click on your course on the courses list then click the "Join" button near the top-right of the course page.
 
@@ -65,13 +65,13 @@ In order to add a rating for a course:
 
 3. Your rating will be submitted and the average rating of the course will be updated once you click the "OK" button on the module.
 
-![Rating](images/courses-rating)
+![Rating](images/courses-rating.PNG)
 
 * Search
 
 At the search bar near the top-right of the page, you are able to search by Grade Level, Subject Level, and Title. The search will automatically be performed upon changing any of these three, so there is no need to type the Enter key or press a Submit button. Press the "Clear" Button to return all three fields to their defaults and show all available courses again.
 
-![Search](images/courses-search)
+![Search](images/courses-search.PNG)
 
 For filtering by collection, please check out [Course Collections](#course-collections)
 
@@ -79,7 +79,7 @@ For filtering by collection, please check out [Course Collections](#course-colle
 
 At the bottom-right of the page, you can see your pagination options. You are able to have 5, 10, 20, 50, 100, or 200 courses per page, and the pages showing the course list will be split accordingly. Use the left and right arrow buttons to navigate in the case there are multiple pages.
 
-![Pagination](images/courses-pagination)
+![Pagination](images/courses-pagination.png)
 
 ## Adding Course
 
@@ -87,7 +87,7 @@ To begin adding a course, press the "+" button on the action menu.
 
 You will be greeted by the following page:
 
-![Add Course](images/courses-add)
+![Add Course](images/courses-add.PNG)
 
 The Course Title and Description fields are mandatory, along with Grade Level and Subject Level. Trying to submit the course without any of these will stop you.
 
@@ -95,7 +95,7 @@ Add a collection or subcollection to the course by clicking on the "Collections"
 
 The following module will pop up:
 
-![Add collection](images/courses-add-collection)
+![Add collection](images/courses-add-collection.PNG)
 
 You are able to filter your available collections by their name at the search bar near the top.
 
@@ -105,7 +105,7 @@ By clicking the "Edit" button next to each collection, you are able to change th
 
 To see what a collection is, try [Course Collections](#course-collections).
 
-![Step](images/courses-step)
+![Step](images/courses-step.PNG)
 
 Clicking on the "Add Step" button near the bottom will reveal extra fields to the right of the page, as seen above. These steps are where you can give learning materials, tests, resources, and surveys. Click the "Delete" button near the top to cancel the step creation or click the "Add Step" button on the bottom of the page to add your newly created step.
 
@@ -115,7 +115,7 @@ When finished adding your steps, click the "Submit" button to create your Course
 
 When creating a step, click on the "Add Test" button to create a test for what you have learned in the previous steps.
 
-![Test creation](#courses-test)
+![Test creation](images/courses-test.PNG)
 
 Upon clicking the "Add Question" button, you will find there are four types of questions: "Text - Short answer", "Text - Long answer", "Multiple Choice - single answer" and "Multiple Choice - multiple answer". While multiple choice questions are automatically graded, text questions must be manually graded.
 
@@ -131,7 +131,7 @@ Clicking on the "Add Resources" button will display the list of resources in you
 
 Surveys are nearly identical to tests in function, but are used for the purpose of collecting data from the course's students rather than testing their knowledge.
 
-!Survey creation](#courses-survey)
+![Survey creation](images/courses-survey.PNG)
 
 Upon clicking the "Add Question" button, you will find there are four types of questions: "Text - Short answer", "Text - Long answer", "Multiple Choice - single answer" and "Multiple Choice - multiple answer". While multiple choice questions are automatically graded, text questions must be manually graded.
 
@@ -147,13 +147,13 @@ Collections can be standalone without being a subcollection of another collectio
 
 There are two ways of filtering the Courses page by collection:
 
-![Filtering](images/courses-filtering)
+![Filtering](images/courses-filtering.png)
 
 1. By clicking on the "Collections" button next to "Courses" on the top-left of the page. This will bring up a module where you can filter the course list on the Courses page by selecting checkboxes next to collections and subcollections, seeing only the courses that have these collections or subcollections. 
 
 You are also able to edit the course's name or subcollection status from this module.
 
-![Filtered](images/courses-filtered)
+![Filtered](images/courses-filtered.PNG)
 
 2. By clicking directly on the collection name listed under the course, you can filter the courses by the clicked collection. Free collections are blue while subcollections are gray.
 
@@ -165,7 +165,7 @@ In order to take a test, you must first [join](#actions-on-list-page) the course
 
 On the courses list, click on your desired course.
 
-![Course](images/courses-course)
+![Course](images/courses-course.PNG)
 
 To take a test, click on the step with the associated test then click on "Take Test".
 
@@ -177,7 +177,7 @@ In order to take a survey, you must first [join](#actions-on-list-page) the cour
 
 On the courses list, click on your desired course.
 
-![Course](images/courses-course)
+![Course](images/courses-course.PNG)
 
 To take a survey, click on the step with the associated survey then click on "Take Survey".
 
