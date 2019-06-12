@@ -36,7 +36,7 @@ If so, here are instructions to enable virtualization on [Windows](https://www.h
 
 #### Dependencies
 
-You need to install following programs on your computer:
+You need to install the following programs on your computer:
 
 - **Git**
 [Git](https://git-scm.com) is an open source version control system that we use for communication and management for our software. More specifically, we use gitter.im for communication and github.com for software management. [Download](https://git-scm.com/download/win)
@@ -73,7 +73,7 @@ sudo apt-get update
 sudo apt-get -y install git virtualbox
 ```
 Next, go to [Vagrant download page](https://www.vagrantup.com/downloads.html) in Firefox Web browser and Right click on the `64-Bit` version of `Debian` and select "Copy Link Location" from the pop-up menu.
-Refer this image:
+Refer to this image:
 
 ![Debian 64-Bit Download](images/vi-ubuntu-deb-download.png)
 
