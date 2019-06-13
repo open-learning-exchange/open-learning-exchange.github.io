@@ -21,9 +21,10 @@ On this page you will be able to **Enter an Achievement** or **Enter a Reference
 
 ![Edit Page2](images/planet-achievement-edit2.png)
 
-1. Clicking on **Enter an Achievement** will open the dialog:
+1. Clicking on **Enter an Achievement** will open the dialog below. You can also click on **Add Resources** to showcase the resources related to your achievement.
 
 ![Enter Achievement](images/planet-achievement-add.png)
 
 2. Clicking on **Enter a Reference** will open the dialog:
+
 ![Enter Achievement](images/planet-achievement-reference.png)
