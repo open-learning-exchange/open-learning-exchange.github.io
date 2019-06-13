@@ -27,12 +27,12 @@ There are three command line programs you could use to interact with Vagrant CLI
 
 Normally we use Terminal to interact with Vagrant CLI.
 
-## Stay at the Right Directory
+## Stay in the Right Directory
 
-A lot of Vagrant commands require us to specify a target machine or run from a directory with target machine's Vagrantfile, otherwise you might encounter error like "A Vagrant environment or target machine is required." Please go to the directory that contains our Vagrantfile:
+A lot of Vagrant commands require us to specify a target machine. We can also run those commands from a directory with the target machine’s Vagrant File. Otherwise, you may encounter an error like "A Vagrant environment or target machine is required." Please go to the directory that contains our Vagrant file:
 
-- Windows user: `cd C:\Users\YOUR_USERNAME\Desktop\OLE\planet`
-- macOS or Linux  user: `cd` to where you `git clone` the `planet` repository in Step 1 - Planet Installation
+- Windows users should: `cd C:\Users\YOUR_USERNAME\Desktop\OLE\planet`
+- macOS or Linux  users should: `cd` into the location where they ran `git clone` to copy the `planet` repository back in Step 1 - Planet Installation
 
 ## Global Status
 
