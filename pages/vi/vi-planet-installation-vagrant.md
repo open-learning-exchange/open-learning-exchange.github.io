@@ -17,7 +17,7 @@ Please follow the directions of your OS below to install your community Planet a
 
 We recommend you designate a new directory for your work at OLE. This puts all of your OLE related repositories in one place and enables you to be organized and efficient.
 
-To do this, you could make a new folder directly through your OS GUI. Or you could open `Terminal`(macOS), `cmd`(Windows), or `shell`(Linux) and use the following commands: (Note the commands should be identical on all three operating systems)
+To do this, you could make a new folder directly through your OS GUI. Or you could open `Terminal`(macOS or Ubuntu), `cmd`(Windows) and use the following commands: (Note the commands should be identical on all three operating systems)
 
 ```bash
 cd Desktop
@@ -28,7 +28,7 @@ mkdir OLE
 
 Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing Vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If later you are having trouble running Vagrant, it may be that VT-x/AMD-V is not enabled on your system.
 
-If so, here are instructions to enable virtualization on [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [Macintosh](http://kb.parallels.com/en/5653)
+If so, here are instructions to enable virtualization on [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [macOS](http://kb.parallels.com/en/5653)
 
 ---
 
