@@ -61,7 +61,7 @@ Finally you see report of your community. It will have some graphical and some t
 ## Update your community
 
 On your [local community](http://localhost:3100) login as Administrator. Then go to Manager Page. You should see option to Upgrade.
-If you do not see **Upgrade** button please check **Nation version** and **Local version**. If both of those are same your planet is already upto-date. In case you see any other message below Version, then send a message on chat channel along with screenshot.
+If you do not see **Upgrade** button please check **Nation version** and **Local version**. If both of those are same your planet is already upto-date. Incase you see any other messge below Version, then send message on chat channel along with screenshot.
 
 ![Check version](images/vi-planet-version.png "Communities Check version")
 
@@ -76,7 +76,7 @@ You should see log of upgrade process along with progress bar. Once upgrade is c
 NOTE: If you see error message during upgrade please try again.
 
 You will have to restart your community to reflect upgrade.
-Run following commands on terminal/command prompt to restart your virtual machine. Please make sure you are on the folder path where your planet exists.
+Run following commands on terminal/command prompt to restart your virtual machine. Please make sure you are on the folder path where your planet exist.
 
 ```
 vagrant halt prod
