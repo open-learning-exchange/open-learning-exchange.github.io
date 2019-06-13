@@ -1,8 +1,10 @@
 # Achievements
 Topics:
-1. [Navigating To The Meetup Page](#navigating-to-the-meetup-page)
+1. [Navigating To The Achievement Page](#navigating-to-the-achievement-page)
+2. [Adding or Editing Achievement](#adding-or-editing-achievement)
+3. [Adding Achievements & Reference](#adding-achievements-&-reference)
 
-## Navigating To The Achiement Page
+## Navigating To The Achievment Page
 As you can see below, once you are in your planet dashboard you can access the page on the bottom left (Red box):
 
 ![Access Achievement](images/planet-achievement-dashboard.png)
