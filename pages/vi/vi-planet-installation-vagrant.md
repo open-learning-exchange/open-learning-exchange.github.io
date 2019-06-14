@@ -17,7 +17,7 @@ Please follow the directions of your OS below to install your community Planet a
 
 We recommend you designate a new directory for your work at OLE. This puts all of your OLE related repositories in one place and enables you to be organized and efficient.
 
-To do this, you could make a new folder directly through your OS GUI. Or you could open `Terminal`(macOS), `cmd`(Windows), or `shell`(Linux) and use the following commands: (Note the commands should be identical on all three operating systems)
+To do this, you could make a new folder directly through your OS GUI. Or you could open `Terminal`(macOS or Ubuntu), `cmd`(Windows) and use the following commands: (Note the commands should be identical on all three operating systems)
 
 ```bash
 cd Desktop
@@ -28,7 +28,7 @@ mkdir OLE
 
 Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing Vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If later you are having trouble running Vagrant, it may be that VT-x/AMD-V is not enabled on your system.
 
-If so, here are instructions to enable virtualization on [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [Macintosh](http://kb.parallels.com/en/5653)
+If so, here are instructions to enable virtualization on [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [macOS](http://kb.parallels.com/en/5653)
 
 ---
 
@@ -36,7 +36,7 @@ If so, here are instructions to enable virtualization on [Windows](https://www.h
 
 #### Dependencies
 
-You need to install following programs on your computer:
+You need to install the following programs on your computer:
 
 - **Git**
 [Git](https://git-scm.com) is an open source version control system that we use for communication and management for our software. More specifically, we use gitter.im for communication and github.com for software management. [Download](https://git-scm.com/download/win)
@@ -73,7 +73,7 @@ sudo apt-get update
 sudo apt-get -y install git virtualbox
 ```
 Next, go to [Vagrant download page](https://www.vagrantup.com/downloads.html) in Firefox Web browser and Right click on the `64-Bit` version of `Debian` and select "Copy Link Location" from the pop-up menu.
-Refer this image:
+Refer to this image:
 
 ![Debian 64-Bit Download](images/vi-ubuntu-deb-download.png)
 

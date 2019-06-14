@@ -45,7 +45,7 @@ Next, fill out the configurations. Your name must be the same and should match y
 
 **Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply copy and paste the image.*
 
-Next, you will see form for contact details of administrator (maintainer) of the community. Provide your information as contact details.
+Next, you will see a form that requires the contact details of the administrator (maintainer) of the community. Please provide your contact information.
 
 ![Contact Details](images/vi-contact-details.png)
 
