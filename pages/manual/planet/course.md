@@ -117,15 +117,44 @@ When creating a step, click on the "Add Test" button to create a test for what y
 
 ![Test creation](images/courses-test.png)
 
-Upon clicking the "Add Question" button, you will find there are four types of questions: "Text - Short answer", "Text - Long answer", "Multiple Choice - single answer" and "Multiple Choice - multiple answer". While multiple choice questions are automatically graded, text questions must be manually graded.
+Upon clicking the "Add Question" button, you will find there are four types of questions: 
+* Text - Short answer
 
-For multiple choice questions, click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answers for the questions and are required for creation of the question. Click the red circle button to delete the choice from the question.
+![Short answer](images/courses-test-short.png)
+
+Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.
+
+* Text - Long answer
+
+![Long answer](images/courses-test-long.png)
+
+Simply fill out the question detail or query for this type of question. The test taker will automatically get a textbox for filling out his or her answer.
+
+* Multiple Choice - single answer
+
+![Multiple choice single answer](images/courses-test-mc-single.png)
+
+Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answer for the question and is required for creation of the question. Only one checkbox can be chosen for this type of question. Click the red circle button to the right of the choice to delete it from the question.
+
+In the image seen above, the correct answer is set by checkbox to be the second choice, "Two".
+
+* Multiple Choice - multiple answer
+
+![Multiple choice multiple answer](images/courses-test-mc-multiple.png)
+
+Click the "Add Choice" button to create a choice of answers for the question. The checkboxes denote the correct answers for the question and are required for creation of the question. Click the red circle button to the right of the choice to delete it from the question.
+
+In the image seen above, the correct answer is set by checkbox to be the first, second, and fourth choices, "One", "Two", and "Four".
+
+While multiple choice questions are automatically graded, text questions must be manually graded.
 
 Fill out the appropriate fields on however many questions you want for this test. When you are finished, press the "Preview Test" button to preview how your test will look, then press the "Save" button to save the entire test.
 
 * Resources
 
-Clicking on the "Add Resources" button will display the list of resources in your current Library. Select one or more to add the resources to the current step then click "OK" or "Cancel".
+![Step Resource](images/courses-library.png)
+
+Clicking on the "Add Resources" button will display the list of resources in your current Library. Select one or more resource by checkbox to add the resources to the current step then click "OK" to add the resources to your step, or "Cancel" to return without adding them.
 
 * Surveys
 
@@ -133,7 +162,33 @@ Surveys are nearly identical to tests in function, but are used for the purpose 
 
 ![Survey creation](images/courses-survey.png)
 
-Upon clicking the "Add Question" button, you will find there are four types of questions: "Text - Short answer", "Text - Long answer", "Multiple Choice - single answer" and "Multiple Choice - multiple answer". While multiple choice questions are automatically graded, text questions must be manually graded.
+Upon clicking the "Add Question" button, you will find there are four types of questions: 
+
+* Text - Short answer
+
+![Short answer](images/courses-test-short.png)
+
+Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.
+
+* Text - Long answer
+
+![Long answer](images/courses-test-long.png)
+
+Simply fill out the question detail or query for this type of question. The survey taker will automatically get a textbox for filling out his or her answer.
+
+* Multiple Choice - single answer
+
+![Multiple choice single answer](images/courses-survey-mc-single.png)
+
+Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question. Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.
+
+* Multiple Choice - multiple answer
+
+![Multiple choice multiple answer](images/courses-survey-mc-multiple.png)
+
+Click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to the right of the choice to delete it from the question.  Unlike tests, there are no checkboxes denoting the "correct" choice, as this is a survey.
+
+While multiple choice questions are automatically graded, text questions must be manually graded.
 
 For multiple choice questions, click the "Add Choice" button to create a choice of answers for the question. Click the red circle button to delete the choice from the question.
 
@@ -161,7 +216,7 @@ Note that this filtering is not retroactive, and clicking on a subcollection to 
 
 ## Taking a Test
 
-In order to take a test, you must first [join](#actions-on-list-page) the course.
+In order to take a test, you must first [join](#actions-on-list-page) the course. If you have not joined the course, you will only see the Preview button and not the Take Test button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
 
 On the courses list, click on your desired course.
 
@@ -169,11 +224,33 @@ On the courses list, click on your desired course.
 
 To take a test, click on the step with the associated test then click on "Take Test".
 
-If you have not joined the course, you will only see the Preview button and not the Take Test button. Click the Take Test button to take your test.
+* Text - Short answer
+
+![Taking short answer](images/courses-take-short.png)
+
+Enter your answer in the textbox then click "Submit Answer" to submit your written answer.
+
+* Text - Long answer
+
+![Taking long answer](images/courses-take-long.png)
+
+Enter your answer in the textbox then click "Submit Answer" to submit your written answer.
+
+* Multiple Choice - single answer
+
+![Taking multiple choice single answer](images/courses-take-single.png)
+
+Only a single answer may be selected by the radio buttons to the left of the answer choices. Click on "Submit Answer" to submit your selected answer. In the case that your answer is incorrect, the submission will fail and you will have to try again.
+
+* Multiple Choice - multiple answer
+
+![Taking multiple choice multiple answer](images/courses-take-multiple.png)
+
+Multiple answers may be selected by the checkboxes to the left of the answer choices. Click on "Submit Answer" to submit your selected answers. In the case that your answers are incorrect, the submission will fail and you will have to try again.
 
 ## Taking a Survey
 
-In order to take a survey, you must first [join](#actions-on-list-page) the course.
+In order to take a survey, you must first [join](#actions-on-list-page) the course. If you have not joined the course, you will only see the Preview button and not the Take Survey button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
 
 On the courses list, click on your desired course.
 
@@ -181,4 +258,26 @@ On the courses list, click on your desired course.
 
 To take a survey, click on the step with the associated survey then click on "Take Survey".
 
-If you have not joined the course, you will only see the Preview button and not the Take Survey button. 
+* Text - Short answer
+
+![Taking short answer](images/courses-take-survey-short.png)
+
+Enter your answer in the textbox then click "Submit Answer" to submit your written answer.
+
+* Text - Long answer
+
+![Taking long answer](images/courses-take-survey-long.png)
+
+Enter your answer in the textbox then click "Submit Answer" to submit your written answer.
+
+* Multiple Choice - single answer
+
+![Taking multiple choice single answer](images/courses-take-survey-single.png)
+
+Only a single answer may be selected by the radio buttons to the left of the answer choices. Click on "Submit Answer" to submit your selected answer.
+
+* Multiple Choice - multiple answer
+
+![Taking multiple choice multiple answer](images/courses-take-survey-multiple.png)
+
+Multiple answers may be selected by the checkboxes to the left of the answer choices. Click on "Submit Answer" to submit your selected answers.
