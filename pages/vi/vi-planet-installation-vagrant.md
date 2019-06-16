@@ -26,9 +26,12 @@ mkdir OLE
 
 #### Virtualization
 
-Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing Vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. Most recent CPUs have this feature enabled already. If later you are having trouble running Vagrant, it may be that VT-x/AMD-V is not enabled on your system.
+Before installing Vagrant on any platform, it is necessary to check if VT-x/AMD-V instruction set is enabled on your processor by checking the BIOS. This is a requirement for installing Vagrant on any platform since Vagrant is a type of virtualization software that utilizes VirtualBox. 
 
-If so, here are instructions to enable virtualization on [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [macOS](http://kb.parallels.com/en/5653)
+Most recent CPUs have this feature enabled already, but if you are unsure whether VT-x/AMD-V is enabled on your device please see the following on [Windows](https://techiesdigest.com/how-to-check-if-virtualization-is-enabled/) | [Ubuntu](https://www.cyberciti.biz/faq/linux-xen-vmware-kvm-intel-vt-amd-v-support/) | [Mac](https://apple.stackexchange.com/questions/224870/how-to-check-vt-x-status-on-macbook-pro/224879) 
+
+If later you are having trouble running Vagrant, it may be that VT-x/AMD-V is not enabled on your system. 
+Here are instructions to enable virtualization on [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [macOS](http://kb.parallels.com/en/5653)
 
 ---
 
