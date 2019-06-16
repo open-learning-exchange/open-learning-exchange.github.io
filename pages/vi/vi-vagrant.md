@@ -23,7 +23,7 @@ There are three command line programs you could use to interact with Vagrant CLI
 
 3. **Windows PowerShell**: Windows PowerShell is a default shell interface installed on your machine, its default directory is `C:\Users\YOUR_USERNAME`.
 
-**NOTE**: PowerShell and Command Prompt users will have to substitute backslashes “\” with forward slashes “/”throughout these introductory steps as it pertains to file paths.                       Example: If you see an instruction saying `cd /desktop/OLE/Planet` instead use `cd desktop/OLE/Planet`
+**NOTE**: PowerShell and Command Prompt users will have to substitute backslashes “\” with forward slashes “/”throughout these introductory steps as it pertains to file paths.                       Example: If you see an instruction saying `cd desktop/OLE/Planet` instead use `cd desktop\OLE\Planet`
 
 #### macOS or Ubuntu - Terminal
 
