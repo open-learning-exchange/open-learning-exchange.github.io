@@ -26,6 +26,7 @@
 - **Q19:** [What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?](#Q19:_What_do_I_do_if_I_get_error_message_"A_Virtual_Box_machine_with_the_name_'vi'_already_exists"?)
 - **Q20:** [How can I run two communities on the same machine?](#Q20:_How_can_I_run_two_communities_on_the_same_machine?)
 - **Q21:** [How do I destroy the Virtual Machine and start over?](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?)
+- **Q22:** [What do I do if I cannot create a dummy account?](#Q22:_What_do_I_do_if_I_cannot_create_a_dummy_account?)
 
 ### General Internship Questions
 
@@ -174,6 +175,34 @@
   cd ole--vagrant-vi
   vagrant up
   ```
+
+#### Q22: What do I do if I cannot create a dummy account?
++ Note: Before trying the steps below, make sure your planet is up to date.
+  ```
+  cd planet
+  git pull
+  ```
+  Then, 
+  ```
+  vagrant halt prod 
+  vagrant up prod.
+  ```
+
+  If it still does not work please follow the steps below. Assuming you are already in the planet directory,
+   ```
+  vagrant ssh prod
+  cd /vagrant
+  sudo rm -rf node_modules/*
+  sudo npm install --unsafe-perm
+  ```
+ 
+  If this too does not work. 
+  ```
+  cd planet 
+  vagrant destroy prod
+  ```
+  Please follow the instructions [here](http://open-learning-exchange.github.io/#!pages/vi/vi-planet-installation-vagrant.md) to reinstall planet. (**Warning!** this wipes all your progress in the virtual intern course as well.)
+  
 
 ## 'First Steps' Software Summary
 
