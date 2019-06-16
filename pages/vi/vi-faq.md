@@ -177,7 +177,9 @@
   ```
 
 #### Q22: What do I do if I cannot create a dummy account?
+
 + Note: Before trying the steps below, make sure your planet is up to date.
+  
   ```
   cd planet
   git pull
@@ -202,7 +204,7 @@
   vagrant destroy prod
   ```
   Please follow the instructions [here](http://open-learning-exchange.github.io/#!pages/vi/vi-planet-installation-vagrant.md) to reinstall planet. (**Warning!** this wipes all your progress in the virtual intern course as well.)
-  
+
 
 ## 'First Steps' Software Summary
 
