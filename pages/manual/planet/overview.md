@@ -74,6 +74,7 @@ List of features:
 ## News
 
 ## Achievement
+The Library is home to the community's collection of media and other resources. Click [here](achievement.md) to learn more about Achievements.
 
 ## Feedback
 
