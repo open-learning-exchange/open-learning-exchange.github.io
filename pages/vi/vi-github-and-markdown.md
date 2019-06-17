@@ -69,11 +69,11 @@ After you fork the repository, you will be on your repository: &lt;YourUserName&
 
 ![Renaming Repository](images/vi-rename-repository.png)
 
-### Check if you github.io works
+### Check if your github.io works
 
 After renaming your forked repository, go to  https://YourUserName.github.io and make sure it works.
 
-Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
+Don't worry if you see a **404** page not found error. When you access the link, it will take a while for the page to load and run. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
 ### Create a new file as your personal MDwiki page and commit your changes
 
