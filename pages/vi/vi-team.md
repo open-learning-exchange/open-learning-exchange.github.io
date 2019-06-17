@@ -32,6 +32,7 @@
 |[sjson421](profiles/sjson421.md)|2019-06-03|
 |[SNutakki](profiles/SNutakki.md)|2019-06-08|
 |[DavidMcKissick](profiles/DavidMcKissick.md)|2019-06-10|
+|[Chiragawale](profiles/chiragawale.md)|2019-06-17|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
