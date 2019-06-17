@@ -72,6 +72,7 @@ List of features:
 ## Meetups
 
 ## News
+News is where you can view any posts made by any users. Click [here](news.md) to learn more about News.
 
 ## Achievement
 
