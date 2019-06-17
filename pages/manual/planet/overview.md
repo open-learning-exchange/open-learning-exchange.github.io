@@ -76,5 +76,6 @@ List of features:
 ## Achievement
 
 ## Feedback
+Throughout planet, you will be able to give feedback on planet, courses, and more. Click [here](feedback.md) to learn more about Feedback.
 
 ## Manager
