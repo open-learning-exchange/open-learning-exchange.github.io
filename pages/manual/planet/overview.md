@@ -70,6 +70,7 @@ List of features:
 ## Surveys
 
 ## Meetups
+Meetups is where you can coordinate meetups by creating them, joining them and more! Click [here](meetups.md) to learn more about Meetups.
 
 ## News
 
