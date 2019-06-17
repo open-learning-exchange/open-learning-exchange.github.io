@@ -69,7 +69,7 @@ After you fork the repository, you will be on your repository: &lt;YourUserName&
 
 ![Renaming Repository](images/vi-rename-repository.png)
 
-### Check if your github.io works
+### Check to see if your github.io works
 
 After renaming your forked repository, go to  https://YourUserName.github.io and make sure it works.
 
