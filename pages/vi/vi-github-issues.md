@@ -55,6 +55,8 @@ If you're still confused, that's quite alright. [Forking Workflow](https://www.a
 
 After making modifications to your local files and before making a commit, you would want to preview the changes locally. The following link, [how to preview changes](http://dynalon.github.io/mdwiki/#!faq.md), gives all the information about how to preview changes from your machine. There's also another option to preview using online environment. This [link](https://dillinger.io/) takes you to the online environment.
  
+ NOTE: In case you have come up with the wrong edit and if you'd like to revert it back to the previous version of the file follow this        [link](https://githowto.com/undoing_local_changes). This is applicable only before committing the change.
+
 ## Create a Commit and Push the Changes
 Use the next commands to commit and push the changes:
 
@@ -67,8 +69,6 @@ Use the next commands to commit and push the changes:
 	(refer to the commit message guidelines below). 
 
 4.  `git push -u origin <name_of_your_new_branch>` to save your changes and push them to your GitHub (for any further commit on the same branch after the first one, you can just use `git push`).
-
-NOTE: In case you have come up with the wrong edit and if you'd like to revert it back to the previous version of the file follow this        [link](https://githowto.com/undoing_local_changes). This is applicable only before committing the change.
 
 ### Commit Message Style Guide
 
