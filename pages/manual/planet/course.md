@@ -152,7 +152,7 @@ Fill out the appropriate fields on however many questions you want for this test
 
 * Resources
 
-![Step Resource](images/courses-library.png)
+![Step Resource](images/courses-resource.png)
 
 Clicking on the "Add Resources" button will display the list of resources in your current Library. Select one or more resource by checkbox to add the resources to the current step then click "OK" to add the resources to your step, or "Cancel" to return without adding them.
 
