@@ -62,6 +62,7 @@ List of features:
 10. Manager
 
 ## Library
+The Library is home to the community's collection of media and other resources. Click [here](library.md) to learn more about Library.
 
 ## Courses
 
