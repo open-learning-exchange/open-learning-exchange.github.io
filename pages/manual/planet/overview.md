@@ -78,5 +78,6 @@ The Library is home to the community's collection of media and other resources. 
 The Library is home to the community's collection of media and other resources. Click [here](achievement.md) to learn more about Achievements.
 
 ## Feedback
+Throughout planet, you will be able to give feedback on planet, courses, and more. Click [here](feedback.md) to learn more about Feedback.
 
 ## Manager
