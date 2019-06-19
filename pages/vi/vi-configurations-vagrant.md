@@ -39,6 +39,10 @@ You will be shown the page below. Make sure you remember the credentials.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
+WARNING:Before you finish the registration, do not close your browser.
+You cannot go to the above registration form again.
+If you are in this situation, look at the ** [Second element of Troubleshooting in this page](#Troubleshooting)** 
+
 Next, fill out the configurations. Your name must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) after submitting your registration request.**
 
 ![Configurations](images/vi-configuration.png)
@@ -61,7 +65,15 @@ Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) t
 
 1. When trying to access http://localhost:3100 you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant halt prod``` ```vagrant destroy prod``` to delete the current machine, then try ```vagrant up prod``` to rebuild it.
 
-2. If you accidentally delete your Planet admin account, creating a new learner account on the login page will cause problems in later steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy prod` and then `vagrant up prod` in `planet` folder.
+2. If you accidentally delete your Planet admin account, creating a new learner account on the login page will cause problems in later steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy prod` and then `vagrant up prod` in `planet` folder. 
+If this command does not work, you need to delete ` planet` folder and start from scrach.
+Execute `vagrant destroy prod` in `planet` folder then go to `OLE` folder by `cd ..`
+Then, delete `planet` folder in any manner. Finally, execute the below commands
+```
+git clone https://github.com/open-learning-exchange/planet.git
+cd planet
+vagrant up prod
+``` 
 
 3. In the case that you use the command `vagrant destroy prod`, your community Planet would be wiped together with the virtual machine, but  community registration would still exist on the nation side. After rebuilding your community Planet using `vagrant up prod`, fill out the configurations again with a slightly different Name (e.g. adding a number or letter to the end of your original GitHub username) so that we can still locate your community on the Nation side. Also, remember to take a screenshot of the new configuration page and post it to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
