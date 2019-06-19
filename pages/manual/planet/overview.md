@@ -73,6 +73,7 @@ The Library is home to the community's collection of media and other resources. 
 ## Meetups
 
 ## News
+News is where you can view any posts made by any users. Click [here](news.md) to learn more about News.
 
 ## Achievement
 The Library is home to the community's collection of media and other resources. Click [here](achievement.md) to learn more about Achievements.
