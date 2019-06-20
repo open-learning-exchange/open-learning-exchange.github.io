@@ -65,15 +65,16 @@ Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) t
 
 1. When trying to access http://localhost:3100 you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant halt prod``` ```vagrant destroy prod``` to delete the current machine, then try ```vagrant up prod``` to rebuild it.
 
-2. If you accidentally delete your Planet admin account, creating a new learner account on the login page will cause problems in later steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy prod` and then `vagrant up prod` in `planet` folder. 
-If the above commands do not work, you need to delete ` planet` folder and start from scratch.
-Execute `vagrant destroy prod` in `planet` folder then go to `OLE` folder by `cd ..`
-Then, delete `planet` folder in any manner. Finally, execute the below commands
+2. If you accidentally delete your Planet admin account, creating a new learner account on the login page will cause problems in later steps. The best way to solve this problem is to start over and create a new community. 
+Run
 ```
-git clone https://github.com/open-learning-exchange/planet.git
-cd planet
+vagrant halt prod
+vagrant destroy -f prod
+rm -rf .vagrant
+git pull
 vagrant up prod
-``` 
+```
+in your planet folder. This destroys and removes your community, pulls the latest code, and starts a community from scratch.
 
 3. In the case that you use the command `vagrant destroy prod`, your community Planet would be wiped together with the virtual machine, but  community registration would still exist on the nation side. After rebuilding your community Planet using `vagrant up prod`, fill out the configurations again with a slightly different Name (e.g. adding a number or letter to the end of your original GitHub username) so that we can still locate your community on the Nation side. Also, remember to take a screenshot of the new configuration page and post it to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
