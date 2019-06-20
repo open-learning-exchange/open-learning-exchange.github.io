@@ -33,6 +33,8 @@
 |[SNutakki](profiles/SNutakki.md)|2019-06-08|
 |[DavidMcKissick](profiles/DavidMcKissick.md)|2019-06-10|
 |[AlekseiKorolev](profiles/alekseikorolev.md)|2019-06-14|
+|[ArranHL](profiles/ArranHL.md)|2019-06-17|
+|[Chiragawale](profiles/chiragawale.md)|2019-06-17|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
