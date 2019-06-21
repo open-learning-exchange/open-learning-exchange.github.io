@@ -104,6 +104,10 @@ Then, in the new Markdown file, include the following information:
 
 You may use the "Preview" tab to have a primitive look of what your Markdown will look like. Please use at least 5 different types of Markdown elements so you can get an idea of how it works. Avoid using HTML as the purpose of Markdown is to make pages easy to write and read. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) (links), [Profile 2](profiles/ketruong.md) (picture), [Profile 3](profiles/paulbert.md) (lists)
 
+When you are finished, press 'commit changes' below.
+
+![commitchanges](images/vi-commitchanges.jpg)
+
 If you need to edit your file again, click the pencil icon to edit (as shown below).
 
   ![Edit Profile](images/vi-edit-profile.png)
