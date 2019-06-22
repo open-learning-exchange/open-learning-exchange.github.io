@@ -82,3 +82,4 @@ The Library is home to the community's collection of media and other resources. 
 Throughout planet, you will be able to give feedback on planet, courses, and more. Click [here](feedback.md) to learn more about Feedback.
 
 ## Manager
+The Manager role comes with another set of administrative features, including viewing reports, syncing the community with the nation, and performing upgrades on the community.  Click [here](manager.md) to learn more.
