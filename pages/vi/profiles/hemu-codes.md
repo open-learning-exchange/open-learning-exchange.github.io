@@ -15,7 +15,7 @@ I am pursuing a degree in Mathematics and Computer Science. Some of the extracur
 Undergraduate Research and officer for some of the organizations at my school. I am really excited to be part of this team
 and looking forward to working with you all!!
 
-Linkedin: www.linkedin.com/in/hemantha-akkaraju
+[Linkedin](www.linkedin.com/in/hemantha-akkaraju)
 
 ## Languages
 - Java
