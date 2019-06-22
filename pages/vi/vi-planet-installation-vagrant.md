@@ -126,7 +126,7 @@ It is advisable to use Firefox to access your community Planet. If you don't hav
    > The provider 'virtualbox' that was requested to back the machine 'prod' is reporting that it isn't usable on this system. The reason is shown below:
    > VirtualBox is complaining that the installation is incomplete. Please run `VBoxManage --version` to see the error message which should contain instructions on how to fix this error.
 
-   The problem is the requirement that all kernel modules must be signed by a key trusted by the UEFI system, otherwise loading will fail. Ubuntu does not sign the third party vbox* kernel modules, but rather gives the user the option to disable Secure Boot upon installation of the virtualbox package, so disabling the secure boot on BIOS would solve this problem.
+   The problem is the requirement that all kernel modules must be signed by a key trusted by the UEFI system, otherwise loading will fail. Ubuntu does not sign the third party vbox* kernel modules, but rather gives the user the option to disable Secure Boot upon installation of the virtualbox package, so disabling the secure boot on BIOS would solve this problem. If you do not want to disable Secure Boot in some reasons, you can look at [this page](https://era86.github.io/2018/01/24/vagrant-virtualbox-secureboot-in-ubuntu-1604.html) to make and assign the trusted key. 
 
 5. If you see "no_db_found" when trying to access <http://localhost:3100>:
 At this early stage, the simple solution would be using `vagrant destroy prod` to delete the current machine, then use `vagrant up prod` to rebuild it.
