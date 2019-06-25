@@ -62,10 +62,13 @@ List of features:
 10. Manager
 
 ## Library
+The Library is home to the community's collection of media and other resources. Click [here](library.md) to learn more about Library.
 
 ## Courses
+The Courses page is where you can create and join a variety of different courses where you can learn many different topics. Click [here](./course.md) to learn more about Courses.
 
 ## Teams
+Here you will be able to create teams to communicate with them, offer courses, and organize members. Click [here](teams.md) to learn more about Teams
 
 ## Surveys
 
@@ -73,9 +76,13 @@ List of features:
 Meetups is where you can coordinate meetups by creating them, joining them and more! Click [here](meetups.md) to learn more about Meetups.
 
 ## News
+News is where you can view any posts made by any users. Click [here](news.md) to learn more about News.
 
 ## Achievement
+The Library is home to the community's collection of media and other resources. Click [here](achievement.md) to learn more about Achievements.
 
 ## Feedback
+Throughout planet, you will be able to give feedback on planet, courses, and more. Click [here](feedback.md) to learn more about Feedback.
 
 ## Manager
+The Manager role comes with another set of administrative features, including viewing reports, syncing the community with the nation, and performing upgrades on the community.  Click [here](manager.md) to learn more.

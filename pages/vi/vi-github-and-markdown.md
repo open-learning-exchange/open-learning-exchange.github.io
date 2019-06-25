@@ -69,11 +69,11 @@ After you fork the repository, you will be on your repository: &lt;YourUserName&
 
 ![Renaming Repository](images/vi-rename-repository.png)
 
-### Check if you github.io works
+### Check to see if your github.io works
 
 After renaming your forked repository, go to  https://YourUserName.github.io and make sure it works.
 
-Don't worry if you see a **404** when you access the link, it will take a while for the page to be up and running. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
+Don't worry if you see a **404** page not found error. When you access the link, it will take a while for the page to load and run. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
 
 ### Create a new file as your personal MDwiki page and commit your changes
 
@@ -103,6 +103,10 @@ Then, in the new Markdown file, include the following information:
 * a short description of yourself (so your fellow virtual interns know who you are)
 
 You may use the "Preview" tab to have a primitive look of what your Markdown will look like. Please use at least 5 different types of Markdown elements so you can get an idea of how it works. Avoid using HTML as the purpose of Markdown is to make pages easy to write and read. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) (links), [Profile 2](profiles/ketruong.md) (picture), [Profile 3](profiles/paulbert.md) (lists)
+
+When you are finished, press 'commit changes' below.
+
+![commitchanges](images/vi-commitchanges.jpg)
 
 If you need to edit your file again, click the pencil icon to edit (as shown below).
 
