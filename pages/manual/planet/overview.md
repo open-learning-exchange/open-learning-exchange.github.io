@@ -68,6 +68,7 @@ The Library is home to the community's collection of media and other resources. 
 The Courses page is where you can create and join a variety of different courses where you can learn many different topics. Click [here](./course.md) to learn more about Courses.
 
 ## Teams
+Here you will be able to create teams to communicate with them, offer courses, and organize members. Click [here](teams.md) to learn more about Teams
 
 ## Surveys
 
