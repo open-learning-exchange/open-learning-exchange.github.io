@@ -1,4 +1,4 @@
-# Vagrant Tutorial
+﻿# Vagrant Tutorial
 
 ## Objectives
 
@@ -44,7 +44,7 @@ A lot of Vagrant commands require us to specify a target machine. We can also ru
 ```
 id       name   provider   state   directory
 ---------------------------------------------------------------------------
-219abaa  dev     virtualbox running /Users/aberdean/planet
+219abaa  prod     virtualbox running /Users/aberdean/planet
 
 The above shows information about all known Vagrant environments
 on this machine. This data is cached and may not be completely
