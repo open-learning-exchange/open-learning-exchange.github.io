@@ -26,6 +26,7 @@
 - **Q19:** [What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?](#Q19:_What_do_I_do_if_I_get_error_message_"A_Virtual_Box_machine_with_the_name_'vi'_already_exists"?)
 - **Q20:** [How can I run two communities on the same machine?](#Q20:_How_can_I_run_two_communities_on_the_same_machine?)
 - **Q21:** [How do I destroy the Virtual Machine and start over?](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?)
+- **Q22:** [What do I do if I cannot create a dummy account?](#Q22:_What_do_I_do_if_I_cannot_create_a_dummy_account?)
 
 ### General Internship Questions
 
@@ -112,7 +113,7 @@
 
 #### Q15: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?
 
-+ You need to delete it and start over. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
++ Yes it is possible to rename it but we highly recommend you to delete and start over so that you have a clean forked repository. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
 
 #### Q16: What do I do if I already have a github.io with my username?
 
@@ -141,7 +142,7 @@
 
 #### Q20: How can I run two communities on the same machine?
 
-+ Running two communities on the same machine is possible as long as their configurations (virtualbox name, port forwarding, etc.) does not collide with each other.
++ Running two communities on the same machine is possible as long as their configurations (VirtualBox name, port forwarding, etc.) does not collide with each other.
 
   1. If you want to run multiple VMs together, you need to change the vagrant file as instructed in [multi-machine](https://www.vagrantup.com/docs/multi-machine/).
 
@@ -175,6 +176,36 @@
   vagrant up
   ```
 
+#### Q22: What do I do if I cannot create a dummy account?
+
++ Note: Before trying the steps below, make sure your planet is up to date.
+  
+  ```
+  cd planet
+  git pull
+  ```
+  Then, 
+  ```
+  vagrant halt prod 
+  vagrant up prod.
+  ```
+
+  If it still does not work please follow the steps below. Assuming you are already in the planet directory,
+   ```
+  vagrant ssh prod
+  cd /vagrant
+  sudo rm -rf node_modules/*
+  sudo npm install --unsafe-perm
+  ```
+ 
+  If this too does not work. 
+  ```
+  cd planet 
+  vagrant destroy prod
+  ```
+  Please follow the instructions [here](http://open-learning-exchange.github.io/#!pages/vi/vi-planet-installation-vagrant.md) to reinstall planet. (**Warning!** this wipes all your progress in the virtual intern course as well.)
+
+
 ## 'First Steps' Software Summary
 
 >_The aim of the ‘First Steps’ is to introduce prospective interns to the software that they will be using, and make sure they are familiar with each. While each step goes into detail on the specific program(s) at hand, it can be easy at times to lose sight of the bigger picture. To that end, below is a brief synopsis of the primary tools you will be using/learning about in the first steps, and how they work together to empower our collaborative development environment._
@@ -183,7 +214,7 @@ We start off by learning about BeLL, or the 'Basic e-Learning Library.' BeLL is 
 
 The other two tools we focus on are GitHub and Markdown. Similar to how we use Vagrant and VirtualBox to standardize the development environment for each developer, we use Git/GitHub in order to centralize the development process and enable greater collaboration and teamwork. Git is a revision control system that allows many users to simultaneously edit and develop the same projects, and GitHub is a website/hosting service that utilizes the git system and hosts the git repositories we work on. Markdown, on the other hand, is a style of formatting text native to GitHub and thus used in the Virtual Intern program. Markdown simplifies formatting and emphasizes readability, helping coders focus on content, and not get bogged down in syntax.
 
-To sum up, the primary software/tools we cover in the 'First Steps' are BeLL, Vagrant, VirtualBox, Git/GitHub and Markdown. Though not immediately apparent, the tools we use are all unified by a common purpose. Each bit of software we use is chosen in an effort to promote collaboration. The use of Vagrant and VirtualBox mandates that each instance of BeLL is the same, making sure that all developers utilize the same system. Markdown simplifies the development process, as each piece of code must comply with its syntax, increasing clarity for all users. Finally, GitHub serves as the last piece in the puzzle, as it takes advantage of the standardized development environment that Vagrant/VirtualBox provide, as well as the streamlined syntax of Markdown to allow for easy collaboration.
+To sum up, the primary software/tools we cover in the 'First Steps' are BeLL, Vagrant, VirtualBox, Git/GitHub and Markdown. Though not immediately apparent, the tools we use are all unified by a common purpose. Each bit of software we use is chosen in an effort to promote collaboration. The use of Vagrant and VirtualBox mandates that each instance of BeLL is the same, making sure that all developers utilize the same system. Markdown simplifies the development process, as each piece of code must comply with its syntax, increasing clarity for all users. Finally, GitHub serves as the last piece in the puzzle, as it takes advantage of the standardized development environment that Vagrant/VirtualBox provides, as well as the streamlined syntax of Markdown to allow for easy collaboration.
 
 It can often be challenging to see the 'Big Picture', and it’s easy to lose sight of it when focused on individual tasks. With that said, hopefully this synopsis has shed light on the importance of the process, and shown that each step is not an isolated assignment, but rather part of a greater task.
 
