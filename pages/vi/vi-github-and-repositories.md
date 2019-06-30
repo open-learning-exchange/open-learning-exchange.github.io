@@ -1,4 +1,4 @@
-# Git Repositories
+﻿# Git Repositories
 
 ## Objectives
 
@@ -169,13 +169,13 @@ The **upstream repository** is the one we are contributing to.
 
 #### Sync Your Fork
 1. `git fetch upstream` -  to fetch branches from the upstream repository ([more info](https://git-scm.com/docs/git-fetch))
-2. `git checkout master` - to checkout the `master` branch
-3. `git show-branch` - to see branches and the changes made in them
+2. `git checkout master` - to checkout the `master` branch ([more info](https://git-scm.com/docs/git-checkout))
+3. `git show-branch` - to see branches and the changes made in them ([more info](https://git-scm.com/docs/git-show-branch))
 4. `git merge upstream/master` - You repository should now be synced to upstream/master ([more info](https://git-scm.com/docs/git-merge))
 
 #### Make sure your repository is up to date
 1. `git diff` - for comparing different versions of the same file ([more info](https://git-scm.com/docs/git-diff))
-2. `git status` - to view the changes made in the branch, whether the branch is up-to-date with master
+2. `git status` - to view the changes made in the branch, whether the branch is up-to-date with master ([more info](https://git-scm.com/docs/git-status))
 3. `git pull` - to sync the local repository with the remote repository ([more info](https://git-scm.com/docs/git-pull))
 4. `git push` - to push the updates that you made to the local repositories to the GitHub repositories ([more info](https://git-scm.com/docs/git-push))
 
