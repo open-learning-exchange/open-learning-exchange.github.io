@@ -16,13 +16,13 @@ This equipment will be deployed in the field with little or no access to the int
 
 ## So What is the Raspberry Pi?
 The Raspberry Pi is a low cost single board computer, think of it as a downsized desktop tower, with the ability to receive, compute and output data and information, just without a mouse, keyboard or screen. 
-The OLE Raspberry Pi image is a modified [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) image, with additional software pertaining to the open learning exchange program, which you can put onto the microsd card for the Raspberry Pi.
+The OLE Raspberry Pi image is a modified [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) image, with additional software pertaining to the open learning exchange program, which you can put onto the microSD card for the Raspberry Pi.
 
 ### Your Fist Steps:
 To get started, please go to: [treehouses/builder](https://github.com/treehouses/builder) and open the "READ ME"
 
 ## Raspberry Pi Meetings
-We meet on Wednesdays at 5:00 PM EST online on [http://talk.ole.org](http://talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usually a few minutes after 5:00 PM EST, unless of course the meeting is canceled but that will be stated in the #raspberrypi chat channel on Gitter.
+We meet on Wednesdays at 6:00 PM EST online on [http://talk.ole.org](http://talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usually a few minutes after 6:00 PM EST, unless of course the meeting is canceled but that will be stated in the #raspberrypi chat channel on Gitter.
 
 ## How can I help?
 So far we are working on creating a seamless experience for the image, meaning we want the user to have many connectivity options without having to tinker too much with the Raspberry Pi. So our main goal at the moment is getting the Raspberry Pi to connect to different connectivity options such as wifi/bluetooth/ethernet automatically. This allows more people to contribute and debug unexpected problems. Once we have those bases covered, we can move onward to the software part. 
