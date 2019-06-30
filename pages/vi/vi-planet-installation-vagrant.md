@@ -1,4 +1,4 @@
-# Planet Installation
+﻿# Planet Installation
 
 ## Objectives
 
@@ -86,7 +86,12 @@ wget -O vagrant.deb https://yourcopiedlink.com/vagrant.deb
 sudo dpkg -i vagrant.deb
 sudo apt-get install -f
 ```
+If you encounter the error:
+   > dpkg: error processing archive vagrant.deb (--install): package architecture (amd64) does not match system (i386)
+   > Errors were encountered while processing: vagrant.deb
 
+To solve this problem: Copy link location of Debian 32-bit instead and run commands again.
+ 
 ---
 
 ## Install a Community Planet  
