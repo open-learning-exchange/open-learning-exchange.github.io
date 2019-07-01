@@ -6,7 +6,7 @@ I am a **high school student** (suprising I know) very interested in computer sc
 ---
 ### Languages
 
-*Python
-*JS
-*HTML
-*CSS
+* Python
+* JS
+* HTML
+* CSS
