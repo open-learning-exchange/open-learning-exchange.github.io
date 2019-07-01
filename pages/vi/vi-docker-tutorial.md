@@ -83,7 +83,6 @@ It might destroy your configuration.
 
 1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
 
- 
 
 ## More about Docker and Docker Compose
 
