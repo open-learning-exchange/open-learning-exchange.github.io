@@ -68,6 +68,10 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
 
 1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
 
+ATTENTION: if you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d --build`. 
+It might destroy your configuration. 
+`vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d --build` automatically.
+
 1. See if the docker containers are running: `docker ps`. You'll see your running container similar to this
 
   ```
@@ -79,9 +83,7 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
 
 1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
 
-ATTENTION: if you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d --build`. 
-It might destroy your configuration. 
-`vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d --build` automatically. 
+ 
 
 ## More about Docker and Docker Compose
 
