@@ -12,7 +12,8 @@ In [Step 1 - Planet Installation - Configuration](vi-configurations-vagrant.md),
 
 There should be constant communication between the nation and the communities. While it is not necessary for remote communities in the field, it is ideal for our goals of "improving the software and testing the increasing forms of communication and feedback between the nation and the communities". This communication takes the form of a syncing process from the community side, where you select material to send to the nation.
 
-Make sure vagrant is running and then click [here](http://localhost:3100) to access your Community Planet.
+Make sure vagrant is running and then click [here](http://localhost:3100) to access your Community Planet. 
+It is recommended that you use Firefox since Planet is only guaranteed to run properly on Firefox.
 
 **NOTE**: Before you can sync your community with the nation, you will need to create an additional dummy user on your community. Therefore, create one by clicking on "Become a Member" under the SIGN-IN button. Then fill out the details and press the "Become a Member" button. (Tip: When creating the dummy user, don't put a password that you actually use). Next, log back in to your admin account and double-check that your dummy account is listed under Members on the Manager page. Now that your community has a user, you can sync with the nation. If you can not create dummy user, please click on the helpful links and videos under the Useful Links section at the bottom of the Nation Planet page. Once there, scroll up to Q22 for a solution, which is located under the Technical questions section.
 
