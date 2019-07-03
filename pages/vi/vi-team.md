@@ -36,6 +36,7 @@
 |[ArranHL](profiles/ArranHL.md)|2019-06-17|
 |[Chiragawale](profiles/chiragawale.md)|2019-06-17|
 |[Perryc85](profiles/Perryc85.md)|2019-06-20|
+|[raisinman99](profiles/raisinman99.md)|2019-07-02|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
