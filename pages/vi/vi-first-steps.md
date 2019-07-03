@@ -49,10 +49,16 @@ There are 3 sections in this step:
 
 1. [Vagrant Tutorial](vi-vagrant.md)
   **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this section, you will learn about how to interact with Vagrant through the command-line interface.
+  
+* **Summary of Step 1:**
+    * By the end of this step, you should know how to set up your planet community on the command line/terminal, creating your planet learning account and learning about the different commands that will be used on the terminal for working with vagrant.
 
 ## Step 2 - Planet and Docker
 
 Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
+
+* **Summary of Step 2:**
+    * In this step, you learn the different functionalities of Docker and how you can use it to manually install Planet and also the various commands that are a part of Docker.  
 
 ## Step 3 - Markdown and Fork Tutorial
 
@@ -67,9 +73,15 @@ Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown
 
 This step includes the [Planet Tutorial](vi-planetapps.md), which explains the features of the application.
 
+* **Summary of Step 4:**
+    * In this step, you learn more about the planet community and all the different features that are included in them. You also get familiar with functions such as uploading resources to the community, updating your community, and taking a course. 
+
 ## Step 5 - Keeping Fork Updated
 
 Follow the directions at [Git Repositories](vi-github-and-repositories.md) to keep your username.github.io and your local repository up to date.
+
+* **Summary of Step 5:**
+    * In this step, you learn the difference between the different levels of heirarchy within GitHub and your local repository, how to create your own local repository, and syncing a fork. 
 
 ## Step 6 - GitHub Issues Tutorial
 
@@ -85,6 +97,9 @@ Make sure you have created at least one issue, resolved it, commented on an issu
 ## Step 7 - Nation Planet
 
 Follow the directions under the [Nation Planet tab](vi-nation.md).
+
+* **Summary of Step 7:**
+    * In this step you learn about syncing your planet community with nation and also more on how to manage and checking the status of your syncs. 
 
 ## Step 8 - Create Issues and Pull Requests
 
