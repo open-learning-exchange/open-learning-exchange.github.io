@@ -17,7 +17,7 @@
 ### Markdown
 
 ![Markdown Preview](images/vi-markdown-ref.png)
-Example of Markdown syntax on the left side and the way it is rendered on the right side (click on image to expand):
+Example of Markdown syntax on the left side and the way it is rendered to HTML on the right side (click on image to expand):
 
 ![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
 A Markdown cheat sheet that might help you create your own Markdown page later:
