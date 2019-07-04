@@ -1,4 +1,4 @@
-# FAQ
+﻿# FAQ
 
 ## General Internship Questions
 
@@ -225,7 +225,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 * General
     - [GitHub and Markdown Short Tutorials](https://guides.github.com/)
-    - [GitHub Help](https://help.github.com/categories/search/)
+    - [GitHub Help](https://help.github.com/en/categories/github-pages-basics)
     - [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 * First Steps

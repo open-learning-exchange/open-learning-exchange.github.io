@@ -41,6 +41,9 @@ Every time you start to work on an issue, you need to create a branch to keep is
 `git push origin master`
 More details in the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
+To create a new branch, go to your github repo and create it in a similar fashion as the following image:
+![Details on Creating a New Branch](images/vi-Step6-screenshot.png)
+
 Use `git checkout master` to switch to master branch, then use `git checkout -b <name_of_your_new_branch>` to create and switch to a new branch on your local repository. Make sure to remove the angled brackets (< & >) as they are just place holders. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
 Now you can go and make the proposed changes to your local files. You can use any IDE or text editor you prefer. You can also use VIM or Nano to edit files from the terminal. [This guide on VIM](https://www.vim.org/docs.php ) and [this guide on Nano](https://www.nano-editor.org/docs.php) contain more information on their proper usage.
