@@ -1,4 +1,4 @@
-# Git Repositories
+﻿# Git Repositories
 
 ## Objectives
 
@@ -43,11 +43,16 @@ Both HTTPS and SSH URLs identify the same remote repositories but use different 
 ### Explanation About Repositories and Syncing Process
 
 The previous step created a clone of your repository on your OS.
+
+![GitHub Clone URL](images/vi-forking-and-updating-a-repo.png)
+
 Now, there are three different Github repository levels: [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io), your username.github.io on GitHub, and your username.github.io on your OS. These three levels need to be constantly synced and up to date with one another as we will all be contributing to the upstream repository (open-learning-exchange.github.io). It's important to try and keep these separate and avoid mixing changes between them, as you will be unable to fork and git push/pull if they are very different versions.
 
 As you create a fork from the original repository and then clone your forked repository onto your OS, you will need to frequently update the fork so that your fork and clone are not behind. Further, you need to sync your repository on your OS and on GitHub (username.github.io) with the upstream repository (open-learning-exchange.github.io). There are various ways to do this, as explained below.
 
-First, the [GitHub help section](https://help.github.com/en) and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://help.github.com/articles/syncing-a-fork/) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, following the steps below, you will need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io.
+First, the [GitHub help section](https://help.github.com/en) and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://help.github.com/articles/syncing-a-fork/) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, following the steps below, you will need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io (see the diagram below).
+
+![GitHub Clone URL](images/vi-sync-a-fork.png)
 
 ### Configure a Remote Repository for Your Fork
 
@@ -169,13 +174,13 @@ The **upstream repository** is the one we are contributing to.
 
 #### Sync Your Fork
 1. `git fetch upstream` -  to fetch branches from the upstream repository ([more info](https://git-scm.com/docs/git-fetch))
-2. `git checkout master` - to checkout the `master` branch
-3. `git show-branch` - to see branches and the changes made in them
+2. `git checkout master` - to checkout the `master` branch ([more info](https://git-scm.com/docs/git-checkout))
+3. `git show-branch` - to see branches and the changes made in them ([more info](https://git-scm.com/docs/git-show-branch))
 4. `git merge upstream/master` - You repository should now be synced to upstream/master ([more info](https://git-scm.com/docs/git-merge))
 
 #### Make sure your repository is up to date
 1. `git diff` - for comparing different versions of the same file ([more info](https://git-scm.com/docs/git-diff))
-2. `git status` - to view the changes made in the branch, whether the branch is up-to-date with master
+2. `git status` - to view the changes made in the branch, whether the branch is up-to-date with master ([more info](https://git-scm.com/docs/git-status))
 3. `git pull` - to sync the local repository with the remote repository ([more info](https://git-scm.com/docs/git-pull))
 4. `git push` - to push the updates that you made to the local repositories to the GitHub repositories ([more info](https://git-scm.com/docs/git-push))
 
