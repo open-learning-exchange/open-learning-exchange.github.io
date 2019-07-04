@@ -36,6 +36,7 @@
 |[ArranHL](profiles/ArranHL.md)|2019-06-17|
 |[Chiragawale](profiles/chiragawale.md)|2019-06-17|
 |[Perryc85](profiles/Perryc85.md)|2019-06-20|
+|[hiroTochigi](profiles/hiroTochigi.md)|2019-06-29|
 |[Irisb1701](profiles/irisb1701.md)|2019-07-03|
 
 ## Former Interns
