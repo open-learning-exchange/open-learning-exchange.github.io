@@ -38,6 +38,7 @@
 |[Perryc85](profiles/Perryc85.md)|2019-06-20|
 |[hiroTochigi](profiles/hiroTochigi.md)|2019-06-29|
 |[275vytran](profiles/275vytran.md)|2019-07-01|
+|[raisinman99](profiles/raisinman99.md)|2019-07-02|
 |[Irisb1701](profiles/irisb1701.md)|2019-07-03|
 
 ## Former Interns
