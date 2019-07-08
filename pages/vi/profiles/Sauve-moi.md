@@ -1,15 +1,14 @@
-## About Me
+# About Me
 **Name**: Pingping Chen 
 
 **Time Zone**: EST/GMT+8 
 
 **OS**: macOS Mojave, version 10.14.4
 
-
+## More Info
 I am now pursing my Master's degree of Computer Science in NCSU and **Going to be**:
-- Software Developer
-- Good cook
-
+  1. Software Developer
+  2. Good cook
 
 Languages:
 
