@@ -84,7 +84,7 @@ Take the course. The last question will ask you to specify any problems you had 
   ![Submissions button](images/vi-planet-submissions-button.png)
   ![View Submissions](images/vi-planet-submissions.png)
 
-6. When you provide feedback, try to be as specific as possible, and include screenshots when necessary, through your prefered method (Gitter chat is always a great fallback if you are not comfortable with uploading and linking screenshots).
+6. When you provide feedback, try to be as specific as possible, and include screenshots when necessary, through your preferred method (Gitter chat is always a great fallback if you are not comfortable with uploading and linking screenshots).
 
 ![Take the Course](images/vi-take-the-course.png)
 ![Course Overview](images/vi-course-view.png)
