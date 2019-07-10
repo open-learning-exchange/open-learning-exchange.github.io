@@ -9,3 +9,5 @@ I am a computer science student at [BYU](https://byu.edu/) and wanted to partici
 * Coding
 * Video Games
 * Swimming
+
+```printf "diamond \n the dust" | grep -w diamond```
