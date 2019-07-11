@@ -2,9 +2,11 @@
 
 ![This is a picture](https://besthdpics.com/storage/image/Nice-Cute-Wallpapers-HD-Wallpapers-of-Nature-Full-HD-p-Desktop-Backgrounds-for-PC-Mac-Laptop-Tablet-world-of-sofas-16165744.jpg)
 
-:alarm_clock: Eastern Standard Time
+:alarm_clock: 
+Eastern Standard Time
 
-:desktop_computer: macOS Mojave Version 10.14.5
+:desktop_computer: 
+macOS Mojave Version 10.14.5
 
 ## About Me
 
