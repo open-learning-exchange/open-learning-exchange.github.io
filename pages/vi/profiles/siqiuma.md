@@ -16,18 +16,24 @@ My dream is to build applications that gain business values for companies and ma
 
 #### My hobbies
 
-* Swimming :swimming_woman:
-* Watching movies :popcorn:
-* Hanging out with friends :beer:
+* Swimming 
+:swimming_woman:
+* Watching movies 
+:popcorn:
+* Hanging out with friends 
+:beer:
 
 #### Languages I have experience with
 
 - [x] HTML5, CSS3, JavaScript (React.js)
 - [x] Java, SQL
 - [x] C#
-- [ ] Markdown (Just learned it. does it count? :stuck_out_tongue_winking_eye:)
+- [ ] Markdown (Just learned it. does it count? 
+:stuck_out_tongue_winking_eye:)
 
 #### LinkedIn Profile
-:link: [Click me!](https://www.linkedin.com/in/siqiu-ma/)
+:link: 
+[Click me!](https://www.linkedin.com/in/siqiu-ma/)
 
-_**Instructions: Connect with me before you leave my LinkedIn page.**_  :handshake:
+_**Instructions: Connect with me before you leave my LinkedIn page.**_ 
+:handshake:
