@@ -206,7 +206,7 @@ If you would like to understand how syncing with the fork works, here is a usefu
 [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section **→**
+## Next Section _(Step 6)_ **→**
 
 In the next section, you will learn the process for creating and resolving issues with GitHub.
 

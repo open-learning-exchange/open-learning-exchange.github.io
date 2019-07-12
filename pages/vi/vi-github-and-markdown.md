@@ -159,7 +159,7 @@ After the pull request is merged, you'll be able to see your personal page at `o
 
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section **→**
+## Next Section _(Step 4)_ **→**
 
 In the next step, you will learn more about your community Planet, and the Planet interface.
 
