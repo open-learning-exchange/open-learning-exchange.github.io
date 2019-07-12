@@ -165,8 +165,6 @@ This process needs to be repeated whenever you begin to work, to make sure that 
 
 </details>
 
-<br>
-
 ## Summary of Steps
 
 Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
