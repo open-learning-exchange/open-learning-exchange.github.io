@@ -20,11 +20,11 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 
 
 
-* [Clone Your GitHub Repository username.github.io](#Clone_Your_GitHub_Repository_username.github.io)
-* [Clone with HTTPS or Clone with SSH?](#Clone_with_HTTPS_or_Clone_with_SSH?)
-* [Explanation About Repositories and Syncing Process](#Explanation_About_Repositories_and_Syncing_Process)
-* [Configure a Remote Repository for Your Fork](#Configure_a_Remote_Repository_for_Your_Fork)
-* [Sync Your Fork](#Sync_Your_Fork)
+* [Clone Your GitHub Repository username.github.io](Clone_Your_GitHub_Repository_username.github.io)
+* [Clone with HTTPS or Clone with SSH?](Clone_with_HTTPS_or_Clone_with_SSH?)
+* [Explanation About Repositories and Syncing Process](Explanation_About_Repositories_and_Syncing_Process)
+* [Configure a Remote Repository for Your Fork](Configure_a_Remote_Repository_for_Your_Fork)
+* [Sync Your Fork](Sync_Your_Fork)
 
 **NOTE**: You will see some common names used in git (*which you can change*), such as `master: the name of the main branch`, `upstream: the location where you forked the repository from`, and `origin: the location you cloned repository from`. Both `upstream and origin` are considered **remote**. Keep in mind also, a repository may contain many branches.
 
