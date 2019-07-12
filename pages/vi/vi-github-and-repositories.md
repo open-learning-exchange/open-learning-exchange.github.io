@@ -28,7 +28,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 
 **NOTE**: You will see some common names used in git (*which you can change*), such as `master: the name of the main branch`, `upstream: the location where you forked the repository from`, and `origin: the location you cloned repository from`. Both `upstream and origin` are considered **remote**. Keep in mind also, a repository may contain many branches.
 
-# Clone Your GitHub Repository username.github.io
+### Clone Your GitHub Repository username.github.io 
 <details>
 <summary></summary>
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided in the repository (see the picture below).
@@ -39,18 +39,15 @@ Then, turn to your command prompt and type your repository URL in the form of `g
 
 </details>
 
-<br>
-
-# Clone with HTTPS or Clone with SSH?
+### Clone with HTTPS or Clone with SSH?
 <details>
 <summary></summary>
+   
 Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences using [HTTPS or SSH for cloning](https://help.github.com/articles/which-remote-url-should-i-use/).
 
 </details>
 
-<br>
-
-# Explanation About Repositories and Syncing Process
+### Explanation About Repositories and Syncing Process
 <details>
 <summary></summary>
 
@@ -63,7 +60,7 @@ First, the [GitHub help section](https://help.github.com/en) and the [Git websit
 
 </details>
 
-# Configure a Remote Repository for Your Fork
+### Configure a Remote Repository for Your Fork
 <details>
 <summary></summary>
 
@@ -93,7 +90,7 @@ upstream  https://github.com/open-learning-exchange/open-learning-exchange.githu
 ```
 </details>
 
-# Sync Your Fork
+### Sync Your Fork
 <details open>
 <summary></summary>
 
