@@ -20,17 +20,17 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 
 
 
-* [Clone Your GitHub Repository username.github.io](Clone_Your_GitHub_Repository_username.github.io)
-* [Clone with HTTPS or Clone with SSH?](Clone_with_HTTPS_or_Clone_with_SSH?)
-* [Explanation About Repositories and Syncing Process](Explanation_About_Repositories_and_Syncing_Process)
-* [Configure a Remote Repository for Your Fork](Configure_a_Remote_Repository_for_Your_Fork)
-* [Sync Your Fork](Sync_Your_Fork)
+* [Clone Your GitHub Repository username.github.io](#Clone_Your_GitHub_Repository_username.github.io)
+* [Clone with HTTPS or Clone with SSH?](#Clone_with_HTTPS_or_Clone_with_SSH?)
+* [Explanation About Repositories and Syncing Process](#Explanation_About_Repositories_and_Syncing_Process)
+* [Configure a Remote Repository for Your Fork](#Configure_a_Remote_Repository_for_Your_Fork)
+* [Sync Your Fork](#Sync_Your_Fork)
 
 **NOTE**: You will see some common names used in git (*which you can change*), such as `master: the name of the main branch`, `upstream: the location where you forked the repository from`, and `origin: the location you cloned repository from`. Both `upstream and origin` are considered **remote**. Keep in mind also, a repository may contain many branches.
 
+# Clone Your GitHub Repository username.github.io
 <details>
-<summary> Clone Your GitHub Repository username.github.io </summary>
-<br>
+<summary></summary>
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. Therefore, open a command line and open your username.github.io repository on the  GitHub user interface. You then need to copy the link provided in the repository (see the picture below).
 
 ![GitHub Clone URL](images/vi-github-clone-url.png)
@@ -41,19 +41,19 @@ Then, turn to your command prompt and type your repository URL in the form of `g
 
 <br>
 
+# Clone with HTTPS or Clone with SSH?
 <details>
-<summary> Clone with HTTPS or Clone with SSH? </summary>
-<br>
+<summary></summary>
 Both HTTPS and SSH URLs identify the same remote repositories but use different protocols to access the codebase. Besides HTTPS, which we talked about above, you can also use SSH to do the same thing. You can explore the differences using [HTTPS or SSH for cloning](https://help.github.com/articles/which-remote-url-should-i-use/).
 
 </details>
 
 <br>
 
-
+# Explanation About Repositories and Syncing Process
 <details>
-<summary> Explanation About Repositories and Syncing Process </summary>
-<br>
+<summary></summary>
+
 The previous step created a clone of your repository on your OS.
 Now, there are three different Github repository levels:[open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io), your username.github.io on GitHub, and your username.github.io on your OS. These three levels need to be constantly synced and up to date with one another as we will all be contributing to the upstream repository (open-learning-exchange.github.io). It's important to try and keep these separate and avoid mixing changes between them, as you will be unable to fork and git push/pull if they are very different versions.
 
@@ -63,11 +63,9 @@ First, the [GitHub help section](https://help.github.com/en) and the [Git websit
 
 </details>
 
-<br>
-
+# Configure a Remote Repository for Your Fork
 <details>
-<summary> Configure a Remote Repository for Your Fork </summary>
-<br>
+<summary></summary>
 
 To be able to fetch updates from the upstream repository, you need to first configure the upstream repository by following these steps:
 
@@ -95,13 +93,9 @@ upstream  https://github.com/open-learning-exchange/open-learning-exchange.githu
 ```
 </details>
 
-<br>
-
+# Sync Your Fork
 <details open>
-<summary> Sync Your Fork </summary>
-
-<br>
-
+<summary></summary>
 
 Then, use the command `git fetch upstream` to fetch branches from the upstream repository (in this case, it is open-learning-exchange.github.io). Next, check your fork's master branch with `git checkout master`. You should see some variation of this response:
 
