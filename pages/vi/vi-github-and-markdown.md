@@ -26,6 +26,12 @@ A Markdown cheat sheet that might help you create your own Markdown page later:
 
 [Markdown Tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) - An interactive tutorial to learn Markdown.
 
+[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples
+
+[Markdown Tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) - An interactive tutorial to learn Markdown.
+
+[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - Another awesome interactive tutorial to experiment and learn more Markdown syntax.
+
 **NOTE**:
 • **If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.** For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links).
 • Markdown != HTML
@@ -149,12 +155,11 @@ After the pull request is merged, you'll be able to see your personal page at `o
 ## Useful Links
 
 [GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
+
 [MDWiki – Quick Start](http://dynalon.github.io/mdwiki/#!quickstart.md) - The official MDwiki quick start guide on Markdown syntax.
-[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples
-[Markdown Tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) - An interactive tutorial to learn Markdown.
-[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - Another awesome interactive tutorial to experiment and learn more Markdown syntax.
 
 [GitHub - Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A GitHub help page on how to format and write, along with working with saved replies.
+
 [GitHub - How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories.
 
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
