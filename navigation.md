@@ -46,7 +46,6 @@
   * [Tablet Configuration](pages/techgenius/tg-tablet-config.md)
   * [Community Installation](pages/techgenius/tg-install.md)
   * [Community Installation / RPi3](pages/techgenius/tg-rp3-installation.md)
-  * [Manual / Full Installation](pages/vi/vi-planet-installation.md)
   * [Admin User Manual](pages/techgenius/tg-planet-user-manual.md)
   - - - -
   * [Content & Library Management](pages/techgenius/tg-library-management.md)
