@@ -1,4 +1,4 @@
-# Planet Tutorial
+﻿lanet Tutorial
 
 ## Objectives
 
@@ -84,7 +84,7 @@ Take the course. The last question will ask you to specify any problems you had 
   ![Submissions button](images/vi-planet-submissions-button.png)
   ![View Submissions](images/vi-planet-submissions.png)
 
-6. When you provide feedback, try to be as specific as possible, and include screenshots when necessary, through your preferred method (Gitter chat is always a great fallback if you are not comfortable with uploading and linking screenshots).
+6. When you provide feedback, try to be as specific as possible. There is no way to upload screenshots on Planet Exam Questions at this time, but please post screenshots in the Gitter chat if you feel they are vital to answering this question. 
 
 ![Take the Course](images/vi-take-the-course.png)
 ![Course Overview](images/vi-course-view.png)
