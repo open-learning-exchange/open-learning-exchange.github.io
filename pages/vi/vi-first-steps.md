@@ -56,7 +56,7 @@ Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **
 
 ## Step 3 - Markdown and Fork Tutorial
 
-Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (https://YourUserName.github.io and https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
+Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and pull request link on the Gitter chat (https://YourUserName.github.io and `LinkToYourPullRequest`). Also include Raw.githack link in your pull request( https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
 
 **NOTE**: Raw.githack link above is case sensitive to your username.
 
