@@ -88,4 +88,8 @@ vagrant up prod
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
+## Next Section _(Step 8)_ **→**
+
+In the next section, you will create and resolve more issues with GitHub.
+
 #### Return to [First Steps](vi-first-steps.md#Step_7_-_Nation_Planet)

@@ -95,7 +95,7 @@ If the course "Virtual Interns" is not there, check `Manage Sync` of manager set
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section **→**
+## Next Section _(Step 5)_ **→**
 
 In the next step, you will learn more about how our Git repositories work, and how to sync your own repository to keep up-to-date.
 

@@ -269,7 +269,7 @@ Commands:
 [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
 [Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
 
-## Next Section **→**
+## Next Section _(Step 3)_ **→**
 
 Markdown is a lightweight markup language with plain text formatting syntax. In the next section, you will learn Markdown to create a profile page, and learn how to create a pull request.
 
