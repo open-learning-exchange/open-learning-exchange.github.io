@@ -54,8 +54,6 @@ There are 3 sections in this step:
 
 Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
 
-In this step, you learn the different functionalities of Docker and how you can use it to manually install Planet and also the various commands that are a part of Docker.  
-
 ## Step 3 - Markdown and Fork Tutorial
 
 Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (https://YourUserName.github.io and https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
