@@ -66,10 +66,11 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
   - `docker tag treehouses/planet:latest treehouses/planet:local`
   - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local`
 
-
+    ````
     ATTENTION: if you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d --build`.
     It might destroy your configuration.
     `vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d --build` automatically.
+    ```
 
 5. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
 
