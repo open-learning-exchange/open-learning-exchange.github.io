@@ -1,6 +1,6 @@
 __Bradley Thompson__  
 Portland, Oregon, United States  
-macOS Mojave 10.14
+*macOS Mojave 10.14*
 
 ---
 
@@ -10,6 +10,6 @@ I am a CS student at Portland State University. I'll be completing my bachelor's
 
 ## Skills / Projects:
 
-I am comfortable with C++, C, Java, python, haskell, and I have a little experience with smallTalk and Ruby. I enjoy programming in C++ the most on my own.
+I am comfortable with C++, C, Java, python, haskell, and I have a little experience with smallTalk and Ruby. Though I enjoy programming in C++ the most on my own.
 
 I am currently working on an open-source tree data structure library for my open-source software development class. I have always loved memory management, data structures and efficient algorithms.
