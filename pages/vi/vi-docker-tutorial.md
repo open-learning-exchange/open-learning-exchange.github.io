@@ -54,24 +54,29 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
 
 1. Go to your OLE project folder, and use `cd planet` to enter into the `planet` directory. This is the repository you cloned in the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md)
 
-1. Use `vagrant ssh prod` to connect to your virtual machine
+2. Use `vagrant ssh prod` to connect to your virtual machine
 
-1. Then enter into the docker folder with `cd /vagrant/docker`.
+3. Then enter into the docker folder with `cd /vagrant/docker`.
 
-1. Pull the latest `planet` and its db-init Docker image
+4. Pull the latest `planet` and its db-init Docker image
 
   - `docker pull treehouses/planet:latest`
   - `docker pull treehouses/planet:db-init`
 
   - `docker tag treehouses/planet:latest treehouses/planet:local`
   - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local`
+  
+5. Run the *following command* to spawn your environment for the **first time**:
 
-1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
-
-
+    ```
     ATTENTION: if you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d --build`.
     It might destroy your configuration.
     `vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d --build` automatically.
+    ```
+    If this is your **first** time spawning the environment, run:
+   
+  `docker-compose -f planet.yml -p planet up -d --build`
+
 
 1. See if the docker containers are running: `docker ps -a`. You'll see your running container similar to this
 
