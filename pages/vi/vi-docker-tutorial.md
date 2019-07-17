@@ -72,7 +72,7 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
     `vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d --build` automatically.
 
 5. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
----
+
 
 1. See if the docker containers are running: `docker ps -a`. You'll see your running container similar to this
 
