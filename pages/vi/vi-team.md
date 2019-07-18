@@ -40,6 +40,7 @@
 |[275vytran](profiles/275vytran.md)|2019-07-01|
 |[raisinman99](profiles/raisinman99.md)|2019-07-02|
 |[Irisb1701](profiles/irisb1701.md)|2019-07-03|
+|[Lillyxxx](profiles/lillyxxx.md)|2019-07-17|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
