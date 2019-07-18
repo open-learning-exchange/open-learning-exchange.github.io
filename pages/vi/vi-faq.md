@@ -203,7 +203,7 @@
   cd planet 
   vagrant destroy prod
   ```
-  Please follow the instructions [here](http://open-learning-exchange.github.io/#!pages/vi/vi-planet-installation-vagrant.md) to reinstall planet. (**Warning!** this wipes all your progress in the virtual intern course as well.)
+  Please follow the instructions [here](http://open-learning-exchange.github.io/#!pages/vi/vi-planet-installation-vagrant.md) to reinstall planet. (**Note**: After planet reinstallation, you will need to register as admin a second time as you did in step [Planet Configurations](http://open-learning-exchange.github.io/#!./pages/vi/vi-configurations-vagrant.md). However, you cannot use the same "Name" in Set up Configuration step because that "Name" already exists. You may instead use YourName01 or add any other number you like at the end of your original "Name". This should allow you to register as the admin and log in your community planet. Also, the 3 resources you uploaded to Library, the Virtual Intern course you added to myCourses, and all your progress in the Virtual Intern course will be gone.)
 
 
 ## 'First Steps' Software Summary
