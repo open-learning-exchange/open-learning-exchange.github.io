@@ -1,4 +1,4 @@
-﻿# Git Repositories
+# Git Repositories
 
 ## Objectives
 
@@ -34,7 +34,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 
 ![GitHub Clone URL](images/vi-github-clone-url.png)
 
-Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you  `cd  ` into your `<username>.github.io` you can see different files which you will be working on during your internship.
+Then, turn to your command prompt and type your repository URL in the form of `git clone https://github.com/EmilyLarkin/EmilyLarkin.github.io.git` into the command line. Be sure to use the correct URL to clone your repository (you will obviously type your own username).  If you  `cd  ` into your `username.github.io` you can see different files which you will be working on during your internship.
 
 ### Clone with HTTPS or Clone with SSH?
 
@@ -58,13 +58,13 @@ First, the [GitHub help section](https://help.github.com/en) and the [Git websit
 
 To be able to fetch updates from the upstream repository, you need to first configure the upstream repository by following these steps:
 
-1. Open your command prompt/terminal and find the correct directory, `cd <username>.github.io.`
+1. Open your command prompt/terminal and find the correct directory, `cd username.github.io.`
 
 2. List the current configured remote repository for your fork with `git remote -v`. This is what it should look like:
 ```
 $ git remote -v
-origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (fetch)
-origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (push)
+origin  https://github.com/username/username.github.io.git (fetch)
+origin  https://github.com/username/username.github.io.git (push)
 ```
 
 3. Specify a new remote upstream repository that will be synced with the fork by using `git remote add upstream <repository>`. Our remote upstream repository will be https://github.com/open-learning-exchange/open-learning-exchange.github.io.git. Dont't forget the `.git` at the end.
@@ -75,8 +75,8 @@ $ git remote add upstream https://github.com/open-learning-exchange/open-learnin
 4. Verify if upstream is configured correctly with `git remote -v`.
 ```
 $ git remote -v
-origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (fetch)
-origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (push)
+origin  https://github.com/username/username.github.io.git (fetch)
+origin  https://github.com/username/username.github.io.git (push)
 upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (fetch)
 upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (push)
 ```
@@ -167,7 +167,7 @@ These need to be synced and checked constantly.
 The **upstream repository** is the one we are contributing to.
 
 #### Configure the upstream repository to your fork
-1. `cd <username>.github.io.`
+1. `cd username.github.io.`
 2. `git remote -v` see above to make sure you are pushing and fetching to your own repository on GitHub as the origin
 3. `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
 4. `git remote -v` origins should remain the same, but you should also be fetching and pushing to OLE as the upstream now
