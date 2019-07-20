@@ -28,7 +28,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
 
-2. Create a [GitHub account](https://github.com/) then watch <a href="https://github.com/open-learning-exchange/open-learning-exchange.github.io" target="_blank">Open Learning Exchange's github.io repo</a> and Follow [Leonard](https://github.com/leomaxi), [Dogi](https://github.com/dogi), [Laxman](https://github.com/lmmrssa), [Paul](https://github.com/paulbert), [Mappuji](https://github.com/empeje), [Ignacio](https://github.com/i5o), [Arpita](https://github.com/singharpita) and [Roshan](https://github.com/rrijal53) on GitHub. In GitHub, we "[Watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)" organization repositories and "Follow" individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing. (Click on the image to enlarge.)
+2. Create a [GitHub account](https://github.com/) then watch <a href="https://github.com/open-learning-exchange/open-learning-exchange.github.io" target="_blank">Open Learning Exchange's github.io repo</a> and Follow [Leonard](https://github.com/leomaxi), [Dogi](https://github.com/dogi), [Laxman](https://github.com/lmmrssa), [Paul](https://github.com/paulbert), [Mappuji](https://github.com/empeje), [Ignacio](https://github.com/i5o), [Arpita](https://github.com/singharpita) and [Roshan](https://github.com/rrijal53) on GitHub. In GitHub, we "[Watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)" organization repositories and ["Follow"](https://help.github.com/en/articles/following-people) individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing. (Click on the image to enlarge.)
 
   ![Watch Screen Shot](images/vi-watch.png)
   ![Follow Screen Shot](images/vi-follow.png)
@@ -56,7 +56,7 @@ Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **
 
 ## Step 3 - Markdown and Fork Tutorial
 
-Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and your personal .md page on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (https://YourUserName.github.io and https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
+Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and pull request link on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) (https://YourUserName.github.io and `LinkToYourPullRequest`). Also include Raw.githack link in your pull request(https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
 
 **NOTE**: Raw.githack link above is case sensitive to your username.
 
@@ -90,7 +90,7 @@ Follow the directions under the [Nation Planet tab](vi-nation.md).
 
 Create three more issues, add comments to three other issues, and resolve three issues by making the necessary changes in your repo with three separate pull requests. You should resolve three issues created by yourself, and make sure you mention in the issue you are working on, that you are in fact working on it. **Besides, you should make sure someone from the OLE team confirms to make the change that your issue has brought up before you start working on the issue.** You will follow the same steps as in [GitHub Issues](vi-github-issues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
 
-Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! (please refer to [#1108](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1108)). You must have made your pull requests and have them each approved by at least two other OLE team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
+Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests and have them each approved by at least two other OLE team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the Gitter chat so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 
 **NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
 
@@ -103,7 +103,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 ## Step 9 - Be part of the team
 
-Once you have finished step 8, sync your community with the nation (as you did in step 7).
+Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](vi-nation.md)).
 
 Next thing is to add yourself to the virtual intern list found in [vi-team.md](vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Gitter chat room so that we can set up a meeting and add you to the team as soon as possible.
 

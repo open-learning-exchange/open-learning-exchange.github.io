@@ -12,9 +12,10 @@ In [Step 1 - Planet Installation - Configuration](vi-configurations-vagrant.md),
 
 There should be constant communication between the nation and the communities. While it is not necessary for remote communities in the field, it is ideal for our goals of "improving the software and testing the increasing forms of communication and feedback between the nation and the communities". This communication takes the form of a syncing process from the community side, where you select material to send to the nation.
 
-Make sure vagrant is running and then click [here](http://localhost:3100) to access your Community Planet.
+Make sure vagrant is running and then click [here](http://localhost:3100) to access your Community Planet. 
+It is recommended that you use Firefox since Planet is only guaranteed to run properly on Firefox.
 
-**NOTE**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user on your community. Therefore, create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it a password that you actually use). Then, login to dummy account you just created and double-check that you're listed under Members on Manager page. Then, log out and log back in with your admin account. Now that your community has a user, you can sync with the nation.
+**NOTE**: Before you can sync your community with the nation, you will need to create an additional dummy user on your community. Therefore, create one by clicking on "Become a Member" under the SIGN-IN button. Then fill out the details and press the "Become a Member" button. (Tip: When creating the dummy user, don't put a password that you actually use). Next, log back in to your admin account and double-check that your dummy account is listed under Members on the Manager page. Now that your community has a user, you can sync with the nation. If you can not create dummy user, please click on the helpful links and videos under the Useful Links section at the bottom of the Nation Planet page. Once there, scroll up to Q22 for a solution, which is located under the Technical questions section.
 
 ![Clicking on "Dummy User"](images/vi-become-member.png "Dummy User")
 
@@ -61,7 +62,7 @@ Finally you see report of your community. It will have some graphical and some t
 ## Update your community
 
 On your [local community](http://localhost:3100) login as Administrator. Then go to Manager Page. You should see option to Upgrade.
-If you do not see **Upgrade** button please check **Nation version** and **Local version**. If both of those are same your planet is already upto-date. Incase you see any other messge below Version, then send message on chat channel along with screenshot.
+If you do not see **Upgrade** button please check **Nation version** and **Local version**. If both of those are same your planet is already upto-date. In case you see any other message below Version, then send a message on chat channel along with screenshot.
 
 ![Check version](images/vi-planet-version.png "Communities Check version")
 
@@ -76,7 +77,7 @@ You should see log of upgrade process along with progress bar. Once upgrade is c
 NOTE: If you see error message during upgrade please try again.
 
 You will have to restart your community to reflect upgrade.
-Run following commands on terminal/command prompt to restart your virtual machine. Please make sure you are on the folder path where your planet exist.
+Run following commands on terminal/command prompt to restart your virtual machine. Please make sure you are on the folder path where your planet exists.
 
 ```
 vagrant halt prod
@@ -86,5 +87,9 @@ vagrant up prod
 ## Useful Links
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
+
+## Next Section _(Step 8)_ **→**
+
+In the next section, you will create and resolve more issues with GitHub.
 
 #### Return to [First Steps](vi-first-steps.md#Step_7_-_Nation_Planet)
