@@ -9,11 +9,11 @@ There are two options for installing the software:
 1. Direct download of the software to the tablet. This assumes a relatively fast internet connection. 
 2. Download the software to a USB storage drive and install from the USB drive to the tablet. 
 
-The easiest way to install the needed software to the tablets is via a USB drive. You can download the needed files directly from OLE via the links below.
+The easiest way to install the needed software to the tablets is via a USB drive. You can download the needed files via the links below.
 
-*  [Firefox Web Browser](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKcmJVOS14WkQ5d28 "Firefox Web Browser")
-*  [Adobe Flash](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKc29Xd0JueFN0TzQ "Adobe Flash")
-*  [Office Suite](https://drive.google.com/a/ole.org/file/d/0BwJDzlwGL8kKa2UtTElTSFFTSWc "Office Suite")
+*  [Firefox Web Browser](https://www.mozilla.org/en-US/firefox/new/ "Firefox Web Browser")
+*  [Adobe Flash](https://get.adobe.com/flashplayer/ "Adobe Flash")
+*  [Office Suite](https://www.officesuitenow.com/download/ "Office Suite")
 *  [OLE Take Home App](https://github.com/open-learning-exchange/take-home/releases)
 
 Once all files are downloaded to the USB drive you can eject the drive from the computer and plug it in to the tablet. You will need an OTG USB A female to micro B male adapter. It will look something like this:
