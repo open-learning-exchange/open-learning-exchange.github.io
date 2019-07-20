@@ -105,7 +105,7 @@ vagrant up prod
 ```
 
 You now have a working [community Planet](http://localhost:3100) on your OS.
-It is advisable to use Firefox to access your community Planet. If you don't have Firefox already, you may want to [download](https://www.mozilla.org/en-US/firefox/new/) it.
+It is advisable to use Firefox to access your community Planet. If you don't have Firefox already, you may want to [download](https://www.mozilla.org/en-US/firefox/new/) it. If you are using Firefox and community planet is not working properly, please update your Firefox to the latest version and then try again.
 
 ---
 
