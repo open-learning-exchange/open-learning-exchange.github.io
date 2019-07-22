@@ -95,7 +95,7 @@ First, before creating your file, we need to create a new branch
 Next, we are going to create your page
 
 1. Go to the `pages/vi/profiles` folder
-1. Make sure you are still on the new branch your just created, look for "Branch: **new-branch-name**" on the branch selector menu
+1. Make sure you are still on the new branch you just created, look for "Branch: **new-branch-name**" on the branch selector menu
 1. Click `Create new file` button
 1. Name the file exactly the same as your GitHub username with file extension `.md`
   * It is important that you stick with your GitHub username so we could easily identify you
@@ -159,7 +159,7 @@ After the pull request is merged, you'll be able to see your personal page at `o
 
 [GitHub - Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A GitHub help page on how to format and write, along with working with saved replies.
 
-[GitHub - How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories.
+[GitHub - How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in-depth explanation about how and why we fork repositories.
 
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
