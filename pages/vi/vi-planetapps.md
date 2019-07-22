@@ -57,7 +57,7 @@ As you can see from the image below, there is an upgrade ready to be downloaded.
 
 ![Fetch Items from the nation](images/vi-planet-fetch-items.png "Manager Dashboard in your localhost")
 
-1. Click the `Upgrade` button on Manager page and it take will you to upgrade page. An upgrade refers to a software update which improves the Planet (Note: If you do not see `Upgrade` button then simply carry on). It will then ask you for verification.
+1. Click the `Upgrade` button on Manager page and it will take you to upgrade page. An upgrade refers to a software update which improves the Planet (Note: If you do not see `Upgrade` button then simply carry on). It will then ask you for verification.
 2. After the upgrade is complete, undergo `vagrant halt prod` and `vagrant up prod` to restart planet.
 3. If `Fetch Items` is available on the Manager page, click on it and download the courses offered (3rd picture).
 4. Finally, send an activities sync to the nation using `Manage Sync`.
