@@ -67,7 +67,7 @@ origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (fetch)
 origin  https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git (push)
 ```
 
-3. Specify a new remote upstream repository that will be synced with the fork by using `git remote add upstream <repository>`. Our remote upstream repository will be https://github.com/open-learning-exchange/open-learning-exchange.github.io.git. Dont't forget the `.git` at the end.
+3. Specify a new remote upstream repository that will be synced with the fork by using `git remote add upstream <repository>`. Our remote upstream repository will be https://github.com/open-learning-exchange/open-learning-exchange.github.io.git. Do not forget the `.git` at the end.
 ```
 $ git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
 ```
@@ -141,7 +141,7 @@ index bf400c0..fc7380b 100644
 ```
 **What does `diff --git a/<file name>.md b/<file name>.md` mean?**
 
-**Answer:** Our diff compares two items with each other: item A and item B. In most cases, A and B will be the same file, but in different versions.To make clear what is actually compared, a diff output always starts by declaring which files are represented by "A" and "B".
+**Answer:** Our diff compares two items with each other: item A and item B. In most cases, A and B will be the same file, but in different versions. To make clear what is actually compared, a diff output always starts by declaring which files are represented by "A" and "B".
 
 **What does `--- a/<file name>.md` and `+++ b/<file name>.md` mean?**
 
