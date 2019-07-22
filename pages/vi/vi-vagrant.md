@@ -44,7 +44,7 @@ A lot of Vagrant commands require us to specify a target machine. We can also ru
 ```
 id       name   provider   state   directory
 ---------------------------------------------------------------------------
-219abaa  dev     virtualbox running /Users/aberdean/planet
+219abaa  prod     virtualbox running /Users/aberdean/planet
 
 The above shows information about all known Vagrant environments
 on this machine. This data is cached and may not be completely
@@ -122,7 +122,7 @@ or not commonly used. To see all subcommands, run the command
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
 
-## Next Section **→**
+## Next Section _(Step 2)_ **→**
 
 Docker is a computer program that performs operating-system-level virtualization also known as containerization. In the next section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
 

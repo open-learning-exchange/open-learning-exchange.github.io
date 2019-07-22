@@ -1,4 +1,4 @@
-# Planet Installation
+﻿# Planet Installation
 
 ## Objectives
 
@@ -86,7 +86,12 @@ wget -O vagrant.deb https://yourcopiedlink.com/vagrant.deb
 sudo dpkg -i vagrant.deb
 sudo apt-get install -f
 ```
+If you encounter the error:
+   > dpkg: error processing archive vagrant.deb (--install): package architecture (amd64) does not match system (i386)
+   > Errors were encountered while processing: vagrant.deb
 
+To solve this problem: Copy link location of Debian 32-bit instead and run commands again.
+ 
 ---
 
 ## Install a Community Planet  
@@ -100,7 +105,7 @@ vagrant up prod
 ```
 
 You now have a working [community Planet](http://localhost:3100) on your OS.
-It is advisable to use Firefox to access your community Planet. If you don't have Firefox already, you may want to [download](https://www.mozilla.org/en-US/firefox/new/) it.
+It is advisable to use Firefox to access your community Planet. If you don't have Firefox already, you may want to [download](https://www.mozilla.org/en-US/firefox/new/) it. If you are using Firefox and community planet is not working properly, please update your Firefox to the latest version and then try again.
 
 ---
 
@@ -126,7 +131,7 @@ It is advisable to use Firefox to access your community Planet. If you don't hav
    > The provider 'virtualbox' that was requested to back the machine 'prod' is reporting that it isn't usable on this system. The reason is shown below:
    > VirtualBox is complaining that the installation is incomplete. Please run `VBoxManage --version` to see the error message which should contain instructions on how to fix this error.
 
-   The problem is the requirement that all kernel modules must be signed by a key trusted by the UEFI system, otherwise loading will fail. Ubuntu does not sign the third party vbox* kernel modules, but rather gives the user the option to disable Secure Boot upon installation of the virtualbox package, so disabling the secure boot on BIOS would solve this problem.
+   The problem is the requirement that all kernel modules must be signed by a key trusted by the UEFI system, otherwise loading will fail. Ubuntu does not sign the third party vbox* kernel modules, but rather gives the user the option to disable Secure Boot upon installation of the virtualbox package, so disabling the secure boot on BIOS would solve this problem. If you do not want to disable Secure Boot in some reasons, you can look at [this page](https://era86.github.io/2018/01/24/vagrant-virtualbox-secureboot-in-ubuntu-1604.html) to make and assign the trusted key(MOK). 
 
 5. If you see "no_db_found" when trying to access <http://localhost:3100>:
 At this early stage, the simple solution would be using `vagrant destroy prod` to delete the current machine, then use `vagrant up prod` to rebuild it.
@@ -135,7 +140,7 @@ At this early stage, the simple solution would be using `vagrant destroy prod` t
 
 7. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
 
-## Next Section **→**
+## Next Section (Step 1.2) **→**
 
 Now  you have installed your community Planet, head over to [Planet Configurations](#!./pages/vi/vi-configurations-vagrant.md) to register your community with the nation.
 

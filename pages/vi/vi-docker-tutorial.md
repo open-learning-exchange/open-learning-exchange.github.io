@@ -54,34 +54,41 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
 
 1. Go to your OLE project folder, and use `cd planet` to enter into the `planet` directory. This is the repository you cloned in the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md)
 
-1. Use `vagrant ssh prod` to connect to your virtual machine
+2. Use `vagrant ssh prod` to connect to your virtual machine
 
-1. Then enter into the docker folder with `cd /vagrant/docker`.
+3. Then enter into the docker folder with `cd /vagrant/docker`.
 
-1. Pull the latest `planet` and its db-init Docker image
+4. Pull the latest `planet` and its db-init Docker image
 
   - `docker pull treehouses/planet:latest`
   - `docker pull treehouses/planet:db-init`
 
   - `docker tag treehouses/planet:latest treehouses/planet:local`
   - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local`
+  
+5. Run the *following command* to spawn your environment for the **first time**:
 
-1. Run the following command to spawn your environment for the **first time**: `docker-compose -f planet.yml -p planet up -d --build`
+    ```
+    ATTENTION: if you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d --build`.
+    It might destroy your configuration.
+    `vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d --build` automatically.
+    ```
+    If this is your **first** time spawning the environment, run:
+   
+  `docker-compose -f planet.yml -p planet up -d --build`
 
-1. See if the docker containers are running: `docker ps`. You'll see your running container similar to this
 
-  ```
-  CONTAINER ID        IMAGE                       COMMAND                  CREATED             STATUS                      PORTS                                        NAMES
-  6ad5d3f2ba2b        treehouses/planet:latest    "/bin/sh -c 'sh ./do…"   38 seconds ago      Up 46 seconds               0.0.0.0:80->80/tcp                           planet_planet_1
-  e78eb9287454        treehouses/planet:db-init   "/bin/sh -c 'bash ./…"   38 seconds ago      Exited (0) 34 seconds ago                                                planet_db-init_1
-  3c2309e92dc6        treehouses/couchdb:2.1.1    "tini -- /docker-ent…"   39 seconds ago      Up 48 seconds               4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp   planet_couchdb_1
-  ```
+1. See if the docker containers are running: `docker ps -a`. You'll see your running container similar to this
+
+    ```
+    CONTAINER ID        IMAGE                       COMMAND                  CREATED             STATUS                      PORTS                                        NAMES
+    6ad5d3f2ba2b        treehouses/planet:latest    "/bin/sh -c 'sh ./do…"   38 seconds ago      Up 46 seconds               0.0.0.0:80->80/tcp                           planet_planet_1
+    e78eb9287454        treehouses/planet:db-init   "/bin/sh -c 'bash ./…"   38 seconds ago      Exited (0) 34 seconds ago                                                planet_db-init_1
+    3c2309e92dc6        treehouses/couchdb:2.1.1    "tini -- /docker-ent…"   39 seconds ago      Up 48 seconds               4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp   planet_couchdb_1
+    ```
 
 1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
 
-ATTENTION: if you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d --build`. 
-It might destroy your configuration. 
-`vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d --build` automatically. 
 
 ## More about Docker and Docker Compose
 
@@ -267,7 +274,7 @@ Commands:
 [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
 [Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
 
-## Next Section **→**
+## Next Section _(Step 3)_ **→**
 
 Markdown is a lightweight markup language with plain text formatting syntax. In the next section, you will learn Markdown to create a profile page, and learn how to create a pull request.
 

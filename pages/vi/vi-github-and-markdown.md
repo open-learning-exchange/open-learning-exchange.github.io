@@ -17,19 +17,24 @@
 ### Markdown
 
 ![Markdown Preview](images/vi-markdown-ref.png)
-Example of Markdown syntax on the left side and the way it is rendered on the right side (click on image to expand):
+Example of Markdown syntax on the left side and the way it is rendered to HTML on the right side (click on image to expand):
 
 ![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
 A Markdown cheat sheet that might help you create your own Markdown page later:
 
 [GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
 
+[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples
+
 [Markdown Tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) - An interactive tutorial to learn Markdown.
+
+[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - Another awesome interactive tutorial to experiment and learn more Markdown syntax.
 
 **NOTE**:
 • **If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.** For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links).
 • Markdown != HTML
 • If you like to use emoji in your profile, copy the actual emoji directly instead of git markdown markup code or HTML unicode (Use '🐱' instead of ':emojicode:'). You can use this [link](https://emojipedia.org/) to copy emoji.
+• Notice that the task lists feature is **not supported** by MDwiki, although it is supported by Github. Your task lists may look good on Github preview but will not on MDwiki.
 
 ## Start Here
 
@@ -90,7 +95,7 @@ First, before creating your file, we need to create a new branch
 Next, we are going to create your page
 
 1. Go to the `pages/vi/profiles` folder
-1. Make sure you are still on the new branch your just created, look for "Branch: **new-branch-name**" on the branch selector menu
+1. Make sure you are still on the new branch you just created, look for "Branch: **new-branch-name**" on the branch selector menu
 1. Click `Create new file` button
 1. Name the file exactly the same as your GitHub username with file extension `.md`
   * It is important that you stick with your GitHub username so we could easily identify you
@@ -103,6 +108,10 @@ Then, in the new Markdown file, include the following information:
 * a short description of yourself (so your fellow virtual interns know who you are)
 
 You may use the "Preview" tab to have a primitive look of what your Markdown will look like. Please use at least 5 different types of Markdown elements so you can get an idea of how it works. Avoid using HTML as the purpose of Markdown is to make pages easy to write and read. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) (links), [Profile 2](profiles/ketruong.md) (picture), [Profile 3](profiles/paulbert.md) (lists)
+
+When you are finished, press 'commit changes' below.
+
+![commitchanges](images/vi-commitchanges.jpg)
 
 If you need to edit your file again, click the pencil icon to edit (as shown below).
 
@@ -145,17 +154,16 @@ After the pull request is merged, you'll be able to see your personal page at `o
 ## Useful Links
 
 [GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
+
 [MDWiki – Quick Start](http://dynalon.github.io/mdwiki/#!quickstart.md) - The official MDwiki quick start guide on Markdown syntax.
-[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples
-[Markdown Tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) - An interactive tutorial to learn Markdown.
-[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - Another awesome interactive tutorial to experiment and learn more Markdown syntax.
 
 [GitHub - Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A GitHub help page on how to format and write, along with working with saved replies.
-[GitHub - How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in depth explanation about how and why we fork repositories.
+
+[GitHub - How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in-depth explanation about how and why we fork repositories.
 
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section **→**
+## Next Section _(Step 4)_ **→**
 
 In the next step, you will learn more about your community Planet, and the Planet interface.
 

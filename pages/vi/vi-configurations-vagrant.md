@@ -39,6 +39,10 @@ You will be shown the page below. Make sure you remember the credentials.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
+WARNING: Before you finish the registration, do not close your browser.
+You cannot go to the above registration form again.
+If you are in this situation, look at the ** [Second element of Troubleshooting in this page](#Troubleshooting)** 
+
 Next, fill out the configurations. Your name must be the same and should match your Github name so we can easily locate your community in Virtual Intern Nation. Pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) after submitting your registration request.**
 
 ![Configurations](images/vi-configuration.png)
@@ -49,7 +53,7 @@ Next, you will see a form that requires the contact details of the administrator
 
 ![Contact Details](images/vi-contact-details.png)
 
-Then, click on the **"Submit"** button. Your registration request for your community will be send to nation side for approval. You will see the following message.
+Then, click on the **"Submit"** button. Your registration request for your community will be sent to the nation side for approval. You will see the following message.
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
 
@@ -61,7 +65,16 @@ Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) t
 
 1. When trying to access http://localhost:3100 you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant halt prod``` ```vagrant destroy prod``` to delete the current machine, then try ```vagrant up prod``` to rebuild it.
 
-2. If you accidentally delete your Planet admin account, creating a new learner account on the login page will cause problems in later steps. The best way to solve this problem is to start over and create a new community using `vagrant destroy prod` and then `vagrant up prod` in `planet` folder.
+2. If you accidentally delete your Planet admin account, creating a new learner account on the login page will cause problems in later steps. The best way to solve this problem is to start over and create a new community. 
+Run
+```
+vagrant halt prod
+vagrant destroy -f prod
+rm -rf .vagrant
+git pull
+vagrant up prod
+```
+in your planet folder. This destroys and removes your community, pulls the latest code, and starts a community from scratch.
 
 3. In the case that you use the command `vagrant destroy prod`, your community Planet would be wiped together with the virtual machine, but  community registration would still exist on the nation side. After rebuilding your community Planet using `vagrant up prod`, fill out the configurations again with a slightly different Name (e.g. adding a number or letter to the end of your original GitHub username) so that we can still locate your community on the Nation side. Also, remember to take a screenshot of the new configuration page and post it to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
@@ -73,7 +86,9 @@ Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) t
 
 In order to fix this problem, simply follow the procedures stated above in bullet 3: use `vagrant destroy prod`, then `vagrant up prod`. Afterwards, use a slightly different name for your configuration, take a screenshot of the new configuration page, and post it to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
 
-## Next Section **→**
+5. When you are trying to access http://localhost:3100 the page may not load at all, even if your account was configured correctly and fully approved. A first step would be to run `vagrant halt prod`. Then, you should proceed to clear the cookies from your browser. This step will be different for each browser. Finally, you should run `vagrant up prod` to restart the VM before you reopen the browser to access the Planet again. **If this does not work, follow the previous steps above to rebuild your planet account.**
+
+## Next Section (Step 1.3) **→**
 
 Now you have configured your community Planet, head over to [Vagrant Tutorial](vi-vagrant.md) to learn about how to interact with Vagrant through the command-line interface. You should be familiar with this since you will need to use it to control virtual machines during your internship.
 
