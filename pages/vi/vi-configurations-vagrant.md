@@ -39,7 +39,7 @@ You will be shown the page below. Make sure you remember the credentials.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
-WARNING:Before you finish the registration, do not close your browser.
+WARNING: Before you finish the registration, do not close your browser.
 You cannot go to the above registration form again.
 If you are in this situation, look at the ** [Second element of Troubleshooting in this page](#Troubleshooting)** 
 
@@ -53,7 +53,7 @@ Next, you will see a form that requires the contact details of the administrator
 
 ![Contact Details](images/vi-contact-details.png)
 
-Then, click on the **"Submit"** button. Your registration request for your community will be send to nation side for approval. You will see the following message.
+Then, click on the **"Submit"** button. Your registration request for your community will be sent to the nation side for approval. You will see the following message.
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
 
