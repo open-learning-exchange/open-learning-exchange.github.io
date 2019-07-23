@@ -317,7 +317,7 @@ Fill out the following form:
   
 ![Save Quiz](images/tg-course-create-quiz.png)
  
-1. You can create as many or as few questions as you want for each Quiz. However, you must give 5 choices (Options A, B, C, D, and E) for each question. You can make True or False questions by making Option A = True, Option B = False, and inserting a “-” to fill the other answer choices. Select *“Add Question”* in order to add the question to your Quiz. 
+1. You can create as many or as few questions as you want for each Quiz. However, you must give 5 choices (Options A, B, C, D,/ and E) for each question. You can make True or False questions by making Option A = True, Option B = False, and inserting a “-” to fill the other answer choices. Select *“Add Question”* in order to add the question to your Quiz. 
 **NOTE:** If you do not select *“Add Question,”* the Quiz question will not be automatically added. 
  
 2. Once your Quiz is complete, click *“Save Quiz.”*
