@@ -20,4 +20,6 @@ Hi all, my name is Jonathan Hrang. I am a senior student at Florida State Univer
 * __LinkedIn:__ [Jonathan Hrang](https://www.linkedin.com/in/jonathanhrang/)
 * __GitHub:__ [aasenomad](https://github.com/aasenomad)
 
+> follow me and I'll follow you back.
+
 ###### Created on 07/22/2019
