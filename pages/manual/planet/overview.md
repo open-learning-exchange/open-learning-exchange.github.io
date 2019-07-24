@@ -73,7 +73,7 @@ Here you will be able to create teams to communicate with them, offer courses, a
 ## Surveys
 
 ## Meetups
-Meetups is where you can coordinate meetups by creating them, joining them and more! Click [here](meetups.md) to learn more about Meetups.
+Meetups is where you can coordinate meetups by creating them, joining them and more! Click [here](meetup.md) to learn more about Meetups.
 
 ## News
 News is where you can view any posts made by any users. Click [here](news.md) to learn more about News.
