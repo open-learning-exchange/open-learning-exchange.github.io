@@ -132,6 +132,8 @@ Additionally, creating a checklist will help others understand what you have don
 
 Some of these items are of course optional, but try to include as much useful information for others as possible in your checklists because nobody really wants to work on something that has already been completed by someone else.
 
+NOTE: While you are waiting on two OLE team members to approve your Pull Requests, it is OK to keep creating more Issues and Pull Requests in the meantime. They will all count towards your final Issue/PR total, and PR approval can take time, so do not let a lengthy approval/fix process keep you from moving on in your "First Steps".
+
 ## Delete the Branch
 
 *  **Wait for the pull request merge!**
