@@ -126,7 +126,7 @@ A Planet Resource is material that has been uploaded into the digital library.  
 
 ## What is a Collection?
 
-A collection is a group of Resources based on topic/subject and intended use. Planet currently follows a the Library of Congress categorization system. Collections exist as the main category. Sub-collections allow Nation Managers to group Resources more specifically within a collection. Collections are alphabetized by topic.
+A collection is a group of Resources based on topic/subject and intended use. Planet currently follows the Library of Congress categorization system. Collections exist as the main category. Sub-collections allow Nation Managers to group Resources more specifically within a collection. Collections are alphabetized by topic.
 
 # How do I navigate and use the Library?
 
@@ -437,7 +437,7 @@ Feedback allows Learners to provide feedback on the currently open page. Feedbac
 
 ### _How do I provide Feedback?_
 
-Learners can give feedback for any page or Resource at any time by click on “Feedback” and filling out the information in the form shown below. When finished, click “Submit” to send feedback to OLE.
+Learners can give feedback for any page or Resource at any time by clicking on “Feedback” and filling out the information in the form shown below. When finished, click “Submit” to send feedback to OLE.
 
 ![Resource Feedback](images/tg-resource-feedback.png)
 

@@ -39,7 +39,7 @@ You will be shown the page below. Make sure you remember the credentials.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
-WARNING:Before you finish the registration, do not close your browser.
+WARNING: Before you finish the registration, do not close your browser.
 You cannot go to the above registration form again.
 If you are in this situation, look at the ** [Second element of Troubleshooting in this page](#Troubleshooting)** 
 
@@ -53,7 +53,7 @@ Next, you will see a form that requires the contact details of the administrator
 
 ![Contact Details](images/vi-contact-details.png)
 
-Then, click on the **"Submit"** button. Your registration request for your community will be send to nation side for approval. You will see the following message.
+Then, click on the **"Submit"** button. Your registration request for your community will be sent to the nation side for approval. You will see the following message.
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
 
@@ -88,7 +88,7 @@ In order to fix this problem, simply follow the procedures stated above in bulle
 
 5. When you are trying to access http://localhost:3100 the page may not load at all, even if your account was configured correctly and fully approved. A first step would be to run `vagrant halt prod`. Then, you should proceed to clear the cookies from your browser. This step will be different for each browser. Finally, you should run `vagrant up prod` to restart the VM before you reopen the browser to access the Planet again. **If this does not work, follow the previous steps above to rebuild your planet account.**
 
-## Next Section **→**
+## Next Section (Step 1.3) **→**
 
 Now you have configured your community Planet, head over to [Vagrant Tutorial](vi-vagrant.md) to learn about how to interact with Vagrant through the command-line interface. You should be familiar with this since you will need to use it to control virtual machines during your internship.
 
