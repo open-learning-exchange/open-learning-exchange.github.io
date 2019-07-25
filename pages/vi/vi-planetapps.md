@@ -22,7 +22,7 @@ Watch the videos below to learn the basic functions of your Planet. These videos
 [Feedback](movies/vi-feedback.mp4)
 [Generating Activity Reports](movies/vi-generatingactivityreports.mp4)
 
-We suggest you to play around a bit, try to explore and feel comfortable with Planet.
+We suggest you play around a bit, try to explore and feel comfortable with Planet.
 
 ## Upload Resources
 
@@ -57,7 +57,7 @@ As you can see from the image below, there is an upgrade ready to be downloaded.
 
 ![Fetch Items from the nation](images/vi-planet-fetch-items.png "Manager Dashboard in your localhost")
 
-1. Click the `Upgrade` button on Manager page and it take you to upgrade page. An upgrade refers to a software update which improves the Planet (Note: If you do not see `Upgrade` button then simply carry on). It will then ask you for verification.
+1. Click the `Upgrade` button on Manager page and it will take you to upgrade page. An upgrade refers to a software update which improves the Planet (Note: If you do not see `Upgrade` button then simply carry on). It will then ask you for verification.
 2. After the upgrade is complete, undergo `vagrant halt prod` and `vagrant up prod` to restart planet.
 3. If `Fetch Items` is available on the Manager page, click on it and download the courses offered (3rd picture).
 4. Finally, send an activities sync to the nation using `Manage Sync`.
@@ -91,7 +91,7 @@ Take the course, and the last question will ask you to specify any problems or i
 ![Take the Course](images/vi-take-the-course.png)
 ![Course Overview](images/vi-course-view.png)
 
-If the course "Virtual Interns" is not there, check `Manage Sync` of manager settings page to see if your synchronization are completed. Otherwise please message us and "@" an admin in the Gitter chat so we can send you the course manually.
+If the course "Virtual Interns" is not there, check `Manage Sync` of manager settings page to see if your synchronization has been completed. Otherwise please message us and "@" an admin in the Gitter chat so we can send you the course manually.
 
 ## Useful Links
 
