@@ -16,11 +16,11 @@ Topics:
 ## Getting to the Courses Page
 There are two ways to get to the Courses page:
 
-1. From the Navigation Bar, click on the "Courses" Tab at the top.
+1. [Option 1] From the Navigation Bar, click on the "Courses" Tab at the top.
 
 ![Getting to courses with Navigation Bar](images/get-courses-navbar.png)
 
-2. From the dashboard tile, click on the "myCourses" tile right on the front page.
+1. [Option 2] From the dashboard tile, click on the "myCourses" tile right on the front page.
 
 ![Getting to courses with dashboard](images/get-courses-tile.png)
 
