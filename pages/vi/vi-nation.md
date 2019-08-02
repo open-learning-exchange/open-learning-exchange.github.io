@@ -15,7 +15,7 @@ There should be constant communication between the nation and the communities. W
 Make sure vagrant is running and then click [here](http://localhost:3100) to access your Community Planet. 
 It is recommended that you use Firefox since Planet is only guaranteed to run properly on Firefox.
 
-**NOTE**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user on your community. Therefore, to create a dummy user:
+**NOTES**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user on your community. Therefore, to create a dummy user:
 1. Create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it   a password that you actually use). 
 2. Then,log in to the dummy account you just created and double-check that you're listed under Members on the Manager Settings page. 
 3. Then, log out and log back in with your admin account. Now that your community has a user, you can sync with the nation.
