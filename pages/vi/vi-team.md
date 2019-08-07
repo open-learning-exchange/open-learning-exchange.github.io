@@ -30,7 +30,7 @@
 |[jeevast](profiles/jeevast.md)|2019-05-31|
 |[Kid243](profiles/Kid243.md)|2019-06-03|
 |[sjson421](profiles/sjson421.md)|2019-06-03|
-|[hemu-codes](profiles/hemu-codes.md)|2019-07-18|
+|[hemu-codes](profiles/hemu-codes.md)|2019-08-07|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
