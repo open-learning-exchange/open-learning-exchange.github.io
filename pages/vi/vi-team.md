@@ -41,6 +41,6 @@
 |[Irisb1701](profiles/irisb1701.md)|2019-07-03|
 |[Lillyxxx](profiles/lillyxxx.md)|2019-07-17|
 |[biswasshrestha](profiles/biswasshrestha.md)|2019-07-22|
-
+|[wkhalid](profiles/wkhalid2119.md)|2019-08-10|
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
