@@ -1,5 +1,7 @@
 # Lihe Wang
 
+![Dallas Skyline](https://www.dallaschamber.org/wp-content/uploads/2018/11/WhyDallas_Color.png)
+
 Location | Timezone | OS
 :--- | :--- | :---
 Dallas, TX | CST | MacOS Mojave 10.14.3|
