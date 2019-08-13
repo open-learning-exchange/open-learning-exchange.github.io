@@ -70,6 +70,8 @@ The Courses page is where you can create and join a variety of different courses
 ## Teams
 Here you will be able to create teams to communicate with them, offer courses, and organize members. Click [here](teams.md) to learn more about Teams
 
+## Exams
+
 ## Surveys
 
 ## Meetups
