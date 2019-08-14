@@ -43,6 +43,5 @@
 |[biswasshrestha](profiles/biswasshrestha.md)|2019-07-22|
 |[aasenomad](profiles/aasenomad.md)|2019-08-14|
 
-
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
