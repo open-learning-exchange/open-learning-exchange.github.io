@@ -13,8 +13,7 @@ an ever-exiting learning journey.
 
 Simply because:
 
-![Alt Text](https://www.memesmonkey.com/images/memesmonkey/d0/d09efe6dd72fd18df5a5b876eb42d85f.jpeg)
-
+![Alt Text](http://img.ifcdn.com/images/980b96d3687fa59a1ba13627246ab68624f6f88fab4c2685d413dd7d599fb445_1.jpg)
 
 # Proficient with
 `Java, C#, C, Python, Swift, Javascript`
