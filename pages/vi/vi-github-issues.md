@@ -26,7 +26,7 @@ First, you will need to open an issue within the right repository ([upstream rep
 
 **IMPORTANT:** Issues are _not required_ to be approved _before_ a Pull Request is submitted for the respective fix; however, we do suggest that you wait until someone from the OLE confirms/approves the change that your issue addresses BEFORE you begin work on the fix. Check out this example issue, per Dogi, that shows the importance of confirmation: [#1465](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1465).  
 
-**BE WARNED!** If the OLE member(s) does not approve your issue, prior to the creation of the Pull Request, your efforts may be in vain. If the OLE member(s) does not approve the change, the Pull Request will not be merged and the Issue will not be counted towards your "First Steps" progress. Therefore, it is suggested that you wait for the OLE member(s) to approve your Issue submission.
+**BE WARNED!** If the OLE member(s) does not approve your issue, prior to the creation of the Pull Request, your efforts may be in vain. If the OLE member(s) does not approve the change, the Pull Request will not be merged and the issue will not be counted towards your "First Steps" progress. Therefore, it is suggested that you wait for the OLE member(s) to approve your issue submission.
 
 **Already available issues:** You can also help on issues which have already been created. Issues which are tagged as `first step intern` can be taken and worked on. Please make sure when you start working on these issues that you assign yourself to said issue or ask to be assigned. If someone else is already assigned to an issue, do not try to work on that issue.
 
@@ -34,8 +34,8 @@ _**SPECIAL NOTE:**_ Aspiring Virtual Interns have a tendency to speed through th
 
 ## Create a New Branch
 
-**Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other.** 
-Before you create your branch, sync your repo using next commands: 
+**Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other.**
+Before you create your branch, sync your repo using next commands:
 `git fetch upstream`  
 `git checkout master`
 `git merge upstream/master`
