@@ -41,7 +41,7 @@ There is no official deadline to complete these steps, but most candidates who a
 
 There are 3 sections in this step:
 
-1. [Planet Installation with vagrant](#!./pages/vi/vi-planet-installation-vagrant.md)
+1. [Planet Installation with Vagrant](#!./pages/vi/vi-planet-installation-vagrant.md)
   The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this section, you will learn about how to set up your own Community Planet using vagrant.
 
 1. [Planet Configurations](vi-configurations-vagrant.md)
