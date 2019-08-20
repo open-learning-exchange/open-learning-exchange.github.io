@@ -25,6 +25,7 @@ A very large part of these steps is finding problems with these steps and this M
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 
 ## Step 0 - Introductory Steps
+There are 3 sub-steps in this step:
 
 1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
 
@@ -39,20 +40,20 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 1 - Planet and Vagrant
 
-There are 3 sections in this step:
+There are 3 sub-steps in this step:
 
 1. [Planet Installation with vagrant](#!./pages/vi/vi-planet-installation-vagrant.md)
-  The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this section, you will learn about how to set up your own Community Planet using vagrant.
+  The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this step, you will learn about how to set up your own Community Planet using vagrant.
 
-1. [Planet Configurations](vi-configurations-vagrant.md)
-  In this section, you will learn about how to configure your Community Planet.
+2. [Planet Configurations](vi-configurations-vagrant.md)
+  In this step, you will learn about how to configure your Community Planet.
 
-1. [Vagrant Tutorial](vi-vagrant.md)
-  **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this section, you will learn about how to interact with Vagrant through the command-line interface.
+3. [Vagrant Tutorial](vi-vagrant.md)
+  **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this step, you will learn about how to interact with Vagrant through the command-line interface.
 
 ## Step 2 - Planet and Docker
 
-Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
+Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this step, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
 
 ## Step 3 - Markdown and Fork Tutorial
 
