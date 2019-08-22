@@ -2,7 +2,7 @@
 
 # OLE
 
-The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world. 
+The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world.
 
 
 OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
@@ -45,7 +45,7 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 1. To create an account use a web browser to navigate to your Nation or Community and click on “_Become a Member_” to get started.
 
-![Planet Login Screen](images/tg-planet-navigate-member-login.png)
+![Planet Login Screen](images/tg-planet-navigate-member-login-updated-picture.png)
 
 2. Fill out the resulting form and completing the form, click “_Register_.” You are now a member!
 
@@ -63,7 +63,7 @@ In the Planet system, there are three different kinds of users: **Learners**, **
 
 **Managers** have access to Learner, Leader, and additional functionality that allow them to manage local Resources, publications, collections, surveys, data sync schedules, and local software updates.
 
-If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities. In order to see the available manager functionality, click on “_Manager_” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections. 
+If you are currently using this manual, then you are most likely a manager who is organizing and overseeing a Community or a Nation and its Communities. In order to see the available manager functionality, click on “_Manager_” next to your name on the Dashboard (see below, _How do I navigate the Dashboard_). Managers can also add, hide, delete, and view the details of Resources as well they can create, edit, re-categorize, and delete collections.
 
 ### _How do I navigate the Dashboard?_
 
@@ -75,13 +75,13 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 2. **e-Readers** functionality is under construction.
 
-3. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
+3. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically.
 
 4. **Courses** gives Learners the option to view each Course and to request admission.
 
 5. **Meetups** allows setup for basic meetings. Meetups are sent to the calendars of other Planet Learners.
 
-6. **Members** provides a list of all Learners in this Planet system. 
+6. **Members** provides a list of all Learners in this Planet system.
 
 7. **Reports** allows Nation Managers to distribute Nation Reports as needed.
 
@@ -144,42 +144,42 @@ A collection is a group of Resources based on topic/subject and intended use. Pl
 
           a. A Tale of Two Cities
           b. A Tale of Two Cities (Spanish)
-          
+
 2. Type the name of Author(s)/Editor. Authors should be listed as follows: “FIRST NAME, LAST NAME.” Illustrators, editors, translators, etc., should be identified in this section with their title in parentheses.
 
           a. John Doe
           b. Jane Doe (Translator)
-          
+
 
 3. **_Publisher/Attribution_** is mandatory for copyright purposes.  Please do not leave this field blank.  Type the name of the organization or publisher (and any websites associated with the Resource, if applicable).  Attribution allows OLE to use the source under Creative Commons or copyright and protects us from violating copyright laws.
 
-4. If available, type the **_Year_** in which the Resource was published. 
+4. If available, type the **_Year_** in which the Resource was published.
 
 5. **_Link to License_** is also mandatory for copyright purposes. Locate the copyright information for the Resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the Link to License field. Type “Public Domain” if the Resource is in the public domain.
 
 6. In the **_Language field_**, choose the language of the Resource. If the Resource is a multilingual document, choose the language that you think is the primary or most applicable language.
 
-7. Choose one **_Subject_** from the drop down list that your Resource fits into. Subjects are broad and general so you may not find an exact match. 
+7. Choose one **_Subject_** from the drop down list that your Resource fits into. Subjects are broad and general so you may not find an exact match.
 
-8. Select at least one **_Level_** from the drop down list to assign to your Resource. Levels refer to the reading level required to be able to understand this Resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the Resource. 
+8. Select at least one **_Level_** from the drop down list to assign to your Resource. Levels refer to the reading level required to be able to understand this Resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the Resource.
 
-9. You may choose a **_Collection_** in which to place your Resource. Collections are more narrow than subjects in their scope. In many cases, you may find a Collection name that already exists and best fits your Resource. Use the search bar at the top of the drop down list to search for relevant Collections. If the Resource fits into more than one Collection, choose more than one. The “Add New” button next to Collection should be used only if a relevant existing Collection cannot be found. In most cases, Learners will not need to add new Collections. 
+9. You may choose a **_Collection_** in which to place your Resource. Collections are more narrow than subjects in their scope. In many cases, you may find a Collection name that already exists and best fits your Resource. Use the search bar at the top of the drop down list to search for relevant Collections. If the Resource fits into more than one Collection, choose more than one. The “Add New” button next to Collection should be used only if a relevant existing Collection cannot be found. In most cases, Learners will not need to add new Collections.
 
 10. Choose the **_Media_** for your Resource: Text, Graphic/Pictures, Audio/Music/Book, or Video. If you are unsure, leave this tab on the default Text.
 
-11. The **_Open_** field relates to the medium of the Resource. Select the corresponding medium in this field. 
-          
+11. The **_Open_** field relates to the medium of the Resource. Select the corresponding medium in this field.
+
           a. A Resource with a .PDF extension has PDF format.
           b. A .mp3 is Audio (MP3) format.
           c. A .mp4 or .flv is Video (MP4, FLV) format. NOTE: If the video does not play when MP4 is selected then try changing this field to FLV and playing the video.
-          
+
 12. In the **_Resource For_** field choose Learner or Leader. If appropriate for both, choose Learner.
 
-13. Choose **_Resource Type_** to select which kind of Resource you are uploading: Textbook, Lesson Plan, Activities, Exercises, or Discussion Questions. If your Resource does not seem to fit any of these categories, leave this tab on the default Textbook setting. 
+13. Choose **_Resource Type_** to select which kind of Resource you are uploading: Textbook, Lesson Plan, Activities, Exercises, or Discussion Questions. If your Resource does not seem to fit any of these categories, leave this tab on the default Textbook setting.
 
-14. With **_Open URL_**, you have the option of using a URL to open the Resource if applicable. For most Resources, this can be left blank. 
+14. With **_Open URL_**, you have the option of using a URL to open the Resource if applicable. For most Resources, this can be left blank.
 
-15. Use **_Upload Resources_** and the **_Browse_** button to locate your Resource and upload it. Select the **_Browse_** button and locate your file. When you have found it, select Open. Double check all the fields to ensure they are correct and then select Save. 
+15. Use **_Upload Resources_** and the **_Browse_** button to locate your Resource and upload it. Select the **_Browse_** button and locate your file. When you have found it, select Open. Double check all the fields to ensure they are correct and then select Save.
 
 You will be taken to a loading screen while your Resource is uploaded into the Library. When the upload is complete, you will receive a confirmation for a successful upload.
 
@@ -187,7 +187,7 @@ Note: Once you have finished uploading your Resource, **locate the Resource in t
 
 We have various types of Resources that either form a Collection or belong to common groups of Resources. These include the African Storybooks, Comic Books, CK-12 Textbooks, TED-Ed videos, Khan Academy Videos, etc. If you are uploading one of these Resources, please read the specific guides we have created and follow the instructions. This maintains uniformity in Resource details and makes searches easier for Learners.
 
-You may need to use a format converter to put your Resource in the correct format before uploading. There are numerous free online converters which you may use. 
+You may need to use a format converter to put your Resource in the correct format before uploading. There are numerous free online converters which you may use.
 
 Note: Until all Nations can communicate with each other and Resources can easily be shared between Nations, Resources that are appropriate for uploading to more than one Nation (i.e. Somaliabell, and Kenyabell) must be uploaded into each Nation using the same cataloging information each time. This can be a time consuming process, but it is currently the only way we can ensure that Resources are available in each Nation.
 
@@ -204,14 +204,14 @@ The following file naming conventions should be used for any new file to upload 
 
 ## Are there Resources that have specific rules for uploading?
 
-Yes. These Resources are covered in an additional manual titled, XXXXX. Please read that manual to address specific questions on uploading in other languages, in additional formats, or in existing Collections with special permission. 
+Yes. These Resources are covered in an additional manual titled, XXXXX. Please read that manual to address specific questions on uploading in other languages, in additional formats, or in existing Collections with special permission.
 
 ## How do I create and use Collections?
 
-Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library. **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of Planet. Collections can only be created or changed by Managers. 
+Collections can be used by Nation Managers to categorize materials by topic for their Learners. Collections are helpful tools for Learners who wish to easily find and sort Resources in the Library. **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a Collection are unique to that specific instance of Planet. Collections can only be created or changed by Managers.
 
 1. Log in to the Manager account.
-2. Click “Library” on the top navigation bar and then “Collections”. 
+2. Click “Library” on the top navigation bar and then “Collections”.
 
 ![Collections](images/tg-collection.png)
 
@@ -225,7 +225,7 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 5. When the form is complete, click “Save” to create the new Collection.
 
-6. To edit a Collection, go back to the main Collection page and click on the button next to the Collection you want to edit. 
+6. To edit a Collection, go back to the main Collection page and click on the button next to the Collection you want to edit.
 
 ![Edit Collection](images/tg-collection-main.png)
 
@@ -244,14 +244,14 @@ To create a Course, log in and start from the Home page.
 
 ![Add Course](images/tg-course-add.png)
 
-Fill out the following form: 
+Fill out the following form:
 
 ![](images/tg-course-add-details.png)
 
 1. **Course Title.** The name or title of the Course.
 
 2. **Language of Instruction.** The language of Course materials. Please use the name of the language in that language. For example, العربية .
- 
+
 3. **Member Limit.** The number of Learners that are allowed to enter the Course.
 
 4. **Course Leader.** Choose a single Leader or multiple Leaders to manage the Course
@@ -262,7 +262,7 @@ Fill out the following form:
 
 7. **Grade Level.** Suggested grade level of the Learners
 
-8. **Subject Level.** Subject level - beginner, intermediate, or advanced. 
+8. **Subject Level.** Subject level - beginner, intermediate, or advanced.
 
 9. **Start Date.** Start date of the Course (only if applicable)
 
@@ -276,11 +276,11 @@ Fill out the following form:
 
 14.	**Location.** Physical location of Course (only if applicable)
 
-15.	**Foreground/Background Color.** Colors shown to Learners on their Dashboard when they join the Course 
+15.	**Foreground/Background Color.** Colors shown to Learners on their Dashboard when they join the Course
 
 - Scroll down to the bottom of the screen and select *“Add Step”* to create the first lesson of the Course.
-  
-![Add Course Step](images/tg-course-add-step.png) 
+
+![Add Course Step](images/tg-course-add-step.png)
 
 ![Add/Save Course Step Details](images/tg-couirse-add-step-save.png)
 
@@ -297,62 +297,62 @@ Fill out the following form:
 6. **Passing Percentage.** Select the percentage required on the Paper or Quiz to pass the Step
 
 - By selecting *“View Details”* of a specific Course, you can then see the screen below and modify the Course. Select *“Add Resource”* to search through the Library for Resources to include in the Step. You can also create a Quiz from this section by selecting *“Create Quiz."*
-  
+
 ![Create Quiz](images/tg-course-create-quiz-details.png)
 
 - In order to add a Resource, click the *“Add Resource”* button. The Resources must exist within Planet before they can be included in a Course.  
-  
+
 - Follow the instructions below to add Resources to your Course.
-  
+
 1. Perform a keyword search to search for specific Resources. To refine/broaden your search, filter by subject, Collections, level, medium, or rating.
 
 2. Check individual or all Resources that come up in the search results.
 
-3. Click *“Add to Level”* to add the Resource to the Step. 
+3. Click *“Add to Level”* to add the Resource to the Step.
 **NOTE:** If you go to the next page without adding each Resource, your selections will be erased, so you should add the currently selected Resources before moving on to the next page.
 
 4. In the Step Management panel, click *“View”* to make sure that your Resource is opening properly. To delete a Resource from the Step, click *“Remove.”*.
 
 - To create a Quiz, click *“View Details.”* Click *“Create Quiz”* button located on the bottom right corner.
-  
+
 ![Save Quiz](images/tg-course-create-quiz.png)
- 
-1. You can create as many or as few questions as you want for each Quiz. However, you must give 5 choices (Options A, B, C, D, and E) for each question. You can make True or False questions by making Option A = True, Option B = False, and inserting a “-” to fill the other answer choices. Select *“Add Question”* in order to add the question to your Quiz. 
-**NOTE:** If you do not select *“Add Question,”* the Quiz question will not be automatically added. 
- 
+
+1. You can create as many or as few questions as you want for each Quiz. However, you must give 5 choices (Options A, B, C, D, and E) for each question. You can make True or False questions by making Option A = True, Option B = False, and inserting a “-” to fill the other answer choices. Select *“Add Question”* in order to add the question to your Quiz.
+**NOTE:** If you do not select *“Add Question,”* the Quiz question will not be automatically added.
+
 2. Once your Quiz is complete, click *“Save Quiz.”*
- 
-3. Make sure that the *“Quiz”* box is always checked in the original New Step panel, otherwise the Quiz may not show up. 
- 
-4. You can always return to the Quiz to add questions. 
+
+3. Make sure that the *“Quiz”* box is always checked in the original New Step panel, otherwise the Quiz may not show up.
+
+4. You can always return to the Quiz to add questions.
 **NOTE:** Once you select *“Next Question,”* you cannot go back or save the Quiz until you have filled it out.
- 
+
 ### _General Guidelines for Steps and Courses_
 
 Below is a list of general guidelines for Steps and Courses.
 
 * Aim to have between 6-10 Steps for each Course, although this will vary depending on the nature of the Course, i.e., if it is for school, general knowledge, professional development, etc. There are examples of Courses of 40-50 Steps which is applicable and needed in those cases. However, Courses should have a minimum of at least five Steps.
- 
+
 * The number of Resources per Course can also vary. However, they should be comprehensive enough to provide thorough knowledge on the subject, offer a variety of “real-world” examples and/or case studies, include some possible activities or thought-provoking discussion questions, and make a smooth transition to the next Step. Try to include a mix of media as well, i.e. videos, audio, photographs.
- 
+
 * As an alternative to creating a Quiz, you can also assign a paper for Learners to upload. Just type the paper assignment in the instruction box for Learners to view.
- 
+
 - If you change your mind and want to create a Quiz instead of a paper or vice versa, you can switch by going to the *“Edit Step”* tab.
- 
+
 ### _Managing a Course_
 
 Below are tips for managing a Course.
- 
-* You can always make changes to the Course by going to the “Courses” tab and clicking on “Manage.” 
- 
+
+* You can always make changes to the Course by going to the “Courses” tab and clicking on “Manage.”
+
 ![Manage Courses](images/tg-course-manage.png)
- 
+
 - To see what your Learners see, click on *“View Course.”* You can also go to *“My Home”* and access the Course in the *“My Courses”* bar to view the Course as a Learner.
- 
+
 - You can invite a specific Learner to join the Course or a whole grade level by clicking on *“Invite Members.”*
- 
-- If a Learner has requested to join a Course you will receive an email in your inbox (located at the bottom menu on the *“My Home”* page) asking you to accept. 
- 
+
+- If a Learner has requested to join a Course you will receive an email in your inbox (located at the bottom menu on the *“My Home”* page) asking you to accept.
+
 - To track your Learners’ completion and score on Quizzes, go to *“Progress.”*
 
 
@@ -390,10 +390,10 @@ Click on _“Reports”_ on the Dashboard main menu as shown below.
 ![Reports](images/tg-reports-overview.png)
 
 Planet has three different kinds of Reports:  
-      
+
    **A.** Add a New Report   
    **B.** Activity Report  
-   **C.** Trend Activity Report 
+   **C.** Trend Activity Report
 
 #### **Option A:**  
 
@@ -453,11 +453,11 @@ Learners can change the language of the Planet system at any time by going to th
 
 ### _What is the calendar and How do I add an Event?_
 
-The Calendar allows Leaders and Learners to organize and view Meetups and Events. The Learner can access his or her Calendar from the Home page Dashboard by clicking on “Calendar” to view and add Events. 
+The Calendar allows Leaders and Learners to organize and view Meetups and Events. The Learner can access his or her Calendar from the Home page Dashboard by clicking on “Calendar” to view and add Events.
 
 ![Calendar](images/tg-calendar.png)
 
-Click on “Add Event” in the top left corner to create a new Event. 
+Click on “Add Event” in the top left corner to create a new Event.
 
 ![Add Calendar Event](images/tg-calendar-add-event.png)
 
@@ -469,19 +469,19 @@ Fill in the information for the Event as shown below. When finished, click “Ad
 
 ### _How do I send and receive an email on the Planet system?_
 
-To send email to another user on the system click the “Email” button on the Dashboard. 
+To send email to another user on the system click the “Email” button on the Dashboard.
 
 ![Open Email](images/tg-email-select.png)
 
-After clicking Email, the Learner will see his or her Inbox. 
+After clicking Email, the Learner will see his or her Inbox.
 
 ![Open Email](images/tg-email-inbox.png)
 
-The Email button displays the number of new messages in the Learner’s Inbox. 
+The Email button displays the number of new messages in the Learner’s Inbox.
 
 ![Send Email](images/tg-email-send.png)
 
-To view an email, click “Email” and then click “View” to read the email. To send an email, click “Compose.” 
+To view an email, click “Email” and then click “View” to read the email. To send an email, click “Compose.”
 
 ![Send Email](images/tg-email-compose.png)
 Add the recipients and fill in the email subject. Write your message and click “Send.”
