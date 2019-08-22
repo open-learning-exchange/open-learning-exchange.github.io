@@ -153,6 +153,13 @@ After the pull request is merged, you'll be able to see your personal page at `o
 
 **NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/vi/profiles). Be creative.
 
+
+### Delete the Branch from your remote repository
+
+After your pull request has been **approved** and **merged** by OLE staff, you might want to delete the branch that is associated with your pull request. It can keep your remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below).
+
+![Delete Merged Branch](images/vi-delete-merged-branch.png)
+
 ## Useful Links
 
 [GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
