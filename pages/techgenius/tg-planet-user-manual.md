@@ -138,7 +138,7 @@ A collection is a group of Resources based on topic/subject and intended use. Pl
 
 3. After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
 
-![Add New Resource](images/tg-resource-new.png)
+![Add New Resource](images/tg-resource-upload.png)
 
 1. The **Title** of the Resource goes here. Capitalize all principal words and make sure everything is spelled correctly. If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”). Do not start the title with numbers or special characters (!@#$%^&*). If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new Resource in parentheses. Examples are shown below.
 
