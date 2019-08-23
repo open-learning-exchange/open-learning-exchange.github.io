@@ -220,6 +220,15 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 ## Helpful Links
 
+#### *Docker*
+
+- [What is Docker?](https://www.docker.com/what-docker)
+- [Docker Concepts](https://docs.docker.com/get-started/#docker-concepts)
+- [Docker Overview](https://docs.docker.com/engine/docker-overview/)
+- [Docker Compose](https://docs.docker.com/compose/overview/)
+- [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
+- [Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
+
 #### *GitHub and Markdown*
 
 
@@ -251,7 +260,14 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
     - [Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
     - [Markdown Editor](https://jbt.github.io/markdown-editor/)
 
+#### *Planet*
+
+- [Configurations](https://open-learning-exchange.github.io/#!./pages/vi/vi-configurations-vagrant.md)
+- [General](https://open-learning-exchange.github.io/#!./pages/techgenius/tg-planet-user-manual.md)
+- [Installation](https://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md)
+
 #### *Vi/Vim*
+
 - [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/sheets/vi_help_sheet.pdf)
 
 #### *VirtualBox*
