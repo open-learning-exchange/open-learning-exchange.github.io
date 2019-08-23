@@ -60,6 +60,10 @@ As you can see from the image below, there is an upgrade ready to be downloaded.
 1. Click the `Upgrade` button on Manager page and it will take you to upgrade page. An upgrade refers to a software update which improves the Planet (Note: If you do not see `Upgrade` button then simply carry on). It will then ask you for verification.
 2. After the upgrade is complete, undergo `vagrant halt prod` and `vagrant up prod` to restart planet.
 3. If `Fetch Items` is available on the Manager page, click on it and download the courses offered (3rd picture).
+4. Finally, send an activities sync to the nation by clicking on the `Manage Sync`button on the Manager page. Then, you will end on page showing all sync processes. Click on `Run Sync` button as seen in the screenshot below. You will be prompted to provide Administrator password. Once you confirm password, sync process will start.
+
+![Clicking on "Select All" and "Send"](images/vi-nation-sync-send.png "Community Manage Page in your localhost")
+
 
 **NOTE**:  
 • If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.  
