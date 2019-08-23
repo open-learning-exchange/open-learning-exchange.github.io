@@ -12,14 +12,14 @@ In [Step 1 - Planet Installation - Configuration](vi-configurations-vagrant.md),
 
 There should be constant communication between the nation and the communities. While it is not necessary for remote communities in the field, it is ideal for our goals of "improving the software and testing the increasing forms of communication and feedback between the nation and the communities". This communication takes the form of a syncing process from the community side, where you select material to send to the nation.
 
-Make sure vagrant is running and then click [here](http://localhost:3100) to access your Community Planet. 
+Make sure vagrant is running and then click [here](http://localhost:3100) to access your Community Planet.
 It is recommended that you use Firefox since Planet is only guaranteed to run properly on Firefox.
 
 **NOTES**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user on your community. Therefore, to create a dummy user:
-1. Create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it   a password that you actually use). 
-2. Then,log in to the dummy account you just created and double-check that you're listed under Members on the Manager Settings page. 
-3. Then, log out and log back in with your admin account. Now that your community has a user, you can sync with the nation.
-For any additional questions, please look at the FAQ section (link in the Useful Links). 
+1. Create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it   a password that you actually use).
+2. Then, log in to your admin account and double-check that you're listed under Members on the Manager Settings page.
+3. Now that your community has a user, you can sync with the nation.
+For any additional questions, please look at the FAQ section (link in the Useful Links).
 
 ![Clicking on "Dummy User"](images/vi-become-member.png "Dummy User")
 

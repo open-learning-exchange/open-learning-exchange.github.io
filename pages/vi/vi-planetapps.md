@@ -81,7 +81,7 @@ Take the course, and the last question will ask you to specify any problems or i
 
   ![Finished Planet Course](images/vi-planet-course.jpg)
 
-5. To verify that your course answers were submitted, click on `Home`, then on `Submissions`
+5. To verify that your course answers were submitted, click on `Home`, then under myLife click on `my Submissions`
 
   ![Submissions button](images/vi-planet-submissions-button.png)
   ![View Submissions](images/vi-planet-submissions.png)
