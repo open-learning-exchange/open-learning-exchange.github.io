@@ -1,5 +1,7 @@
 # Harley "Nat" Amundsen
 
+![](https://i.imgur.com/yvcVAN7.png)
+
 * **Prefered Name:** Nat
 * **Location:** Beverly, MA
 * **Time Zone:** EST
