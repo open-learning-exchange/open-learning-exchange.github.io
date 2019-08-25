@@ -4,5 +4,5 @@
 ### Studying at: Wentworth Institute of Technology
  [My linkedin](https://www.linkedin.com/in/pattanawadeewinyarat/)
  
-* OS: Mac OS 10.14.6
-1. I am a very optimistic person.
+1. OS: Mac OS 10.14.6
+2. I am a very optimistic person.
