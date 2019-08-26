@@ -1,4 +1,4 @@
-var createIndex = function (grunt, taskname) {
+var createIndexStringFunc = function (grunt, taskname) {
     'use strict';
     var conf = grunt.config('index')[taskname],
         tmpl = grunt.file.read(conf.template);
@@ -16,7 +16,7 @@ module.exports = function(grunt) {
     // Project configuration.
     
     // Put files to be included in build here
-    var ownJsFiles = [
+    var ownJsFilesStringArray = [
         'js/marked.js',
         'js/init.js',
         'js/logging.js',
@@ -84,7 +84,7 @@ module.exports = function(grunt) {
             version: '0.6.3'
         },
 
-        ownJsFiles: ownJsFiles.map(addMdwikiFolder),
+        ownJsFilesStringArray: ownJsFilesStringArray.map(addMdwikiFolder),
         internalCssFiles: internalCssFiles.map(addMdwikiFolder),
         internalJsFiles: internalJsFiles.map(addMdwikiFolder),
         externalJsFiles: externalJsFiles.map(addMdwikiFolder),
@@ -110,7 +110,7 @@ module.exports = function(grunt) {
                 stripBanners: true
             },
             dev: {
-                src: '<%= ownJsFiles %>',
+                src: '<%= ownJsFilesStringArray %>',
                 dest: 'mdwiki/dist/<%= pkg.name %>.js'
             }
         },
@@ -245,14 +245,14 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-reload');
 
     grunt.registerTask('index_slim', 'Generate slim mdwiki.html, most scripts on CDN', function() {
-        createIndex(grunt, 'slim');
+        createIndexStringFunc(grunt, 'slim');
     });
 
     grunt.registerTask('index_fat', 'Generate mdwiki-fat.html, inline all scripts', function() {
-        createIndex(grunt, 'fat');
+        createIndexStringFunc(grunt, 'fat');
     });
     grunt.registerTask('index_debug', 'Generate mdwiki-fat.html, inline all scripts', function() {
-        createIndex(grunt, 'debug');
+        createIndexStringFunc(grunt, 'debug');
     });
     grunt.registerTask('release-slim',[  'jshint', 'concat:dev', 'uglify:dist', 'index_slim' ]);
     grunt.registerTask('release-fat', [ 'jshint', 'concat:dev', 'uglify:dist', 'index_fat' ]);
