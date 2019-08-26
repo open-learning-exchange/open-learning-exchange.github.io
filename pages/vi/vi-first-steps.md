@@ -25,6 +25,7 @@ A very large part of these steps is finding problems with these steps and this M
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 
 ## Step 0 - Introductory Steps
+There are 3 sub-steps in this step:
 
 1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
 
@@ -39,20 +40,21 @@ There is no official deadline to complete these steps, but most candidates who a
 
 ## Step 1 - Planet and Vagrant
 
-There are 3 sections in this step:
+There are 3 sub-steps in this step:
+
 
 1. [Planet Installation with Vagrant](#!./pages/vi/vi-planet-installation-vagrant.md)
-  The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this section, you will learn about how to set up your own Community Planet using vagrant.
+  The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this step, you will learn about how to set up your own Community Planet using vagrant.
 
-1. [Planet Configurations](vi-configurations-vagrant.md)
-  In this section, you will learn about how to configure your Community Planet.
+2. [Planet Configurations](vi-configurations-vagrant.md)
+  In this step, you will learn about how to configure your Community Planet.
 
-1. [Vagrant Tutorial](vi-vagrant.md)
-  **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this section, you will learn about how to interact with Vagrant through the command-line interface.
+3. [Vagrant Tutorial](vi-vagrant.md)
+  **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this step, you will learn about how to interact with Vagrant through the command-line interface.
 
 ## Step 2 - Planet and Docker
 
-Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
+Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this step, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
 
 ## Step 3 - Markdown and Fork Tutorial
 
@@ -73,16 +75,16 @@ Follow the directions at [Git Repositories](vi-github-and-repositories.md) to ke
 
 ## Step 6 - GitHub Issues Tutorial
 
-Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md) to create at least one issue. Post a link in [Gitter](https://gitter.im/open-learning-exchange/chat) whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file. You can also work on issues that you didn't create.
+Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md) to create at least one issue. Post a link in [Gitter](https://gitter.im/open-learning-exchange/chat) whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and __it is OK__ if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file. You can also work on issues that you didn't create.
 
-Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fix may take time, but it is OK to continue working.
+Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fix may take time, but __it is OK__ to continue working.
 
 - Once you complete Step 6 you will have:
    * 2 pull requests made (one at step 3 and one at step 6)
    * 1 comment added (on an issue you didn't create)
    * 1 issue created
 
-Please note that creating and working on Issues are not exactly bound by the "Step" you are in. Feel free to move on to other steps, and make more Issues and Pull Requests while you wait on OLE approval for your merge(s). 
+Please note that creating and working on Issues are not exactly bound by the "Step" you are in. Feel free to move on to other steps, and make more Issues and Pull Requests while you wait on OLE approval for your merge(s).
 
 ## Step 7 - Nation Planet
 
