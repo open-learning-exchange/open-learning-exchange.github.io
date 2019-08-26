@@ -69,23 +69,31 @@ If you are currently using this manual, then you are most likely a manager who i
 
 An example of the Manager Dashboard is shown below. The functionality is defined for each element of the Dashboard.
 
-![Planet User Dashboard](images/tg-dashboard.png)
+![Planet User Dashboard](images/tg-dashboard-update.png)
 
 1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most Planet functionality.
 
-2. **e-Readers** functionality is under construction.
+2. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
 
+<<<<<<< HEAD
 3. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically.
+=======
+3. **Courses** gives Learners the option to view each Course and to request admission.
+>>>>>>> e3485abe1f84fb68225e8de98869d9f873a2c24e
 
-4. **Courses** gives Learners the option to view each Course and to request admission.
+4. **Teams** give a list of teams the user is on.
 
 5. **Meetups** allows setup for basic meetings. Meetups are sent to the calendars of other Planet Learners.
 
+<<<<<<< HEAD
 6. **Members** provides a list of all Learners in this Planet system.
+=======
+6. **Surveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
+>>>>>>> e3485abe1f84fb68225e8de98869d9f873a2c24e
 
-7. **Reports** allows Nation Managers to distribute Nation Reports as needed.
+7. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
 
-8. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
+8. **Sync** allows user to update to the current Planet system.
 
 9. **Logout** logs the Learner out of the Planet system.
 
@@ -93,23 +101,27 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 11. **Language** shows the language of the user interface and allows the user to switch between languages.
 
-12. **My Library** displays the Resources that were added to “_My Library_” by the Learner.
+12. **myLibrary** displays the Resources that were added to “_My Library_” by the Learner.
 
-13. **My Courses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
+13. **myCourses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
 
-14. **My Meetups** displays the physical location of the Course (if applicable).
+14. **myTeams** displays the current teams the learner is apart of.
 
-15. **My Tutors** is under construction.
+15. **mySubmissions** is the user's course submissions.
 
-16. **Badges** is under construction.
+16. **myAchievements** is the user's current achievements.
 
-17. **Calendar** can be used to organize and display Meetups and Events for the Learner.
+17. **ourNews** location where news can be shared.
 
-18. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
+18. **mySurveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
 
-19. **Surveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
+19. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
 
-20. **Update Welcome Video** allows Managers to change the welcome video for their Nation.
+20. **Manager Settings** allows Managers to change settings such as configuration, manager sync, upgrade and reports.
+
+21. **Notifications** allows user to see any notification for changes.
+
+22. **Menu** options for viewing profile, editing profile, changing password and to logout of the system.
 
 # Library and Resources Overview
 
