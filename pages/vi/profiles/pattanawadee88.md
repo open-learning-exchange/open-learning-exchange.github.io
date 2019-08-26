@@ -8,10 +8,9 @@
 [image1]: https://wit.edu/sites/default/files/about/ranking_0.jpg
 ![WIT Pic][image1]
 
+_OS: Mac OS 10.14.6_
 
 _I am an Asia who fell in love with programming_
-
-_OS: Mac OS 10.14.6_
 
 _I am a very optimistic person_
 
@@ -24,7 +23,8 @@ Languges:
  * Thai
  * Basic Chinese
  
-
-
- 
+Hobbie:
+ 1. Traveling 
+ 2. Taking picture
+ 3. Cooking
 
