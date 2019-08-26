@@ -1,11 +1,18 @@
 # My name: Pattanawadee (Pat)
 ## Location: Boston, US
+
+![image](https://blog.virginatlantic.com/wp-content/uploads/2011/10/Boston-skyline-in-summer-%C2%A9-Shutterstock-1500x650.jpg)
+
 ### Studying at: Wentworth Institute of Technology
 
-![image](https://en.wikipedia.org/wiki/File:Pluto_in_True_Color_-_High-Res.jpg "t")
+[image1]: https://wit.edu/sites/default/files/about/ranking_0.jpg
+![WIT Pic][image1]
+
 
 _I am an Asia who fell in love with programming_
+
 _OS: Mac OS 10.14.6_
+
 _I am a very optimistic person_
 
 -------
