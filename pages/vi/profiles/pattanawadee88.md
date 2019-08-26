@@ -3,7 +3,7 @@
 
 ![image](https://blog.virginatlantic.com/wp-content/uploads/2011/10/Boston-skyline-in-summer-%C2%A9-Shutterstock-1500x650.jpg)
 
-### Studying at: Wentworth Institute of Technology
+* Studying at: Wentworth Institute of Technology
 
 [image1]: https://wit.edu/sites/default/files/about/ranking_0.jpg
 ![WIT Pic][image1]
@@ -18,13 +18,11 @@ _I am a very optimistic person_
 
 [My linkedin](https://www.linkedin.com/in/pattanawadeewinyarat/)
 
-Languges:
- * English
- * Thai
- * Basic Chinese
+
+Languges | Hobbies
+-------- | -------------
+English |Traveling 
+Thai|Taking picture
+Basic Chinese|Cooking
  
-Hobbie:
- 1. Traveling 
- 2. Taking picture
- 3. Cooking
 
