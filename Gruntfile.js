@@ -1,4 +1,4 @@
-var createIndexStringFunc = function (grunt, taskname) {
+var createIndexVoidFunc = function (grunt, taskname) {
     'use strict';
     var conf = grunt.config('index')[taskname],
         tmpl = grunt.file.read(conf.template);
@@ -245,14 +245,14 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-reload');
 
     grunt.registerTask('index_slim', 'Generate slim mdwiki.html, most scripts on CDN', function() {
-        createIndexStringFunc(grunt, 'slim');
+        createIndexVoidFunc(grunt, 'slim');
     });
 
     grunt.registerTask('index_fat', 'Generate mdwiki-fat.html, inline all scripts', function() {
-        createIndexStringFunc(grunt, 'fat');
+        createIndexVoidFunc(grunt, 'fat');
     });
     grunt.registerTask('index_debug', 'Generate mdwiki-fat.html, inline all scripts', function() {
-        createIndexStringFunc(grunt, 'debug');
+        createIndexVoidFunc(grunt, 'debug');
     });
     grunt.registerTask('release-slim',[  'jshint', 'concat:dev', 'uglify:dist', 'index_slim' ]);
     grunt.registerTask('release-fat', [ 'jshint', 'concat:dev', 'uglify:dist', 'index_fat' ]);
