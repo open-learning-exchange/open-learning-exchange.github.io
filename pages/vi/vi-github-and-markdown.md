@@ -119,6 +119,13 @@ If you need to edit your file again, click the pencil icon to edit (as shown bel
 
   ![Edit Profile](images/vi-edit-profile.png)
 
+**Or**
+**If you cannot see the pencil icon, go to File change and edit file (as shown below)**
+
+![Edit file ](images/vi-edit-markdown.png)
+
+
+
 Now, check what this looks like on your own page `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`. The raw.githack link allows reviewers to preview your changes. Please double check that everything looks good and is working as you hoped before moving on to next section.
 
 **NOTE**:
