@@ -18,7 +18,7 @@
 - **Q11:** [How can I enable virtualization on my computer in order to turn Vagrant on?](#Q11:_How_can_I_enable_virtualization_on_my_computer_in_order_to_turn_Vagrant_on?)
 - **Q12:** [Why is the "Submit" button not showing up when I try to submit my survey?](#Q12:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
 - **Q13:** [Why does Firefox say “Unable to connect” when I try to load my Community?](#Q13:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_Community?)
-- **Q14:** [When I first run BeLL with the "vagrant up" command, why does the download fail?](#Q14:_When_I_first_run_BeLL_with_the_"vagrant_up"_command,_why_does_the_download_fail?)
+- **Q14:** [When I first run Planet with the "vagrant up" command, why does the download fail?](#Q14:_When_I_first_run_BeLL_with_the_"vagrant_up"_command,_why_does_the_download_fail?)
 - **Q15:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?](#Q15:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
 - **Q16:** [What do I do if I already have a github.io with my username?](#Q16:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
 - **Q17:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?](#Q17:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_Vagrant_VM?)
@@ -53,7 +53,7 @@
 
 #### Q6: What happens after the initial steps?
 
-+ The initial steps are meant to introduce potential interns to the OLE BeLL/Planet, planet software and the process that we use to develop features and improve upon the BeLL/Planet. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
++ The initial steps are meant to introduce potential interns to the OLE Planet, planet software and the process that we use to develop features and improve upon the Planet. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
 
 #### Q7: If I'm an international student, how soon can I get my paperwork required by my visa?
 
@@ -80,13 +80,13 @@
 
 #### Q12: Why is the "Submit" button not showing up when I try to submit my survey?
 
-+ Please make sure you’re using Firefox, as our BeLL software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the BeLL and logging back in, then go back to the survey. If that doesn’t work, log out of the BeLL, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Gitter chat](http://gitter.im/open-learning-exchange/chat).
++ Please make sure you’re using Firefox, as our Planet software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the Planet and logging back in, then go back to the survey. If that doesn’t work, log out of the Planet, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Gitter chat](http://gitter.im/open-learning-exchange/chat).
 
 #### Q13: Why does Firefox say “Unable to connect” when I try to load my Community?
 
-+ Because a Community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your Community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the BeLL, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual BeLL user interface.
++ Because a Community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your Community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the Planet, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual Planet user interface.
 
-#### Q14: When I first run BeLL with the "vagrant up" command, why does the download fail?
+#### Q14: When I first run Planet with the "vagrant up" command, why does the download fail?
 
 + You should first check if Vagrant Cloud is up and running by looking at [HashiCorp's status page](https://status.hashicorp.com):
 
@@ -109,7 +109,7 @@
         vagrant init ole/jessie64
         vagrant up
         ```
-  You now have a working community BeLL on your OS.
+  You now have a working community Planet on your OS.
 
 #### Q15: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?
 
@@ -210,11 +210,11 @@
 
 >_The aim of the ‘First Steps’ is to introduce prospective interns to the software that they will be using, and make sure they are familiar with each. While each step goes into detail on the specific program(s) at hand, it can be easy at times to lose sight of the bigger picture. To that end, below is a brief synopsis of the primary tools you will be using/learning about in the first steps, and how they work together to empower our collaborative development environment._
 
-We start off by learning about BeLL, or the 'Basic e-Learning Library.' BeLL is the learning tool that OLE uses to provide the educational materials and resources to its students. It is a lightweight digital Library that can be accessed through Local networks (’Communities’)  and synced through the Internet (‘Nations’). To do so, we need to install a few software packages, Vagrant and VirtualBox primary among them. We use Vagrant (a development environment builder), in conjunction with VirtualBox (virtual machine software) to initialize a BeLL environment on the local system. Using this virtual environment we access the BeLL interface locally and create our own communities/nations.
+We start off by learning about Planet, which is the learning tool that OLE uses to provide the educational materials and resources to its students. It is a lightweight digital Library that can be accessed through Local networks (’Communities’)  and synced through the Internet (‘Nations’). To do so, we need to install a few software packages, Vagrant and VirtualBox primary among them. We use Vagrant (a development environment builder), in conjunction with VirtualBox (virtual machine software) to initialize a Planet environment on the local system. Using this virtual environment we access the Planet interface locally and create our own communities/nations.
 
 The other two tools we focus on are GitHub and Markdown. Similar to how we use Vagrant and VirtualBox to standardize the development environment for each developer, we use Git/GitHub in order to centralize the development process and enable greater collaboration and teamwork. Git is a revision control system that allows many users to simultaneously edit and develop the same projects, and GitHub is a website/hosting service that utilizes the git system and hosts the git repositories we work on. Markdown, on the other hand, is a style of formatting text native to GitHub and thus used in the Virtual Intern program. Markdown simplifies formatting and emphasizes readability, helping coders focus on content, and not get bogged down in syntax.
 
-To sum up, the primary software/tools we cover in the 'First Steps' are BeLL, Vagrant, VirtualBox, Git/GitHub and Markdown. Though not immediately apparent, the tools we use are all unified by a common purpose. Each bit of software we use is chosen in an effort to promote collaboration. The use of Vagrant and VirtualBox mandates that each instance of BeLL is the same, making sure that all developers utilize the same system. Markdown simplifies the development process, as each piece of code must comply with its syntax, increasing clarity for all users. Finally, GitHub serves as the last piece in the puzzle, as it takes advantage of the standardized development environment that Vagrant/VirtualBox provides, as well as the streamlined syntax of Markdown to allow for easy collaboration.
+To sum up, the primary software/tools we cover in the 'First Steps' are Planet, Vagrant, VirtualBox, Git/GitHub and Markdown. Though not immediately apparent, the tools we use are all unified by a common purpose. Each bit of software we use is chosen in an effort to promote collaboration. The use of Vagrant and VirtualBox mandates that each instance of Planet is the same, making sure that all developers utilize the same system. Markdown simplifies the development process, as each piece of code must comply with its syntax, increasing clarity for all users. Finally, GitHub serves as the last piece in the puzzle, as it takes advantage of the standardized development environment that Vagrant/VirtualBox provides, as well as the streamlined syntax of Markdown to allow for easy collaboration.
 
 It can often be challenging to see the 'Big Picture', and it’s easy to lose sight of it when focused on individual tasks. With that said, hopefully this synopsis has shed light on the importance of the process, and shown that each step is not an isolated assignment, but rather part of a greater task.
 
