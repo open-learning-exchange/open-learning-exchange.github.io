@@ -69,7 +69,7 @@ If you are currently using this manual, then you are most likely a manager who i
 
 An example of the Manager Dashboard is shown below. The functionality is defined for each element of the Dashboard.
 
-![Planet User Dashboard](images/tg-dashboard-update.png)
+![Planet User Dashboard](images/tg-dashboard.png)
 
 1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most Planet functionality.
 
