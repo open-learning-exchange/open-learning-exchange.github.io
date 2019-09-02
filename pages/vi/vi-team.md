@@ -23,7 +23,6 @@
 |[zelmi](profiles/zelmi.md)|2019-03-26|
 |[simily00](profiles/simily00.md)|2019-04-01|
 |[ibnahmadbello](profiles/ibnahmadbello.md)|2019-04-23|
-|[diabagatekelly](profiles/diabagatekelly.md)|2019-04-26|
 |[ScottHuangNYU](profiles/ScottHuangNYU.md)|2019-05-03|
 |[Liew211](profiles/Liew211.md)|2019-05-22|
 |[samuelchen1213](profiles/samuelchen1213.md)|2019-05-29|
