@@ -35,7 +35,7 @@ Now, take a look at [the YAML file for planet](https://github.com/open-learning-
 
 Below you'll find a few common `docker-compose` commands you would need throughout working with `planet` (the following examples assumes you are in planet repo's docker folder):
 
-- `docker-compose -f planet.yml -p planet up -d --build` – spawn your environment for the *first time*
+- `docker-compose -f planet.yml -p planet up -d` – spawn your environment for the *first time*
   - `-f` – specify an alternate compose file (default: docker-compose.yml)
   - `-p` – specify a project name (default: directory name)
   - `up -d ` - create and start containers in the background
@@ -68,14 +68,12 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
   
 5. Run the *following command* to spawn your environment for the **first time**:
 
-    ```
-    ATTENTION: if you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d --build`.
-    It might destroy your configuration.
-    `vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d --build` automatically.
-    ```
+    
+WARNING: If you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d`. It might destroy your configuration. `vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d` automatically. If you are in this situation, look at the ** [Second and third element of Troubleshooting in this page]( https://open-learning-exchange.github.io/#!./pages/vi/vi-configurations-vagrant.md#Troubleshooting)** 
+    
     If this is your **first** time spawning the environment, run:
    
-  `docker-compose -f planet.yml -p planet up -d --build`
+  `docker-compose -f planet.yml -p planet up -d`
 
 
 1. See if the docker containers are running: `docker ps -a`. You'll see your running container similar to this

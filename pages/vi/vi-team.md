@@ -23,7 +23,6 @@
 |[zelmi](profiles/zelmi.md)|2019-03-26|
 |[simily00](profiles/simily00.md)|2019-04-01|
 |[ibnahmadbello](profiles/ibnahmadbello.md)|2019-04-23|
-|[diabagatekelly](profiles/diabagatekelly.md)|2019-04-26|
 |[ScottHuangNYU](profiles/ScottHuangNYU.md)|2019-05-03|
 |[Liew211](profiles/Liew211.md)|2019-05-22|
 |[samuelchen1213](profiles/samuelchen1213.md)|2019-05-29|
@@ -41,7 +40,10 @@
 |[Irisb1701](profiles/irisb1701.md)|2019-07-03|
 |[Lillyxxx](profiles/lillyxxx.md)|2019-07-17|
 |[biswasshrestha](profiles/biswasshrestha.md)|2019-07-22|
+|[aasenomad](profiles/aasenomad.md)|2019-08-14|
 |[007HD](profiles/007HD.md)|2019-08-23|
+|[wanglihe2010](profiles/wanglihe2010.md)|2019-08-24|
+|[Mattmtech](profiles/Mattmtech.md)|2019-08-25|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).

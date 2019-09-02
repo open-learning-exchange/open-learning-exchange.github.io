@@ -8,6 +8,7 @@ To view the list of current members, go to [active members page](vi-team.md).
 
 |**Username**|**Join Date**|**Leave Date**|
 |------------|-------------|--------------|
+|[diabagatekelly](profiles/diabagatekelly.md)| 2019-04-26 | 2019-08-29 |
 |[jimkosh](profiles/jimkosh.md)|2018-09-06| -- |
 |[Emiton](profiles/Emiton.md)|2018-07-21| -- |
 |[vncentou422](profiles/vncentou422.md)|2018-07-10| -- |
