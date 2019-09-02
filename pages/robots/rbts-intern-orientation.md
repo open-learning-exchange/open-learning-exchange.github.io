@@ -115,8 +115,15 @@ Every Monday at the "[Happy hacking hangout](http://talk.ole.org)" session, we w
 
 Please subscribe to our calendar:
 
-* In [Google Calendar](https://calendar.google.com/), paste `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` into "*Add a friend's calendar*" and **hit `Enter` (do not click the + sign)**.
-* Use [this iCalendar file](https://calendar.google.com/calendar/ical/ole.org_u2koassrool56icb7fqko9abac%40group.calendar.google.com/public/basic.ics) to access our calendar from other applications.
+* In [Google Calendar](https://calendar.google.com/), click on the **+** sign next to the **Other calendars** section on the left side as seen in the screenshot below. Select **Subscribe to calendar** from the dropdown
+
+![Google Calendar subscribe to OLE calendar](images/rbts-orientation-google-calendar.jpg)
+
+* Paste `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` under "Add calendar" and hit `Enter` as seen in the screenshot below
+
+![Google Calendar subscribe to OLE calendar](images/rbts-orientation-google-calendar-2.jpg)
+
+* Use [this iCalendar file](https://calendar.google.com/calendar/ical/ole.org_u2koassrool56icb7fqko9abac%40group.calendar.google.com/public/basic.ics) to access our calendar from other applications
 
 ![Google Calendar add a friend's calendar](images/rbts-orientation-add-calendar.png)
 
