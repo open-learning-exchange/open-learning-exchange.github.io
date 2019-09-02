@@ -52,13 +52,14 @@ When you are inside PLANET you will see different features available.
 List of features:
 1. Library
 2. Courses
-3. Surveys
-4. Teams
-5. Meetups
-6. News
-7. Achievement
-8. Feedback
-9. Manager
+3. Exams
+4. Surveys
+5. Teams
+6. Meetups
+7. News
+8. Achievement
+9. Feedback
+10. Manager
 
 ## Library
 The Library is home to the community's collection of media and other resources. Click [here](library.md) to learn more about Library.
@@ -66,11 +67,14 @@ The Library is home to the community's collection of media and other resources. 
 ## Courses
 The Courses page is where you can create and join a variety of different courses where you can learn many different topics. Click [here](./course.md) to learn more about Courses.
 
-## Teams
-Here you will be able to create teams to communicate with them, offer courses, and organize members. Click [here](teams.md) to learn more about Teams
+## Exams
+Click [here](course.md#taking-a-test)to learn more about Exams.
 
 ## Surveys
 Surveys is where you can create your survey and send it to others. Click [here](survey.md) to learn more about Surveys.
+
+## Teams
+Here you will be able to create teams to communicate with them, offer courses, and organize members. Click [here](teams.md) to learn more about Teams
 
 ## Meetups
 Meetups is where you can coordinate meetups by creating them, joining them and more! Click [here](meetup.md) to learn more about Meetups.
