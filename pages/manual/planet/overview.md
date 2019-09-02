@@ -73,6 +73,7 @@ Here you will be able to create teams to communicate with them, offer courses, a
 ## Exams
 
 ## Surveys
+Surveys is where you can create your survey and send it to others. Click [here](survey.md) to learn more about Surveys.
 
 ## Meetups
 Meetups is where you can coordinate meetups by creating them, joining them and more! Click [here](meetup.md) to learn more about Meetups.
