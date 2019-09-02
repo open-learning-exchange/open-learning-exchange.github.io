@@ -447,45 +447,8 @@ Learners can give feedback for any page or Resource at any time by clicking on �
 
 Learners can change the language of the Planet system at any time by going to the Home page and selecting the language pull down menu from in the top right corner.
 
-![Select Language](images/tg-language-select.png)
+![Select Language](images/tg-languages.png)
 
-## Calendar Overview
-
-### _What is the calendar and How do I add an Event?_
-
-The Calendar allows Leaders and Learners to organize and view Meetups and Events. The Learner can access his or her Calendar from the Home page Dashboard by clicking on “Calendar” to view and add Events.
-
-![Calendar](images/tg-calendar.png)
-
-Click on “Add Event” in the top left corner to create a new Event.
-
-![Add Calendar Event](images/tg-calendar-add-event.png)
-
-Fill in the information for the Event as shown below. When finished, click “Add Event.”
-
-![Add Calendar Event Details](images/tg-calendar-add-event-details.png)
-
-## Email Overview
-
-### _How do I send and receive an email on the Planet system?_
-
-To send email to another user on the system click the “Email” button on the Dashboard.
-
-![Open Email](images/tg-email-select.png)
-
-After clicking Email, the Learner will see his or her Inbox.
-
-![Open Email](images/tg-email-inbox.png)
-
-The Email button displays the number of new messages in the Learner’s Inbox.
-
-![Send Email](images/tg-email-send.png)
-
-To view an email, click “Email” and then click “View” to read the email. To send an email, click “Compose.”
-
-![Send Email](images/tg-email-compose.png)
-Add the recipients and fill in the email subject. Write your message and click “Send.”
-![Compose Email](images/tg-email-compose-2.png)
 
 ## Software Overview
 
@@ -497,10 +460,17 @@ In order to update software and receive Publications,
     **Login:** Admin User Name
     **Password:** Admin Password
 
-  2. After logging in, any updates and/or available Publications will be visible as shown below.
+  2. Checking your software by selecting the manager setting from the top right corner.
+  
+  ![Software check](images/tg-software-update.png)
+  
+  3. As shown below, showing software of Nation Version and Local Version.
+  
+  ![Software version](images/tg-software-update3.png)
+  
+  4. **Upgrade planet apk** will allow you to update the software and sync Publications.
+  
+  ![Software update](images/tg-software-update2.png)
+   
 
-   ![Dashboard Software Update](images/tg-software-overview-update.png)
-
-  3. These two gray buttons in red writing will allow you to update the software and sync Publications. First, click “Update Available (0.12.33)”.
-
-  4. The update will automatically run and may take several minutes depending on your internet connection. While the loading screen is still spinning, remain connected and wait until you get a message notifying you that the software update has been successful.
+  5. The update will run and may take several minutes depending on your internet connection. While the loading screen is still spinning, remain connected and wait until you get a message notifying you that the software update has been successful.
