@@ -445,7 +445,7 @@ Learners can give feedback for any page or Resource at any time by clicking on â
 
 ### _How do I change the Language?_
 
-Learners can change the language of the Planet system at any time by going to the Home page and selecting the language pull down menu from in the top right corner.
+Learners can change the language of the Planet system at any time by selecting the language pull down menu from in the top right corner.
 
 ![Select Language](images/tg-languages.png)
 
@@ -464,11 +464,11 @@ In order to update software and receive Publications,
   
   ![Software check](images/tg-software-update.png)
   
-  3. As shown below, showing software of Nation Version and Local Version.
+  3. As shown below, showing software of Nation Version and Local Version. You will only get update if both versions do not match.
   
   ![Software version](images/tg-software-update3.png)
   
-  4. **Upgrade planet apk** will allow you to update the software and sync Publications.
+  4. **Upgrade planet apk** will allow to get latest myplanet 
   
   ![Software update](images/tg-software-update2.png)
    
