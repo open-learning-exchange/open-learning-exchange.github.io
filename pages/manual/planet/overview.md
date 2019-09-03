@@ -68,7 +68,7 @@ The Library is home to the community's collection of media and other resources. 
 The Courses page is where you can create and join a variety of different courses where you can learn many different topics. Click [here](./course.md) to learn more about Courses.
 
 ## Exams
-Click [here](course.md#taking-a-test)to learn more about Exams.
+**This portion needs to be worked on**
 
 ## Surveys
 Surveys is where you can create your survey and send it to others. Click [here](survey.md) to learn more about Surveys.
