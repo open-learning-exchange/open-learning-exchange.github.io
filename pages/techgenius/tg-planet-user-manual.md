@@ -468,9 +468,13 @@ In order to update software and receive Publications,
   
   ![Software version](images/tg-software-update3.png)
   
+  Upgrading software is done by selecting **Upgrade**
+  
+  ![Software update](images/tg-update-software.png)
+  
   4. **Upgrade planet apk** will allow to get latest myplanet 
   
   ![Software update](images/tg-software-update2.png)
    
 
-  5. The update will run and may take several minutes depending on your internet connection. While the loading screen is still spinning, remain connected and wait until you get a message notifying you that the software update has been successful.
+  5. There is verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
