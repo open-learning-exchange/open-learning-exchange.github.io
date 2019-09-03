@@ -1,4 +1,4 @@
-# Open Learning Exchange
+﻿# Open Learning Exchange
 
 # OLE
 
@@ -75,21 +75,13 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 2. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
 
-<<<<<<< HEAD
-3. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically.
-=======
 3. **Courses** gives Learners the option to view each Course and to request admission.
->>>>>>> e3485abe1f84fb68225e8de98869d9f873a2c24e
 
 4. **Teams** give a list of teams the user is on.
 
 5. **Meetups** allows setup for basic meetings. Meetups are sent to the calendars of other Planet Learners.
 
-<<<<<<< HEAD
-6. **Members** provides a list of all Learners in this Planet system.
-=======
 6. **Surveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
->>>>>>> e3485abe1f84fb68225e8de98869d9f873a2c24e
 
 7. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
 
