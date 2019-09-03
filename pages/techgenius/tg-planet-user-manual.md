@@ -474,7 +474,7 @@ In order to update software and receive Publications,
   ![Software update](images/tg-update-software.png)
   
   
-4. **Upgrade planet apk** will allow to get latest myplanet 
+4. **Upgrade planet apk** will allow to get latest myplanet.
   
   ![Software update](images/tg-software-update2.png)
   
