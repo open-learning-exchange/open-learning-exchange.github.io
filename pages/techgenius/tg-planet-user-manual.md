@@ -476,5 +476,4 @@ In order to update software and receive Publications,
   
   ![Software update](images/tg-software-update2.png)
    
-
   5. There is verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
