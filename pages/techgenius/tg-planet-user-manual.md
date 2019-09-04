@@ -456,20 +456,18 @@ Learners can change the language of the Planet system at any time by selecting t
 
 In order to update software and receive Publications,
 
-1. You must connect your router to the internet via Ethernet cable and log in as a Manager. Most likely, your Manager account will be the following:
-      **Login:** Admin User Name
-      **Password:** Admin Password
+1. You must connect your router to the internet via Ethernet cable and log in as a Manager. Most likely, your Manager account will be the following: 
+**Login:** Admin User Name
+**Password:** Admin Password
         
 1. Checking your software by selecting the manager setting from the top right corner.
   
    ![Software check](images/tg-software-update.png)
    
-
 1. As shown below, showing software of Nation Version and Local Version. You will only get update if both versions do not match.
   
    ![Software version](images/tg-software-update3.png)
    
-
 1. Upgrading software is done by selecting **Upgrade**.
   
    ![Software update](images/tg-update-software.png)
@@ -477,8 +475,6 @@ In order to update software and receive Publications,
 1. **Upgrade planet apk** will allow to get latest myplanet.
   
    ![Software update](images/tg-software-update2.png) 
-
-
 
 1. There is verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
 
