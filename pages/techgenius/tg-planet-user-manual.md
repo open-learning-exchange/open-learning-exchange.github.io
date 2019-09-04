@@ -469,7 +469,7 @@ In order to update software and receive Publications,
   ![Software version](images/tg-software-update3.png)
   
   
-  Upgrading software is done by selecting **Upgrade**
+  * Upgrading software is done by selecting **Upgrade**.
   
   ![Software update](images/tg-update-software.png)
   
