@@ -469,14 +469,14 @@ In order to update software and receive Publications,
   ![Software version](images/tg-software-update3.png)
   
   
-  * Upgrading software is done by selecting **Upgrade**.
+4. Upgrading software is done by selecting **Upgrade**.
   
   ![Software update](images/tg-update-software.png)
   
   
-4. **Upgrade planet apk** will allow to get latest myplanet.
+5. **Upgrade planet apk** will allow to get latest myplanet.
   
   ![Software update](images/tg-software-update2.png)
   
   
-5. There is verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
+6. There is verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
