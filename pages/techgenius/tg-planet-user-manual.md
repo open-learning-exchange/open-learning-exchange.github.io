@@ -460,27 +460,26 @@ In order to update software and receive Publications,
     **Login:** Admin User Name
     **Password:** Admin Password
         
-2. Checking your software by selecting the manager setting from the top right corner.
+1. Checking your software by selecting the manager setting from the top right corner.
   
    ![Software check](images/tg-software-update.png)
    
 
-3. As shown below, showing software of Nation Version and Local Version. You will only get update if both versions do not match.
+1. As shown below, showing software of Nation Version and Local Version. You will only get update if both versions do not match.
   
    ![Software version](images/tg-software-update3.png)
    
 
-4. Upgrading software is done by selecting **Upgrade**.
+1. Upgrading software is done by selecting **Upgrade**.
   
    ![Software update](images/tg-update-software.png)
     
-  
-5. **Upgrade planet apk** will allow to get latest myplanet.
+1. **Upgrade planet apk** will allow to get latest myplanet.
   
    ![Software update](images/tg-software-update2.png) 
 
 
 
-6. There is verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
+1. There is verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
 
 
