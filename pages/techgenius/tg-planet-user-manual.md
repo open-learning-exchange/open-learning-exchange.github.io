@@ -466,6 +466,7 @@ In order to update software and receive Publications,
    ![Software check](images/tg-software-update.png)
   
   
+  
    3. As shown below, showing software of Nation Version and Local Version. You will only get update if both versions do not match.
   
    ![Software version](images/tg-software-update3.png)
