@@ -456,9 +456,10 @@ Learners can change the language of the Planet system at any time by selecting t
 
 In order to update software and receive Publications,
 
-> You must connect your router to the internet via Ethernet cable and log in as a Manager. Most likely, your Manager account will be the following: 
-               **Login**: Admin User Name
-               **Password**: Admin Password
+1. You must connect your router to the internet via Ethernet cable and log in as a Manager. Most likely, your Manager account will be the following: 
+
+       a. Login: Admin User Name
+       b. Password: Admin Password
         
 1. Checking your software by selecting the manager setting from the top right corner.
   
