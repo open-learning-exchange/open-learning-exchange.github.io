@@ -130,5 +130,3 @@ Please subscribe to our calendar:
 ## Communicate, Communicate, Communicate!
 
 It’s not good to go silent on Gitter or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the Gitter chat. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Also make sure you are `away` in the [OLE google hangout](http://talk.ole.org/). Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self-discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it!
-
-Also, if you find any issue that must be addressed with a pull request, do not forget to use the `Request changes` option when creating your review.
