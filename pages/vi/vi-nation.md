@@ -2,9 +2,9 @@
 
 ## Objectives
 
-- Learn to sync your Community with the Nation
-- Use the Nation interface to check whether your Community successfully joined the Nation
-- Update your Community Planet to the latest version
+* Learn to sync your Community with the Nation
+* Use the Nation interface to check whether your Community successfully joined the Nation
+* Update your Community Planet to the latest version
 
 ## Introduction
 
@@ -16,11 +16,10 @@ Make sure vagrant is running and then click [here](http://localhost:3100) to acc
 It is recommended that you use Firefox since Planet is only guaranteed to run properly on Firefox.
 
 **NOTES**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user on your community. Therefore, to create a dummy user:
-
 1. Create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it a password that you actually use).
 2. Then, log in to your admin account and double-check that you're listed under Members on the Manager Settings page.
 3. Now that your community has a user, you can sync with the nation.
-   For any additional questions, please look at the FAQ section (link in the Useful Links).
+For any additional questions, please look at the FAQ section (link in the Useful Links).
 
 ![Clicking on "Dummy User"](images/vi-become-member.png "Dummy User")
 
