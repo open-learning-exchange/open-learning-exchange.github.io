@@ -45,6 +45,7 @@
 |[wanglihe2010](profiles/wanglihe2010.md)|2019-08-24|
 |[Mattmtech](profiles/Mattmtech.md)|2019-08-25|
 |[saraive16](profiles/saraive16.md)|2019-08-25|
+|[pattanawadee88](profiles/pattanawadee88.md)|2019-09-10|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
