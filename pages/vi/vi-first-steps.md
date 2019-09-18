@@ -46,7 +46,6 @@ There are 3 sub-steps in this step:
 1. [Planet Installation with Vagrant](#!./pages/vi/vi-planet-installation-vagrant.md)
   The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this step, you will learn about how to set up your own Community Planet using vagrant.
 
-
 2. [Planet Configurations](vi-configurations-vagrant.md)
   In this step, you will learn about how to configure your Community Planet.
 

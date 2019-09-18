@@ -73,19 +73,19 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most Planet functionality.
 
-2. **e-Readers** functionality is under construction.
+2. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
 
-3. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically.
+3. **Courses** gives Learners the option to view each Course and to request admission.
 
-4. **Courses** gives Learners the option to view each Course and to request admission.
+4. **Teams** give a list of teams the user is on.
 
 5. **Meetups** allows setup for basic meetings. Meetups are sent to the calendars of other Planet Learners.
 
-6. **Members** provides a list of all Learners in this Planet system.
+6. **Surveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
 
-7. **Reports** allows Nation Managers to distribute Nation Reports as needed.
+7. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
 
-8. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
+8. **Sync** allows user to update to the current Planet system.
 
 9. **Logout** logs the Learner out of the Planet system.
 
@@ -93,23 +93,27 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 11. **Language** shows the language of the user interface and allows the user to switch between languages.
 
-12. **My Library** displays the Resources that were added to “_My Library_” by the Learner.
+12. **myLibrary** displays the Resources that were added to “_My Library_” by the Learner.
 
-13. **My Courses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
+13. **myCourses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
 
-14. **My Meetups** displays the physical location of the Course (if applicable).
+14. **myTeams** displays the current teams the learner is apart of.
 
-15. **My Tutors** is under construction.
+15. **mySubmissions** is the user's course submissions.
 
-16. **Badges** is under construction.
+16. **myAchievements** is the user's current achievements.
 
-17. **Calendar** can be used to organize and display Meetups and Events for the Learner.
+17. **ourNews** location where news can be shared.
 
-18. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
+18. **mySurveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
 
-19. **Surveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
+19. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
 
-20. **Update Welcome Video** allows Managers to change the welcome video for their Nation.
+20. **Manager Settings** allows Managers to change settings such as configuration, manager sync, upgrade and reports.
+
+21. **Notifications** allows user to see any notification for changes.
+
+22. **Menu** options for viewing profile, editing profile, changing password and to logout of the system.
 
 # Library and Resources Overview
 
@@ -445,47 +449,10 @@ Learners can give feedback for any page or Resource at any time by clicking on �
 
 ### _How do I change the Language?_
 
-Learners can change the language of the Planet system at any time by going to the Home page and selecting the language pull down menu from in the top right corner.
+Learners can change the language of the Planet system at any time by selecting the language pull down menu from in the top right corner.
 
-![Select Language](images/tg-language-select.png)
+![Select Language](images/tg-languages.png)
 
-## Calendar Overview
-
-### _What is the calendar and How do I add an Event?_
-
-The Calendar allows Leaders and Learners to organize and view Meetups and Events. The Learner can access his or her Calendar from the Home page Dashboard by clicking on “Calendar” to view and add Events.
-
-![Calendar](images/tg-calendar.png)
-
-Click on “Add Event” in the top left corner to create a new Event.
-
-![Add Calendar Event](images/tg-calendar-add-event.png)
-
-Fill in the information for the Event as shown below. When finished, click “Add Event.”
-
-![Add Calendar Event Details](images/tg-calendar-add-event-details.png)
-
-## Email Overview
-
-### _How do I send and receive an email on the Planet system?_
-
-To send email to another user on the system click the “Email” button on the Dashboard.
-
-![Open Email](images/tg-email-select.png)
-
-After clicking Email, the Learner will see his or her Inbox.
-
-![Open Email](images/tg-email-inbox.png)
-
-The Email button displays the number of new messages in the Learner’s Inbox.
-
-![Send Email](images/tg-email-send.png)
-
-To view an email, click “Email” and then click “View” to read the email. To send an email, click “Compose.”
-
-![Send Email](images/tg-email-compose.png)
-Add the recipients and fill in the email subject. Write your message and click “Send.”
-![Compose Email](images/tg-email-compose-2.png)
 
 ## Software Overview
 
@@ -493,14 +460,27 @@ Add the recipients and fill in the email subject. Write your message and click �
 
 In order to update software and receive Publications,
 
-  1. You must connect your router to the internet via Ethernet cable and log in as a Manager. Most likely, your Manager account will be the following:
-    **Login:** Admin User Name
-    **Password:** Admin Password
+1. You must connect your router to the internet via Ethernet cable and log in as a Manager. Most likely, your Manager account will be the following: 
 
-  2. After logging in, any updates and/or available Publications will be visible as shown below.
+       a. Login: Admin User Name
+       b. Password: Admin Password
+        
+1. Checking your software by selecting the manager setting from the top right corner.
+  
+   ![Software check](images/tg-software-update.png)
+   
+1. As shown below, showing software of Nation Version and Local Version. You will only get update if both versions do not match.
+  
+   ![Software version](images/tg-software-update3.png)
+   
+1. Upgrading software is done by selecting **Upgrade**.
+  
+   ![Software update](images/tg-update-software.png)
+    
+1. **Upgrade planet apk** will allow to get latest myplanet.
+  
+   ![Software update](images/tg-software-update2.png) 
 
-   ![Dashboard Software Update](images/tg-software-overview-update.png)
+1. There is verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
 
-  3. These two gray buttons in red writing will allow you to update the software and sync Publications. First, click “Update Available (0.12.33)”.
 
-  4. The update will automatically run and may take several minutes depending on your internet connection. While the loading screen is still spinning, remain connected and wait until you get a message notifying you that the software update has been successful.

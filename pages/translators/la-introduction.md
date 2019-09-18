@@ -1,6 +1,6 @@
 # Translation Support	
 
-Welcome to the translation support section. We very much appreciate any and all translation support. Thank you for your interest in our software!
+Welcome to the translation support section. We appreciate any and all translation support. Thank you for your interest in our software!
 
 ## The Big Picture
 
