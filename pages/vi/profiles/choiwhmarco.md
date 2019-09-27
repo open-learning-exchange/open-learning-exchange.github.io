@@ -8,7 +8,7 @@
 
 # About Me
 
-**Hi all, I just graduated from coleege. I am staying in California for my undergraduate study. 
+** Hi all, I just graduated from coleege. I am staying in California for my undergraduate study. 
 
 ### Contact
 
