@@ -6,10 +6,10 @@
 | California|     PST  | Windows 10 |
 
 
-#About Me
+# About Me
 
 **Hi all, I just graduated from coleege. I am staying in California for my undergraduate study. 
 
-###Contact
+### Contact
 
 * __GitHub:__ [choiwhmarco](https://github.com/choiwhmarco)
