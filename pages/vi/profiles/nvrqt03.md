@@ -1,4 +1,6 @@
-![austin](http://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_1200/v1475795324/photos/118635_original.jpg)   
+# AJ Mitchell #    
+
+![austin](https://images.fineartamerica.com/images-medium-large-5/austin-texas-evening-excitement-cityscape-skyline-skyscrapers-congress-avenue-bridge-dszc.jpg)     
 
 ## *Location* ##   
 * Austin, Texas    
