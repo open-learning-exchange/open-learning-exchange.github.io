@@ -1,8 +1,8 @@
-# AJ Mitchell #  
+# AJ Mitchell #
 
-![austin](https://images.fineartamerica.com/images-medium-large-5/austin-texas-evening-excitement-cityscape-skyline-skyscrapers-congress-avenue-bridge-dszc.jpg)  
+![austin](https://images.fineartamerica.com/images-medium-large-5/austin-texas-evening-excitement-cityscape-skyline-skyscrapers-congress-avenue-bridge-dszc.jpg)
 
-Location   
+## *Location* ##
 * Austin, Texas    
 * Central Time(CT)    
 * Windows 10    
