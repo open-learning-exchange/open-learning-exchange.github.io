@@ -1,6 +1,5 @@
-# AJ Mitchell #      
-
 ![austin](http://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_1200/v1475795324/photos/118635_original.jpg)   
+
 ## *Location* ##   
 * Austin, Texas    
 * Central Time (CT)
