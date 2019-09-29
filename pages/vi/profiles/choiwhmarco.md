@@ -1,4 +1,4 @@
-<b>Marco</b>
+# Marco
 
 
 |  Location | Timezone | OS |
@@ -8,8 +8,14 @@
 
 # About Me
 
-**Hi all, I just graduated from coleege. I am staying in California for my undergraduate study.**
+**Hi all, I just graduated from college. I have worked on some web applications and some data science related projects.**
 
 ## Contact
 
 * __GitHub:__ [choiwhmarco](https://github.com/choiwhmarco)
+
+# Languages
+* Java
+* Python
+* HTML/CSS
+* JavaScript
