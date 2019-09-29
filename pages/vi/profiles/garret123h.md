@@ -13,7 +13,7 @@ HTML, CSS, and Javascript and am excited to learn new software development. my t
 * ![#157500](https://placehold.it/20/157500?text=+)Learning new things in school
 
 
-You Can Follow me On [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/feed/)
+You Can Follow me On [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/garret-tullio-41059316b/)
 
 ## I can't wait to start working with all of you!
 
