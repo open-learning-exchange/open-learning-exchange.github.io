@@ -18,4 +18,10 @@
 * Java
 * Python
 * HTML/CSS
+* TypeScript
 * JavaScript
+
+# Frameworks
+* Angular
+* Ionic
+
