@@ -113,9 +113,15 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 21. **mySurveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
 
+<<<<<<< HEAD
 **_You might notice a slight difference if you have a smaller screen size. Items 1-6 move to the side, as do 7 and 9. There is also an additional logout button._**
 
 ![Planet User Dashboard](images/tg-dashboard-small.png)
+=======
+**You might notice a slight difference if you have a smaller screen size. Items 1-6 move to the side, as do 7 and 9. There is also an additional logout button.**
+
+![Planet User Dashboard](images/tg-dashboard.png)
+>>>>>>> 4070823fbca4bde8bad50c85714e9284096782b3
 
 # Library and Resources Overview
 
