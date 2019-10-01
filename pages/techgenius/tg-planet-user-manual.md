@@ -79,7 +79,7 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 4. **Teams** give a list of teams the user is on.
 
-5. **Enterprises** .
+5. **Enterprises** allows for basic meetings. Meeting invites are sent to the calendars of other Planet Learners.
 
 6. **Surveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
 
