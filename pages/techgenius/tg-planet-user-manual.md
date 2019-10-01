@@ -71,7 +71,7 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 ![Planet User Dashboard](images/tg-dashboard.png)
 
-1. **My Home** directs the Learner to the main Dashboard page and provides easy access to most Planet functionality.
+1. **Home** directs the Learner to the main Dashboard page and provides easy access to most Planet functionality.
 
 2. **Library** allows a Learner to browse the digital Resources. It also allows a Learner to view collections of Resources by topic or to view the Resources alphabetically. 
 
@@ -79,41 +79,43 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 4. **Teams** give a list of teams the user is on.
 
-5. **Meetups** allows setup for basic meetings. Meetups are sent to the calendars of other Planet Learners.
+5. **Enterprises** .
 
 6. **Surveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
 
 7. **Feedback** allows Learners to give feedback for the Resource or page they are viewing.
 
-8. **Sync** allows user to update to the current Planet system.
+8. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages
 
-9. **Logout** logs the Learner out of the Planet system.
+9. **Sync** allows user to update to the current Planet system.
 
-10. **Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
+10. **Manager Settings** allows Managers to change settings such as configuration, manager sync, upgrade and reports.
 
-11. **Language** shows the language of the user interface and allows the user to switch between languages.
+11. **Notifications** allows user to see any notification for changes.
 
-12. **myLibrary** displays the Resources that were added to “_My Library_” by the Learner.
+12. **Language** shows the language of the user interface and allows the user to switch between languages.
 
-13. **myCourses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
+13. **Menu** options for viewing profile, editing profile, changing password and to logout of the system.
 
-14. **myTeams** displays the current teams the learner is apart of.
+14. **Type of Member** shows the access level of user - Learner, Leader, or Manager. This also allows Managers to oversee Nation maintenance.
 
-15. **mySubmissions** is the user's course submissions.
+15. **myLibrary** displays the Resources that were added to “_My Library_” by the Learner.
 
-16. **myAchievements** is the user's current achievements.
+16. **myCourses** Progress displays Courses in which the Leader/Learner is enrolled and the progress of each Course.
 
-17. **ourNews** location where news can be shared.
+17. **myTeams** displays the current teams the learner is apart of.
 
-18. **mySurveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
+18. **mySubmissions** is the user's course submissions.
 
-19. **Email** is a basic email system which allows Learners to receive and set notifications and send and receive messages.
+19. **myAchievements** is the user's current achievements.
 
-20. **Manager Settings** allows Managers to change settings such as configuration, manager sync, upgrade and reports.
+20. **ourNews** location where news can be shared.
 
-21. **Notifications** allows user to see any notification for changes.
+21. **mySurveys** allows Nation Managers to push a survey Planet users based on characteristics like age, gender, member type, Community, etc.
 
-22. **Menu** options for viewing profile, editing profile, changing password and to logout of the system.
+**You might notice a slight difference if you have a smaller screen size. Items 1-6 move to the side, as do 7 and 9. There is also an additional logout button.**
+
+![Planet User Dashboard](images/tg-dashboard.png)
 
 # Library and Resources Overview
 
