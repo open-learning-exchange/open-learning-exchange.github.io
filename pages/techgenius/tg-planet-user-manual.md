@@ -115,7 +115,7 @@ An example of the Manager Dashboard is shown below. The functionality is defined
 
 **You might notice a slight difference if you have a smaller screen size. Items 1-6 move to the side, as do 7 and 9. There is also an additional logout button.**
 
-![Planet User Dashboard](images/tg-dashboard.png)
+![Planet User Dashboard](images/tg-dashboard-small.png)
 
 # Library and Resources Overview
 
