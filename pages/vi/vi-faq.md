@@ -84,7 +84,7 @@
 
 #### Q13: Why does Firefox say “Unable to connect” when I try to load my Community?
 
-+ Because a Community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your Community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the Planet, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual Planet user interface.
++ Because a Community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your Community is running by going to `http://localhost:3100/` in Firefox. Go to `127.0.0.1:5984/_utils` to see the CouchDB behind the Planet, and `127.0.0.1:5984/apps/_design/bell/MyApp/index.html` to navigate the actual Planet user interface.
 
 #### Q14: When I first run Planet with the "vagrant up" command, why does the download fail?
 
