@@ -11,4 +11,4 @@ I have good knowledge of **Angular**, **HTML**, **CSS** and other latest web dev
 I look forward to working as a Virtual Intern for **OLE** as it would give me an opportunity to use my
 skills for social benefit and also learn new skills and improve my knowledge.
 
-[Link to my project page]{ https://good-books-f2cd9.firebaseapp.com/}
+[Link to my project page](https://good-books-f2cd9.firebaseapp.com)
