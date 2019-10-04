@@ -157,7 +157,7 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
-## Next Section _(Step 7)_ **→**
+## Next Section _([Step 7](https://open-learning-exchange.github.io/#!pages/vi/vi-nation.md))_ **→**
 
 In the next step, you will learn how to sync your Community Planet with the Nation.
 
