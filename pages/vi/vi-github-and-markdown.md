@@ -175,8 +175,6 @@ After your pull request has been **approved** and **merged** by OLE staff, you m
 
 [GitHub - Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A GitHub help page on how to format and write, along with working with saved replies.
 
-[Markdown Web Editor](https://markdownlivepreview.com/) - A markdown web editor to make page
-
 [GitHub - How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in-depth explanation about how and why we fork repositories.
 
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
