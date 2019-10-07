@@ -26,7 +26,7 @@ A Markdown cheat sheet that might help you create your own Markdown page later:
 
 [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) - A resource for commonly used git commands.
 
-[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples
+[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples.
 
 [Markdown Web Editor](https://markdownlivepreview.com/) - A live editor for creating Markdown pages
 
