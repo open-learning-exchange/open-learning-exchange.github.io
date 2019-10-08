@@ -1,7 +1,7 @@
 
 # Name: Rafid Ishrak Jahan
 
-![image] (https://drive.google.com/open?id=1WUMhrXYTmCR69Y-PpccKhH-37FIhmNPp)
+![alt text](https://drive.google.com/open?id=1WUMhrXYTmCR69Y-PpccKhH-37FIhmNPp)
 
 # Location: Texas, US
 # Time zone: GMT-5
