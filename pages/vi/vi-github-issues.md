@@ -110,7 +110,7 @@ You can also use the raw.githack url generator on <https://raw.githack.com>
 5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.  
 
 **example:**  
- https://raw.githack.com/YourUsername/YourUsername.github.io/yourBranchName/#!pages/folder/folderName.md  
+ https://raw.githack.com/nvrqt03/nvrqt03.github.io/nvrqt03-githack-update/#!pages/vi/vi-github-issues.md  
  
 
 ![example](images/vi-raw.githack-example.png)
