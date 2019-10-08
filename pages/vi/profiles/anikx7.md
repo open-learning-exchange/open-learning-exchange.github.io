@@ -2,9 +2,6 @@
 * Location: Texas, US
 * Time zone: GMT-5
 * OS: Windows 10 Home
-![image](https://drive.google.com/open?id=1WUMhrXYTmCR69Y-PpccKhH-37FIhmNPp)
-
-
 
 # About me
 My name is Rafid Ishrak Jahan. My friends and family call me Rafid. I am a recent Software Engineering Graduate. I graduated from the
