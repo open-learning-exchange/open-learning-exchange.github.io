@@ -1,8 +1,8 @@
 ### Name: Rafid Ishrak Jahan
 * Location: Texas, US
-* 
-  * Time zone: GMT-5
-* OS: Windows 10 Home    
+* Time zone: GMT-5
+* OS: Windows 10 Home
+![image](https://drive.google.com/open?id=1WUMhrXYTmCR69Y-PpccKhH-37FIhmNPp)
 
 
 
