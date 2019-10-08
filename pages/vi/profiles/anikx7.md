@@ -1,13 +1,12 @@
+![image](https://drive.google.com/open?id=1WUMhrXYTmCR69Y-PpccKhH-37FIhmNPp)
+## Name: Rafid Ishrak Jahan
+## Location: Texas, US
+## Time zone: GMT-5
+## OS: Windows 10 Home    
 
-# Name: Rafid Ishrak Jahan
 
-![alt text](https://drive.google.com/open?id=1WUMhrXYTmCR69Y-PpccKhH-37FIhmNPp)
 
-# Location: Texas, US
-# Time zone: GMT-5
-# OS: Windows 10 Home    
-
-## About me
+# About me
 My name is Rafid Ishrak Jahan. My friends and family call me Rafid. I am a recent Software Engineering Graduate. I graduated from the
 University of Texas at Arlington in Summer 2019. Throughout my undergraduate career, I learned different kinds of software
 engineering-related technologies. I learned different kinds of programming languages such as C, C++, Java, Python, Matlab, and Assembly 
