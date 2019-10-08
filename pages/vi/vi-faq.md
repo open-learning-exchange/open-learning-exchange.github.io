@@ -279,6 +279,21 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [Vagrant Documentation](https://www.vagrantup.com/docs/getting-started/)
 - [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
 
+#### *HTML*
+- [HTML5](https://www.w3schools.com/html/html5_intro.asp)
+
+#### *JavaScript*
+- [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+
+#### *Angular*
+- [Angular Tutorial](https://angular.io/tutorial)
+
+#### *CouchDB*
+- [CouchDB Tutorial](https://www.tutorialspoint.com/couchdb/index.htm)
+
+### *Node.js*
+- [Node.js Tutorial](https://www.tutorialspoint.com/nodejs/index.htm)
+
 ## Helpful Videos
 
 - [GitHub & Git Foundations (Playlist)](https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM)
