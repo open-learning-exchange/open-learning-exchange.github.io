@@ -293,7 +293,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 #### *Angular*
 - [Angular Tutorial](https://angular.io/tutorial)
-- [RxJS](https://angular.io/guide/rx-library)
+- [RxJS Doc](https://angular.io/guide/rx-library)
 
 #### *TypeScript*
 - [TypeScript Tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
