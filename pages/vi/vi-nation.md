@@ -92,4 +92,5 @@ vagrant up prod
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
+
 #### Return to [First Steps](vi-first-steps.md#Step_7_-_Nation_Planet)
