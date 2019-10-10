@@ -220,6 +220,9 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 ## Helpful Links
 
+#### *Command line commands*
+- [List of command line commands](https://www.codecademy.com/articles/command-line-commands)
+
 #### *Docker*
 
 - [What is Docker?](https://www.docker.com/what-docker)
@@ -230,9 +233,6 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
 
 #### *GitHub and Markdown*
-
-* Command line commands
-    - [List of command line commands](https://www.codecademy.com/articles/command-line-commands)
 
 * General
     - [GitHub and Markdown Short Tutorials](https://guides.github.com/)
