@@ -231,6 +231,8 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 #### *GitHub and Markdown*
 
+* Command line commands
+    - [List of command line commands](https://www.codecademy.com/articles/command-line-commands)
 
 * General
     - [GitHub and Markdown Short Tutorials](https://guides.github.com/)
