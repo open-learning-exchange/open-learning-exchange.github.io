@@ -3,9 +3,9 @@
 * Time zone: GMT-5
 * OS: Windows 10 Home
 
-Programming language | Database Management Language | Methodology
-:--- | :--- | :---
-C, C++, Java | SQL | Agile, Scrum
+Programming language | Database Management Language
+:--- | :---
+C, C++, Java | SQL
 
 # About me
 My name is Rafid Ishrak Jahan. My friends and family call me Rafid. I am a recent Software Engineering Graduate. I graduated from the
