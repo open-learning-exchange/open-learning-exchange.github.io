@@ -11,7 +11,7 @@
 - **Q7:** [If I'm an international student, how soon can I get my paperwork required by my visa?](#Q7:_If_I'm_an_international_student,_how_soon_can_I_get_my_paperwork_required_by_my_visa?)
 - **Q8:** [How many pull requests and issues in total do I need to make to finish the steps?](#Q8:_How_many_pull_requests_and_issues_in_total_do_I_need_to_make_to_finish_the_steps?)
 - **Q9:** [How long do I have to complete these steps?](#Q9:_How_long_do_I_have_to_complete_these_steps?)
-
+- **Q10:** [How can I keep track of 10 steps vetting progress?](#Q10:_How_can_I_keep_track_of_10_steps_vetting_progress?)
 ## Technical Questions
 
 - **Q10:** [What is the purpose of Nations and Communities, and how do they work together?](#Q10:_What_is_the_purpose_of_Nations_and_Communities,_and_how_do_they_work_together?)
@@ -67,6 +67,9 @@
 
 + There is no official deadline, so work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days.
 
+#### Q10: How can I keep track of 10 steps vetting progress??
+
++ You can keep track of your progress using the [Tracking Progress](https://open-learning-exchange.github.io/#!./pages/vi/vi-track-progress.md) link. 
 
 ### Technical Questions
 
