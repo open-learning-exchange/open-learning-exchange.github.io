@@ -67,7 +67,7 @@
 
 + There is no official deadline, so work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days.
 
-#### Q10: How can I keep track of 10 steps vetting progress??
+#### Q10: How can I keep track of 10 steps vetting progress?
 
 + You can keep track of your progress using the [Tracking Progress](https://open-learning-exchange.github.io/#!./pages/vi/vi-track-progress.md) link. 
 
