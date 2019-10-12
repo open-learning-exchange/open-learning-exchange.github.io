@@ -28,7 +28,7 @@ A Markdown cheat sheet that might help you create your own Markdown page later:
 
 [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples
 
-[Markdown Web Editor](https://markdownlivepreview.com/) - A Online Web Editor for Markdown
+[Markdown Web Editor](https://markdownlivepreview.com/) - An Online Web Editor for Markdown
 
 [Markdown Tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) - An interactive tutorial to learn Markdown.
 
