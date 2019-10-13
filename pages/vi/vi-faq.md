@@ -84,7 +84,7 @@
 
 #### Q13: Why does Firefox say “Unable to connect” when I try to load my Community?
 
-+ Because a Community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your Community is running by going to `127.0.0.1:5985` in Firefox. Go to `127.0.0.1:5985/_utils` to see the CouchDB behind the Planet, and `127.0.0.1:5985/apps/_design/bell/MyApp/index.html` to navigate the actual Planet user interface.
++ Because a Community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your Community is running by going to `http://localhost:3100/` in Firefox. Go to `127.0.0.1:5984/_utils` to see the CouchDB behind the Planet, and `127.0.0.1:5984/apps/_design/bell/MyApp/index.html` to navigate the actual Planet user interface.
 
 #### Q14: When I first run Planet with the "vagrant up" command, why does the download fail?
 
@@ -269,6 +269,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 #### *Vi/Vim*
 
 - [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/sheets/vi_help_sheet.pdf)
+- [VIM Adventures Game for beginners](https://vim-adventures.com/)
 
 #### *VirtualBox*
 
@@ -278,6 +279,28 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 - [Vagrant Documentation](https://www.vagrantup.com/docs/getting-started/)
 - [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
+
+#### *HTML*
+- [HTML5 Tutorial](https://www.w3schools.com/html/html5_intro.asp)
+
+#### *CSS*
+- [CSS Tutorial](https://www.w3schools.com/css/)
+
+#### *JavaScript*
+- [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+
+#### *ES6*
+- [ES6 Tutorial](https://www.tutorialspoint.com/es6/index.htm)
+
+#### *Angular*
+- [Angular Tutorial](https://angular.io/tutorial)
+- [RxJS Doc](https://angular.io/guide/rx-library)
+
+#### *TypeScript*
+- [TypeScript Tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+#### *CouchDB*
+- [CouchDB Tutorial](http://docs.couchdb.org/en/stable/intro/why.html)
 
 ## Helpful Videos
 
