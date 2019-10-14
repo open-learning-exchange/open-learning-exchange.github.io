@@ -10,6 +10,8 @@ Once accepted, you and your team will work on an assignment, and we’ll switch 
 
 For IDE/Editor, we recommend **[Visual Studio Code](https://code.visualstudio.com/)** for web application, **[Vim](https://www.vim.org/)** for treehouses, and **[Android Studio](https://developer.android.com/studio)** for Android Development.
 
+For IDE/Editor, we recommend **[Sublime](https://www.sublimetext.com/)**, **[Visual Studio Code](https://code.visualstudio.com/)**, **[WebStorm](https://www.jetbrains.com/webstorm/?fromMenu)**. Sublime and VS Code are both light editors, but WebStorm has a lot of useful features. If you have a school email, you can use it to get a free license from **[jetbrains](https://www.jetbrains.com/)**.
+
 **NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found in our [FAQ](vi-faq.md#General_Internship_Questions). If you have further questions, don’t hesitate to ask other members in the Gitter [chat](vi-chat.md)!
 
 # The Steps
