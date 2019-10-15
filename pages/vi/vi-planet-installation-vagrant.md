@@ -140,7 +140,7 @@ At this early stage, the simple solution would be using `vagrant destroy prod` t
 
 7. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
 
-## Next Section ([Step 1.2](https://open-learning-exchange.github.io/#!pages/vi/vi-configurations-vagrant.md)) **→**
+## Next Section ([Step 1.2](vi-configurations-vagrant.md)) **→**
 
 Now  you have installed your community Planet, head over to [Planet Configurations](#!./pages/vi/vi-configurations-vagrant.md) to register your community with the nation.
 

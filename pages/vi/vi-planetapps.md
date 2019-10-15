@@ -100,7 +100,7 @@ If the course "Virtual Interns" is not there, check `Manage Sync` of manager set
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section _([Step 5](https://open-learning-exchange.github.io/#!pages/vi/vi-github-and-repositories.md))_ **→**
+## Next Section _([Step 5](vi-github-and-repositories.md))_ **→**
 
 In the next step, you will learn more about how our Git repositories work, and how to sync your own repository to keep up-to-date.
 
