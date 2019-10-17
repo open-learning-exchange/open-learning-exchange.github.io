@@ -16,11 +16,11 @@ Here's some information about me:
 
 
 **Hobbies**: 
-* Playing piano
-* Singing
-* Folding origami
-* Taking photos
-* Nerding out about educational videos on YouTube
+- Playing piano
+- Singing
+- Folding origami
+- Taking photos
+- Nerding out about educational videos on YouTube
 
 
 **Languages**: Java, JavaScript, Python
