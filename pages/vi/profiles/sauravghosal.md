@@ -23,6 +23,7 @@ My name is Saurav Ghosal. I'm a second year CS major at Georgia Tech. I'm excite
 **Languages**: Java, JavaScript, Python
 
 **Socials**: 
+
 [LinkedIn](https://www.linkedin.com/in/saurav-ghosal-b71033171/)
 
 [YouTube](https://www.youtube.com/channel/UCRUX_I5DUBcSs3bTTJX2lWw/)
