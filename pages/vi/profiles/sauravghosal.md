@@ -6,6 +6,9 @@
 
 My name is Saurav Ghosal. I'm a second year CS major at Georgia Tech. I'm excited to be a virtual intern to gain practical coding skills and to meet interesting new people!
 
+Here's some information about me:
+---
+
 **Current location**: Atlanta, GA (Time Zone: Eastern Standard Time - EST). 
 
 
