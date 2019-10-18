@@ -4,15 +4,6 @@
 [**Return Home**](./overview.md)
 
 
-Topics:
-1. [Getting to the Courses Page](#getting-to-the-courses-page)
-2. [List of Courses](#list-of-courses)
-3. [Actions on List Page](#actions-on-list-page)
-4. [Adding Course](#adding-course)
-5. [Course Collections](#course-collections)
-6. [Taking a Test](#taking-a-test)
-7. [Taking a Survey](#taking-a-survey)
-
 ## Getting to the Courses Page
 There are two ways to get to the Courses page:
 
