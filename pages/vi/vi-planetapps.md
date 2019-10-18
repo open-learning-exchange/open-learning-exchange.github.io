@@ -96,6 +96,8 @@ Take the course, and the last question will ask you to specify any problems or i
 
 If the course "Virtual Interns" is not there, check `Manage Sync` of manager settings page to see if your synchronization has been completed. Otherwise please message us and "@" an admin in the Gitter chat so we can send you the course manually.
 
+Check out this [link](https://crowdin.com/page/tour#tab_translators) and [translation](https://open-learning-exchange.github.io/#!pages/translators/la-introduction.md) to learn how you can start contributing on Crowdin.   
+
 ## Useful Links
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
