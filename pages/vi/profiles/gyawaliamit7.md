@@ -16,4 +16,4 @@
 
 >I am a computer science student at St. Cloud State University.
 >I Love to play FIFA , take photos during my leisure
->I am always open to learn new stuffs.
+>I am always open to learn new stuffs
