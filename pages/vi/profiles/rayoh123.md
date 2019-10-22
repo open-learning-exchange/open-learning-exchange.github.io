@@ -1,6 +1,6 @@
 Raymond Ouyang 
 =======
-![Image](https://bit.ly/2GVyuz8 =100x "painting")
+![Image](https://bit.ly/2GVyuz8 "painting")
 
 ## Information about me
  * Location: Cerritos, California, United States
