@@ -13,4 +13,4 @@ make great things! I have experience in:
  * OS version: Windows 10
 
 ## Fun things to talk with me about
- * Chess (challenge me to a game [here](chess! 
+ * Chess (challenge me to a game [here](https://www.chess.com/member/raysorz)! 
