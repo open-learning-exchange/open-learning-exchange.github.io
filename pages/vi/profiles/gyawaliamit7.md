@@ -1,7 +1,7 @@
 # Gyawali Amit Profile
 
 | [Linkedin](https://www.linkedin.com/in/gyawaliamit/) | [Twitter](https://twitter.com/gyawaliamit7) | [Instagram](https://www.instagram.com/amit.lfc.gyawali/)  |  [Profile](https://gyawaliamit7.github.io/AmitResume/)  |
-|:-----------------|:-------------|:---------------:|---------------:|
+|:-----------------|:-------------|:---------------|:---------------|
 
 
 
@@ -16,4 +16,5 @@
 
 >I am a computer science student at St. Cloud State University.
 >I Love to play FIFA , take photos during my leisure
->I am always open to learn new stuffs
+>I am always open to learn new stuff.
+ 
