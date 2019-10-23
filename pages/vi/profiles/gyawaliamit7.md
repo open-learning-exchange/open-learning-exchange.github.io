@@ -1,7 +1,7 @@
 # Gyawali Amit Profile
 
 | [Linkedin](https://www.linkedin.com/in/gyawaliamit/) | [Twitter](https://twitter.com/gyawaliamit7) | [Instagram](https://www.instagram.com/amit.lfc.gyawali/)  |  [Profile](https://gyawaliamit7.github.io/AmitResume/)  |
-|:-----------------|:-------------|:---------------|:---------------|
+|:-|:-|:-|:-
 
 
 
