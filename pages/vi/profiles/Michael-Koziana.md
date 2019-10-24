@@ -16,4 +16,5 @@ Asian food. I love pho, ramen, bulgogi inspired dishes(big fan of korean food), 
 | R          |
 | Javascript |
 
-
+### LinkedIn:
+www.LinkedIn.com/in/Koziana
