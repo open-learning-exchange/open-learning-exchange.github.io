@@ -2,6 +2,8 @@
  1. Time Zone: Central Standard Time
  2. MAC OS Mojave version 10.14.6
 
+![image](https://www.insidehighered.com/sites/default/server_files/styles/large/public/media/illini-union.jpg?itok=4RXuI9yJ)
+
 ### About Me:
 I am Michael Koziana. I am currently a sophomore pursuing a degree in Computer Science and Economics at the University of Illinois at Urbana-Champaign. I'm a big nerd when it comes to playing video games - I love the oldies as well as League, lowkey addicted. My favorite category of food has to be 
 Asian food. I love pho, ramen, bulgogi inspired dishes(big fan of korean food), tonkotsu, sushi, etc.
@@ -17,4 +19,4 @@ Asian food. I love pho, ramen, bulgogi inspired dishes(big fan of korean food), 
 | Javascript |
 
 ### LinkedIn:
-www.LinkedIn.com/in/Koziana
+[LinkedIn](www.LinkedIn.com/in/Koziana)
