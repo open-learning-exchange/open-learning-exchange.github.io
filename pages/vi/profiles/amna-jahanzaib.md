@@ -1,4 +1,4 @@
-# Amna Jahanzaib
+# Amna Jahanzaib:pakistan:
 
 Location | Timezone | OS
 :--- | :--- | :---
@@ -18,3 +18,4 @@ I believe this virtual intern opportunity would be a great chance for me to beco
 * __GitHub:__ [amna](https://github.com/Amna-jahanzaib)
 * __Twitter:__ [amna](https://twitter.com/AmNa_Khan22)
 
+######Thanks for your time :blush:	
