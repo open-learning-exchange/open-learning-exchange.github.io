@@ -15,13 +15,13 @@
         cursor: pointer;
     }
      .username {
-        color: white; 
+        color: black; 
         padding: 16px; 
         font-size: 16px; 
         border: none; 
             }
 --></style>
-    Github Username: 
+   ** Github Username: **
   <input type="text" class ="username" id = "username" name="username" placeholder ="Ex: gyawaliamit7">
   
   <button class="dropbtn" onclick="Set_User();">Get PRs/Issues Count</button>
