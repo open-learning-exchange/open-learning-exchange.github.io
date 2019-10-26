@@ -15,8 +15,9 @@
         cursor: pointer;
     }
 --></style>
-    Github Username:<br>
-  <input type="text" id = "username" name="username" placeholder ="amit">
+    Github Username: 
+  <input type="text" id = "username" name="username" placeholder ="Dogi">
+  
   <button class="dropbtn" onclick="Set_User();">Get PRs/Issues Count</button>
   <br>
 
@@ -39,7 +40,7 @@
     //Validate User
     function Set_User() {
         res.innerHTML = "";
-        user = document.getElementById('username');
+        user = document.getElementById("username").value;
         if (!(user == "" || user == null)) {
             var url = "https://api.github.com/users/" + user;
             fetch(url)
