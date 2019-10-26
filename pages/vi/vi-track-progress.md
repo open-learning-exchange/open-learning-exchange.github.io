@@ -18,7 +18,6 @@
         color: black; 
         padding: 16px; 
         font-size: 16px; 
-        border: none; 
             }
 --></style>
    ** Github Username: **
