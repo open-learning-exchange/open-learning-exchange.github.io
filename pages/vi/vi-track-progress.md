@@ -14,9 +14,15 @@
         border: none; 
         cursor: pointer;
     }
+     .username {
+        color: white; 
+        padding: 16px; 
+        font-size: 16px; 
+        border: none; 
+            }
 --></style>
     Github Username: 
-  <input type="text" id = "username" name="username" placeholder ="Dogi">
+  <input type="text" class ="username" id = "username" name="username" placeholder ="Ex: gyawaliamit7">
   
   <button class="dropbtn" onclick="Set_User();">Get PRs/Issues Count</button>
   <br>
@@ -25,7 +31,7 @@
 
 <script>
     const res = document.getElementById('results');
-    var user = "Dogi";
+    var user = "gyawaliamit7";
     
     //Functions
     //Check response from the API
