@@ -22,7 +22,7 @@ Oracle Certified Associate, Java SE 8 Programmer
 
 ## Skills
 ```
-Java, C#, HTML, SQL, Spring, Hibernate, Servlets, JSP, JDBC, REST, MySQL, PostgreSQL, IBM DB2, Android Studio, Eclipse, Git, JUnit, Linux
+Java, C#, HTML, SQL, Spring, Hibernate, Android Studio, Servlets, JSP, JDBC, REST, MySQL, PostgreSQL, IBM DB2, Eclipse, Git, JUnit, Linux
 
 ```
 ## Know me
