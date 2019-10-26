@@ -15,8 +15,13 @@
         cursor: pointer;
     }
 --></style>
-       
-<button class="dropbtn" onclick="Set_User();">Get PRs/Issues Count</button>
+<form>
+    Github Username:<br>
+  <input type="text" id = "username" name="username" placeholder ="amit">
+  <button class="dropbtn" onclick="Set_User();">Get PRs/Issues Count</button>
+  <br>
+</form>
+
 <div id="results"></div>
 
 <script>
@@ -36,7 +41,7 @@
     //Validate User
     function Set_User() {
         res.innerHTML = "";
-        user = prompt("Please enter username", user);
+        user = getElementsByName("username").value;
         if (!(user == "" || user == null)) {
             var url = "https://api.github.com/users/" + user;
             fetch(url)
