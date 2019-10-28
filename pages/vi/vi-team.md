@@ -47,6 +47,7 @@
 |[saraive16](profiles/saraive16.md)|2019-08-25|
 |[pattanawadee88](profiles/pattanawadee88.md)|2019-09-10|
 |[smitshrestha101](profiles/smitshrestha101.md)|2019-09-18|
+|[anikx7](profiles/anikx7.md)|2019-10-21|
 |[sjkadali](profiles/sjkadali-edited.md)|2019-10-21|
 
 ## Former Interns
