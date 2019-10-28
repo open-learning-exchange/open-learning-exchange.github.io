@@ -181,7 +181,7 @@ After your pull request has been **approved** and **merged** by OLE staff, you m
 
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section _(Step 4)_ **→**
+## Next Section _([Step 4](vi-planetapps.md))_ **→**
 
 In the next step, you will learn more about your community Planet, and the Planet interface.
 

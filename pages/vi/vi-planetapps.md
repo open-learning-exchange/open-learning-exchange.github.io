@@ -102,7 +102,7 @@ Check out this [link](https://crowdin.com/page/tour#tab_translators) and [transl
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section _(Step 5)_ **→**
+## Next Section _([Step 5](vi-github-and-repositories.md))_ **→**
 
 In the next step, you will learn more about how our Git repositories work, and how to sync your own repository to keep up-to-date.
 
