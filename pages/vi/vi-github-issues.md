@@ -149,7 +149,7 @@ To delete the defunct branch in your local repository, use the command `git bran
 
 NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md).
 
-This is an exercise to help you familiarize with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
+This is an exercise to help you familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
 ## Useful Links
 
@@ -157,7 +157,7 @@ This is an exercise to help you familiarize with GitHub issues, committing, and 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
-## Next Section _(Step 7)_ **→**
+## Next Section _([Step 7](vi-nation.md))_ **→**
 
 In the next step, you will learn how to sync your Community Planet with the Nation.
 

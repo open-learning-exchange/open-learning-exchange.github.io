@@ -1,11 +1,5 @@
 # Teams
 
-Topics:
-1. [Accessing Teams](#accessing-teams)
-2. [Actions On Teams Page](#actions-on-teams-page)
-3. [Adding Teams](#adding-teams)
-4. [Manage Teams](#manage-teams)
-
 ## Accessing Teams
 On dashboard you will be able to access teams from the **dashboard tile** (red box) and the **menu** (blue box).
 

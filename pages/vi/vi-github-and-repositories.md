@@ -128,7 +128,7 @@ If you have uncommitted changes (from mixing interface and terminal use of GitHu
 
 Remember, you should repeatedly use the commands `git diff` and `git status` to respectively see the difference between your username.github.io and your local repository and then see the status of your repository and the changes you have made. Once again, you need to sync your repository with the correct master first, otherwise you will not see the correct `git diff` and `git status`. `git diff` and `git status` only look between your local and username.github.io repos, not your upstream repo.
 
-Below is an example of **git diff** command showing difference in the file of local and remote repository.
+Below is an example of the **git diff** command showing the difference in the file of local and remote repository.
 
 ``` bash
 $ git diff
@@ -206,7 +206,7 @@ If you would like to understand how syncing with the fork works, here is a usefu
 [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section _(Step 6)_ **→**
+## Next Section _([Step 6](vi-github-issues.md))_ **→**
 
 In the next section, you will learn the process for creating and resolving issues with GitHub.
 

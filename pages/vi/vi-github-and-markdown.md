@@ -28,6 +28,8 @@ A Markdown cheat sheet that might help you create your own Markdown page later:
 
 [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples
 
+[Markdown Web Editor](https://markdownlivepreview.com/) - An Online Markdown Web Editor
+
 [Markdown Tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) - An interactive tutorial to learn Markdown.
 
 [Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - Another awesome interactive tutorial to experiment and learn more Markdown syntax.
@@ -179,7 +181,7 @@ After your pull request has been **approved** and **merged** by OLE staff, you m
 
 [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section _(Step 4)_ **→**
+## Next Section _([Step 4](vi-planetapps.md))_ **→**
 
 In the next step, you will learn more about your community Planet, and the Planet interface.
 
