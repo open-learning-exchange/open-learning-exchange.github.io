@@ -14,19 +14,23 @@
         border: none; 
         cursor: pointer;
     }
+     .username {
+        color: black; 
+        padding: 14px; 
+        font-size: 16px; 
+            }
 --></style>
-<form>
-    Github Username:<br>
-  <input type="text" id = "username" name="username" placeholder ="amit">
+   ** Github Username: **
+  <input type="text" class ="username" id = "username" name="username" placeholder ="Ex: gyawaliamit7">
+  
   <button class="dropbtn" onclick="Set_User();">Get PRs/Issues Count</button>
   <br>
-</form>
 
 <div id="results"></div>
 
 <script>
     const res = document.getElementById('results');
-    var user = "Dogi";
+    var user = "gyawaliamit7";
     
     //Functions
     //Check response from the API
@@ -41,7 +45,7 @@
     //Validate User
     function Set_User() {
         res.innerHTML = "";
-        user = getElementsByName("username").value;
+        user = document.getElementById("username").value;
         if (!(user == "" || user == null)) {
             var url = "https://api.github.com/users/" + user;
             fetch(url)
