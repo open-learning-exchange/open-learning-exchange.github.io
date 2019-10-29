@@ -92,7 +92,7 @@ vagrant up prod
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section _([Step 8](vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests))_ **→**
+## Next Section _([Step 8](https://open-learning-exchange.github.io/#!pages/vi/vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests))_ **→**
 
 In the next section, you will create and resolve more issues with GitHub.
 
