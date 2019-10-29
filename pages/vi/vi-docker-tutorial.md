@@ -35,6 +35,8 @@ Now, take a look at [the YAML file for planet](https://github.com/open-learning-
 
 Below you'll find a few common `docker-compose` commands you would need throughout working with `planet` (the following examples assumes you are in planet repo's docker folder):
 
+WARNING: If you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d`. It might destroy your configuration. `vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d` automatically. If you are in this situation, look at the ** [Second and third element of Troubleshooting in this page]( https://open-learning-exchange.github.io/#!./pages/vi/vi-configurations-vagrant.md#Troubleshooting)** 
+
 - `docker-compose -f planet.yml -p planet up -d` – spawn your environment for the *first time*
   - `-f` – specify an alternate compose file (default: docker-compose.yml)
   - `-p` – specify a project name (default: directory name)
@@ -67,9 +69,6 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
   - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local`
   
 5. Run the *following command* to spawn your environment for the **first time**:
-
-    
-WARNING: If you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d`. It might destroy your configuration. `vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d` automatically. If you are in this situation, look at the ** [Second and third element of Troubleshooting in this page]( https://open-learning-exchange.github.io/#!./pages/vi/vi-configurations-vagrant.md#Troubleshooting)** 
     
     If this is your **first** time spawning the environment, run:
    
