@@ -10,7 +10,7 @@
 
 ## Introduction
 
-On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the [BeLL](http://bell.macwill.in/) and in our code.
+On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the [Planet](https://open-learning-exchange.github.io/#!./pages/robots/rbts-angular.md) and in our code.
 
 NOTE: Issues are not just about adding to the wiki, but can also involve removing repetitive or unnecessary code or content. (please refer to [#1108](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1108))
 
