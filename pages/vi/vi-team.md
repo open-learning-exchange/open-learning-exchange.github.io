@@ -50,6 +50,7 @@
 |[nvrqt03](profiles/nvrqt03.md)|2019-10-10|
 |[anikx7](profiles/anikx7.md)|2019-10-21|
 |[sjkadali](profiles/sjkadali-edited.md)|2019-10-21|
+[gyawaliamit7](profiles/gyawaliamit7.md)|2019-10-21|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
