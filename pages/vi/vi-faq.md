@@ -11,22 +11,23 @@
 - **Q7:** [If I'm an international student, how soon can I get my paperwork required by my visa?](#Q7:_If_I'm_an_international_student,_how_soon_can_I_get_my_paperwork_required_by_my_visa?)
 - **Q8:** [How many pull requests and issues in total do I need to make to finish the steps?](#Q8:_How_many_pull_requests_and_issues_in_total_do_I_need_to_make_to_finish_the_steps?)
 - **Q9:** [How long do I have to complete these steps?](#Q9:_How_long_do_I_have_to_complete_these_steps?)
+- **Q10:** [How can I keep track of 10 steps vetting progress?](#Q10:_How_can_I_keep_track_of_10_steps_vetting_progress?)
 
 ## Technical Questions
 
-- **Q10:** [What is the purpose of Nations and Communities, and how do they work together?](#Q10:_What_is_the_purpose_of_Nations_and_Communities,_and_how_do_they_work_together?)
-- **Q11:** [How can I enable virtualization on my computer in order to turn Vagrant on?](#Q11:_How_can_I_enable_virtualization_on_my_computer_in_order_to_turn_Vagrant_on?)
-- **Q12:** [Why is the "Submit" button not showing up when I try to submit my survey?](#Q12:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
-- **Q13:** [Why does Firefox say “Unable to connect” when I try to load my Community?](#Q13:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_Community?)
-- **Q14:** [When I first run Planet with the "vagrant up" command, why does the download fail?](#Q14:_When_I_first_run_BeLL_with_the_"vagrant_up"_command,_why_does_the_download_fail?)
-- **Q15:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?](#Q15:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
-- **Q16:** [What do I do if I already have a github.io with my username?](#Q16:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
-- **Q17:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?](#Q17:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_Vagrant_VM?)
-- **Q18:** [What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?](#Q18:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_ole--vagrant-vi_folder,_how_do_I_recreate_my_manager_profile?)
-- **Q19:** [What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?](#Q19:_What_do_I_do_if_I_get_error_message_"A_Virtual_Box_machine_with_the_name_'vi'_already_exists"?)
-- **Q20:** [How can I run two communities on the same machine?](#Q20:_How_can_I_run_two_communities_on_the_same_machine?)
-- **Q21:** [How do I destroy the Virtual Machine and start over?](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?)
-- **Q22:** [What do I do if I cannot create a dummy account?](#Q22:_What_do_I_do_if_I_cannot_create_a_dummy_account?)
+- **Q11:** [What is the purpose of Nations and Communities, and how do they work together?](#Q11:_What_is_the_purpose_of_Nations_and_Communities,_and_how_do_they_work_together?)
+- **Q12:** [How can I enable virtualization on my computer in order to turn Vagrant on?](#Q12:_How_can_I_enable_virtualization_on_my_computer_in_order_to_turn_Vagrant_on?)
+- **Q13:** [Why is the "Submit" button not showing up when I try to submit my survey?](#Q13:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
+- **Q14:** [Why does Firefox say “Unable to connect” when I try to load my Community?](#Q14:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_Community?)
+- **Q15:** [When I first run Planet with the "vagrant up" command, why does the download fail?](#Q15:_When_I_first_run_Planet_with_the_"vagrant_up"_command,_why_does_the_download_fail?)
+- **Q16:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?](#Q16:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
+- **Q17:** [What do I do if I already have a github.io with my username?](#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
+- **Q18:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?](#Q18:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_Vagrant_VM?)
+- **Q19:** [What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?](#Q19:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_ole--vagrant-vi_folder,_how_do_I_recreate_my_manager_profile?)
+- **Q20:** [What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?](#Q20:_What_do_I_do_if_I_get_the_error_message_"A_Virtual_Box_machine_with_the_name_'vi'_already_exists"?)
+- **Q21:** [How can I run two communities on the same machine?](#Q21:_How_can_I_run_two_communities_on_the_same_machine?)
+- **Q22:** [How do I destroy the Virtual Machine and start over?](#Q22:_How_do_I_destroy_the_Virtual_Machine_and_start_over?)
+- **Q23:** [What do I do if I cannot create a dummy account?](#Q23:_What_do_I_do_if_I_cannot_create_a_dummy_account?)
 
 ### General Internship Questions
 
@@ -67,26 +68,29 @@
 
 + There is no official deadline, so work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days.
 
+#### Q10: How can I keep track of 10 steps vetting progress?
+
++ You can keep track of your progress using the [Tracking Progress](https://open-learning-exchange.github.io/#!./pages/vi/vi-track-progress.md) link. 
 
 ### Technical Questions
 
-#### Q10: What is the purpose of Nations and Communities, and how do they work together?
+#### Q11: What is the purpose of Nations and Communities, and how do they work together?
 
 + We use the nation/community infrastructure because we often deploy our software in places without internet. Nations are the services sitting in the cloud (which are connected to the internet). Communities, which run locally on Raspberry Pis and/or laptops, are run on an *intranet* but are most of the time not connected to the *internet*. Because nations are connected to the internet, they allow a connection process between us (with internet) and users on communities (without internet). To sync with a nation, however, a community needs to be connected to the internet so that information can be sent in both directions.
 
-#### Q11: How can I enable virtualization on my computer in order to turn Vagrant on?
+#### Q12: How can I enable virtualization on my computer in order to turn Vagrant on?
 
 + First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2", "Esc" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x", "Intel Virtualization Technology" or something similar. Enable this option, save and reset. Now the "vagrant up" command should work.
 
-#### Q12: Why is the "Submit" button not showing up when I try to submit my survey?
+#### Q13: Why is the "Submit" button not showing up when I try to submit my survey?
 
 + Please make sure you’re using Firefox, as our Planet software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the Planet and logging back in, then go back to the survey. If that doesn’t work, log out of the Planet, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Gitter chat](http://gitter.im/open-learning-exchange/chat).
 
-#### Q13: Why does Firefox say “Unable to connect” when I try to load my Community?
+#### Q14: Why does Firefox say “Unable to connect” when I try to load my Community?
 
 + Because a Community is run locally on your machine, you need to `vagrant up` in the directory where the Vagrantfile is located. You can then see if your Community is running by going to `http://localhost:3100/` in Firefox. Go to `127.0.0.1:5984/_utils` to see the CouchDB behind the Planet, and `127.0.0.1:5984/apps/_design/bell/MyApp/index.html` to navigate the actual Planet user interface.
 
-#### Q14: When I first run Planet with the "vagrant up" command, why does the download fail?
+#### Q15: When I first run Planet with the "vagrant up" command, why does the download fail?
 
 + You should first check if Vagrant Cloud is up and running by looking at [HashiCorp's status page](https://status.hashicorp.com):
 
@@ -111,11 +115,11 @@
         ```
   You now have a working community Planet on your OS.
 
-#### Q15: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?
+#### Q16: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?
 
 + Yes it is possible to rename it but we highly recommend you to delete and start over so that you have a clean forked repository. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YOUR-USERNAME/YOUR-MISNAMED-REPOSITORY/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
 
-#### Q16: What do I do if I already have a github.io with my username?
+#### Q17: What do I do if I already have a github.io with my username?
 
 + You have a few options:
   1. If you are still using it and you don't want to overwrite it, you can go to the forked repository settings rename the repository to YourUsername-ole.github.io and then deploy it to GitHub Pages by selecting "master branch" in the repository settings under GitHub Pages. By doing that, you can access the forked OLE repository with this link `YourUsername.github.io/YourUsername-ole.github.io/`.
@@ -124,15 +128,15 @@
 
   3. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repo &lt;orgname&gt;.github.io.
 
-#### Q17: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?
+#### Q18: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?
 
 + Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
 
-#### Q18: What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?
+#### Q19: What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?
 
 + Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
 
-#### Q19: What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?
+#### Q20: What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?
 
 + There are 2 potential solutions:
 
@@ -140,7 +144,7 @@
 
   2. Delete the "vi" VM in VirtualBox or command line, then run `vagrant up` to start over again.
 
-#### Q20: How can I run two communities on the same machine?
+#### Q21: How can I run two communities on the same machine?
 
 + Running two communities on the same machine is possible as long as their configurations (VirtualBox name, port forwarding, etc.) does not collide with each other.
 
@@ -160,7 +164,7 @@
       vb.name = "a_different_name"
       ```
 
-#### Q21: How do I destroy the Virtual Machine and start over?
+#### Q22: How do I destroy the Virtual Machine and start over?
 
 + In `git bash`:
 
@@ -176,7 +180,7 @@
   vagrant up
   ```
 
-#### Q22: What do I do if I cannot create a dummy account?
+#### Q23: What do I do if I cannot create a dummy account?
 
 + Note: Before trying the steps below, make sure your planet is up to date.
   
@@ -220,6 +224,9 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 ## Helpful Links
 
+#### *Command line commands*
+- [List of command line commands](https://www.codecademy.com/articles/command-line-commands)
+
 #### *Docker*
 
 - [What is Docker?](https://www.docker.com/what-docker)
@@ -230,7 +237,6 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
 
 #### *GitHub and Markdown*
-
 
 * General
     - [GitHub and Markdown Short Tutorials](https://guides.github.com/)
