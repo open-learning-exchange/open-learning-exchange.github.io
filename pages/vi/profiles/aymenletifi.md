@@ -27,7 +27,7 @@ adventures is my favourite hobby.
   11. and a bunch of soft skills
   
 | **Facebook** | **LinkedIn** |
-| - | - |
+| -|- |
 | [Aymen Letifi](https://www.facebook.com/aymen.letifi) | [Aymen Letifi](https://www.linkedin.com/in/aymen-letifi-29aa91186/) |
 
 and my motto is :
