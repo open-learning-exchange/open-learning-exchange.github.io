@@ -24,6 +24,8 @@ A Markdown cheat sheet that might help you create your own Markdown page later:
 
 [GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
 
+[Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&t=5s) - Crash course tutorial for Markdown syntax.
+
 [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) - A resource for commonly used git commands.
 
 [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples
