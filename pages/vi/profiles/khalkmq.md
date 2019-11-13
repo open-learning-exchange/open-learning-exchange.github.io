@@ -17,17 +17,16 @@ I recently graduated with my Bachelor of Science in Computer Science from [Penns
 
 I believe this virtual internship is a great opportunity for me to contribute to an open-source project that will touch the lives of millions. And is an ideal way a humble developer such as myself could give back and help disadvantaged communities. I look forward to helping you make the world a better place.
 
-### Languages 
+### Skill Set 
+Languages:
 ```
 Java, Python, C#, C++, HTML/CSS, JavaScript, SQL
 ```
-
-### Frameworks / Libraries / Tools
-Web Development:
+Web Development Tools:
 ```
 Spring, Vue, React, Angular, NodeJS, jQuery
 ```
-Automation:
+Automation Libraries:
 ```
 Flask, NumPy, Pandas, Sklearn, OpenCV, TensorFlow 
 ```
