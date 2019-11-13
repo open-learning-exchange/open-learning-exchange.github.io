@@ -11,7 +11,7 @@ I am a former graphics _designer_, _photographer_, _videographer_ and _a youtube
 I was and still am always fascinated by programming and have decided to switch to programming.
 
 
-![TILICHO](https://github.com/Rabinson/img/blob/master/IMG_8732.JPG)
+![TILICHO](https://raw.githubusercontent.com/Rabinson/img/master/IMG_8732.JPG)
 
 
  Things I _love_
