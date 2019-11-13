@@ -29,8 +29,7 @@ Spring, Vue, React, Angular, NodeJS, jQuery
 ```
 Automation:
 ```
-Flask, NumPy, 
-Pandas, Sklearn, OpenCV, TensorFlow 
+Flask, NumPy, Pandas, Sklearn, OpenCV, TensorFlow 
 ```
 
 ### Contact
