@@ -10,7 +10,6 @@
 I am a former graphics _designer_, _photographer_, _videographer_ and _a youtuber_. I did my Bachelors in Computer Engineering and also Bachelors in Arts.
 I was and still am always fascinated by programming and have decided to switch to programming.
 
-Recent picture i took in Tilicho, Nepal
 ---
 ![TILICHO](https://github.com/Rabinson/img/blob/master/IMG_8732.JPG "Rabinson in TILICHO")
 
