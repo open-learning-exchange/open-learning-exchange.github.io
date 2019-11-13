@@ -11,5 +11,5 @@ also I like watching Tv, traveling and plying soccer and volleyball.
 
 ***
 ### Contact
-* [LinkedIn](www.linkedin.com/in/mehdi-hellal)
+* [LinkedIn](https://www.linkedin.com/in/mehdi-hellal/)
 * [GitHub](https://github.com/MehdiHellal)
