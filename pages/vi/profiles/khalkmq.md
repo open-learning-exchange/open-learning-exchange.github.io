@@ -26,7 +26,7 @@ Web Development Tools:
 ```
 Spring, Vue, React, Angular, NodeJS, jQuery
 ```
-Automation Libraries:
+Libraries:
 ```
 Flask, NumPy, Pandas, Sklearn, OpenCV, TensorFlow 
 ```
