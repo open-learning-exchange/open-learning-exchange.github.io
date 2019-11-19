@@ -9,8 +9,9 @@ I am a fourth-year computer science major at California State University San Mar
 In my free time I enjoy learning about new things that are tech related and other topics that grab my attention.
 I also dabble a little bit with photography.
 
-* GitHub: <https://github.com/luismendiola98>
+* My [GitHub](<https://github.com/luismendiola98>) and [LinkedIn](<https://www.linkedin.com/in/luis-mendiola03/>)
 
-* I can be reached through the following email: <luismendiola98@gmail.com>
+* I can be reached at the following email: <luismendiola98@gmail.com>
 
 * If interested in looking at my pictures go to my Instagram account [@luiiis_shoots](https://www.instagram.com/luiiis_shoots/)
+
