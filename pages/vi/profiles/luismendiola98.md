@@ -5,7 +5,7 @@
 ### macOS 10.15.1
 * * *
 
-I am a fourth-year computer science major at California State University San Marcos.
+I am a fourth-year computer science major at [**California State University San Marcos**](https://www.csusm.edu).
 In my free time I enjoy learning about new things that are tech related and other topics that grab my attention.
 I also dabble a little bit with photography.
 
