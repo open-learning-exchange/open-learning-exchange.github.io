@@ -1,4 +1,4 @@
-![]("https://sparmsdc-static.s3.amazonaws.com/uploads/2017/09/GIS-developer-types-FIG-2-e1505225536728.jpg")
+![developer](https://sparmsdc-static.s3.amazonaws.com/uploads/2017/09/GIS-developer-types-FIG-2-e1505225536728.jpg)
 
 # Mehdi Hellal
 
