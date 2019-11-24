@@ -15,11 +15,17 @@ Current Coursework:
 * Programming in C **_(Next Semester)_**
 * Discreet Mathematics **_(Next Semester)_**
 
+Programming Languages:
+* HTML/CSS
+* Java
+* C++
+* JavaScript
+
 Stuff I like:
 1. EDM music
-2. Watching Football
-3. Watching Baseball
-4. Following eSports
+2. Football
+3. Baseball
+4. League of Legends
 
 
 
