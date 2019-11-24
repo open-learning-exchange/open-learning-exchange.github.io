@@ -10,18 +10,18 @@ I will be using PST **(Pacific Standard Time)** during those time periods.
 
 ![Purdue University Archs](https://upload.wikimedia.org/wikipedia/commons/f/fa/Purdue_University%2C_West_Lafayette%2C_Indiana%2C_Estados_Unidos%2C_2012-10-15%2C_DD_23.jpg)
 
-###Current Coursework:
+### Current Coursework:
 * Object-Oriented Programming
 * Programming in C **_(Next Semester)_**
 * Discreet Mathematics **_(Next Semester)_**
 
-###Programming Languages:
+### Programming Languages:
 * HTML/CSS
 * Java
 * C++
 * JavaScript
 
-###Stuff I like:
+### Stuff I like:
 1. EDM music
 2. Football
 3. Baseball
