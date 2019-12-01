@@ -12,5 +12,6 @@ Timezone: Central Standard Time.
 
 OS: Windows 10 Pro Version 1909
 
-+ **[LinkedIn](https://www.linkedin.com/in/shreyas-dharanesh-80252656 "Shreyas Dharanesh's Profile")**
++ **[LinkedIn](https://www.linkedin.com/in/shreyas-dharanesh-80252656
+"Shreyas Dharanesh's Profile")**
 + **Email address:** <shreyas.dharanesh@gmail.com>
