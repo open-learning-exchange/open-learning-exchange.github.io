@@ -32,10 +32,10 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. To be clear, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. First, open a command line and open your username.github.io repository on the GitHub user interface. 
 
-![GitHub Clone URL](images/vi-github-clone-url-revised.png)
+![GitHub Clone URL](images/vi-github-clone-url-revised.jpg)
 
-Then, click on the green "Clone or Download" button and click the clipboard next to the HTTPS url (highlighted in blue in image above). This will copy the link. Turn to your command prompt and type `git clone`. `git clone` is a git command line utility that makes a copy of an existing repository on your OS. Then, click (shift)+(insert) to paste your repository URL. Your command line should look like: `git clone https://github.com/Username/Username.github.io.git (Username should be replaced with your own username). 
-If you  `cd` into your `username.github.io` you can see different files which you will be working on during your internship.
+Then, click on the green "Clone or Download" button and click the clipboard next to the HTTPS url (highlighted in blue in image above). This will copy the link. Turn to your command prompt and type `git clone`. `git clone` is a git command line utility that makes a copy of an existing repository on your OS. Then, click (shift)+(insert) to paste your repository URL. Your command line should look like: `git clone https://github.com/Username/Username.github.io.git` (Username should be replaced with your own username). 
+If you `cd` into your `username.github.io` you can see different files which you will be working on during your internship.
 
 ### Clone with HTTPS or Clone with SSH?
 
