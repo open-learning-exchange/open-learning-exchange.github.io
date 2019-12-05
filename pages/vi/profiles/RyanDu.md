@@ -9,13 +9,13 @@ I just graduated from SMU with a Master's degree of Science in Computer Science.
 
 I'm now living in Dallas, TX. And I believe this Intern experience would be a great growing process with the familarity of development process. And I really expected to work with you all.
 
-##Hobbies
+## Hobbies
 PS4, Food, Cats, Sports(especisly soccer)
 
-##Language
+## Language
 Java,Javascript,Python,SQL,NoSQL,HTML,CSS
 
-##Profile
+## Profile
 * __LinkedIn:__ [Ryan Du](https://www.linkedin.com/in/liyuan-du/)
 * __GitHub:__ [RyanDu](https://github.com/RyanDu)
 * __Profile:__ [Ryan Du](https://ryandu.github.io/)
