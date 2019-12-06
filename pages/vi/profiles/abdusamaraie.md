@@ -14,7 +14,7 @@ ___________
 
 My name is Abdu Samaraie and I am a Computer Science student. I am very passionate programmer, and I like learning new technologies that will help me excel in the field of Software Engineering. In my freetime, I am constantly learning by watching toturials on Youtube.
 
-I graduated for the University at Buffalo This year (2019)
+I graduated from the University at Buffalo This year (2019)
 
 
 ![Image logo](https://www.suny.edu/media/suny/content-assets/images/campus-profiles/logos/buffalo.jpg)
