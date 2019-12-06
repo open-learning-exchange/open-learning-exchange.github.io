@@ -2,7 +2,7 @@
 
 Location | Timezone | OS
 :--- | :--- | :---
-Dallas, TX | CST | MacOS Mojave 10.14.6|
+Dallas, TX | CST | MacOS Mojave 10.14.6
 
 ## About me
 I just graduated from SMU with a Master's degree of Science in Computer Science. I'm a full-stack developer, my focus area is web development. 
