@@ -2,7 +2,7 @@
 Topics:
 1. [Navigating To The News Page](#navigating-to-the-news-page)
 2. [Adding A Story](#adding-a-story)
-3. [Editing or Deleting Stories](#editing-or-deleting-stories)
+3. [Editing or Deleting Stories](#reply-edit-and-delete-stories)
 
 ## Navigating To The News Page
 As you can see below, once you are in your planet dashboard you can access the page using `ourNews` (Red Box)
@@ -15,6 +15,6 @@ After navigating to the `News` Page, you will be able to browse previous stories
 ![Adding A Story](images/planet-news-post.png)
 
 ## Reply, Edit and Delete Stories
-You can reply a story by clicking reply icon on the post (Purple circle), edit a story by clicking the pencil icon (Red circle) and delete a story by clicking the garbage can icon (Blue circle)
+You can reply to a story by clicking on the reply icon on the post (Purple circle), edit a story by clicking the pencil icon (Red circle) and delete a story by clicking the garbage can icon (Blue circle)
 
 ![Reply, Edit and Delete Stories](images/planet-news-edit-delete.png)
