@@ -1,8 +1,8 @@
 # News
 Topics:
-1. [Navigating to the News Page](#Navigating-to-the-News-Page)
-2. [Adding a Story](#Adding-a-Story)
-3. [Editing or Deleting Stories](#Reply-Edit-and-Delete-Stories)
+* [Navigating to the News Page](#Navigating-to-the-News-Page)
+* [Adding a Story](#Adding-a-Story)
+* [Editing or Deleting Stories](#Reply-Edit-and-Delete-Stories)
 
 ## Navigating to the News Page
 As you can see below, once you are in your planet dashboard you can access the page using `ourNews` (Red Box)
