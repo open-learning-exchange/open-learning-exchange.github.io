@@ -34,7 +34,7 @@ Now, we will be using GitHub repositories on a command line, which means that th
 
 ![GitHub Clone URL](images/vi-github-clone-url-revised.jpg)
 
-Then, find your forked repository's GitHub HTTPS link by clicking on the green "Clone or Download button" (highlighted in red in the image above). Copy this HTTPS link of your forked GitHub repository. Turn to your command prompt and type `git clone`. `git clone` is a git command line utility that makes a copy of an existing repository on your OS. Then, paste your repository URL into the command line interface (CLI). Your CLI should look like the following: `git clone https://github.com/Username/Username.github.io.git` (Username should be replaced with your own username).
+Then, find your forked repository's GitHub HTTPS link by clicking on the green "Clone or Download" button. Copy this HTTPS link of your forked GitHub repository (highlighted in red in the image above). Turn to your command prompt and type `git clone`. `git clone` is a git command line utility that makes a copy of an existing repository on your OS. Then, paste your repository URL into the command line interface (CLI). Your CLI should look like the following: `git clone https://github.com/Username/Username.github.io.git` (Username should be replaced with your own username).
 
 If you `cd` into your `username.github.io` you can see the markdown files of these first steps.
 
