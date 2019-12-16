@@ -1,5 +1,6 @@
 # News
 Topics:
+
 * [Navigating to the News Page](#Navigating-to-the-News-Page)
 * [Adding a Story](#Adding-a-Story)
 * [Editing or Deleting Stories](#Reply-Edit-and-Delete-Stories)
