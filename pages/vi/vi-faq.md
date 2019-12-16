@@ -242,6 +242,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
     - [GitHub and Markdown Short Tutorials](https://guides.github.com/)
     - [GitHub Help](https://help.github.com/en/categories/github-pages-basics)
     - [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
+    - [Understanding Git and Github (Video)](https://www.youtube.com/watch?v=BCQHnlnPusY)
 
 * First Steps
     - [GitHub's Git Tutorial](https://try.github.io/)
