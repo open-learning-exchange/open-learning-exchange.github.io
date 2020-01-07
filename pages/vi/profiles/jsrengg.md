@@ -7,6 +7,7 @@
 **OS**: macOS Mojave Version 10.14.5 
 [LinkedIn](https://www.linkedin.com/in/juliesreng/)
 
+### About Me
 Hi Everyone! I live in Southern California and I'm currently studying for a master's in computer science. 
 In my free time I like trying new restaurants, cafes, and boba shops.
 I also enjoy hiking, traveling, snowboarding, and watercolors.
