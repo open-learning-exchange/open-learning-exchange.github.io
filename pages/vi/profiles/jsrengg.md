@@ -2,9 +2,9 @@
 
 ![socal_coastline](https://resource.alaskaair.net/-/media/Images/pages/cities/flights-to/SouthernCalifornia.ashx?v=1)
 
-**Location**: Long Beach, California <br>
-**Time Zone**: PST (UTC -8) <br>
-**OS**: macOS Mojave Version 10.14.5 <br>
+**Location**: Long Beach, California 
+**Time Zone**: PST (UTC -8) 
+**OS**: macOS Mojave Version 10.14.5 
 [LinkedIn](https://www.linkedin.com/in/juliesreng/)
 
 Hi Everyone! I live in Southern California and I'm currently studying for a master's in computer science. 
