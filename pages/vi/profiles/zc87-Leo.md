@@ -1,9 +1,12 @@
 # Cheng Zhang (Leo)
 
 ### General Info
-> **Location:** Boston, MA  
-**Time zone:** Eastern Time Zone (ET)  
-**Operating System:** Mac OS Catalina 10.15.1
+> **Nationality:** China   
+**Gender:** Male
+
+Location | Timezone | OS
+:--- | :--- | :---
+Boston, MA | EST |Mac OS Catalina 10.15.1|
 
 ### About Me
 > Hello! I am a computer Engineering master student at Northeastern University School of Engineering.   
@@ -28,3 +31,7 @@
 
 ### Contact
 > [My GitHub](https://github.com/zc87-Leo) | <zhang.cheng4@husky.neu.edu> | 857-472-9766
+
+![image](https://github.com/zc87-Leo/Excellent_Writing_Sharing_Platform_Web_App/blob/master/images/scene.jpg)
+
+Fenway Park, Boston
