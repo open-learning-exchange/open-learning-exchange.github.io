@@ -32,5 +32,6 @@ Boston, MA | EST |Mac OS Catalina 10.15.1|
 ### Contact
 > [My GitHub](https://github.com/zc87-Leo) | <zhang.cheng4@husky.neu.edu> | 857-472-9766
 
-![image](https://imgur.com/3eBEIdd)
+![img](https://i.imgur.com/3eBEIdd.jpg)
+
 Fenway Park, Boston
