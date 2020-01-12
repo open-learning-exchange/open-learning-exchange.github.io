@@ -1,9 +1,13 @@
-
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
 # Muffiser Warraich
 
 Location | Timezone | OS
 -------- | -------- | --
 Pennsylvania | EST | Windows10
+
+![PSU](https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=775%2C491&ssl=1)
+
 
 # About Me
 Hello everyone, I am a student at PSU studying software development. I would like to enhance my skills and believe this would be a great learning oppurtunity.
