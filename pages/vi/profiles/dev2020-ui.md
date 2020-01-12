@@ -1,12 +1,11 @@
  
-![alt text](https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=775%2C491&ssl=1 "PSU")
+![PSU](https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=775%2C491&ssl=1 "PSU")
+
 # Muffiser Warraich
 
 Location | Timezone | OS
 -------- | -------- | --
 Pennsylvania | EST | Windows10
-
-![PSU](https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=775%2C491&ssl=1)
 
 
 # About Me
