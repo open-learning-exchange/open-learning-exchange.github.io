@@ -1,7 +1,8 @@
 # Muffiser Warraich
 
-Location: PENNSYLVANIA / EST
+Location | Timezone | OS
+-------- | -------- | --
+Pennsylvania | EST | Windows10
 
-OS: Windows 10
 
 Hello everyone, I am a student at PSU studying software development. 
