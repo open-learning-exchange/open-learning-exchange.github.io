@@ -1,3 +1,7 @@
+![GitHub Logo](/images/logo.png)
+
+Format: ![Alt Text](url)
+
 # Muffiser Warraich
 
 Location | Timezone | OS
