@@ -1,4 +1,3 @@
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2019%2F07%2F6-powerful-open-source-machine-learning-github-repositories-data-scientists%2F&psig=AOvVaw1hS0_sgyBTgojsVys2eQJb&ust=1578893430321000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjx6cCq_eYCFQAAAAAdAAAAABAI)
 
 # Muffiser Warraich
 
