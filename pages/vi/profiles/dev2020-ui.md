@@ -1,4 +1,7 @@
-![PSU](align="center" https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=1000%2C100&ssl=1  "PSU")
+![PSU](https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=100%2C100&ssl=1  "PSU")
+
+<img align="center" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 
 # Muffiser Warraich
 
