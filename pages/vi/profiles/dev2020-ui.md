@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="460" height="300" src="https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=100%2C100&ssl=1  "PSU" ">
+    <img width="100" height="100" src="https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg? "PSU" ">
 
 ![PSU](https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=100%2C100&ssl=1  "PSU")
 </P>
