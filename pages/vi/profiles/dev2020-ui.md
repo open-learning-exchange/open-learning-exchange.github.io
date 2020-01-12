@@ -1,5 +1,5 @@
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
+ 
+![alt text](https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=775%2C491&ssl=1 "PSU")
 # Muffiser Warraich
 
 Location | Timezone | OS
