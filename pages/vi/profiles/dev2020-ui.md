@@ -1,5 +1,4 @@
-<p align="center">
-    <img src="https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=1000%2C100&ssl=1 "PSU" ">
+<img align="center" src="https://i0.wp.com/images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg?fit=1000%2C100&ssl=1 "PSU" ">
 
 # Muffiser Warraich
 
