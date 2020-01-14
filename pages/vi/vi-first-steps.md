@@ -62,9 +62,9 @@ Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown
 
 **NOTE**: Raw.githack link above is case sensitive to your username.
 
-* Once you complete Step 3 you will have:
-    * 1 Pull request made
-
+*** <font color=red size=4>Once you complete Step 3 you will have:</font>***
+     **<font color=red size=3>1 Pull request made</font>**
+     
 ## Step 4 - Planet Tutorial
 
 This step includes the [Planet Tutorial](vi-planetapps.md), which explains the features of the application.
@@ -79,10 +79,10 @@ Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md) to create
 
 Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fix may take time, but __it is OK__ to continue working.
 
-- Once you complete Step 6 you will have:
-   * 2 pull requests made (one at step 3 and one at step 6)
-   * 1 comment added (on an issue you didn't create)
-   * 1 issue created
+*** <font color=red size=4>- Once you complete Step 6 you will have: </font>*** 
+  **<font color=red size=3> * 2 pull requests made (one at step 3 and one at step 6)</font>**
+  **<font color=red size=3> * 1 comment added (on an issue you didn't create)</font> **
+  **<font color=red size=3> * 1 issue created</font>** 
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.md).
 
@@ -100,10 +100,10 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 **NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
 
-- Once you complete Step 8, you should have:
-   * 5 merged pull requests (one at step 3, one at step 6 and three at step 8)
-   * 4 comments made on *issues you didn't create* (one at step 6 and three at step 8)
-   * 4 issues created (one at step 6 and three at step 8)
+*** <font color=red size=4> - Once you complete Step 8, you should have: </font>*** 
+  **<font color=red size=3> * 5 merged pull requests (one at step 3, one at step 6 and three at step 8)</font>**
+	 **<font color=red size=3> * 4 comments made on issues you didn't create(one at step 6 and three at step 8)</font> **
+	 **<font color=red size=3>  * 4 issues created (one at step 6 and three at step 8)</font>** 
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.md).
 
