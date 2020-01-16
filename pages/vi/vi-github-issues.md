@@ -107,7 +107,14 @@ You can also use the raw.githack url generator on <https://raw.githack.com>
 2.  Navigate to the page you changed in your fork of the GitHub repository  
 3.  Copy the URL in your browser and paste it in the field on <https://raw.githack.com>
 4.  Select the Development URL
-5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.
+5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.  
+
+**example:**  
+
+https://raw.githack.com/nvrqt03/nvrqt03.github.io/nvrqt03-githack-update/#!pages/vi/vi-github-issues.md  
+ 
+
+![example](images/vi-raw.githack-example.png)
 
 Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a raw.githack link in your next step, the pull request.
 
