@@ -3,7 +3,7 @@
 ## Objectives
 
 * Sync your community with the nation
-* Add add yourself to the virtual intern list
+* Add yourself to the virtual intern list
 * Read the intern orientation document
 
 ## Introduction
