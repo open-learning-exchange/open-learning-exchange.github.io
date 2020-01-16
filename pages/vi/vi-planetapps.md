@@ -34,7 +34,7 @@ Here are three types of resources that you can download to your computer and the
 [mp3 song - "Opposite Song"](music/vi-oppositesong.mp3)
 [mp4 video - "Burka Avenger"](movies/vi-burkaavenger.mp4)
 
-**NOTE**: Check to see if you are using latest Firefox Browser otherwise [mp3 song - "Opposite Song"](music/vi-oppositesong.mp3) [mp4 video - "Burka Avenger"](movies/vi-burkaavenger.mp4) can't be downloaded.
+**NOTE**: Check to see if you are using latest Fieefox Browser otherwise [mp3 song - "Opposite Song"](music/vi-oppositesong.mp3) [mp4 video - "Burka Avenger"](movies/vi-burkaavenger.mp4) can't be downloaded.
 
 Next, go to [your community Planet](http://localhost:3100). Select `Library` from the dashboard, then select `+` icon. You will see:
 
