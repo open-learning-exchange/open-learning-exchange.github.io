@@ -25,7 +25,7 @@ Recently, I install galliumOS to my new chromebook and the styling of galliumOS 
 
 ## Facts about me
 * always stay outside of my comfort zone. 🧿
-* love to learn new programming language. ✨
-* hobby is to play paino and sing. I also understand the music theory. 🎹
+* love to learn new programming languages. ✨
+* my hobby is to play paino and sing. I also understand music theory. 🎹
 * I like corgi!
 ![burried_corgi-alive](https://user-images.githubusercontent.com/54279382/72393437-b75ea580-36e7-11ea-9774-de6a2f5d00c3.jpg)
