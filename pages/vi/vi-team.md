@@ -53,6 +53,5 @@
 |[gyawaliamit7](profiles/gyawaliamit7.md)|2020-01-14|
 |[dev2020-ui](profiles/dev2020-ui.md)|2020-01-20|
 
-
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
