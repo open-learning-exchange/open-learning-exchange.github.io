@@ -1,4 +1,4 @@
-﻿# Members
+# Members
 
 ## Active Members
 
@@ -51,6 +51,7 @@
 |[anikx7](profiles/anikx7.md)|2019-10-21|
 |[sjkadali](profiles/sjkadali-edited.md)|2019-10-21|
 |[gyawaliamit7](profiles/gyawaliamit7.md)|2020-01-14|
+|[mattscodeans](profiles/mattscodeans.md)|2020-01-19|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
