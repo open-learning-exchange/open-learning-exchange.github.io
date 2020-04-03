@@ -1,7 +1,7 @@
 
 # Kateryna Chtelmakh
 
-<img src="https://i.ytimg.com/vi/ADK346yE6vU/maxresdefault.jpg" width="110"/>    | <img src="https://cdn.shopify.com/s/files/1/0230/0765/products/RW_03_05_ecb8943e-e73a-4832-8c62-ea49241aa973.jpg?v=1499523419" width="70"/>   | <img src="https://cdn.windowsreport.com/wp-content/uploads/2017/10/windows-10-cover.jpg" width="70"/>
+![location:](https://ih0.redbubble.net/image.561552476.8155/st%2Csmall%2C215x235-pad%2C210x230%2Cf8f8f8.lite-1u1.jpg)    | ![Time:](https://clipartix.com/wp-content/uploads/2016/04/Clock-index-of-wp-content-uploads-5-clip-art.jpg)    | ![OS:](https://www.saotn.org/wp-content/uploads/2017/10/Windows_Server_logo_small.png)
  ---------------- | ----------------- | ------------
  Cincinnati, Ohio | Eastern Time Zone | Windows 10
 
