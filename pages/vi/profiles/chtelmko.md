@@ -12,9 +12,9 @@ I have a background in biological research. Currently, I am working towards maki
 
  I am hoping volunteering with OLE will allow me to:
  
- - [x] work in a team environment
- - [ ] learn and apply new skills
- - [ ] contribute to production code
+ [x] work in a team environment
+ [ ] learn and apply new skills
+ [ ] contribute to production code
  
 
 * Favorite programming language : Javascript (so far).
