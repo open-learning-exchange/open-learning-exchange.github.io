@@ -50,6 +50,8 @@ You need to install the following programs on your computer:
 - **Vagrant**  
 [Vagrant](https://www.vagrantup.com) is an open source tool for building development environments. [Download](https://www.vagrantup.com/downloads.html)
 
+NOTE: Due to some issues we are seeing with newest version of vagrant. We suggest you to use vagrant below 2.2.5
+
 ---
 
 ## macOS or Ubuntu
