@@ -94,7 +94,7 @@ NOTE: In your commit message, if you add a keyword like "fixes" or "resolves" fo
 
 Raw.githack is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/#!index.md` and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request. If you need to change the file path try: `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/#!{file path separated by /}`.
 
-For example, http://raw.githack.com/aasenomad/aasenomad-ole.github.io/master/#!index.md will result with this:
+For example, http://raw.githack.com/coreyuw/coreyuw.github.io/master/#!index.md will result with this:
 
 ![Index via Raw.githack Link](images/vi-raw.githack-index.png)
 
