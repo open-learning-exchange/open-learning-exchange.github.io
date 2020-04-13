@@ -2,16 +2,21 @@
 
 Hello everyone, my name is **Haoran Hu**, and you can call me **Travis**. I was recently graduated from the University of Waterloo. I have been living here for about 5 years and I really like it here. I am interested in learning new skills and looking forward to new challenges.  
 
+Things that I enjoy:
+  * Sports
+  * Music
+  * Movies  
+  
 
 #### Area
-| Area | Time Zone 
+Area | Time Zone 
 --- | ---
 _Waterloo_, _ON_, _CA_ | Eastern Time  
 
 
 
 #### Operating System  
-| OS | Version 
+ OS | Version 
 --- | ---
 **macOS** Catalina | `10.15.2`  
 
