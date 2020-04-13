@@ -5,8 +5,8 @@ I am currently living in the _Waterloo_ area so the time zone would be **Eastern
 The OS that I am using right now is **macOS** Catalina `Version 10.15.2`.   
 
 Things that I enjoy:
-* Sports
-* Movies
+* Sports  
+* Movies  
 * Music  
 
 Here is my Github page: [link](https://github.com/Haoran-Hu)  
