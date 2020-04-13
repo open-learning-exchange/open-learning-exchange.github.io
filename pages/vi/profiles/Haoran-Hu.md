@@ -1,12 +1,7 @@
 #### About me
 
-Hello everyone, my name is **Haoran Hu**, and you can call me **Travis**. I was recently graduated from the University of Waterloo. I have been living here for about 5 years and I really like it here. I am interested in learning new skills and looking forward to new challenges.  
+Hello everyone, my name is **Haoran Hu**, and you can call me **Travis**. I was recently graduated from the University of Waterloo. I have been living here for about 5 years and I really like it here. I love playing sports and I have won couple awards playing basketball both in high school and university. I am always interested in learning new skills and looking forward to new challenges.  
 
-Things that I enjoy:
-  * Sports
-  * Music
-  * Movies  
-  
 
 #### Area
 Area | Time Zone 
