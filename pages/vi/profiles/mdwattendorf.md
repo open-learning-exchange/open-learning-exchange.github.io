@@ -16,3 +16,4 @@ I am most experienced with web programming.  I enjoy building projects with java
 * [Twitter](https://twitter.com/mdwattendorf)
 
 ###### Matt Wattendorf, 04/14/2020
+> “Anticipate the difficult by managing the easy” — Lao Tzu
