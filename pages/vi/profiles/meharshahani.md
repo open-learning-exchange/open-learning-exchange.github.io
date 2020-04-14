@@ -9,7 +9,7 @@
 </ul>
 
 
-<img src = "iit.jpg" alt = "Chicago">
+<img src = "https://media.timeout.com/images/105383118/1024/576/image.jpg " alt = "Chicago">
 
 <p>
   My name is <>Mehar Shahani</>
