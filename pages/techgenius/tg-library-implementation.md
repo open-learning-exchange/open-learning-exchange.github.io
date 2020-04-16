@@ -30,9 +30,14 @@ A collection is a group of resources that are grouped by attribute such as topic
 
 2.  From the main **_Dashboard_** click on the **_Library_** menu item at the top of the page.
 
-3.  After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
+3.  After clicking on the Library heading, click the yellow "+" button.
 
 ![Add New Resource](images/tg-resource-new.png)
+
+4.  You should be taken to the following screen:
+
+![Add New Resource](images/tg-resource-add-1.png)
+![Add New Resource](images/tg-resource-add-2.png)
 
 1.  The **Title** of the resource goes here. Capitalize all principal words and make sure everything is spelled correctly. If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”). Do not start the title with numbers or special characters (!@#$%^&*). If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new resource in parentheses. Examples are shown below.
 
@@ -44,35 +49,48 @@ A collection is a group of resources that are grouped by attribute such as topic
           a. John Doe
           b. Jane Doe (Translator)
           
-3. **_Publisher/Attribution_** is mandatory for copyright purposes. Please do not leave this field blank. Type the name of the organization or publisher (and any websites associated with the resource, if applicable). Attribution allows OLE to use the source under Creative Commons or copyright and protects against copyright laws violations.
+3. If available, type the **_Year_** in which the resource was published.
 
-4. If available, type the **_Year_** in which the resource was published.
+4. Enter a brief **_Description_**  of the resource.
 
-5. **_Link to License_** is also mandatory for copyright purposes. Locate the copyright information for the resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the "Link to License" field.  Type “Public Domain” if the resource is in the public domain.
+5. If your resource belongs in one or more collections, click **_Add Collections_** to include those.  Collections are more narrow than subjects in their scope. In many cases, you may find an existing collection name that best fits your resource. Use the search bar at the top of the drop down list to search for relevant collections. If the resource fits into more than one collection, choose more than one. The “Create New Collection” section below the search bar should be used only if a relevant existing collection cannot be found. In most cases, Learners will not need to add new collections.  See "
 
-6. In the **_Language field_** list the language of the resource. If the resource is a multilingual document, choose the language that you think is the primary or most applicable language.
+6. Use the **_Language_** drop down list to select the language of the resource. If the resource is a multilingual document, choose the language that you think is the primary or most applicable language.
 
-7. Choose one **_Subject_** from the drop down list. Subjects are broad and general so you may not find an exact match.
+7. **_Publisher/Attribution_** is mandatory for copyright purposes. Please do not leave this field blank. Type the name of the organization or publisher (and any websites associated with the resource, if applicable). Attribution allows OLE to use the source under Creative Commons or copyright and protects against copyright laws violations.
 
-8. Select at least one **_Level_** from the drop down list to assign to your resource. Levels refer to the reading level required to be able to understand this resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the resource.
+8. **_Link to License_** is also mandatory for copyright purposes. Locate the copyright information for the resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the "Link to License" field.  Type “Public Domain” if the resource is in the public domain.
 
-9. You may choose a **_Collection_** in which to place your resource. Collections are more narrow than subjects in their scope. In many cases, you may find an existing collection name that best fits your resource. Use the search bar at the top of the drop down list to search for relevant collections. If the resource fits into more than one collection, choose more than one. The “Add New” button next to collection should be used only if a relevant existing collection cannot be found. In most cases, Learners will not need to add new collections.
+9. Choose one **_Subject_** from the drop down list. Subjects are broad and general so you may not find an exact match.
+
+10. Select at least one **_Level_** from the drop down list to assign to your resource. Levels refer to the reading level required to be able to understand this resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the resource.
+
+**Note:** Make sure to use the scrollbar to reach all the form sections.
 
 10. Choose the type of **_Media_** for your resource: Text, Graphic/Pictures, Audio/Music/Book, or Video. If you are unsure, leave this tab on the default Text.
 
 11. The **_Open_** field relates to the medium of the resource. Select the corresponding medium in this field.
           
-          a. A resource with a .PDF extension has PDF format.
+          a. An HTML file or webpage should has HTML format.
           b. A .mp3 is Audio (MP3) format.
-          c. A .mp4 or .flv is Video (MP4, FLV) format. NOTE: If the video does not play when MP4 is selected then try changing this field to FLV and playing the video.
+          c. A resource with a .PDF extension has PDF.js format.
+          d. A .mp4 or .flv is Flow Video Player (MP4, FLV) or Native Video format. NOTE: If the video does not play when MP4 is selected then try changing this field to FLV and playing the video.
+          e. If the resource is a video book, use the BeLL Video Book Player.
+
 
 12. In the **_Resource For_** field choose Learner or Leader. If appropriate for both, choose Learner.
 
-13. Choose **_Resource Type_** to select which kind of resource you are uploading: Textbook, Lesson Plan, Activities, Exercises, or Discussion Questions. If your resource does not seem to fit any of these categories, leave this tab on the default Textbook setting.
+13. Use the **_Media_** dropdown to select the type of media that best describes the resource.  If none of the descriptions fit, leave the dropdown on the default Text setting.
 
-14. You have the option of using a URL to open the resource if applicable. In this case use **_Open URL_** For most resources, this can be left blank.
+14. Use the **_Resource type_** drop down list to select which kind of resource you are uploading: Textbook, Lesson Plan, Activities, Exercises, or Discussion Questions. If your resource does not seem to fit any of these categories, leave this tab on the default Textbook setting.
 
-15. Use the **_Upload Resources_** and **_Browse_** buttons to locate your resource and upload it. Select the **_Browse_** button and locate your file. When you have found it, select Open. Double check all the fields to ensure they are correct and then select Save.
+15. The **_Added By_** section will be autofilled with your username.
+
+16. **_Open Which File_** will be filled by your uploaded file after submitting.
+
+17. Next to the **_File upload_** use the **Choose File** button to locate your resource and upload it. Select the **_Browse_** button and locate your file. When you have found it, select Open. Select the **_File downloadable_** checkbox if users should be able to download the resource.
+
+18. Double check all the fields to ensure they are correct and then select **_Submit_**.
 
 While your resource is uploaded into the Library you will see a "loading" screen followed by a confirmation dialogue box once the upload has completed successfully.
 
@@ -99,7 +117,7 @@ The following file naming conventions should be used for any new file uploaded t
 
 Yes. These resources are covered in an additional manual titled, XXXXX. Please read that manual to address specific questions on uploading in other languages, in additional formats, or in existing collections with special permission.
 
-## How do I create and Use Collections?
+## How do I Create and Use Collections?
 
 Collections can be used by Nation administrators and managers to categorize materials by topic. Collections make it easy to group resourcers so that they are easily found by Learners. **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a collection are unique to that specific instance of PLANET. Collections can only be created or changed by administators.
 
