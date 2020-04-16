@@ -36,7 +36,9 @@ A collection is a group of resources that are grouped by attribute such as topic
 
 4.  You should be taken to the following screen:
 
-![Add New Resource](images/tg-resource-add-1.png)![Add New Resource](images/tg-resource-add-2.png)
+![Add New Resource](images/tg-resource-add.png)
+
+Note: You may have to use the scrollbar to reach all the form sections.
 
 1.  The **Title** of the resource goes here. Capitalize all principal words and make sure everything is spelled correctly. If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”). Do not start the title with numbers or special characters (!@#$%^&*). If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new resource in parentheses. Examples are shown below.
 
@@ -63,10 +65,6 @@ A collection is a group of resources that are grouped by attribute such as topic
 9. Choose one **_Subject_** from the drop down list. Subjects are broad and general so you may not find an exact match.
 
 10. Select at least one **_Level_** from the drop down list to assign to your resource. Levels refer to the reading level required to be able to understand this resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the resource.
-
-**Note:** Make sure to use the scrollbar to reach all the form sections.
-
-10. Choose the type of **_Media_** for your resource: Text, Graphic/Pictures, Audio/Music/Book, or Video. If you are unsure, leave this tab on the default Text.
 
 11. The **_Open_** field relates to the medium of the resource. Select the corresponding medium in this field.
           
