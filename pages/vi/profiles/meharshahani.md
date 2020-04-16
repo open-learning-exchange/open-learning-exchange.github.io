@@ -7,8 +7,7 @@
   * MacOS Catalina
 
 
-
-![]("https://media.timeout.com/images/105383118/1024/576/image.jpg)
+![Chicago](https://media.timeout.com/images/105383118/1024/576/image.jpg)
 
 ## ABOUT ME
 
