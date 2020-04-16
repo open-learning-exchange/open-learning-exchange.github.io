@@ -69,7 +69,7 @@ In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-
 5. Run the *following command* to spawn your environment for the **first time**:
 
     
-WARNING: If you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d`. It might destroy your configuration. `vagrant up prod` runs `docker-compose -f planet.yml -p planet up -d` automatically. If you are in this situation, look at the ** [Second and third element of Troubleshooting in this page]( https://open-learning-exchange.github.io/#!./pages/vi/vi-configurations-vagrant.md#Troubleshooting)** 
+WARNING: If you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d`. It might destroy your configuration. `docker-compose -f planet.yml -p planet up -d` runs automatically when you fire `vagrant up prod`. If you are in this situation, look at the ** [Second and third element of Troubleshooting in this page]( https://open-learning-exchange.github.io/#!./pages/vi/vi-configurations-vagrant.md#Troubleshooting)** 
     
     If this is your **first** time spawning the environment, run:
    
