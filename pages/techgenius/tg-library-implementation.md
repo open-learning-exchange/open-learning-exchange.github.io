@@ -77,7 +77,6 @@ A collection is a group of resources that are grouped by attribute such as topic
           d. A .mp4 or .flv is Flow Video Player (MP4, FLV) or Native Video format. NOTE: If the video does not play when MP4 is selected then try changing this field to FLV and playing the video.
           e. If the resource is a video book, use the BeLL Video Book Player.
 
-
 12. In the **_Resource For_** field choose Learner or Leader. If appropriate for both, choose Learner.
 
 13. Use the **_Media_** dropdown to select the type of media that best describes the resource.  If none of the descriptions fit, leave the dropdown on the default Text setting.
