@@ -166,7 +166,7 @@ Note: You may have to use the scrollbar to reach all the form sections.
 
 4. Enter a brief **_Description_**  of the resource.
 
-5. If your resource belongs in one or more collections, click **_Add Collections_** to include those.  Collections are more narrow than subjects in their scope. In many cases, you may find an existing collection name that best fits your resource. Use the search bar at the top of the drop down list to search for relevant collections. If the resource fits into more than one collection, choose more than one. The “Create New Collection” section below the search bar should be used only if a relevant existing collection cannot be found. In most cases, Learners will not need to add new collections.  See "
+5. If your resource belongs in one or more collections, click **_Add Collections_** to include those.  Collections are more narrow than subjects in their scope. In many cases, you may find an existing collection name that best fits your resource. Use the search bar at the top of the drop down list to search for relevant collections. If the resource fits into more than one collection, choose more than one. The “Create New Collection” section below the search bar should be used only if a relevant existing collection cannot be found. In most cases, Learners will not need to add new collections.
 
 6. Use the **_Language_** drop down list to select the language of the resource. If the resource is a multilingual document, choose the language that you think is the primary or most applicable language.
 
