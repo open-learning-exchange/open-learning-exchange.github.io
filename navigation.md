@@ -54,8 +54,8 @@
 
 [Manual]() <!-- System Manual -->
 
-  * [Planet User Manual](pages/manual/planet/overview.md)
-  * [myPlanet User Manual(Under Construction⚠️)](pages/manual/myplanet/overview.md)
+  *  [Planet User Manual](pages/manual/planet/overview.md)
+  *  [myPlanet User Manual(Under Construction⚠️)](pages/manual/myplanet/overview.md)
 
 [Contributors]() <!-- Moon-Shot Programs -->
 
