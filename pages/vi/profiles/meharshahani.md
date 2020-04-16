@@ -1,15 +1,14 @@
 
 # Hey all
 
-<ul>
-  <li>Mehar Shahani</li>  
-  <li>Chicago, IL, USA</li>
-  <li>Central Time Zone</li>
-  <li>MacOS Catalina</li>
-</ul>
+  * Mehar Shahani  
+  * Chicago, IL, USA
+  * Central Time Zone
+  * MacOS Catalina
 
 
-<img src = "https://media.timeout.com/images/105383118/1024/576/image.jpg " alt = "Chicago">
+
+![]("https://media.timeout.com/images/105383118/1024/576/image.jpg)
 
 ## ABOUT ME
 
