@@ -10,7 +10,7 @@ As a means of communication we encourage you to subscribe to the [General Gitter
 
 ## Crowdin
 
-OLE uses crowdin to manage our software translations. We have found crowdin to be very friendly to the open source community. As well, crowdin offers a number of integration tools that fit our workflow. We are grateful for their support. 
+OLE uses crowdin to manage our software translations. We have found crowdin to be very friendly to the open source community. Moreover, crowdin offers a number of integration tools that fit our workflow. We are grateful for their support. 
 
 ## Start Translating
 
