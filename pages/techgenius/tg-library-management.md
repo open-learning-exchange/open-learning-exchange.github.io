@@ -37,9 +37,7 @@ A collection is a group of resources that are grouped by attribute such as topic
 4.  You should be taken to the following screen:
 
 ![Add New Resource](images/tg-resource-add.png)
-
 Note: You may have to use the scrollbar to reach all the form sections.
-
 1.  The **Title** of the resource goes here. Capitalize all principal words and make sure everything is spelled correctly. If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”). Do not start the title with numbers or special characters (!@#$%^&*). If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new resource in parentheses. Examples are shown below.
 
           a. A Tale of Two Cities
