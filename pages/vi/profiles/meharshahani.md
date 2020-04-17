@@ -19,5 +19,5 @@
 Java, Android, Python, JavaScript, SQL, PHP, HTML, CSS, MongoDB 
 ```
   
-[LinkedIn profile](https://www.linkedin.com/in/meharshahani/) 
-[Github profile](https://github.com/meharshahani) 
+[LinkedIn](https://www.linkedin.com/in/meharshahani/) 
+[Github](https://github.com/meharshahani) 
