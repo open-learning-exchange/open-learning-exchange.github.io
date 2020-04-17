@@ -2,7 +2,7 @@
 
 ## Background: 
 The Systems Engineering team works on the supporting software and Linux based systems utilized by a key piece of hardware essential to OLE's remote educational projects, the Raspberry Pi.
-The goal of OLE is to provide educational material to learners and educators in remote areas of the globe, the Raspberry Pi is utilized in pursuit of this goal to provide a means by which devices can access the Planet and Nation tools you saw during your first steps.
+The goal of OLE is to provide educational material to learners and educators in remote areas of the globe, the Raspberry Pi is utilized in pursuit of this goal to provide means by which devices can access the Planet and Nation tools you saw during your first steps.
 
 #### The Systems Engineering team:
 The Systems Engineering team's goal is to provide a stable system that is widely accessible by numerous devices and operating systems.
