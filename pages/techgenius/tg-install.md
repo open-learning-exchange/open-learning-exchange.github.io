@@ -1,5 +1,3 @@
-# Community Installation
-
 ## Step 0 - Introduction
 
 This document was created to meet the immediate technical support needs of the Madagascar Ministry of Education. However, we fully expect that this document will become the general use case for any partners that are on-boarding our program.
@@ -10,7 +8,7 @@ This effort will begin with the MOE establishing a number of local Communities o
 
 ## Step 1 - Prerequisites
 
-It is understood that tech geniuses have completed [the First Steps training exercises](#!./pages/vi/vi-first-steps.md) and that they are familiar and comfortable with the deployment tools and methods.
+It is understood that tech geniuses have completed [the First Steps training exercises](#!./pages/vi/vi-first-steps.md) and that they are familiar and comfortable with the deployment tools and methods. 
 
 ## Step 2 - Vagrant Environment Installation Confirmation
 
@@ -18,9 +16,9 @@ If you have completed the installation guide, then you will find the directory `
 
 In the steps outlined below we will build a community that is attached to the Madagascar Nation. To achieve this we will do the following:
 
-- Use git command line tools to [clone](#!./pages/vi/vi-github-and-repositories.md#Clone_your_GitHub_repository_username.github.io) the ole--vagrant-community repository to your local machine;
-- Use [Vagrant](https://www.vagrantup.com "Vagrant Website") command line tools to start the new virtual machine; and
-- Configure the new local Community so that it is connected with the Madagascar Nation.
+* Use git command line tools to [clone](#!./pages/vi/vi-github-and-repositories.md#Clone_your_GitHub_repository_username.github.io) the ole--vagrant-community repository to your local machine;
+* Use [Vagrant](https://www.vagrantup.com "Vagrant Website") command line tools to start the new virtual machine; and
+* Configure the new local Community so that it is connected with the Madagascar Nation.
 
 ## Step 3 - Installation
 
@@ -41,7 +39,6 @@ git clone https://github.com/dogi/ole--vagrant-community.git
 cd ole--vagrant-community
 vagrant up
 ```
-
 Note: At this point you will have two virtual machines installed and running on your computer. In order to conserve hardware resources and to keep things clean and simple or in case you encounter an error, it is best to halt the original (ole--vagrant-vi) community.
 
 ```bash
@@ -65,14 +62,14 @@ This will bring you to the follow screen:
 
 Please complete all fields as follows:
 
-- Name = name of the school or community;
-- Code = Same as the name field but ALL LETTERS capitalized with no spaces or special characters;
-- Select Nations = MadagascarBell;
-- Language = Your local language;
-- Region = Your region of the world;
-- Sponsoring Organizations Name, Address, and URL
-- General Manager = Same as Administrator or fill in individual fields if different;
-- Tech Support = Same as Administrator or fill in individual fields if different.
+* Name = name of the school or community;
+* Code = Same as the name field but ALL LETTERS capitalized with no spaces or special characters;
+* Select Nations = MadagascarBell;
+* Language = Your local language;
+* Region = Your region of the world;
+* Sponsoring Organizations Name, Address, and URL
+* General Manager = Same as Administrator or fill in individual fields if different;
+* Tech Support = Same as Administrator or fill in individual fields if different.
 
 Click `Save` at the bottom of the page.
 
@@ -92,13 +89,13 @@ The Nation Administrator is responsible for accepting new Community registration
 
 To activate the new Community do the following:
 
-- Login to the Nation with an Administrator account.
-- Click on the New Community link at the bottom of the page (see above image);
-- This will bring you to this page:
+* Login to the Nation with an Administrator account.
+* Click on the New Community link at the bottom of the page (see above image);
+* This will bring you to this page:
 
 ![Activate New Community on the Nation](images/tg-community-admin-config-activate.png)
 
-- click on Details to reach the confirmation page:
+* click on Details to reach the confirmation page:
 
 ![Confirm New Community Acitvation](images/tg-community-admin-config-activate-confirmation.png)
 
