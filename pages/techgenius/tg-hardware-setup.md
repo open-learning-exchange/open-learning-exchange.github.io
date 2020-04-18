@@ -67,4 +67,6 @@ You will occasionally need to plug your router and RPi to an Internet connection
 
 *  To troubleshoot this issue you will need a tablet. If you are facing a connection issue your screen will display something similar to screenshot below indicating that you are “Unable to Connect”:
 
+![Unable to Connect](images/tg-quickstart-unable-to-connect.png)
+
 Note: This Wi-fi connection was shown on OLE’s tablets that are currently used. However, the process of connecting to the Wi-fi should be largely the same on any system. The solution is to change the Wi-fi settings to the correct Wi-fi network.
