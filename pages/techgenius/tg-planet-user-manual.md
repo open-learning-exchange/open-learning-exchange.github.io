@@ -164,9 +164,9 @@ A collection is a group of Resources based on topic/subject and intended use. Pl
 
 6. In the **_Language field_**, choose the language of the Resource. If the Resource is a multilingual document, choose the language that you think is the primary or most applicable language.
 
-7. **_Publisher/Attribution_** is mandatory for copyright purposes.  Please do not leave this field blank.  Type the name of the organization or publisher (and any websites associated with the Resource, if applicable).  Attribution allows OLE to use the source under Creative Commons or copyright and protects us from violating copyright laws.  
+7. **_Publisher/Attribution_** is for copyright purposes. Type the name of the organization or publisher (and any websites associated with the Resource, if applicable). Attribution allows OLE to use the source under Creative Commons or copyright and protects us from violating copyright laws.  
 
-8. **_Link to License_** is also mandatory for copyright purposes. Locate the copyright information for the Resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the Link to License field. Type “Public Domain” if the Resource is in the public domain.  
+8. **_Link to License_** is also for copyright purposes. Locate the copyright information for the Resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the Link to License field. Type “Public Domain” if the Resource is in the public domain.  
 
 9. Choose one **_Subject_** from the drop down list that your Resource fits into. Subjects are broad and general so you may not find an exact match.  
 
