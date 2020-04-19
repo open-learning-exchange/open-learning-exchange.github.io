@@ -9,10 +9,12 @@ I took computer science courses in college as well as some philosophy because I 
 
 I always enjoy a good D&D game or Sci-Fi TV show or book. I'm looking for recommendations so let me know what you're watching/reading!
 
-#
+---
+
 Github: [lancemahon](https://github.com/lancemahon)
 
-#
+---
+
 And now for an enormous picture of Fitz
 
 
