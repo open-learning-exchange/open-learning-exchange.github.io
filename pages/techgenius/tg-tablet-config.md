@@ -30,7 +30,7 @@ Plug the USB into the tablet and follow these steps:
 
 ![USB Content View](images/tg-tablet-usb-content.png)
 
-  * Double tap on firefox-54.0.1.android-arm to launch the firefox installer. 
+  * Double tap on flash_player.android.apk to launch the Adobe Flash Player installer. 
 
 ![Firefox Installer](images/tg-tablet-flash-install.png)
 
