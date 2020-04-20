@@ -49,17 +49,7 @@ When you are inside PLANET you will see different features available.
 
 ![Planet Dashboard](images/planet-dashboard.png)
 
-List of features:
-1. Library
-2. Courses
-3. Exams
-4. Surveys
-5. Teams
-6. Meetups
-7. News
-8. Achievement
-9. Feedback
-10. Manager
+The list of features along with their explanation is given below.
 
 ## Library
 The Library is home to the community's collection of media and other resources. Click [here](library.md) to learn more about Library.
