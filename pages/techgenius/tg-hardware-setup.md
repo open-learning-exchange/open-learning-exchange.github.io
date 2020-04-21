@@ -12,7 +12,7 @@ Below are two images of the RPi with and without a case.
 
 ![RPi w/ Case](images/tg-quickstart-rpi.png) ![RPi Board](images/tg-quickstart-rpi-board.png)
 
-In order to create networked access to Plannet we connect the RPi to a router. The RPi then provides an IP address and other network services to the connected hardware. For documentation purposes we use either the TP-Link N600 or the N750 but these steps are largely generic and can be performed on any router that works with the RPi. 
+In order to create networked access to Planet we connect the RPi to a router. The RPi then provides an IP address and other network services to the connected hardware. For documentation purposes we use either the TP-Link N600 or the N750 but these steps are largely generic and can be performed on any router that works with the RPi. 
 
 ![Router](images/tg-quickstart-router.png)
 
