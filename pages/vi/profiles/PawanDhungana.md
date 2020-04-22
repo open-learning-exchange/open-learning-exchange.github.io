@@ -11,5 +11,5 @@ changing the face of education for many people and also pursue my career in web 
 I look forward to seeing you all. Thank you!
 
 ### Contact Me
-1. Linkedin: https://www.linkedin.com/in/pawan-dhungana/
-2. Github: https://github.com/PawanDhungana
+1. [Linkedin](https://www.linkedin.com/in/pawan-dhungana/)
+2. [Github](https://github.com/PawanDhungana)
