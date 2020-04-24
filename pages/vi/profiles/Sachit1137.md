@@ -5,7 +5,7 @@ Location | Timezone | OS
 Gainesville, FL | GMT-4 | Windows 10 Education (64 bit) version 1909 OS build 18363.778
 
 ## About Me
-Currently a Masters student in the field of Computer Science at University of Florida. Also an experienced Assistant System Engineer with a demonstrated history of working in the information technology and services industry. I am a HP Certified Android Application Developer. I like listening to music, participating in coding competitions, contributing to opern source projects and building android apps.
+Currently a `Masters student` in the field of `Computer Science` at `University of Florida`. Also an experienced `Assistant System Engineer` with a demonstrated history of working in the information technology and services industry. I am a `HP Certified Android Application Developer`. I like listening to music, participating in coding competitions, contributing to opern source projects and building android apps.
 
 Languages | Web Technologies | Database | Other Tools
 :--- | :--- | :--- | :---
