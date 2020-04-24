@@ -11,13 +11,9 @@ Languages | Web Technologies | Database | Other Tools
 :--- | :--- | :--- | :---
 Python | HTML5| PL/SQL | Git 
 Java | CSS3 | Oracle SQL Developer | Visual Studio Code 
-Android Application development | | | Eclipse 
+Android Application development | | | Jenkins 
 Elixir | | | Android Studio 
-Unix | | | Putty 
-| | | | WinSCP 
-| | | | Jenkins 
-| | | | PyCharm 
-
+Unix | | | Putty/WinSCP 
 
 ## Contact
 * __LinkedIn:__ [my LinkedIn profile](https://www.linkedin.com/in/sachit-verma-sa1137/)
