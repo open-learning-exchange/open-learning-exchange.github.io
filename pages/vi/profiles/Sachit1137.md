@@ -11,13 +11,13 @@ I like listening to music, participating in coding competitions, contributing to
 Languages | Web Technologies | Database | Other Tools | Certifications
 :--- | :--- | :--- | :--- | :---
 Python | HTML5| PL/SQL | Git | HP Certified Android Application Developer
-Java | CSS3 | Oracle SQL Developer | Visual Studio Code
-Android Application development | | |Eclipse
-Elixir |||Android Studio
-Unix|||Putty
-| | | | WinSCP
-| | | | Jenkins
-| | | | PyCharm
+Java | CSS3 | Oracle SQL Developer | Visual Studio Code | 
+Android Application development | | | Eclipse | 
+Elixir | | | Android Studio | 
+Unix | | | Putty | 
+| | | | WinSCP | 
+| | | | Jenkins | 
+| | | | PyCharm | 
 
 
 ## Contact
