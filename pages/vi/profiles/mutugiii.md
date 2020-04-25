@@ -5,7 +5,10 @@
 | Nairobi, Kenya | GMT +3         | Linux Mint |
 
 ## About Me
-I am a student engineer currently studying Software Engineering at KCA University in Kenya. I look forward to learning and solving challenges
+I am a student engineer currently studying Software Engineering at KCA University in Kenya. I look forward to learning and solving challenges.
+As of now I use:
+- Python
+- Javascript
 
 
 ### Contact Me
