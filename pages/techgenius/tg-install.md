@@ -1,3 +1,5 @@
+# Community Installation
+
 ## Step 0 - Introduction
 
 This document was created to meet the immediate technical support needs of the Madagascar Ministry of Education. However, we fully expect that this document will become the general use case for any partners that are on-boarding our program.
