@@ -1,6 +1,6 @@
 # Planet Quick Start Manual
 
-This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Rasperry Pi server. This manual also assumes the reader possesses some basic background on the Planet and its functionality; however, it does not assume the reader has a technical or software background.
+This manual is designed to provide basic, step-by-step instructions for setting up the hardware for a Planet system based around a Raspberry Pi server. This manual also assumes the reader possesses some basic background on the Planet and its functionality; however, it does not assume the reader has a technical or software background.
 
 ## How do I Connect the Planet Hardware?
 
