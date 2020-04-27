@@ -53,6 +53,7 @@
 |[gyawaliamit7](profiles/gyawaliamit7.md)|2020-01-14|
 |[mattscodeans](profiles/mattscodeans.md)|2020-01-19|
 |[meharshahani](profiles/meharshahani.md)|2020-04-16|
+|[Haoran-Hu](profiles/Haoran-Hu.md)|2020-04-27|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
