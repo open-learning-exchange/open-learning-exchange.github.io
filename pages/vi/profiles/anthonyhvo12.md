@@ -14,7 +14,7 @@ I look forward to combining my technical expertise and marketing experience in e
 
 **Frameworks**: Node.js, Spring MVC, Spring Boot, Hibernate, CMake, Emscripten, JNI
 
-**Other**: Digital marketing, Graphic design, Video editing
+**Others**: Digital marketing, Graphic design, Video editing
 
 ## Contact
 [**LinkedIn Profile**](https://www.linkedin.com/in/anthonyhvo/)
