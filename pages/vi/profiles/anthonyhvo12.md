@@ -2,7 +2,7 @@
 
 Location | Timezone | OS
 :--- | :--- | :---
-Carlisle, PA | EST | MacOS Catalina 10.15.4|
+Carlisle, PA | EST | MacOS Catalina 10.15.4
 
 ## About
 
