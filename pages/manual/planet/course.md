@@ -27,7 +27,7 @@ By clicking on "Title", or "Rating", you are able to sort the course list accord
 
 * Action Menu
 
-![Menu](images/courses-menu.png)
+![Menu](images/sortingCourses.png)
 
 The action menu has several different actions available.
 
