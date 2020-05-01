@@ -246,11 +246,11 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 * First Steps
     - [GitHub's Git Tutorial](https://try.github.io/)
-    - [Git-it Workshop](http://jlord.us/git-it/)
+    - [Git-it Workshop](https://jlord.us/git-it/)
     - [Codecademy's Learn Git Course](https://www.codecademy.com/learn/learn-git)
 
 * Intermediate
-    - [Git Immersion](http://gitimmersion.com/)
+    - [Git Immersion](https://git-immersion.github.io/gitimmersion/)
 
 * Reference/Advanced
     - [Git Pro (Book)](https://git-scm.com/book/en/v2)
@@ -288,7 +288,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
 
 #### *HTML*
-- [HTML5 Tutorial](https://www.w3schools.com/html/html5_intro.asp)
+- [HTML5 Tutorial](https://www.w3schools.com/html/html_intro.asp)
 
 #### *CSS*
 - [CSS Tutorial](https://www.w3schools.com/css/)
