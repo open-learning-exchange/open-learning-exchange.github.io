@@ -55,7 +55,7 @@ The list of features along with their explanation is given below.
 The Library is home to the community's collection of media and other resources. Click [here](library.md) to learn more about Library.
 
 ## Courses
-The Courses page is where you can create and join a variety of different courses where you can learn many different topics. Click [here](./course.md) to learn more about Courses.
+The Courses page is where you can create and join a variety of different courses where you can learn many different topics. Click [here](course.md) to learn more about Courses.
 
 ## Exams
 **This portion needs to be worked on**
