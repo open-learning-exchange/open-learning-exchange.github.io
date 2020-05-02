@@ -41,7 +41,7 @@
 
 #### Q3: Where can I find more information about this internship?
 
-+ More information about the internship can be found at the Virtual Software Engineer Intern listing [here](https://www.indeed.com/cmp/Open-Learning-Exchange,-Inc./jobs).
++ More information about the internship can be found at the Virtual Software Engineer Intern listing [here](https://angel.co/company/open-learning-exchange/jobs/319055-virtual-software-engineer-intern).
 
 #### Q4: What are the hours of the internship?
 
@@ -130,11 +130,11 @@
 
 #### Q18: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?
 
-+ Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
++ Please follow the guide at [Q22](#Q22:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
 
 #### Q19: What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?
 
-+ Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
++ Please follow the guide at [Q22](#Q22:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
 
 #### Q20: What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?
 
