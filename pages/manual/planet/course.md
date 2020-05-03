@@ -212,7 +212,7 @@ Note that this filtering is not retroactive, and clicking on a subcollection to 
 
 ## Taking a Test
 
-In order to take a test, you must first [join](#Actions_On_List_Page) the course. If you have not joined the course, you will only see the Preview button and not the Take Test button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
+In order to take a test, you must first [join](#Actions_on_List_Page) the course. If you have not joined the course, you will only see the Preview button and not the Take Test button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
 
 On the courses list, click on your desired course.
 
@@ -246,7 +246,7 @@ Multiple answers may be selected by the checkboxes to the left of the answer cho
 
 ## Taking a Survey
 
-In order to take a survey, you must first [join](#Actions_On_List_Page) the course. If you have not joined the course, you will only see the Preview button and not the Take Survey button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
+In order to take a survey, you must first [join](#Actions_on_List_Page) the course. If you have not joined the course, you will only see the Preview button and not the Take Survey button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
 
 On the courses list, click on your desired course.
 
