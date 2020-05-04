@@ -288,7 +288,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
 
 #### *HTML*
-- [HTML5 Tutorial](https://www.w3schools.com/html/html5_intro.asp)
+- [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
 - [HTML MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 #### *CSS*
