@@ -23,6 +23,8 @@ Upon getting to the courses page, you will be greeted a page similar to the foll
 
 By clicking on "Title", or "Rating", you are able to sort the course list accordingly.
 
+![Menu](images/sortingCourses.png)
+
 ## Actions on List Page
 
 * Action Menu
