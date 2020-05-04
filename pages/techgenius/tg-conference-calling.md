@@ -10,7 +10,7 @@ When you contact OLE via one of our support channels we ask that you pay close a
 
 2. **Recognize that video consumes bandwidth.** Please turn off your video before you enter the room. Although bandwidth may not be an issue for you, it often is in remote parts of the world where many of OLE partners are located.
 
-3. **Recognize that background noise often cause issues**, especially when there a number of people are on the same channel. **Please mute your microphone when you are not talking.**
+3. **Recognize that background noise often cause issues**, especially when a number of people are on the same channel. **Please mute your microphone when you are not talking.**
 
 ## Tools & Services
 

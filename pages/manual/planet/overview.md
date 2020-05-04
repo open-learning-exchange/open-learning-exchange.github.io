@@ -29,13 +29,13 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
 
 * **Nations**
   * **Nations** always exist in the cloud and require an internet connection to access;
-  * Each **Nation** serves as a central repository for the **Community** or **a** group of communities that it serves; and
+  * Each **Nation** serves as a central repository for the **Community** or a group of communities that it serves; and
   * Different **Nations** cannot connect to each other.
 
 * **Communities**
   * A **Community** is a local installation of the Planet system;
   * A **Community** does not require an internet to access;
-  * Users connect to a **Community** via a router through a locally configured _intranet_ using either a device with a web browser (tablet, computer, etc.);
+  * Users can connect to a **Community** using any device having a web browser like tablet, computer, etc. The connection is established via a router through a locally configured _intranet_;
   * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metrics; and
   * A **Community** is not able to connect to other **Communities**.
 
@@ -55,7 +55,7 @@ The list of features along with their explanation is given below.
 The Library is home to the community's collection of media and other resources. Click [here](library.md) to learn more about Library.
 
 ## Courses
-The Courses page is where you can create and join a variety of different courses where you can learn many different topics. Click [here](./course.md) to learn more about Courses.
+The Courses page is where you can create and join a variety of different courses where you can learn many different topics. Click [here](course.md) to learn more about Courses.
 
 ## Exams
 **This portion needs to be worked on**
