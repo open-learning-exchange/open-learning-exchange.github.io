@@ -43,7 +43,7 @@ Alternatively, click on your course on the courses list then click the "Join" bu
 
 Alternatively, click on your course on the courses list then click the "Leave" button near the top-right of the course page.
 
-4. To change a collection, select the checkbox next to a course then click "Change Collections". To learn what a collection is, click [here](#course-collections).
+4. To change a collection, select the checkbox next to a course then click "Change Collections". To learn what a collection is, click [here](#Course_Collections).
 
 5. To send a newly created course to be updated in the remote database, select the checkbox next to a course, click on "Manager Actions", then click on "Send Courses". You will need to enter your administrator password.
 
@@ -69,7 +69,7 @@ At the search bar near the top-right of the page, you are able to search by Grad
 
 ![Search](images/courses-search.png)
 
-For filtering by collection, please check out [Course Collections](#course-collections)
+For filtering by collection, please check out [Course Collections](#Course_Collections)
 
 * Pagination
 
@@ -99,7 +99,7 @@ To create a new collection or to see the subcollection of a collection listed be
 
 By clicking the "Edit" button next to each collection, you are able to change the collection's name and subcollection status.
 
-To see what a collection is, try [Course Collections](#course-collections).
+To see what a collection is, try [Course Collections](#Course_Collections).
 
 ![Step](images/courses-step.png)
 
@@ -212,7 +212,7 @@ Note that this filtering is not retroactive, and clicking on a subcollection to 
 
 ## Taking a Test
 
-In order to take a test, you must first [join](#actions-on-list-page) the course. If you have not joined the course, you will only see the Preview button and not the Take Test button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
+In order to take a test, you must first [join](#Actions_on_List_Page) the course. If you have not joined the course, you will only see the Preview button and not the Take Test button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
 
 On the courses list, click on your desired course.
 
@@ -246,7 +246,7 @@ Multiple answers may be selected by the checkboxes to the left of the answer cho
 
 ## Taking a Survey
 
-In order to take a survey, you must first [join](#actions-on-list-page) the course. If you have not joined the course, you will only see the Preview button and not the Take Survey button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
+In order to take a survey, you must first [join](#Actions_on_List_Page) the course. If you have not joined the course, you will only see the Preview button and not the Take Survey button. The visuals of both are identical, but while previewing, you will not be able to submit your answers.
 
 On the courses list, click on your desired course.
 
