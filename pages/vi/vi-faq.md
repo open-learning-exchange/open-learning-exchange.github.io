@@ -288,13 +288,16 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
 
 #### *HTML*
-- [HTML5 Tutorial](https://www.w3schools.com/html/html_intro.asp)
+- [HTML5 Tutorial](https://www.w3schools.com/html/html5_intro.asp)
+- [HTML MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 #### *CSS*
 - [CSS Tutorial](https://www.w3schools.com/css/)
+- [CSS MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### *JavaScript*
 - [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+- [JavaScript MDN DOCS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 #### *ES6*
 - [ES6 Tutorial](https://www.tutorialspoint.com/es6/index.htm)
