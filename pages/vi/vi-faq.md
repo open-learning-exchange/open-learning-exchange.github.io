@@ -41,7 +41,7 @@
 
 #### Q3: Where can I find more information about this internship?
 
-+ More information about the internship can be found at the Virtual Software Engineer Intern listing [here](https://angel.co/company/open-learning-exchange/jobs/319055-virtual-software-engineer-intern).
++ More information about the internship can be found at the Virtual Software Engineer Intern listing [here](https://www.ole.org/join-our-team/).
 
 #### Q4: What are the hours of the internship?
 
