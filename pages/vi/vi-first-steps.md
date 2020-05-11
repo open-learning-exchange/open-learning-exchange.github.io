@@ -86,7 +86,7 @@ Make sure you have created at least one issue, resolved it, commented on an issu
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.md).
 
-Please note that creating and working on Issues are not exactly bound by the "Step" you are in. Feel free to move on to other steps, and make more Issues and Pull Requests while you wait on OLE approval for your merge(s).
+Please note that creating and working on Issues are not exactly bound by the "Step" you are in. Feel free to move on to other steps while you wait on OLE approval for your merge(s). You can also add more Issues and PR's in the meantime.
 
 ## Step 7 - Nation Planet
 
