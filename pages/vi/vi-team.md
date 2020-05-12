@@ -56,7 +56,7 @@
 |[Haoran-Hu](profiles/Haoran-Hu.md)|2020-04-27|
 |[chtelmko](profiles/chtelmko.md)|2020-05-06|
 |[jsschf](profiles/jsschf.md)|2020-05-06|
-
+|[Mutugiii](profiles/mutugiii.md)|2020-05-12|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
