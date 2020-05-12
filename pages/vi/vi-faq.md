@@ -41,7 +41,7 @@
 
 #### Q3: Where can I find more information about this internship?
 
-+ More information about the internship can be found at the Virtual Software Engineer Intern listing [here](https://www.indeed.com/cmp/Open-Learning-Exchange,-Inc./jobs).
++ More information about the internship can be found at the Virtual Software Engineer Intern listing [here](https://www.ole.org/join-our-team/).
 
 #### Q4: What are the hours of the internship?
 
@@ -130,11 +130,11 @@
 
 #### Q18: What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?
 
-+ Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
++ Please follow the guide at [Q22](#Q22:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
 
 #### Q19: What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?
 
-+ Please follow the guide at [Q21](#Q21:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
++ Please follow the guide at [Q22](#Q22:_How_do_I_destroy_the_Virtual_Machine_and_start_over?) to destroy the original virtual machine and start over.
 
 #### Q20: What do I do if I get the error message "A Virtual Box machine with the name 'vi' already exists"?
 
@@ -246,11 +246,11 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 * First Steps
     - [GitHub's Git Tutorial](https://try.github.io/)
-    - [Git-it Workshop](http://jlord.us/git-it/)
+    - [Git-it Workshop](https://jlord.us/git-it/)
     - [Codecademy's Learn Git Course](https://www.codecademy.com/learn/learn-git)
 
 * Intermediate
-    - [Git Immersion](http://gitimmersion.com/)
+    - [Git Immersion](https://git-immersion.github.io/gitimmersion/)
 
 * Reference/Advanced
     - [Git Pro (Book)](https://git-scm.com/book/en/v2)
@@ -288,13 +288,16 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
 
 #### *HTML*
-- [HTML5 Tutorial](https://www.w3schools.com/html/html5_intro.asp)
+- [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
+- [HTML MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 #### *CSS*
 - [CSS Tutorial](https://www.w3schools.com/css/)
+- [CSS MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### *JavaScript*
 - [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+- [JavaScript MDN DOCS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 #### *ES6*
 - [ES6 Tutorial](https://www.tutorialspoint.com/es6/index.htm)

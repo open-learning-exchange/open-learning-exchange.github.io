@@ -1,11 +1,4 @@
 # Feedback
-Topics:
-1. [Giving Feedback](#giving-feedback)
-2. [Giving Feedback To Planet](#giving-feedback-to-planet)
-3. [Giving Feedback To Different Items](#giving-feedback-to-different-items)
-4. [View Feedbacks](#view-feedbacks)
-5. [Replying To Feedbacks](#replying-to-feedbacks)
-6. [Closing And Reopening Feedbacks](#closing-and-reopening-feedbacks)
 
 ## Giving Feedback
 As you can see, this is the feedback screen. You will be able to input if the feedback is urgent, the feedback type, and the details.
