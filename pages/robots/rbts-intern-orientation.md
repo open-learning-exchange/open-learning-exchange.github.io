@@ -39,7 +39,7 @@ Once you have accepted your invitation, mark yourself as a public member in the 
 
 ### Reviewing Pull Requests and Issues
 
-One of your responsibilities as an intern is to review and help prospective interns with their issues / pull request on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [Review on GitHub](https://help.github.com/articles/about-pull-request-reviews/). 
+One of your responsibilities as an intern is to review and help prospective interns with their issues / pull requests on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [Review on GitHub](https://help.github.com/articles/about-pull-request-reviews/). 
 
 Since we are a very diverse community with people coming from different background and culture, it might be hard to find the right language to use in reviewing other's code. Please make sure to read [**a guide for reviewing code and having your code reviewed**](https://github.com/thoughtbot/guides/tree/master/code-review#code-review) for some useful tips.
 
