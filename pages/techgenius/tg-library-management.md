@@ -26,55 +26,57 @@ A collection is a group of resources that are grouped by attribute such as topic
 
 ## How do I upload a Resource?
 
-1.  Log in as a **Learner**, **Leader**, or **Manager**.
+1. Log in as a **Learner**, **Leader**, or **Manager**.
 
-2.  From the main **_Dashboard_** click on the **_Library_** menu item at the top of the page.
+2. Start on the main **_Dashboard_** and click on the **_Library_** heading.
 
-3.  After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
+3. After clicking on the Library heading, choose **_“Add New Resource.”_** You should be taken to the following empty screen:
 
-![Add New Resource](images/tg-resource-new.png)
+![Add New Resource](images/tg-resource-upload.png)
 
-1.  The **Title** of the resource goes here. Capitalize all principal words and make sure everything is spelled correctly. If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”). Do not start the title with numbers or special characters (!@#$%^&*). If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new resource in parentheses. Examples are shown below.
+1. The **Title** of the Resource goes here. Capitalize all principal words and make sure everything is spelled correctly. If there are any dashes in the title, leave a space on either side (i.e., “Addition - Subtraction” NOT “Addition-Subtraction”). Do not start the title with numbers or special characters (!@#$%^&*). If the title is already taken (for example, a version in another language has already been uploaded) include the language of the new Resource in parentheses. Examples are shown below.
 
           a. A Tale of Two Cities
           b. A Tale of Two Cities (Spanish)
-          
-2. Type the name of Author(s)/Editor. Authors should be listed as follows: “FIRST NAME, LAST NAME.” Illustrators, editors, translators, etc., should be identified in this section with their title in parentheses.
+
+2. Type the name of **_Author(s)/Editor_**. Authors should be listed as follows: “FIRST NAME, LAST NAME.” Illustrators, editors, translators, etc., should be identified in this section with their title in parentheses.
 
           a. John Doe
           b. Jane Doe (Translator)
-          
-3. **_Publisher/Attribution_** is mandatory for copyright purposes. Please do not leave this field blank. Type the name of the organization or publisher (and any websites associated with the resource, if applicable). Attribution allows OLE to use the source under Creative Commons or copyright and protects against copyright laws violations.
 
-4. If available, type the **_Year_** in which the resource was published.
+3. If available, type the **_Year_** in which the Resource was published.  
 
-5. **_Link to License_** is also mandatory for copyright purposes. Locate the copyright information for the resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the "Link to License" field.  Type “Public Domain” if the resource is in the public domain.
+4. Add a **_description_** for the resource in the text area if applicable.  
 
-6. In the **_Language field_** list the language of the resource. If the resource is a multilingual document, choose the language that you think is the primary or most applicable language.
+5. You may choose a **_Collection_** in which to place your Resource. Collections are more narrow than subjects in their scope. In many cases, you may find a Collection name that already exists and best fits your Resource. Use the search bar at the top of the drop down list to search for relevant Collections. If the Resource fits into more than one Collection, choose more than one. The “Add New” button next to Collection should be used only if a relevant existing Collection cannot be found. In most cases, Learners will not need to add new Collections.  
 
-7. Choose one **_Subject_** from the drop down list. Subjects are broad and general so you may not find an exact match.
+6. In the **_Language field_**, choose the language of the Resource. If the Resource is a multilingual document, choose the language that you think is the primary or most applicable language.
 
-8. Select at least one **_Level_** from the drop down list to assign to your resource. Levels refer to the reading level required to be able to understand this resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the resource.
+7. **_Publisher/Attribution_** is for copyright purposes. Type the name of the organization or publisher (and any websites associated with the Resource, if applicable). Attribution allows OLE to use the source under Creative Commons or copyright and protects us from violating copyright laws.  
 
-9. You may choose a **_Collection_** in which to place your resource. Collections are more narrow than subjects in their scope. In many cases, you may find an existing collection name that best fits your resource. Use the search bar at the top of the drop down list to search for relevant collections. If the resource fits into more than one collection, choose more than one. The “Add New” button next to collection should be used only if a relevant existing collection cannot be found. In most cases, Learners will not need to add new collections.
+8. **_Link to License_** is also for copyright purposes. Locate the copyright information for the Resource. If it has a Creative Commons license, locate the correct license from the Creative Commons website and paste the URL in the Link to License field. Type “Public Domain” if the Resource is in the public domain.  
 
-10. Choose the type of **_Media_** for your resource: Text, Graphic/Pictures, Audio/Music/Book, or Video. If you are unsure, leave this tab on the default Text.
+9. Choose one **_Subject_** from the drop down list that your Resource fits into. Subjects are broad and general so you may not find an exact match.  
 
-11. The **_Open_** field relates to the medium of the resource. Select the corresponding medium in this field.
-          
+10. Select at least one **_Level_** from the drop down list to assign to your Resource. Levels refer to the reading level required to be able to understand this Resource. You may choose multiple levels, but please ensure they actually apply to the reading level of the Resource.  
+
+11. The **_Open_** field relates to the medium of the Resource. Examples are shown below.
+
           a. A resource with a .PDF extension has PDF format.
           b. A .mp3 is Audio (MP3) format.
           c. A .mp4 or .flv is Video (MP4, FLV) format. NOTE: If the video does not play when MP4 is selected then try changing this field to FLV and playing the video.
 
-12. In the **_Resource For_** field choose Learner or Leader. If appropriate for both, choose Learner.
+12. In the **_Resource For_** field choose Learner or Leader. If appropriate for both, choose Learner.  
 
-13. Choose **_Resource Type_** to select which kind of resource you are uploading: Textbook, Lesson Plan, Activities, Exercises, or Discussion Questions. If your resource does not seem to fit any of these categories, leave this tab on the default Textbook setting.
+13. Choose the **_Media_** for your Resource: Text, Graphic/Pictures, Audio/Music/Book, or Video. If you are unsure, leave this tab on the default Text.  
 
-14. You have the option of using a URL to open the resource if applicable. In this case use **_Open URL_** For most resources, this can be left blank.
+14. Choose the **_Resource Type_** to select which kind of Resource you are uploading: Textbook, Lesson Plan, Activities, Exercises, or Discussion Questions. If your Resource does not seem to fit any of these categories, leave this tab on the default Textbook setting.  
 
-15. Use the **_Upload Resources_** and **_Browse_** buttons to locate your resource and upload it. Select the **_Browse_** button and locate your file. When you have found it, select Open. Double check all the fields to ensure they are correct and then select Save.
+15. Select the **_Browse_** button and locate your file. When you have found it, select Open. Double check all the fields to ensure they are correct and then select Save.  
 
-While your resource is uploaded into the Library you will see a "loading" screen followed by a confirmation dialogue box once the upload has completed successfully.
+16. Check the **_File downloadable_** if you want to make the file downloadable.
+
+You will be taken to a loading screen while your Resource is uploaded into the Library. When the upload is complete, you will receive a confirmation for a successful upload.
 
 **IMPORTANT:** Once you have finished uploading your resource **locate the resource in the Library and confirm that it was uploaded correctly and can be viewed/heard.**
 
