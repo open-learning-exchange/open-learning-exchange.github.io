@@ -18,6 +18,7 @@
 
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
+  * [Helpful Links/Videos](pages/vi/vi-helpful-links-and-videos.md)
   - - - -
   * [Step 0 - Introductory Steps](pages/vi/vi-first-steps.md#Step_0_-_Introductory_Steps)
   * [Step 1 - Planet and Vagrant](pages/vi/vi-first-steps.md#Step_1_-_Planet_and_Vagrant)
