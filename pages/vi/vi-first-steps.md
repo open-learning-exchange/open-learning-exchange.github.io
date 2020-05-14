@@ -68,6 +68,8 @@ Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown
 ## Step 4 - Planet and myPlanet Tutorial
 
 This step includes the [Planet Tutorial](vi-planetapps.md), which explains the features of the application.
+And also there is [myPlanet Tutorial](vi-myplanet.md), which explains about Android application.
+
 
 ## Step 5 - Keeping Fork Updated
 
