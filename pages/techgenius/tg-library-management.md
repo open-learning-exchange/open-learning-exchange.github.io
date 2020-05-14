@@ -31,6 +31,7 @@ A collection is a group of resources that are grouped by attribute such as topic
 2. From the **_Community_** page click on the **_Library_** heading.
 
 3. After clicking on the **_Library_** heading, click on the add button (red box) as follows: 
+
 ![Add New Resource](images/tg-library-add-collection.png)
 
 You should be taken to the following empty screen:
