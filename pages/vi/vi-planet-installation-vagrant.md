@@ -142,6 +142,8 @@ At this early stage, the simple solution would be using `vagrant destroy prod` t
 
 7. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
 
+8. To download Homebrew, paste this command into terminal: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)". After pressing enter, give your terminal a few minutes to install it. Terminal may prompt you to enter a password with a key next to it. This means that it needs permission to install. Click next to the password prompt and type in your computer password and press enter. After completing these steps, you should be able to proceed with downloading git, vagrant, and virtualbox. 
+
 ## Next Section ([Step 1.2](vi-configurations-vagrant.md)) **→**
 
 Now  you have installed your community Planet, head over to [Planet Configurations](#!./pages/vi/vi-configurations-vagrant.md) to register your community with the nation.
