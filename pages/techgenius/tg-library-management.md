@@ -104,22 +104,19 @@ Yes. These resources are covered in an additional manual titled, XXXXX. Please r
 Collections can be used by Nation administrators and managers to categorize materials by topic. Collections make it easy to group resources so that they are easily found by Learners. **NOTE:** Collections cannot be transferred between Nations and Communities so any changes to a collection are unique to that specific instance of PLANET. Collections can only be created or changed by administrators.
 
 1. Log in to the Manager account.
+
 2. Click “Library” on the top navigation bar and then “Collections”.
 
-![Create a Collection](images/tg-collection.png)
+3. You can either manage existing Collections or create a new Collection. We will first create a new Collection. Click on “Create New Collection.” You will then be prompted to fill in the form shown below. Type the Collection name. "Subcollection of” refers to whether this will be a top level Collection or a sub-Collection. Sub-Collections are nested under other Collections. If you wish to create a Collection rather than a sub-Collection, please leave this category set to the “None” option.
 
-3. You can either manage existing collections or create a new collection. We will first create a new collection. Click on “Add Collection.”
+    ![Add New Collection](images/tg-collection-new.png)
 
-![Add a Collection](images/tg-collection-add.png)
+4. When the form is complete, click "Add Collection" to create the new Collection.
 
-4. You will then be prompted to fill out the below form. Type the name and description of the collection. “Nested Under” refers to whether this will be a top level collection or a sub-collection. Sub-collections are nested under other collections. If you wish to create a collection rather than a sub-Collection, please leave this category set to the “--Select--” option.
+5. To edit a Collection, click on "Collections" and then the "Edit" button next to the Collection you want to edit (red box).
 
-![Save New Collection](images/tg-collection-save.png)
+    ![Edit Collection](images/tg-collection-edit.png)
 
-5. Once complete click “Save” to create the new collection.
+6. Change any of the information which should be updated and click “Submit.” You can also delete or sub-categorize the Collection.
 
-6. To edit a collection, go back to the main collection page and click on the button next to the collection you want to edit.
-
-![Main Collection](images/tg-collection-main.png)
-
-7. You will be directed to the same screen as the creation page. Change any of the information which should be updated and click “Save.” You can also delete or nest (sub-categorize) the collection.
+    ![Edit Collection Details](images/tg-collection-edit-details.png)
