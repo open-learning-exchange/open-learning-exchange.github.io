@@ -91,9 +91,11 @@ in your planet folder. This destroys and removes your community, pulls the lates
 
 6. **When you tried to access http://localhost:3100 and it didn't work even though you tried step 5, then you need to follow these steps.** Use the command vagrant global-status. If something like this pops up: 
 
-id       name   provider   state   directory                           
------------------------------------------------------------------------
-d529366  prod   virtualbox running /Users/gautamsethi/planet  
+```
+id       name   provider   state   directory
+---------------------------------------------------------------------------
+219abaa  prod     virtualbox running /Users/aberdean/planet
+```
 
 Then you need to copy the id, and then use the command: vagrant up [server id]. Afterward, try running http://localhost:3100 and it should work now. 
 
