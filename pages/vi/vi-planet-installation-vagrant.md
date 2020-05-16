@@ -54,7 +54,7 @@ NOTE: Due to some issues we are seeing with newest version of vagrant. We sugges
 
 ---
 
-## macOS or Ubuntu
+## macOS, Ubuntu, or Fedora
 
 ### Preparation
 
@@ -93,8 +93,30 @@ If you encounter the error:
    > Errors were encountered while processing: vagrant.deb
 
 To solve this problem: Copy link location of Debian 32-bit instead and run commands again.
- 
----
+
+### For Fedora
+
+Ensure RPM Fusion repositories are configured: [RPM Fusion installalation instructions.](https://rpmfusion.org/Configuration)
+
+Install VirtualBox using RPM Fusion repositories: [VirtualBox installation instructions](https://rpmfusion.org/Howto/VirtualBox).  Steps 1-3 should be sufficient, but if needed, explore other steps.
+
+Next, install git and vagrant:
+
+```bash
+sudo dnf update
+sudo dnf install git vagrant
+```
+
+To enable VirtualBox support in vagrant, follow these instructions: [Vagrant with VirtualBox support installation](https://developer.fedoraproject.org/tools/vagrant/vagrant-virtualbox.html).  Depending on your selected method, you may need to perform this prior to starting vagrant each time.
+
+Additionally, depending on when these steps are executed, the following steps may be needed to enable VirtualBox 6.1 with vagrant: [vagrant fix](https://github.com/oracle/vagrant-boxes/issues/178#issue-536720633)
+
+To find the files referred to in the linked Github issue, consider this:
+
+```bash
+find /usr/share/vagrant -name plugin.rb
+```
+Once you have determined where your applicable files are, you may adapt the steps in the previously linked Github issue.
 
 ## Install a Community Planet  
 
