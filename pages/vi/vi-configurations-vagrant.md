@@ -89,7 +89,7 @@ in your planet folder. This destroys and removes your community, pulls the lates
 
 5. When you are trying to access http://localhost:3100 the page may not load at all, even if your account was configured correctly and fully approved. A first step would be to run `vagrant halt prod`. Then, you should proceed to clear the cookies from your browser. This step will be different for each browser. Finally, you should run `vagrant up prod` to restart the VM before you reopen the browser to access the Planet again. **If this does not work, follow the previous steps above to rebuild your planet account.**
 
-6. **When you tried to access http://localhost:3100 and it didn't work even though you tried step 5, then you need to follow these steps.** Use the command vagrant global-status. If something like this pops up: 
+6. **If you tried to access http://localhost:3100 and it didn't work even though you tried step 5, then you need to follow these steps.** Use the command vagrant global-status. If something like this pops up: 
 
 ```
 id       name   provider   state   directory
