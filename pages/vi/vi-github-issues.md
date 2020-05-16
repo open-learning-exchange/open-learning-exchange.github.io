@@ -35,7 +35,7 @@ _**SPECIAL NOTE:**_ Aspiring Virtual Interns have a tendency to speed through th
 ## Create a New Branch
 
 **Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other.**
-Before you create your branch, sync your repo using next commands:
+Before you create your branch, sync your repo using the commands:
 `git fetch upstream`  
 `git checkout master`
 `git merge upstream/master`
