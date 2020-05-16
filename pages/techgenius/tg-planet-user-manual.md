@@ -221,23 +221,19 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 
 2. Click “Library” on the top navigation bar and then “Collections”.
 
-3. 
-   You can either manage existing Collections or create a new Collection. We will first create a new Collection. Click on “Create New Collection.” You will then be prompted to fill in the form shown below. Type the Collection name. "Subcollection of” refers to whether this will be a top level Collection or a sub-Collection. Sub-Collections are nested under other Collections. If you wish to create a Collection rather than a sub-Collection, please leave this category set to the “None” option.
-   <!-- ![Save Collection](images/tg-collection-save.png) -->
-   ![Add New Collection](images/tg-collection-new.png)
+3. You can either manage existing Collections or create a new Collection. We will first create a new Collection. Click on “Create New Collection.” You will then be prompted to fill in the form shown below. Type the Collection name. "Subcollection of” refers to whether this will be a top level Collection or a sub-Collection. Sub-Collections are nested under other Collections. If you wish to create a Collection rather than a sub-Collection, please leave this category set to the “None” option.
 
-4.
-   When the form is complete, click "Add Collection" to create the new Collection.
+    ![Add New Collection](images/tg-collection-new.png)
 
-5. 
-   To edit a Collection, click on "Collections" and then the "Edit" button next to the Collection you want to edit (red box).
+4. When the form is complete, click "Add Collection" to create the new Collection.
 
-   <!-- ![Edit Collection](images/tg-collection-main.png) -->
-   ![Edit Collection](images/tg-collection-edit.png)
+5. To edit a Collection, click on "Collections" and then the "Edit" button next to the Collection you want to edit (red box).
 
-6. 
-   Change any of the information which should be updated and click “Submit.” You can also delete or sub-categorize the Collection.
-   ![Edit Collection Details](images/tg-collection-edit-details.png)
+    ![Edit Collection](images/tg-collection-edit.png)
+
+6. Change any of the information which should be updated and click “Submit.” You can also delete or sub-categorize the Collection.
+
+    ![Edit Collection Details](images/tg-collection-edit-details.png)
 
 ## Courses Overview
 
