@@ -407,6 +407,7 @@ Notes:
    ![Members Roles](images/tg-members-roles.png)
 
    Click on "Set Roles" (red box) to finish setting the roles.
+
    ![Set Roles](images/tg-members-set-roles.png)
 
 ## Reports Overview
