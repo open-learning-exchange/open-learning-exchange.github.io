@@ -104,8 +104,8 @@ Check out this [link](https://crowdin.com/page/tour#tab_translators) and [transl
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section _([Step 5](vi-github-and-repositories.md))_ **→**
+## Next Section _([Step 4.2](vi-myplanet.md))_ **→**
 
-In the next step, you will learn more about how our Git repositories work, and how to sync your own repository to keep up-to-date.
+In the next step, you will learn about android version of Planet application called myPlanet.
 
-#### Return to [First Steps](vi-first-steps.md#Step_4_-_Planet_Tutorial)
+#### Return to [First Steps](vi-first-steps.md#Step_4_-_Planet_and_myPlanet_Tutorial)
