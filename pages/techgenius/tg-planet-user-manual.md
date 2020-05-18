@@ -371,18 +371,43 @@ Below are tips for managing a Course.
 
 A user is able to see and search for members within the community/nation, but can't modify other members data.
 An administrator of a community/nation is able to modify or delete members data if necessary.
-Below is an illustration of the Members menu.
 
-![Member Management](images/tg-members-menu.png)
+### _How do I access the Members Menu?_
+
+1. Click on the "Manager Settings" button (red box) from the Community page.
+
+   ![Manager Settings](images/tg-manager-settings-button.png)
+
+2. Click on the "Members" tab (red box) from the Manager Settings page.
+
+   ![Members Tab](images/tg-members-button.png)
+
+3. You should see the Members page below.
+
+   ![Members Page](images/tg-members-page.png)
 
 Notes:
 
-1. **Add New Member** - we can add a new member by clicking this button.
-2. **List of Members** - we can see list of members here.
-3. **Search Members** - insert a member's name here and click _search_ to search for the member.
-4. **Open Members Detail** - everyone can see the details of a member here.
-5. **Edit Members Detail** - this is an admin only functionality for editing a members account information.
-6. **Delete a Member** - this is an admin only functionality for deleting members.
+1. **Deactivate** - use this button to deactivate a member.
+
+2. **Delete** - use this button to delete members from your community.
+
+3. **Promote** - use this button to promote a member to the role of a community admin.
+
+4. **View Profile** - use this button to view and edit the profile of a member.
+
+5. We can filter members by their roles with the "Filter by role" drop down menu or search members by name with the "Search name..." search bar.
+
+6. We can also set special roles for members. To do so, first check the boxes next to the profile images of the members to set roles for. Then click the drop down menu "Set roles of selected" (red box).
+
+   ![Members Selection](images/tg-members-select.png)
+
+   Choose the roles you want to set for the members selected. You can also choose "Select All" or "Deselect All."
+
+   ![Members Roles](images/tg-members-roles.png)
+
+   Click on "Set Roles" (red box) to finish setting the roles.
+   ![Set Roles](images/tg-members-set-roles.png)
 
 ## Reports Overview
 
