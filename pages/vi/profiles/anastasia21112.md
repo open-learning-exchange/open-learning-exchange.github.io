@@ -11,7 +11,7 @@ I am currently a sophomore at West High School! **GO PANTHERS!**
 I absolutely love robots, computer science, and data science–the photo above is my team and I at the Utah capitol.   
 I aspire to become a machine learning engineer once I am older.   
 >In my free time, I play tennis, ultimate frisbee, and go on walks!  
->My favorite things are `Boba, Coffee, Friends, Puppies, and Computers`
+>My favorite things are `Boba, Coffee, Friends, Puppies, and Computers`  
 ******
 ## Languages/Environments/Skills
 |Languages | Environments | Skills |
