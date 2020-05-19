@@ -34,7 +34,7 @@ A collection is a group of resources that are grouped by attribute such as topic
 
 ![Add New Resource](images/tg-library-add-collection.png)
 
-You should be taken to the following empty screen:
+You should be taken to the following screen:
 
 ![Add New Resource](images/tg-resource-upload.png)
 
