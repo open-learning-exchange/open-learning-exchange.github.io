@@ -220,6 +220,7 @@ Collections can be used by Nation Managers to categorize materials by topic for 
 1. Log in to the Manager account.
 
 2. Click “Library” on the top navigation bar and then “Collections”.
+
    ![Collections](images/tg-collection.png)
 
 3. You can either manage existing Collections or create a new Collection. We will first create a new Collection. Click on “Create New Collection.” You will then be prompted to fill in the form shown below. Type the Collection name. "Subcollection of” refers to whether this will be a top level Collection or a sub-Collection. Sub-Collections are nested under other Collections. If you wish to create a Collection rather than a sub-Collection, please leave this category set to the “None” option.
