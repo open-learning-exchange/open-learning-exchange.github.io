@@ -33,6 +33,13 @@ Most recent CPUs have this feature enabled already, but if you are unsure whethe
 If later you are having trouble running Vagrant, it may be that VT-x/AMD-V is not enabled on your system. 
 Here are instructions to enable virtualization on [Windows](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/) | [Ubuntu](http://askubuntu.com/questions/256792/how-do-i-enable-hardware-virtualization-technology-vt-x-for-use-in-virtualbox) | [macOS](http://kb.parallels.com/en/5653)
 
+#### Storage Space
+
+Before installing Vagrant on any platform, it is necessary to have at least 7 GB of free space on your computer. Vagrant and VirtualBox take up approximately 6 GB to 7 GB on your machine, and in order to minimize downloading errors, check to see if you have enough storage space before installation.
+
+To check your current storage space on **Mac** go to the Apple Logo on the top left of your screen, `About This mac > Storage`
+To check your current storage space on **Windows** go to `Settings > System > Storage`
+
 ---
 
 ## Windows
