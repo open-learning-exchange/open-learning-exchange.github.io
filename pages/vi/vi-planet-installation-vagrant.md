@@ -37,8 +37,8 @@ Here are instructions to enable virtualization on [Windows](https://www.howtogee
 
 Before installing Vagrant on any platform, it is necessary to have at least 7 GB of free space on your computer. Vagrant and VirtualBox take up approximately 6 GB to 7 GB on your machine, and in order to minimize downloading errors, check to see if you have enough storage space before installation.
 
-To check your current storage space on **Mac** go to the Apple Logo on the top left of your screen, `About This mac > Storage`
-To check your current storage space on **Windows** go to `Settings > System > Storage`
+* To check your current storage space on **Mac** go to the Apple Logo on the top left of your screen, `About This mac > Storage`
+* To check your current storage space on **Windows** go to `Settings > System > Storage`
 
 ---
 
