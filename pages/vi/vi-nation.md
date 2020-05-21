@@ -55,6 +55,10 @@ Then, click on "Reports" to access reports from various communities in the natio
 
 ![Clicking on "Reports"](images/vi-manager-dashboard.png "Manager Page in ole site")
 
+Now, you should see a ` Sandbox ` tab, click on it.
+
+![Sandbox Tab](images/vi-nation-sandbox.png)
+
 You should see a list of communities. Click on your community to view its report.
 
 ![Communities List](images/vi-nation-communities.png "Report Communities List Page in ole site")
