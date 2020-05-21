@@ -163,17 +163,17 @@ This is an exercise to help you familiarize yourself with GitHub issues, committ
 
 You will need to make **at least one comment** on an issue you did **not** create.
 
-1.  Go to the [upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)
+1.  Go to the [upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)  
 
-2.  Click on the ` Issues ` Tab
+2.  Click on the ` Issues ` Tab   
 
-3.  Click on an issue, and read it thoroughly
+3.  Click on an issue, and read it thoroughly  
 
-4.  Scroll down and add your comment in the **Write** box (click on **Preview** to see how your comment looks like)   
+4.  Scroll down and add your comment in the **Write** box (click on **Preview** to see how your comment looks like)      
 
-5. Click **Comment** when finished.   
+5. Click **Comment** when finished.  
 
- ![comment box](images/vi-github-issues-comment.png)  
+![comment box](images/vi-github-issues-comment.png)   
 
 **NOTE**: Make sure your comment is made with a purpose and provides useful feedback    
 
