@@ -172,7 +172,6 @@ You will need to make **at least one comment** on an issue you did **not** creat
 4.  Scroll down and add your comment in the **Write** box (click on **Preview** to see how your comment looks like):
 
 ![comment box](images/vi-github-issues-comment.png)
-
 5. Click **Comment** when finished.   
 
 _**NOTE**_: Make sure your comment is made with a purpose and provides useful feedback    
