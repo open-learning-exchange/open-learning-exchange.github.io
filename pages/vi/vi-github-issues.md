@@ -7,6 +7,7 @@
 * Create an issue, and upon admin approval, create a branch to fix it
 * After resolving the issue in the branch, make a pull request to the [upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)
 * Work with admins to make adjustments if necessary, and merge your branch into the upstream
+* Comment on an existing issue
 
 ## Introduction
 
@@ -156,7 +157,26 @@ To delete the defunct branch in your local repository, use the command `git bran
 
 NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md).
 
-This is an exercise to help you familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
+This is an exercise to help you familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.  
+
+## Comment on an Existing Issue
+
+You will need to make **at least one comment** on an issue you did **not** create.
+
+1.  Go to the [upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)  
+
+2.  Click on the ` Issues ` Tab   
+
+3.  Click on an issue, and read it thoroughly  
+
+4.  Scroll down and add your comment in the **Write** box (comments are always written in Markdown, so click on **Preview** to see how your comment looks like)
+5.  Click on **Comment** when finished   
+
+
+
+![comment box](images/vi-github-issues-comment.png)   
+
+**NOTE**: Make sure your comment is made with a purpose and provides useful feedback    
 
 ## Useful Links
 
