@@ -48,7 +48,7 @@ To create a new branch, go to your github repo and create it in a similar fashio
 
 Use `git checkout master` to switch to master branch, then use `git checkout -b <name_of_your_new_branch>` to create and switch to a new branch on your local repository. Make sure to remove the angled brackets (< & >) as they are just place holders. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
 
-Now you can go and make the proposed changes to your local files. You can use any IDE or text editor you prefer. You can also use VIM or Nano to edit files from the terminal. [This guide on VIM](https://www.vim.org/docs.php ) and [this guide on Nano](https://www.nano-editor.org/docs.php) contain more information on their proper usage.
+Now you can go and make the proposed changes to your local files. You can use any IDE or text editor, like [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/). You can also use VIM or Nano to edit files from the terminal. [This guide on VIM](https://www.vim.org/docs.php ) and [this guide on Nano](https://www.nano-editor.org/docs.php) contain more information on their proper usage.
 
 NOTE: Use `git branch` to see which branch you are in. Your `master` branch is the base working branch. It needs to remain untouched just in case you need to revert some changes back to a working version. Make sure you are on right branch using `git checkout <branch-name>` while making proposed changes to your local files and while committing.
 
@@ -113,7 +113,7 @@ You can also use the raw.githack url generator on <https://raw.githack.com>
 **example:**  
 
 https://raw.githack.com/nvrqt03/nvrqt03.github.io/nvrqt03-githack-update/#!pages/vi/vi-github-issues.md  
- 
+
 
 ![example](images/vi-raw.githack-example.png)
 
