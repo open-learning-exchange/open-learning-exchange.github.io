@@ -58,6 +58,7 @@
 |[jsschf](profiles/jsschf.md)|2020-05-06|
 |[Mutugiii](profiles/mutugiii.md)|2020-05-12|
 |[Sachit1137](profiles/Sachit1137.md)|2020-05-12|
+|[anastasia21112](profiles/anastasia21112.md)|2020-05-23|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
