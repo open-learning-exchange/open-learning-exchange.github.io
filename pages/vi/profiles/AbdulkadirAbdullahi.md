@@ -3,7 +3,7 @@
 
 * Location: Nigeria
 
-* Time Zone: WAT
+* Time Zone: WAT (GMT+1)
 
 * OS: Windows 10 & Ubuntu 19.04
 
