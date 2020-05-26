@@ -65,6 +65,8 @@ You will occasionally need to plug your router and RPi to an Internet connection
 
 *  Assuming that your hardware is connected correctly, the second most common problem is connectivity via router (seen as Wi-fi connectivity on the laptop or tablet). In our Community systems, we use an Intranet system (rather than Internet) to connect the tablets to the router/RPi where the tablets connect to a Wi-fi network. If the Wi-fi is not configured properly it will not work. Oftentimes, the Wi-fi is connected to the wrong network meaning that Communities cannot be accessed.
 
-*  To troubleshoot this issue you will need a tablet. If you are facing a connection issue your screen will display something similar to screenshot below indicating that you are “Unable to Connect”:
+*  To troubleshoot this issue you will need a tablet. You will need to know the Raspberry Pi's IP address. Click on the [link](https://www.raspberrypi.org/documentation/remote-access/ip-address.md) to see more details on finding the IP address of Raspberry Pi on your tablet. For example, if the IP address of RPi on your tablet is <http://192.168.1.8,> you may open this URL in your browser. If you are facing a connection issue your screen will display something similar to screenshot below indicating that you are “Unable to Connect”:
+
+![Unable to Connect](images/tg-quickstart-unable-to-connect.png)
 
 Note: This Wi-fi connection was shown on OLE’s tablets that are currently used. However, the process of connecting to the Wi-fi should be largely the same on any system. The solution is to change the Wi-fi settings to the correct Wi-fi network.
