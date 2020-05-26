@@ -10,7 +10,7 @@
 
 > ## About Me
 
-Hello, I am Abdulkadir Abdullahi, Final Year Computer Science student at Usmanu Danfodiyo University Sokoto state,
+Hello, I am Abdulkadir Abdullahi, final Year Bsc Computer Science student at Usmanu Danfodiyo University Sokoto state,
 I believe this virtual intern opportunity would be a great chance for me to become more proficient in latest programming practices
 and to thrive in a team environment.
 
