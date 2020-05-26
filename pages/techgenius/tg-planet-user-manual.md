@@ -363,16 +363,33 @@ Below are tips for managing a Course.
 - To track your Learners’ completion and score on Quizzes, go to *“Progress.”*
 
 
-## Members Menu
+## Members Management
 
-### _What is Members Menu?_
+A user can visit the **Teams** page to see and search for members within the community/nation, but can't modify other members data.
 
-**Members** menu is a place to see, search, modify, and delete (for admin) an entire member of a community/nation where we logged in.
+An administrator of a community/nation is able to modify or delete members data if necessary by using the **Members** page.
 
-A user is able to see and search for members within the community/nation, but can't modify other members data.
-An administrator of a community/nation is able to modify or delete members data if necessary.
+### _How do I look up members on the Teams page? (for regular users)_
 
-### _How do I access the Members Menu?_
+1. From the **Community** page, click on the **Teams** heading.
+
+2. From the **Teams** page, click on **All Members**.
+
+   ![Teams Page](images/tg-teams.png)
+
+3. Click on **View Profile** to view the profile of a member.
+
+   ![All Members](images/tg-all-members-teams.png)
+
+4. A member's profile page looks similar to the following:
+
+   ![Members Profile](images/tg-members-profile.png)
+
+5. We can filter members by their roles with the "Filter by role" drop down menu or search members by name with the "Search name..." search bar.
+
+   ![Members Filter](images/tg-members-filter-teams.png)
+
+### _How do I access the Members Page? (admin users only)_
 
 1. Click on the "Manager Settings" button (red box) from the Community page.
 
@@ -390,15 +407,27 @@ Notes:
 
 1. **Deactivate** - use this button to deactivate a member.
 
-2. **Delete** - use this button to delete members from your community.
+2. Once a member has been deactivated, their roles will change to "inactive." We can reactivate them by clicking the **Activate** button (red box).
 
-3. **Promote** - use this button to promote a member to the role of a community admin.
+   ![Members Activation](images/tg-members-activate.png)
 
-4. **View Profile** - use this button to view and edit the profile of a member.
+3. **Delete** - use this button to delete members from your community.
 
-5. We can filter members by their roles with the "Filter by role" drop down menu or search members by name with the "Search name..." search bar.
+4. **Promote** - use this button to promote a member to the role of a community admin.
 
-6. We can also set special roles for members. To do so, first check the boxes next to the profile images of the members to set roles for. Then click the drop down menu "Set roles of selected" (red box).
+5. Promoted members can be demoted to regular learners by clicking the **Demote** button (red box).
+
+   ![Members Demotion](images/tg-members-demote.png)
+
+6. **View Profile** - use this button to view and edit the profile of a member. A member's profile page looks similar to the following:
+
+   ![Members Profile](images/tg-members-profile.png)
+
+7. We can filter members by their roles with the "Filter by role" drop down menu or search members by name with the "Search name..." search bar.
+
+   ![Members Filter](images/tg-members-filter-admin.png)
+
+8. We can also set special roles for members. To do so, first check the boxes next to the profile images of the members to set roles for. Then click the drop down menu "Set roles of selected" (red box).
 
    ![Members Selection](images/tg-members-select.png)
 
@@ -409,6 +438,10 @@ Notes:
    Click on "Set Roles" (red box) to finish setting the roles.
 
    ![Set Roles](images/tg-members-set-roles.png)
+
+9. To remove the roles of a member, simply click the "x" button next to the role you want to remove (red box).
+
+   ![Remove Roles](images/tg-members-remove-roles.png)
 
 ## Reports Overview
 
