@@ -10,15 +10,14 @@
 
 > ## About Me
 
-
-
 Hello, I am Abdulkadir Abdullahi, Final Year Computer Science student at Usmanu Danfodiyo University Sokoto state,
 I believe this virtual intern opportunity would be a great chance for me to become more proficient in latest programming practices
 and to thrive in a team environment.
 
-
+---
 
 > ## Core Competencies:
+
   Web and Mobile Development:
 
     * HTML/ CSS / Javascript / Bootstrap / Typescript
@@ -27,6 +26,7 @@ and to thrive in a team environment.
     * Nodejs / MongoDb / Loop back / Firebase
     
 
+---
 
 
 > ## Applications
@@ -36,6 +36,7 @@ and to thrive in a team environment.
 * Aws
 * MS Office
 
+---
  
 > ## Contact
 * __LinkedIn:__ [LinkedIn](https://www.linkedin.com/in/abdulkadir-abdullahi-4859a0183/)
@@ -43,6 +44,7 @@ and to thrive in a team environment.
 * __Email:__ Abdulkadirfs71@gmail.com
 
 
+---
 ###### Created on 05/26/2020
 
 
