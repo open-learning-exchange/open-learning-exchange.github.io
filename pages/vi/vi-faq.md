@@ -183,7 +183,8 @@
 #### Q23: What do I do if I cannot create a dummy account?
 
 + Note: Before trying the steps below, make sure your planet is up to date.
-  
+
+  Make sure you `cd` to the designated OLE directory you created earlier.
   ```
   cd planet
   git pull
