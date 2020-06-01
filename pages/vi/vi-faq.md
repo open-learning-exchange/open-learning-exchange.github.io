@@ -278,6 +278,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 - [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/sheets/vi_help_sheet.pdf)
 - [VIM Adventures Game for beginners](https://vim-adventures.com/)
+- [Interactive Vim Tutorial](https://www.openvim.com)
 
 #### *VirtualBox*
 
