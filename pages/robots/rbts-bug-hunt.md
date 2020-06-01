@@ -56,7 +56,7 @@ Create a project in Eclipse -> Right click on the project -> Build Path -> Add E
 
 #####3. TestNG
 
-Install [TestNG in Eclispe](http://www.guru99.com/all-about-testng-and-selenium.html).
+Install [TestNG in Eclipse](http://www.guru99.com/all-about-testng-and-selenium.html).
 
 ### Tutorial
 

@@ -22,7 +22,7 @@ You will be using Android Studio to develop the Take Home Application. Within th
 
 [Android Device Setup](rbts-takehome-device-setup.md)
 
-One of the deployment environments you will be testing on is an actual Android device. These steps will guide you to get the Take Home Applicaiton running on an actual Android Device.
+One of the deployment environments you will be testing on is an actual Android device. These steps will guide you to get the Take Home Application running on an actual Android Device.
 
 ## Android Device Emulator Setup
 
