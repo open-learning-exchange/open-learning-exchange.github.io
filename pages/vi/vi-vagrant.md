@@ -17,11 +17,11 @@ In [Step 1 - Planet Installation with vagrant](vi-planet-installation-vagrant.md
 
 There are three command-line programs you could use to interact with Vagrant CLI:
 
-1. **Git Bash**: This is our recommended command line program. **Git Bash** is already installed along with planet installation script. After you open **Git Bash**, you will find its default directory at `C:/Users/YOUR_USERNAME`.
+1. **Git Bash**: This is our recommended command line program. **Git Bash** is already installed along with planet installation script. After you open **Git Bash**, you will find its default directory at `C:/Users/YourUsername`.
 
-2. **Command Prompt**: There are two Command Prompt options on Windows: **Command Prompt** and **Command Prompt(Admin)**. You could use either of them to access directories and interact with Vagrant CLI. The only difference is their default directory: **Command Prompt(Admin)** has `C:\Windows\system32` as default directory and **Command Prompt** has `C:\Users\YOUR_USERNAME` as the default directory.
+2. **Command Prompt**: There are two Command Prompt options on Windows: **Command Prompt** and **Command Prompt(Admin)**. You could use either of them to access directories and interact with Vagrant CLI. The only difference is their default directory: **Command Prompt(Admin)** has `C:\Windows\system32` as default directory and **Command Prompt** has `C:\Users\YourUsername` as the default directory.
 
-3. **Windows PowerShell**: Windows PowerShell is a default shell interface installed on your machine, its default directory is `C:\Users\YOUR_USERNAME`.
+3. **Windows PowerShell**: Windows PowerShell is a default shell interface installed on your machine, its default directory is `C:\Users\YourUsername`.
 
 **NOTE**: PowerShell and Command Prompt users will have to substitute forward slashes “/” with backslashes “\” throughout these introductory steps as it pertains to file paths.  
 Example: If you see an instruction saying `cd desktop/OLE/Planet` instead use `cd desktop\OLE\Planet`.
@@ -34,7 +34,7 @@ Normally we use Terminal to interact with Vagrant CLI.
 
 A lot of Vagrant commands require us to specify a target machine. We can also run those commands from a directory with the target machine’s Vagrant File. Otherwise, you may encounter an error like "A Vagrant environment or target machine is required." Please go to the directory that contains our Vagrant file:
 
-- Windows users should: `cd C:\Users\YOUR_USERNAME\Desktop\OLE\planet`.
+- Windows users should: `cd C:\Users\YourUsername\Desktop\OLE\planet`.
 - macOS or Linux users should: `cd` into the location where they ran `git clone` to copy the `planet` repository back in Step 1 - Planet Installation.
 
 ## Global Status
