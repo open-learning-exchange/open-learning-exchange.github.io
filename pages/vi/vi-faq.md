@@ -183,7 +183,8 @@
 #### Q23: What do I do if I cannot create a dummy account?
 
 + Note: Before trying the steps below, make sure your planet is up to date.
-  
+
+  Open your `Terminal` and make sure you `cd` to the designated OLE directory you created earlier.
   ```
   cd planet
   git pull
@@ -286,6 +287,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 - [Vagrant Documentation](https://www.vagrantup.com/docs/getting-started/)
 - [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
+- [Vagrant Cheat Sheet (PDF)](https://linuxacademy.com/site-content/uploads/2017/12/vagrant-cheatsheet-Linux-Academy.pdf)
 
 #### *HTML*
 - [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
