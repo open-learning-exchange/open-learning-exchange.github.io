@@ -60,7 +60,8 @@
 |[Sachit1137](profiles/Sachit1137.md)|2020-05-12|
 |[gautamsethi1](profiles/gautamsethi1.md)|2020-05-22|    
 |[anastasia21112](profiles/anastasia21112.md)|2020-05-23|
-|[AbdulkadirAbdullahi](profiles/AbdulkadirAbdullahi.md)|2020-06-01| 
+|[anthonyhvo12](profiles/anthonyhvo12.md)|2020-05-29|
+|[AbdulkadirAbdullahi](profiles/AbdulkadirAbdullahi.md)|2020-05-31|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
