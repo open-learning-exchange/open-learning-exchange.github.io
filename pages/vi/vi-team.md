@@ -61,6 +61,7 @@
 |[gautamsethi1](profiles/gautamsethi1.md)|2020-05-22|    
 |[anastasia21112](profiles/anastasia21112.md)|2020-05-23|
 |[anthonyhvo12](profiles/anthonyhvo12.md)|2020-05-29|  
+|[vinitnprabhu](profiles/vinitnprabhu.md)|2020-06-02|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
