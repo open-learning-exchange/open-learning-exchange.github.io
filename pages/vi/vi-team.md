@@ -60,7 +60,8 @@
 |[Sachit1137](profiles/Sachit1137.md)|2020-05-12|
 |[gautamsethi1](profiles/gautamsethi1.md)|2020-05-22|    
 |[anastasia21112](profiles/anastasia21112.md)|2020-05-23|
-|[anthonyhvo12](profiles/anthonyhvo12.md)|2020-05-29|  
+|[anthonyhvo12](profiles/anthonyhvo12.md)|2020-05-29|
+|[AbdulkadirAbdullahi](profiles/AbdulkadirAbdullahi.md)|2020-05-31|
 |[vinitnprabhu](profiles/vinitnprabhu.md)|2020-06-02|
 
 ## Former Interns
