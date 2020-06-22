@@ -10,6 +10,7 @@ myPlanet application is only available for Android devices. You can find myPlane
 
 If you follow this link for [myPlanet on Play Store](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet) you will be able to reach myPlanet in playstore. You can then install myPlanet from there on your phone.
 
+NOTE: If you don't have access to an Android device, you can skip this step.
 
 ## Overview of myPlanet
 
