@@ -12,7 +12,7 @@ The Planet is not only a library, but also an individualized learning system, wh
 
 #### Planet Communities (Local)
 
-* Communities are how the Planet functions on a local network, with users connecting to a community using either a laptop or a RPi and a router.
+* Communities are how the Planet functions on a local network, with users connecting to a community using either a laptop or a Raspberry Pi and a router.
 * Periodically communities sync with Nations on the internet, which includes sending and receiving educational materials.
 * In step 1 you created a Planet community on your computer. As you follow the steps on this page, you will access and configure your community.
 
