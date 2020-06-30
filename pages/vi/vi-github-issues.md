@@ -31,7 +31,7 @@ First, you will need to open an issue within the right repository ([upstream rep
 
 **Already available issues:** You can also help on issues which have already been created. Issues which are tagged as `first step intern` can be taken and worked on. Please make sure when you start working on these issues that you assign yourself to said issue or ask to be assigned. If someone else is already assigned to an issue, do not try to work on that issue.
 
-_**SPECIAL NOTE:**_:
+_**SPECIAL NOTE**_:
 • Aspiring Virtual Interns have a tendency to speed through this process in order to check off their "First Steps" requirements. The purpose of these requirements is to fix an actual problem and improve the "First Steps" as a whole. Take time to review the "First Steps" materials to identify real issues and to research helpful solutions. It is also important to search current/open issues to see if the problem has already been identified.
 • You will need to be a member to assign yourself to an issue or ask to be assigned to one.
 
