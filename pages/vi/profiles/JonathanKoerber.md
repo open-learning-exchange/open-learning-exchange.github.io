@@ -8,9 +8,9 @@ Seattle, WA| PT| PoP-OS!
 ### __Software Development__
 
 #### Hello Team
-#### I'm a new grad from Western Govenors Univeristy.  
+##### I'm a new grad from Western Govenors Univeristy.  
 I am looking for an intern position that can apply my new skills and satisfy my  
-curiosity in technology.
+curiosity in technology. Have a look at some other [projects](https://github.com/JonathanKoerber) that I've been working on. 
 
 
 ---
@@ -19,13 +19,14 @@ curiosity in technology.
 * android development 
 * relational databases 
 
+ 
  Languages: | | |
- ----------------
-:---| :--- | :---
-Python| Java| JavaScript|
-Kotlyn|JavaScript| Node.js|
-HTML5| CSS3| Git|
-XML||
+------ | ------- | --------
+Python | Java | JavaScript |
+HTML| CSS3 | Git |
+XML | 
+
+
 
 ### CERTIFICATIONS:
 * CompTIA A+
@@ -33,3 +34,9 @@ XML||
 * CIW Advanced HTML5 and CSS3 Specialist, 
 * Microsoft MTA-396
 * ITIL Foundations
+
+##### I'm very excited to be here and ready to get started!
+- [X] Commit my profile.
+- [ ] Finish next steps
+- [ ] Change the world 
+:+1:
