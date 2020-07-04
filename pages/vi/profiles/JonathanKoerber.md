@@ -9,8 +9,9 @@ Seattle, WA| PT| PoP-OS!
 
 #### Hello Team
 ##### I'm a new grad from Western Govenors Univeristy.  
-I am looking for an intern position that can apply my new skills and satisfy my  
-curiosity in technology. Have a look at some other [projects](https://github.com/JonathanKoerber) that I've been working on. 
+I’m a mid-career student coming to IT from a rewarding career as a professional chef.
+I have recently graduated from Western Governors University with a bacholors in Software Development.  
+Currently working in Seattle cooking meals for people experiencing homelessness and substance abuse centers. 
 
 
 ---
@@ -36,7 +37,4 @@ XML | Git
 * ITIL Foundations
 
 ##### I'm very excited to be here and ready to get started!
-- [X] Commit my profile.
-- [ ] Finish next steps.
-- [ ] Change the world! 
-:+1:
+
