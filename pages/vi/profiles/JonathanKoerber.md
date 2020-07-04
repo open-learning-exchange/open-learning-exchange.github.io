@@ -23,8 +23,8 @@ curiosity in technology. Have a look at some other [projects](https://github.com
  Languages: | | |
 ------ | ------- | --------
 Python | Java | JavaScript |
-HTML| CSS3 | Git |
-XML | 
+HTML| CSS3 | SQL |
+XML | Git
 
 
 
@@ -37,6 +37,6 @@ XML |
 
 ##### I'm very excited to be here and ready to get started!
 - [X] Commit my profile.
-- [ ] Finish next steps
-- [ ] Change the world 
+- [ ] Finish next steps.
+- [ ] Change the world! 
 :+1:
