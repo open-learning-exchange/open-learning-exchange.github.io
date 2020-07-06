@@ -64,6 +64,7 @@
 |[AbdulkadirAbdullahi](profiles/AbdulkadirAbdullahi.md)|2020-05-31|
 |[vinitnprabhu](profiles/vinitnprabhu.md)|2020-06-02|
 |[avin-sharma](profiles/avin-sharma.md)|2020-06-22|
+|[spykim2003](profiles/spykim2003.md)|2020-07-01|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
