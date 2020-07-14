@@ -363,26 +363,85 @@ Below are tips for managing a Course.
 - To track your Learners’ completion and score on Quizzes, go to *“Progress.”*
 
 
-## Members Menu
+## Members Management
 
-### _What is Members Menu?_
+A user can visit the **Teams** page to see and search for members within the community/nation, but can't modify other members data.
 
-**Members** menu is a place to see, search, modify, and delete (for admin) an entire member of a community/nation where we logged in.
+An administrator of a community/nation is able to modify or delete members data if necessary by using the **Members** page.
 
-A user is able to see and search for members within the community/nation, but can't modify other members data.
-An administrator of a community/nation is able to modify or delete members data if necessary.
-Below is an illustration of the Members menu.
+### _How do I look up members on the Teams page? (for regular users)_
 
-![Member Management](images/tg-members-menu.png)
+1. From the **Community** page, click on the **Teams** heading.
+
+2. From the **Teams** page, click on **All Members**.
+
+   ![Teams Page](images/tg-teams.png)
+
+3. Click on **View Profile** to view the profile of a member.
+
+   ![All Members](images/tg-all-members-teams.png)
+
+4. A member's profile page looks similar to the following:
+
+   ![Members Profile](images/tg-members-profile.png)
+
+5. We can filter members by their roles with the "Filter by role" drop down menu or search members by name with the "Search name..." search bar.
+
+   ![Members Filter](images/tg-members-filter-teams.png)
+
+### _How do I access the Members Page? (admin users only)_
+
+1. Click on the "Manager Settings" button (red box) from the Community page.
+
+   ![Manager Settings](images/tg-manager-settings-button.png)
+
+2. Click on the "Members" tab (red box) from the Manager Settings page.
+
+   ![Members Tab](images/tg-members-button.png)
+
+3. You should see the Members page below.
+
+   ![Members Page](images/tg-members-page.png)
 
 Notes:
 
-1. **Add New Member** - we can add a new member by clicking this button.
-2. **List of Members** - we can see list of members here.
-3. **Search Members** - insert a member's name here and click _search_ to search for the member.
-4. **Open Members Detail** - everyone can see the details of a member here.
-5. **Edit Members Detail** - this is an admin only functionality for editing a members account information.
-6. **Delete a Member** - this is an admin only functionality for deleting members.
+1. **Deactivate** - use this button to deactivate a member.
+
+2. Once a member has been deactivated, their roles will change to "inactive." We can reactivate them by clicking the **Activate** button (red box).
+
+   ![Members Activation](images/tg-members-activate.png)
+
+3. **Delete** - use this button to delete members from your community.
+
+4. **Promote** - use this button to promote a member to the role of a community admin.
+
+5. Promoted members can be demoted to regular learners by clicking the **Demote** button (red box).
+
+   ![Members Demotion](images/tg-members-demote.png)
+
+6. **View Profile** - use this button to view and edit the profile of a member. A member's profile page looks similar to the following:
+
+   ![Members Profile](images/tg-members-profile.png)
+
+7. We can filter members by their roles with the "Filter by role" drop down menu or search members by name with the "Search name..." search bar.
+
+   ![Members Filter](images/tg-members-filter-admin.png)
+
+8. We can also set special roles for members. To do so, first check the boxes next to the profile images of the members to set roles for. Then click the drop down menu "Set roles of selected" (red box).
+
+   ![Members Selection](images/tg-members-select.png)
+
+   Choose the roles you want to set for the members selected. You can also choose "Select All" or "Deselect All."
+
+   ![Members Roles](images/tg-members-roles.png)
+
+   Click on "Set Roles" (red box) to finish setting the roles.
+
+   ![Set Roles](images/tg-members-set-roles.png)
+
+9. To remove the roles of a member, simply click the "x" button next to the role you want to remove (red box).
+
+   ![Remove Roles](images/tg-members-remove-roles.png)
 
 ## Reports Overview
 
