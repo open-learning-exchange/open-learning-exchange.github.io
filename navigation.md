@@ -65,7 +65,7 @@
   - - - -
   * [**Planet (Angular)**](pages/robots/rbts-angular.md)
   * [**Raspberry Pi (Linux)**](pages/robots/rbts-raspberry-pi.md)
-  * [**MyPlnet (Android)**](pages/robots/vi/vi-myplanet.md)
+  * [**MyPlanet (Android)**](pages/vi/vi-myplanet.md)
   * [**Takeout (Android)-archived**](pages/robots/rbts-takeout.md)
   * [**Docker**](pages/robots/rbts-docker.md)
   - - - -
