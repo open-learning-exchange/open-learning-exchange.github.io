@@ -1,4 +1,4 @@
-NOTE: This repository has been archived. OLE is in production of the Android app MyPlanet for cocumentation see the [README](https://github.com/open-learning-exchange/open-learning-exchange.github.io/README.md) file. Configuration can be found at [here](https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/bellapps/#!pages/techgenius/tg-tablet-config.md)
+NOTE: This repository has been archived. OLE has switched production of its Android app to MyPlanet. For documentation see the projects github [reposotorys](https://github.com/open-learning-exchange/myplanet). 
 
 # Takeout
 
