@@ -1,4 +1,4 @@
-NOTE: This repository has been archived. OLE has switched production of its Android app to MyPlanet. For documentation see the projects github [reposotorys](https://github.com/open-learning-exchange/myplanet). 
+NOTE: This repository has been archived. OLE has switched production of its Android app to MyPlanet. For more info see the projects README file in the projects github [repo](https://github.com/open-learning-exchange/myplanet). 
 
 # Takeout
 
