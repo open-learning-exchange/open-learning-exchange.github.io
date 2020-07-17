@@ -65,7 +65,8 @@
   - - - -
   * [**Planet (Angular)**](pages/robots/rbts-angular.md)
   * [**Raspberry Pi (Linux)**](pages/robots/rbts-raspberry-pi.md)
-  * [**Takeout (Android)**](pages/robots/rbts-takeout.md)
+  * [**MyPlanet (Android)**](pages/robots/rbts-myplanet.md)
+  * [**Takeout (Android)-archived**](pages/robots/rbts-takeout.md)
   * [**Docker**](pages/robots/rbts-docker.md)
   - - - -
   * [BeLL-Apps Markdown Wiki](https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/bellapps/#!index.md)
