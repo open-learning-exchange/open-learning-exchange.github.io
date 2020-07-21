@@ -39,7 +39,6 @@
 |[raisinman99](profiles/raisinman99.md)|2019-07-02|
 |[Irisb1701](profiles/irisb1701.md)|2019-07-03|
 |[Lillyxxx](profiles/lillyxxx.md)|2019-07-17|
-|[biswasshrestha](profiles/biswasshrestha.md)|2019-07-22|
 |[aasenomad](profiles/aasenomad.md)|2019-08-14|
 |[007HD](profiles/007HD.md)|2019-08-23|
 |[wanglihe2010](profiles/wanglihe2010.md)|2019-08-24|
@@ -52,7 +51,6 @@
 |[sjkadali](profiles/sjkadali-edited.md)|2019-10-21|
 |[gyawaliamit7](profiles/gyawaliamit7.md)|2020-01-14|
 |[mattscodeans](profiles/mattscodeans.md)|2020-01-19|
-|[meharshahani](profiles/meharshahani.md)|2020-04-16|
 |[Haoran-Hu](profiles/Haoran-Hu.md)|2020-04-27|
 |[chtelmko](profiles/chtelmko.md)|2020-05-06|
 |[jsschf](profiles/jsschf.md)|2020-05-06|
@@ -64,7 +62,6 @@
 |[AbdulkadirAbdullahi](profiles/AbdulkadirAbdullahi.md)|2020-05-31|
 |[vinitnprabhu](profiles/vinitnprabhu.md)|2020-06-02|
 |[avin-sharma](profiles/avin-sharma.md)|2020-06-22|
-|[spykim2003](profiles/spykim2003.md)|2020-07-01|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
