@@ -4,8 +4,7 @@
 **OS:** Windows 10 Pro version 2004
 
 ## About
-Hey all,
-
+Hey all,  
 I am a sophomore student studying Computer Science at Lafayette College, hailing from Uzbekistan. Apart from studies and coding, I am into watching/playing football(soccer), watching anime, diving into poetry or reading stuff on the web. I got interested in OLE due to its mission, and hope to be of value contributing in any way I can.
 
 ## Social Media
