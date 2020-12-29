@@ -1,5 +1,8 @@
 # Shakh Saidov
-**Location and Timezone:** Easton, PA (EST)
+---
+**Location:** Easton, PA
+
+**Timezone:** Eastern Standard Time (EST)
 
 **OS:** Windows 10 Pro version 2004
 
