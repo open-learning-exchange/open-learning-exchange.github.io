@@ -1,5 +1,4 @@
 # Shakh Saidov
----
 **Location:** Easton, PA
 
 **Timezone:** Eastern Standard Time (EST)
