@@ -14,38 +14,38 @@ I am a undergraduate student pursuing Software Engineering degree in Iowa State 
 * Ubuntu Linux
 
 Here at Iowa State University, I have done this job so far
-1. Teaching Assistant - SE 317
-  ***1. Create the labs and assignments for the students which will involve critical thinking about learning of 
+1. **Teaching Assistant - SE 317**
+    *   Create the labs and assignments for the students which will involve critical thinking about learning of 
         various testing skills of code. The programming language that will be used is Java. 
-     2. Help the students to the course and help them to learn about the material. Help the students in such a 
+    *   Help the students to the course and help them to learn about the material. Help the students in such a 
         way that by the end of the semester, they know how to conduct unit testing’s, refactoring for the code. 
-     3. Grade the student’s homework success and their assignments and comment to their scores on how 
-        they can improvise their score for future labs and assignments ***
+    *   Grade the student’s homework success and their assignments and comment to their scores on how 
+        they can improvise their score for future labs and assignments 
 
-2. Teaching Assistant - COM S 103
-  ***1. Grade the student’s assignments. Assignments are based on learning about excel, Microsoft Word, 
+2. **Teaching Assistant - COM S 103**
+    *   Grade the student’s assignments. Assignments are based on learning about excel, Microsoft Word, 
         Microsoft Access and PowerPoint in details. 
-     2. Conduct the Office Hours for the Students and assist them for any help if they needed
-     3. Finish all the homework before students can finish it so that you have idea on how to help the students. ***
+    *   Conduct the Office Hours for the Students and assist them for any help if they needed
+    *   Finish all the homework before students can finish it so that you have idea on how to help the students.
 
-3. Tutor
-  ***1. Conduct the sessions where students in the group can ask questions, discuss and share their ideas. The 
+3. **Tutor**
+    *   Conduct the sessions where students in the group can ask questions, discuss and share their ideas. The 
         group consists of 1-5 people depending on the availability of the students and the difficulty level of the 
-       course. 
-     2. Encourage the critical thinking for the students and make sure that they can learn and understand the 
+        course. 
+    *   Encourage the critical thinking for the students and make sure that they can learn and understand the 
         materials for the particular course.
-     3. Students learn on how to learn particular materials through encouraging activities and skills 
-        development. ***
+    *   Students learn on how to learn particular materials through encouraging activities and skills 
+        development. 
 
 ## **Languages**
 
 So Far, I know this following languages:- 
 
-* **Advanced:- **
+* **Advanced:-**
 
   C, Java, JavaScript, HTML, mySQL
 
-* **Intermediate
+* **Intermediate**
 
   CSS, TypeScript, C++, Python
   
