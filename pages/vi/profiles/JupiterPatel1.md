@@ -1,7 +1,7 @@
 ## **Meet Patel**
 Ames, IA / CST-CDT
 
-![Meet Patel](C:\Users\mjp06\Dropbox\PC\Downloads "Drums")
+![Iowa State University](https://www.ir.iastate.edu/sites/default/files/factbook/wall-campanile.JPG "Drums")
 
 Windows Operating System 10
 
