@@ -1,6 +1,8 @@
 ## **Meet Patel**
 Ames, IA / CST-CDT
 
+![Meet Patel](C:\Users\mjp06\Dropbox\PC\Downloads "Drums")
+
 Windows Operating System 10
 
 ## **Biography**
