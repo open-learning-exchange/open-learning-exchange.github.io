@@ -1,6 +1,6 @@
 # Hi Everyone
 
-## My name is Rhea Malviya. (EST, macoS Monterey (v. 12.0.1))
+## My name is Rhea Malviya (EST, macoS Monterey (v. 12.0.1))
 
 I was involved in interdisiciplinary social policy/social cognition research prior to switching to web development. I also previously
 worked with several nonprofits in the U.S. and the EU mainly serving the needs of women refugees while I studied international development in undergrad. I am excited about my switch to software engineering
