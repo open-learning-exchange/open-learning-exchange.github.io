@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! Welcome! Welcome!
 
 This is a MDwiki for our support program. Please feel free to explore and offer suggestions on our [gitter.im chat](https://gitter.im/open-learning-exchange/chat).
 
