@@ -7,14 +7,13 @@ practices that are needed to succeed as a Software Engineer. I always look forwa
 challenges/opportunities to further develop my skills and experience while working with everyone.
 
 ## Tools In My Toolbox (Languages)
-Languages
 <pre>Java. Python. C. C++. JavaScript. HTML5 & CSS3 </pre>
   
 ![](https://blog.ustacky.com/wp-content/uploads/2021/10/top-programming-languages-and-their-uses-1.jpg)
 
 ## Cloud Technologies
-
 <pre>AWS </pre>
+
 
 | Location      | Time Zone | Operating System |
 | :---        |    :----:   |          ---: |
