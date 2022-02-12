@@ -17,4 +17,4 @@ because I would like to help bring the benefits of technological advancements to
 * I'm looking to cultivate a weekly if not daily habit of studying data structures and algorithms if anyone ever feels like practicing with me!
 
 
-Heres my [Linkedin](www.linkedin.com/in/rhea-malviya) and my [GitHub](https://github.com/rheam97). Looking forward to working with you all!
+Heres my [Linkedin](https://www.linkedin.com/in/rhea-malviya/) and my [GitHub](https://github.com/rheam97). Looking forward to working with you all!
