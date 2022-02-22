@@ -9,7 +9,7 @@ Hi there, I'm a self-taught web developer transitioning careers, and I'm very ex
 
 
 ## Contact
-* __LinkedIn:__ https://www.linkedin.com/in/john-beatrice-2071a8218/
-* __GitHub:__ https://github.com/johnbeatrice
+* __LinkedIn:__ [LinkedIn](https://www.linkedin.com/in/john-beatrice-2071a8218/)
+* __GitHub:__ [GitHub](https://github.com/johnbeatrice)
 
 ###### Created 02/17/2022
