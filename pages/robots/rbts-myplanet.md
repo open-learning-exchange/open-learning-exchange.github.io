@@ -17,8 +17,8 @@ To get started vist Open Learing Exchange on GitHub to view all working
 [repositories](https://github.com/open-learning-exchange). Or jump straight to the [myPlanet](https://github.com/open-learning-exchange/myplanet) 
 repository's README file where you can find set up information. 
 
-## Useful Links
+## Usefull Links
 
 [Helpful links and videos](https://open-learning-exchange.github.io/#!./pages/vi/vi-faq.md#Helpful_Links)
-[myPlanet Tutorial](https://open-learning-exchange.github.io/#!./pages/vi/vi-myplanet.md)
+[myPlanet Turtorial](https://open-learning-exchange.github.io/#!./pages/vi/vi-myplanet.md)
 [myPlanet GitHub Repository](https://github.com/open-learning-exchange/myplanet)
