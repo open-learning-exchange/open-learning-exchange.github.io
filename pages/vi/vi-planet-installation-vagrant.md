@@ -41,8 +41,14 @@ Before installing Vagrant on any platform, it is necessary to have at least 7 GB
 * To check your current storage space on **Windows** go to `Settings > System > Storage`
 
 ---
+##Steps for Your OS
+* [Windows](#For-Windows)
+* [MacOS](#For-macOS)
+* [Ubuntu](#For-Ubuntu)
+* [Install a Community Planet](#Install-A-Community-Planet)
+* [General Troubleshooting](#General-Troubleshooting)
 
-## Windows
+## For Windows
 
 #### Dependencies
 
@@ -59,15 +65,24 @@ You need to install the following programs on your computer:
 
 NOTE: Due to some issues we are seeing with newest version of vagrant. We suggest you to use vagrant below 2.2.5
 
+### Troubleshooting
+
+1. On Windows, when you run `vagrant up prod` from command prompt, you might get the following error :
+"The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up prod`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
+
+2. On Windows 7 the Planet installation might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Windows Management Framework 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595). Please, read the installation instructions to know which version to download.
+  Your computer will restart and then the installation will resume.
+
+3. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
 ---
 
-## macOS or Ubuntu
+## For macOS
 
 ### Preparation
 
 Open your `Terminal`
 
-### For macOS
+### Steps
 
 We assume that [brew](http://brew.sh/) is already installed:
 
@@ -78,7 +93,19 @@ brew cask install virtualbox
 ```
 If VirtualBox installation fails, go to `System Preferences > Security & Privacy` and click `Allow`. You may need to eject VirtualBox from `Finder > Devices` and retry multiple times. More information in [this thread](https://apple.stackexchange.com/questions/301303/virtualbox-5-1-28-fails-to-install-on-macos-10-13-due-to-kext-security).
 
+### Troubleshooting
+
+1. On macOS, when you run `vagrant up prod`, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to use this command `sudo rm /opt/vagrant/embedded/bin/curl`, This will remove the old version of curl in Vagrant and `vagrant up` should now work as usual. For more information, visit [this Stack Overflow question](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
+
+---
+
 ### For Ubuntu
+
+### Preparation
+
+Open your `Terminal`
+
+### Steps
 
 ```bash
 sudo apt-get update
@@ -100,7 +127,22 @@ If you encounter the error:
    > Errors were encountered while processing: vagrant.deb
 
 To solve this problem: Copy link location of Debian 32-bit instead and run commands again.
+
+### Troubleshooting
  
+1. On Ubuntu, you might get this error when you run `vagrant up prod`:
+
+   > Stderr: VBoxManage: error: The virtual machine 'ud381_default_1463617458900_49294' has terminated unexpectedly during startup with exit code 1 (0x1) VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component MachineWrap, interface IMachine
+
+   This is caused when VirtualBox gets a minor version Update. (i.e. 5.0.x -> 5.1.x or 5.1.x -> 5.2.x). There are some old unused modules, which are not compatible with the newer version. They remain installed, which causes the above problem and prevents VirtualBox from starting. A system restart also does not solve the problem.
+
+   To solve it first remove the unused packages using `sudo apt-get autoremove`. Then reconfigure VirtualBox to install updated modules using `sudo /sbin/vboxconfig`
+
+2. If you see the following error:
+   > The provider 'virtualbox' that was requested to back the machine 'prod' is reporting that it isn't usable on this system. The reason is shown below:
+   > VirtualBox is complaining that the installation is incomplete. Please run `VBoxManage --version` to see the error message which should contain instructions on how to fix this error.
+
+   The problem is the requirement that all kernel modules must be signed by a key trusted by the UEFI system, otherwise loading will fail. Ubuntu does not sign the third party vbox* kernel modules, but rather gives the user the option to disable Secure Boot upon installation of the virtualbox package, so disabling the secure boot on BIOS would solve this problem. If you do not want to disable Secure Boot in some reasons, you can look at [this page](https://era86.github.io/2018/01/24/vagrant-virtualbox-secureboot-in-ubuntu-1604.html) to make and assign the trusted key(MOK). 
 ---
 
 ## Install a Community Planet  
@@ -118,36 +160,13 @@ It is advisable to use Firefox to access your community Planet. If you don't hav
 
 ---
 
-## Troubleshooting
+## General Troubleshooting
 
-1. On macOS, when you run `vagrant up prod`, you may experience an error such as the following: "vi: Box 'ole/jessie64' could not be found. Attempting to find and install...". A simple solution is to use this command `sudo rm /opt/vagrant/embedded/bin/curl`, This will remove the old version of curl in Vagrant and `vagrant up` should now work as usual. For more information, visit [this Stack Overflow question](http://stackoverflow.com/questions/23874260/error-when-trying-vagrant-up)
-
-2. On Windows, when you run `vagrant up prod` from command prompt, you might get the following error :
-"The executable `curl` Vagrant is trying to run was not found in the `%PATH%` variable. This is an error. Please verify this software is installed and on the path." A simple solution is to add Cygwin bin folder to path variable or use Git Bash rather than command prompt to run `vagrant up prod`. For more information, visit [this GitHub issue](https://github.com/hashicorp/vagrant/issues/6788)
-
-  On Windows 7 the Planet installation might stop if the version of PowerShell is lower than 3, please upgrade the PowerShell by downloading & installing [Windows Management Framework 3](https://www.microsoft.com/en-us/download/details.aspx?id=34595). Please, read the installation instructions to know which version to download.
-  Your computer will restart and then the installation will resume.
-
-3. On Ubuntu, you might get this error when you run `vagrant up prod`:
-
-   > Stderr: VBoxManage: error: The virtual machine 'ud381_default_1463617458900_49294' has terminated unexpectedly during startup with exit code 1 (0x1) VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component MachineWrap, interface IMachine
-
-   This is caused when VirtualBox gets a minor version Update. (i.e. 5.0.x -> 5.1.x or 5.1.x -> 5.2.x). There are some old unused modules, which are not compatible with the newer version. They remain installed, which causes the above problem and prevents VirtualBox from starting. A system restart also does not solve the problem.
-
-   To solve it first remove the unused packages using `sudo apt-get autoremove`. Then reconfigure VirtualBox to install updated modules using `sudo /sbin/vboxconfig`
-
-4. If you see the following error:
-   > The provider 'virtualbox' that was requested to back the machine 'prod' is reporting that it isn't usable on this system. The reason is shown below:
-   > VirtualBox is complaining that the installation is incomplete. Please run `VBoxManage --version` to see the error message which should contain instructions on how to fix this error.
-
-   The problem is the requirement that all kernel modules must be signed by a key trusted by the UEFI system, otherwise loading will fail. Ubuntu does not sign the third party vbox* kernel modules, but rather gives the user the option to disable Secure Boot upon installation of the virtualbox package, so disabling the secure boot on BIOS would solve this problem. If you do not want to disable Secure Boot in some reasons, you can look at [this page](https://era86.github.io/2018/01/24/vagrant-virtualbox-secureboot-in-ubuntu-1604.html) to make and assign the trusted key(MOK). 
-
-5. If you see "no_db_found" when trying to access <http://localhost:3100>:
+1. If you see "no_db_found" when trying to access <http://localhost:3100>:
 At this early stage, the simple solution would be using `vagrant destroy prod` to delete the current machine, then use `vagrant up prod` to rebuild it.
 
-6. If the command `vagrant up prod` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
-
-7. On Windows, if you are unable to run the PowerShell command at the beginning of Step 1 and get the error `powershell is not recognized as an internal or external command`. Try to add the following path variable to your system variables under Advanced Settings: `%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;`
+2. If the command `vagrant up prod` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
+---
 
 ## Next Section ([Step 1.2](vi-configurations-vagrant.md)) **→**
 
