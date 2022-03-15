@@ -5,7 +5,7 @@
 * Learn about Issues, Commits, and Pull Requests
 * Understand the collaborative git/GitHub work-flow that will be used throughout the internship
 * Create an issue, and upon admin approval, create a branch to fix it
-* After resolving the issue in the branch, make a pull request to the [upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)
+* After resolving the issue in the branch, make a pull request to the open-learning-exchange repository which is the [upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)
 * Work with admins to make adjustments if necessary, and merge your branch into the upstream
 * Comment on an existing issue
 
