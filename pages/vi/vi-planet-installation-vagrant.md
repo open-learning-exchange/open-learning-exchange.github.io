@@ -100,7 +100,7 @@ If VirtualBox installation fails, go to `System Preferences > Security & Privacy
 
 ---
 
-### For Ubuntu
+## For Ubuntu
 
 ### Preparation
 
