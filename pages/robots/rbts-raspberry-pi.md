@@ -21,7 +21,7 @@ The Raspberry Pi is a low cost single board computer, think of it as a downsized
 
 The OLE Raspberry Pi image is a modified [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) image, with additional software pertaining to the open learning exchange program, which you can put onto the microSD card for the Raspberry Pi.
 
-### Your Fist Steps:
+### Your First Steps:
 To get started, please go to: [treehouses/builder](https://github.com/treehouses/builder) and open the "READ ME"
 
 ## Raspberry Pi Meetings
