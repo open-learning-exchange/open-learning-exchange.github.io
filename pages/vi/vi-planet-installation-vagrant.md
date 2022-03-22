@@ -1,4 +1,4 @@
-﻿# Planet Installation
+﻿# Planet Installation (Step 1.1)
 
 ## Objectives
 

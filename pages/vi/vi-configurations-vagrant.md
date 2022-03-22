@@ -1,4 +1,4 @@
-﻿# Planet Configurations
+﻿# Planet Configurations (Step 1.2)
 
 ## Objectives
 

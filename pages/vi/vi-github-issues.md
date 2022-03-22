@@ -1,4 +1,4 @@
-# GitHub Issues
+# GitHub Issues (Step 6)
 
 ## Objectives
 
