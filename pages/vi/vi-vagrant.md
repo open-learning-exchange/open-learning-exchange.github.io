@@ -1,4 +1,4 @@
-# Vagrant Tutorial
+# Vagrant Tutorial (Step 1.3)
 
 ## Objectives
 
