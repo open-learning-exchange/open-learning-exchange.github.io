@@ -1,4 +1,4 @@
-# GitHub and Markdown
+# GitHub and Markdown (Step 3)
 
 ## Objectives
 
