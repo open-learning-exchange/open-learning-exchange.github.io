@@ -4,7 +4,15 @@ This is Eyasu Nigussie. I am originally from Ethiopia.I am currently on my junio
 of Washington. My current location is in Seattle, WA and I am in PST time zone. I like playing **FIFA** on free time. My xbox gamertag is **FikreGen**. 
 I am open for having some fun. 
 
+## Languages I speak
+* English 
+* Amharic 
 
+## Languages I code in 
+* Java 
+* C++ 
+* C#
 
-
-
+## Things I enjoy 
+* Memes 
+* FIFA
