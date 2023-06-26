@@ -6,9 +6,13 @@ Gideon Okuro
 
 About Me
 ----------
-I am a Android Developer with a passion of creating innovative and user friendly mobile applications.
+I am an **Android Developer** with a passion of creating innovative and user friendly mobile applications.
 
-I use Kotlin and Java for Android app development.
+I use these languages for app development:
+<ul>
+  <li> Kotlin </li>
+  <li> Java </li>
+</ul>
 
 Find me on:
 ----------
