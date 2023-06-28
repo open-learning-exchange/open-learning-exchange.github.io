@@ -6,6 +6,11 @@
 
 [gimmick:theme (inverse: false)](bootstrap)
 
+[Manual]() <!-- System Manual -->
+
+  * [Planet User Manual](pages/manual/planet/overview.md)
+  * [myPlanet User Manual](pages/manual/myplanet/overview.md)
+
 [Translators]() <!-- Translation Support Program -->
 
   * [**Introduction**](pages/translators/la-introduction.md)
@@ -38,6 +43,15 @@
   - - - -
   * [**Members**](pages/vi/vi-team.md)
 
+[Contributors]() <!-- Moon-Shot Programs -->
+
+  * [Orientation](pages/robots/rbts-intern-orientation.md)
+  - - - -
+  * [**Planet (Angular)**](pages/robots/rbts-angular.md)
+  * [**MyPlanet (Android)**](pages/robots/rbts-myplanet.md)
+  * [**Raspberry Pi (Linux)**](pages/robots/rbts-raspberry-pi.md)
+  * [**Docker**](pages/robots/rbts-docker.md)
+
 [Tech Geniuses]() <!-- Tech Geniuses Program -->
 
   * [**Introduction**](pages/techgenius/tg-introduction.md)
@@ -52,37 +66,32 @@
   - - - -
   * [Content & Library Management](pages/techgenius/tg-library-management.md)
   - - - -
-  * [**Members**](pages/techgenius/tg-team.md)
+  * [**Members**](pages/techgenius/tg-team.md)  
+  
+[Archives]() <!-- Past Projects -->
 
-[Manual]() <!-- System Manual -->
-
-  * [Planet User Manual](pages/manual/planet/overview.md)
-  * [myPlanet User Manual](pages/manual/myplanet/overview.md)
-
-[Contributors]() <!-- Moon-Shot Programs -->
-
-  * [Orientation](pages/robots/rbts-intern-orientation.md)
+  * [Past Projects](pages/robots/rbts-past-projects.md)
   - - - -
-  * [**Planet (Angular)**](pages/robots/rbts-angular.md)
-  * [**Raspberry Pi (Linux)**](pages/robots/rbts-raspberry-pi.md)
-  * [**MyPlanet (Android)**](pages/robots/rbts-myplanet.md)
-  * [**Takeout (Android)-archived**](pages/robots/rbts-takeout.md)
-  * [**Docker**](pages/robots/rbts-docker.md)
-  - - - -
+  * [Takeout (Android)](pages/robots/rbts-takeout.md)
   * [BeLL-Apps Markdown Wiki](https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/bellapps/#!index.md)
-  * [Simple Dev Install](pages/robots/rbts-simple-install.md)
-  * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
-  * [Automated Testing](pages/robots/rbts-automated-testing.md)
-  * [HTML Resources](pages/robots/rbts-html-resources.md)
-  * [Windows Installer](pages/robots/rbts-inno-project.md)
 
+<!-- Past Projects -->
+<!-- 
+  * [Take Home](/pages/robots/rbts-takehome.md)
+  * [Automated Testing](pages/robots/rbts-automated-testing.md)
+  * [Windows Installer](pages/robots/rbts-inno-project.md)
+  * [Simple Dev Install](pages/robots/rbts-simple-install.md)
+  * [HTML Resources](pages/robots/rbts-html-resources.md)
+  * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
+-->
+  
 [Chat]()
 
   * [**Introduction**](pages/vi/vi-chat.md)
   - - - -
-  * [General Chat (Open to Public)](https://gitter.im/open-learning-exchange/chat)
-  * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
-  * [Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
+  * [General Chat (Open to Public)](https://discord.gg/bByzW2PSj)
+  * [Virtual Interns](https://discord.gg/AbwRrZ8uG)
+  * [Tech Geniuses](https://discord.gg/jZm9nAQqg)
 
 <!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
 
