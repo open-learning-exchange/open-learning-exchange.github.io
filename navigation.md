@@ -68,6 +68,14 @@
   - - - -
   * [**Members**](pages/techgenius/tg-team.md)  
   
+<!-- [Chat]()
+
+  * [**Introduction**](pages/vi/vi-chat.md)
+  - - - -
+  * [General Chat (Open to Public)](https://discord.gg/bByzW2PSj)
+  * [Virtual Interns](https://discord.gg/AbwRrZ8uG)
+  * [Tech Geniuses](https://discord.gg/jZm9nAQqg) -->
+
 [Archives]() <!-- Past Projects -->
 
   * [Past Projects](pages/robots/rbts-past-projects.md)
@@ -84,14 +92,6 @@
   * [HTML Resources](pages/robots/rbts-html-resources.md)
   * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
 -->
-  
-[Chat]()
-
-  * [**Introduction**](pages/vi/vi-chat.md)
-  - - - -
-  * [General Chat (Open to Public)](https://discord.gg/bByzW2PSj)
-  * [Virtual Interns](https://discord.gg/AbwRrZ8uG)
-  * [Tech Geniuses](https://discord.gg/jZm9nAQqg)
 
 <!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
 
