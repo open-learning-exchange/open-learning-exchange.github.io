@@ -68,30 +68,17 @@
   - - - -
   * [**Members**](pages/techgenius/tg-team.md)  
   
-<!-- [Chat]()
-
-  * [**Introduction**](pages/vi/vi-chat.md)
-  - - - -
-  * [General Chat (Open to Public)](https://discord.gg/bByzW2PSj)
-  * [Virtual Interns](https://discord.gg/AbwRrZ8uG)
-  * [Tech Geniuses](https://discord.gg/jZm9nAQqg) -->
-
-[Archives]() <!-- Past Projects -->
+[Archives]() <!-- Archived Items -->
 
   * [Past Projects](pages/robots/rbts-past-projects.md)
   - - - -
   * [Takeout (Android)](pages/robots/rbts-takeout.md)
   * [BeLL-Apps Markdown Wiki](https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/bellapps/#!index.md)
-
-<!-- Past Projects -->
-<!-- 
-  * [Take Home](/pages/robots/rbts-takehome.md)
-  * [Automated Testing](pages/robots/rbts-automated-testing.md)
-  * [Windows Installer](pages/robots/rbts-inno-project.md)
-  * [Simple Dev Install](pages/robots/rbts-simple-install.md)
-  * [HTML Resources](pages/robots/rbts-html-resources.md)
-  * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
--->
+  - - - -
+  * [**Chat**](pages/vi/vi-chat.md)
+  * [&nbsp; &nbsp; General Chat (Open to Public)](https://gitter.im/open-learning-exchange/chat)
+  * [&nbsp; &nbsp; Virtual Interns](https://gitter.im/open-learning-exchange/interns)
+  * [&nbsp; &nbsp; Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
 
 <!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
 
