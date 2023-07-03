@@ -6,6 +6,11 @@
 
 [gimmick:theme (inverse: false)](bootstrap)
 
+[Manual]() <!-- System Manual -->
+
+  * [Planet User Manual](pages/manual/planet/overview.md)
+  * [myPlanet User Manual](pages/manual/myplanet/overview.md)
+
 [Translators]() <!-- Translation Support Program -->
 
   * [**Introduction**](pages/translators/la-introduction.md)
@@ -14,7 +19,7 @@
   * [Take Home](https://crowdin.com/project/take-home/invite)
   * [Remote](https://crowdin.com/project/treehousesremote/invite)
 
-[Virtual Interns]() <!-- Intern Program -->
+[Web Interns]() <!-- Planet Intern Program -->
 
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
@@ -38,6 +43,30 @@
   - - - -
   * [**Members**](pages/vi/vi-team.md)
 
+[Mobile Interns]() <!-- myPlanet Intern Program -->
+
+  * [myPlanet Tutorial](pages/myplanet/myplanetutorial.md)
+  - - - -
+  * [Step 0 - Prerequisites](pages/myplanet/myplanetsteps.md#Step_0_-_Prerequisites)
+  * [Step 1 - Git markdown](pages/myplanet/myplanetsteps.md#Step_1_-_Git_markdown)
+  * [Step 2 - Playstore](pages/myplanet/myplanetsteps.md#Step_2_-_Playstore)
+  * [Step 3 - Android Studio compile](pages/myplanet/myplanetsteps.md#Step_3_-_Android_Studio_compile)
+  * [Step 4 - Connect myPlanet to planet vi](pages/myplanet/myplanetsteps.md#Step_4_-_Connect_myPlanet_to_planet_vi)
+  * [Step 5 - Vysor Course](pages/myplanet/myplanetsteps.md#Step_5_-_Vysor_Course)
+  * [Step 6 - 1 issue and pull request](pages/myplanet/myplanetsteps.md#Step_6_-_1_issue_and_pull request)
+  * [Step 7 - course about](pages/myplanet/myplanetsteps.md#Step_7_-_course_about)
+  * [Step 8 - 3 issues and pull requests](pages/myplanet/myplanetsteps.md#Step_8_-_3_issue_and_pull_requests)
+  * [Step 9 - Pull request for adding yourself to team and read pre interview document](pages/myplanet/myplanetsteps.md#Step_9_-_Pull_request_for_adding_yourself_to_team_and_read_pre_interview_document)
+
+[Contributors]() <!-- Moon-Shot Programs -->
+
+  * [Orientation](pages/robots/rbts-intern-orientation.md)
+  - - - -
+  * [**Planet (Angular)**](pages/robots/rbts-angular.md)
+  * [**MyPlanet (Android)**](pages/robots/rbts-myplanet.md)
+  * [**Raspberry Pi (Linux)**](pages/robots/rbts-raspberry-pi.md)
+  * [**Docker**](pages/robots/rbts-docker.md)
+
 [Tech Geniuses]() <!-- Tech Geniuses Program -->
 
   * [**Introduction**](pages/techgenius/tg-introduction.md)
@@ -52,37 +81,19 @@
   - - - -
   * [Content & Library Management](pages/techgenius/tg-library-management.md)
   - - - -
-  * [**Members**](pages/techgenius/tg-team.md)
+  * [**Members**](pages/techgenius/tg-team.md)  
+  
+[Archives]() <!-- Archived Items -->
 
-[Manual]() <!-- System Manual -->
-
-  * [Planet User Manual](pages/manual/planet/overview.md)
-  * [myPlanet User Manual](pages/manual/myplanet/overview.md)
-
-[Contributors]() <!-- Moon-Shot Programs -->
-
-  * [Orientation](pages/robots/rbts-intern-orientation.md)
+  * [Past Projects](pages/robots/rbts-past-projects.md)
   - - - -
-  * [**Planet (Angular)**](pages/robots/rbts-angular.md)
-  * [**Raspberry Pi (Linux)**](pages/robots/rbts-raspberry-pi.md)
-  * [**MyPlanet (Android)**](pages/robots/rbts-myplanet.md)
-  * [**Takeout (Android)-archived**](pages/robots/rbts-takeout.md)
-  * [**Docker**](pages/robots/rbts-docker.md)
-  - - - -
+  * [Takeout (Android)](pages/robots/rbts-takeout.md)
   * [BeLL-Apps Markdown Wiki](https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/bellapps/#!index.md)
-  * [Simple Dev Install](pages/robots/rbts-simple-install.md)
-  * [Crowdin Integration](pages/robots/rbts-crowdin-integration.md)
-  * [Automated Testing](pages/robots/rbts-automated-testing.md)
-  * [HTML Resources](pages/robots/rbts-html-resources.md)
-  * [Windows Installer](pages/robots/rbts-inno-project.md)
-
-[Chat]()
-
-  * [**Introduction**](pages/vi/vi-chat.md)
   - - - -
-  * [General Chat (Open to Public)](https://gitter.im/open-learning-exchange/chat)
-  * [Virtual Interns](https://gitter.im/open-learning-exchange/interns)
-  * [Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
+  * [**Chat**](pages/vi/vi-chat.md)
+  * [&nbsp; &nbsp; General Chat (Open to Public)](https://gitter.im/open-learning-exchange/chat)
+  * [&nbsp; &nbsp; Virtual Interns](https://gitter.im/open-learning-exchange/interns)
+  * [&nbsp; &nbsp; Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
 
 <!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
 
@@ -106,17 +117,3 @@ A more complex navigation example:
 
 [Menu Item 3](pages/item3.md) -->
 
-[myPlanet]()
-
-  * [myPlanet Tutorial](pages/myplanet/myplanetutorial.md)
-  - - - -
-  * [Step 0 - Prerequisites](pages/myplanet/myplanetsteps.md#Step_0_-_Prerequisites)
-  * [Step 1 - Git markdown](pages/myplanet/myplanetsteps.md#Step_1_-_Git_markdown)
-  * [Step 2 - Playstore](pages/myplanet/myplanetsteps.md#Step_2_-_Playstore)
-  * [Step 3 - Android Studio compile](pages/myplanet/myplanetsteps.md#Step_3_-_Android_Studio_compile)
-  * [Step 4 - Connect myPlanet to planet vi](pages/myplanet/myplanetsteps.md#Step_4_-_Connect_myPlanet_to_planet_vi)
-  * [Step 5 - Vysor Course](pages/myplanet/myplanetsteps.md#Step_5_-_Vysor_Course)
-  * [Step 6 - 1 issue and pull request](pages/myplanet/myplanetsteps.md#Step_6_-_1_issue_and_pull request)
-  * [Step 7 - course about](pages/myplanet/myplanetsteps.md#Step_7_-_course_about)
-  * [Step 8 - 3 issues and pull requests](pages/myplanet/myplanetsteps.md#Step_8_-_3_issue_and_pull_requests)
-  * [Step 9 - Pull request for adding yourself to team and read pre interview document](pages/myplanet/myplanetsteps.md#Step_9_-_Pull_request_for_adding_yourself_to_team_and_read_pre_interview_document)
