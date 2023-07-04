@@ -51,20 +51,17 @@ NOTE: Raw.githack link above is case sensitive to your username.
 
 - In this step you will be connecting your application, myPlanet, to another application called planet vi. This connection will allow you to share data and resources between the two applications. To establish the connection, follow the instructions below:
 - Begin by locating the settings icon within the myPlanet application. This icon is typically represented by a gear or cogwheel symbol. Click on the settings icon to initiate a pop-up dialog box.
-  
-    ![Server Settings Button Screenshot](image/serversettingsbutton.png)
 
+  ![Server Settings Button Screenshot](image/mi-server-settings-button.png)
 - Once the dialog box appears, you will see a form where you need to enter the IP address and password. These details will be provided to you by the administrator. Enter the IP address and password accurately into the respective fields.
 - After entering the IP address and password, click on the "Sync" button. This action will initiate the synchronization process between myPlanet and planet vi. It will establish a connection between the two applications, enabling data exchange and collaboration.
 
-    ![Server Address Popup Screenshot](image/serveraddresspopup.png)
-
+  ![Server Address Popup Screenshot](image/mi-server-address-popup.png)
 - Once the synchronization process is completed successfully, you can proceed to create a user account within the planet vi application.
 - Locate the option to "Become a member" to create a new user account. Fill in the necessary details requested
 - Make note of these credentials or store them securely, as you will need them to log in to the planet vi application.
 
-    ![Become a Member Screenshot](image/becomemember.png)
-
+  ![Become a Member Screenshot](image/mi-become-member.png)
 - By following these steps, you will successfully connect myPlanet to planet vi and create a user account within the planet vi application, allowing you to utilize the interconnected features and resources between the two applications.
 
 ## Step 5 - Vysor Course
@@ -72,15 +69,13 @@ NOTE: Raw.githack link above is case sensitive to your username.
 - To enhance your understanding of Vysor, a screen mirroring and remote control application, you should consider enrolling in the "How to Use Vysor" course. This course can be found within the courses tab of myplanet.
 - Once you locate the course, click on it to join and access the valuable content it offers. The course is designed to provide you with a comprehensive understanding of Vysor's features and functionalities. It will guide you through various steps and procedures involved in effectively utilizing Vysor.
 
-    ![Courses List Screenshot](image/courseslist.png)
-
+  ![Courses List Screenshot](image/mi-courses-list.png)
 - Throughout the course, you will learn how to connect your device to Vysor, mirror your device's screen onto your computer, and navigate the different control options available. By following the instructions and completing the course steps, you will gain practical knowledge and confidence in using Vysor.
 - After you finish all the course steps, it is encouraged to provide feedback on your learning experience by rating the course. To do this, locate the star rating system, which should be displayed in an image or visual representation on the course page.
 - Simply click on the stars to indicate your level of satisfaction with the course content, presentation, and overall usefulness.
 
-    ![Rating Icon Click Screenshot](image/ratingiconclick.png)
-    ![Rating Popup Screenshot](image/ratingpopup.png)
-    
+  ![Rating Icon Click Screenshot](image/mi-rating-icon-click.png)
+  ![Rating Popup Screenshot](image/mi-rating-popup.png)
 - Your rating will serve as valuable feedback for the course creators, helping them improve the course and cater to the needs of future learners. Additionally, your rating will also assist other users in assessing the quality and relevance of the "How to Use Vysor" course
 
 ## Step 6 - 1 issue and pull request
