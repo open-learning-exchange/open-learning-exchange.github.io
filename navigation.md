@@ -45,18 +45,18 @@
 
 [Mobile Interns]() <!-- myPlanet Intern Program -->
 
-  * [myPlanet Tutorial](pages/myplanet/myplanetutorial.md)
+  * [myPlanet Tutorial](pages/mi/mi-tutorial.md)
   - - - -
-  * [Step 0 - Prerequisites](pages/myplanet/myplanetsteps.md#Step_0_-_Prerequisites)
-  * [Step 1 - Git markdown](pages/myplanet/myplanetsteps.md#Step_1_-_Git_markdown)
-  * [Step 2 - Playstore](pages/myplanet/myplanetsteps.md#Step_2_-_Playstore)
-  * [Step 3 - Android Studio compile](pages/myplanet/myplanetsteps.md#Step_3_-_Android_Studio_compile)
-  * [Step 4 - Connect myPlanet to planet vi](pages/myplanet/myplanetsteps.md#Step_4_-_Connect_myPlanet_to_planet_vi)
-  * [Step 5 - Vysor Course](pages/myplanet/myplanetsteps.md#Step_5_-_Vysor_Course)
-  * [Step 6 - 1 issue and pull request](pages/myplanet/myplanetsteps.md#Step_6_-_1_issue_and_pull request)
-  * [Step 7 - course about](pages/myplanet/myplanetsteps.md#Step_7_-_course_about)
-  * [Step 8 - 3 issues and pull requests](pages/myplanet/myplanetsteps.md#Step_8_-_3_issue_and_pull_requests)
-  * [Step 9 - Pull request for adding yourself to team and read pre interview document](pages/myplanet/myplanetsteps.md#Step_9_-_Pull_request_for_adding_yourself_to_team_and_read_pre_interview_document)
+  * [Step 0 - Prerequisites](pages/mi/mi-10-steps.md#Step_0_-_Prerequisites)
+  * [Step 1 - Git markdown](pages/mi/mi-10-steps.md#Step_1_-_Git_markdown)
+  * [Step 2 - Playstore](pages/mi/mi-10-steps.md#Step_2_-_Playstore)
+  * [Step 3 - Android Studio compile](pages/mi/mi-10-steps.md#Step_3_-_Android_Studio_compile)
+  * [Step 4 - Connect myPlanet to planet vi](pages/mi/mi-10-steps.md#Step_4_-_Connect_myPlanet_to_planet_vi)
+  * [Step 5 - Vysor Course](pages/mi/mi-10-steps.md#Step_5_-_Vysor_Course)
+  * [Step 6 - 1 issue and pull request](pages/mi/mi-10-steps.md#Step_6_-_1_issue_and_pull_request)
+  * [Step 7 - course about](pages/mi/mi-10-steps.md#Step_7_-_course_about)
+  * [Step 8 - 3 issues and pull requests](pages/mi/mi-10-steps.md#Step_8_-_3_issue_and_pull_requests)
+  * [Step 9 - Pull request for adding yourself to team and read pre interview document](pages/mi/mi-10-steps.md#Step_9_-_Pull_request_for_adding_yourself_to_team_and_read_pre_interview_document)
 
 [Contributors]() <!-- Moon-Shot Programs -->
 
