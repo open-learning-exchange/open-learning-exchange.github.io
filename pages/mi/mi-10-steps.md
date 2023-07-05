@@ -19,10 +19,9 @@ NOTE: Raw.githack link above is case sensitive to your username.
 - If you follow this link for myPlanet on Play Store you will be able to reach myPlanet in playstore. You can then install myPlanet from there on your phone.
 
 ## Step 3 - Android Studio compile
-
-- Follow the directions at [Git Repositories](../vi/vi-github-and-repositories.md) to keep your username.github.io and your local repository up to date.
-
-> After Forking
+- Download, install and Setting up Android Studio
+- Go to [Android official website](https://developer.android.com/studio/install) and follow the steps to install and setup android studio which is the recommended android IDE depending on your laptop Operating System.
+- Follow the steps on [myPlanet Github Repository](https://github.com/open-learning-exchange/myplanet#getting-started-for-users) to get myplanet code cloned on your laptop.
 
 **Open Android Studio:**
  Launch Android Studio on your computer. If this is your first time using Android Studio, it may take a moment to set up the initial configuration.
@@ -107,5 +106,5 @@ NOTE: Raw.githack link above is case sensitive to your username.
 
 * Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](../vi/vi-nation.md)).
 
-Next thing is to add yourself to the virtual intern list found in [vi-team.md](../vi/vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
-Make sure to read through the [intern orientation document](../robots/rbts-intern-orientation.md) before the meeting.
+  Next thing is to add yourself to the virtual intern list found in [vi-team.md](../vi/vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
+  Make sure to read through the [intern orientation document](../robots/rbts-intern-orientation.md) before the meeting.
