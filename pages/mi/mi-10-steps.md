@@ -8,7 +8,7 @@ The following hardware is required for the internship:
 
 ## Step 1 - Git markdown
 
-- Follow the instructions on the GitHub and Markdown page. Make sure that you've linked to your github.io and pull request link on the Gitter chat (https://YourUserName.github.io and LinkToYourPullRequest).
+- Follow the instructions on the [GitHub and Markdown page](../../pages/vi/vi-github-and-markdown.md) page. Make sure that you've linked to your github.io and pull request link on the Gitter chat (https://YourUserName.github.io and LinkToYourPullRequest).
 - Also include Raw.githack link in your pull request (https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
 
 NOTE: Raw.githack link above is case sensitive to your username.
@@ -20,7 +20,7 @@ NOTE: Raw.githack link above is case sensitive to your username.
 
 ## Step 3 - Android Studio compile
 
-- Follow the directions at [Git Repositories](https://open-learning-exchange.github.io/#!./pages/vi/vi-github-and-repositories.md) to keep your username.github.io and your local repository up to date.
+- Follow the directions at [Git Repositories](../vi/vi-github-and-repositories.md) to keep your username.github.io and your local repository up to date.
 
 > After Forking
 
@@ -80,7 +80,7 @@ NOTE: Raw.githack link above is case sensitive to your username.
 
 ## Step 6 - 1 issue and pull request
 
-* Follow the tutorial under the [GitHub Issues tab](https://open-learning-exchange.github.io/#!./pages/vi/vi-github-issues.md) to create at least one issue. Post a link in the discord channel whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
+* Follow the tutorial under the [GitHub Issues tab](../vi/vi-github-issues.md) to create at least one issue. Post a link in the discord channel whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
 * No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file.
 * You can also work on issues that you didn't create. Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged.
 
@@ -105,7 +105,7 @@ NOTE: Raw.githack link above is case sensitive to your username.
 
 ## Step 9 - Pull request for adding yourself to team and read pre interview document
 
-* Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](https://open-learning-exchange.github.io/#!./pages/vi/vi-nation.md)).
+* Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](../vi/vi-nation.md)).
 
-Next thing is to add yourself to the virtual intern list found in [vi-team.md](https://open-learning-exchange.github.io/#!./pages/vi/vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Gitter chat room so that we can set up a meeting and add you to the team as soon as possible.
-Make sure to read through the [intern orientation document](https://open-learning-exchange.github.io/#!./pages/robots/rbts-intern-orientation.md) before the meeting.
+Next thing is to add yourself to the virtual intern list found in [vi-team.md](../vi/vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Gitter chat room so that we can set up a meeting and add you to the team as soon as possible.
+Make sure to read through the [intern orientation document](../robots/rbts-intern-orientation.md) before the meeting.
