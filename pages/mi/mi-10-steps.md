@@ -8,7 +8,7 @@ The following hardware is required for the internship:
 
 ## Step 1 - Git markdown
 
-- Follow the instructions on the [GitHub and Markdown page](../../pages/vi/vi-github-and-markdown.md) page. Make sure that you've linked to your github.io and pull request link on the Gitter chat (https://YourUserName.github.io and LinkToYourPullRequest).
+- Follow the instructions on the [GitHub and Markdown page](../../pages/vi/vi-github-and-markdown.md) page. Make sure that you've linked to your github.io and pull request link on the Discord channel (https://YourUserName.github.io and LinkToYourPullRequest).
 - Also include Raw.githack link in your pull request (https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
 
 NOTE: Raw.githack link above is case sensitive to your username.
@@ -107,5 +107,5 @@ NOTE: Raw.githack link above is case sensitive to your username.
 
 * Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](../vi/vi-nation.md)).
 
-Next thing is to add yourself to the virtual intern list found in [vi-team.md](../vi/vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Gitter chat room so that we can set up a meeting and add you to the team as soon as possible.
+Next thing is to add yourself to the virtual intern list found in [vi-team.md](../vi/vi-team.md) and create a pull request. Message us ("@/all" and "@dogi") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
 Make sure to read through the [intern orientation document](../robots/rbts-intern-orientation.md) before the meeting.
