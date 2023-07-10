@@ -19,7 +19,7 @@
   * [Take Home](https://crowdin.com/project/take-home/invite)
   * [Remote](https://crowdin.com/project/treehousesremote/invite)
 
-[Web Interns]() <!-- Planet Intern Program -->
+[Virtual Interns]() <!-- Planet Intern Program -->
 
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
@@ -45,7 +45,8 @@
 
 [Mobile Interns]() <!-- myPlanet Intern Program -->
 
-  * [myPlanet Tutorial](pages/mi/mi-tutorial.md)
+  * [**Introduction / First Steps**](pages/mi/mi-first-steps.md)
+  * [FAQ](pages/vi/vi-faq.md)
   - - - -
   * [Step 0 - Prerequisites](pages/mi/mi-10-steps.md#Step_0_-_Prerequisites)
   * [Step 1 - Git markdown](pages/mi/mi-10-steps.md#Step_1_-_Git_markdown)
@@ -56,7 +57,10 @@
   * [Step 6 - 1 issue and pull request](pages/mi/mi-10-steps.md#Step_6_-_1_issue_and_pull_request)
   * [Step 7 - course about](pages/mi/mi-10-steps.md#Step_7_-_course_about)
   * [Step 8 - 3 issues and pull requests](pages/mi/mi-10-steps.md#Step_8_-_3_issue_and_pull_requests)
-  * [Step 9 - Pull request for adding yourself to team and read pre interview document](pages/mi/mi-10-steps.md#Step_9_-_Pull_request_for_adding_yourself_to_team_and_read_pre_interview_document)
+  * [Step 9 - Be part of the team](pages/mi/mi-10-steps.md#Step_9_-_Pull_request_for_adding_yourself_to_team_and_read_pre_interview_document)
+  * [Track Progress](pages/vi/vi-track-progress.md)
+  - - - -
+  * [**Members**](pages/mi/mi-team.md)
 
 [Contributors]() <!-- Moon-Shot Programs -->
 
