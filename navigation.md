@@ -45,19 +45,19 @@
 
 [Mobile Interns]() <!-- myPlanet Intern Program -->
 
-  * [**Introduction / First Steps**](pages/mi/mi-first-steps.md)
+  * [**Introduction / First Steps**](pages/mi/mi-10-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
   - - - -
   * [Step 0 - Prerequisites](pages/mi/mi-10-steps.md#Step_0_-_Prerequisites)
-  * [Step 1 - Git markdown](pages/mi/mi-10-steps.md#Step_1_-_Git_markdown)
-  * [Step 2 - Playstore](pages/mi/mi-10-steps.md#Step_2_-_Playstore)
-  * [Step 3 - Android Studio compile](pages/mi/mi-10-steps.md#Step_3_-_Android_Studio_compile)
+  * [Step 1 - GitHub & Markdown Setup](pages/mi/mi-10-steps.md#Step_1_-_GitHub_&_Markdown_Setup)
+  * [Step 2 - Getting myPlanet App](pages/mi/mi-10-steps.md#Step_2_-_Getting_myPlanet_App)
+  * [Step 3 - Build myPlanet in Android Studio](pages/mi/mi-10-steps.md#Step_3_-_Build_myPlanet_in_Android_Studio)
   * [Step 4 - Connect myPlanet to planet vi](pages/mi/mi-10-steps.md#Step_4_-_Connect_myPlanet_to_planet_vi)
   * [Step 5 - Vysor Course](pages/mi/mi-10-steps.md#Step_5_-_Vysor_Course)
-  * [Step 6 - 1 issue and pull request](pages/mi/mi-10-steps.md#Step_6_-_1_issue_and_pull_request)
-  * [Step 7 - course about](pages/mi/mi-10-steps.md#Step_7_-_course_about)
-  * [Step 8 - 3 issues and pull requests](pages/mi/mi-10-steps.md#Step_8_-_3_issue_and_pull_requests)
-  * [Step 9 - Be part of the team](pages/mi/mi-10-steps.md#Step_9_-_Pull_request_for_adding_yourself_to_team_and_read_pre_interview_document)
+  * [Step 6 - Github Issues tutorial](pages/mi/mi-10-steps.md#Step_6_-_Github_Issues_tutorial)
+  * [Step 7 - Course About](pages/mi/mi-10-steps.md#Step_7_-_Course_About)
+  * [Step 8 - Create Issues and Pull Requests](pages/mi/mi-10-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)
+  * [Step 9 - Be part of the team](pages/mi/mi-10-steps.md#Step_9_-_Be_part_of_the_team)
   * [Track Progress](pages/vi/vi-track-progress.md)
   - - - -
   * [**Members**](pages/mi/mi-team.md)
