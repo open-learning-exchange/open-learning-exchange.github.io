@@ -146,7 +146,9 @@ Create 3 more issues, add comments to 3 other issues, and resolve 3 issues by ma
 
 Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests and have them each approved by at least two other OLE team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the Discord chat so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 
- Remember, no issue is too small to address! The approval process for this step may take time, but it is OK to continue working.
+ Remember, no issue is too small to address! Make sure that your issue is concise, and focuses on addressing a single theme at a time .The approval process for this step may take time, but it is OK to continue working.
+
+ **An example area you can make a meaningful is in improving the [myPlanet manual](../manual/myplanet/overview.md)**
 
 **NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
   
