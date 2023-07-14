@@ -6,6 +6,7 @@ The support program is divided into several parts to meet the needs of different
 
 The [Open Learning Exchange](http://www.ole.org/) is a social benefit and for-purpose organization based in Cambridge, Massachusetts. Our mission is to provide universal quality education using open source materials and technology to overcome educational barriers. More specifically, Planet. To learn more about how it works, check out the [Planet User Manual](pages/techgenius/tg-planet-user-manual.md).
 
-![](pages/uploads/images/planet-landing-page.png)
+![](pages/uploads/images/planet-community-page.png)
+![](pages/uploads/images/planet-myDashboard-page.png)
 
 **Find Us On:** [Linkedin](https://www.linkedin.com/company/open-learning-exchange) | [Twitter](https://twitter.com/oleorg) | [Facebook](https://www.facebook.com/openlearningexchange/)
