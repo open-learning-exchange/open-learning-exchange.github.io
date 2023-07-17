@@ -169,6 +169,13 @@ At this early stage, the simple solution would be using `vagrant destroy prod` t
 2. If the command `vagrant up prod` is not working, try to install [Virtual Box version 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
 ---
 
+8. If your BIOS or UEFI firmware is not set up to run VT-x you will get this message when trying to run `vagrant up prod`:
+
+   > Stderr: VBoxManage: error: VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED)
+   
+   In order to set up the BIOS to enable VT-x, there is a tutorial [here](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/).
+
+
 ## Next Section ([Step 1.2](vi-configurations-vagrant.md)) **→**
 
 Now  you have installed your community Planet, head over to [Planet Configurations](#!./pages/vi/vi-configurations-vagrant.md) to register your community with the nation.
