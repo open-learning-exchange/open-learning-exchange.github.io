@@ -19,7 +19,7 @@
   * [Take Home](https://crowdin.com/project/take-home/invite)
   * [Remote](https://crowdin.com/project/treehousesremote/invite)
 
-[Virtual Interns]() <!-- Intern Program -->
+[Virtual Interns]() <!-- Planet Intern Program -->
 
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
@@ -42,6 +42,25 @@
   * [Track Progress](pages/vi/vi-track-progress.md)
   - - - -
   * [**Members**](pages/vi/vi-team.md)
+
+[Mobile Interns]() <!-- myPlanet Intern Program -->
+
+  * [**Introduction / First Steps**](pages/mi/mi-10-steps.md)
+  * [FAQ](pages/vi/vi-faq.md)
+  - - - -
+  * [Step 0 - Prerequisites](pages/mi/mi-10-steps.md#Step_0_-_Prerequisites)
+  * [Step 1 - GitHub & Markdown Setup](pages/mi/mi-10-steps.md#Step_1_-_GitHub_&_Markdown_Setup)
+  * [Step 2 - Getting myPlanet App](pages/mi/mi-10-steps.md#Step_2_-_Getting_myPlanet_App)
+  * [Step 3 - Build myPlanet in Android Studio](pages/mi/mi-10-steps.md#Step_3_-_Build_myPlanet_in_Android_Studio)
+  * [Step 4 - Connect myPlanet to planet vi](pages/mi/mi-10-steps.md#Step_4_-_Connect_myPlanet_to_planet_vi)
+  * [Step 5 - Vysor Course](pages/mi/mi-10-steps.md#Step_5_-_Vysor_Course)
+  * [Step 6 - Github Issues tutorial](pages/mi/mi-10-steps.md#Step_6_-_Github_Issues_tutorial)
+  * [Step 7 - Course About](pages/mi/mi-10-steps.md#Step_7_-_Course_About)
+  * [Step 8 - Create Issues and Pull Requests](pages/mi/mi-10-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)
+  * [Step 9 - Be part of the team](pages/mi/mi-10-steps.md#Step_9_-_Be_part_of_the_team)
+  * [Track Progress](pages/vi/vi-track-progress.md)
+  - - - -
+  * [**Members**](pages/mi/mi-team.md)
 
 [Contributors]() <!-- Moon-Shot Programs -->
 
@@ -101,3 +120,4 @@ A more complex navigation example:
 [Menu Item 2](pages/item2.md)
 
 [Menu Item 3](pages/item3.md) -->
+
