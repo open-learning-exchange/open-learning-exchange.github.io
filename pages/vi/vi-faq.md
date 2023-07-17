@@ -37,7 +37,7 @@
 
 #### Q2: What kind of software will we be using for this internship?
 
-+ As a part of this internship, you will be working with software and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, JavaScript, Node.js, and Angular.
++ As a part of this internship, you will be working with software and languages including Git, GitHub, Discord, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, Docker, HTML5, JavaScript, Node.js, and Angular.
 
 #### Q3: Where can I find more information about this internship?
 
@@ -45,7 +45,7 @@
 
 #### Q4: What are the hours of the internship?
 
-+ This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
++ This is an intensive internship that requires 16 hours of work each week. Work with your fellow interns and keep us updated in the [Discord server](https://discord.gg/mtgGD4EnYW).
 + The reason we have a 16 hour minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discusses problems, and works on issues together. Then the rest of the time is for catching up with the changes and working on issues assigned.
 
 #### Q5: Is this a paid internship?
@@ -54,7 +54,7 @@
 
 #### Q6: What happens after the initial steps?
 
-+ The initial steps are meant to introduce potential interns to the OLE Planet, planet software and the process that we use to develop features and improve upon the Planet. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Gitter chatroom and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
++ The initial steps are meant to introduce potential interns to the OLE Planet, planet software and the process that we use to develop features and improve upon the Planet. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Discord channel and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
 
 #### Q7: If I'm an international student, how soon can I get my paperwork required by my visa?
 
@@ -84,7 +84,7 @@
 
 #### Q13: Why is the "Submit" button not showing up when I try to submit my survey?
 
-+ Please make sure you’re using Firefox, as our Planet software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the Planet and logging back in, then go back to the survey. If that doesn’t work, log out of the Planet, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Gitter chat](http://gitter.im/open-learning-exchange/chat).
++ Please make sure you’re using Firefox, as our Planet software is only guaranteed to work in Firefox. To get the “Submit” button to show up, try logging out of the Planet and logging back in, then go back to the survey. If that doesn’t work, log out of the Planet, shut down the vagrant machine (`vagrant halt` in the directory where the Vagrantfile is located), `vagrant up` again, log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Discord server](https://discord.gg/mtgGD4EnYW).
 
 #### Q14: Why does Firefox say “Unable to connect” when I try to load my Community?
 

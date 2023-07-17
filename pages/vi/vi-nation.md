@@ -70,7 +70,7 @@ Finally, you will see a report of your community. It will have some graphical an
 ## Update your community
 
 On your [local community](http://localhost:3100) login as Administrator. Then go to the Manager Page. You should see an option to perform an Upgrade.
-If you do not see the **Upgrade** button, please check your current **Nation version** and your current **Local version**. If both versions appear to be the same, this indicates your planet is already up-to-date. If you see any other message(s) below your version, please send a message on the Gitter Chat Channel along with a screenshot of what you are seeing.
+If you do not see the **Upgrade** button, please check your current **Nation version** and your current **Local version**. If both versions appear to be the same, this indicates your planet is already up-to-date. If you see any other message(s) below your version, please send a message on the Discord server Channel along with a screenshot of what you are seeing.
 
 ![Check version](images/vi-planet-version.png "Communities Check version")
 

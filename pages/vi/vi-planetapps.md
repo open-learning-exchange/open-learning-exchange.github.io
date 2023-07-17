@@ -9,7 +9,7 @@
 ## Preparation
 Please go to http://localhost:3100 or run `vagrant global-status` in the command line to see if your community Planet is currently running. If not, please `cd` into `planet` directory in your local machine and run `vagrant up prod`.
 
-Do not forget to send the screenshot of your Planet community configurations ([from the earlier step when you registered your configurations](vi-configurations-vagrant.md)) to our chat. In case you forgot to take the screenshot of your configurations, login to Planet, click on manager settings (top bar person with gear icon), click on the configuration button, take a screenshot of the page, and send it to the Gitter chat.
+Do not forget to send the screenshot of your Planet community configurations ([from the earlier step when you registered your configurations](vi-configurations-vagrant.md)) to our chat. In case you forgot to take the screenshot of your configurations, login to Planet, click on manager settings (top bar person with gear icon), click on the configuration button, take a screenshot of the page, and send it to the Discord server.
 
 ![Clicking on "Manager"](images/edit-vi-nation-manager.png "Dashboard in your localhost")
 
@@ -50,7 +50,7 @@ Fill out the information:
 
 ## Different Kinds of Updates to Your Community
 
-There are three important kinds of updates that you may receive on the community side: upgrades, resources/courses and sync. Go to your Manager page and search for the buttons highlighted in the picture below. You may not see the `Fetch Items` button if nation has not sent anything to the community. If you do not see the other two highlighted buttons, post a message to the Gitter Chat channel to get help.
+There are three important kinds of updates that you may receive on the community side: upgrades, resources/courses and sync. Go to your Manager page and search for the buttons highlighted in the picture below. You may not see the `Fetch Items` button if nation has not sent anything to the community. If you do not see the other two highlighted buttons, post a message to the Discord server channel to get help.
 
 As you can see from the image below, there is an upgrade ready to be downloaded. Usually, next to the upgrade, you should also see publication(s) (we send to you from the nation) ready to be downloaded.
 
@@ -96,7 +96,7 @@ Take the course, and the last question will ask you to specify any problems or i
 ![Take the Course](images/vi-take-the-course.png)
 ![Course Overview](images/vi-course-view.png)
 
-If the course "Virtual Interns" is not there, check `Manage Sync` of manager settings page to see if your synchronization has been completed. Otherwise please message us and "@" an admin in the Gitter chat so we can send you the course manually.
+If the course "Virtual Interns" is not there, check `Manage Sync` of manager settings page to see if your synchronization has been completed. Otherwise please message us and "@dogi" an admin in the Discord server so we can send you the course manually.
 
 Check out this [link](https://crowdin.com/page/tour#tab_translators) and [translation](https://open-learning-exchange.github.io/#!pages/translators/la-introduction.md) to learn how you can start contributing on Crowdin.   
 

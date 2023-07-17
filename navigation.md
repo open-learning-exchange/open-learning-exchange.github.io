@@ -76,9 +76,9 @@
   * [BeLL-Apps Markdown Wiki](https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/bellapps/#!index.md)
   - - - -
   * [**Chat**](pages/vi/vi-chat.md)
-  * [&nbsp; &nbsp; General Chat (Open to Public)](https://gitter.im/open-learning-exchange/chat)
-  * [&nbsp; &nbsp; Virtual Interns](https://gitter.im/open-learning-exchange/interns)
-  * [&nbsp; &nbsp; Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius)
+  * [&nbsp; &nbsp; General Chat (Open to Public)](https://discord.gg/mtgGD4EnYW)
+  * [&nbsp; &nbsp; Virtual Interns](https://discord.gg/mtgGD4EnYW)
+  * [&nbsp; &nbsp; Tech Geniuses](https://discord.gg/mtgGD4EnYW)
 
 <!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
 

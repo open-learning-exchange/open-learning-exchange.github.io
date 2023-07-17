@@ -1,6 +1,6 @@
 # myPlanet
 _Note: This project page is a work in progress. Please reach out 
-on the gitter chat if you would like to contribute to this project_
+on the discord server if you would like to contribute to this project_
 
 myPlanet is the Android port of the Planet web application. It will work 
 with Planet community / nation.

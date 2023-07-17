@@ -17,7 +17,7 @@ Planet Learning is made up of two parts - a cloud service (nation) and a local s
 
 ### Q2: What skill sets do we need?
 
-OLE works with a range of software tools and languages including Git, GitHub, Gitter, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, HTML5, Javascript, Angular, Bootstrap, Node.js, Android App Development, Docker, Linux, Linux/Raspbian, and non-SQL databases such as Apache CouchDB.
+OLE works with a range of software tools and languages including Git, GitHub, Discord, Markdown, Vagrant, VirtualBox, Command Line/Terminal, Command Line/Terminal Scripts, Vim, CouchDB, HTML5, Javascript, Angular, Bootstrap, Node.js, Android App Development, Docker, Linux, Linux/Raspbian, and non-SQL databases such as Apache CouchDB.
 
 ### Q3: What will I be working on as a volunteer coder?
 
@@ -33,7 +33,7 @@ As you are volunteering your time we are grateful for any time that you can dedi
 
 ### Q6: How do I get started?
 
-OLE also maintains a virtual internship program. We ask that all volunteer coders walk through [the internship on-boarding exercise](firststeps.md), as this provides a good introduction to our workflow and the tools that we use. Once completed, volunteer coders should post a message in our [Gitter channel](http://gitter.im/open-learning-exchange/chat) so that we can setup a time to speak directly. 
+OLE also maintains a virtual internship program. We ask that all volunteer coders walk through [the internship on-boarding exercise](firststeps.md), as this provides a good introduction to our workflow and the tools that we use. Once completed, volunteer coders should post a message in our [Discord channel](https://discord.gg/mtgGD4EnYW) so that we can setup a time to speak directly. 
 
 #### Background on the on-boarding exercise
 

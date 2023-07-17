@@ -44,7 +44,7 @@ WARNING: Before you finish the registration, do not close your browser.
 You cannot go to the above registration form again.
 If you are in this situation, look at the ** [Second element of Troubleshooting in this page](#Troubleshooting)** 
 
-Next, fill out the configurations. Your name must be the same and should match your GitHub name so we can easily locate your community in Virtual Intern Nation. Pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) after submitting your registration request.**
+Next, fill out the configurations. Your name must be the same and should match your GitHub name so we can easily locate your community in Virtual Intern Nation. Pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Discord server](https://discord.gg/mtgGD4EnYW) after submitting your registration request.**
 
 ![Configurations](images/vi-configuration.png)
 
@@ -60,7 +60,7 @@ Then, click on the **"Submit"** button. Your registration request for your commu
 
 Now you can login with the admin credential you created.
 
-Then, post to the [Gitter chat](https://gitter.im/open-learning-exchange/chat) the screenshot you took earlier.
+Then, post to the [Discord server](https://discord.gg/mtgGD4EnYW) the screenshot you took earlier.
 
 ## Troubleshooting
 
@@ -77,7 +77,7 @@ vagrant up prod
 ```
 in your planet folder. This destroys and removes your community, pulls the latest code, and starts a community from scratch.
 
-3. In the case that you use the command `vagrant destroy prod`, your community Planet would be wiped together with the virtual machine, but  community registration would still exist on the nation side. After rebuilding your community Planet using `vagrant up prod`, fill out the configurations again with a slightly different Name (e.g. adding a number or letter to the end of your original GitHub username) so that we can still locate your community on the Nation side. Also, remember to take a screenshot of the new configuration page and post it to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
+3. In the case that you use the command `vagrant destroy prod`, your community Planet would be wiped together with the virtual machine, but  community registration would still exist on the nation side. After rebuilding your community Planet using `vagrant up prod`, fill out the configurations again with a slightly different Name (e.g. adding a number or letter to the end of your original GitHub username) so that we can still locate your community on the Nation side. Also, remember to take a screenshot of the new configuration page and post it to the [Discord server](https://discord.gg/mtgGD4EnYW).
 
 4. There is a chance upon having your account approved that the website does not recognize you as registered. You will be stuck infinitely loading and upon refresh, the page will be blank. 
 
@@ -85,7 +85,7 @@ in your planet folder. This destroys and removes your community, pulls the lates
   
   ![Blank](https://user-images.githubusercontent.com/22685147/58755807-be6ad780-84b9-11e9-86b5-c745f584ac41.png) 
   
-  In order to fix this problem, simply follow the procedures stated above in step 3: use `vagrant destroy prod`, then `vagrant up prod`. Afterwards, use a slightly different name for your configuration, take a screenshot of the new configuration page, and post it to the [Gitter chat](https://gitter.im/open-learning-exchange/chat).
+  In order to fix this problem, simply follow the procedures stated above in step 3: use `vagrant destroy prod`, then `vagrant up prod`. Afterwards, use a slightly different name for your configuration, take a screenshot of the new configuration page, and post it to the [Discord server](https://discord.gg/mtgGD4EnYW).
 
 5. When you are trying to access http://localhost:3100 the page may not load at all, even if your account was configured correctly and fully approved. A first step would be to run `vagrant halt prod`. Then, you should proceed to clear the cookies from your browser. This step will be different for each browser. Finally, you should run `vagrant up prod` to restart the VM before you reopen the browser to access the Planet again. **If this does not work, follow the previous steps above to rebuild your planet account.**
 
