@@ -18,6 +18,6 @@ OLE makes use a of a number of tools and services as follows.
 
 1. **Google Hangouts** – Our default application. You can find us at http://talk.ole.org.
 
-2. **Gitter** – OLE maintains a number of chat channels for our work. The main / general channel can be found at https://gitter.im/open-learning-exchange/chat. We also maintain channels for [Tech Geniuses](https://gitter.im/open-learning-exchange/techgenius) and [Virtual Interns](https://gitter.im/open-learning-exchange/interns). These are "closed" rooms so please reach out to us directly if you would like to participate in any of these discussions.
+2. **Discord** – OLE maintains a number of chat channels for our work. The discord server can be found at https://discord.gg/mtgGD4EnYW. We maintain channels for Tech Geniuses and Virtual Interns. These are also "closed" rooms so please reach out to us directly if you would like to participate in any of these discussions.
 
-3. **Skype** – OLE members do use Skype as a fallback but it is not available on all machines. Please use email or one of the Gitter channels to coordinate a Skype meeting if needed.
+3. **Zoom** – OLE members do use Zoom as a fallback. Please use email or one of the discord channels to coordinate a Zoom meeting if needed.

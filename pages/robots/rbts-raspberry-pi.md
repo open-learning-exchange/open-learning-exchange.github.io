@@ -25,12 +25,12 @@ The OLE Raspberry Pi image is a modified [Raspbian](https://www.raspberrypi.org/
 To get started, please go to: [treehouses/builder](https://github.com/treehouses/builder) and open the "READ ME"
 
 ## Raspberry Pi Meetings
-We meet on Wednesdays at 6:00 PM EST online on [http://talk.ole.org](http://talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usually a few minutes after 6:00 PM EST, unless of course the meeting is canceled but that will be stated in the #raspberrypi chat channel on Gitter.
+We meet on Wednesdays at 6:00 PM EST online on [http://talk.ole.org](http://talk.ole.org). Just sign in with your Google account and you're good to go. If nobody is in the hangouts room, someone will be there eventually usually a few minutes after 6:00 PM EST, unless of course the meeting is canceled but that will be stated in the #raspberrypi chat channel on Discord.
 
 ## How can I help?
 So far we are working on creating a seamless experience for the image, meaning we want the user to have many connectivity options without having to tinker too much with the Raspberry Pi. So our main goal at the moment is getting the Raspberry Pi to connect to different connectivity options such as wifi/bluetooth/ethernet automatically. This allows more people to contribute and debug unexpected problems. Once we have those bases covered, we can move onward to the software part.  
 
-There is always something to be done. Check the [GitHub issues](https://github.com/treehouses/builder/issues) for treehouse-builder to see what needs to be done. Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go through the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on Gitter.
+There is always something to be done. Check the [GitHub issues](https://github.com/treehouses/builder/issues) for treehouse-builder to see what needs to be done. Once you've chosen an issue and fixed the problem, create a PR using the same guidelines as the ones used when you had to go through the intern orientation. If you have any questions, just ask! You can find us on the #raspberrypi channel on Discord.
 
 ## Relevant Repositories
 

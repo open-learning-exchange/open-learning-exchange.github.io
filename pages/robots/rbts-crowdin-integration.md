@@ -71,7 +71,7 @@ Hint: When you see an untagged string, it might be helpful to ask yourself where
 
 ![Crowdin Go to Main Page](images/rbts-crowdin-go-to-main-page.png)
 
-Note: In the OLE Crowdin Project you need manager access to see the Settings button on the main page of Crowdin. See the figure below. If you do not see the Settings button, please let us know in the [chat](https://gitter.im/open-learning-exchange/chat).
+Note: In the OLE Crowdin Project you need manager access to see the Settings button on the main page of Crowdin. See the figure below. If you do not see the Settings button, please let us know in the [chat](https://discord.gg/mtgGD4EnYW).
 
 ![Crowdin Settings Button](images/rbts-crowdin-settings-button.png)
 

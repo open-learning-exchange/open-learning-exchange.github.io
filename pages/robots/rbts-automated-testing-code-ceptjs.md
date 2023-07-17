@@ -148,4 +148,4 @@ If you experience some errors, this may be because of the following reasons:
 2. Bell-Apps take a long time to load.
 3. Selenium, or Firefox, or Node JS, or geckodriver are not running in the system yet.
 
-If you face any errors, please contact other interns through _gitter chat_, and may specifically ask for **@lmmrssa** or **@duongdo27**.
+If you face any errors, please contact other interns through _discord server_.

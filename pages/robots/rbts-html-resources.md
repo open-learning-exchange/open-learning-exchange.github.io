@@ -86,7 +86,7 @@ python setup.py build
 python setup.py install
 ```
 
-Note: Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the Gitter chat, and we'll do our best to help you.
+Note: Make sure to check for error messages (found at the bottom of the blocks of text created when running these commands) when building and installing the couchapp. For example, if you're using Python 2.7, you may be prompted to install the [Visual C++ Compiler](https://www.microsoft.com/en-us/download/details.aspx?id=44266). If you do get an error message, let us know in the discord server, and we'll do our best to help you.
 
 **Method 2**
 
@@ -246,4 +246,4 @@ Once you have your zip folder, add your app as a resource like you did during th
 
 Click save. Adding to your community will take some time (30 seconds - 5 minutes). Pushing to the nation will take even longer depending on your internet connection.
 
-Post to gitter if it won't add to your community. Also check to see if index.html opens up the working app on your local machine. If it does, then you can always use method 1 to upload.
+Post to discord if it won't add to your community. Also check to see if index.html opens up the working app on your local machine. If it does, then you can always use method 1 to upload.

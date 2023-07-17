@@ -6,7 +6,7 @@ Welcome to the translation support section. We appreciate any and all translatio
 
 Planet Learning is a virtual library and student management portal that is deployed internationally to support content and opportunity distribution.
 
-As a means of communication we encourage you to subscribe to the [General Gitter Chatroom](https://gitter.im/open-learning-exchange/chat).
+As a means of communication we encourage you to subscribe to the [General Discord Server](https://discord.gg/mtgGD4EnYW).
 
 ## Crowdin
 

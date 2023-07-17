@@ -42,4 +42,4 @@ With your 18 hours each week you should try and do one of the following two thin
 
 2.	Update Take Home guides to help future interns.
 
-If you have any questions feel free to ask anyone in our [Gitter](https://gitter.im/open-learning-exchange/mobile) or Mobile Leads [@leonardmensah]( https://github.com/leonardmensah), [@zeivhann](https://github.com/zeivhann) and me [@kylemathias]( https://github.com/kylemathias).
+If you have any questions feel free to ask anyone in our [Discord server](https://discord.gg/mtgGD4EnYW)

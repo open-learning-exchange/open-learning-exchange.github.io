@@ -56,7 +56,7 @@ Before installing Vagrant on any platform, it is necessary to have at least 7 GB
 You need to install the following programs on your computer:
 
 - **Git**
-[Git](https://git-scm.com) is an open source version control system that we use for communication and management for our software. More specifically, we use gitter.im for communication and github.com for software management. [Download](https://git-scm.com/download/win)
+[Git](https://git-scm.com) is an open source version control system that we use for communication and management for our software. More specifically, we use discord.com for communication and github.com for software management. [Download](https://git-scm.com/download/win)
 
 - **VirtualBox**
 [Virtualbox](https://www.virtualbox.org) allows you to install a software virtualization package as an application on your OS. [Download](https://www.virtualbox.org/wiki/Downloads)

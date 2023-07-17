@@ -53,7 +53,7 @@ You should check if the following conditions are met:
 * [x] no merge conflicts
 * [x] commits are associated with GitHub account
 
-Every time you comment on an issue or review a pull request, message those involved on the [Gitter chat](https://gitter.im/open-learning-exchange/chat) with a link to the issue / pull request. Also, if you find any issue that must be addressed with a pull request, do not forget to use the `Request changes` option when creating your review.
+Every time you comment on an issue or review a pull request, message those involved on the [Discord Server](https://discord.gg/mtgGD4EnYW) with a link to the issue / pull request. Also, if you find any issue that must be addressed with a pull request, do not forget to use the `Request changes` option when creating your review.
 
 ### Merging a Pull Request
 
@@ -68,11 +68,11 @@ When you are ready to merge the pull request:
   * An example of good commit title is: "update vi-configuration.md (fix #1530) (#1557)", where "1530" is the issue number and "1557" is pull request number.
   * Read more about [closing Issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/).
 
-Every time you merge a pull request, message the author on [Gitter chat](https://gitter.im/open-learning-exchange/chat), make sure you include a link to the pull request and commit id.
+Every time you merge a pull request, message the author on [Discord server](https://discord.gg/mtgGD4EnYW), make sure you include a link to the pull request and commit id.
 
 ### Standup Message
 
-Every time you work on OLE projects and issues, you should post the "[stand-up](https://en.wikipedia.org/wiki/Stand-up_meeting)" message in [our Gitter standup room](https://gitter.im/open-learning-exchange/standup) before you start working. Use the following format:
+Every time you work on OLE projects and issues, you should post the "[stand-up](https://en.wikipedia.org/wiki/Stand-up_meeting)" message in [our discord standup room](https://discord.gg/mtgGD4EnYW) before you start working. Use the following format:
 
 ```
 What did I achieve yesterday?
@@ -93,9 +93,9 @@ This is especially helpful if you are not able to attend our Google Hangouts ses
 
 While you are free to work in your own style, we recommend you follow this basic daily routine:
 
-* Check Gitter interns room and your Gitter private messages.
+* Check Discord virtual interns channel and your discord private messages.
 * Join the [OLE Google Hangouts session](http://talk.ole.org) if you are able to, so you can follow what everyone is working on and get help fast.
-* Write a message in [Gitter standup room](https://gitter.im/open-learning-exchange/standup) with the format mentioned above.
+* Write a message in [Discord standup room](https://discord.gg/mtgGD4EnYW) with the format mentioned above.
 * Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
 * Work on your issues and write in intern chat any time you run into problems.
 * Make pull requests as early as possible so you can get feedback as you work.
@@ -129,6 +129,6 @@ Please subscribe to our calendar:
 
 ## Communicate, Communicate, Communicate!
 
-It’s not good to go silent on Gitter or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the Gitter chat. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Also make sure you are `away` in the [OLE google hangout](http://talk.ole.org/). Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self-discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it!
+It’s not good to go silent on Discord or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the Discord server. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Also make sure you are `away` in the [OLE google hangout](http://talk.ole.org/). Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self-discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it!
 
 Also, if you find any issue that must be addressed with a pull request, do not forget to use the `Request changes` option when creating your review.

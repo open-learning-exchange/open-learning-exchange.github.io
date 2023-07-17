@@ -1,6 +1,6 @@
 # Planet
 
-_Note: This project page is a work in progress. Please reach out on the gitter chat if you would like to contribute to this project_
+_Note: This project page is a work in progress. Please reach out on the discord server if you would like to contribute to this project_
 
 ## Objective
 
@@ -33,7 +33,7 @@ This project is built with the [Angular CLI](https://cli.angular.io/), and once 
 
 ## Working on a Component
 
-Once you have the app up and running, you can start working on a component! You can find tasks to work on [Waffle.io](https://waffle.io/open-learning-exchange/planet). Feel free to post to the Gitter chat or check out the [Angular docs](https://angular.io/docs) if you need some guidance on Angular or JavaScript. Here we'll focus on some key points you should be aware of.
+Once you have the app up and running, you can start working on a component! You can find tasks to work on [Waffle.io](https://waffle.io/open-learning-exchange/planet). Feel free to post to the discord server or check out the [Angular docs](https://angular.io/docs) if you need some guidance on Angular or JavaScript. Here we'll focus on some key points you should be aware of.
 
 ### Keeping Things Organized
 
