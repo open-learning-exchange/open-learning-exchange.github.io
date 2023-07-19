@@ -96,9 +96,11 @@ First, before creating your file, we need to create a new branch
 
   ![New Branch](images/vi-new-branch.png)
 
+Note: For the next steps be sure to use the relevant folder based on your internship: `pages/vi/profiles` for web interns or `pages/mi/profiles` for mobile interns
+
 Next, we are going to create your page
 
-1. Go to the `pages/vi/profiles` folder
+1. Go to the `pages/vi/profiles` or `pages/mi/profiles` folder
 1. Make sure you are still on the new branch you just created, look for "Branch: **new-branch-name**" on the branch selector menu
 1. Click `Create new file` button
 1. Name the file exactly the same as your GitHub username with file extension `.md`
@@ -128,7 +130,7 @@ If you need to edit your file again, click the pencil icon to edit (as shown bel
 
 
 
-Now, check what this looks like on your own page `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`. The raw.githack link allows reviewers to preview your changes. Please double check that everything looks good and is working as you hoped before moving on to next section.
+Now, check what this looks like on your own page `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md` or `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/mi/profiles/YourUserName.md`. The raw.githack link allows reviewers to preview your changes. Please double check that everything looks good and is working as you hoped before moving on to next section.
 
 **NOTE**:
 • If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 (on **Mac**: Cmd+Shift+R) to reload the page with cache cleared.
@@ -158,7 +160,7 @@ Remember, it can take a while for `https://YourUserName.github.io` to be up and 
 
 Someone from our team will review the changes and notify you on discord. Often there will be some feedback from the reviewer for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will be automatically updated in the pull request. Once you get 3 approving reviews, we will merge your Markdown profile with the main repository.
 
-After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/vi/profiles/<YourUserName>.md`. Let us know in the [discord server](https://discord.gg/mtgGD4EnYW) after you complete this step.
+After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/vi/profiles/<YourUserName>.md` or `open-learning-exchange.github.io/#!pages/mi/profiles/<YourUserName>.md`. Let us know in the [discord server](https://discord.gg/mtgGD4EnYW) after you complete this step.
 
 **NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/vi/profiles). Be creative.
 
