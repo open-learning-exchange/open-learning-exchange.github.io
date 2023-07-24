@@ -40,9 +40,14 @@ The following hardware is required for the internship:
 NOTE: Raw.githack link above is case sensitive to your username.
 
 ## Step 2 - Getting myPlanet App
-
-- myPlanet application is only available for Android devices. You can find myPlanet application in the play store.
-- If you follow this link for myPlanet on Play Store you will be able to reach myPlanet in playstore. You can then install myPlanet from there on your phone.
+- To download latest go to [myPlanet latest release](https://github.com/open-learning-exchange/myplanet/releases/latest) on the myPlanet GitHub page, you should see a list of files under the latest release. Look for the file named **"myPlanet.apk"**. This is the Android installation file for the myPlanet app.
+- Click on the **"myPlanet.apk"** file to start the download. Depending on your browser settings, you may be prompted to choose a download location or the download may start automatically.
+- Once the download is complete, navigate to the location where the **"myPlanet.apk"** file was downloaded. This is typically the "Downloads" folder on your device.
+- Before installing the app, you may need to enable the installation of apps from unknown sources if you haven't already. To do this, go to your device's settings, then navigate to "Security" or "Privacy," and look for the "Unknown sources" option. Enable it by toggling the switch.
+- Now, go back to the location where the **"myPlanet.apk"** file is stored, and tap on the file to start the installation process.
+- You may be asked to confirm the installation. Click "Install" to proceed.
+- The myPlanet app will now be installed on your Android device. Once the installation is complete, you can find the app icon on your home screen or in the app drawer.
+- Tap on the myPlanet app icon to launch the application and start using it.
 
 ## Step 3 - Build myPlanet in Android Studio
 Download, install and Set up Android Studio
