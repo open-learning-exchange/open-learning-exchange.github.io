@@ -9,6 +9,14 @@ Thank you for contributing! -->
 <!-- issue number this pull request resolves -->
 Fixes #
 
+Before submitting your PR, there are a few things you can do to make sure it goes smoothly:
+- [ ] Make sure to open a GitHub issue request before writing your code! That way we can discuss the change, evaluate designs, and agree on the general idea
+- [ ] Ensure the tests are added/updated (if necessary)
+- [ ] Appropriate docs were updated (if necessary)
+
+## Screenshots or Screencast 
+<!-- if applicable -->
+
 ### Description
 
 
