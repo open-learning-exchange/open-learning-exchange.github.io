@@ -9,10 +9,7 @@ Thank you for contributing! -->
 <!-- issue number this pull request resolves -->
 Fixes #
 
-## Screenshots or Screencast 
-<!-- if applicable -->
-
-### Description
+### Description, Screenshots and/or Screencast 
 
 ### Raw.Githack preview link
 <!-- raw.githack link to page(s) changed -->
