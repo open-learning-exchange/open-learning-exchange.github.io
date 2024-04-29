@@ -96,8 +96,7 @@ In this new Markdown file, include the following information:
 
 Use the "Preview" tab to see how your Markdown will look. Aim to use at least five different types of Markdown elements for variety. Avoid HTML, as the purpose of Markdown is to keep things simple. Consider creative examples, like:
 
-- [Profile 1](profiles/Okuro3499.md) (using a table)
-- [Profile 2](../../vi/profiles/paulbert.md) (using lists)
+- [Profile 1](profiles/Okuro3499.md) (using table and lists)
 
 When you're ready, click the green "Commit changes..." button. If you need to edit your file again, click the pencil icon.
 
@@ -112,9 +111,9 @@ Afterward, preview your changes on this link: https://raw.githack.com/YourUserNa
 
 Once you have your profile ready, it's time to create a pull request. Click on one of the "Pull request" buttons as highlighted in the screenshot below.
 
-![Initiate Pull Request](../vi/images/vi-initiate-pull-request.png)
+![Initiate Pull Request](image/mi-initiate-pull-request.png)
 
-![Complete Pull Request](../vi/images/vi-create-pull-request.png)
+![Complete Pull Request](image/mi-create-pull-request.png)
 
 **There are a few things to watch out before clicking on the green "Create pull request" button**. Make sure you:
 
@@ -136,18 +135,15 @@ After the pull request is merged, you'll be able to see your personal page at `o
 
 After your pull request has been **approved** and **merged** by OLE staff, you might want to delete the branch that is associated with your pull request. It can keep your remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below).
 
-![Delete Merged Branch](../vi/images/vi-delete-merged-branch.png)
+![Delete Merged Branch](image/mi-delete-merged-branch.png)
 
 ## 4. Useful Links
 
-[GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
+- [Basic writing and formatting syntax - GitHub Docs](https://guides.github.com/features/mastering-markdown/)
+- [MDWiki – Quick Start](http://dynalon.github.io/mdwiki/#!quickstart.md) - The official MDwiki quick start guide on Markdown syntax.
+- [Fork a repository - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) - A more in-depth explanation about how and why we fork repositories.
+- [Managing files - GitHub Docs](https://docs.github.com/en/repositories/working-with-files/managing-files)
 
-[MDWiki – Quick Start](http://dynalon.github.io/mdwiki/#!quickstart.md) - The official MDwiki quick start guide on Markdown syntax.
-
-[GitHub - Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A GitHub help page on how to format and write, along with working with saved replies.
-
-[GitHub - How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in-depth explanation about how and why we fork repositories.
-
-[Other helpful links and videos](vi-faq.md#Helpful_Links)
+[Other helpful links and videos](../vi/vi-faq.md#Helpful_Links)
 
 #### Return to [First Steps](mi-10-steps.md#Step_1_-_GitHub_&_Markdown_Setup)
