@@ -4,11 +4,11 @@
 
 Welcome to the first steps for becoming an OLE Virtual Mobile Intern! We treat these first steps as a vetting process to prove that you can follow simple instructions before you can progress to working on harder projects in bigger teams. Consider them to be the interview for the internship.
 
-If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the Virtual Interns Discord chatroom and assign you to a specific team to work on developing and improving OLE’s software. Our current projects can be found [here](#!./pages/robots/rbts-intern-orientation.md#Familiarize_Yourself_with_Current_Projects_and_Issues).
+If you are selected for the internship after completing the steps, you will be officially invited to join the OLE interns team! We’ll add you to the Virtual Interns Discord channel and assign you to a specific team to work on developing and improving OLE’s software. Our current projects can be found [here](mi-intern-orientation.md#Familiarize_Yourself_with_Current_Projects_and_Issues).
 
 Once accepted, you and your team will work on an assignment, and we’ll switch up the assignments each week. As part of this internship, you will have the opportunity to work with software and languages including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Vagrant](https://www.vagrantup.com/)**, **[VirtualBox](https://www.virtualbox.org/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Docker](https://www.docker.com/)**, **[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**, **[Node.js](https://nodejs.org/en/)**, **[Angular](https://angular.io/)**, **[Java](https://www.tutorialspoint.com/java/index.htm)**, and **[Kotlin](https://kotlinlang.org/)**.
 
-**NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found in our [FAQ](https://open-learning-exchange.github.io/#!pages/vi/vi-faq.md#General_Internship_Questions). If you have further questions, don’t hesitate to ask other members in the Discord Server!
+**NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found in our [FAQ](mi-faq.md#General_Internship_Questions). If you have further questions, don’t hesitate to ask in the Discord Server!
 
 # The Steps
 
@@ -16,7 +16,7 @@ Social coding is a huge part of any open source and collaborative project, and t
 
 Because these steps are simple, we expect high-quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the Planet, using Vagrant and Docker, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice here are very important for both this internship and a future software development career.
 
-The MDwiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step. We also created a [FAQ page](https://open-learning-exchange.github.io/#!pages/vi/vi-faq.md) where you can find the answers to some commonly asked questions. This page has even more [useful links and video tutorials](https://open-learning-exchange.github.io/#!pages/vi/vi-faq.md#Helpful_Links) that will help you become familiar with the tools/languages we use. For anything that is not on the FAQ page, Google and Stack Exchange are your friends :)
+The MDwiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step. We also created a [FAQ page](mi-faq.md) where you can find the answers to some commonly asked questions. This page has even more [useful links and video tutorials](mi-faq.md#Helpful_Links) that will help you become familiar with the tools/languages we use. For anything that is not on the FAQ page, Google and Stack Exchange are your friends :)
 
 **We also want you to keep us updated a relatively good amount in the Discord chat as you complete these steps. We will ask you to send us messages, links, and screenshots along the First Steps, and we will use this to track your progress, so please do not forget to do so.**
 
@@ -123,7 +123,7 @@ In this step you will be connecting your application, myPlanet, to an angular-ba
 
 ## Step 6 - Github Issues tutorial
 
-* Follow the tutorial under the [GitHub Issues](../vi/vi-github-issues.md) to create at least one issue. Post a link in the discord channel whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
+* Follow the tutorial under the [GitHub Issues](mi-github-issues.md) to create at least one issue. Post a link in the discord channel whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
 * No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file.
 * You can also work on issues that you didn't create. Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged.
 
@@ -142,7 +142,7 @@ In this step you will be connecting your application, myPlanet, to an angular-ba
 
 ## Step 8 - Create Issues and Pull Requests
 
-Create 3 more issues, add comments to 3 other issues, and resolve 3 issues by making the necessary changes in your repo with 3 separate pull requests. You should resolve 3 issues created by yourself, and make sure to mention in the issue that you are working on it. Be sure to seek confirmation from the OLE team before starting work on your issues. You will follow the same steps as in [GitHub Issues tab](../vi/vi-github-issues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
+Create 3 more issues, add comments to 3 other issues, and resolve 3 issues by making the necessary changes in your repo with 3 separate pull requests. You should resolve 3 issues created by yourself, and make sure to mention in the issue that you are working on it. Be sure to seek confirmation from the OLE team before starting work on your issues. You will follow the same steps as in [GitHub Issues tab](mi-github-issues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
 
 Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests and have them each approved by at least two other OLE team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the Discord chat so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
 
@@ -162,7 +162,7 @@ Once you complete Step 8 you will have:
 
 ## Step 9 - Be part of the team
 
-* Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](../vi/vi-nation.md)).
+* Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](mi-nation.md)).
 
-  Next thing is to add yourself to the virtual intern list found in [vi-team.md](../vi/vi-team.md) and create a pull request. Message us ("@.giddie", "@dogi" and "@everyone") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
-  Make sure to read through the [intern orientation document](../robots/rbts-intern-orientation.md) before the meeting.
+  Next thing is to add yourself to the virtual intern list found in [mi-team.md](mi-team.md) and create a pull request. Message us ("@.giddie", "@dogi" and "@vi-mobile") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
+  Make sure to read through the [intern orientation document](mi-intern-orientation.md) before the meeting.
