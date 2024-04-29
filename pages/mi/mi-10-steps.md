@@ -32,72 +32,36 @@ The following hardware is required for the internship:
 2. Android device (phone or tablet) with minimum 2GB RAM and at least Android 6 "Marshmallow"
 3. Internet connection
 
-## Step 1 - GitHub & Markdown Setup
+## Step 1 - GitHub & Markdown
 
-- Follow the instructions on the [GitHub and Markdown page](../../pages/vi/vi-github-and-markdown.md) page. Make sure that you've linked to your github.io and pull request on the Discord channel (https://YourUserName.github.io and LinkToYourPullRequest).
-- Include Raw.githack link in your pull request (https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
+- Follow the instructions on the [GitHub and Markdown page](mi/mi-github-and-markdown.md). Make sure that you've linked to your github.io page and pull request on the Discord channel.
+- Include Raw.githack link in your pull request (https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/mi/profiles/YourUserName.md).
 
 NOTE: Raw.githack link above is case sensitive to your username.
 
 ## Step 2 - Getting myPlanet App
 
-- myPlanet application is only available for Android devices. You can find myPlanet application in the play store.
-- If you follow this link for myPlanet on Play Store you will be able to reach myPlanet in playstore. You can then install myPlanet from there on your phone.
+myPlanet is an Android app available on the Play Store. Please find and install it there using [this link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
 
 ## Step 3 - Build myPlanet in Android Studio
-Download, install and Set up Android Studio
-- Go to [Android official website](https://developer.android.com/studio/install) and follow the steps to install and setup android studio which is the recommended android IDE depending on your laptop Operating System.
-- Follow the steps on [myPlanet Github Repository](https://github.com/open-learning-exchange/myplanet#getting-started-for-users) to get myplanet code cloned on your laptop.
 
-**Open Android Studio:**
- Launch Android Studio on your computer. If this is your first time using Android Studio, it may take a moment to set up the initial configuration.
+Follow the guide at [myPlanet and Android Studio](mi-myplanet-and-android-studio.md) to clone myPlanet repository from GitHub and build the myPlanet app with Android Studio.
 
-**Import the Project:**
- In Android Studio, click on "Open an existing Android Studio project" or navigate to "File" > "Open" and select the cloned repository folder that contains the Android app project. Click "OK" to import the project.
+## Step 4 - Connect myPlanet to Planet
 
-**Gradle Build:**
- After importing the project, Android Studio will perform a Gradle build, which may take a few moments. Gradle is the build system for Android projects, and it will download any necessary dependencies for the project.
+In this step, you will connect the myPlanet app that you built with Android Studio on your local machine to our Angular-based web app, Planet. This connection enables data and resource sharing between the two applications. Follow these steps:
 
-**Configure Emulator or Connect Device:**
- To run the app, you need to set up either an Android emulator or connect a physical Android device to your computer:
-    - Emulator: In Android Studio, you can create a virtual device emulator by navigating to "Tools" > "AVD Manager." Follow the prompts to create a new virtual device based on your preferred device configuration.
-    - Physical Device: If you want to run the app on a physical Android device, connect it to your computer using a USB cable and ensure that USB debugging is enabled in the device's developer options.
-
-**Select Run Configuration:**
- In Android Studio's toolbar, select the desired run configuration from the drop-down menu. It should be the name of your app module.
-
-**Run the App:**
- Click on the "Run" button (typically a green play button) or use the keyboard shortcut "Shift + F10" (Windows) or "Control + R" (Mac) to run the app. Android Studio will deploy the app to the emulator or connected device.
-
-**App Launch:**
- Once the app is installed on the emulator or device, it will automatically launch. You can interact with the app and test its functionality.
-
-## Step 4 - Connect myPlanet to planet vi
-
-In this step you will be connecting your application, myPlanet, to an angular-based web app, Planet. This connection will allow you to share data and resources between the two applications. To establish the connection, follow the instructions below:
-
-- To start using myPlanet, the app requires certain permissions from the user. These  permissions include access to storage (to save and retrieve data), location (for location-based features or services), audio (possibly for recording or playing audio content), and camera (for capturing images or utilizing augmented reality features, if applicable).
-  
-    ![Storage Access Permission Screenshot](image/mi-storage-access-permission.png)
-    ![Location Access Permission Screenshot](image/mi-location-access-permission.png)
-- After granting the necessary permissions, the next step in the process involves configuring the IP address and pin in order to establish a connection with the Planet server. The IP address is likely the network address or hostname of the server where the Planet application's data is stored. The provided pin is a security measure to ensure authorized access to the server.
-- Begin by locating the settings icon within the myPlanet application. This icon is typically represented by a gear or cogwheel symbol. Click on the settings icon to initiate a pop-up dialog box.
-
-  ![Server Settings Button Screenshot](image/mi-server-settings-button.png)
-- Once the dialog box appears, you will see a form where you need to enter the IP address and password. These details will be provided to you by the administrator. Enter the IP address and password accurately into the respective fields.
-
+- **Configuration**: In myPlanet, click the settings gear icon in the upper-right corner to open the settings dialog box. Leave the default server configurations as they are, then click "SYNC".
   ![Server Address Popup Screenshot](image/mi-server-address-popup.png)
-- After entering the IP address and password, click on the "Sync" button. This action will initiate the synchronization process between myPlanet and planet vi. It will establish a connection between the two applications, enabling data exchange and collaboration.
 
-  ![Syncing Screenshot](image/mi-syncing.png)
-- Once the synchronization process is completed successfully, you can proceed to create a user account within the planet vi application.
-- Locate the option to "Become a member" to create a new user account. Fill in the necessary details requested
-- Make note of these credentials or store them securely, as you will need them to log in to the planet vi application.
+- **Create a User Account**: After syncing, click "BECOME A MEMBER" and fill in the required information to create an account. Keep your credentials secure, as you'll need them for future logins.
 
-  ![Become a Member Screenshot](image/mi-become-member.png)
-- By following these steps, you will successfully connect myPlanet to planet vi and create a user account within the planet vi application, allowing you to utilize the interconnected features and resources between the two applications.
+- **Sign In**: Use the username and password you just created to log in to myPlanet. You have now successfully connect myPlanet app to planet server, this allows you to utilize the interconnected features and resources between the two applications.
 
 ## Step 5 - Vysor Course
+
+To gain a better understanding of the myPlanet app's capabilities, it's helpful to take courses that explain specific features. In this step, you'll learn how to navigate the myPlanet dashboard and join the "How to Use Vysor" course to understand screen mirroring and remote control. Here's how to proceed:
+
 - After successfully logging into the myPlanet app, users are directed to the myPlanet dashboard, which serves as the home screen of the application. The dashboard provides a centralized and convenient hub where users can access various features, information, and tools available within the app.
 - On the myPlanet dashboard, users may find a range of options and widgets tailored to their preferences and needs. These can include shortcuts to frequently used features, personalized recommendations, notifications, progress updates, and more. The dashboard is designed to provide users with a quick overview and easy navigation to different sections of the app.
 - To proceed further and access the courses offered within the myPlanet app, users are instructed to click on the "courses" section. This action will take them to a dedicated page or view that presents a list of existing courses available within the app's catalog.
