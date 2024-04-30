@@ -1,43 +1,47 @@
-# GitHub Issues (Step 6)
+# GitHub Issues Tutorial
 
-## Objectives
+## 1. Objectives
 
-* Learn about Issues, Commits, and Pull Requests
-* Understand the collaborative git/GitHub work-flow that will be used throughout the internship
-* Create an issue, and upon admin approval, create a branch to fix it
-* After resolving the issue in the branch, make a pull request to the open-learning-exchange repository which is the [upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)
-* Work with admins to make adjustments if necessary, and merge your branch into the upstream
-* Comment on an existing issue
+- Learn about GitHub Issues, Commits, and Pull Requests
+- Understand the collaborative git/GitHub workflow used during the internship
+- Create an Issue, then create a branch to fix it upon approval
+- After resolving the Issue, make a Pull Request to the `open-learning-exchange/open-learning-exchange.github.io` upstream repository
+- Work with us to make necessary changes, then merge the branch into the upstream repository
+- Comment on an existing Issue
 
-## Introduction
+## 2. Introduction
 
-On GitHub, each repository has a section where issues can be added, discussed, and fixed as a means of categorizing and addressing problems we find. Issues are often opened by our team to fix software bugs on the Planet/Community and in our code.
+GitHub repositories have a section for Issues, where problems can be categorized, discussed, and fixed. Issues are often opened by our team members to create new features or fix bugs in our projects. This tutorial guides you through the process of creating Issues, branching, making Pull Requests, and collaborating with team members.
 
-NOTE: Issues are not just about adding to the wiki, but can also involve removing repetitive or unnecessary code or content. (please refer to [#1108](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1108))
+We encourage you to file as many issues as possible, whether large or small. If you spot a problem but don't know how to solve it, file an issue so others are aware and can work on a solution. Aim to add as much value as possible with your issues, as this helps support the community and enhances the overall quality of this MDwiki site.
 
-We encourage you to file as many issues as you can, no matter how big or small. If you notice something but are not sure how to solve it, file an issue anyway to let others know about it so it can be fixed. Strive to provide as much value as possible with the issues you submit. By doing so, you will better support the community and improve this section for all.
+NOTE: Issues are not just about adding new content or improving this MDwiki; they can also involve removing redundant or unnecessary material. The goal is to keep the documentation clear and concise. If you find sections that could be simplified or reduced, feel free to create an issue to help streamline the process.
 
-Below, you'll find the workflow where we brought up a problem, researched an answer, and then fixed the issue.
+## 3. Create an Issue
 
-## Create an Issue
+You might have already noticed something that could be improved by the time you reach this step, if so, please search existing open and closed issues to make sure it's not brought up already and there isn't an open pull request for it. If not, please look around to find one.
 
-First, you will need to open an issue within the right repository ([upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)) and explain the problem. If you are explaining a bug or how to replicate an issue, please be as explicit as possible and use pictures as necessary. You will then research the possible solutions or ideas on how to address the issue before detailing your proposed solution, as you can see [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1985). Someone else will hopefully provide input, and then you can move ahead with making the proposed changes.
+- To create an issue, navigate to the ([upstream repository's Issues tab](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues)) and click "New Issue." Pick a suitable title, then follow the new issue template in the "Write" textbox:
+    1. **Problem**: describe the problem in detail
+    2. **Steps to reproduce the problem**: Typically, this would be a link to our MDwiki page containing the problem. If you're reporting a bug, provide clear instructions to replicate it.
+    3. **Screenshots**: including screenshots can be helpful sometimes
+    4. **Proposed solution**: before detailing a solution, research potential fixes or suggestions
+- You can reference [this example](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1985) to see how a good issue uses the issue template and follows a clear structure.
+- After submitting your issue, others may offer feedback, guiding you to the right approach.
 
-![Providing Detail on New Issue](images/vi-new-issue-format.JPG)
+![Detail for New Issue Template](image/mi-new-issue-format.jpg)
 
-**IMPORTANT:** Issues are _not required_ to be approved _before_ a Pull Request is submitted for the respective fix; however, we do suggest that you wait until someone from the OLE confirms/approves the change that your issue addresses BEFORE you begin work on the fix. Check out this example issue, per Dogi, that shows the importance of confirmation: [#1465](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1465).  
+**Note**: While creating a Pull Request doesn't require prior approval, it's best to wait for confirmation of the issue from our team before working on a fix. If your suggested changes don't align with project goals, your Pull Request might not be merged, and your work won't count toward "First Steps" progress. By seeking approval first, you can avoid wasted effort and rework.
 
-**BE WARNED!** If the OLE member(s) does not approve your issue, prior to the creation of the Pull Request, your efforts may be in vain. If the OLE member(s) does not approve the change, the Pull Request will not be merged and the issue will not be counted towards your "First Steps" progress. Therefore, it is suggested that you wait for the OLE member(s) to approve your issue submission.
+**Existing Issues:** You can also work on existing issues. If an issue is tagged `first step intern`, you can request to work on it by messaging us in Discord. If someone else is already assigned or has stated their intent to work on it in the issue's comment section, don't work on that issue; choose another one instead.
 
-**Already available issues:** You can also help on issues which have already been created. Issues which are tagged as `first step intern` can be taken and worked on. Please make sure when you start working on these issues that you assign yourself to said issue or ask to be assigned. If someone else is already assigned to an issue, do not try to work on that issue.
+_**Special Note**_:
+- Interns often rush through this process to complete their "First Steps." Remember that these steps aim to fix genuine problems and improve the workflow. Take time to examine the "First Steps" materials to find real issues and research the best solutions. Also, ensure the issue hasn't already been identified.
 
-_**SPECIAL NOTE**_:
-• Aspiring Virtual Interns have a tendency to speed through this process in order to check off their "First Steps" requirements. The purpose of these requirements is to fix an actual problem and improve the "First Steps" as a whole. Take time to review the "First Steps" materials to identify real issues and to research helpful solutions. It is also important to search current/open issues to see if the problem has already been identified.
-• You will need to be a member to assign yourself to an issue or ask to be assigned to one.
-
-## Create a New Branch
+## 4. Create a New Branch
 
 **Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other.**
+
 Before you create your branch, sync your repo using the commands:
 `git fetch upstream`  
 `git checkout master`
@@ -58,13 +62,13 @@ If you're still confused, that's quite alright. [Forking Workflow](https://www.a
 
 ![GitHub Repo Flowchart](images/vi-repo-flowchart.png)
 
-### Preview Changes Locally
+### 4.1. Preview Changes Locally
 
 After making modifications to your local files and before making a commit, you would want to preview the changes locally. The following link, [how to preview changes](http://dynalon.github.io/mdwiki/#!faq.md), gives all the information about how to preview changes from your machine. There's also another option to preview using online environment. This [link](https://dillinger.io/) takes you to the online environment.
 
  NOTE: In case you have come up with the wrong edit and if you'd like to revert it back to the previous version of the file follow this        [link](https://githowto.com/undoing_local_changes). This is applicable only before committing the change.
 
-## Create a Commit and Push the Changes
+## 5. Create a Commit and Push the Changes
 Use the next commands to commit and push the changes:
 
 1.  `git status` to see which files in the working directory have been modified.
@@ -73,11 +77,11 @@ Use the next commands to commit and push the changes:
     or `git add <file1> <file2> <file3>...` to stage specific modified files.
 
 3.  `git commit -m "<your_commit_message> (fixes #<issue_no>)"`
-	(refer to the commit message guidelines below).
+  (refer to the commit message guidelines below).
 
 4.  `git push -u origin <name_of_your_new_branch>` to save your changes and push them to your GitHub (for any further commit on the same branch after the first one, you can just use `git push`).
 
-### Commit Message Style Guide
+### 5.1. Commit Message Style Guide
 
 Because the commits you will be making on this markdown wiki are fairly basic, it is not necessary to enforce a wordy commit style. However, in the future, when you start to work on more complex projects, it is helpful to write your commit messages in a certain way. Here is an article on [how to write good commit messages](https://chris.beams.io/posts/git-commit/).
 
@@ -93,7 +97,7 @@ Here is an example of how you would write your commit message:
 
 NOTE: In your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
-### Raw.githack
+### 5.2. Raw.githack
 
 Raw.githack is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/#!index.md` and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request. If you need to change the file path try: `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/#!{file path separated by /}`.
 
@@ -101,27 +105,27 @@ For example, http://raw.githack.com/aasenomad/aasenomad-ole.github.io/master/#!i
 
 ![Index via Raw.githack Link](images/vi-raw.githack-index.png)
 
-#### Raw.githack Generator
+#### 5.2.1 Raw.githack Generator
 
 ![Raw.githack Generator](images/raw.githackGenerator.png)
 
 You can also use the raw.githack url generator on <https://raw.githack.com>
 1.  Select the branch you were working on from the drop-down on the top left
-2.  Navigate to the page you changed in your fork of the GitHub repository  
+2.  Navigate to the page you changed in your fork of the GitHub repository
 3.  Copy the URL in your browser and paste it in the field on <https://raw.githack.com>
 4.  Select the Development URL
-5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.  
+5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.
 
-**example:**  
+**example:**
 
-https://raw.githack.com/nvrqt03/nvrqt03.github.io/nvrqt03-githack-update/#!pages/vi/vi-github-issues.md  
+https://raw.githack.com/nvrqt03/nvrqt03.github.io/nvrqt03-githack-update/#!pages/vi/vi-github-issues.md
 
 
 ![example](images/vi-raw.githack-example.png)
 
 Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a raw.githack link in your next step, the pull request.
 
-## Create a Pull Request
+## 6. Create a Pull Request
 If you login to your own fork of OLE on Github, GitHub will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Press the green button that says Compare & pull request. In this new page, give the PR a title and description. Once you are done with filling out these forms, submit the pull request by clicking on the green create pull request button.
 
 ![Compare & Pull](images/vi-compare-pull.png)
@@ -144,7 +148,7 @@ Some of these items are of course optional, but try to include as much useful in
 
 NOTE: While you are waiting on two OLE team members to approve your Pull Requests, it is OK to keep creating more Issues and Pull Requests in the meantime. They will all count towards your final Issue/PR total, and PR approval can take time, so do not let a lengthy approval/fix process keep you from moving on in your "First Steps".
 
-## Delete the Branch
+## 7. Delete the Branch
 
 *  **Wait for the pull request merge!**
 All that remains is posting your pull request in the chat and waiting until one of the OLE staff gets a chance to look at it. Be aware that a staff member may either submit a code review asking you to modify some of your changes, or accept the pull request and close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
@@ -159,35 +163,20 @@ To delete the defunct branch in your local repository, use the command `git bran
 
 NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md).
 
-This is an exercise to help you familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.  
+This is an exercise to help you familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
-## Comment on an Existing Issue
+## 8. Comment on an Existing Issue
 
 You will need to make **at least one comment** on an issue you did **not** create.
 
-1.  Go to the [upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io)  
+- Navigate to the [open-learning-exchange/open-learning-exchange.github.io repository's Issues tab](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues).
+- Browse some recent issues and leave a comment on those where you can provide *meaningful and useful feedback*.
+- Under "Add a comment", write your comment with Markdown syntax if necessary, click on the "Preview" tab to review, and click the "Comment" button.
 
-2.  Click on the ` Issues ` Tab   
+## 9. Useful Links
 
-3.  Click on an issue, and read it thoroughly  
+- [Quickstart for GitHub Issues | GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
+- [FAQ - Helpful Links and Videos](mi-faq.md#Helpful_Links)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
-4.  Scroll down and add your comment in the **Write** box (comments are always written in Markdown, so click on **Preview** to see how your comment looks like)
-5.  Click on **Comment** when finished   
-
-
-
-![comment box](images/vi-github-issues-comment.png)   
-
-**NOTE**: Make sure your comment is made with a purpose and provides useful feedback    
-
-## Useful Links
-
-[Mastering Issues](https://guides.github.com/features/issues/) - The official Git Guide on the basics of filing an issue.
-[Helpful links and videos](vi-faq.md#Helpful_Links)
-[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-
-## Next Section _([Step 7](vi-nation.md))_ **→**
-
-In the next step, you will learn how to sync your Community Planet with the Nation.
-
-#### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)
+#### Return to [First Steps](mi-10-steps.md#Step_6_-_GitHub_Issues_Tutorial)
