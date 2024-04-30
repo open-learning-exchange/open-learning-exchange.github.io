@@ -52,9 +52,6 @@ Download, install and Set up Android Studio
 **Open Android Studio:**
  Launch Android Studio on your computer. If this is your first time using Android Studio, it may take a moment to set up the initial configuration.
 
-**Import the Project:**
- In Android Studio, click on "Open an existing Android Studio project" or navigate to "File" > "Open" and select the cloned repository folder that contains the Android app project. Click "OK" to import the project.
-
 **Gradle Build:**
  After importing the project, Android Studio will perform a Gradle build, which may take a few moments. Gradle is the build system for Android projects, and it will download any necessary dependencies for the project.
 
@@ -77,7 +74,7 @@ Download, install and Set up Android Studio
 In this step you will be connecting your application, myPlanet, to an angular-based web app, Planet. This connection will allow you to share data and resources between the two applications. To establish the connection, follow the instructions below:
 
 - To start using myPlanet, the app requires certain permissions from the user. These  permissions include access to storage (to save and retrieve data), location (for location-based features or services), audio (possibly for recording or playing audio content), and camera (for capturing images or utilizing augmented reality features, if applicable).
-  
+
     ![Storage Access Permission Screenshot](image/mi-storage-access-permission.png)
     ![Location Access Permission Screenshot](image/mi-location-access-permission.png)
 - After granting the necessary permissions, the next step in the process involves configuring the IP address and pin in order to establish a connection with the Planet server. The IP address is likely the network address or hostname of the server where the Planet application's data is stored. The provided pin is a security measure to ensure authorized access to the server.
@@ -98,11 +95,11 @@ In this step you will be connecting your application, myPlanet, to an angular-ba
 - By following these steps, you will successfully connect myPlanet to planet vi and create a user account within the planet vi application, allowing you to utilize the interconnected features and resources between the two applications.
 
 ## Step 5 - Vysor Course
-- After successfully logging into the myPlanet app, users are directed to the myPlanet dashboard, which serves as the home screen of the application. The dashboard provides a centralized and convenient hub where users can access various features, information, and tools available within the app.
-- On the myPlanet dashboard, users may find a range of options and widgets tailored to their preferences and needs. These can include shortcuts to frequently used features, personalized recommendations, notifications, progress updates, and more. The dashboard is designed to provide users with a quick overview and easy navigation to different sections of the app.
-- To proceed further and access the courses offered within the myPlanet app, users are instructed to click on the "courses" section. This action will take them to a dedicated page or view that presents a list of existing courses available within the app's catalog.
-    
-  ![Dashboard Screenshot](image/mi-dashboard.png)   
+
+To gain a better understanding of the myPlanet app's capabilities, it's helpful to take courses that explain specific features. In this step, you'll learn how to navigate the myPlanet dashboard and join the "How to Use Vysor" course to understand screen mirroring and remote control. Here's how to proceed:
+
+  ![Dashboard Screenshot](image/mi-dashboard.png)
+
 - To enhance your understanding of Vysor, a screen mirroring and remote control application, you should consider enrolling in the "How to Use Vysor" course. This course can be found within the courses tab of myplanet.
 - Once you locate the course, click on it to join and access the valuable content it offers. The course is designed to provide you with a comprehensive understanding of Vysor's features and functionalities. It will guide you through various steps and procedures involved in effectively utilizing Vysor.
 
