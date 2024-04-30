@@ -7,9 +7,10 @@ Follow [Cloning a repository - GitHub Docs](https://docs.github.com/en/repositor
 - Go to [Install Android Studio | Android Developers](https://developer.android.com/studio/install) and follow the steps to install Android Studio.
 - Launch Android Studio on your computer. If this is your first time using Android Studio, it may take a moment to set up the initial configuration.
 
-## 2. Import the Project
+## 2. Open the Project
 
- In Android Studio welcome dialog, click on "Open" to open an existing Android Studio project or navigate to "File" > "Open..." and select the cloned repository folder that contains the myPlanet app project. Click "OK" to import the project.
+ - On the welcome screen, click the "Open" button. Alternatively, if you have a project already open, you can navigate to "File" > "Open..." from the top menu bar.
+ - A file dialog box will appear. Navigate to the location where your project's repository folder is located.
 
 ## 3. Gradle Build
 
@@ -18,20 +19,20 @@ Follow [Cloning a repository - GitHub Docs](https://docs.github.com/en/repositor
 ## 4. Configure Emulator or Connect Device
 
  To run the app, you need to set up either an Android emulator or connect a physical Android device to your computer:
-    - Emulator: go to "Tools" > "Device Manager." Follow the prompts or use the + icon to create a new virtual tablet device.
-    - Physical Device: If you want to run the app on a physical Android device, connect it to your computer using a USB cable and ensure that USB debugging is enabled in the device's developer options.
+   - Emulator: Open "Tools" > "Device Manager." Click the + icon to create a new virtual device, then follow the prompts.
+   - Physical Device: Connect your Android device to your computer with a USB cable. Make sure USB debugging is enabled in the developer options.
 
 ## 5. Select Run Configuration
 
- In Android Studio's toolbar, select the desired run configuration from the drop-down menu. It should `app` in our case.
+ In Android Studio's toolbar, select the desired run configuration from the drop-down menu. It would be `app` in our case.
 
 ## 6. Run the App
 
- Click on the "Run" button (typically a green play button) right next to it or use the keyboard shortcut "Shift + F10" (Windows) or "Control + R" (Mac) to run the app. Android Studio will install the app to the emulator or connected device.
+Click the green "Run" button to install and launch the app on the emulator or connected device.
 
 ## 7. App Launch
 
- After installing the app on your emulator or device, it will launch automatically. Grant any permissions the app requests to proceed. Once the app is running, take a screenshot of it on your emulator or phone and share it with us in the Discord channel.
+After installing the app on your emulator or device, it will launch automatically. Approve any permission requests to continue. Once the app is running, take a screenshot from your emulator or phone and share it in the Discord channel to let us know you completed step 3.
 
 ## Useful Links
 
