@@ -34,9 +34,9 @@ The following hardware is required for the internship:
 2. Android device (phone or tablet) with minimum 2GB RAM and at least Android 6 "Marshmallow"
 3. Internet connection
 
-## Step 1 - GitHub & Markdown
+## Step 1 - Markdown & Forking Workflow
 
-Follow the instructions on the [GitHub and Markdown page](mi-github-and-markdown.md). By the end of this step, make sure to send us a link to your GitHub Pages site and a link to your pull request in the Discord channel.
+Follow the instructions on the [Creating Your GitHub Profile Page: A Guide to Markdown & Forking Workflow](mi-github-and-markdown.md).
 
 ## Step 2 - Getting myPlanet App
 
