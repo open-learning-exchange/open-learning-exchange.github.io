@@ -38,7 +38,7 @@ To participate in the internship, you will need the following hardware:
 
 Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdown & Forking Workflow](mi-github-and-markdown.md).
 
-## Step 2 - Getting myPlanet App
+## Step 2 - Get myPlanet App
 
 myPlanet is an Android app available on the Play Store. Please find and install it there using [this link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
 
@@ -46,9 +46,9 @@ myPlanet is an Android app available on the Play Store. Please find and install 
 
 Follow the guide at [myPlanet and Android Studio](mi-myplanet-and-android-studio.md) to clone myPlanet repository from GitHub and build the myPlanet app with Android Studio.
 
-## Step 4 - Connect myPlanet app to Planet vi
+## Step 4 - Connect myPlanet app to Planet
 
-Follow the guide at [Connecting myPlanet to Planet vi "nation"](mi-step4.md).
+Follow the guide at [Connecting myPlanet to Planet](mi-step4.md).
 
 ## Step 5 - Take a Course on myPlanet
 
