@@ -28,15 +28,15 @@ While there's no official deadline for completing these steps, most successful c
 
 ## Step 0 - Prerequisites
 
-The following hardware is required for the internship:
+To participate in the internship, you will need the following hardware:
 
-1. Laptop or computer with minimum 8GB of RAM
-2. Android device (phone or tablet) with minimum 2GB RAM and at least Android 6 "Marshmallow"
-3. Internet connection
+1. A laptop or desktop computer with at least 8GB of RAM.
+2. An Android device (phone or tablet) with a minimum of 2GB of RAM and running Android 6 "Marshmallow" or later.
+3. A stable internet connection.
 
 ## Step 1 - Markdown & Forking Workflow
 
-Follow the instructions on the [Creating Your GitHub Profile Page: A Guide to Markdown & Forking Workflow](mi-github-and-markdown.md).
+Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdown & Forking Workflow](mi-github-and-markdown.md).
 
 ## Step 2 - Getting myPlanet App
 
@@ -50,13 +50,11 @@ Follow the guide at [myPlanet and Android Studio](mi-myplanet-and-android-studio
 
 Follow the guide at [Connecting myPlanet to Planet vi "nation"](mi-step4.md).
 
-- **Configuration**: In myPlanet, click the settings gear icon in the upper-right corner to open the settings dialog box. Leave the default server configurations as they are, then click "SYNC".
-  ![Server Address Popup Screenshot](image/mi-server-address-popup.png)
 ## Step 5 - Take a Course on myPlanet
 
 Follow the guide at [myPlanet Course](mi-myplanet-course.md).
 
-## Step 6 - Github Issues tutorial
+## Step 6 - GitHub Issues tutorial
 
 * Follow the tutorial under the [GitHub Issues](mi-github-issues.md) to create at least one issue. Post a link in the discord channel whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
 * No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file.
