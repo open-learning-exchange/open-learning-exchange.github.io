@@ -94,15 +94,13 @@
 
 + You should first check if Vagrant Cloud is up and running by looking at [HashiCorp's status page](https://status.hashicorp.com):
 
-  ![Vagrant Cloud Status](images/vi-vagrant-cloud-status.png)
-
   If Vagrant Cloud is operational, then maybe your download is being interrupted, you can try to download and set up the big Vagrant box file manually:
 
   1. Go to this [Vagrant Cloud Box page](https://app.vagrantup.com/ole/boxes/jessie64).
 
   2. Click on the last version's (the uppermost) version number.
 
-    ![Box Version](images/vi-vagrant-cloud-last-version-box.png)
+    ![Box Version](image/mi-vagrant-cloud-last-version-box.png)
 
   3. Add `/providers/virtualbox.box` to the page link you have been redirected to and click 'Enter' to start the download via your browser, or copy the link and paste it in your preferred downloader, preferably one that has pause/resume functionality.
 
