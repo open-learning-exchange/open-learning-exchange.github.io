@@ -116,7 +116,7 @@ You can also use the raw.githack url generator on <https://raw.githack.com>
 
 **example:**
 
-https://raw.githack.com/nvrqt03/nvrqt03.github.io/nvrqt03-githack-update/#!pages/vi/vi-github-issues.md
+https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/3196-add-mi-github-and-markdown/index.html#!./pages/mi/mi-github-and-markdown.md
 
 ![example](image/mi-raw.githack-example.png)
 
