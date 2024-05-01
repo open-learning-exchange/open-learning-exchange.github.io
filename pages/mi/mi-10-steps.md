@@ -46,9 +46,9 @@ myPlanet is an Android app available on the Play Store. Please find and install 
 
 Follow the guide at [myPlanet and Android Studio](mi-myplanet-and-android-studio.md) to clone myPlanet repository from GitHub and build the myPlanet app with Android Studio.
 
-## Step 4 - Connect myPlanet to planet vi
+## Step 4 - Connect myPlanet app to Planet vi
 
-In this step you will be connecting your application, myPlanet, to an angular-based web app, Planet. This connection will allow you to share data and resources between the two applications. To establish the connection, follow the instructions below:
+Follow the guide at [Connecting myPlanet to Planet vi "nation"](mi-step4.md).
 
 - **Configuration**: In myPlanet, click the settings gear icon in the upper-right corner to open the settings dialog box. Leave the default server configurations as they are, then click "SYNC".
   ![Server Address Popup Screenshot](image/mi-server-address-popup.png)
