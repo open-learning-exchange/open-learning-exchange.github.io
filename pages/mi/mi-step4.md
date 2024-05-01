@@ -1,16 +1,10 @@
-# Connecting myPlanet to Planet vi "nation"
+# Connecting myPlanet to Planet
 
-In this step, you will be connecting our mobile application, myPlanet, to Planet virtual intern nation - vi. To establish the connection, follow the instructions below:
+In this step, you will be connecting our mobile application, myPlanet, to Planet "learning" nation. To establish the connection, follow the instructions below:
 
-- **Configuration**: In myPlanet app you just built and installed, click the settings gear icon in the upper-right corner to open the settings dialog box
+- **Configuration**: In myPlanet app you just built and installed, click the settings gear icon in the upper-right corner to open the settings dialog box. Leave the default prefilled config untouched, click "SYNC" and allow the process to complete
 
   ![Server Address Popup Screenshot](image/mi-server-address-popup.png)
-
-  - toggle on "manual" mode
-  - select "https"
-  - planet ip: `planet.vi.ole.org`
-  - server pin: please message us on discord for the pin
-  - Click "SYNC".
 
 - **Create a User Account**: After syncing, click "BECOME A MEMBER" and fill in the required information to create an account. Keep your credentials somewhere, as you'll need them for future logins.
 
