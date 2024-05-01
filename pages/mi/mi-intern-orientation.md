@@ -105,20 +105,6 @@ All of our Google Meet sessions can be joined at <http://talk.ole.org>. Currentl
 
 Every Monday at the "[Happy hacking hangout](http://talk.ole.org)" session, we work on problems together and catch up on what people have been doing all week. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the meeting. Use the calendar to set up meetings and other events with interns.
 
-Please subscribe to our calendar:
-
-* In [Google Calendar](https://calendar.google.com/), click on the **+** sign next to the **Other calendars** section on the left side as seen in the screenshot below. Select **Subscribe to calendar** from the dropdown
-
-![Google Calendar subscribe to OLE calendar](images/rbts-orientation-google-calendar.jpg)
-
-* Paste `ole.org_u2koassrool56icb7fqko9abac@group.calendar.google.com` under "Add calendar" and hit `Enter` as seen in the screenshot below
-
-![Google Calendar subscribe to OLE calendar](images/rbts-orientation-google-calendar-2.jpg)
-
-* Use [this iCalendar file](https://calendar.google.com/calendar/ical/ole.org_u2koassrool56icb7fqko9abac%40group.calendar.google.com/public/basic.ics) to access our calendar from other applications
-
-![Google Calendar add a friend's calendar](images/rbts-orientation-add-calendar.png)
-
 ## Communicate, Communicate, Communicate!
 
 It’s not good to go silent on Discord or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the Discord server. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self-discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it!
