@@ -1,5 +1,7 @@
 # Step 3 - myPlanet and Android Studio
 
+## Preparation
+
 Follow [Cloning a repository - GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to clone [OLE's myPlanet repository](https://github.com/open-learning-exchange/myplanet) onto your local machine.
 
 ## 1. Download and Open Android Studio
