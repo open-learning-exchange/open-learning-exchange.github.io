@@ -12,7 +12,7 @@ On GitHub, our software code is organized in repositories, each of which represe
 
 As previously mentioned, you fork a repository to work on your own GitHub account, and then send back your changes to the upstream repository in the form of a pull request. You went through this process to fork open-learning-exchange.github.io and rename it to your own repository. Normally, we do not rename repositories, but Markdown Wikis are slightly different. In the future, plan on forking different repositories, working on them, then sending your work to the upstream repo via pull request. The general GitHub structure is diagrammed below.
 
-![Repositories Relationship](images/vi-repo-diagram.png)
+![Repositories Relationship](image/mi-repo-diagram.png)
 
 ## Start here
 
@@ -32,7 +32,7 @@ This is just a summary of the steps that you will need to perform. Please, keep 
 
 Now, we will be using GitHub repositories on a command line, which means that there is a separate step to get your GitHub repository on your OS. Therefore, you will be using both the command line and the GitHub user interface, meaning that you need to constantly be checking to make sure that your version is not behind to avoid merge conflicts. First, open a command line and open your username.github.io repository on the GitHub user interface. 
 
-![GitHub Clone URL](images/vi-github-clone-url-revised.jpg)
+![GitHub Clone URL](image/mi-github-clone-url-revised.jpg)
 
 Then, find your forked repository's GitHub HTTPS link by clicking on the green "Clone or Download" button. Copy this HTTPS link of your forked GitHub repository (highlighted in red in the image above). Turn to your command prompt and type `git clone`. `git clone` is a git command line utility that makes a copy of an existing repository on your OS. Then, paste your repository URL into the command line interface (CLI). Your CLI should look like the following: `git clone https://github.com/Username/Username.github.io.git` (Username should be replaced with your own username).
 
@@ -46,7 +46,7 @@ Both HTTPS and SSH URLs identify the same remote repositories but use different 
 
 The previous step created a clone of your repository on your OS.
 
-![GitHub Clone URL](images/vi-forking-and-updating-a-repo.png)
+![GitHub Clone URL](image/mi-forking-and-updating-a-repo.png)
 
 Now, there are three different Github repository levels: [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io), your username.github.io on GitHub, and your username.github.io on your OS. These three levels need to be constantly synced and up to date with one another as we will all be contributing to the upstream repository (open-learning-exchange.github.io). It's important to try and keep these separate and avoid mixing changes between them, as you will be unable to fork and git push/pull if they are very different versions.
 
@@ -54,7 +54,7 @@ As you create a fork from the original repository and then clone your forked rep
 
 First, the [GitHub help section](https://help.github.com/en) and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://help.github.com/articles/syncing-a-fork/) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, following the steps below, you will need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io (see the diagram below).
 
-![GitHub Clone URL](images/vi-sync-a-fork.png)
+![GitHub Clone URL](image/mi-sync-a-fork.png)
 
 ### Configure a Remote Repository for Your Fork
 
