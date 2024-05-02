@@ -4,7 +4,10 @@
 
 Welcome to the first steps for becoming an OLE Virtual Mobile Intern! We treat these first steps as a vetting process to prove that you can follow basic instructions before moving on to more complex projects and larger teams. Think of this as the interview for the internship.
 
-If you are selected for the internship after completing the steps, you will be officially invited to join the OLE mobile interns team! We’ll add you to our Virtual Interns Discord channel and assign you to a specific team to work on developing and improving OLE’s software. Our current mobile projects can be found [here](mi-intern-orientation.md#Familiarize_Yourself_with_Current_Projects_and_Issues).
+If you are selected for the internship after completing the steps, you will be officially invited to join the OLE mobile interns team! We’ll add you to our Virtual Interns Discord channel and assign you to a specific team to work on developing and improving OLE’s software. Our current mobile projects are:
+
+1. **myPlanet**: An Android app that syncs with Planet to save data for offline use and send usage data.
+2. **Remote**: An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 
 If you are selected after completing these steps, you'll work with your team on an assignment, and assignments will change weekly. During this internship, you will have the opportunity to work with various software and languages including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Vagrant](https://www.vagrantup.com/)**, **[VirtualBox](https://www.virtualbox.org/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Docker](https://www.docker.com/)**, **[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**, **[Node.js](https://nodejs.org/en/)**, **[Angular](https://angular.io/)**, **[Java](https://www.tutorialspoint.com/java/index.htm)**, and **[Kotlin](https://kotlinlang.org/)**.
 
@@ -31,7 +34,7 @@ While there's no official deadline for completing these steps, most successful c
 To participate in the internship, you will need the following hardware:
 
 1. A laptop or desktop computer with at least 8GB of RAM.
-2. An Android device (phone or tablet) with a minimum of 2GB of RAM and running Android 6 "Marshmallow" or later.
+2. An Android device (phone or tablet) with a minimum of 3GB of RAM and running Android 9 "Pie" or later. Google Chromebooks works as well
 3. A stable internet connection.
 
 ## Step 1 - Markdown & Forking Workflow
@@ -60,7 +63,7 @@ Follow the guide at [myPlanet Course](mi-myplanet-course.md).
 * No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file.
 * You can also work on issues that you didn't create. Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged.
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.md).
+**NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ## Step 7 - Course About
 
@@ -91,7 +94,7 @@ Once you complete Step 8 you will have:
 > 4 comments added (on an issue you didn't create)
 > 4 issues created
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](vi-track-progress.md).
+**NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ## Step 9 - Be part of the team
 
