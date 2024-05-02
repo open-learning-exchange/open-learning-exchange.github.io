@@ -74,7 +74,7 @@ Follow the guide at [myPlanet Course](mi-myplanet-course.md).
 * Engage with Course Materials: Engage with the course materials actively. This may involve reading text files, viewing presentations, playing audios and videos.
 * Take Notes and Rate the course: As you progress through the course, take notes of any issue you encounter and open an issue in the github repository and rate the course you have just completed
 * Collaborate and Seek Help: Seek help if you encounter difficulties or have questions related to the course content.
-* Be sure to capture screenshots of your exploration and send them to the discord channel. Be sure to tag @.giddie and @dogi in your message.
+* Be sure to capture screenshots of your exploration and send them to the discord channel. Be sure to tag @okurole_25668 and @dogi in your message.
 
 ## Step 8 - Create Issues and Pull Requests
 
@@ -100,5 +100,5 @@ Once you complete Step 8 you will have:
 
 * Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](mi-nation.md)).
 
-  Next thing is to add yourself to the virtual intern list found in [mi-team.md](mi-team.md) and create a pull request. Message us ("@.giddie", "@dogi" and "@vi-mobile") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
+  Next thing is to add yourself to the virtual intern list found in [mi-team.md](mi-team.md) and create a pull request. Message us ("@okurole_25668", "@dogi" and "@vi-mobile") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
   Make sure to read through the [intern orientation document](mi-intern-orientation.md) before the meeting.
