@@ -57,7 +57,7 @@ Follow the guide at [Connecting myPlanet to Planet](mi-step4.md).
 
 Follow the guide at [myPlanet Course](mi-myplanet-course.md).
 
-## Step 6 - GitHub Issues tutorial
+## Step 6 - GitHub Issues Tutorial
 
 * Follow the tutorial under the [GitHub Issues](mi-github-issues.md) to create at least one issue. Post a link in the discord channel whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
 * No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file.
