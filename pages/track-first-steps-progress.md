@@ -1,9 +1,10 @@
-# Tracking Progress #
-## Directions: ##        
+# Tracking Progress
+
+## Directions
+
  * Click on the blue "Get PRs/Issues Count" button below.
  * Type in a valid Github username
- * Remember, in order to complete the ["First Steps"](vi-first-steps.md) you need at least 5 valid PRs and 4 issues.
- * Click [here](vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests) to return to Step 8.
+ * Remember, in order to complete the First Steps you need at least 5 valid PRs and 4 issues.
 
 <style><!--
     .dropbtn {
@@ -21,7 +22,7 @@
 
 <script>
     const res = document.getElementById('results');
-    var user = "Dogi";
+    var user = "dogi";
     
     //Functions
     //Check response from the API
