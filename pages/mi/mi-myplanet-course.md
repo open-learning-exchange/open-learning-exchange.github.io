@@ -1,5 +1,7 @@
 # myPlanet Course
 
+**Attention**: This page is under construction. Please don't hesitate to reach out to us on Discord if you have any questions.
+
 To gain a better understanding of the myPlanet app's capabilities, it's helpful to take courses that explain specific features. In this step, you'll learn how to navigate the myPlanet dashboard and join the "How to Use Vysor" course to understand screen mirroring and remote control. Here's how to proceed:
 
 - After successfully logging into the myPlanet app, users are directed to the myPlanet dashboard, which serves as the home screen of the application. The dashboard provides a centralized and convenient hub where users can access various features, information, and tools available within the app.
