@@ -1,29 +1,39 @@
 # myPlanet Course
 
-**Attention**: This page is under construction. Please don't hesitate to reach out to us on Discord if you have any questions.
+**Attention**: This page is under construction. Contact us on Discord for any questions.
 
-To gain a better understanding of the myPlanet app's capabilities, it's helpful to take courses that explain specific features. In this step, you'll learn how to navigate the myPlanet dashboard and join the "How to Use Vysor" course to understand screen mirroring and remote control. Here's how to proceed:
+## myPlanet App Dashboard and Courses Overview
 
-- After successfully logging into the myPlanet app, users are directed to the myPlanet dashboard, which serves as the home screen of the application. The dashboard provides a centralized and convenient hub where users can access various features, information, and tools available within the app.
-- On the myPlanet dashboard, users may find a range of options and widgets tailored to their preferences and needs. These can include shortcuts to frequently used features, personalized recommendations, notifications, progress updates, and more. The dashboard is designed to provide users with a quick overview and easy navigation to different sections of the app.
-- To proceed further and access the courses offered within the myPlanet app, users are instructed to click on the "courses" section. This action will take them to a dedicated page or view that presents a list of existing courses available within the app's catalog.
-    
-  ![Dashboard Screenshot](image/mi-dashboard.png)   
+After logging into the myPlanet app, you'll land on the dashboard, the central hub where you can access key features and tools. The dashboard offers shortcuts to frequently used features, personalized recommendations, notifications, progress updates, and more.
 
-- To enhance your understanding of Vysor, a screen mirroring and remote control application, you should consider enrolling in the "How to Use Vysor" course. This course can be found within the courses tab of myplanet.
-- Once you locate the course, click on it to join and access the valuable content it offers. The course is designed to provide you with a comprehensive understanding of Vysor's features and functionalities. It will guide you through various steps and procedures involved in effectively utilizing Vysor.
+![Dashboard Screenshot](image/mi-dashboard.png)
 
-  ![Courses List Screenshot](image/mi-courses-list.png)
-- In addition to accessing the list of existing courses through the main "courses" section, the myPlanet app also provides a convenient sidebar feature that allows users to easily view and access the courses they have already joined or enrolled in.
-- To view the courses a user has joined, they are instructed to select the "myCourses" option within the sidebar. By clicking on or tapping this option, the user is directed to a dedicated page or view that specifically displays the courses they are currently enrolled in.  
-    
-  ![Side Menu Screenshot](image/mi-side-menu.png)
-- Throughout the course, you will learn how to connect your device to Vysor, mirror your device's screen onto your computer, and navigate the different control options available. By following the instructions and completing the course steps, you will gain practical knowledge and confidence in using Vysor.
-- After you finish all the course steps, it is encouraged to provide feedback on your learning experience by rating the course. To do this, locate the star rating system, which should be displayed in an image or visual representation on the course page.
-- Simply click on the stars to indicate your level of satisfaction with the course content, presentation, and overall usefulness.
+To access the course catalog, click on the "Courses" section on the dashboard. This will take you to a page displaying all available courses.
 
-  ![Rating Icon Click Screenshot](image/mi-rating-icon-click.png)
-  ![Rating Popup Screenshot](image/mi-rating-popup.png)
-- Your rating will serve as valuable feedback for the course creators, helping them improve the course and cater to the needs of future learners. Additionally, your rating will also assist other users in assessing the quality and relevance of the "How to Use Vysor" course
+![Courses List Screenshot](image/mi-courses-list.png)
 
-**NOTE**: Capture screenshots of your myPlanet dashboard and myCourses page(with the rated course) and send the screenshots to the discord channel. Be sure to tag @.giddie and @dogi in your message.
+To view the courses you've already joined, use the sidebar menu by swiping from the left or clicking the Planet logo in the upper left corner and select "myCourses." This will direct you to a dedicated page showing the courses in which you're currently enrolled.
+
+![Side Menu Screenshot](image/mi-side-menu.png)
+
+After completing a course, rate your experience by using the star rating system. Click on the stars to indicate your level of satisfaction with the course content, presentation, and overall usefulness.
+
+![Rating Icon Click Screenshot](image/mi-rating-icon-click.png)
+![Rating Popup Screenshot](image/mi-rating-popup.png)
+
+Your feedback helps course creators improve content and aids other users in choosing the best courses for them.
+
+## "How to Use Survey" course
+
+Follow these steps below to join the "How to Use Survey" course and learn about Survey creation:
+
+- **Explore Available Courses:** Go to the "Courses" tab, where you'll find a list of courses.
+  - On smaller devices, open the menu by swiping from the left or clicking the Planet logo in the upper left corner.
+- **Select and Join a Course:** Find and choose the "How to Use Survey" course. Click the yellow "Join" button on the course detail page.
+- **Access the Course:** Go to the "myCourse" tab to view your courses.
+- **Begin the Course:** Start by reading the course description. Click "Next" to go to course step 1.
+- **Engage with Course Materials:** Step 1 contains a PDF document about how to create survey in Planet app. Click on the blue "RESOURCES" button to download and open it. Read through the document. After finish reading the document, complete the test in this step by clicking on the blue "TEST" button
+- **Provide Feedback:** Skip the rest of the 3 steps because they are currently missing instructions. Once you are finished, rate the course on the myCourse list and leave a comment.
+- **Collaborate and Seek Help:** If you have questions or encounter issues, use the Discord channel for support. Be sure to capture screenshots of your exploration and send them to the discord channel once you are done with this step.
+
+**NOTE**: Capture screenshots of your myPlanet dashboard and myCourses page(with the rated course) and send the screenshots to the discord channel. Be sure to tag @okurole_25668 and @dogi in your message.
