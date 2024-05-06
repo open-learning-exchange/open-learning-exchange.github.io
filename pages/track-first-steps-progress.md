@@ -3,8 +3,8 @@
 ## Directions
 
  * Click on the blue "Get PRs/Issues Count" button below.
- * Type in a valid Github username
- * Remember, in order to complete the First Steps you need at least 5 valid PRs and 4 issues.
+ * Type in a valid GitHub username
+ * Remember, in order to complete the First Steps, you need at least 5 valid PRs and 4 issues.
 
 <style><!--
     .dropbtn {
