@@ -1,6 +1,4 @@
-# myPlanet Course
-
-**Attention**: This page is under construction. Contact us on Discord for any questions.
+# Take a Course on myPlanet, Courses Gardening
 
 ## myPlanet App Dashboard and Courses Overview
 
@@ -37,3 +35,14 @@ Follow these steps below to join the "How to Use Survey" course and learn about 
 - **Collaborate and Seek Help:** If you have questions or encounter issues, use the Discord channel for support. Be sure to capture screenshots of your exploration and send them to the discord channel once you are done with this step.
 
 **NOTE**: Capture screenshots of your myPlanet dashboard and myCourses page(with the rated course) and send the screenshots to the discord channel. Be sure to tag @okurole_25668 and @dogi in your message.
+
+## Gardening
+
+**Attention**: Please skip this section for now since it's under construction...
+
+There are a few nations we
+- vi - for virtual interns like yourself, most suitable for experimenting with things
+- learning - android
+- guatemala - Spanish speaking
+
+#### Return to [First Steps](mi-10-steps.md)

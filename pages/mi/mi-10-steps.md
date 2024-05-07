@@ -34,7 +34,7 @@ While there's no official deadline for completing these steps, most successful c
 To participate in the internship, you will need the following hardware:
 
 1. A laptop or desktop computer with at least 8GB of RAM.
-2. An Android device (phone or tablet) with a minimum of 3GB of RAM and running Android 9 "Pie" or later. Google Chromebooks works as well
+2. An Android device (phone or tablet) with a minimum of 3GB of RAM and running Android 9 "Pie" or later, and/or a Chromebook.
 3. A stable internet connection.
 
 ## Step 1 - Markdown & Forking Workflow
@@ -53,46 +53,47 @@ Follow the guide at [myPlanet and Android Studio](mi-myplanet-and-android-studio
 
 Follow the guide at [Connecting myPlanet to Planet](mi-step4.md).
 
-## Step 5 - Take a Course on myPlanet
+## Step 5 - Git Repositories: A Guide to Cloning, Configuring, and Syncing Forks
 
-Follow the guide at [myPlanet Course](mi-myplanet-course.md).
+Follow the directions at [Git Repositories: A Guide to Cloning, Configuring, and Syncing Forks](mi-github-and-repositories.md).
 
 ## Step 6 - GitHub Issues Tutorial
 
-* Follow the tutorial under the [GitHub Issues](mi-github-issues.md) to create at least one issue. Post a link in the discord channel whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
-* No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file.
-* You can also work on issues that you didn't create. Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged.
+- Follow the tutorial under the [GitHub Issues](mi-github-issues.md) to create at least one issue. Post a link in the discord channel whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice.
+- No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file.
+- You can also work on issues that you didn't create. Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged.
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
-## Step 7 - Course About
+## Step 7 - Take a Course on myPlanet, Courses Gardening
 
-* Explore Available Courses:navigate to the "courses" tab or directory. This directory should contain a list of available courses.
-* Choose a Course: Browse through the courses and select the one you are interested in. Each course may have its own subdirectory containing course materials and resources.
-* Join the Course: Access the chosen course's subdirectory and explore the course materials, including any text files, presentations, code samples, or exercises provided. Take note of the structure and organization of the course.
-* Go Through the Course: Begin by reading the course introduction or overview, which may provide information on the course objectives, prerequisites, and recommended study plan. Follow the course materials in the order specified, taking your time to understand and absorb the content.
-* Engage with Course Materials: Engage with the course materials actively. This may involve reading text files, viewing presentations, playing audios and videos.
-* Take Notes and Rate the course: As you progress through the course, take notes of any issue you encounter and open an issue in the github repository and rate the course you have just completed
-* Collaborate and Seek Help: Seek help if you encounter difficulties or have questions related to the course content.
-* Be sure to capture screenshots of your exploration and send them to the discord channel. Be sure to tag @okurole_25668 and @dogi in your message.
+Follow the guide at [Take a Course on myPlanet, Courses Gardening](mi-myplanet-course.md).
 
 ## Step 8 - Create Issues and Pull Requests
 
-Create 3 more issues, add comments to 3 other issues, and resolve 3 issues by making the necessary changes in your repo with 3 separate pull requests. You should resolve 3 issues created by yourself, and make sure to mention in the issue that you are working on it. Be sure to seek confirmation from the OLE team before starting work on your issues. You will follow the same steps as in [GitHub Issues tab](mi-github-issues.md), continuing to improve this Markdown Wiki so that it is educational, yet easy to understand for future interns.
+In this step, your goal is to create, comment on, and resolve GitHub issues to improve our Markdown Wiki. Here's what you'll need to do:
 
-Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests and have them each approved by at least two other OLE team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the Discord chat so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
+1. **Create Issues**: Create 3 new issues in our GitHub repository. Each issue should be clear and focus on a specific problem or improvement. When creating the issue, mention that you intend to work on it, and be sure to get approval from us in Discord before you start.
 
- Remember, no issue is too small to address! Make sure that your issue is concise, and focuses on addressing a single theme at a time .The approval process for this step may take time, but it is OK to continue working.
+2. **Comment on Issues**: Add helpful comments to at least 3 existing issues. This could be to suggest solutions, ask questions, or clarify the issue.
 
- **An example area you can make a meaningful is in improving the [myPlanet manual](../manual/myplanet/overview.md)**
+3. **Resolve Issues with Pull Requests**: Resolve the 3 issues you created by making the necessary changes in separate branches derived from `master` in your repository, and submit a distinct pull request for each one.
 
-**NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
+Follow the same process as described in the [GitHub Issues step](mi-github-issues.md), working to improve our documentation for future interns. To get your pull requests merged, they must be approved by at least two other OLE team members/interns. After creating a pull request, announce it on the Discord chat to request reviews. You may need to make additional corrections based on feedback.
+
+Remember, even small issues are worth addressing. Keep your issues focused and concise. If your pull requests need additional approvals, continue to work on other tasks while you wait.
+
+Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Help us make this documentation clear and useful for those who follow.
+
+**NOTE**: While adding details can be helpful, it's important to remember that less is often more. Over time, this First Steps guide has become bloated with too much information, making it harder to follow. As you work on improving this guide, focus on simplifying the instructions and removing any unnecessary content. The goal is to create a clear and concise guide that future virtual interns can easily understand and use.
+
+**NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request by suffixing it with `(fixes #ISSUE_NUM)` and make a new branch for every new issue from the master branch.
   
 Once you complete Step 8 you will have:
 
-> 5 pull requests made (one at step 3 and one at step 6)
-> 4 comments added (on an issue you didn't create)
-> 4 issues created
+- 5 merged pull requests (one at step 1, one at step 6 and three at step 8)
+- 4 comments made on issues you didn't create (one at step 6 and three at step 8)
+- 4 issues created (one at step 6 and three at step 8)
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
