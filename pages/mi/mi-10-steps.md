@@ -53,9 +53,9 @@ Follow the guide at [myPlanet and Android Studio](mi-myplanet-and-android-studio
 
 Follow the guide at [Connecting myPlanet to Planet](mi-step4.md).
 
-## Step 5 - Take a Course on myPlanet
+## Step 5 - Git Repositories: A Guide to Cloning, Configuring, and Syncing Forks
 
-Follow the guide at [myPlanet Course](mi-myplanet-course.md).
+Follow the directions at [Git Repositories: A Guide to Cloning, Configuring, and Syncing Forks](mi-github-and-repositories.md).
 
 ## Step 6 - GitHub Issues Tutorial
 
@@ -65,16 +65,9 @@ Follow the guide at [myPlanet Course](mi-myplanet-course.md).
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
-## Step 7 - Course About
+## Step 7 - Take a Course on myPlanet, Courses Gardening
 
-* Explore Available Courses:navigate to the "courses" tab or directory. This directory should contain a list of available courses.
-* Choose a Course: Browse through the courses and select the one you are interested in. Each course may have its own subdirectory containing course materials and resources.
-* Join the Course: Access the chosen course's subdirectory and explore the course materials, including any text files, presentations, code samples, or exercises provided. Take note of the structure and organization of the course.
-* Go Through the Course: Begin by reading the course introduction or overview, which may provide information on the course objectives, prerequisites, and recommended study plan. Follow the course materials in the order specified, taking your time to understand and absorb the content.
-* Engage with Course Materials: Engage with the course materials actively. This may involve reading text files, viewing presentations, playing audios and videos.
-* Take Notes and Rate the course: As you progress through the course, take notes of any issue you encounter and open an issue in the github repository and rate the course you have just completed
-* Collaborate and Seek Help: Seek help if you encounter difficulties or have questions related to the course content.
-* Be sure to capture screenshots of your exploration and send them to the discord channel. Be sure to tag @okurole_25668 and @dogi in your message.
+Follow the guide at [Take a Course on myPlanet, Courses Gardening](mi-myplanet-course.md).
 
 ## Step 8 - Create Issues and Pull Requests
 
