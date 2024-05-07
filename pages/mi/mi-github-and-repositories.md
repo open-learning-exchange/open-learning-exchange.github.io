@@ -25,7 +25,7 @@ This is a summary of the key steps to follow. For a detailed explanation, contin
 - [Configure a Remote Repository for Your Fork](#3._Configure_a_Remote_Repository_for_Your_Fork)
 - [Sync Your Fork](#4._Sync_Your_Fork)
 
-**NOTE**: In this step, you'll encounter some common terms, such as
+In this step, you'll encounter some common terms, such as
 - `master`/`main`: a repository's default branch name
 - `upstream`: the repository you forked from
 - `origin`: your own fork of the upstream repository
@@ -69,7 +69,7 @@ origin  https://github.com/username/username.github.io.git (fetch)
 origin  https://github.com/username/username.github.io.git (push)
 ```
 
-3. Specify a new remote upstream repository that will be synced with the fork by using `git remote add upstream <repository>`. Our remote upstream repository will be https://github.com/open-learning-exchange/open-learning-exchange.github.io.git. Do not forget the `.git` at the end.
+3. Specify a new remote upstream repository that will be synced with the fork by using `git remote add upstream <repository>`. Our remote upstream repository will be `https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`. Do not forget the `.git` at the end.
 ```
 $ git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
 ```
