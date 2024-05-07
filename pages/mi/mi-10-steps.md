@@ -87,7 +87,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 **NOTE**: While adding details can be helpful, it's important to remember that less is often more. Over time, this First Steps guide has become bloated with too much information, making it harder to follow. As you work on improving this guide, focus on simplifying the instructions and removing any unnecessary content. The goal is to create a clear and concise guide that future virtual interns can easily understand and use.
 
-**NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request by affixing it with `(fixes #ISSUE_NUM)` and make a new branch for every new issue from the master branch.
+**NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request by suffixing it with `(fixes #ISSUE_NUM)` and make a new branch for every new issue from the master branch.
   
 Once you complete Step 8 you will have:
 
