@@ -91,9 +91,9 @@ Just as your learning with this Wiki was made possible by the efforts of previou
   
 Once you complete Step 8 you will have:
 
-> 5 pull requests made (one at step 3 and one at step 6)
-> 4 comments added (on an issue you didn't create)
-> 4 issues created
+- 5 merged pull requests (one at step 1, one at step 6 and three at step 8)
+- 4 comments made on issues you didn't create (one at step 6 and three at step 8)
+- 4 issues created (one at step 6 and three at step 8)
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
