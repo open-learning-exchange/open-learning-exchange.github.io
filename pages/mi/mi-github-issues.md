@@ -45,7 +45,7 @@ Before you create your branch, sync your repo using the commands:
 `git checkout master`
 `git merge upstream/master`
 `git push origin master`
-More details in the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
+More details in the [previous step](mi-github-and-repositories.md#Summary_of_Steps).
 
 To create a new branch, go to your github repo and create it in a similar fashion as the following image:
 ![Details on Creating a New Branch](image/mi-new-branch.png)
