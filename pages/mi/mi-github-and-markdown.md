@@ -115,8 +115,7 @@ To preview your changes, use the following link, replacing "YourUserName" with y
 Before proceeding to the next section, please ensure that everything looks as expected and works correctly.
 
 **NOTE**:
-
-- If changes don't appear, clear your browser's cache or open your page in "incognito" or "private" mode. You can also refresh the page using `Ctrl+Shift+R` or `Ctrl+F5` (on Mac: `Cmd+Shift+R`).
+- New changes you push should be reflected within minutes on raw.githack. If changes still don't appear, clear your browser's cache or open your page in "incognito" or "private" mode. You can also force refresh/reload the page using `Ctrl+Shift+R` or `Ctrl+F5` (on Mac: `Cmd+Shift+R`).
 - Remember that there are [different Markdown flavors](https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors). Since the MDwiki site is used for "production," always check if your content renders correctly on the raw.githack link. Use GitHub's preview tab for guidance, but rely on raw.githack for accuracy.
 
 ### 3.5 Open a pull request
