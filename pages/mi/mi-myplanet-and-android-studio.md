@@ -41,4 +41,4 @@ After installing the app on your emulator or device, it will launch automaticall
 - https://github.com/open-learning-exchange/myplanet?tab=readme-ov-file#getting-started-for-interns
 - https://github.com/open-learning-exchange/myplanet?tab=readme-ov-file#setting-up-the-android-device-for-development-and-testing
 
-#### Return to [First Steps](mi-10-steps.md)
+#### Return to [First Steps](mi-10-steps.md#Step_3_-_Build_myPlanet_in_Android_Studio)
