@@ -321,5 +321,3 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [How to Manually Fix Git Merge Conflicts](https://www.youtube.com/watch?v=g8BRcB9NLp4) - Please note that this video will explain how to fix a merge conflict from the point of view of the repo owner who is trying to merge a pull request. However, it is helpful also when you have to fix a merge conflict on your own local and forked repos.
 - [How to Use VirtualBox](https://www.youtube.com/watch?v=Dbblu_HVROk)
 - [Vagrant Tutorial](https://www.youtube.com/watch?v=PmOMc4zfCSw)
-
-#### Return to [First Steps](mi-10-steps.md)
