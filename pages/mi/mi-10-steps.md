@@ -41,6 +41,8 @@ To participate in the internship, you will need the following hardware:
 
 Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdown & Forking Workflow](mi-github-and-markdown.md).
 
+**Important: Only move onto the next step if you have created the pull request for your profile.**
+
 ## Step 2 - Get myPlanet App
 
 myPlanet is an Android app available on the Play Store. Please find and install it there using [this link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
