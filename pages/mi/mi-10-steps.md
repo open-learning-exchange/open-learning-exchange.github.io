@@ -47,7 +47,7 @@ Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdo
 
 myPlanet is an Android app available on the Play Store. Please find and install it there using [this link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
 
-**Enroll in Beta Testing:**
+### Enroll in Beta Testing:
 
 Join as a beta tester to help us improve the app!
 
@@ -57,7 +57,11 @@ Join as a beta tester to help us improve the app!
 - **From a Laptop or Desktop Computer:**
   Join on the web via [this link](https://play.google.com/apps/testing/org.ole.planet.myplanet).
 
-Once you've installed the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap 'SYNC'. Wait for completion, then 'LOG IN AS GUEST' and explore the app for a minimal of 15 minutes. Take screenshots and attempt to crash the app. After exploration, update us on Discord: 'I'm on step 2, spent xx minutes in the myPlanet app and crashed it when navigating to ...' or 'I'm on step 2, spent xx minutes in the myPlanet app and it did not crash.'
+### Testing the app
+
+Once you've installed the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap "SYNC". Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
+
+Take screenshots and attempt to crash the app. After exploration, update us on Discord: "I'm on step 2, spent about xx minutes in the myPlanet app and crashed it when navigating to ..." or "I'm on step 2, spent about xx minutes in the myPlanet app and it did not crash."
 
 ## Step 3 - Build myPlanet in Android Studio
 
