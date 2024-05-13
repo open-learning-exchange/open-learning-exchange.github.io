@@ -50,7 +50,7 @@
   - - - -
   * [Step 0 - Prerequisites](pages/mi/mi-10-steps.md#Step_0_-_Prerequisites)
   * [Step 1 - Markdown & Forking Workflow](pages/mi/mi-10-steps.md#Step_1_-_Markdown_&_Forking_Workflow)
-  * [Step 2 - Get myPlanet App](pages/mi/mi-10-steps.md#Step_2_-_Get_myPlanet_App)
+  * [Step 2 - myPlanet App](pages/mi/mi-10-steps.md#Step_2_-myPlanet_App)
   * [Step 3 - Build myPlanet in Android Studio](pages/mi/mi-10-steps.md#Step_3_-_Build_myPlanet_in_Android_Studio)
   * [Step 4 - Connect myPlanet to Planet](pages/mi/mi-10-steps.md#Step_4_-_Connect_myPlanet_app_to_Planet)
   * [Step 5 - Take a Course on myPlanet](pages/mi/mi-10-steps.md#Step_5_-_Take_a_Course_on_myPlanet)
