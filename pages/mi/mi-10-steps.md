@@ -43,11 +43,11 @@ Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdo
 
 **Important: Only move onto the next step if you have created the pull request for your profile.**
 
-## Step 2 - Get myPlanet App
+## Step 2 - myPlanet App
 
 myPlanet is an Android app available on the Play Store. Please find and install it there using [this link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
 
-### Enroll in Beta Testing:
+#### Enroll in Beta Testing
 
 Join as a beta tester to help us improve the app!
 
@@ -57,7 +57,7 @@ Join as a beta tester to help us improve the app!
 - **From a Laptop or Desktop Computer:**
   Join on the web via [this link](https://play.google.com/apps/testing/org.ole.planet.myplanet).
 
-### Testing the app
+#### Testing the app
 
 Once you've installed the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap "SYNC". Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
 
