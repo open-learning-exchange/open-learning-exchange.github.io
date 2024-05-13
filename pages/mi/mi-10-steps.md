@@ -47,6 +47,16 @@ Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdo
 
 myPlanet is an Android app available on the Play Store. Please find and install it there using [this link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
 
+**Enroll in Beta Testing:**
+
+Join as a beta tester to help us improve the app!
+
+- **From a Phone:**
+  Join using Google Play on Android in [treehouse remote detail page](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet). Under “Join the beta,” tap Join and then Join.
+
+- **From a Laptop or Desktop Computer:**
+  Join on the web via [this link](https://play.google.com/apps/testing/org.ole.planet.myplanet).
+
 ## Step 3 - Build myPlanet in Android Studio
 
 Follow the guide at [myPlanet and Android Studio](mi-myplanet-and-android-studio.md) to clone myPlanet repository from GitHub and build the myPlanet app with Android Studio.
