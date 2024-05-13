@@ -52,10 +52,12 @@ myPlanet is an Android app available on the Play Store. Please find and install 
 Join as a beta tester to help us improve the app!
 
 - **From a Phone:**
-  Join using Google Play on Android in [treehouse remote detail page](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet). Under “Join the beta,” tap Join and then Join.
+  Join in Google Play on Android in [treehouse remote detail page](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet). Scroll all the way down, under “Join the beta,” tap Join.
 
 - **From a Laptop or Desktop Computer:**
   Join on the web via [this link](https://play.google.com/apps/testing/org.ole.planet.myplanet).
+
+Once you've installed the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap 'SYNC'. Wait for completion, then 'LOG IN AS GUEST' and explore the app for a minimal of 15 minutes. Take screenshots and attempt to crash the app. After exploration, update us on Discord: 'I'm on step 2, spent xx minutes in the myPlanet app and crashed it when navigating to ...' or 'I'm on step 2, spent xx minutes in the myPlanet app and it did not crash.'
 
 ## Step 3 - Build myPlanet in Android Studio
 
@@ -85,11 +87,11 @@ Follow the guide at [Take a Course on myPlanet, Courses Gardening](mi-myplanet-c
 
 In this step, your goal is to create, comment on, and resolve GitHub issues to improve our Markdown Wiki. Here's what you'll need to do:
 
-1. **Create Issues**: Create 3 new issues in our GitHub repository. Each issue should be clear and focus on a specific problem or improvement. When creating the issue, mention that you intend to work on it, and be sure to get approval from us in Discord before you start.
+1. **Create Issues**: Create 3 new issues in our GitHub repository regarding Mobile Intern First Steps. Each issue should be clear and focus on a specific problem or improvement. **Ensure that at least one issue addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation.**
 
-2. **Comment on Issues**: Add helpful comments to at least 3 existing issues. This could be to suggest solutions, ask questions, or clarify the issue.
+2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues. This could be to suggest solutions, ask questions, or clarify the issue.
 
-3. **Resolve Issues with Pull Requests**: Resolve the 3 issues you created by making the necessary changes in separate branches derived from `master` in your repository, and submit a distinct pull request for each one.
+3. **Resolve Issues with Pull Requests**: Resolve the 3 issues by making the necessary changes in separate branches derived from `master` in your repository, and submit a distinct pull request for each one.
 
 Follow the same process as described in the [GitHub Issues step](mi-github-issues.md), working to improve our documentation for future interns. To get your pull requests merged, they must be approved by at least two other OLE team members/interns. After creating a pull request, announce it on the Discord chat to request reviews. You may need to make additional corrections based on feedback.
 
@@ -111,7 +113,6 @@ Once you complete Step 8 you will have:
 
 ## Step 9 - Be part of the team
 
-* Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](mi-nation.md)).
+Next thing is to add yourself to the virtual intern list found in [mi-team.md](mi-team.md) and create a pull request. Message us ("@okurole_25668", "@dogi" and "@vi-mobile") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
 
-  Next thing is to add yourself to the virtual intern list found in [mi-team.md](mi-team.md) and create a pull request. Message us ("@okurole_25668", "@dogi" and "@vi-mobile") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
-  Make sure to read through the [intern orientation document](mi-intern-orientation.md) before the meeting.
+Make sure to read through the [intern orientation document](mi-intern-orientation.md) before the meeting.
