@@ -50,7 +50,7 @@ myPlanet is an Android app available on the Play Store. Please find and install 
 Join as a beta tester to help us improve the app!
 
 - **From a Phone:**
-  Join using Google Play on Android via [this link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
+  Join using Google Play on Android in [treehouse remote detail page](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet). Under “Join the beta,” tap Join and then Join.
 
 - **From a Laptop or Desktop Computer:**
   Join on the web via [this link](https://play.google.com/apps/testing/org.ole.planet.myplanet).
