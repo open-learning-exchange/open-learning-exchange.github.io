@@ -1,7 +1,5 @@
 # Rayyan Alam
 
-## About me
-
 ## Information
 
 | Name                | Timezone | Location | Operating System     |
