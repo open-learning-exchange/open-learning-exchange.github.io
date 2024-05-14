@@ -1,6 +1,7 @@
 # About Me
 
-<img src="https://imgs.search.brave.com/zNqW6BkRux_OLr2liSJa6cYkk5022edk5R-dgqqAONg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/NS9TYW50YS1DbGF1/cy5wbmc" alt="Profile Picture" style="border-radius: 100%; width: 200px; height: 200px;">
+<img src="https://media.licdn.com/dms/image/D4E03AQEx8U6taceLjA/profile-displayphoto-shrink_800_800/0/1684198610008?e=2147483647&v=beta&t=rNypssHeehulpBO4vLvLPf2c_faytHct9zEDWOVLCmc" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px;">
+
 
 ## Introduction
 
@@ -31,5 +32,5 @@ Hello! My name is Rayyan, and I'm an aspiring software developer. I'm passionate
 
 > Thank you for taking the time to view!
 > 
-> Contact me at rayyanal3357@gmail.com
+> [Send me an email](mailto:ute2br@virginia.edu)
 
