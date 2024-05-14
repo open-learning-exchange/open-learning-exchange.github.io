@@ -11,10 +11,10 @@ Hello! My name is Rayyan, and I'm an aspiring software developer. I'm passionate
 
 ## Skills
 
-- **Programming Languages:**   ==Python, Java, HTML/CSS==
-- **Frameworks/Libraries:**   ==React.js, Bootstrap==
-- **Tools:**   ==Git, VS Code, Android Studio==
-
+- **Programming Languages:**  Python, Java, HTML/CSS
+- **Frameworks/Libraries:**   React.js, Bootstrap
+- **Tools:**   Git, VS Code, Android Studio
+  
 ## Interests
 
 - Photography 📸
