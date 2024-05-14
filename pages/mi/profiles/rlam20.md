@@ -5,8 +5,6 @@
 
 <img src="https://imgs.search.brave.com/0lBkU7pLVmgPO23TxE3333gI-ce2tSflmg1ODjHFsEk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2xpcGFydG1heC5j/b20vcG5nL21pZGRs/ZS8zMzItMzMyMTIz/OV9nZW5kZXItbmV1/dHJhbC1zaWxob3Vl/dHRlLWhlYWQucG5n" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px;">
 
-## Information
-
 | Name                | Timezone | Location | Operating System     |
 |-----------------------|---------------------|----------|----------|
 | Rayyan Alam   | EST | Virginia, United States   | Windows 10.0.22631|
