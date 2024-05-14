@@ -1,9 +1,6 @@
 # About Me
 
-## Rayyan Alam
-
-
-<img src="https://imgs.search.brave.com/0lBkU7pLVmgPO23TxE3333gI-ce2tSflmg1ODjHFsEk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2xpcGFydG1heC5j/b20vcG5nL21pZGRs/ZS8zMzItMzMyMTIz/OV9nZW5kZXItbmV1/dHJhbC1zaWxob3Vl/dHRlLWhlYWQucG5n" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px;">
+## *Rayyan Alam*
 
 | Name                | Timezone | Location | Operating System     |
 |-----------------------|---------------------|----------|----------|
@@ -14,17 +11,20 @@ Hello! My name is Rayyan, and I'm an aspiring software developer. I'm passionate
 
 ## Skills
 
-- **Programming Languages:** Python, Java, HTML/CSS
-- **Frameworks/Libraries:** React.js, Bootstrap
-- **Tools:** Git, VS Code, Android Studio
-
-
+- **Programming Languages:**   ==Python, Java, HTML/CSS==
+- **Frameworks/Libraries:**   ==React.js, Bootstrap==
+- **Tools:**   ==Git, VS Code, Android Studio==
 
 ## Interests
 
-- Photography
-- Basketball
-- Biking
+- Photography 📸
+- Basketball 🏀
+- Biking 🚴
+
+## Goals for the summer
+- [x] Travel
+- [ ] Learn a new language
+- [ ] Calesthenics
 
 ## Connect with Me
 
