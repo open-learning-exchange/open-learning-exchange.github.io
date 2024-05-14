@@ -3,7 +3,7 @@
 ## Introduction
 
 
-<img src="https://imgs.search.brave.com/0lBkU7pLVmgPO23TxE3333gI-ce2tSflmg1ODjHFsEk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2xpcGFydG1heC5j/b20vcG5nL21pZGRs/ZS8zMzItMzMyMTIz/OV9nZW5kZXItbmV1/dHJhbC1zaWxob3Vl/dHRlLWhlYWQucG5n" alt="Profile Picture" style="border-radius: 60%; width: 150px; height: 200px;">
+<img src="https://imgs.search.brave.com/0lBkU7pLVmgPO23TxE3333gI-ce2tSflmg1ODjHFsEk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2xpcGFydG1heC5j/b20vcG5nL21pZGRs/ZS8zMzItMzMyMTIz/OV9nZW5kZXItbmV1/dHJhbC1zaWxob3Vl/dHRlLWhlYWQucG5n" alt="Profile Picture" style="border-radius: 60%; width: 300px; height: 200px;">
 
 
 Hello! My name is Rayyan, and I'm an aspiring software developer. I'm passionate about computer science and electrical engineering
