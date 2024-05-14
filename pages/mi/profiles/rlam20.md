@@ -22,9 +22,9 @@ Hello! My name is Rayyan, and I'm an aspiring software developer. I'm passionate
 - Biking 🚴
 
 ## Goals for the summer
-- [x] Travel
-- [ ] Learn a new language
-- [ ] Calesthenics
+- [ ] Traveling
+- [x] Learn a new language
+- [ ] Calisthenics 
 
 ## Connect with Me
 
