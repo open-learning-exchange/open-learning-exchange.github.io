@@ -1,10 +1,13 @@
-# *Rayyan Alam*
+# Rayyan Alam
+
+## About me
+
+## Information
 
 | Name                | Timezone | Location | Operating System     |
 |-----------------------|---------------------|----------|----------|
 | Rayyan Alam   | EST | Virginia, United States   | Windows 10.0.22631|
 
-## About me
 
 Hello! My name is Rayyan, and I'm an aspiring software developer. I'm passionate about computer science and electrical engineering
 
