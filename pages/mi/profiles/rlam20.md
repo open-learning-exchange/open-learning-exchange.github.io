@@ -1,6 +1,6 @@
 # About Me
 
-<img src="https://imgs.search.brave.com/zNqW6BkRux_OLr2liSJa6cYkk5022edk5R-dgqqAONg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/NS9TYW50YS1DbGF1/cy5wbmc" alt="Profile Picture" width="200" height="200">
+<img src="https://imgs.search.brave.com/zNqW6BkRux_OLr2liSJa6cYkk5022edk5R-dgqqAONg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/NS9TYW50YS1DbGF1/cy5wbmc" alt="Profile Picture" style="border-radius: 100%; width: 200px; height: 200px;">
 
 ## Introduction
 
