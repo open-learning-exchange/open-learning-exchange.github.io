@@ -26,8 +26,8 @@ Hello! My name is Rayyan, and I'm an aspiring software developer. I'm passionate
 
 ## Connect with Me
 
-- [LinkedIn] [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rayyan-alam-a2349324b/)
-- [GitHub] [https://github.com/your-username](https://github.com/rlam20)
+- [LinkedIn](https://www.linkedin.com/in/rayyan-alam-a2349324b/)
+- [Github](https://github.com/rlam20)
 
 > Thank you for taking the time to view!
 > 
