@@ -1,6 +1,6 @@
 # About Me
 
-![Profile Picture](profile.jpg)
+<img src="https://media.licdn.com/dms/image/D4E03AQEx8U6taceLjA/profile-displayphoto-shrink_400_400/0/1684198610007?e=1721260800&v=beta&t=YdJqV46x0fIxjDmJMqhZWa97JuV3xrxxiCA2yUzpZf4" alt="Profile Picture" style="border-radius: 50%;">
 
 ## Introduction
 
@@ -26,8 +26,8 @@ Hello! My name is Rayyan, and I'm an aspiring software developer. I'm passionate
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rayyan-alam-a2349324b/))
-- [GitHub]([https://github.com/your-username](https://github.com/rlam20))
+- [LinkedIn] [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rayyan-alam-a2349324b/)
+- [GitHub] [https://github.com/your-username](https://github.com/rlam20)
 
 > Thank you for taking the time to view!
 > 
