@@ -2,7 +2,7 @@
 
 ## Welcome to the OLE Mobile Intern Team!
 
-Congratulations! You have completed the first steps and have been selected to join the Open Learning Exchange mobile virtual intern team. Please remember that we expect interns to have at least 16 hours a week for the minimal of 3 months to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
+Congratulations! You have completed the first steps and have been selected to join the Open Learning Exchange mobile virtual intern team. Please remember that we expect interns to have at least 24 hours a week for the minimal of 3 months to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
 
 ## Get to Know the Team
 
@@ -12,33 +12,37 @@ The first thing is to meet the team, starting with CTO [dogi](https://github.com
 
 Typically, interns choose what project they want to work on based on their experience. If you get tired of a certain project, there is an opportunity to switch. Take a look at our current projects below, if any particular ones interest you, there is a very good chance that you can work on them.
 
-#### Active Mobile Projects
+**Current Active Mobile Projects**
 
-* [myPlanet](https://github.com/open-learning-exchange/myplanet)
-  * An Android app that syncs with Planet to save data for offline use and send usage data.
-* [Remote](https://github.com/treehouses/remote/)
-  * An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
+- [myPlanet](https://github.com/open-learning-exchange/myplanet)
+  - An Android app that syncs with Planet to save data for offline use and send usage data.
+- [Remote](https://github.com/treehouses/remote/)
+  - An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 
 ## A Few Things to Know...
 
-Once you officially become a virtual intern, you will receive email invites to become GitHub organization members of [open-learning-exchange](https://github.com/open-learning-exchange), [ole-vi](https://github.com/ole-vi), and [treehouses](https://github.com/treehouses).
+### Becoming a GitHub Organization Member
 
-**Now you should work on OLE's repositories instead of your own forked repositories, the workflow will be [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)**. Note that this will give you the ability to make bigger mistakes - so make sure you always double check what branch you are working on. Remember to commit often and create pull request early, so other virtual interns could look at your code and make sure you are on the right track at an early stage.
+Once you've been officially onboarded as a virtual intern, you'll receive email invitations to join the GitHub organizations: [open-learning-exchange](https://github.com/open-learning-exchange), [ole-vi](https://github.com/ole-vi), and [treehouses](https://github.com/treehouses).
 
-You will now have the ability to review, close, and merge pull requests and issues.
+Upon receiving these invitations, please accept them promptly. Once accepted, mark yourself as a public member in the [list of OLE contributors](https://github.com/orgs/open-learning-exchange/people).
 
-Once you have accepted your invitation, mark yourself as a public member in the [list of OLE contributors.](https://github.com/orgs/open-learning-exchange/people)
+### Transition to OLE's Repositories and Adopt the Feature Branch Workflow
+
+Moving forward, you'll be working directly on OLE's repositories instead of your own forked repositories. We'll be following the [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), which allows for better collaboration and code management.
+
+It's important to note that with this workflow, you have the potential to make more significant changes, so always double-check the branch you're working on. Additionally, commit frequently and create pull requests early in the development process. This enables other virtual interns to review your code and provide feedback, ensuring you stay on the right track from the outset.
 
 ### Reviewing Pull Requests and Issues
 
-One of your responsibilities as an intern is to review and help prospective interns with their issues / pull requests on open learning exchange. You can start a review by going to the files changed tab on a pull request. You can read more about [Review on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews).
+One of your responsibilities as an intern is to review and help prospective interns with their issues / pull requests at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io). To begin a review, navigate to the 'Files changed' tab on a pull request. Familiarize yourself with GitHub's review features by referring to the [Review on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) documentation.
 
-Since we are a very diverse community with people coming from different backgrounds and cultures, it might be hard to find the right language to use in reviewing other's code. Please make sure to read [**a guide for reviewing code and having your code reviewed**](https://github.com/thoughtbot/guides/tree/main/code-review#code-review) for some useful tips.
+Ensure you're mindful of our diverse community when communicating feedback. Refer to [**A guide for reviewing code and having your code reviewed**](https://github.com/thoughtbot/guides/tree/main/code-review#code-review) for tips on using inclusive language and fostering a supportive environment."
 
 You should check if the following conditions are met:
 
-- [x] issue number is included in pull request title and description in the format of `(fixes #IssueNumber)`
-- [x] there are no unnecessary files/lines change in pull request
+- [x] issue number is included in pull request title and description in the format of `(fixes #IssueNumber)`, when applicable
+- [x] there are no unnecessary files/lines change in "Files changed" tab
 - [x] there's a branch for the patch
 - [x] the pull request actually fixes the issue
 - [x] changes are rendered correctly on rawgit preview
@@ -49,26 +53,25 @@ Every time you comment on an issue or review a pull request, message those invol
 
 ### Merging a Pull Request
 
-The pull request can be merged if at least two other people have approved the pull request and there are no more changes requested by another intern. One exception is when virtual interns are adding themselves to the team, we want the new intern to merge their pull request during their initial meeting interview.
+To merge a pull request, follow these steps:
 
-When you are ready to merge the pull request:
+1. **Approval Requirement:** Ensure that at least two other team members have approved the pull request, and there are no outstanding change requests from others. However, there's an exception for virtual interns adding themselves to `mi-team.md`: they should merge their pull request during their initial meeting interview.
 
-* Select "Squash Merge"
-* **Remove all of the commit messages in the extended description, and make sure the commit title is clear and short.** 
-* Include “(fixes #IssueNumber)” in the title so it will automatically close the issue.
-  * If you forget to add a keyword, go to the issue and manually close it and link to the original pull request.
-  * An example of good commit title is: "update vi-configuration.md (fix #1530) (#1557)", where "1530" is the issue number and "1557" is pull request number.
-  * Read more about [closing Issues using keywords](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword).
+2. **Merging Process:**
+   - Select "Squash and Merge"
+   - **Commit Title:** Remove all commit messages in the extended description. Keep the commit title concise, clear, and in lowercase.
+   - **Closing Issue:** If applicable, include "(fixes #IssueNumber)" in the title to [automatically close the associated issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword). If forgotten, manually close the issue and link it to the original pull request. An example of a good commit title: "update vi-configuration.md (fixes #1530) (#1557)", where "1530" is the issue number, and "1557" is the pull request number.
 
-Every time you merge a pull request, message the author on [Discord server](https://discord.gg/mtgGD4EnYW), make sure you include a link to the pull request and commit id.
+3. **Notification:** After merging a pull request, mention the author on the [Discord server](https://discord.gg/mtgGD4EnYW). Ensure to include a link to the pull request and the commit ID for reference.
 
-### Standup Message
+### Check-in/Check-out
 
-Every time you work on OLE projects and issues, you should post the "[stand-up](https://en.wikipedia.org/wiki/Stand-up_meeting)" message in [our discord standup room](https://discord.gg/mtgGD4EnYW) before you start working. Use the following format:
+We typically conduct verbal check-ins (similar to "[stand-up meetings](https://en.wikipedia.org/wiki/Stand-up_meeting)") and check-outs. If verbal communication isn't possible, you can use the following text format in our Discord *vi-lounge* channel:
 
 ```
-What did I achieve yesterday?
-- Mention what you were able to achieve
+# Check-in
+What did I work on last time?
+-
 
 What is my aim for today?
 - List what you are working on - consider linking to the issues
@@ -77,7 +80,14 @@ What obstacles are in the way of our progress?
 - List any problems
 ```
 
-This is especially helpful if you are not able to attend our Google Hangouts sessions.
+```
+# Check-out
+What I worked on today
+- Consider linking to the pull request when applicable
+
+which date and time are we going to meet you next
+- e.g. Wednesday 10am EDT
+```
 
 ## Form a Working Routine and Schedule
 
@@ -85,28 +95,22 @@ This is especially helpful if you are not able to attend our Google Hangouts ses
 
 While you are free to work in your own style, we recommend you follow this basic daily routine:
 
-* Check Discord virtual interns channel and your discord private messages.
-* Join the [OLE Google Meet session](http://talk.ole.org) if you are able to, so you can follow what everyone is working on and get help fast.
-* Write a message in [Discord standup room](https://discord.gg/mtgGD4EnYW) with the format mentioned above.
-* Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
-* Work on your issues and write in intern chat any time you run into problems.
-* Make pull requests as early as possible so you can get feedback as you work.
-* Close issues with `(fixes #IssueNumber)` in the pull request squash merge commit message. [Closing Issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)
+- Check Discord channels and your discord private messages.
+- Join the [OLE Google Meet session](http://talk.ole.org) if you are able to, so you can follow what everyone is working on and get help fast.
+- Check in verbally or write a message in Discord vi-lounge channel with the format mentioned above.
+- Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
+- Close issues with `(fixes #IssueNumber)` in the pull request squash merge commit message.
+- Work on your issues and write in the respective repository Discord channel any time you run into problems.
+- Commit often and make pull requests as early as possible, so you can get feedback as you work.
 
 ### Weekly Schedule
 
-All of our Google Meet sessions can be joined at <http://talk.ole.org>. Currently, we have a few scheduled sessions each week:
-
-* Happy hacking hangout
-* angular asia (h)acking (h)angout
-* BeLL Reboot Angular Hacking Hangout
-* Raspberry Pi Hangout
-* Take Home Hangout
-
-Every Monday at the "[Happy hacking hangout](http://talk.ole.org)" session, we work on problems together and catch up on what people have been doing all week. It is also advisable to schedule a day out of the week to meet with a team leader, especially if you can’t make it to the meeting. Use the calendar to set up meetings and other events with interns.
+Our Google Meet session can be joined at [http://talk.ole.org](http://talk.ole.org). As we start up our virtual internship program, we might split up into many google meet sessions or use Discord for synchronous communication.
 
 ## Communicate, Communicate, Communicate!
 
-It’s not good to go silent on Discord or any other forms of communication. If you are ever unsure of what to work on, or cannot work for any other reason, please talk to us in the Discord server. It's better that we know why you aren’t able to do anything than to imagine reasons ourselves. Remember, the more you put into this internship the more you will get out of it. It may take a while to get used to the fact that you will need a good amount of self-discipline and initiative to get anything done in a remote internship, but we are here to help, so take advantage of it!
+Communication is key to success in a remote internship. Don't hesitate to reach out on Discord if you have questions, concerns, or need guidance. We're here to support you every step of the way.
 
-Also, if you find any issue that must be addressed with a pull request, do not forget to use the `Request changes` option when creating your review.
+If you're unsure about what tasks to tackle next or encounter any obstacles preventing you from working, let us know. It's better to communicate openly rather than leave us guessing. Remember, the more you invest in this internship, the more you'll gain from it.
+
+Adjusting to remote work requires self-discipline and initiative, but you're not alone. We're here to help you navigate this journey, so don't hesitate to ask for help or advice. Your success is our priority!
