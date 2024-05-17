@@ -28,6 +28,6 @@
     - IntelliJ
     - JavaFX
     
-## Find me at:
+## Find me at
 - [LinkedIn](https://www.linkedin.com/in/vivian-li-85a740b7/)
 - [GitHub](https://github.com/strawberrybread)
