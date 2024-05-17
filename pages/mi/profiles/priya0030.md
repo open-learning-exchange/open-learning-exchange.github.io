@@ -9,8 +9,11 @@
 ## About Me
 ----------
 -🎓 Currently pursuing an MS in Computer Science at UAB.
+
 -📱 Mobile Application Developer passionate about creating innovative apps.
+
 -🔄 Loves exploring new ideas and trying different things.
+
 -🎧 Enjoys listening to music.
 
 ## Languages and Technologies mostly I use:
