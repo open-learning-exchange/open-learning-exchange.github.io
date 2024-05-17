@@ -16,14 +16,21 @@
 
 ## Languages and Technologies mostly I use:
 
-  <li> C </li>
-  <li> C++ </li>
-  <li> Java </li>
-  <li> Python </li>
-  <li> Dart </li>
-  <li> Flutter </li>
-  <li> Android Studio </li>
-  <li> Git </li>
+    C
+  
+    C++
+  
+    Java
+  
+    Python
+  
+    Dart
+  
+    Flutter
+  
+    Android Studio
+  
+    Git
 
 ## Find me on:
 
