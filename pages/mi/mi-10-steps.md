@@ -21,13 +21,23 @@ These steps may seem simple, but we expect high-quality work, which might requir
 
 Take the opportunity to read more about the tools and languages we use to deepen your understanding and reduce confusion. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice in first steps are crucial for both this internship and a future career in software development.
 
-The MDwiki offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step. We also have an [FAQ page](mi-faq.md) with answers to commonly asked questions. This page also includes more [helpful links and video tutorials](mi-faq.md#Helpful_Links) to help you become familiar with the tools and languages we use. If you can't find what you need on the FAQ page, Google and Stack Exchange are great additional resources. :)
+The MDwiki offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step. :)
 
 **We also would like you to keep us regularly updated in the Discord channel as you complete these steps. We will ask you to send messages, links, and screenshots along the way, which we'll use to track your progress. Please make sure not to miss this, as it's crucial for us to track your work.**
 
 A significant part of these steps is identifying problems or suggesting improvements for this MDwiki. As you complete the steps, take note of any issues you encounter or ideas for enhancements. This helps improve the MDwiki and these steps for future interns.
 
 While there's no official deadline for completing these steps, most successful candidates finish them within 7-8 days. Good luck!
+
+## FAQ - Frequently Asked Questions
+
+Our FAQ page is a comprehensive resource containing answers to common questions about the internship and First Steps. It also features additional helpful links and video tutorials aimed at familiarizing you with the tools and languages integral to our work.
+
+If you have general internship inquiries and can't find the information you need on the FAQ page, please don't hesitate to reach out to us via Discord. Try to avoid DMs as others might have the same question!
+
+For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google and Stack Exchange serve as excellent supplementary resources to explore. :) 
+
+Link to the [FAQ page](mi-faq.md)
 
 ## Step 0 - Prerequisites
 
