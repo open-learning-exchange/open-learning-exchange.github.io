@@ -207,4 +207,4 @@ If you would like to understand how syncing with the fork works, here is a usefu
 [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 [Other helpful links and videos](mi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](mi-first-steps.md)
+#### Return to [First Steps](mi-10-steps.md)
