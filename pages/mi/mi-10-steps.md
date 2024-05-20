@@ -35,7 +35,7 @@ To participate in the internship, you will need the following hardware:
 
 1. A laptop or desktop computer with at least 8GB of RAM.
 2. An Android device (phone or tablet) with a minimum of 3GB of RAM and running Android 9 "Pie" or later, and/or a Chromebook.
-   - If you do not have a physical Android or Chromebook device, you can use a Raspberry Pi 4 or 5 with at least 8GB of RAM as an experimental alternative.
+   - If you do not have a physical Android or Chromebook device, you can use a [Raspberry Pi 4](https://emteria.com/kb/hardware#raspberry-pi-4b) [or 5](https://emteria.com/kb/hardware#raspberry-pi-5) with at least 8GB of RAM as an experimental alternative.
 3. A stable internet connection.
 
 ## Step 1 - Markdown & Forking Workflow
