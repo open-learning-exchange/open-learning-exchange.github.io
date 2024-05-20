@@ -16,4 +16,4 @@ Take a screenshot of the myPlanet app's home page after logging in on your emula
 
 - [FAQ - What is the purpose of Nations and Communities, and how do they work together?](https://open-learning-exchange.github.io/#!pages/mi/mi-faq.md##Q11:_What_is_the_purpose_of_Nations_and_Communities,_and_how_do_they_work_together?)
 
-#### Return to [First Steps](mi-10-steps.md)
+#### Return to [First Steps](mi-10-steps.md#Step_4_-_Connect_myPlanet_app_to_Planet)

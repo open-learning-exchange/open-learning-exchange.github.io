@@ -159,4 +159,4 @@ After your pull request has been **approved** and **merged** by us, you might wa
 
 [Other helpful links and videos](../vi/vi-faq.md#Helpful_Links)
 
-#### Return to [First Steps](mi-10-steps.md#Step_1_-_GitHub_&_Markdown_Setup)
+#### Return to [First Steps](mi-10-steps.md#Step_1_-_Markdown_&_Forking_Workflow)
