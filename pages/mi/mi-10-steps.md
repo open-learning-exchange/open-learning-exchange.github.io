@@ -35,6 +35,7 @@ To participate in the internship, you will need the following hardware:
 
 1. A laptop or desktop computer with at least 8GB of RAM.
 2. An Android device (phone or tablet) with a minimum of 3GB of RAM and running Android 9 "Pie" or later, and/or a Chromebook.
+   - If you do not have a physical android device, you can use a Raspberry Pi 4/5 as an alternative with minimum 8GB. 
 3. A stable internet connection.
 
 ## Step 1 - Markdown & Forking Workflow
