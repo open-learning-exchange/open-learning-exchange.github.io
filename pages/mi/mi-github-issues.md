@@ -4,7 +4,7 @@
 
 - Learn about GitHub Issues, Commits, and Pull Requests
 - Understand the collaborative git/GitHub workflow used during the internship
-- Create an Issue, then create a branch to fix it upon approval
+- Create an Issue regarding Mobile Intern First Steps, then create a branch to fix it upon approval
 - After resolving the Issue, make a Pull Request to the `open-learning-exchange/open-learning-exchange.github.io` upstream repository
 - Work with us to make necessary changes, then merge the branch into the upstream repository
 - Comment on an existing Issue
@@ -19,7 +19,7 @@ NOTE: Issues are not just about adding new content or improving this MDwiki; the
 
 ## 3. Create an Issue
 
-You might have already noticed something that could be improved by the time you reach this step, if so, please search existing open and closed issues to make sure it's not brought up already and there isn't an open pull request for it. If not, please look around to find one.
+You might have already noticed something in the Mobile Intern First Steps that could be improved by the time you reach this step, if so, please search existing open and closed issues to make sure it's not brought up already and there isn't an open pull request for it. If not, please look around to find an issue.
 
 - To create an issue, navigate to the ([upstream repository's Issues tab](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues)) and click "New Issue." Pick a suitable title, then follow the new issue template in the "Write" textbox:
     1. **Problem**: describe the problem in detail
