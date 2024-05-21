@@ -123,25 +123,16 @@ https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/
 Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a raw.githack link in your next step, the pull request.
 
 ## 6. Create a Pull Request
-If you login to your own fork of OLE on Github, GitHub will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Here are some steps that we suggest you follow:
 
-1. Click on the green button labeled "Compare & pull request."
+Now, go to your forked repository on GitHub by visiting `https://github.com/YourUsername/YourUsername.github.io`. GitHub will detect that you recently pushed a new branch.
+
+1. Click on the green button labeled "Compare & pull request." ![Compare & Pull](image/mi-compare-pull.png)
 2. On the new page, provide a title and description for your pull request.
-3. Fill out the necessary forms.
-4. Finally, submit the pull request 
-
-![Compare & Pull](image/mi-compare-pull.png)
-
-For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. Here are some steps that we suggest you follow:
-
-1. Include Issue Number in Pull Request Title:
-   * Add the issue number (e.g., #320) to the title of your pull request. This helps others quickly associate the PR with the relevant issue.
-2. Add raw.githack link to Description:
-   * Include the raw.githack link in your pull request description. This allows reviewers to instantly view the changes without searching for related issues.
-3. Create a Checklist:
-   * Use a checklist to outline what you've done and what remains to be addressed.
-
-Here's an example image of all the steps executed above.
+   - Add ` (fixes #IssueNumber)` to the end of your title when applicable.
+   - Follow the pull request template and fill out the necessary details in the description.
+     - Make sure you include the raw.githack link in your pull request description. This link allows us to preview the changes rendered by MDWiki.
+     - Optionally, use a checklist to outline what you've done and what remains to be addressed.
+3. Finally, submit the pull request.
 
 ![Pull Request Check List](image/mi-pull-request-details.png)
 
