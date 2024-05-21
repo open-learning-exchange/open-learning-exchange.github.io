@@ -123,25 +123,20 @@ https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/
 Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a raw.githack link in your next step, the pull request.
 
 ## 6. Create a Pull Request
-If you login to your own fork of OLE on Github, GitHub will notice that you recently pushed a new branch. The fork can be found via `https://github.com/YourUsername/YourUsername.github.io`, replacing YourUsername with your own details. Press the green button that says Compare & pull request. In this new page, give the PR a title and description. Once you are done with filling out these forms, submit the pull request by clicking on the green create pull request button.
 
-![Compare & Pull](image/mi-compare-pull.png)
+Now, go to your forked repository on GitHub by visiting `https://github.com/YourUsername/YourUsername.github.io`. GitHub will detect that you recently pushed a new branch.
 
-For everyone's convenience, we highly recommend that you follow a certain structure when submitting a pull request. We suggest to include the issue for which the pull request is resolving (for example, if your pull request fixes the issue number 320, then add `#320` to your pull request) to the title of your PR and also the raw.githack link into the description of the pull request. This saves a lot of time for the person reading your pull request as he/she does not need to search and match the issues with the corresponding PR and is able to instantly see the changes pushed via the raw.githack link.
+1. Click on the green button labeled "Compare & pull request." ![Compare & Pull](image/mi-compare-pull.png)
+2. On the new page, provide a title and description for your pull request.
+   - Add ` (fixes #IssueNumber)` to the end of your title when applicable.
+   - Follow the pull request template and fill out the necessary details in the description.
+     - Make sure you include the raw.githack link in your pull request description.
+       - Note on the difference between raw.githack and raw.githubusercontent link.
+       - This link allows us to preview the changes rendered by MDWiki. Make sure to open it and ensure it's not in plaintext.
+     - Optionally, use a checklist to outline what you've done and what remains to be addressed.
+3. Finally, submit the pull request.
 
 ![Pull Request Check List](image/mi-pull-request-details.png)
-
-Additionally, creating a checklist will help others understand what you have done and what needs to be done - it helps you coordinate with your team members with the issues you are facing in an organized manner. GitHub will render the task list in markdown, and it will look similar to something like the checklist shown below this paragraph.
-
-[x] Check for issue number in pull request title
-[x] Are there any unneeded files in the pull request?
-[x] Did they make a branch for their patch?
-[x] Does the pull request actually fix the issue?
-[x] Check the pull request on raw.githack, does it display without any errors?
-[x] Is there any merge conflicts?
-[x] Make sure that people use their GitHub accounts when making commits through git
-
-Some of these items are of course optional, but try to include as much useful information for others as possible in your checklists because nobody really wants to work on something that has already been completed by someone else.
 
 NOTE: While you are waiting on two OLE team members to approve your Pull Requests, it is OK to keep creating more Issues and Pull Requests in the meantime. They will all count towards your final Issue/PR total, and PR approval can take time, so do not let a lengthy approval/fix process keep you from moving on in your "First Steps".
 
