@@ -16,6 +16,6 @@ OLE uses crowdin to manage our software translations. We have found crowdin to b
 
 Below are the links to our Crowdin translation projects:
 
-- [Planet](https://crowdin.com/project/ole-planet/invite)
-- [Take Home](https://crowdin.com/project/take-home/invite)
-- [Remote](https://crowdin.com/project/treehousesremote/invite)
+- [Planet](https://crowdin.com/project/ole-planet)
+- [Take Home](https://crowdin.com/project/take-home)
+- [Remote](https://crowdin.com/project/treehousesremote)
