@@ -45,4 +45,4 @@ There are a few nations we
 - learning - android
 - guatemala - Spanish speaking
 
-#### Return to [First Steps](mi-10-steps.md)
+#### Return to [First Steps](mi-10-steps.md#Step_7_-_Take_a_Course_on_myPlanet,_Courses_Gardening)
