@@ -130,7 +130,9 @@ Now, go to your forked repository on GitHub by visiting `https://github.com/Your
 2. On the new page, provide a title and description for your pull request.
    - Add ` (fixes #IssueNumber)` to the end of your title when applicable.
    - Follow the pull request template and fill out the necessary details in the description.
-     - Make sure you include the raw.githack link in your pull request description. This link allows us to preview the changes rendered by MDWiki.
+     - Make sure you include the raw.githack link in your pull request description.
+       - Note on the difference between raw.githack and raw.githubusercontent link.
+       - This link allows us to preview the changes rendered by MDWiki. Make sure to open it and ensure it's not in plaintext.
      - Optionally, use a checklist to outline what you've done and what remains to be addressed.
 3. Finally, submit the pull request.
 
