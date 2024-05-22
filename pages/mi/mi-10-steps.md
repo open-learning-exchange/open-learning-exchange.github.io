@@ -11,7 +11,7 @@ If you are selected for the internship after completing the steps, you will be o
 
 If you are selected after completing these steps, you'll work with your team on an assignment, and assignments will change weekly. During this internship, you will have the opportunity to work with various software and languages including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Vagrant](https://www.vagrantup.com/)**, **[VirtualBox](https://www.virtualbox.org/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Docker](https://www.docker.com/)**, **[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**, **[Node.js](https://nodejs.org/en/)**, **[Angular](https://angular.io/)**, **[Java](https://www.tutorialspoint.com/java/index.htm)**, and **[Kotlin](https://kotlinlang.org/)**.
 
-**NOTE**: This is an unpaid, intensive internship requiring at least 20 hours of work per week. You can find more information about the internship in our [FAQ](mi-faq.md#General_Internship_Questions). If you have additional questions, feel free to ask in the Discord server!
+**NOTE**: This is an unpaid, intensive internship requiring at least 24 hours of work per week. You can find more information about the internship in our [FAQ](mi-faq.md#General_Internship_Questions). If you have additional questions, feel free to ask in the Discord server!
 
 ## The Steps
 
@@ -31,18 +31,21 @@ While there's no official deadline for completing these steps, most successful c
 
 ## Step 0 - Prerequisites
 
-To participate in the internship, you will need the following hardware:
+To participate in the internship, you will need the following:
 
 1. A laptop or desktop computer with at least 8GB of RAM.
 2. An Android device (phone or tablet) with a minimum of 3GB of RAM and running Android 9 "Pie" or later, and/or a Chromebook.
    - If you do not have a physical Android or Chromebook device, you can use a [Raspberry Pi 4](https://emteria.com/kb/hardware#raspberry-pi-4b) [or 5](https://emteria.com/kb/hardware#raspberry-pi-5) with at least 8GB of RAM as an experimental alternative.
-3. A stable internet connection.
+3. Discord installed on both your Android device and your laptop or desktop computer for easier communication and screenshot sharing.
+4. A stable internet connection.
+
+**Once you have confirmed that you meet the aforementioned requirements, please say hi to everyone in the Discord channel and let us know that you have reached Step 0.**
 
 ## Step 1 - Markdown & Forking Workflow
 
 Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdown & Forking Workflow](mi-github-and-markdown.md).
 
-**Important: Only move onto the next step if you have created the pull request for your profile.**
+**Remember: Only proceed to the next step once you've completed all the instructions and submitted the pull request for your profile.**
 
 ## Step 2 - myPlanet App
 
@@ -50,19 +53,22 @@ myPlanet is an Android app available on the Play Store. Please find and install 
 
 #### Enroll in Beta Testing
 
-Join as a beta tester to help us improve the app!
+Join as a beta tester to help us improve the app:
 
 - **From a Phone:**
   Join in Google Play on Android in [treehouse remote detail page](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet). Scroll all the way down, under “Join the beta,” tap Join.
-
 - **From a Laptop or Desktop Computer:**
   Join on the web via [this link](https://play.google.com/apps/testing/org.ole.planet.myplanet).
 
+After enrolling, there may be a delay before you can upgrade to the beta version of the app.
+
 #### Testing the app
 
-Once you've installed the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap "SYNC". Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
+Once you've installed the beta version of the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap "SYNC". Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
 
 Take screenshots and attempt to crash the app. After exploration, update us on Discord: "I'm on step 2, spent about xx minutes in the myPlanet app and crashed it when navigating to ..." or "I'm on step 2, spent about xx minutes in the myPlanet app and it did not crash."
+
+Details about the crash might take up to 24 hours to show up in Google Play Console on our end.
 
 ## Step 3 - Build myPlanet in Android Studio
 
@@ -107,7 +113,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 **NOTE**: While adding details can be helpful, it's important to remember that less is often more. Over time, this First Steps guide has become bloated with too much information, making it harder to follow. As you work on improving this guide, focus on simplifying the instructions and removing any unnecessary content. The goal is to create a clear and concise guide that future virtual interns can easily understand and use.
 
 **NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request by suffixing it with `(fixes #ISSUE_NUM)` and make a new branch for every new issue from the master branch.
-  
+
 Once you complete Step 8 you will have:
 
 - 5 merged pull requests (one at step 1, one at step 6 and three at step 8)
