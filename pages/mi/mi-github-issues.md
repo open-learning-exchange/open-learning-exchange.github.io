@@ -103,23 +103,6 @@ For example, http://raw.githack.com/aasenomad/aasenomad-ole.github.io/master/#!i
 
 ![Index via Raw.githack Link](image/mi-raw.githack-index.png)
 
-#### 5.2.1 Raw.githack Generator
-
-![Raw.githack Generator](image/mi-raw.githackGenerator.png)
-
-You can also use the raw.githack url generator on <https://raw.githack.com>
-1.  Select the branch you were working on from the drop-down on the top left
-2.  Navigate to the page you changed in your fork of the GitHub repository
-3.  Copy the URL in your browser and paste it in the field on <https://raw.githack.com>
-4.  Select the Development URL
-5.  Add ```#!``` after the forward slash proceeding your branch name, this will show the markdown in presentation mode rather than as raw markdown.
-
-**example:**
-
-https://raw.githack.com/open-learning-exchange/open-learning-exchange.github.io/3196-add-mi-github-and-markdown/index.html#!./pages/mi/mi-github-and-markdown.md
-
-![example](image/mi-raw.githack-example.png)
-
 Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a raw.githack link in your next step, the pull request.
 
 ## 6. Create a Pull Request
