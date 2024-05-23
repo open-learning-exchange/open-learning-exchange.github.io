@@ -36,7 +36,7 @@ To participate in the internship, you will need the following:
 1. A laptop or desktop computer with at least 8GB of RAM.
 2. An Android device (phone or tablet) with a minimum of 3GB of RAM and running Android 9 "Pie" or later, and/or a Chromebook.
    - If you do not have a physical Android or Chromebook device, you can use a [Raspberry Pi 4](https://emteria.com/kb/hardware#raspberry-pi-4b) [or 5](https://emteria.com/kb/hardware#raspberry-pi-5) with at least 8GB of RAM as an experimental alternative.
-3. Discord installed on both your Android device and your laptop or desktop computer for easier communication and screenshot sharing.
+3. [Discord](https://discord.com/download) installed on both your Android device and your laptop or desktop computer for easier communication and screenshot sharing.
 4. A stable internet connection.
 
 **Once you have confirmed that you meet the aforementioned requirements, please say hi to everyone in the Discord channel and let us know that you have reached Step 0.**
