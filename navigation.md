@@ -15,9 +15,9 @@
 
   * [**Introduction**](pages/translators/la-introduction.md)
   - - - -
-  * [Planet](https://crowdin.com/project/ole-planet/invite)
-  * [Take Home](https://crowdin.com/project/take-home/invite)
-  * [Remote](https://crowdin.com/project/treehousesremote/invite)
+  * [Planet](https://crowdin.com/project/ole-planet)
+  * [Take Home](https://crowdin.com/project/take-home)
+  * [Remote](https://crowdin.com/project/treehousesremote)
 
 [Virtual Interns]() <!-- Planet Intern Program -->
 
