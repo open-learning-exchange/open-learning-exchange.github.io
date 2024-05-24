@@ -7,13 +7,21 @@
 
 ## Introduction
 
-On GitHub, software code is organized into repositories, each representing a different project. For example, you've been working on one of our repositories, **open-learning-exchange.github.io**. We encourage you to explore our other repositories on GitHub [here](https://github.com/open-learning-exchange), but remember: **look, don't touch**.
+On GitHub, software code is organized into repositories, each representing a different project. For example, you've been working on one of our repositories, **open-learning-exchange.github.io**. We encourage you to explore our other repositories on GitHub [here](https://github.com/open-learning-exchange), but remember: **look, don't touch**. If you are new to Git or GitHub, take a look at [this introduction](https://www.freecodecamp.org/news/introduction-to-git-and-github/).
 
 As previously mentioned, in the [forking workflow](mi-github-and-markdown.md#2.3_Introduction_to_Forking_Workflow), you fork a repository to work on it independently from the upstream repository, then send your changes back to the original repository via a pull request. You completed this process on github.com in Step 1. In this step, we'll dive deeper and use the command line to sync your forked repository with OLE's upstream repository.
 
 The diagram below shows the structure of the forking workflow for open-learning-exchange.github.io, with a central upstream repository, individual forks, and local copies on your machine.
 
 ![Repositories Relationship](image/mi-repo-diagram.png)
+
+## Important Terms
+
+In this step, you'll encounter some common terms, such as
+- `master`/`main`: a repository's default branch name
+- `upstream`: the repository you forked from
+- `origin`: your own fork of the upstream repository
+Both `upstream` and `origin` are considered **[remote](https://git-scm.com/docs/git-remote)**. Also, remember that a repository can contain multiple branches.
 
 ## Start here
 
@@ -25,11 +33,6 @@ This is a summary of the key steps to follow. For a detailed explanation, contin
 - [Configure a Remote Repository for Your Fork](#3._Configure_a_Remote_Repository_for_Your_Fork)
 - [Sync Your Fork](#4._Sync_Your_Fork)
 
-In this step, you'll encounter some common terms, such as
-- `master`/`main`: a repository's default branch name
-- `upstream`: the repository you forked from
-- `origin`: your own fork of the upstream repository
-Both `upstream` and `origin` are considered **[remote](https://git-scm.com/docs/git-remote)**. Also, remember that a repository can contain multiple branches.
 
 ### 1. Clone Your GitHub Repository username.github.io
 
