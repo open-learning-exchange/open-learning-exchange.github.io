@@ -2,9 +2,9 @@
 
 In this step, you will be connecting our mobile application, myPlanet, to Planet "learning" nation. To establish the connection, follow the instructions below:
 
-- **Configuration**: In myPlanet app you just built and installed, click the settings gear icon in the upper-right corner to open the settings dialog box. Leave the default prefilled config untouched, click "SYNC" and allow the process to complete
+### [![Tutorial Video](https://img.youtube.com/vi/Gm194qUNz0o/0.jpg%29)](https://www.youtube.com/watch?v=Gm194qUNz0o)
 
-  ![Server Address Popup Screenshot](image/mi-server-address-popup.png)
+- **Configuration**: In myPlanet app you just built and installed, click the settings gear icon in the upper-right corner to open the settings dialog box. Leave the default prefilled config untouched, click "SYNC" and allow the process to complete
 
 - **Create a User Account**: After syncing, click "BECOME A MEMBER" and fill in the required information to create an account. Keep your credentials somewhere, as you'll need them for future logins.
 
