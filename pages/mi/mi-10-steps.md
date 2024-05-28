@@ -31,9 +31,7 @@ While there's no official deadline for completing these steps, most successful c
 
 ## FAQ - Frequently Asked Questions
 
-Link to the [FAQ page](mi-faq.md)
-
-**Our FAQ page** is a comprehensive resource containing answers to common questions about the internship and First Steps. It also features additional helpful links and video tutorials aimed at familiarizing you with the tools and languages integral to our work.
+**[Our FAQ page](mi-faq.md)** is a comprehensive resource containing answers to common questions about the internship and First Steps. It also features additional helpful links and video tutorials aimed at familiarizing you with the tools and languages integral to our work.
 
 If you have general internship inquiries and can't find the information you need on the FAQ page, please don't hesitate to reach out to us via Discord. Try to avoid DMs as others might have the same question!
 
