@@ -50,15 +50,25 @@ More details in the [previous step](mi-github-and-repositories.md#Summary_of_Ste
 To create a new branch, go to your github repo and create it in a similar fashion as the following image:
 ![Details on Creating a New Branch](image/mi-new-branch.png)
 
-Use `git checkout master` to switch to master branch, then use `git checkout -b <name_of_your_new_branch>` to create and switch to a new branch on your local repository. Make sure to remove the angled brackets (< & >) as they are just place holders. More documentation on checkout can be found [here.](https://git-scm.com/docs/git-checkout)
+1. First, ensure that you are on the **master** branch by running:
 
-Now you can go and make the proposed changes to your local files using any text editor you prefer. You can also use VIM or Nano to edit files from the terminal. [This guide on VIM](https://www.vim.org/docs.php ) and [this guide on Nano](https://www.nano-editor.org/docs.php) contain more information on their proper usage. In the future, we recommend you use  [Visual Studio Code](https://code.visualstudio.com/) for Planet, VIM for treehouse, and [Android Studio](https://developer.android.com/studio) for Android development.
+       git checkout master
 
-NOTE: Use `git branch` to see which branch you are in. Your `master` branch is the base working branch. It needs to remain untouched just in case you need to revert some changes back to a working version. Make sure you are on right branch using `git checkout <branch-name>` while making proposed changes to your local files and while committing.
+2. Next, create a new branch with a descriptive name (replace "<name_of_your_new_branch>" with your desired branch name):
 
-If you're still confused, that's quite alright. [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) can be quite challenging at first. See the diagram below. For better context, the new branch you just made is inside your "Forked GitHub IO".
+        git checkout -b <name_of_your_new_branch>
 
-![GitHub Repo Flowchart](image/mi-repo-flowchart.png)
+This command will create a new branch and automatically switch you to it. You can now make the proposed changes to your local files using any text editor you prefer.
+
+3. Next, use the "git branch" command to see which branch are you in:
+
+        git branch
+
+ Make sure you're on the right branch by using "git checkout <branch-name>":
+
+        git checkout <branch-name>
+
+As for proposed changes, you can use any text editor you prefer. In the future, we recommend you use  [Visual Studio Code](https://code.visualstudio.com/) for Planet, VIM for treehouse, and [Android Studio](https://developer.android.com/studio) for Android development.
 
 ### 4.1. Preview Changes Locally
 
