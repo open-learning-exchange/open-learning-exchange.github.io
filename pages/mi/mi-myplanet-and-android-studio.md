@@ -21,10 +21,10 @@ After importing the project, Android Studio will perform a Gradle build, which m
 ## 4. Configure Emulator
 
 To avoid overriding the app on your physical device and to ensure crash reports are sent, we need to set up an Android emulator for this step. Open 'Tools' > 'Device Manager.'   
-![image](https://github.com/strawberrybread/strawberrybread.github.io/assets/112584985/599aa357-50cc-4053-a729-b3572ae41cfa)
+![Device Manager](image/mi-device-manager-location.png)
 
 Click the + icon to create a new virtual device. You should see this pop up:
-![image](https://github.com/strawberrybread/strawberrybread.github.io/assets/112584985/e3a56cf6-2c3a-4689-9b28-3e9a447591b8)
+![Virtual Device](image/mi-virtual-device-configuration.png)
 
 Follow the prompts to select a hardware, click next and choose a system image. Continue and finish configurations. You may change the device name if you'd like.
 
@@ -32,7 +32,7 @@ Follow the prompts to select a hardware, click next and choose a system image. C
 ## 5. Select Run Configuration
 
 In Android Studio's toolbar, select the desired run configuration from the drop-down menu. It would be `app` in our case.
-![image](https://github.com/strawberrybread/strawberrybread.github.io/assets/112584985/32c420c6-c5c9-48b1-9e3d-b81c1d81a573)
+![Run Configuration](image/mi-app-run-configuration.png)
 
 ## 6. Run the App
 
