@@ -80,7 +80,9 @@
 
 #### Q12: How can I enable virtualization on my computer in order to turn Vagrant on?
 
-+ First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2", "Esc" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x", "Intel Virtualization Technology" or something similar. Enable this option, save and reset. Now the "vagrant up" command should work.
++ Here is a link to a general guide for enabling virtualization: https://www.dignited.com/113997/how-to-check-and-enable-virtualization-on-windows-10-11/
++ Depending on the make of your CPU and motherboard, instructions for navigating bios may differ slightly. If you are having trouble finding the virtualization option, you may need to search for a specific guide for your device's motherboard and CPU. Here is a guide for looking up your motherboard and CPU: https://www.tomshardware.com/how-to/check-what-motherboard-you-have. The CPU model is under the label *Processor*.
+
 
 #### Q13: Why is the "Submit" button not showing up when I try to submit my survey?
 
