@@ -97,26 +97,56 @@ After making modifications to your local files and before making a commit, you w
  NOTE: In case you have come up with the wrong edit and if you'd like to revert it back to the previous version of the file follow this        [link](https://githowto.com/undoing_local_changes). This is applicable only before committing the change.
 
 ## 6. Create a Commit and Push the Changes
-Use the next commands to commit and push the changes:
 
-1.  `git status` to see which files in the working directory have been modified.
+Use the following commands to commit and push your changes:
 
-2.  `git add .` to stage **ALL** of the modified files shown,
-    or `git add <file1> <file2> <file3>...` to stage specific modified files.
+1. Check which files in the working directory have been modified:
 
-3.  `git commit -m "<your_commit_message> (fixes #<issue_no>)"`
-  (refer to the commit message guidelines below).
+   ```sh
+   git status
+   ```
 
-4.  `git push -u origin <name_of_your_new_branch>` to save your changes and push them to your GitHub (for any further commit on the same branch after the first one, you can just use `git push`).
+2. Stage the modified files:
+   - To stage specific modified files:
+
+     ```sh
+     git add <file1> <file2> <file3>...
+     ```
+
+   - To stage **all** modified files show up in `git status`:
+     - **Caution:** Before using this, double-check the modified files listed in the previous step to ensure you are not inadvertently staging unwanted changes.
+
+     ```sh
+     git add .
+     ```
+
+3. Commit the staged changes with a descriptive message:
+
+   ```sh
+   git commit -m "<your_commit_message>"
+   ```
+
+   (Refer to the commit message guidelines below).
+
+4. Push the changes to your new branch on GitHub:
+
+   ```sh
+   git push -u origin <issueNumber-descriptive-branch-name>
+   ```
+
+   For any further commits on the same branch after the first one, you can simply use:
+
+   ```sh
+   git push
+   ```
 
 ### 6.1. Commit Message Style Guide
 
 Because the commits you will be making on this markdown wiki are fairly basic, it is not necessary to enforce a wordy commit style. However, in the future, when you start to work on more complex projects, it is helpful to write your commit messages in a certain way. Here is an article on [how to write good commit messages](https://chris.beams.io/posts/git-commit/).
 
-For edits to this markdown wiki, we recommend that your commit messages only consist of the subject line (refer to the article for more on what the subject is). Rules 2-5 are the most important:
+For edits to this markdown wiki, we recommend that your commit messages only consist of the subject line (refer to the article for more on what the subject is).
 
 * Limit the subject line to 50 characters
-* Capitalize the subject line
 * Do not end the subject line with a period
 * Use the imperative mood in the subject line
 
