@@ -38,8 +38,6 @@ _**Special Note**_:
 
 ## 4. Synchronize Your Repository
 
-**Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other.**
-
 Before you create your branch, sync your repository with the following commands (as we walked you through in the previous step):
 
 1. Fetch the latest changes from the upstream repository:
@@ -67,6 +65,8 @@ Before you create your branch, sync your repository with the following commands 
    ```
 
 ## 5. Create a New Branch
+
+**Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other.**
 
 Make sure to use a descriptive name for your branch in the following fashion: *issueNumber-descriptive-branch-name*.
 
