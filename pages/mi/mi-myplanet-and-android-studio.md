@@ -20,11 +20,19 @@ After importing the project, Android Studio will perform a Gradle build, which m
 
 ## 4. Configure Emulator
 
-To avoid overriding the app on your physical device and to ensure crash reports are sent, we need to set up an Android emulator for this step. Open 'Tools' > 'Device Manager.' Click the + icon to create a new virtual device and follow the prompts.
+To avoid overriding the app on your physical device and to ensure crash reports are sent, we need to set up an Android emulator for this step. Open 'Tools' > 'Device Manager.'   
+![Device Manager](image/mi-device-manager-location.png)
+
+Click the + icon to create a new virtual device. You should see this pop up:
+![Virtual Device](image/mi-virtual-device-configuration.png)
+
+Follow the prompts to select a hardware, click next and choose a system image. Continue and finish configurations. You may change the device name if you'd like.
+
 
 ## 5. Select Run Configuration
 
 In Android Studio's toolbar, select the desired run configuration from the drop-down menu. It would be `app` in our case.
+![Run Configuration](image/mi-app-run-configuration.png)
 
 ## 6. Run the App
 
