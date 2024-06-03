@@ -66,11 +66,8 @@ Before you create your branch, sync your repository with the following commands 
 
 ## 5. Create a New Branch
 
-**Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other.**
+**Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other.** Make sure to use a descriptive name for your branch in the following fashion: **issueNumber-descriptive-branch-name**.
 
-Make sure to use a descriptive name for your branch in the following fashion: *issueNumber-descriptive-branch-name*.
-
-- Use a descriptive name for your branch in the following format: **issueNumber-descriptive-branch-name**.
 - To create and switch to a new branch from `master`, run the following commands:
 
   ```sh
@@ -170,7 +167,7 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 Now, go to your forked repository on GitHub by visiting `https://github.com/YourUsername/YourUsername.github.io`. GitHub will detect that you recently pushed a new branch.
 
 1. Click on the green button labeled "Compare & pull request." ![Compare & Pull](image/mi-compare-pull.png)
-2. On the new page, provide a title and description for your pull request.
+2. On the new page, provide a title and description for your pull request, for example `update mi-step4.md`.
    - Add ` (fixes #IssueNumber)` to the end of your title when applicable.
    - Follow the pull request template and fill out the necessary details in the description.
      - Make sure you include the raw.githack link in your pull request description.
