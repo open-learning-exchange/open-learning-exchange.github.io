@@ -8,6 +8,8 @@ Follow [Cloning a repository - GitHub Docs](https://docs.github.com/en/repositor
 
 - Go to [Install Android Studio | Android Developers](https://developer.android.com/studio/install) and follow the steps to install Android Studio.
 - Launch Android Studio on your computer. If this is your first time using Android Studio, it may take a moment to set up the initial configuration.
+- Update Android Studio (if already installed). Open Android Studio.
+  Navigate to Help -> Check for Updates. Android Studio will check for any available updates.
 
 ## 2. Open the Project
 
