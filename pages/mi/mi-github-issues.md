@@ -112,15 +112,17 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 Now, go to your forked repository on GitHub by visiting `https://github.com/YourUsername/YourUsername.github.io`. GitHub will detect that you recently pushed a new branch.
 
 1. Click on the blue button labeled "Compare & pull request."
+
    ![Compare & Pull](image/mi-compare-pull.png)
-4. On the new page, provide a title and description for your pull request.
+
+2. On the new page, provide a title and description for your pull request.
    - Add ` (fixes #IssueNumber)` to the end of your title when applicable.
    - Follow the pull request template and fill out the necessary details in the description.
      - Make sure you include the raw.githack link in your pull request description.
        - Note on the difference between raw.githack and raw.githubusercontent link.
        - This link allows us to preview the changes rendered by MDWiki. Make sure to open it and ensure it's not in plaintext.
      - Optionally, use a checklist to outline what you've done and what remains to be addressed.
-5. Finally, submit the pull request.
+3. Finally, submit the pull request.
 
 ![Pull Request Check List](image/mi-pull-request-details.png)
 
