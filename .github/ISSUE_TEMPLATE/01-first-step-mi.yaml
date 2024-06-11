@@ -1,0 +1,29 @@
+name: First Steps - Mobile Intern
+description: Use this if you are a prospective mobile intern working on our first steps.
+labels: ["mi"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Verification
+      description: "Please verify the following:"
+      options:
+        - label: This issue is related to the Mobile Interns First Steps document.
+          required: true
+        - label: You have searched for relevant keywords in recent open and closed issues to avoid duplicates.
+          required: true
+  - type: textarea
+    attributes:
+      label: Problem
+      placeholder: Describe the problem in detail
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Screenshot (when necessary)
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Proposed solution(s)
+    validations:
+      required: false

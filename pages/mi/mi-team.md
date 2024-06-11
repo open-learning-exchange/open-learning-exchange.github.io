@@ -9,3 +9,5 @@
 |**➤ Interns**||
 |[animeshsingh75](profiles/animeshsingh75.md)| 2024-05-21|
 |[rlam20](profiles/rlam20.md)|2024-05-21|
+|[ewhang5](profiles/ewhang5.md)|2024-05-24|
+|[strawberrybread](profiles/strawberrybread.md)|2024-06-03|
