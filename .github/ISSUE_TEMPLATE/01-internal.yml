@@ -1,0 +1,25 @@
+name: Other
+description: Use this if you are already a member of the organization.
+body:
+  - type: checkboxes
+    attributes:
+      label: "Please verify the following:"
+      options:
+        - label: You have searched for relevant keywords in recent open and closed issues to avoid duplicates.
+          required: true
+  - type: textarea
+    attributes:
+      label: Problem
+      placeholder: Describe the problem in detail
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Screenshot (when necessary)
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Proposed solution(s)
+    validations:
+      required: false
