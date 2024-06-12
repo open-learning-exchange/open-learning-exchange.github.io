@@ -164,14 +164,16 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 
 Now, go to your forked repository on GitHub by visiting `https://github.com/YourUsername/YourUsername.github.io`. GitHub will detect that you recently pushed a new branch.
 
-1. Click on the blue button labeled "Compare & pull request."
+1. Click the blue "Compare & pull request" button.
 
-   ![Compare & Pull](image/mi-compare-pull.png)
+   ![Compare & Pull Button](image/mi-compare-pull.png)
+
+2. Follow the pull request template carefully and complete the necessary details in the description.
+3. Submit the pull request.
+
    ![Pull Request Template](image//mi-pr-title-and-description.png)
 
-2. Carefully Follow the pull request template and fill out the necessary details in the description.
-3. Submit the pull request.
-4. Once you are redirected to the newly created pull request, follow the list under "After Creating the Pull Request" and tick each checkbox as you complete them.
+4. Once redirected to the newly created pull request, complete the tasks listed under "After Creating the Pull Request" by ticking each checkbox as you finish them.
 
 NOTE: While you are waiting on two OLE team members to approve your Pull Requests, it is OK to keep creating more Issues and Pull Requests in the meantime. They will all count towards your final Issue/PR total, and PR approval can take time, so do not let a lengthy approval/fix process keep you from moving on in your "First Steps".
 
