@@ -167,17 +167,11 @@ Now, go to your forked repository on GitHub by visiting `https://github.com/Your
 1. Click on the blue button labeled "Compare & pull request."
 
    ![Compare & Pull](image/mi-compare-pull.png)
+   ![Pull Request Template](image//mi-pr-title-and-description.png)
 
-2. On the new page, provide a title and description for your pull request, for example `update mi-step4.md`.
-   - Add ` (fixes #IssueNumber)` to the end of your title when applicable.
-   - Follow the pull request template and fill out the necessary details in the description.
-     - Make sure you include the raw.githack link in your pull request description.
-       - Note on the difference between raw.githack and raw.githubusercontent link.
-       - This link allows us to preview the changes rendered by MDWiki. Make sure to open it and ensure it's not in plaintext.
-     - Optionally, use a checklist to outline what you've done and what remains to be addressed.
-3. Finally, submit the pull request.
-
-![Pull Request Check List](image/mi-pull-request-details.png)
+2. Carefully Follow the pull request template and fill out the necessary details in the description.
+3. Submit the pull request.
+4. Once you are redirected to the newly created pull request, follow the list under "After Creating the Pull Request" and tick each checkbox as you complete them.
 
 NOTE: While you are waiting on two OLE team members to approve your Pull Requests, it is OK to keep creating more Issues and Pull Requests in the meantime. They will all count towards your final Issue/PR total, and PR approval can take time, so do not let a lengthy approval/fix process keep you from moving on in your "First Steps".
 
