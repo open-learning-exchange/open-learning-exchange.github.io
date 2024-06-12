@@ -19,19 +19,17 @@ NOTE: Issues are not just about adding new content or improving this MDwiki; the
 
 ## 3. Create an Issue
 
-You might have already noticed something in the Mobile Intern First Steps that could be improved by the time you reach this step, if so, please search existing open and closed issues to make sure it's not brought up already and there isn't an open pull request for it. If not, please look around to find an issue.
+If you've noticed an area for improvement in the Mobile Intern First Steps, let's address it. If not, please look around to find an issue. Begin by checking [existing issues, both open and closed](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue), to ensure it hasn't been raised before or addressed. If it hasn't, let's create a new issue:
 
-- To create an issue, navigate to the ([upstream repository's Issues tab](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues)) and click "New Issue." Pick a suitable title, then follow the new issue template in the "Write" textbox:
-    1. **Problem**: describe the problem in detail
-    2. **Steps to reproduce the problem**: Typically, this would be a link to our MDwiki page containing the problem. If you're reporting a bug, provide clear instructions to replicate it.
-    3. **Screenshots**: including screenshots can be helpful sometimes
-    4. **Proposed solution**: before detailing a solution, research potential fixes or suggestions
-- You can reference [this example](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1985) to see how a good issue uses the issue template and follows a clear structure.
-- After submitting your issue, others may offer feedback, guiding you to the right approach.
+- Go to the [Issues tab of the upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues) and select "New Issue." Select the "Get started" button next to "First Steps - Mobile Intern."
+    1. Craft a succinct, descriptive title.
+    2. Complete the issue template thoroughly, ticking all required checkboxes and providing necessary details.
+- You can reference [this example](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/3300) to see how an issue follows the issue template with a clear structure.
+- Once submitted, others can provide feedback to guide the next steps.
 
 **Note**: While creating a Pull Request doesn't require prior approval, it's best to wait for confirmation of the issue from our team before working on a fix. If your suggested changes don't align with project goals, your Pull Request might not be merged, and your work won't count toward "First Steps" progress. By seeking approval first, you can avoid wasted effort and rework.
 
-**Existing Issues:** You can also work on existing issues. If an issue is tagged `first step intern`, you can request to work on it by messaging us in Discord. If someone else is already assigned or has stated their intent to work on it in the issue's comment section, don't work on that issue; choose another one instead.
+**Existing Issues:** You can also work on existing issues. If an issue is labeled `mi` and `first step intern`, you can request to work on it by messaging us in Discord. If someone else is already assigned or has stated their intent to work on it in the issue's comment section, don't work on that issue; choose another one instead.
 
 _**Special Note**_:
 - Interns often rush through this process to complete their "First Steps." Remember that these steps aim to fix genuine problems and improve the workflow. Take time to examine the "First Steps" materials to find real issues and research the best solutions. Also, ensure the issue hasn't already been identified.
