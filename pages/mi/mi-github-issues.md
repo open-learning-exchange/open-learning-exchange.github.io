@@ -19,19 +19,17 @@ NOTE: Issues are not just about adding new content or improving this MDwiki; the
 
 ## 3. Create an Issue
 
-You might have already noticed something in the Mobile Intern First Steps that could be improved by the time you reach this step, if so, please search existing open and closed issues to make sure it's not brought up already and there isn't an open pull request for it. If not, please look around to find an issue.
+If you've noticed an area for improvement in the Mobile Intern First Steps, let's address it. If not, please look around to find an issue. Begin by checking [existing issues, both open and closed](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue), to ensure it hasn't been raised before or addressed. If it hasn't, let's create a new issue:
 
-- To create an issue, navigate to the ([upstream repository's Issues tab](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues)) and click "New Issue." Pick a suitable title, then follow the new issue template in the "Write" textbox:
-    1. **Problem**: describe the problem in detail
-    2. **Steps to reproduce the problem**: Typically, this would be a link to our MDwiki page containing the problem. If you're reporting a bug, provide clear instructions to replicate it.
-    3. **Screenshots**: including screenshots can be helpful sometimes
-    4. **Proposed solution**: before detailing a solution, research potential fixes or suggestions
-- You can reference [this example](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/1985) to see how a good issue uses the issue template and follows a clear structure.
-- After submitting your issue, others may offer feedback, guiding you to the right approach.
+- Go to the [Issues tab of the upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues) and select "New Issue." Select the "Get started" button next to "First Steps - Mobile Intern."
+    1. Craft a succinct, descriptive title.
+    2. Complete the issue template thoroughly, ticking all required checkboxes and providing necessary details.
+- You can reference [this example](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/3300) to see how an issue follows the issue template with a clear structure.
+- Once submitted, others can provide feedback to guide the next steps.
 
 **Note**: While creating a Pull Request doesn't require prior approval, it's best to wait for confirmation of the issue from our team before working on a fix. If your suggested changes don't align with project goals, your Pull Request might not be merged, and your work won't count toward "First Steps" progress. By seeking approval first, you can avoid wasted effort and rework.
 
-**Existing Issues:** You can also work on existing issues. If an issue is tagged `first step intern`, you can request to work on it by messaging us in Discord. If someone else is already assigned or has stated their intent to work on it in the issue's comment section, don't work on that issue; choose another one instead.
+**Existing Issues:** You can also work on existing issues. If an issue is labeled `mi` and `first step intern`, you can request to work on it by messaging us in Discord. If someone else is already assigned or has stated their intent to work on it in the issue's comment section, don't work on that issue; choose another one instead.
 
 _**Special Note**_:
 - Interns often rush through this process to complete their "First Steps." Remember that these steps aim to fix genuine problems and improve the workflow. Take time to examine the "First Steps" materials to find real issues and research the best solutions. Also, ensure the issue hasn't already been identified.
@@ -166,20 +164,16 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 
 Now, go to your forked repository on GitHub by visiting `https://github.com/YourUsername/YourUsername.github.io`. GitHub will detect that you recently pushed a new branch.
 
-1. Click on the blue button labeled "Compare & pull request."
+1. Click the blue "Compare & pull request" button.
 
-   ![Compare & Pull](image/mi-compare-pull.png)
+   ![Compare & Pull Button](image/mi-compare-pull.png)
 
-2. On the new page, provide a title and description for your pull request, for example `update mi-step4.md`.
-   - Add ` (fixes #IssueNumber)` to the end of your title when applicable.
-   - Follow the pull request template and fill out the necessary details in the description.
-     - Make sure you include the raw.githack link in your pull request description.
-       - Note on the difference between raw.githack and raw.githubusercontent link.
-       - This link allows us to preview the changes rendered by MDWiki. Make sure to open it and ensure it's not in plaintext.
-     - Optionally, use a checklist to outline what you've done and what remains to be addressed.
-3. Finally, submit the pull request.
+2. Follow the pull request template carefully and complete the necessary details in the description.
 
-![Pull Request Check List](image/mi-pull-request-details.png)
+   ![Pull Request Template](image//mi-pr-title-and-description.png)
+
+3. Submit the pull request.
+4. Once redirected to the newly created pull request, complete the tasks listed under "After Creating the Pull Request" by ticking each checkbox as you finish them.
 
 NOTE: While you are waiting on two OLE team members to approve your Pull Requests, it is OK to keep creating more Issues and Pull Requests in the meantime. They will all count towards your final Issue/PR total, and PR approval can take time, so do not let a lengthy approval/fix process keep you from moving on in your "First Steps".
 
