@@ -5,7 +5,7 @@ body:
     attributes:
       label: "Please verify the following:"
       options:
-        - label: You have searched for relevant keywords in recent open and closed issues to avoid duplicates.
+        - label: You have searched for relevant keywords in [recent open and closed issues](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue) to avoid duplicates.
           required: true
   - type: textarea
     attributes:
