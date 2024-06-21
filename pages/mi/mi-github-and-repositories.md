@@ -51,11 +51,47 @@ The previous step created a clone of your repository on your OS.
 
 ![GitHub Clone URL](image/mi-forking-and-updating-a-repo.png)
 
-Now, there are three different Github repository levels: [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io), your username.github.io on GitHub, and your username.github.io on your OS. These three levels need to be constantly synced and up to date with one another as we will all be contributing to the upstream repository (open-learning-exchange.github.io). It's important to try and keep these separate and avoid mixing changes between them, as you will be unable to fork and git push/pull if they are very different versions.
+####2.1 Sync three Repositories:
+1. **Upstream Repository:** `open-learning-exchange.github.io`
+2. **Your Fork on GitHub:** `your-username.github.io`
+3. **Your Local Clone:** Cloned repository on your OS
 
-As you create a fork from the original repository and then clone your forked repository onto your OS, you will need to frequently update the fork so that your fork and clone are not behind. Further, you need to sync your repository on your OS and GitHub (username.github.io) with the upstream repository (open-learning-exchange.github.io). There are various ways to do this, as explained below.
+####2.2 Steps to Sync Repositories:
 
-First, the [GitHub help section](https://help.github.com/en) and the [Git website](https://git-scm.com) are incredibly helpful in answering your basic questions. For example, [this link](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-command-line) explains how to sync a fork with the correct upstream repo, because as you renamed your repository, it does not automatically assume that open-learning-exchange.github.io is the source. Instead, it assumes that username.github.io is the master which fails to allow a proper syncing process. Therefore, when you do `git diff` and `git status`, it only looks at your username.github.io. Thus, following the steps below, you will need to use `git fetch upstream`, `git checkout master`, and `git merge upstream/master` to correctly sync to open-learning-exchange.github.io (see the diagram below).
+1. **Fork and Clone:**
+   - Fork `open-learning-exchange.github.io` to create `your-username.github.io` on GitHub.
+   - Clone `your-username.github.io` to your local system.
+
+2. **Sync with Upstream:**
+   - Add the upstream repository:
+     ```
+     git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
+     ```
+   - Fetch changes from upstream:
+     ```sh
+     git fetch upstream
+     ```
+   - Checkout your local master branch:
+     ```sh
+     git checkout master
+     ```
+   - Merge upstream changes into your local branch:
+     ```sh
+     git merge upstream/master
+     ```
+
+3. **Push Updates to Your GitHub Fork:**
+   - Push local changes to your GitHub fork:
+     ```sh
+     git push origin master
+     ```
+
+####2.3 Resources
+- [GitHub Help: Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
+- [Git Documentation](https://git-scm.com/doc)
+
+By following these steps, you ensure your repositories are consistently up to date and avoid conflicts (Refer the diagram below).
+
 
 ![GitHub Clone URL](image/mi-sync-a-fork.png)
 
