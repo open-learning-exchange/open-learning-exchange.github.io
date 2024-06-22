@@ -51,6 +51,8 @@ The previous step created a clone of your repository on your OS.
 
 ![GitHub Clone URL](image/mi-forking-and-updating-a-repo.png)
 
+Now, there are three different Github repository levels: [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io), your username.github.io on GitHub, and your username.github.io on your OS. These three levels need to be constantly synced and up to date with one another as we will all be contributing to the upstream repository (open-learning-exchange.github.io). It's important to try and keep these separate and avoid mixing changes between them, as you will be unable to fork and git push/pull if they are very different versions.
+
 ####2.1 Sync three Repositories:
 1. **Upstream Repository:** `open-learning-exchange.github.io`
 2. **Your Fork on GitHub:** `your-username.github.io`
