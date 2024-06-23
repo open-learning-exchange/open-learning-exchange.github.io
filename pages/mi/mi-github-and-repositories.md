@@ -47,22 +47,22 @@ Both HTTPS and SSH URLs let you access the same remote repositories, but they us
 
 ### 2. Explanation About Repositories and Syncing Process
 
-The previous step created a clone of your repository on your OS.
-
 ![GitHub Clone URL](image/mi-forking-and-updating-a-repo.png)
 
-Now, there are three different Github repository levels: [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io), your username.github.io on GitHub, and your username.github.io on your OS. These three levels need to be constantly synced and up to date with one another as we will all be contributing to the upstream repository (open-learning-exchange.github.io). It's important to try and keep these separate and avoid mixing changes between them, as you will be unable to fork and git push/pull if they are very different versions.
+The previous step created a clone of your repository on your OS.
 
-####2.1 Sync three Repositories:
-1. **Upstream Repository:** `open-learning-exchange.github.io`
-2. **Your Fork on GitHub:** `your-username.github.io`
-3. **Your Local Clone:** Cloned repository on your OS
+Now, there are three levels of repositories to keep in mind:
+1. Upstream repository [`open-learning-exchange.github.io`](https://github.com/open-learning-exchange/open-learning-exchange.github.io) on GitHub
+2. `your-username.github.io` on GitHub
+3. `your-username.github.io` cloned onto your local system
 
-####2.2 Steps to Sync Repositories:
+These repositories must be consistently synced and up-to-date with each other since we all contribute to the upstream repository (open-learning-exchange.github.io). It's crucial to keep changes separate and avoid mixing them between repositories. Significant differences can cause conflicts and prevent you from performing `git push/pull` operations smoothly.
+
+#### 2.1 Steps to Sync Repositories:
 
 1. **Fork and Clone:**
-   - Fork `open-learning-exchange.github.io` to create `your-username.github.io` on GitHub.
-   - Clone `your-username.github.io` to your local system.
+   - Fork `open-learning-exchange.github.io` to create `your-username.github.io` on GitHub. (This was done in Step 1).
+   - Clone `your-username.github.io` to your local system. (This was done in this step's 1.1)
 
 2. **Sync with Upstream:**
    - Add the upstream repository:
@@ -82,18 +82,18 @@ Now, there are three different Github repository levels: [open-learning-exchange
      git merge upstream/master
      ```
 
-3. **Push Updates to Your GitHub Fork:**
-   - Push local changes to your GitHub fork:
+3. **Push Updates to Your Fork on GitHub:**
+   - Push local changes to your fork on GitHub:
      ```sh
      git push origin master
      ```
 
-####2.3 Resources
+#### 2.2 Resources
+
 - [GitHub Help: Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
 - [Git Documentation](https://git-scm.com/doc)
 
 By following these steps, you ensure your repositories are consistently up to date and avoid conflicts (Refer the diagram below).
-
 
 ![GitHub Clone URL](image/mi-sync-a-fork.png)
 
