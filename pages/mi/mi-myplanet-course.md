@@ -8,6 +8,9 @@ After logging into the myPlanet app, you'll land on the dashboard, the central h
 
 To access the course catalog, click on the "Courses" section on the dashboard. This will take you to a page displaying all available courses.
 
+**Hint**: 
+If you can't locate the "Courses" tab, try rotating your device to landscape mode. Alternatively, click the logo in the top left corner to reveal the navigation menu, including the "Courses" tab.
+
 ![Courses List Screenshot](image/mi-courses-list.png)
 
 To view the courses you've already joined, use the sidebar menu by swiping from the left or clicking the Planet logo in the upper left corner and select "myCourses." This will direct you to a dedicated page showing the courses in which you're currently enrolled.
