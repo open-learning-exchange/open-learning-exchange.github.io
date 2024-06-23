@@ -21,11 +21,10 @@ In this step, you will be connecting our mobile application, myPlanet, to Planet
 
 - **Sign In**: Use the username and password you just created to log in to myPlanet. You have now successfully connect myPlanet app to planet server.
 
-**NOTE**: If there are issues during sign-in try the following:
-1. Clear app data & Re-Sync:
-  - Asking the "member" to wait for the app to sync automatically. 
-  - Alternatively, they can manually initiate the sync by pressing the sync icon located at the top left corner of the app.  After syncing, ask the "member" to try logging in again.
-2. If the above doesn't work, click "Log in as a guest" and proceed with the rest of the steps.
+  **NOTE**: If you encounter issues during sign-in, try the following:
+  1. Re-Sync: manually initiate sync by pressing the sync icon at the top left corner of the app. After syncing, try logging in again.
+  2. Clear app data: Clear myPlanet's app data in Android's app info page. Try configuration steps above again.
+  3. If the issue persists, contact us on Discord with details.
 
 - **Explore Around**: Click around and explore the app's basic features, let us know in the Discord channel if you notice any issues.
 
