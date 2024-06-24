@@ -66,7 +66,7 @@ After forking the repository, you'll be redirected to your personal copy of the 
 2. In the repository name field, change it to `YourUserName.github.io`.
 3. Click **Rename** to confirm the change.
 
-**Note:** If you already have a GitHub Pages site at https://YourUserName.github.io in use, refer to [this FAQ question](https://open-learning-exchange.github.io/pages/vi/#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?) for guidance.
+**Note:** If you already have a GitHub Pages site at https://YourUserName.github.io in use, refer to [this FAQ question](#!pages/mi/mi-faq.md#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?) for guidance.
 
 ![Renaming Repository](image/mi-rename-repository.png)
 
@@ -102,17 +102,18 @@ In this new Markdown file, include the following information:
 - Your name, location/time zone, and OS (with version)
 - A brief description of yourself to help others get to know you.
 
-Use the "Preview" tab to see how your Markdown will look. Aim to use at least five different types of Markdown elements for variety. Avoid HTML, as the purpose of Markdown is to keep things simple. Consider creative examples, like:
+Use the "Preview" tab to preliminarily see how your Markdown will look. Aim to use at least five different types of Markdown elements for variety. Avoid HTML, as the purpose of Markdown is to keep things simple. Consider creative examples, like:
 
 - [Profile 1](profiles/Okuro3499.md) (using table and lists)
+- [Profile 2](profiles/rlam20.md) (using proper heading, emoji, table, and list)
 
-When you're ready, click the green "Commit changes..." button. If you need to edit your file again, click the pencil icon.
+When you're ready, click the "Commit changes..." button. If you need to edit your file again, click the pencil icon.
 
-To preview your changes, use the following link, replacing "YourUserName" with your GitHub username and "YourBranchName" with the name of your branch:
+To preview your changes rendered by MDwiki, use the following link, replacing "YourUserName" with your GitHub username and "YourBranchName" with the name of your branch:
 
 `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/mi/profiles/YourUserName.md`
 
-Before proceeding to the next section, please ensure that everything looks as expected and works correctly.
+Before proceeding to the next section, please ensure that everything looks as expected and works correctly with the raw.githack link.
 
 **NOTE**:
 - New changes you push should be reflected within minutes on raw.githack. If changes still don't appear, clear your browser's cache or open your page in "incognito" or "private" mode. You can also force refresh/reload the page using `Ctrl+Shift+R` or `Ctrl+F5` (on Mac: `Cmd+Shift+R`).
@@ -126,7 +127,7 @@ Once you have your profile ready, it's time to create a pull request. Click on o
 
 ![Complete Pull Request](image/mi-create-pull-request.png)
 
-**There are a few things to watch out before clicking on the green "Create pull request" button**. Make sure you:
+**There are a few things to watch out before clicking on the "Create pull request" button**. Make sure you:
 
 * give the pull request a short and descriptive title (e.g. add YourUserName.md)
 * follow the pull request template, include the raw.githack link to your Markdown profile page in the pull request description
