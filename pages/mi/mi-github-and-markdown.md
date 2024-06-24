@@ -102,7 +102,7 @@ In this new Markdown file, include the following information:
 - Your name, location/time zone, and OS (with version)
 - A brief description of yourself to help others get to know you.
 
-Use the "Preview" tab to preliminarily see how your Markdown will look. Aim to use at least five different types of Markdown elements for variety. Avoid HTML, as the purpose of Markdown is to keep things simple. Consider creative examples, like:
+Use the "Preview" tab to preliminarily see how your Markdown will look like. Aim to use at least five different types of Markdown elements for variety. Avoid HTML, as the purpose of Markdown is to keep things simple. Consider creative examples, like:
 
 - [Profile 1](profiles/Okuro3499.md) (using table and lists)
 - [Profile 2](profiles/rlam20.md) (using proper heading, emoji, table, and list)
