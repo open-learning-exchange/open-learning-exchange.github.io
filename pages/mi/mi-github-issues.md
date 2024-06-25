@@ -164,7 +164,7 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 
 Now, go to your forked repository on GitHub by visiting `https://github.com/YourUsername/YourUsername.github.io`. GitHub will detect that you recently pushed a new branch.
 
-1. Click the "Compare & pull request" button. If it doesn't show up go to 'Pull requests' tab and click on "New pull request" button.
+1. Click the "Compare & pull request" button. If it doesn't appear, go to the 'Pull requests' tab and click on the "New pull request" button.
 
    ![Compare & Pull Button](image/mi-compare-pull.png)
 
@@ -172,8 +172,8 @@ Now, go to your forked repository on GitHub by visiting `https://github.com/Your
 
    ![Pull Request Template](image//mi-pr-title-and-description.png)
 
-   Things to check before creating PR:
-      - add title and issue number in title
+   Things to check before creating a Pull Request:
+      - add title and issue number in the title field
       - fill the checkboxes
       - write description
       - add RawGitHack Preview link
