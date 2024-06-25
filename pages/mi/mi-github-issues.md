@@ -166,9 +166,9 @@ Now, go to your forked repository on GitHub by visiting `https://github.com/Your
 
 1. Click the "Compare & pull request" button. If it doesn't show up go to 'Pull requests' tab and click on "New pull request" button.
 
-   ![Compare & Pull Button](image/mi-compare-pull-updated.png)
+   ![Compare & Pull Button](image/mi-compare-pull.png)
 
-2. Follow the pull request template carefully and complete the necessary details in the description.
+2. **Follow the <span style="color:red;">pull request template </span> carefully and complete the necessary details in the description.**
 
    ![Pull Request Template](image//mi-pr-title-and-description.png)
 
