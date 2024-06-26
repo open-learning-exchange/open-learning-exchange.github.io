@@ -25,7 +25,7 @@ Before diving into GitHub, Markdown, and forking workflow, it's crucial to under
 
 Ensure you are logged in to GitHub with your account credentials. If you're unfamiliar with GitHub's layout and functionalities, visit [our repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) to explore around.
 
-**NOTE**: Existing GitHub users should confirm that their commit email address is set correctly. You can set it for each repository or globally. For detailed steps, refer to [Setting your commit email address on GitHub](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-on-github).
+**NOTE**: Confirm your commit email address on GitHub is set correctly. For detailed steps, refer to [Setting your commit email address on GitHub - GitHub Doc](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-on-github).
 
 ### 2.3 Introduction to Forking Workflow
 
@@ -41,11 +41,11 @@ The [forking workflow](https://www.atlassian.com/git/tutorials/comparing-workflo
 
 Below is a summary of the steps that we will walk you through:
 
-1. [Find and fork the correct repository](#Find_and_fork_the_correct_repository)
-2. [Go to Settings and rename your repository](#Go_to_Settings_and_rename_your_repository)
-3. [Check if your github.io site works](#Check_if_you_github.io_site_works)
-4. [Create a new file as your personal MDwiki page and commit your changes](#Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
-5. [Open a pull request](#Open_a_pull_request)
+1. [Find and fork the correct repository](#3.1_Find_and_fork_the_correct_repository)
+2. [Go to Settings and rename your repository](#3.2_Go_to_Settings_and_rename_your_repository)
+3. [Check to see if your github.io site works](#3.3_Check_to_see_if_you_github.io_site_works)
+4. [Create a new file as your personal MDwiki page and commit your changes](#3.4_Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
+5. [Open a pull request](#3.5_Open_a_pull_request)
 
 ### 3.1 Find and fork the correct repository
 
