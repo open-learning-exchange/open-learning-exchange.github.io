@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- Learn how to use Git from the command line
+- Learn how to **use Git from the command line**
 - Understand how to configure and sync a repository with the forking workflow
 
 ## Introduction

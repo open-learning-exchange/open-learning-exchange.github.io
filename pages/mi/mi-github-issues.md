@@ -62,6 +62,8 @@ Before you create your branch, sync your repository with the following commands 
    git push origin master
    ```
 
+**ATTENTION**: From now on, for the rest of the First Steps, please use the command line to create branches and make commits instead of using GitHub’s web interface. This will give you valuable practice with common Git commands in your terminal, which is essential for working on real code that needs to be tested locally and can’t always be edited directly on GitHub.com.
+
 ## 5. Create a New Branch
 
 **Every time you start to work on an issue, you need to create a branch to keep issues you are working on separated from each other.** Make sure to use a descriptive name for your branch in the following fashion: **issueNumber-descriptive-branch-name**.
@@ -90,6 +92,8 @@ If you're still confused, that's quite alright. [Forking Workflow](https://www.a
 After making modifications to your local files and before making a commit, you may want to preview the changes locally. To quickly set up a local HTTP server, you can follow [MDwiki's guide here](https://dynalon.github.io/mdwiki/#!./faq.md#Q:_I_don't_want_to_install_nginx_or_apache_locally._What_is_the_fastest/easiest_way_to_setup_a_local_HTTP_server_to_get_started_with_MDwiki_?). However, instead of using the outdated Python method mentioned in the guide, you can use the following command: `python3 -m http.server 8080`.
 
 ## 6. Create a Commit and Push the Changes
+
+**NOTE**: Before making your commit, configure the email address you associate with your Git commits by following the instructions in [Setting your commit email address in Git - GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git).
 
 Use the following commands to commit and push your changes:
 
@@ -133,7 +137,7 @@ Use the following commands to commit and push your changes:
    git push
    ```
 
-**NOTE**: If you feel like you've messed something up with Git commands, check out [Dangit, Git!?!
+**HINT**: If you feel like you've messed something up with Git commands, check out [Dangit, Git!?!
 ](https://dangitgit.com/) for common mistakes and their fixes.
 
 ### 6.1. Commit Message Style Guide
@@ -149,7 +153,7 @@ For edits to this markdown wiki, we recommend that your commit messages only con
 Here is an example of how you would write your commit message:
 `$ git commit -m "Add commit message style guide and add raw.githack section (fixes #841)"`
 
-NOTE: In your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
+**HINT**: In your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
 ### 6.2. Raw.githack
 
