@@ -1,0 +1,34 @@
+name: First Steps - Software Engineering Virtual Intern
+description: Use this if you are a prospective software engineering intern working on our first steps.
+labels: ["vi"]
+body:
+  - type: checkboxes
+    attributes:
+      label: "Please verify the following:"
+      options:
+        - label: This issue is related to the [Virtual Interns First Steps](https://open-learning-exchange.github.io/#!pages/vi/vi-first-steps.md) document.
+          required: true
+        - label: You have searched for relevant keywords in [recent open and closed issues](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue) to avoid duplicates.
+          required: true
+  - type: input
+    attributes:
+      label: URL to the MDwiki page containing the problem
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Problem
+      placeholder: "Describe the problem in detail."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Screenshots (when necessary)
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Proposed solution(s)
+      placeholder: "Let us know possible changes you'd like to make."
+    validations:
+      required: true
