@@ -1,6 +1,6 @@
 # First Steps
 
-# The Big Picture
+## The Big Picture
 
 Welcome to the first steps for becoming an OLE Virtual Intern! We treat these first steps as a vetting process to prove that you can follow simple instructions before you can progress to working on harder projects in bigger teams. Consider them to be the interview for the internship.
 
@@ -10,7 +10,7 @@ Once accepted, you and your team will work on an assignment, and we’ll switch 
 
 **NOTE**: This is an unpaid but intensive internship that requires 16 hours of work each week. More information about the internship can be found in our [FAQ](https://open-learning-exchange.github.io/#!pages/vi/vi-faq.md#General_Internship_Questions). If you have further questions, don’t hesitate to ask other members in the [Discord server](https://discord.gg/mtgGD4EnYW)!
 
-# The Steps
+## The Steps
 
 Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Vagrant, Docker, Git, GitHub, GitHub issues, GitHub pull requests, etc. You will also be introduced to OLE’s digital library that hosts the learning materials – [Planet](https://github.com/open-learning-exchange/planet).
 
@@ -25,6 +25,7 @@ A very large part of these steps is finding problems with these steps and this M
 There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
 
 ## Step 0 - Introductory Steps
+
 There are 3 sub-steps in this step:
 
 1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
@@ -34,7 +35,7 @@ There are 3 sub-steps in this step:
   ![Watch Screen Shot](images/vi-watch.png)
   ![Follow Screen Shot](images/vi-follow.png)
 
-3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. After finishing [Step 4 - Planet Tutorial](vi-first-steps.md#Step_4_-_Planet_Tutorial), check out this [link](https://crowdin.com/page/tour#tab_translators) to learn how you can start contributing on Crowdin.   
+3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. After finishing [Step 4 - Planet Tutorial](vi-first-steps.md#Step_4_-_Planet_Tutorial), check out this [link](https://crowdin.com/page/tour#tab_translators) to learn how you can start contributing on Crowdin.
 
 **NOTE**: See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what Planet does.
 
@@ -42,8 +43,7 @@ There are 3 sub-steps in this step:
 
 There are 3 sub-steps in this step:
 
-
-1. [Planet Installation with Vagrant](#!./pages/vi/vi-planet-installation-vagrant.md)
+1. [Planet Installation with Vagrant](vi-planet-installation-vagrant.md)
   The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this step, you will learn about how to set up your own Community Planet using vagrant.
 
 2. [Planet Configurations](vi-configurations-vagrant.md)
@@ -58,18 +58,17 @@ Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **
 
 ## Step 3 - Markdown and Fork Tutorial
 
-Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and pull request link on the [Discord server](https://discord.gg/mtgGD4EnYW) (https://YourUserName.github.io and `LinkToYourPullRequest`). Also include Raw.githack link in your pull request(https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md).
+Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and pull request link on the [Discord server](https://discord.gg/mtgGD4EnYW) ([https://YourUserName.github.io](https://YourUserName.github.io) and `LinkToYourPullRequest`). Also include Raw.githack link in your pull request([https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md](https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md)).
 
 **NOTE**: Raw.githack link above is case sensitive to your username.
 
-* Once you complete Step 3 you will have:
-    * 1 Pull request made
+- Once you complete Step 3 you will have:
+  - 1 Pull request made
 
 ## Step 4 - Planet and myPlanet Tutorial
 
 This step includes the [Planet Tutorial](vi-planetapps.md), which explains the features of the application.
 And also there is [myPlanet Tutorial](vi-myplanet.md), which explains about Android application.
-
 
 ## Step 5 - Keeping Fork Updated
 
@@ -77,14 +76,14 @@ Follow the directions at [Git Repositories](vi-github-and-repositories.md) to ke
 
 ## Step 6 - GitHub Issues Tutorial
 
-Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md) to create at least one issue. Post a link in [Discord](https://discord.gg/mtgGD4EnYW) whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and __it is OK__ if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file. You can also work on issues that you didn't create.
+Follow the tutorial under the [GitHub Issues tab](vi-github-issues.md) to create at least one issue. Post a link in [Discord](https://discord.gg/mtgGD4EnYW) whenever you create an issue or when you comment on someone else's issue. You are encouraged to post as many issues as you can for improving the page as well as for personal practice. No issue is too big or too small to be filed and **it is OK** if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file. You can also work on issues that you didn't create.
 
-Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fix may take time, but __it is OK__ to continue working.
+Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fix may take time, but **it is OK** to continue working.
 
 - Once you complete Step 6 you will have:
-   * 2 pull requests made (one at step 3 and one at step 6)
-   * 1 comment added (on an issue you didn't create)
-   * 1 issue created
+  - 2 pull requests made (one at step 3 and one at step 6)
+  - 1 comment added (on an issue you didn't create)
+  - 1 issue created
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
@@ -103,9 +102,9 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 **NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request and make a new branch for every new issue from the master branch.
 
 - Once you complete Step 8, you should have:
-   * 5 merged pull requests (one at step 3, one at step 6 and three at step 8)
-   * 4 comments made on *issues you didn't create* (one at step 6 and three at step 8)
-   * 4 issues created (one at step 6 and three at step 8)
+  - 5 merged pull requests (one at step 3, one at step 6 and three at step 8)
+  - 4 comments made on *issues you didn't create* (one at step 6 and three at step 8)
+  - 4 issues created (one at step 6 and three at step 8)
 
 **NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
