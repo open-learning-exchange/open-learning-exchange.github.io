@@ -33,7 +33,8 @@ Follow the prompts to select a hardware, click next and choose a system image. C
 ## 5. Select Run Configuration
 
 In Android Studio's toolbar, select the desired run configuration from the drop-down menu. It would be `app` in our case.
-![Run Configuration](image/mi-app-run-configuration.png)
+
+![Run Configuration](image/mi-app-run-configuration1.png)
 
 ## 6. Run the App
 
