@@ -12,17 +12,27 @@ During this internship, you will have the opportunity to work with various softw
 
 ## The Steps
 
-Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Vagrant, Docker, Git, GitHub, GitHub issues, GitHub pull requests, etc. You will also be introduced to OLE’s digital library that hosts the learning materials – [Planet](https://github.com/open-learning-exchange/planet).
+Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Vagrant, Docker, Git, GitHub, GitHub issues, GitHub pull requests, etc. You'll also be introduced to OLE's learning management system (LMS) – [Planet](https://github.com/open-learning-exchange/planet).
 
-Because these steps are simple, we expect high-quality work, which may take a longer time. We want to see that you are capable of using or learning how to use these tools (writing good GitHub issues, creating pull requests, navigating the Planet, using Vagrant and Docker, etc.). These steps may seem easy, but we want you to impress us with good GitHub etiquette and quality Markdown. The bare minimum would be to just passively follow the steps; you should do further reading about the tools/languages we use so you can further your understanding and relieve confusion if you're unclear about how something works. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice here are very important for both this internship and a future software development career.
+**These steps may seem simple, but we expect high-quality work, which might require extra time. We want to see that you can use, or learn to use, these tools effectively — including writing clear GitHub issues, using basic Git commands, creating proper pull requests, navigating Planet, etc. Just passively following the steps is the bare minimum; instead, aim to impress us with excellent GitHub etiquette and well-structured Markdown.**
 
-The MDwiki has plenty of resources to help you complete the steps. There is a list of useful links at the end of each step. We also created a [FAQ page](https://open-learning-exchange.github.io/#!pages/vi/vi-faq.md) where you can find the answers to some commonly asked questions. This page has even more [useful links and video tutorials](https://open-learning-exchange.github.io/#!pages/vi/vi-faq.md#Helpful_Links) that will help you become familiar with the tools/languages we use. For anything that is not on the FAQ page, Google and Stack Exchange are your friends :)
+Take the opportunity to read more about the tools and languages we use to deepen your understanding and reduce confusion. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice in first steps are crucial for both this internship and a future career in software development.
 
-**We also want you to keep us updated a relatively good amount in the Discord server as you complete these steps. We will ask you to send us messages, links, and screenshots along the First Steps, and we will use this to track your progress, so please do not forget to do so.** Check our [Discord Server](https://discord.gg/mtgGD4EnYW) page for more information about how to best communicate in Discord.
+The MDwiki offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step. :)
 
-A very large part of these steps is finding problems with these steps and this MDwiki, so take note of any issues that you run into or suggestions for improvement while doing these steps. Think of it as improving these steps and this MDwiki for future interns.
+**We also would like you to keep us regularly updated in the Discord channel as you complete these steps. We will ask you to send messages, links, and screenshots along the way, which we'll use to track your progress. Please make sure not to miss this, as it's crucial for us to track your work.**
 
-There is no official deadline to complete these steps, but most candidates who are approved for the internship program finished the steps within 7-8 days. Good luck!
+A significant part of these steps is identifying problems or suggesting improvements for this MDwiki. As you complete the steps, take note of any issues you encounter or ideas for enhancements. This helps improve the MDwiki and these steps for future interns.
+
+While there's no official deadline for completing these steps, most successful candidates finish them within 7-8 days. Good luck!
+
+## FAQ - Frequently Asked Questions
+
+**[Our FAQ page](vi-faq.md)** is a comprehensive resource containing answers to common questions about the internship and First Steps. It also features additional helpful links and video tutorials aimed at familiarizing you with the tools and languages integral to our work.
+
+If you have general internship inquiries and can't find the information you need on the FAQ page, please don't hesitate to reach out to us via Discord. Try to avoid DMs as others might have the same question!
+
+For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google and Stack Exchange serve as excellent supplementary resources to explore. :)
 
 ## Step 0 - Introductory Steps
 
@@ -58,12 +68,12 @@ Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **
 
 ## Step 3 - Markdown and Fork Tutorial
 
-Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md). Make sure that you've linked to your github.io and pull request link on the [Discord server](https://discord.gg/mtgGD4EnYW) ([https://YourUserName.github.io](https://YourUserName.github.io) and `LinkToYourPullRequest`). Also include Raw.githack link in your pull request([https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md](https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md)).
-
-**NOTE**: Raw.githack link above is case sensitive to your username.
+Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md).
 
 - Once you complete Step 3 you will have:
   - 1 Pull request made
+
+Make sure that you've linked to your github.io and pull request link in [#vi-software channel on Discord](https://discord.com/channels/1079980988421132369/1229437557843169280) (`https://YourUserName.github.io` and `LinkToYourPullRequest`). Also include the Raw.githack link in your pull request as we asked in the pull request template.
 
 ## Step 4 - Planet and myPlanet Tutorial
 
@@ -112,6 +122,6 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](vi-nation.md)).
 
-Next thing is to add yourself to the virtual intern list found in [vi-team.md](vi-team.md) and create a pull request. Message us ("@mutugiii", "@dogi" and "@everyone") in the virtual intern discord channel room so that we can set up a meeting and add you to the team as soon as possible.
+Next thing is to add yourself to the virtual intern list found in [vi-team.md](vi-team.md) and create a pull request. Message us ("@mutugiii", "@dogi" and "@vi-software") in our Discord #vi-software channel so that we can set up a meeting and add you to the team as soon as possible.
 
-Make sure to read through the [intern orientation document](#!./pages/robots/rbts-intern-orientation.md) before the meeting.
+Make sure to read through the [software engineering intern orientation document](vi-intern-orientation.md) before the meeting.
