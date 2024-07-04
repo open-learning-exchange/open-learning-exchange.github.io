@@ -10,13 +10,13 @@ These are the languages I've used for app development:
 - Java ☕
 
 I also have experience with:
-- Python :snake:
+- Python 🐍
 - HTML/CSS 5️⃣
 
 Some of my interests include:
 - baseball ⚾
 - reading 📖
-- and a lil bit of pickleball :tennis:
+- and a lil bit of pickleball 🎾
 
 ## Me in Other Places
 - [LinkedIn](https://www.linkedin.com/in/alexander-diaz-8554a5276/)
