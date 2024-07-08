@@ -1,143 +1,125 @@
 # GitHub and Markdown (Step 3)
 
-## Objectives
+## 1. Objectives
 
-* Learn about GitHub and Markdown
-* Create your own Markdown profile page
-* Understand the GitHub workflow (including forks, repositories, commits, and pull requests)
+- Learn about GitHub and Markdown
+- Create your own Markdown profile page
+- Understand the Forking workflow on GitHub (including forks, repositories, commits, and pull requests)
 
-## Preparation
+## 2. Preparation
 
-[GitHub](https://help.github.com/categories/writing-on-github/) – a web-based hosting service for version control using git, source code management system for OLE.
+Before diving into GitHub, Markdown, and forking workflow, it's crucial to understand the essential tools and resources involved for this tutorial:
 
-[Markdown](https://en.wikipedia.org/wiki/Markdown) – a lightweight markup language with plain text formatting syntax.
+- [Markdown](https://en.wikipedia.org/wiki/Markdown) – a lightweight markup language with plain text formatting syntax.
+- [GitHub](https://docs.github.com/en) –  a platform for hosting code, version control, and collaboration.
+- [MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) – a content management system that leverages Markdown. The site you are reading is built with MDwiki.
+- [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) - This is the workflow you'll be using during the First Steps phase, as you won't have direct access to our repositories yet. This tutorial will focus solely on using this workflow on GitHub.com to keep things simple. We'll explore working with Git on the command line in more depth later.
 
-[MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) – a CMS/Wiki built in HTML5/Javascript and runs on the client. It uses Markdown as its input markup language. The OLE support website you are currently viewing is realized with MDwiki.
+### 2.1 Introduction to Markdown
 
-### Markdown
+1. Review [Getting Started | Markdown Guide](https://www.markdownguide.org/getting-started/) for an overview of Markdown, how it works, and what you can do with it.
+2. Go through [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/) to learn the fundamental syntax.
+3. Complete [this interactive Markdown tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) to gain some practical experience.
 
-![Markdown Preview](images/vi-markdown-ref.png)
-Example of Markdown syntax on the left side and the way it is rendered to HTML on the right side (click on image to expand):
+### 2.2 Introduction to GitHub
 
-![Markdown Cheat Sheet](images/vi-markdown-syntax.png)
-A Markdown cheat sheet that might help you create your own Markdown page later:
+Ensure you are logged in to GitHub with your account credentials. If you're unfamiliar with GitHub's layout and functionalities, visit [our repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) to explore around.
 
-[GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
+**NOTE**: Confirm your commit email address on GitHub is set correctly. For detailed steps, refer to [Setting your commit email address on GitHub - GitHub Doc](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-on-github).
 
-[Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) - A resource for commonly used git commands.
+### 2.3 Introduction to Forking Workflow
 
-[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A bigger Markdown cheat sheets with examples
+The [forking workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) is a collaborative approach to software development, commonly used in open-source projects. It allows developers to contribute to a project without requiring direct access to the original repository. Here's how it works:
 
-[Markdown Web Editor](https://markdownlivepreview.com/) - An Online Markdown Web Editor
+- **Forking**: This is where you create a copy of an existing project repository under your own GitHub account. It's like duplicating a book so you can make notes without altering the original.
 
-[Markdown Tutorial](https://tylingsoft.github.io/tutorial.md/#whats-markdown) - An interactive tutorial to learn Markdown.
+- **Independent Changes**: In your forked repository, you have the freedom to explore, experiment, and make changes. You can create new features, fix bugs, or improve documentation.
 
-[Markdown Interactive Tutorial](http://www.markdowntutorial.com/lesson/1/) - Another awesome interactive tutorial to experiment and learn more Markdown syntax.
+- **Pull Requests**: Once you're happy with your changes, you can propose them to the original project by creating a pull request. This is a request for the project maintainers to review and possibly merge your changes into their codebase.
 
-**NOTE**:
-• **If you have not used Markdown before, we recommend you to go through at least one of the tutorials/guides.** For more reference or tutorial about Markdown, jump to [Useful Links](#Useful_Links).
-• Markdown != HTML
-• If you like to use emoji in your profile, copy the actual emoji directly instead of git markdown markup code or HTML unicode (Use '🐱' instead of ':emojicode:'). You can use this [link](https://emojipedia.org/) to copy emoji.
-• Notice that the task lists feature is **not supported** by MDwiki, although it is supported by Github. Your task lists may look good on Github preview but will not on MDwiki.
-
-## Start Here
+## 3. Add Your Own Markdown Profile Page with Forking Workflow on github.com
 
 Below is a summary of the steps that we will walk you through:
 
-* [Login to GitHub with your username and password](#Login_to_GitHub_with_your_username_and_password)
-* [Find and fork the correct repository](#Find_and_fork_the_correct_repository)
-* [Go to Settings and rename your repository](#Go_to_Settings_and_rename_your_repository)
-* [Check if your github.io works](#Check_if_you_github.io_works)
-* [Create a new file as your personal MDwiki page and commit your changes](#Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
-* [Open a pull request](#Open_a_pull_request)
+1. [Find and fork the correct repository](#3.1_Find_and_fork_the_correct_repository)
+2. [Go to Settings and rename your repository](#3.2_Go_to_Settings_and_rename_your_repository)
+3. [Check to see if your github.io site works](#3.3_Check_to_see_if_your_github.io_site_works)
+4. [Create a new file as your personal MDwiki page and commit your changes](#3.4_Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
+5. [Open a pull request](#3.5_Open_a_pull_request)
 
-### Login to GitHub with your username and password
+### 3.1 Find and fork the correct repository
 
-Since you have already created an account on GitHub, we will assume that you understand the basic layout and functionality. If you don't, please explore and do some basic googling.
+Forking creates a personal copy of a repository in your GitHub account, allowing you to make changes without affecting the original repository.
 
-There is a lot to learn about GitHub, but to acclimatize you to it, we will walk you through a basic example of how to create your own &lt;username&gt;.github.io and allow you to edit and commit your changes.
+To fork the correct repository, follow these steps:
 
-**NOTE**: Existing GitHub users, please make sure to set your email address per local repository or make sure global settings are accurate. Follow [this](https://help.github.com/articles/setting-your-commit-email-address-in-git/) for more information.
+1. Visit the [OLE github.io repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io).
+2. Click the "Fork" button at the top-right corner. If you're unable to locate it, refer to [Forking a repository - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository).
 
-### Find and fork the correct repository
+**NOTE**: Until you become an official virtual intern, always fork the repository before making changes. Commit your changes to your forked version, and submit pull requests to contribute back to OLE's repository. The main repository will be updated once your pull requests are approved.
 
-Forking is essentially creating a copy of a repository on your own GitHub account, to avoid editing and, possibly, messing up with the main repository.
+### 3.2 Go to Settings and rename your repository
 
-Now, go to [OLE's github.io repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io) and click on the "Fork" button as shown in the screenshot below to fork the repository to your own GitHub account.
+After forking the repository, you'll be redirected to your personal copy of the repository: **&lt;YourUserName&gt;/open-learning-exchange.github.io**. To rename this repository to create your GitHub Pages site:
 
-![Forking on GitHub](images/vi-github-forking.png)
+1. Click at the repository Settings at the top of the page.
+2. In the repository name field, change it to `YourUserName.github.io`.
+3. Click **Rename** to confirm the change.
 
-**NOTE**: It is very important to **distinguish between your personal GitHub account and OLE's account**.
-As we want to keep a 'clean' version of our code, you should first fork the repository. You should commit any changes you make to a branch on this version of the repository. These changes should be sent back to OLE's repository through pull requests. OLE's code will be updated when the pull requests are approved.
-
-### Go to Settings and rename your repository
-
-After you fork the repository, you will be on your repository: &lt;YourUserName&gt;/open-learning-exchange.github.io. Next, you should go to **Settings** at the top middle of the page and rename your repository to &lt;YourUserName&gt;.github.io. See example below.
-
-**Note:** In case you have the **https://YourUserName.github.io** in use, please refer to the [FAQ](vi-faq.md) (Q16).
+**Note:** If you already have a GitHub Pages site at https://YourUserName.github.io in use, refer to [this FAQ question](#!pages/mi/mi-faq.md#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?) for guidance.
 
 ![Renaming Repository](images/vi-rename-repository.png)
 
-### Check to see if your github.io works
+### 3.3 Check to see if your github.io site works
 
-After renaming your forked repository, go to  https://YourUserName.github.io and make sure it works.
+After renaming your repository, visit `https://<YourUserName>.github.io` to check if your site is live.
 
-Don't worry if you see a **404** page not found error. When you access the link, it will take a while for the page to load and run. Make sure in **Settings > GitHub Pages**, the **source** is set to **_master branch_**.
+If you see a "404 Page Not Found" error, don't panic. It may take a while for your GitHub Pages site to build and become accessible. To ensure it's set up correctly, go to the repository **Settings > Pages** and confirm that the **Source** is set to "Deploy from a branch" and `master` `/(root)` are selected under **Branch**.
 
-### Create a new file as your personal MDwiki page and commit your changes
+### 3.4 Create a new file as your personal MDwiki page and commit your changes
 
-**Again, when you're editing on GitHub, it is important to make sure you are working on your own GitHub repository.** To that end, make sure there is your own username before the slash and the correct repository after the slash. For example: `EmilyLarkin/EmilyLarkin.github.io`.
+Before editing, ensure you're working in your own GitHub repository. Verify that the repository name includes your GitHub username. For example, it should look like `<YourGitHubUserName>/<YourGitHubUserName>.github.io`.
 
-First, before creating your file, we need to create a new branch
+#### 3.4.1 Create a new branch
 
-1. Click on the branch selector menu (make sure it says "Branch: **master**", if it's something else, click on it and switch to master branch first
-1. Give your new branch a short and descriptive name (you can read more about branch naming [here](https://github.com/agis/git-style-guide#branches))
-1. Click on "Create branch: your-new-branch-name". Then you should see "Branch: **your-new-branch-name**" on the branch selector menu
+1. **Switch to the Master Branch**: Click the branch selector at the top-left corner of your repository. If it doesn't say "**master**", switch to the master branch.
+2. **Name the New Branch**: Click the branch selector again, then type a descriptive name like `add-<YourGitHubUserName>-profile`. For best practices on branch naming, check out this [guide](https://github.com/agis/git-style-guide#branches).
+3. **Confirm Creating the New Branch**: Click "Create branch **add-&lt;YourGitHubUserName&gt;-profile** from **master**." You should now see "**add-&lt;YourGitHubUserName&gt;-profile**" as your current branch.
 
   ![New Branch](images/vi-new-branch.png)
 
-Note: For the next steps be sure to use the relevant folder based on your internship: `pages/vi/profiles` for web interns or `pages/mi/profiles` for mobile interns
+#### 3.4.2 Create your profile file in Markdown
 
-Next, we are going to create your page
+To create your profile file, follow these steps:
 
-1. Go to the `pages/vi/profiles` or `pages/mi/profiles` folder
-1. Make sure you are still on the new branch you just created, look for "Branch: **new-branch-name**" on the branch selector menu
-1. Click `Create new file` button
-1. Name the file exactly the same as your GitHub username with file extension `.md`
-  * It is important that you stick with your GitHub username so we could easily identify you
-  * For reference, an example of a link to a personal page is [https://github.com/xyb994/open-learning-exchange.github.io/blob/master/pages/vi/profiles/xyb994.md]( https://github.com/xyb994/open-learning-exchange.github.io/blob/master/pages/vi/profiles/xyb994.md).  
-    Yours should be named in the same manner, only using your username.
+1. Navigate to `pages/mi/profiles/` folder from the main page of your forked repository.
+2. Ensure you are still on the branch you just created, look for "**add-&lt;YourGitHubUserName&gt;-profile**" on the branch selector menu
+3. Above the list of files, select the "Add file" dropdown menu, then click "Create new file".
+4. Name the file using your GitHub username with the .md extension (e.g., `JohnDoe.md`). This ensures your profile is easy to find.
 
-Then, in the new Markdown file, include the following information:
+In this new Markdown file, include the following information with a minimal of 5 Markdown elements:
 
-* your name, location/time zone, and OS (including version)
-* a short description of yourself (so your fellow virtual interns know who you are)
+- Your name, location/time zone, and OS (with version)
+- A brief description of yourself to help others get to know you.
 
-You may use the "Preview" tab to have a primitive look of what your Markdown will look like. Please use at least 5 different types of Markdown elements so you can get an idea of how it works. Avoid using HTML as the purpose of Markdown is to make pages easy to write and read. Try to be as creative as possible. Some good examples of profiles are: [Profile 1](profiles/Loshma93.md) (links), [Profile 2](profiles/ketruong.md) (picture), [Profile 3](profiles/paulbert.md) (lists)
+Use the "Preview" tab to preliminarily see how your Markdown will look like. Aim to use at least five different types of Markdown elements for variety. Avoid HTML, as the purpose of Markdown is to keep things simple. Consider creative examples, like:
 
-When you are finished, press 'commit changes' below.
+- [Profile 1](profiles/Okuro3499.md) (using table and lists)
+- [Profile 2](profiles/rlam20.md) (using proper heading, emoji, table, and list)
 
-![commitchanges](images/vi-commitchanges.jpg)
+When you're ready, click the "Commit changes..." button. If you need to edit your file again, click the pencil icon.
 
-If you need to edit your file again, click the pencil icon to edit (as shown below).
+To preview your changes rendered by MDwiki, use the following link, replacing "YourUserName" with your GitHub username and "YourBranchName" with the name of your branch:
 
-  ![Edit Profile](images/vi-edit-profile.png)
+`https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/mi/profiles/YourUserName.md`
 
-**Or**
-**Another way to edit the file is to, go to File change and edit file (as shown below)**
-
-![Edit file ](images/vi-edit-markdown.png)
-
-
-
-Now, check what this looks like on your own page `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md` or `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/mi/profiles/YourUserName.md`. The raw.githack link allows reviewers to preview your changes. Please double check that everything looks good and is working as you hoped before moving on to next section.
+Before proceeding to the next section, please ensure that everything looks as expected and works correctly with the raw.githack link.
 
 **NOTE**:
-• If you don't see any changes in your page after editing your file then you need to clear your browser's cache or open your page in your browser's **"incognito"** or **"privacy"** mode. You can also press Ctrl+Shift+R or Ctrl+F5 (on **Mac**: Cmd+Shift+R) to reload the page with cache cleared.
-• As MDwiki site is what we use for "production," please **always check** if everything renders as you expected using raw.githack link. There are [different flavors of Markdown](https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors). Use GitHub's preview tab for reference only.
+- New changes you push should be reflected within minutes on raw.githack. If changes still don't appear, clear your browser's cache or open your page in "incognito" or "private" mode. You can also force refresh/reload the page using `Ctrl+Shift+R` or `Ctrl+F5` (on Mac: `Cmd+Shift+R`).
+- Remember that there are [different Markdown flavors](https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors). Since the MDwiki site is used for "production," always check if your content renders correctly on the raw.githack link. Use GitHub's preview tab for guidance, but rely on raw.githack for accuracy.
 
-
-### Open a pull request
+### 3.5 Open a pull request
 
 Once you have your profile ready, it's time to create a pull request. Click on one of the "Pull request" buttons as highlighted in the screenshot below.
 
@@ -145,43 +127,38 @@ Once you have your profile ready, it's time to create a pull request. Click on o
 
 ![Complete Pull Request](images/vi-create-pull-request.png)
 
-**There are a few things to watch out before clicking on the green "Create pull request" button**. Make sure you:
+**There are a few things to watch out before clicking on the "Create pull request" button**. Make sure you:
 
-* give the pull request a short and descriptive title (e.g. create YourUserName.md)
-* include the raw.githack link to your Markdown profile page in the pull request description
-* scroll down the page and verify you used at least 5 **different** Markdown elements in your profile
+- give the pull request a short and descriptive title (e.g. add YourUserName.md)
+- follow the pull request template, include the raw.githack link to your Markdown profile page in the pull request description
+- verify you used at least **5 different** Markdown elements in your profile
+  - To use emojis in your profile, copy the actual emoji directly (e.g., '🐱' instead of ':emojicode:'). You can find and copy emojis from [emojipedia](https://emojipedia.org/).
+  - Task lists are supported on GitHub but not on MDwiki. They may look correct on GitHub but not on MDwiki.
 
-Finally, click "Create pull request" button and post the link to your github.io and profile pull request in the [discord server](https://discord.gg/mtgGD4EnYW):
+Finally, click "Create pull request" button and post the link to your GitHub Pages and profile pull request in the [discord server mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235):
 
-> @/all I'm on step 3 - GitHub and Markdown, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
+> I'm on step 3 - GitHub and Markdown, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
 
 Remember, it can take a while for `https://YourUserName.github.io` to be up and running, so don't worry if you see a **404** when you access the link!
 
+A member of our team will review your changes and notify you on Discord. Reviewers often provide feedback, so be prepared to address their suggestions or corrections. If you receive feedback, make the necessary changes in your branch by navigating to the file in your forked repository or by clicking on the pull request's "Files changed" tab, selecting "...", and then "Edit file." Leave a comment on the pull request once you're finished, and don't forget to notify us on Discord. Any updates you make to your branch will automatically reflect in the pull request.
 
-Someone from our team will review the changes and notify you on discord. Often there will be some feedback from the reviewer for you to address. If that is the case, make changes to your branch and comment on the pull request when done. Any changes you make to your branch will be automatically updated in the pull request. Once you get 3 approving reviews, we will merge your Markdown profile with the main repository.
+After you receive enough approving reviews, we will merge your Markdown profile into the main repository.
 
-After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/vi/profiles/<YourUserName>.md` or `open-learning-exchange.github.io/#!pages/mi/profiles/<YourUserName>.md`. Let us know in the [discord server](https://discord.gg/mtgGD4EnYW) after you complete this step.
+After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/mi/profiles/<YourUserName>.md`. Let us know in the [discord server mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235) after you complete this step.
 
-**NOTE**: Try to add and experiment with as many markdown elements as you can and make your page attractive. A list of sample profile pages can be found [**here**](https://github.com/open-learning-exchange/open-learning-exchange.github.io/tree/master/pages/vi/profiles). Be creative.
+#### 3.5.1 Delete the Branch from your remote repository
 
-
-### Delete the Branch from your remote repository
-
-After your pull request has been **approved** and **merged** by OLE staff, you might want to delete the branch that is associated with your pull request. It can keep your remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below).
+After your pull request has been **approved** and **merged** by us, you might want to delete the branch that is associated with your pull request. It can keep your remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below).
 
 ![Delete Merged Branch](images/vi-delete-merged-branch.png)
 
-## Useful Links
+## 4. Useful Links
 
-[GitHub – Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - The official GitHub Guide for Markdown syntax.
-
-[MDWiki – Quick Start](http://dynalon.github.io/mdwiki/#!quickstart.md) - The official MDwiki quick start guide on Markdown syntax.
-
-[GitHub - Writing and Formatting](https://help.github.com/categories/writing-on-github/) - A GitHub help page on how to format and write, along with working with saved replies.
-
-[GitHub - How to fork a repo](https://help.github.com/articles/fork-a-repo/) - A more in-depth explanation about how and why we fork repositories.
-
-[Other helpful links and videos](vi-faq.md#Helpful_Links)
+- [Basic writing and formatting syntax - GitHub Docs](https://guides.github.com/features/mastering-markdown/)
+- [MDWiki – Quick Start](http://dynalon.github.io/mdwiki/#!quickstart.md) - The official MDwiki quick start guide on Markdown syntax.
+- [Fork a repository - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) - A more in-depth explanation about how and why we fork repositories.
+- [Managing files - GitHub Docs](https://docs.github.com/en/repositories/working-with-files/managing-files)
 
 ## Next Section _([Step 4](vi-planetapps.md))_ **→**
 
