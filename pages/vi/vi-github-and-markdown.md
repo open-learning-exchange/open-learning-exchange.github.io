@@ -104,8 +104,8 @@ In this new Markdown file, include the following information with a minimal of 5
 
 Use the "Preview" tab to preliminarily see how your Markdown will look like. Aim to use at least five different types of Markdown elements for variety. Avoid HTML, as the purpose of Markdown is to keep things simple. Consider creative examples, like:
 
-- [Profile 1](profiles/Okuro3499.md) (using table and lists)
-- [Profile 2](profiles/rlam20.md) (using proper heading, emoji, table, and list)
+- [Profile 1](profiles/lillyxxx.md) (using table, list, and emoji)
+- [Profile 2](profiles/paulbert.md) (using link, list, and emoji)
 
 When you're ready, click the "Commit changes..." button. If you need to edit your file again, click the pencil icon.
 
@@ -135,7 +135,7 @@ Once you have your profile ready, it's time to create a pull request. Click on o
   - To use emojis in your profile, copy the actual emoji directly (e.g., '🐱' instead of ':emojicode:'). You can find and copy emojis from [emojipedia](https://emojipedia.org/).
   - Task lists are supported on GitHub but not on MDwiki. They may look correct on GitHub but not on MDwiki.
 
-Finally, click "Create pull request" button and post the link to your GitHub Pages and profile pull request in the [discord server mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235):
+Finally, click "Create pull request" button and post the link to your GitHub Pages and profile pull request in the #vi-software channel on discord:
 
 > I'm on step 3 - GitHub and Markdown, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
 
@@ -145,7 +145,7 @@ A member of our team will review your changes and notify you on Discord. Reviewe
 
 After you receive enough approving reviews, we will merge your Markdown profile into the main repository.
 
-After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/mi/profiles/<YourUserName>.md`. Let us know in the [discord server mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235) after you complete this step.
+After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/mi/profiles/<YourUserName>.md`. Let us know in the #vi-software channel on discord after you complete this step.
 
 #### 3.5.1 Delete the Branch from your remote repository
 
