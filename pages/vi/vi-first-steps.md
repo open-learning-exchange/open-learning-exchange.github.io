@@ -1,4 +1,4 @@
-# First Steps
+# First Steps – Software Engineering Virtual Intern
 
 ## The Big Picture
 
