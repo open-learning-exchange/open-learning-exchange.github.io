@@ -63,7 +63,7 @@ Every time you comment on an issue or review a pull request, message those invol
 
 To merge a pull request, follow these steps:
 
-1. **Approval Requirement:** Ensure that at least two other team members have approved the pull request, and there are no outstanding change requests from others. However, there's an exception for virtual interns adding themselves to `mi-team.md`: they should merge their pull request during their initial meeting interview.
+1. **Approval Requirement:** Ensure that at least two other team members have approved the pull request, and there are no outstanding change requests from others. However, there's an exception for virtual interns adding themselves to `vi-team.md`: they should merge their pull request during their initial meeting interview.
 
 2. **Merging Process:**
    - Select "Squash and Merge"
