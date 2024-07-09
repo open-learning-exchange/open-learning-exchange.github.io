@@ -108,19 +108,17 @@ In this step, your goal is to create, comment on, and resolve GitHub issues to i
 
 1. **Create Issues**: Create 3 new issues in our GitHub repository regarding Mobile Intern First Steps. Each issue should be clear and focus on a specific problem or improvement. **Ensure that at least one issue addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation.**
 
-2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues. This could be to suggest solutions, ask questions, or clarify the issue.
+2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues that you did not create. This could be to provide feedback, suggest solutions, ask questions, or clarify the issue.
 
 3. **Resolve Issues with Pull Requests**: Resolve the 3 issues by making the necessary changes in separate branches derived from `master` in your repository, and submit a distinct pull request for each one.
 
-Follow the same process as described in the [GitHub Issues step](mi-github-issues.md), working to improve our documentation for future interns. To get your pull requests merged, they must be approved by at least two other OLE team members/interns. After creating a pull request, announce it on the Discord chat to request reviews. You may need to make additional corrections based on feedback.
+Follow the **same process** as described in the [GitHub Issues step](mi-github-issues.md), working to improve our documentation for future interns. To get your pull requests merged, they must be approved by at least two other OLE team members/interns. After creating a pull request, announce it on the Discord chat to request reviews. You may need to make additional corrections based on feedback.
 
 Remember, even small issues are worth addressing. Keep your issues focused and concise. If your pull requests need additional approvals, continue to work on other tasks while you wait.
 
 Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Help us make this documentation clear and useful for those who follow.
 
 **NOTE**: While adding details can be helpful, it's important to remember that less is often more. Over time, this First Steps guide has become bloated with too much information, making it harder to follow. As you work on improving this guide, focus on simplifying the instructions and removing any unnecessary content. The goal is to create a clear and concise guide that future virtual interns can easily understand and use.
-
-**NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request by suffixing it with `(fixes #ISSUE_NUM)` and make a new branch for every new issue from the master branch.
 
 Once you complete Step 8 you will have:
 
