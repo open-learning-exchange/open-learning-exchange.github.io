@@ -97,7 +97,7 @@ To create your profile file, follow these steps:
 3. Above the list of files, select the "Add file" dropdown menu, then click "Create new file".
 4. Name the file using your GitHub username with the .md extension (e.g., `JohnDoe.md`). This ensures your profile is easy to find.
 
-In this new Markdown file, include the following information with a minimal of 5 Markdown elements:
+In this new Markdown file, include the following information using a minimum of 5 Markdown elements:
 
 - Your name, location/time zone, and OS (with version)
 - A brief description of yourself to help others get to know you.
