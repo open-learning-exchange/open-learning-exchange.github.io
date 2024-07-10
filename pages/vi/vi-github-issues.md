@@ -103,7 +103,23 @@ Use the following commands to commit and push your changes:
    git status
    ```
 
-2. Stage the modified files:
+2. Display file(s) changes:
+   - To show specific file(s) change:
+
+     ```sh
+     git diff <file1> <file2> <file3>...
+     ```
+
+   - To show all file(s) change:
+
+     ```sh
+     git diff
+
+     ```
+
+   Verify the changes you made, then proceed to the next step. To understand `git diff` output, checkout [Git Diff | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-diff).
+
+3. Stage the modified files:
    - To stage specific modified files:
 
      ```sh
@@ -117,7 +133,7 @@ Use the following commands to commit and push your changes:
      git add .
      ```
 
-3. Commit the staged changes with a descriptive message:
+4. Commit the staged changes with a descriptive message:
 
    ```sh
    git commit -m "<your_commit_message>"
@@ -125,7 +141,7 @@ Use the following commands to commit and push your changes:
 
    (Refer to the commit message guidelines below).
 
-4. Push the changes to your new branch on GitHub:
+5. Push the changes to your new branch on GitHub:
 
    ```sh
    git push -u origin <issueNumber-descriptive-branch-name>
