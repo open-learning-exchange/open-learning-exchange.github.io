@@ -6,6 +6,8 @@ We use the nation/community infrastructure because our software is often deploye
 
 ## Connecting myPlanet to Planet Virtual Interns Nation "vi"
 
+[Tutorial video for this section](https://www.youtube.com/watch?v=Gm194qUNz0o)
+
 In this step, you will be connecting our mobile application, myPlanet, to Planet "vi" nation. To establish the connection, follow the instructions below:
 
 - **Configuration**: Click the settings gear icon in the upper-right corner to open the settings dialog box.
