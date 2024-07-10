@@ -45,8 +45,8 @@
 
 #### Q4: What are the hours of the internship?
 
-+ This is an intensive internship that requires 20 hours of work each week. Work with your fellow interns and keep us updated in the [Discord server](https://discord.gg/mtgGD4EnYW).
-+ The reason we have a 20 hour minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discusses problems, and works on issues together. Then the rest of the time is for catching up with the changes and working on issues assigned.
++ This is an intensive internship that requires 24 hours of work each week. Work with your fellow interns and keep us updated in the [Discord server](https://discord.gg/mtgGD4EnYW).
++ The reason we have a 24 hour minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discusses problems, and works on issues together. Then the rest of the time is for catching up with the changes and working on issues assigned.
 
 #### Q5: Is this a paid internship?
 
@@ -80,7 +80,9 @@
 
 #### Q12: How can I enable virtualization on my computer in order to turn Vagrant on?
 
-+ First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2", "Esc" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x", "Intel Virtualization Technology" or something similar. Enable this option, save and reset. Now the "vagrant up" command should work.
++ Here is a link to a general guide for enabling virtualization: https://www.dignited.com/113997/how-to-check-and-enable-virtualization-on-windows-10-11/
++ Depending on the make of your CPU and motherboard, instructions for navigating bios may differ slightly. If you are having trouble finding the virtualization option, you may need to search for a specific guide for your device's motherboard and CPU. Here is a guide for looking up your motherboard and CPU: https://www.tomshardware.com/how-to/check-what-motherboard-you-have. The CPU model is under the label *Processor*.
+
 
 #### Q13: Why is the "Submit" button not showing up when I try to submit my survey?
 
@@ -321,3 +323,5 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [How to Manually Fix Git Merge Conflicts](https://www.youtube.com/watch?v=g8BRcB9NLp4) - Please note that this video will explain how to fix a merge conflict from the point of view of the repo owner who is trying to merge a pull request. However, it is helpful also when you have to fix a merge conflict on your own local and forked repos.
 - [How to Use VirtualBox](https://www.youtube.com/watch?v=Dbblu_HVROk)
 - [Vagrant Tutorial](https://www.youtube.com/watch?v=PmOMc4zfCSw)
+
+#### Return to [First Steps](mi-10-steps.md)
