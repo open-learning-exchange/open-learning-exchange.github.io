@@ -19,9 +19,9 @@ NOTE: Issues are not just about adding new content or improving this MDwiki; the
 
 ## 3. Create an Issue
 
-If you've noticed an area for improvement in the Mobile Intern First Steps, let's address it. If not, please look around to find an issue. Begin by checking [existing issues, both open and closed](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue), to ensure it hasn't been raised before or addressed. If it hasn't, let's create a new issue:
+If you've noticed an area for improvement in the Mobile Intern First Steps, let's address it. If not, please look around to find an issue. Begin by checking [existing issues labeled with `mi`, both open and closed](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue+label%3Ami), to ensure it hasn't been raised before or addressed. If it hasn't, let's create a new issue:
 
-- Go to the [Issues tab of the upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues) and select "New Issue." Select the "Get started" button next to "First Steps - Mobile Intern."
+- Go to the [Issues tab of the upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues) and select "New Issue." Select the "Get started" button next to "First Steps - Mobile Virtual Intern."
     1. Craft a succinct, descriptive title.
     2. Complete the issue template thoroughly, ticking all required checkboxes and providing necessary details.
 - You can reference [this example](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/3300) to see how an issue follows the issue template with a clear structure.
@@ -146,22 +146,22 @@ Because the commits you will be making on this markdown wiki are fairly basic, i
 
 For edits to this markdown wiki, we recommend that your commit messages only consist of the subject line (refer to the article for more on what the subject is).
 
-* Limit the subject line to 50 characters
-* Do not end the subject line with a period
-* Use the imperative mood in the subject line
+- Limit the subject line to 50 characters
+- Do not end the subject line with a period
+- Use the imperative mood in the subject line
 
 Here is an example of how you would write your commit message:
-`$ git commit -m "Add commit message style guide and add raw.githack section (fixes #841)"`
+`$ git commit -m "add commit message style guide and add raw.githack section (fixes #841)"`
 
 **HINT**: In your commit message, if you add a keyword like "fixes" or "resolves" followed by "#" and the issue number, once your pull request is merged, the issue will automatically be closed. This is helpful because it helps declutter the issues section. See more [here](https://help.github.com/articles/closing-issues-using-keywords/).
 
 ### 6.2. Raw.githack
 
-Raw.githack is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/#!index.md` and viewing the page(s) you have changed. You may need to change the link slightly depending on where the file you want to view is located. If everything looks correct, you are ready to create a pull request. If you need to change the file path try: `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/#!{file path separated by /}`.
+Raw.githack is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/index.html#!pages/vi/vi-first-steps.md` and navigating to the page(s) you have changed. If everything looks correct, you are ready to create a pull request.
 
-For example, http://raw.githack.com/aasenomad/aasenomad-ole.github.io/master/#!index.md will result with this:
+For example, [https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile/index.html#!pages/vi/vi-first-steps.md](https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile/index.html#!pages/mi/mi-first-steps.md) will land in the First Steps – Mobile Virtual Intern's main page:
 
-![Index via Raw.githack Link](image/mi-raw.githack-index.png)
+![mi first steps main page with raw.githack link](image/mi-raw-githack-first-steps-main-page.png)
 
 Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a raw.githack link in your next step, the pull request.
 

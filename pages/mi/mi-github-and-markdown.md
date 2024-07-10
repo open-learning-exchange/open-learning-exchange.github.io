@@ -43,7 +43,7 @@ Below is a summary of the steps that we will walk you through:
 
 1. [Find and fork the correct repository](#3.1_Find_and_fork_the_correct_repository)
 2. [Go to Settings and rename your repository](#3.2_Go_to_Settings_and_rename_your_repository)
-3. [Check to see if your github.io site works](#3.3_Check_to_see_if_you_github.io_site_works)
+3. [Check to see if your github.io site works](#3.3_Check_to_see_if_your_github.io_site_works)
 4. [Create a new file as your personal MDwiki page and commit your changes](#3.4_Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
 5. [Open a pull request](#3.5_Open_a_pull_request)
 
@@ -97,7 +97,7 @@ To create your profile file, follow these steps:
 3. Above the list of files, select the "Add file" dropdown menu, then click "Create new file".
 4. Name the file using your GitHub username with the .md extension (e.g., `JohnDoe.md`). This ensures your profile is easy to find.
 
-In this new Markdown file, include the following information:
+In this new Markdown file, include the following information using a minimum of 5 Markdown elements:
 
 - Your name, location/time zone, and OS (with version)
 - A brief description of yourself to help others get to know you.
@@ -129,9 +129,11 @@ Once you have your profile ready, it's time to create a pull request. Click on o
 
 **There are a few things to watch out before clicking on the "Create pull request" button**. Make sure you:
 
-* give the pull request a short and descriptive title (e.g. add YourUserName.md)
-* follow the pull request template, include the raw.githack link to your Markdown profile page in the pull request description
-* verify you used at least **5 different** Markdown elements in your profile
+- give the pull request a short and descriptive title (e.g. add YourUserName.md)
+- follow the pull request template, include the raw.githack link to your Markdown profile page in the pull request description
+- verify you used at least **5 different** Markdown elements in your profile
+  - To use emojis in your profile, copy the actual emoji directly (e.g., '🐱' instead of ':emojicode:'). You can find and copy emojis from [emojipedia](https://emojipedia.org/).
+  - Task lists are supported on GitHub but not on MDwiki. They may look correct on GitHub but not on MDwiki.
 
 Finally, click "Create pull request" button and post the link to your GitHub Pages and profile pull request in the [discord server mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235):
 
@@ -139,7 +141,7 @@ Finally, click "Create pull request" button and post the link to your GitHub Pag
 
 Remember, it can take a while for `https://YourUserName.github.io` to be up and running, so don't worry if you see a **404** when you access the link!
 
-A member of our team will review your changes and notify you on Discord. It's common for reviewers to give feedback, so be prepared to address any suggestions or corrections they provide. If you receive feedback, make the necessary changes in your branch, and leave a comment on the pull request once you're finished. Also, don't forget to notify us on Discord. Any updates you make to your branch will automatically reflect in the pull request.
+A member of our team will review your changes and notify you on Discord. Reviewers often provide feedback, so be prepared to address their suggestions or corrections. If you receive feedback, make the necessary changes in your branch by navigating to the file in your forked repository or by clicking on the pull request's "Files changed" tab, selecting "...", and then "Edit file." Leave a comment on the pull request once you're finished, and don't forget to notify us on Discord. Any updates you make to your branch will automatically reflect in the pull request.
 
 After you receive enough approving reviews, we will merge your Markdown profile into the main repository.
 

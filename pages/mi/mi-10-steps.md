@@ -1,15 +1,15 @@
-# First Steps
+# First Steps – Mobile Virtual Intern
 
 ## The Big Picture
 
-Welcome to the first steps for becoming an OLE Virtual Mobile Intern! We treat these first steps as a vetting process to prove that you can follow basic instructions before moving on to more complex projects and larger teams. Think of this as the interview for the internship.
+Welcome to the first steps for becoming an OLE Mobile Virtual Intern! We treat these first steps as a vetting process to prove that you can follow basic instructions before moving on to more complex projects and larger teams. Think of this as the interview for the internship.
 
 If you are selected for the internship after completing the steps, you will be officially invited to join the OLE mobile interns team! We’ll add you to our Virtual Interns Discord channel and assign you to a specific team to work on developing and improving OLE’s software. Our current mobile projects are:
 
 1. **[myPlanet](https://github.com/open-learning-exchange/myplanet)**: An Android app that syncs with Planet to save data for offline use and send usage data.
 2. **[Remote](https://github.com/treehouses/remote)**: An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 
-If you are selected after completing these steps, you'll work with your team on an assignment, and assignments will change weekly. During this internship, you will have the opportunity to work with various software and languages including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Vagrant](https://www.vagrantup.com/)**, **[VirtualBox](https://www.virtualbox.org/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Docker](https://www.docker.com/)**, **[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**, **[Node.js](https://nodejs.org/en/)**, **[Angular](https://angular.io/)**, **[Java](https://www.tutorialspoint.com/java/index.htm)**, and **[Kotlin](https://kotlinlang.org/)**.
+If you are selected after completing these steps, you'll work with your team on an assignment, and assignments will change weekly. During this internship, you will have the opportunity to work with various software and languages, including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Realm database](https://en.wikipedia.org/wiki/Realm_(database%29)**, **[Java](https://www.tutorialspoint.com/java/index.htm)**, **[Android Studio](https://en.wikipedia.org/wiki/Android_Studio)**, and **[Kotlin](https://kotlinlang.org/)**.
 
 **NOTE**: This is an unpaid, intensive internship requiring at least 24 hours of work per week. You can find more information about the internship in our [FAQ](mi-faq.md#General_Internship_Questions). If you have additional questions, feel free to ask in the Discord server!
 
@@ -72,7 +72,7 @@ After enrolling, there may be a delay before you can upgrade to the beta version
 
 #### Testing the app
 
-Once you've installed the beta version of the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap "SYNC". Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
+Once you've **installed the beta version** of the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap "SYNC". Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
 
 Take screenshots and attempt to crash the app. After exploration, update us on Discord: "I'm on step 2, spent about xx minutes in the myPlanet app and crashed it when navigating to ..." or "I'm on step 2, spent about xx minutes in the myPlanet app and it did not crash."
 
@@ -108,19 +108,17 @@ In this step, your goal is to create, comment on, and resolve GitHub issues to i
 
 1. **Create Issues**: Create 3 new issues in our GitHub repository regarding Mobile Intern First Steps. Each issue should be clear and focus on a specific problem or improvement. **Ensure that at least one issue addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation.**
 
-2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues. This could be to suggest solutions, ask questions, or clarify the issue.
+2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues that you did not create. This could be to provide feedback, suggest solutions, ask questions, or clarify the issue.
 
 3. **Resolve Issues with Pull Requests**: Resolve the 3 issues by making the necessary changes in separate branches derived from `master` in your repository, and submit a distinct pull request for each one.
 
-Follow the same process as described in the [GitHub Issues step](mi-github-issues.md), working to improve our documentation for future interns. To get your pull requests merged, they must be approved by at least two other OLE team members/interns. After creating a pull request, announce it on the Discord chat to request reviews. You may need to make additional corrections based on feedback.
+Follow the **same process** as described in the [GitHub Issues step](mi-github-issues.md), working to improve our documentation for future interns. To get your pull requests merged, they must be approved by at least two other OLE team members/interns. After creating a pull request, announce it on the Discord chat to request reviews. You may need to make additional corrections based on feedback.
 
 Remember, even small issues are worth addressing. Keep your issues focused and concise. If your pull requests need additional approvals, continue to work on other tasks while you wait.
 
 Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future interns take their First Steps. Help us make this documentation clear and useful for those who follow.
 
 **NOTE**: While adding details can be helpful, it's important to remember that less is often more. Over time, this First Steps guide has become bloated with too much information, making it harder to follow. As you work on improving this guide, focus on simplifying the instructions and removing any unnecessary content. The goal is to create a clear and concise guide that future virtual interns can easily understand and use.
-
-**NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request by suffixing it with `(fixes #ISSUE_NUM)` and make a new branch for every new issue from the master branch.
 
 Once you complete Step 8 you will have:
 
