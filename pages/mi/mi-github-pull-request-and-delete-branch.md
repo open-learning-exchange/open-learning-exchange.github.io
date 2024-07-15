@@ -22,16 +22,16 @@ Now, go to your forked repository on GitHub by visiting `https://github.com/Your
       - verify you satisfied the requirements you are creating this pull request for
 
 3. Submit the pull request
-
 4. Once redirected to the newly created pull request, complete the tasks listed under "After Creating the Pull Request" by ticking each checkbox as you finish them.
-
 5. Post the link to your pull request in the chat along with any required links. 
 
     A member of our team will review your changes and notify you on Discord. Reviewers often provide feedback, so be prepared to address their suggestions or corrections. If you receive feedback, make the necessary changes in your branch by navigating to the file in your forked repository or by clicking on the pull request's "Files changed" tab, selecting "...", and then "Edit file." Leave a comment on the pull request once you're finished, and don't forget to notify us on Discord. Any updates you make to your branch will automatically reflect in the pull request.
 
 6. Wait for the pull request merge then come back so you can delete your branch.
 
-## 8. Delete the Branch
+**NOTE**: Only delete your branch after your pull request have been successfully merged!
+
+## 2. Delete the Branch
 
 * **Delete the branch from your remote repository.**  
 After your pull request has been approved and merged by OLE staff, you might want to delete the branch that is associated with your pull request. It can keep your local and remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below).

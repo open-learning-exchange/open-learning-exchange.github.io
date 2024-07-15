@@ -182,7 +182,7 @@ For example, [https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile
 
 Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a raw.githack link in your next step, the pull request.
 
-## 7. Create a Pull Request
+## 7. Create a Pull Request & Delete your branch
 
 Now follow the instructions on [Creating a Pull Request and Deleting a Branch Tutorial](mi-github-pull-request-and-delete-branch.md) to create your pull request.
 
