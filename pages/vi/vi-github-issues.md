@@ -24,6 +24,7 @@ If you've noticed an area for improvement in the Software Engineering Virtual In
 - Go to the [Issues tab of the upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues) and select "New Issue." Select the "Get started" button next to "First Steps - Software Engineering Virtual Intern."
     1. Craft a succinct, descriptive title.
     2. Complete the issue template thoroughly, ticking all required checkboxes and providing necessary details.
+    3. Drop a link to this issue in our discord channel.
 - You can reference [this example](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/3300) to see how an issue follows the issue template with a clear structure.
 - Once submitted, others can provide feedback to guide the next steps.
 
