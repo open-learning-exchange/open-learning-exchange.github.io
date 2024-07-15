@@ -121,7 +121,7 @@ Before proceeding to the next section, please ensure that everything looks as ex
 
 ### 3.5 Open a pull request
 
-Once you have your profile ready, it's time to create a pull request. Click on one of the "Pull request" buttons as highlighted in the screenshot below.
+Once you have your profile ready, it's time to create a pull request. Click on the "Pull request" buttons as highlighted in the screenshot below.
 
 ![Initiate Pull Request](image/mi-initiate-pull-request.png)
 
