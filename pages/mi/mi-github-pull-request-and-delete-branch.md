@@ -29,7 +29,7 @@ Now, go to your forked repository on GitHub by visiting `https://github.com/Your
 
 6. Wait for the pull request merge then come back so you can delete your branch.
 
-**NOTE**: Only delete your branch after your pull request have been successfully merged!
+**NOTE**: Only delete your branch after your pull request has been successfully merged!
 
 ## 2. Delete the Branch
 
