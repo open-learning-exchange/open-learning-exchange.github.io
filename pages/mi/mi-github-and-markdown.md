@@ -125,7 +125,9 @@ Once you have your profile ready, it's time to create a pull request. Click on o
 
 ![Initiate Pull Request](image/mi-initiate-pull-request.png)
 
-![Complete Pull Request](image/mi-create-pull-request.png)
+<!-- ![Complete Pull Request](image/mi-create-pull-request.png) !-->
+
+![Complete Pull Request](image/mi-pr-title-and-description.png)
 
 **There are a few things to watch out before clicking on the "Create pull request" button**. Make sure you:
 
