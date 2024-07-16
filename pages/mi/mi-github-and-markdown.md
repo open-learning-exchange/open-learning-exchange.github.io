@@ -45,7 +45,7 @@ Below is a summary of the steps that we will walk you through:
 2. [Go to Settings and rename your repository](#3.2_Go_to_Settings_and_rename_your_repository)
 3. [Check to see if your github.io site works](#3.3_Check_to_see_if_your_github.io_site_works)
 4. [Create a new file as your personal MDwiki page and commit your changes](#3.4_Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
-5. [Open a pull request](#3.5_Open_a_pull_request)
+5. [Open a pull request and delete your branch after it is merged](#3.5_Open_a_pull_request_and_delete_your_branch_after-it_is_merged)
 
 ### 3.1 Find and fork the correct repository
 
@@ -124,11 +124,11 @@ Before proceeding to the next section, please:
 - New changes you push should be reflected within minutes on raw.githack. If changes still don't appear, clear your browser's cache or open your page in "incognito" or "private" mode. You can also force refresh/reload the page using `Ctrl+Shift+R` or `Ctrl+F5` (on Mac: `Cmd+Shift+R`).
 - Remember that there are [different Markdown flavors](https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors). Since the MDwiki site is used for "production," always check if your content renders correctly on the raw.githack link. Use GitHub's preview tab for guidance, but rely on raw.githack for accuracy.
 
-### 3.5 Open a pull request & Delete your branch
+### 3.5 Open a pull request and delete your branch after it is merged
 
 Once you have your profile ready, it's time to create a pull request. Follow the instructions on [Creating a Pull Request and Deleting a Branch Tutorial](mi-github-pull-request-and-delete-branch.md).
 
-After creating the pull request, post the link to your GitHub Pages and profile pull request in the [discord server mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235):
+After creating the pull request, post the link to your GitHub Pages and profile pull request in our [Discord server's mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235):
 
 > I'm on step 1, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
 
