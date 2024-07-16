@@ -66,7 +66,7 @@ After forking the repository, you'll be redirected to your personal copy of the 
 2. In the repository name field, change it to `YourUserName.github.io`.
 3. Click **Rename** to confirm the change.
 
-**Note:** If you already have a GitHub Pages site at https://YourUserName.github.io in use, refer to [this FAQ question](#!pages/mi/mi-faq.md#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?) for guidance.
+**Note:** If you already have a GitHub Pages site at https://YourUserName.github.io in use, refer to [this FAQ question](#!pages/vi/vi-faq.md#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?) for guidance.
 
 ![Renaming Repository](images/vi-rename-repository.png)
 
@@ -92,7 +92,7 @@ Before editing, ensure you're working in your own GitHub repository. Verify that
 
 To create your profile file, follow these steps:
 
-1. Navigate to `pages/mi/profiles/` folder from the main page of your forked repository.
+1. Navigate to `pages/vi/profiles/` folder from the main page of your forked repository.
 2. Ensure you are still on the branch you just created, look for "**add-&lt;YourGitHubUserName&gt;-profile**" on the branch selector menu
 3. Above the list of files, select the "Add file" dropdown menu, then click "Create new file".
 4. Name the file using your GitHub username with the .md extension (e.g., `JohnDoe.md`). This ensures your profile is easy to find.
@@ -111,7 +111,7 @@ When you're ready, click the "Commit changes..." button. If you need to edit you
 
 To preview your changes rendered by MDwiki, use the following link, replacing "YourUserName" with your GitHub username and "YourBranchName" with the name of your branch:
 
-`https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/mi/profiles/YourUserName.md`
+`https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/vi/profiles/YourUserName.md`
 
 Before proceeding to the next section, please ensure that everything looks as expected and works correctly with the raw.githack link.
 
@@ -145,7 +145,7 @@ A member of our team will review your changes and notify you on Discord. Reviewe
 
 After you receive enough approving reviews, we will merge your Markdown profile into the main repository.
 
-After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/mi/profiles/<YourUserName>.md`. Let us know in the #vi-software channel on discord after you complete this step.
+After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/vi/profiles/<YourUserName>.md`. Let us know in the #vi-software channel on discord after you complete this step.
 
 #### 3.5.1 Delete the Branch from your remote repository
 
