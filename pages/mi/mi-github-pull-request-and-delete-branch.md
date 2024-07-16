@@ -23,20 +23,20 @@ Now, go to your forked repository on GitHub by visiting `https://github.com/Your
 
 3. Submit the pull request
 4. Once redirected to the newly created pull request, complete the tasks listed under "After Creating the Pull Request" by ticking each checkbox as you finish them.
-5. Post the link to your pull request in the chat along with any required links. 
+5. Post the link to your pull request in our Discord channel along with any required links.
 
     A member of our team will review your changes and notify you on Discord. Reviewers often provide feedback, so be prepared to address their suggestions or corrections. If you receive feedback, make the necessary changes in your branch by navigating to the file in your forked repository or by clicking on the pull request's "Files changed" tab, selecting "...", and then "Edit file." Leave a comment on the pull request once you're finished, and don't forget to notify us on Discord. Any updates you make to your branch will automatically reflect in the pull request.
 
-6. Wait for the pull request merge then come back so you can delete your branch.
+6. Wait for your pull request to be merged. Once merged, proceed to delete your branch.
 
 **NOTE**: Only delete your branch after your pull request has been successfully merged!
 
 ## 2. Delete the Branch
 
-* **Delete the branch from your remote repository.**  
-After your pull request has been approved and merged by OLE staff, you might want to delete the branch that is associated with your pull request. It can keep your local and remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below).
+After your pull request has been approved and merged, you might want to delete the associated branch to keep your local and remote (yourUserName.github.io on GitHub) repository clean and free of defunct branches. 
 
-![Delete Merged Branch](image/mi-delete-merged-branch.png)
+- To delete the branch in your remote repository, click the "Delete branch" button in your pull request (see the picture below).
 
-* **Delete the branch from your local repository.**  
-To delete the defunct branch in your local repository, use the command `git branch -d <yourLocalBranchName>` (make sure you are not on the branch that you want to delete). Go [here](https://tecadmin.net/delete-git-remote-and-local-branch/) to find out more about how to delete a branch locally.
+  ![Delete Merged Branch](image/mi-delete-merged-branch.png)
+
+- To delete the branch from your local repository, use the command `git branch -d <yourLocalBranchName>`. Ensure you are not currently on the branch you want to delete. For more information on deleting a branch locally, go [here](https://tecadmin.net/delete-git-remote-and-local-branch/).
