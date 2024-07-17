@@ -182,47 +182,19 @@ For example, [https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile
 
 Raw.githack makes it easy to see what the page will look like if your branch is merged, so don't forget to include a raw.githack link in your next step, the pull request.
 
-## 7. Create a Pull Request
+## 7. Create a Pull Request & Delete Your Branch After Merging
 
-Now, go to your forked repository on GitHub by visiting `https://github.com/YourUsername/YourUsername.github.io`. GitHub will detect that you recently pushed a new branch.
-
-1. Click the "Compare & pull request" button. If it doesn't appear, go to the 'Pull requests' tab and click on the "New pull request" button.
-
-   ![Compare & Pull Button](image/mi-compare-pull.png)
-
-2. **Follow the <span style="color:red;">pull request template </span> carefully and complete the necessary details in the description.**
-
-   ![Pull Request Template](image//mi-pr-title-and-description.png)
-
-   Things to check before creating a Pull Request:
-      - add title and issue number in the title field
-      - fill the checkboxes
-      - write description
-      - add RawGitHack Preview link
-
-3. Submit the pull request.
-4. Once redirected to the newly created pull request, complete the tasks listed under "After Creating the Pull Request" by ticking each checkbox as you finish them.
+Now follow the instructions on [Creating a Pull Request and Deleting a Branch Tutorial](mi-github-pull-request-and-delete-branch.md) to create your pull request.
 
 NOTE: While you are waiting on two OLE team members to approve your Pull Requests, it is OK to keep creating more Issues and Pull Requests in the meantime. They will all count towards your final Issue/PR total, and PR approval can take time, so do not let a lengthy approval/fix process keep you from moving on in your "First Steps".
 
-## 8. Delete the Branch
-
-*  **Wait for the pull request merge!**
-All that remains is posting your pull request in the chat and waiting until one of the OLE staff gets a chance to look at it. Be aware that a staff member may either submit a code review asking you to modify some of your changes, or accept the pull request and close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
-
-* **Delete the branch from your remote repository.**
-After your pull request has been approved and merged by OLE staff, you might want to delete the branch that is associated with your pull request. It can keep your local and remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below).
-
-![Delete Merged Branch](image/mi-delete-merged-branch.png)
-
-* **Delete the branch from your local repository.**
-To delete the defunct branch in your local repository, use the command `git branch -d <yourLocalBranchName>` (make sure you are not on the branch that you want to delete). Go [here](https://tecadmin.net/delete-git-remote-and-local-branch/) to find out more about how to delete a branch locally.
+Be aware that a staff member may either submit a code review asking you to modify some of your changes, or accept the pull request and close the issue. You can see the process [here](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues/15).
 
 NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](mi-github-and-repositories.md#Summary_of_Steps).
 
 This is an exercise to help you familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
-## 9. Comment on an Existing Issue
+## 8. Comment on an Existing Issue
 
 You will need to make **at least one comment** on an issue you did **not** create.
 
@@ -230,7 +202,7 @@ You will need to make **at least one comment** on an issue you did **not** creat
 - Browse some recent issues and leave a comment on those where you can provide *meaningful and useful feedback*.
 - Under "Add a comment", write your comment with Markdown syntax if necessary, click on the "Preview" tab to review, and click the "Comment" button.
 
-## 10. Useful Links
+## 9. Useful Links
 
 - [Quickstart for GitHub Issues | GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 - [FAQ - Helpful Links and Videos](mi-faq.md#Helpful_Links)

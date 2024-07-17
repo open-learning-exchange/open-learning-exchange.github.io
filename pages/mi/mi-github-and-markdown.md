@@ -45,7 +45,7 @@ Below is a summary of the steps that we will walk you through:
 2. [Go to Settings and rename your repository](#3.2_Go_to_Settings_and_rename_your_repository)
 3. [Check to see if your github.io site works](#3.3_Check_to_see_if_your_github.io_site_works)
 4. [Create a new file as your personal MDwiki page and commit your changes](#3.4_Create_a_new_file_as_your_personal_MDwiki_page_and_commit_your_changes)
-5. [Open a pull request](#3.5_Open_a_pull_request)
+5. [Open a pull request and delete your branch after it is merged](#3.5_Open_a_pull_request_and_delete_your_branch_after-it_is_merged)
 
 ### 3.1 Find and fork the correct repository
 
@@ -113,45 +113,30 @@ To preview your changes rendered by MDwiki, use the following link, replacing "Y
 
 `https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/mi/profiles/YourUserName.md`
 
-Before proceeding to the next section, please ensure that everything looks as expected and works correctly with the raw.githack link.
+Before proceeding to the next section, please: 
+
+- ensure that everything looks as expected and works correctly with the raw.githack link.
+- verify you used at least **5 different** Markdown elements in your profile
+  - To use emojis in your profile, copy the actual emoji directly (e.g., '🐱' instead of ':emojicode:'). You can find and copy emojis from [emojipedia](https://emojipedia.org/).
+  - Task lists are supported on GitHub but not on MDwiki. They may look correct on GitHub but not on MDwiki.
 
 **NOTE**:
 - New changes you push should be reflected within minutes on raw.githack. If changes still don't appear, clear your browser's cache or open your page in "incognito" or "private" mode. You can also force refresh/reload the page using `Ctrl+Shift+R` or `Ctrl+F5` (on Mac: `Cmd+Shift+R`).
 - Remember that there are [different Markdown flavors](https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors). Since the MDwiki site is used for "production," always check if your content renders correctly on the raw.githack link. Use GitHub's preview tab for guidance, but rely on raw.githack for accuracy.
 
-### 3.5 Open a pull request
+### 3.5 Open a pull request and delete your branch after it is merged
 
-Once you have your profile ready, it's time to create a pull request. Click on the "Pull request" button as highlighted in the screenshot below.
+Once you have your profile ready, it's time to create a pull request. Follow the instructions on [Creating a Pull Request and Deleting a Branch Tutorial](mi-github-pull-request-and-delete-branch.md).
 
-![Initiate Pull Request](image/mi-initiate-pull-request.png)
-
-![Complete Pull Request](image/mi-create-pull-request.png)
-
-**There are a few things to watch out before clicking on the "Create pull request" button**. Make sure you:
-
-- give the pull request a short and descriptive title (e.g. add YourUserName.md)
-- follow the pull request template, include the raw.githack link to your Markdown profile page in the pull request description
-- verify you used at least **5 different** Markdown elements in your profile
-  - To use emojis in your profile, copy the actual emoji directly (e.g., '🐱' instead of ':emojicode:'). You can find and copy emojis from [emojipedia](https://emojipedia.org/).
-  - Task lists are supported on GitHub but not on MDwiki. They may look correct on GitHub but not on MDwiki.
-
-Finally, click "Create pull request" button and post the link to your GitHub Pages and profile pull request in the [discord server mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235):
+After creating the pull request, post the link to your GitHub Pages and profile pull request in our [Discord server's mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235):
 
 > I'm on step 1, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
 
 Remember, it can take a while for `https://YourUserName.github.io` to be up and running, so don't worry if you see a **404** when you access the link!
 
-A member of our team will review your changes and notify you on Discord. Reviewers often provide feedback, so be prepared to address their suggestions or corrections. If you receive feedback, make the necessary changes in your branch by navigating to the file in your forked repository or by clicking on the pull request's "Files changed" tab, selecting "...", and then "Edit file." Leave a comment on the pull request once you're finished, and don't forget to notify us on Discord. Any updates you make to your branch will automatically reflect in the pull request.
-
 After you receive enough approving reviews, we will merge your Markdown profile into the main repository.
 
 After the pull request is merged, you'll be able to see your personal page at `open-learning-exchange.github.io/#!pages/mi/profiles/<YourUserName>.md`. Let us know in the [discord server mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235) after you complete this step.
-
-#### 3.5.1 Delete the Branch from your remote repository
-
-After your pull request has been **approved** and **merged** by us, you might want to delete the branch that is associated with your pull request. It can keep your remote (yourUserName.github.io on GitHub) repository away from a mess of defunct branches. To delete the defunct branch in your remote repository, you can click the "Delete branch" button in your pull request (see the picture below).
-
-![Delete Merged Branch](image/mi-delete-merged-branch.png)
 
 ## 4. Useful Links
 
