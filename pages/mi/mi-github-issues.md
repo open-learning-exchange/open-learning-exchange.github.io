@@ -184,7 +184,7 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 
 ## 7. Create a Pull Request & Delete Your Branch After Merging
 
-Now follow the instructions on [Creating a Pull Request and Deleting a Branch Tutorial](mi-github-pull-request-and-delete-branch.md) to create your pull request.
+Now follow the instructions on [Creating a Pull Request and Deleting a Branch Tutorial](mi-github-pull-request.md) to create your pull request.
 
 NOTE: While you are waiting on two OLE team members to approve your Pull Requests, it is OK to keep creating more Issues and Pull Requests in the meantime. They will all count towards your final Issue/PR total, and PR approval can take time, so do not let a lengthy approval/fix process keep you from moving on in your "First Steps".
 
