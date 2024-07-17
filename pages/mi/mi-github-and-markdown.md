@@ -15,6 +15,8 @@ Before diving into GitHub, Markdown, and forking workflow, it's crucial to under
 - [MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) – a content management system that leverages Markdown. The site you are reading is built with MDwiki.
 - [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) - This is the workflow you'll be using during the First Steps phase, as you won't have direct access to our repositories yet. This tutorial will focus solely on using this workflow on GitHub.com to keep things simple. We'll explore working with Git on the command line in more depth later.
 
+**NOTE**: The angle brackets `<>` will be used as a placeholder through this step and the coming steps so make sure not to write them while following the instructions.
+
 ### 2.1 Introduction to Markdown
 
 1. Review [Getting Started | Markdown Guide](https://www.markdownguide.org/getting-started/) for an overview of Markdown, how it works, and what you can do with it.
@@ -63,10 +65,10 @@ To fork the correct repository, follow these steps:
 After forking the repository, you'll be redirected to your personal copy of the repository: **&lt;YourUserName&gt;/open-learning-exchange.github.io**. To rename this repository to create your GitHub Pages site:
 
 1. Click at the repository Settings at the top of the page.
-2. In the repository name field, change it to `YourUserName.github.io`.
+2. In the repository name field, change it to `<YourUserName>.github.io`.
 3. Click **Rename** to confirm the change.
 
-**Note:** If you already have a GitHub Pages site at https://YourUserName.github.io in use, refer to [this FAQ question](#!pages/mi/mi-faq.md#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?) for guidance.
+**Note:** If you already have a GitHub Pages site at https://&lt;YourUserName&gt;.github.io in use, refer to [this FAQ question](#!pages/mi/mi-faq.md#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?) for guidance.
 
 ![Renaming Repository](image/mi-rename-repository.png)
 
@@ -78,13 +80,13 @@ If you see a "404 Page Not Found" error, don't panic. It may take a while for yo
 
 ### 3.4 Create a new file as your personal MDwiki page and commit your changes
 
-Before editing, ensure you're working in your own GitHub repository. Verify that the repository name includes your GitHub username. For example, it should look like `<YourGitHubUserName>/<YourGitHubUserName>.github.io`.
+Before editing, ensure you're working in your own GitHub repository. Verify that the repository name includes your GitHub **username**. For example, it should look like `<YourUserName>/<YourUserName>.github.io`.
 
 #### 3.4.1 Create a new branch
 
 1. **Switch to the Master Branch**: Click the branch selector at the top-left corner of your repository. If it doesn't say "**master**", switch to the master branch.
-2. **Name the New Branch**: Click the branch selector again, then type a descriptive name like `add-<YourGitHubUserName>-profile`. For best practices on branch naming, check out this [guide](https://github.com/agis/git-style-guide#branches).
-3. **Confirm Creating the New Branch**: Click "Create branch **add-&lt;YourGitHubUserName&gt;-profile** from **master**." You should now see "**add-&lt;YourGitHubUserName&gt;-profile**" as your current branch.
+2. **Name the New Branch**: Click the branch selector again, then type a descriptive name like `add-<YourUserName>-profile`. For best practices on branch naming, check out this [guide](https://github.com/agis/git-style-guide#branches).
+3. **Confirm Creating the New Branch**: Click "Create branch **add-&lt;YourUserName&gt;-profile** from **master**." You should now see "**add-&lt;YourUserName&gt;-profile**" as your current branch.
 
   ![New Branch](image/mi-new-branch.png)
 
@@ -93,9 +95,9 @@ Before editing, ensure you're working in your own GitHub repository. Verify that
 To create your profile file, follow these steps:
 
 1. Navigate to `pages/mi/profiles/` folder from the main page of your forked repository.
-2. Ensure you are still on the branch you just created, look for "**add-&lt;YourGitHubUserName&gt;-profile**" on the branch selector menu
+2. Ensure you are still on the branch you just created, look for "**add-&lt;YourUserName&gt;-profile**" on the branch selector menu
 3. Above the list of files, select the "Add file" dropdown menu, then click "Create new file".
-4. Name the file using your GitHub username with the .md extension (e.g., `JohnDoe.md`). This ensures your profile is easy to find.
+4. Name the file using `<YourUserName>` with the `.md` extension (e.g., `JohnDoe.md`). This ensures your profile is easy to find.
 
 In this new Markdown file, include the following information using a minimum of 5 Markdown elements:
 
@@ -109,9 +111,9 @@ Use the "Preview" tab to preliminarily see how your Markdown will look like. Aim
 
 When you're ready, click the "Commit changes..." button. If you need to edit your file again, click the pencil icon.
 
-To preview your changes rendered by MDwiki, use the following link, replacing "YourUserName" with your GitHub username and "YourBranchName" with the name of your branch:
+To preview your changes rendered by MDwiki, use the following link, replacing `<YourUserName>` with your GitHub **username** and `<YourBranchName>` with the name of your branch:
 
-`https://raw.githack.com/YourUserName/YourUserName.github.io/YourBranchName/#!pages/mi/profiles/YourUserName.md`
+`https://raw.githack.com/<YourUserName>/<YourUserName>.github.io/<YourBranchName>/#!pages/mi/profiles/<YourUserName>.md`
 
 Before proceeding to the next section, please: 
 
@@ -130,9 +132,9 @@ Once you have your profile ready, it's time to create a pull request. Follow the
 
 After creating the pull request, post the link to your GitHub Pages and profile pull request in our [Discord server's mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235):
 
-> I'm on step 1, please look at `https://YourUserName.github.io` and review my profile pull request `LinkToYourPullRequest`
+> I'm on step 1, please look at `https://<YourUserName>.github.io` and review my profile pull request `LinkToYourPullRequest`
 
-Remember, it can take a while for `https://YourUserName.github.io` to be up and running, so don't worry if you see a **404** when you access the link!
+Remember, it can take a while for `https://<YourUserName>.github.io` to be up and running, so don't worry if you see a **404** when you access the link!
 
 After you receive enough approving reviews, we will merge your Markdown profile into the main repository.
 
