@@ -126,7 +126,7 @@ Before proceeding to the next section, please:
 
 ### 3.5 Open a pull request and delete your branch after it is merged
 
-Once you have your profile ready, it's time to create a pull request. Follow the instructions on [Creating a Pull Request and Deleting a Branch Tutorial](mi-github-pull-request-and-delete-branch.md).
+Once you have your profile ready, it's time to create a pull request. Follow the instructions on [Creating a Pull Request and Deleting a Branch Tutorial](mi-github-pull-request.md).
 
 After creating the pull request, post the link to your GitHub Pages and profile pull request in our [Discord server's mobile intern channel](https://discord.com/channels/1079980988421132369/1131244649902772235):
 
