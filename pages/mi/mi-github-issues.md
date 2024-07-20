@@ -174,9 +174,9 @@ Here is an example of how you would write your commit message:
 
 ### 6.2. Raw.githack
 
-Raw.githack is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/index.html#!pages/vi/vi-first-steps.md` and navigating to the page(s) you have changed. If everything looks correct, you are ready to create a pull request.
+Raw.githack is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/index.html#!pages/mi/mi-10-steps.md` and navigating to the page(s) you have changed. If everything looks correct, you are ready to create a pull request.
 
-For example, [https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile/index.html#!pages/vi/vi-first-steps.md](https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile/index.html#!pages/mi/mi-first-steps.md) will land in the First Steps – Mobile Virtual Intern's main page:
+For example, [https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile/index.html#!pages/mi/mi-10-steps.md](https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile/index.html#!pages/mi/mi-first-steps.md) will land in the First Steps – Mobile Virtual Intern's main page:
 
 ![mi first steps main page with raw.githack link](image/mi-raw-githack-first-steps-main-page.png)
 
