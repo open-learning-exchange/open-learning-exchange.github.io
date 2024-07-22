@@ -120,6 +120,8 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 **NOTE**: While adding details can be helpful, it's important to remember that less is often more. Over time, this First Steps guide has become bloated with too much information, making it harder to follow. As you work on improving this guide, focus on simplifying the instructions and removing any unnecessary content. The goal is to create a clear and concise guide that future virtual interns can easily understand and use.
 
+**NOTE**: While waiting for two OLE team members to approve your Pull Requests, you can continue creating more Issues and Pull Requests (upon approval, we suggest). They will all count towards your final Issue/PR total. PR approval can take time, so don't let a lengthy approval/fix process stop you from progressing in your "First Steps".
+
 Once you complete Step 8 you will have:
 
 - 5 merged pull requests (one at step 1, one at step 6 and three at step 8)
