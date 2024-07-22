@@ -96,7 +96,7 @@ Follow the directions at [Git Repositories: A Guide to Cloning, Configuring, and
 - No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file.
 - You can also work on issues that you didn't create. Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged.
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
+**HINT**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ## Step 7 - Take a Course on myPlanet, Courses Gardening
 
@@ -120,13 +120,15 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 **NOTE**: While adding details can be helpful, it's important to remember that less is often more. Over time, this First Steps guide has become bloated with too much information, making it harder to follow. As you work on improving this guide, focus on simplifying the instructions and removing any unnecessary content. The goal is to create a clear and concise guide that future virtual interns can easily understand and use.
 
+**NOTE**: While waiting for two OLE team members to approve your Pull Requests, you can continue creating more Issues and Pull Requests (upon approval, we suggest). They will all count towards your final Issue/PR total. PR approval can take time, so don't let a lengthy approval/fix process stop you from progressing in your "First Steps".
+
 Once you complete Step 8 you will have:
 
 - 5 merged pull requests (one at step 1, one at step 6 and three at step 8)
 - 4 comments made on issues you didn't create (one at step 6 and three at step 8)
 - 4 issues created (one at step 6 and three at step 8)
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
+**HINT**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ## Step 9 - Be part of the team
 
