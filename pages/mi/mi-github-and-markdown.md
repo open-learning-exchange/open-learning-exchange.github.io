@@ -15,7 +15,7 @@ Before diving into GitHub, Markdown, and forking workflow, it's crucial to under
 - [MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) – a content management system that leverages Markdown. The site you are reading is built with MDwiki.
 - [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) - This is the workflow you'll be using during the First Steps phase, as you won't have direct access to our repositories yet. This tutorial will focus solely on using this workflow on GitHub.com to keep things simple. We'll explore working with Git on the command line in more depth later.
 
-**NOTE**: The angle brackets `<>` will be used as a placeholder through this step and the coming steps so make sure not to write them while following the instructions.
+**NOTE**: Throughout these steps, `<>` will be used to mark areas where you should insert your own input. Do not include the brackets themselves.
 
 ### 2.1 Introduction to Markdown
 
