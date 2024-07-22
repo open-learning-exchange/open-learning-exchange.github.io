@@ -24,28 +24,32 @@ In this step, you'll encounter some common terms, such as
 - `origin`: your own fork of the upstream repository
 Both `upstream` and `origin` are considered **[remote](https://git-scm.com/docs/git-remote)**. Also, remember that a repository can contain multiple branches.
 
-## Start here
+## 1. Clone Your GitHub Repository
 
-This is a summary of the key steps to follow. For a detailed explanation, continue reading.
+### 1.1 Clone with HTTPS or SSH?
 
-- [Clone Your GitHub Repository username.github.io](#1._Clone_Your_GitHub_Repository_username.github.io)
-  - [Clone with HTTPS or Clone with SSH?](#1.1_Clone_with_HTTPS_or_Clone_with_SSH?)
-- [Explanation About Repositories and Syncing Process](#2._Explanation_About_Repositories_and_Syncing_Process)
-- [Configure a Remote Repository for Your Fork](#3._Configure_a_Remote_Repository_for_Your_Fork)
-- [Sync Your Fork](#4._Sync_Your_Fork)
+Both HTTPS and SSH URLs allow you to access the same remote repositories, but they use different protocols. You can choose either based on your preference:
 
-### 1. Clone Your GitHub Repository username.github.io
+- **HTTPS:** Easier to set up for beginners, doesn't require SSH keys.
+- **SSH:** More secure, requires you to have SSH keys set up on your machine and added to your GitHub account.
 
-1. Open a command prompt/terminal window and visit your `username.github.io` repository on GitHub.
-2. Click the green "&lt;&gt; Code" button to get the repository's HTTPS link and click the "Copy url to clipboard" icon next to the URL
-3. In your command line interface (CLI), type `git clone ` and paste the copied link. It should look similar to `git clone https://github.com/YourUsername/YourUsername.github.io.git`.
-4. Hit Enter. If the repository is cloned successfully, you can now `cd` into your `username.github.io` directory to see its contents.
+For more details, check [Cloning a repository | GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
-#### 1.1 Clone with HTTPS or Clone with SSH?
+#### To clone with SSH
 
-Both HTTPS and SSH URLs let you access the same remote repositories, but they use different protocols. While we've discussed cloning with HTTPS, you can also use SSH. For more details, check [Cloning a repository | GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for all the ways to clone a repository onto your local machine. To clone with SSH, [verify you have existing SSH keys on your machine](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys), and make sure the key is [added to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) already.
+1. [Verify you have existing SSH keys on your machine](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys).
+2. [Add the SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
-### 2. Explanation About Repositories and Syncing Process
+### 1.2 Clone Your Repository
+
+1. Open a command prompt/terminal window and visit your `<YourUserName>.github.io` repository on GitHub.
+2. Click the green "<> Code" button to get the repository's URL. Copy the HTTPS or SSH link.
+3. In your command line interface (CLI), type `git clone ` and paste the copied link. It should look similar to:
+   - **HTTPS:** `git clone https://github.com/<YourUserName>/<YourUserName>.github.io.git`
+   - **SSH:** `git clone git@github.com:<YourUserName>/<YourUserName>.github.io.git`
+4. Hit Enter. If the repository is cloned successfully, you can now `cd` into your `<YourUserName>.github.io` directory to see its contents.
+
+## 2. Explanation About Repositories and Syncing Process
 
 ![GitHub Clone URL](images/vi-forking-and-updating-a-repo.png)
 
@@ -54,158 +58,90 @@ The previous step created a clone of your repository on your OS.
 Now, there are three levels of repositories to keep in mind:
 
 1. **Upstream Repository on GitHub:** `open-learning-exchange.github.io`
-2. **Your Fork on GitHub:** `your-username.github.io`
-3. **Your Local System Clone:** `your-username.github.io`
+2. **Your Fork on GitHub:** `<YourUserName>.github.io`
+3. **Your Local System Clone:** `<YourUserName>.github.io`
 
 These repositories must be consistently synced and up-to-date with each other since we all contribute to the upstream repository (open-learning-exchange.github.io). It's crucial to keep changes separate and avoid mixing them between repositories. Significant differences can cause conflicts and prevent you from performing `git push/pull` operations smoothly.
 
-#### 2.1 Steps to Sync Repositories
-
-1. **Fork and Clone:**
-   - Fork `open-learning-exchange.github.io` to create `your-username.github.io` on GitHub. (This was done in Step 3).
-   - Clone `your-username.github.io` to your local system. (This was done in this step's 1.1)
-
-2. **Sync with Upstream:**
-   - Add the upstream repository:
-     ```
-     git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
-     ```
-   - Fetch changes from upstream:
-     ```sh
-     git fetch upstream
-     ```
-   - Checkout your local master branch:
-     ```sh
-     git checkout master
-     ```
-   - Merge upstream changes into your local branch:
-     ```sh
-     git merge upstream/master
-     ```
-
-3. **Push Updates to Your Fork on GitHub:**
-   - Push local changes to your fork on GitHub:
-     ```sh
-     git push origin master
-     ```
-
-#### 2.2 Resources
-
-- [GitHub Help: Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
-- [Git Documentation](https://git-scm.com/doc)
-
-By following these steps, you ensure your repositories are consistently up to date and avoid conflicts (Refer the diagram below).
-
 ![GitHub Clone URL](images/vi-sync-a-fork.png)
 
-### 3. Configure a Remote Repository for Your Fork
+## 3. Configure a Remote Repository for Your Fork
 
-To be able to fetch updates from the upstream repository, you need to first configure the upstream repository by following these steps:
+To fetch updates from the upstream repository, configure it as follows:
 
-1. Open your command prompt/terminal and find the correct directory, `cd username.github.io.`
+1. Open your command prompt/terminal and navigate to the repository directory:
 
-2. List the current configured remote repository for your fork with `git remote -v`. This is what it should look like:
+  ```bash
+  cd <YourUserName>.github.io
+  ```
 
-```
-$ git remote -v
-origin  https://github.com/username/username.github.io.git (fetch)
-origin  https://github.com/username/username.github.io.git (push)
-```
+2. List the current configured remote repository:
 
-3. Specify a new remote upstream repository that will be synced with the fork by using `git remote add upstream <repository>`. Our remote upstream repository will be `https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`. Do not forget the `.git` at the end.
+  ```bash
+  git remote -v
+  ```
 
-```
-$ git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
-```
+  This should show:
 
-4. Verify if upstream is configured correctly with `git remote -v`.
+  ```bash
+  origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (fetch)
+  origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (push)
+  ```
 
-```
-$ git remote -v
-origin  https://github.com/username/username.github.io.git (fetch)
-origin  https://github.com/username/username.github.io.git (push)
-upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (fetch)
-upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (push)
-```
+3. Add the upstream repository:
 
-### 4. Sync Your Fork
+  ```bash
+  git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
+  ```
 
-Then, use the command `git fetch upstream` to fetch branches from the upstream repository (in this case, it is open-learning-exchange.github.io). Next, check your fork's master branch with `git checkout master`. You should see some variation of this response:
+4. Verify the upstream repository is configured correctly:
 
-```
-EmilyLarkin.github.io $ git fetch upstream
-remote: Counting objects: 1, done.
-remote: Total 1 (delta 0), reused 1 (delta 0), pack-reused 0
-Unpacking objects: 100% (1/1), done.
-From https://github.com/open-learning-exchange/open-learning-exchange.github.io
-   6940637..5934ec2  master     -> upstream/master
-EmilyLarkin.github.io $ git checkout master
-Already on 'master'
-Your branch is up-to-date with 'origin/master'.
-```
+  ```bash
+  git remote -v
+  ```
 
-**NOTE**: If there are any errors after `git fetch upstream`, please check for typos from previous step. If so, use `git remote rm upstream` and add the repo in upstream again
+  This should show:
 
-Then, use `git merge upstream/master` to merge the open-learning-exchange upstream/master with your local repository. It should look something like this:
+  ```bash
+  origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (fetch)
+  origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (push)
+  upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (fetch)
+  upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (push)
+  ```
 
-```
-EmilyLarkin.github.io $ git merge upstream/master
-Updating 1388180..5934ec2
-Fast-forward
-```
+## 4. Sync Your Fork
 
-If you get something like this,
+1. Fetch branches from the upstream repository:
 
-```
-Please enter a commit message to explain
-why this merge is necessary, especially
-if it merges an updated upstream into a
-topic branch. Lines starting with '#'
-will be ignored, and an empty message
-aborts the commit.
-~
-~
-```
+   ```bash
+   git fetch upstream
+   ```
 
-it means that you are in the Vim text editor. Simply type ```:wq``` which stands for **w**rite and **q**uit. However, if you want to insert something you can type "i" and Vim goes into edit mode. To exit edit mode just hit "escape".
+2. Check out your fork's master branch:
 
-Now, your repository has been synced to the upstream/master. However, a discrepancy may still exist between your local (and now your origin/master) versus your username.github.io on GitHub. You will now use `git diff` and `git status` to check how your local repository compares to your username.github.io repository. Depending on whether you have more or less commits than your username.github.io, you will either use `git pull` to receive any changes or `git push` to push updates to your repository. Most likely, as you just synced with the master, you will use `git push` to push updates to your username.github.io repo.
+   ```bash
+   git checkout master
+   ```
 
-``` bash
-$ git push origin master
-```
+3. Merge the upstream/master with your local repository:
 
-If you have uncommitted changes (from mixing interface and terminal use of GitHub repositories), then these commands will be aborted until you fix the discrepancy.
+  ```bash
+  git merge upstream/master
+  ```
 
-Remember, you should repeatedly use the commands `git diff` and `git status` to respectively see the difference between your username.github.io and your local repository and then see the status of your repository and the changes you have made. Once again, you need to sync your repository with the correct master first, otherwise you will not see the correct `git diff` and `git status`. `git diff` and `git status` only look between your local and username.github.io repos, not your upstream repo.
+  If Vim editor shows up for commit message, use `:wq` (**w**rite and **q**uit) to exit with the default message.
 
-Below is an example of the **git diff** command showing the difference in the file of local and remote repository.
+4. Push the updates to your repository:
 
-``` bash
-$ git diff
-diff --git a/<file name>.md b/<file name>.md
-index bf400c0..fc7380b 100644
---- a/<file name>.md
-+++ b/<file name>.md
-@@ -1,5 +1 @@
- What is this?
-```
-
-**What does `diff --git a/<file name>.md b/<file name>.md` mean?**
-
-**Answer:** Our diff compares two items with each other: item A and item B. In most cases, A and B will be the same file, but in different versions. To make clear what is actually compared, a diff output always starts by declaring which files are represented by "A" and "B".
-
-**What does `--- a/<file name>.md` and `+++ b/<file name>.md` mean?**
-
-**Answer:** Further down in the output, the actual changes will be marked as coming from A or B. In order to tell them apart, A and B are each assigned a symbol: for version A, this is a minus ("-") sign and for version B, a plus ("+") sign is used.
-
-This process needs to be repeated whenever you begin to work, to make sure that you are always up to date. If there are discrepancies, it will mess up the code and you could potentially lose your saved changes, because it was not updated properly. We will provide more information on editing and saving changes in the next tutorial.
+  ```bash
+  git push origin master
+  ```
 
 ## Summary of Steps
 
 Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
 
-#### Clone your GitHub repository username.github.io
+#### Clone your GitHub repository &lt;YourUserName&gt;.github.io
 
 1. Open your command prompt/terminal and find the correct directory
 2. Copy the HTTPS or SSH link from your repository on the GitHub site
@@ -214,15 +150,15 @@ Generally, follow these commands in your command line, but refer back above if t
 #### Understand that there are three levels of a Github repository
 
 - the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io))
-- Your username.github.io on GitHub
-- Your username.github.io on your OS.
+- &lt;YourUserName&gt;.github.io on GitHub
+- &lt;YourUserName&gt;.github.io on your OS.
 
 These need to be synced and checked constantly.
 The **upstream repository** is the one we are contributing to.
 
 #### Configure the upstream repository to your fork
 
-1. `cd username.github.io.`
+1. `cd <YourUserName>.github.io.`
 2. `git remote -v` see above to make sure you are pushing and fetching to your own repository on GitHub as the origin
 3. `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
 4. `git remote -v` origins should remain the same, but you should also be fetching and pushing to OLE as the upstream now
@@ -256,12 +192,12 @@ If you would like to understand how syncing with the fork works, here is a usefu
 
 ## Useful links
 
-[Configure a remote for fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-repository-for-a-fork) - You can sync changes made in the original repository with a fork.
-[Sync fork](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
-[GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - An Introduction to Git and GitHub for beginners from HubSpot.
-[Git-it Workshop](http://jlord.us/git-it/) - Runs in your terminal to work and provides a hands-on approach to learn Git and GitHub repositories.
-[Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
-[Other helpful links and videos](vi-faq.md#Helpful_Links)
+- [Configure a remote for fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-repository-for-a-fork) - You can sync changes made in the original repository with a fork.
+- [GitHub Help: Syncing a Fork](https://help.github.com/articles/syncing-a-fork/) – Sync a fork of a repository to keep it up-to-date with the upstream repository.
+- [GitHub tutorial](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - An Introduction to Git and GitHub for beginners from HubSpot.
+- [Git-it Workshop](http://jlord.us/git-it/) - Runs in your terminal to work and provides a hands-on approach to learn Git and GitHub repositories.
+- [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
+- [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
 ## Next Section _([Step 6](vi-github-issues.md))_ **→**
 
