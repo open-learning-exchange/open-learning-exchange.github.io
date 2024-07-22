@@ -95,7 +95,7 @@ Make sure you have created at least one issue, resolved it, commented on an issu
   - 1 comment added (on an issue you didn't create)
   - 1 issue created
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
+**Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 Please note that creating and working on Issues are not exactly bound by the "Step" you are in. Feel free to move on to other steps while you wait on OLE approval for your merge(s). You can also add more Issues and PR's in the meantime.
 
@@ -129,7 +129,7 @@ Once you complete Step 8 you will have:
 - 4 comments made on issues you didn't create (one at step 6 and three at step 8)
 - 4 issues created (one at step 6 and three at step 8)
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
+**Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ## Step 9 - Be part of the team
 
