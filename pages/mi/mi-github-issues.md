@@ -73,10 +73,10 @@ Before you create your branch, sync your repository with the following commands 
 
   ```sh
   git checkout master  # Ensure you are on the master branch
-  git checkout -b issueNumber-descriptive-branch-name
+  git checkout -b <issueNumber-descriptive-branch-name>
   ```
 
-  Make sure to replace `issueNumber-descriptive-branch-name` with your actual branch name, without the angle brackets (`<` and `>`).
+  Make sure to replace `<issueNumber-descriptive-branch-name>` with your actual branch name, without the angle brackets (`<` and `>`).
 
 More documentation on `git checkout` can be found [here](https://git-scm.com/docs/git-checkout).
 
@@ -174,7 +174,7 @@ Here is an example of how you would write your commit message:
 
 ### 6.2. Raw.githack
 
-Raw.githack is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://raw.githack.com/{YourGitHubUsername}/{YourGitHubUsername}.github.io/{YourBranchName}/index.html#!pages/mi/mi-10-steps.md` and navigating to the page(s) you have changed. If everything looks correct, you are ready to create a pull request.
+Raw.githack is an important aspect of the pull request process. After you commit changes to your local branch and push them to your remote branch, you can view these changes by going to `https://raw.githack.com/<YourUserName>/<YourUserName>.github.io/<YourBranchName>/index.html#!pages/mi/mi-10-steps.md` and navigating to the page(s) you have changed. If everything looks correct, you are ready to create a pull request.
 
 For example, [https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile/index.html#!pages/mi/mi-10-steps.md](https://raw.githack.com/xyb994/xyb994.github.io/add-xyb994-profile/index.html#!pages/mi/mi-10-steps.md) will land in the First Steps – Mobile Virtual Intern's main page:
 
