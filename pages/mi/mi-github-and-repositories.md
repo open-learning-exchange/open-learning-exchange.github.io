@@ -28,22 +28,22 @@ Both `upstream` and `origin` are considered **[remote](https://git-scm.com/docs/
 
 This is a summary of the key steps to follow. For a detailed explanation, continue reading.
 
-- [Clone Your GitHub Repository username.github.io](#1._Clone_Your_GitHub_Repository_username.github.io)
+- [Clone Your GitHub Repository <YourUserName>.github.io](#1._Clone_Your_GitHub_Repository_<YourUserName>.github.io)
   - [Clone with HTTPS or Clone with SSH?](#1.1_Clone_with_HTTPS_or_Clone_with_SSH?)
 - [Explanation About Repositories and Syncing Process](#2._Explanation_About_Repositories_and_Syncing_Process)
 - [Configure a Remote Repository for Your Fork](#3._Configure_a_Remote_Repository_for_Your_Fork)
 - [Sync Your Fork](#4._Sync_Your_Fork)
 
-### 1. Clone Your GitHub Repository username.github.io
+### 1. Clone Your GitHub Repository <YourUserName>.github.io
 
-1. Open a command prompt/terminal window and visit your `username.github.io` repository on GitHub.
+1. Open a command prompt/terminal window and visit your `<YourUserName>.github.io` repository on GitHub.
 2. Click the green "&lt;&gt; Code" button to get the repository's HTTPS link and click the "Copy url to clipboard" icon next to the URL
 3. In your command line interface (CLI), type `git clone ` and paste the copied link. It should look similar to `git clone https://github.com/YourUsername/YourUsername.github.io.git`.
-4. Hit Enter. If the repository is cloned successfully, you can now `cd` into your `username.github.io` directory to see its contents.
+4. Hit Enter. If the repository is cloned successfully, you can now `cd` into your `<YourUserName>.github.io` directory to see its contents.
 
 #### 1.1 Clone with HTTPS or Clone with SSH?
 
-Both HTTPS and SSH URLs let you access the same remote repositories, but they use different protocols. While we've discussed cloning with HTTPS, you can also use SSH. For more details, check [Cloning a repository | GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for all the ways to clone a repository onto your local machine. To clone with SSH, [verify you have existing SSH keys on your machine](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys), and make sure the key is [added to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) already.
+Both HTTPS and SSH URLs let you access the same remote repositories, but they use different protocols. While we've discussed cloning with HTTPS, you can also use SSH. For more details, check [Cloning a repository | GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for all the ways to clone a repository onto your local machine. To clone with SSH, [verify you have existing SSH keys on your machine](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys), and make sure the key is [added to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-github-account) already.
 
 ### 2. Explanation About Repositories and Syncing Process
 
@@ -54,16 +54,16 @@ The previous step created a clone of your repository on your OS.
 Now, there are three levels of repositories to keep in mind:
 
 1. **Upstream Repository on GitHub:** `open-learning-exchange.github.io`
-2. **Your Fork on GitHub:** `your-username.github.io`
-3. **Your Local System Clone:** `your-username.github.io`
+2. **Your Fork on GitHub:** `<YourUserName>.github.io`
+3. **Your Local System Clone:** `<YourUserName>.github.io`
 
 These repositories must be consistently synced and up-to-date with each other since we all contribute to the upstream repository (open-learning-exchange.github.io). It's crucial to keep changes separate and avoid mixing them between repositories. Significant differences can cause conflicts and prevent you from performing `git push/pull` operations smoothly.
 
 #### 2.1 Steps to Sync Repositories
 
 1. **Fork and Clone:**
-   - Fork `open-learning-exchange.github.io` to create `your-username.github.io` on GitHub. (This was done in Step 1).
-   - Clone `your-username.github.io` to your local system. (This was done in this step's 1.1)
+   - Fork `open-learning-exchange.github.io` to create `<YourUserName>.github.io` on GitHub. (This was done in Step 1).
+   - Clone `<YourUserName>.github.io` to your local system. (This was done in this step's 1.1)
 
 2. **Sync with Upstream:**
    - Add the upstream repository.
@@ -88,14 +88,14 @@ By following these steps, you ensure your repositories are consistently up to da
 
 To be able to fetch updates from the upstream repository, you need to first configure the upstream repository by following these steps:
 
-1. Open your command prompt/terminal and find the correct directory, `cd username.github.io.`
+1. Open your command prompt/terminal and find the correct directory, `cd <YourUserName>.github.io.`
 
 2. List the current configured remote repository for your fork with `git remote -v`. This is what it should look like:
 
 ```
 $ git remote -v
-origin  https://github.com/username/username.github.io.git (fetch)
-origin  https://github.com/username/username.github.io.git (push)
+origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (fetch)
+origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (push)
 ```
 
 3. Specify a new remote upstream repository that will be synced with the fork by using `git remote add upstream <repository>`. Our remote upstream repository will be `https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`. Do not forget the `.git` at the end.
@@ -108,8 +108,8 @@ $ git remote add upstream https://github.com/open-learning-exchange/open-learnin
 
 ```
 $ git remote -v
-origin  https://github.com/username/username.github.io.git (fetch)
-origin  https://github.com/username/username.github.io.git (push)
+origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (fetch)
+origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (push)
 upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (fetch)
 upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (push)
 ```
@@ -155,7 +155,7 @@ aborts the commit.
 
 it means that you are in the Vim text editor. Simply type ```:wq``` which stands for **w**rite and **q**uit. However, if you want to insert something you can type "i" and Vim goes into edit mode. To exit edit mode just hit "escape".
 
-Now, your repository has been synced to the upstream/master. However, a discrepancy may still exist between your local (and now your origin/master) versus your username.github.io on GitHub. You will now use `git diff` and `git status` to check how your local repository compares to your username.github.io repository. Depending on whether you have more or less commits than your username.github.io, you will either use `git pull` to receive any changes or `git push` to push updates to your repository. Most likely, as you just synced with the master, you will use `git push` to push updates to your username.github.io repo.
+Now, your repository has been synced to the upstream/master. However, a discrepancy may still exist between your local (and now your origin/master) versus your <YourUserName>.github.io on GitHub. You will now use `git diff` and `git status` to check how your local repository compares to your <YourUserName>.github.io repository. Depending on whether you have more or less commits than your <YourUserName>.github.io, you will either use `git pull` to receive any changes or `git push` to push updates to your repository. Most likely, as you just synced with the master, you will use `git push` to push updates to your <YourUserName>.github.io repo.
 
 ``` bash
 $ git push origin master
@@ -163,7 +163,7 @@ $ git push origin master
 
 If you have uncommitted changes (from mixing interface and terminal use of GitHub repositories), then these commands will be aborted until you fix the discrepancy.
 
-Remember, you should repeatedly use the commands `git diff` and `git status` to respectively see the difference between your username.github.io and your local repository and then see the status of your repository and the changes you have made. Once again, you need to sync your repository with the correct master first, otherwise you will not see the correct `git diff` and `git status`. `git diff` and `git status` only look between your local and username.github.io repos, not your upstream repo.
+Remember, you should repeatedly use the commands `git diff` and `git status` to respectively see the difference between your <YourUserName>.github.io and your local repository and then see the status of your repository and the changes you have made. Once again, you need to sync your repository with the correct master first, otherwise you will not see the correct `git diff` and `git status`. `git diff` and `git status` only look between your local and <YourUserName>.github.io repos, not your upstream repo.
 
 Below is an example of the **git diff** command showing the difference in the file of local and remote repository.
 
@@ -191,7 +191,7 @@ This process needs to be repeated whenever you begin to work, to make sure that 
 
 Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
 
-#### Clone your GitHub repository username.github.io
+#### Clone your GitHub repository <YourUserName>.github.io
 
 1. Open your command prompt/terminal and find the correct directory
 2. Copy the HTTPS or SSH link from your repository on the GitHub site
@@ -200,15 +200,15 @@ Generally, follow these commands in your command line, but refer back above if t
 #### Understand that there are three levels of a Github repository
 
 - the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io))
-- Your username.github.io on GitHub
-- Your username.github.io on your OS.
+- Your <YourUserName>.github.io on GitHub
+- Your <YourUserName>.github.io on your OS.
 
 These need to be synced and checked constantly.
 The **upstream repository** is the one we are contributing to.
 
 #### Configure the upstream repository to your fork
 
-1. `cd username.github.io.`
+1. `cd <YourUserName>.github.io.`
 2. `git remote -v` see above to make sure you are pushing and fetching to your own repository on GitHub as the origin
 3. `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
 4. `git remote -v` origins should remain the same, but you should also be fetching and pushing to OLE as the upstream now
