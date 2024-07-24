@@ -154,13 +154,13 @@ To fetch updates from the upstream repository, configure it as follows:
    git fetch upstream
    ```
 
-2. Check out your fork's master branch:
+2. Switch to your local repository's master branch:
 
    ```bash
    git checkout master
    ```
 
-3. Merge the upstream/master with your local repository:
+3. Merge the upstream/master with currnet branch in your local repository:
 
   ```bash
   git merge upstream/master
@@ -168,7 +168,7 @@ To fetch updates from the upstream repository, configure it as follows:
 
   If Vim editor shows up for commit message, use `:wq` (**w**rite and **q**uit) to exit with the default message.
 
-4. Push the updates to your repository:
+4. Push the updates made to your repository to GitHub:
 
   ```bash
   git push origin master
