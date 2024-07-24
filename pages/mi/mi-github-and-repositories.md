@@ -148,7 +148,7 @@ To fetch updates from the upstream repository, configure it as follows:
 
 ## 4. Sync Your Fork
 
-1. Retrieves any changes from the remote repository named `upstream` to your local repository, allowing you to see updates without merging them into your own work.
+1. Retrieves any changes from the remote repository named `upstream` to your local repository:
 
    ```bash
    git fetch upstream
