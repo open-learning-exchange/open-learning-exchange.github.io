@@ -1,19 +1,8 @@
-**We are in the process of updating this page!**
-
-# Open Learning Exchange
-
-# OLE
-
-The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world. 
-
-
-OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
+**NOTE**: This page is a work in progress.
 
 # myPlanet
 
 ## Introduction
-
-### _What is myPlanet?_
 
 myPlanet is a mobile application that serves as an offline version of the Planet learning system. It allows users to access the learning resources, such as books, videos, and learning games, provided by the Planet server. With myPlanet, users can have an offline learning experience and access the extensive library of learning materials without the need for internet connectivity.
 
@@ -23,7 +12,54 @@ Additionally, myPlanet provides software tools for content and learner managemen
 
 By leveraging the capabilities of myPlanet, learners can access the vast repository of learning resources from the Planet system anytime and anywhere, even in remote locations with unreliable or no internet connectivity. The mobile app enhances the accessibility and usability of the Planet learning system, providing an inclusive and seamless learning experience for users of all ages and levels of expertise.
 
+## Download
 
-## Features of Planet
+- [Google Play Store](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet)
+- [Latest development build](https://github.com/open-learning-exchange/myplanet/releases/latest)
 
-...
+## Configuration and Syncing
+
+Click the settings gear icon in the upper-right corner to open the settings dialog box.
+
+- For manual configuration:
+  - Toggle on "manual" configuration
+  - Select "https"
+  - Enter the "planet ip" obtained from your admin
+  - Enter the "server pin" obtained from your admin
+  - Click "SYNC" and allow the synchronization process to complete
+
+## Sign In / Become a Member
+
+
+## Library
+
+
+## Courses
+
+
+## Exams
+
+
+## Surveys
+
+
+## Teams
+
+
+## Enterprises
+
+
+## News
+
+
+## AI Chat
+
+
+## Achivements
+
+
+## Feedback
+
+
+## Manager
+

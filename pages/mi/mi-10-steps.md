@@ -64,7 +64,7 @@ myPlanet is an Android app available on the Play Store. Please find and install 
 Join as a beta tester to help us improve the app:
 
 - **From a Phone:**
-  Join in Google Play on Android in [treehouse remote detail page](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet). Scroll all the way down, under “Join the beta,” tap Join.
+  Join in Google Play on Android in [myPlanet's app detail page](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet). Scroll all the way down, under “Join the beta,” tap Join.
 - **From a Laptop or Desktop Computer:**
   Join on the web via [this link](https://play.google.com/apps/testing/org.ole.planet.myplanet).
 
@@ -106,7 +106,11 @@ Follow the guide at [Take a Course on myPlanet, Courses Gardening](mi-myplanet-c
 
 In this step, your goal is to create, comment on, and resolve GitHub issues to improve our Markdown Wiki. Here's what you'll need to do:
 
-1. **Create Issues**: Create 3 new issues in our GitHub repository regarding Mobile Intern First Steps. Each issue should be clear and focus on a specific problem or improvement. **Ensure that at least one issue addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation.**
+1. **Create Issues**:
+   - Create 3 new issues in our GitHub repository regarding Mobile Intern First Steps or myPlanet User Manual.
+   - Each issue should focus on a specific problem or improvement.
+     - Ensure that **at least one issue** addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation in Mobile Intern First Steps.
+     - Ensure that **at least one issue** is about populating or improving the [myPlanet User Manual](https://open-learning-exchange.github.io/#!pages/manual/myplanet/overview.md) page.
 
 2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues that you did not create. This could be to provide feedback, suggest solutions, ask questions, or clarify the issue.
 
