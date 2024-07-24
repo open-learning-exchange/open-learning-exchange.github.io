@@ -11,6 +11,7 @@
 |[ewhang5](profiles/ewhang5.md)|2024-05-24|
 |[strawberrybread](profiles/strawberrybread.md)|2024-06-03|
 |[Kuljeet1998](profiles/Kuljeet1998.md)|2024-07-01|
+|[AdhamElAsfar99](profiles/AdhamElAsfar99.md)|2024-07-24|
 
 ## Former Members
 
