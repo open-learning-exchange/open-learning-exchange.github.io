@@ -19,6 +19,14 @@ By leveraging the capabilities of myPlanet, learners can access the vast reposit
 
 ## Configuration and Syncing
 
+Click the settings gear icon in the upper-right corner to open the settings dialog box.
+
+- For manual configuration:
+  - Toggle on "manual" configuration
+  - Select "https"
+  - Enter the "planet ip" obtained from your admin
+  - Enter the "server pin" obtained from your admin
+  - Click "SYNC" and allow the synchronization process to complete
 
 ## Sign In / Become a Member
 
