@@ -2,19 +2,33 @@
 
 ## Objectives
 
+- Install Docker on your Machine
 - Learn about Docker and Docker Compose
-- Learn about running Planet with Docker
-- Learn Docker and Docker Compose commands
+- Run Planet with Docker
+- Use Docker and Docker Compose commands
 
 ## Introduction
 
-**[Docker](https://www.docker.com/what-docker)** is a computer program that performs operating-system-level virtualization also known as containerization. In this section, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface.
+From Simple [English Wikipedia](https://en.wikipedia.org/wiki/Docker_%28software%29):
 
-Now, take a look at [README](https://github.com/open-learning-exchange/planet/tree/master/docker#planet--docker) file in docker folder of `planet` then read the brief rundown below.
+> Docker is a technology that bundles a software program with all of the other software that application needs to run, such as an operating system, third-party software libraries, etc. Software bundled like this is called a container.
+>
+> The benefit of using Docker to put applications in containers is that they can be run on different kinds of computers (for example, both a laptop and a web server), without the risk of a missing software library or a different operating system causing the application to not work.
+
+First, **take a look** at the [README](https://github.com/open-learning-exchange/planet/tree/master/docker#planet--docker) file in the docker folder of the Planet repository, then proceed with this tutorial.
+
+## Install Docker
+
+### Windows / macOS
+The easiest way to install Docker on Windows / macOS is by downloading Docker Desktop. Visit [docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop/) to download the appropriate version for your operating system.
+
+### Linux
+
+Go to https://docs.docker.com/engine/install/#supported-platforms and select your Operating System under Platform column, follow the installation instruction there.
 
 ## Docker
 
-Please read about [Docker concepts](https://docs.docker.com/get-started/#docker-concepts) and [Docker overview](https://docs.docker.com/engine/docker-overview/) to get a sense of what Docker is.
+Please read about [Docker overview | Docker Docs](https://docs.docker.com/guides/docker-overview/) and the 4 sections under [Docker concepts - The basics](https://docs.docker.com/guides/docker-concepts/the-basics/what-is-a-container/) to get a sense of what Docker is.
 
 A few common Docker CLI commands you might need for working with `planet` are:
 
@@ -25,7 +39,7 @@ A few common Docker CLI commands you might need for working with `planet` are:
 
 ## Docker Compose
 
-Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s [services](https://docs.docker.com/get-started/part3/#about-services). Then, with a single command, you create and start all the services from your configuration. You can read more about Docker Compose at [Overview of Docker Compose](https://docs.docker.com/compose/overview/).
+Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s [services](https://docs.docker.com/get-started/part3/#about-services). Then, with a single command, you create and start all the services from your configuration. You can read more about Docker Compose at [Docker Compose overview | Docker Docs](https://docs.docker.com/compose/).
 
 Now, take a look at [the YAML file for planet](https://github.com/open-learning-exchange/planet/blob/master/docker/planet.yml). There are 3 services in planet's docker-compose YAML file:
 
