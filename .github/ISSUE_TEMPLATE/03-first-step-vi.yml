@@ -6,7 +6,7 @@ body:
     attributes:
       label: "Please verify the following:"
       options:
-        - label: This issue is related to the [Virtual Interns First Steps](https://open-learning-exchange.github.io/#!pages/vi/vi-first-steps.md) document.
+        - label: This issue is related to the [Virtual Interns First Steps](https://open-learning-exchange.github.io/#!pages/vi/vi-first-steps.md) document or [Planet User Manual](https://open-learning-exchange.github.io/#!pages/manual/planet/overview.md).
           required: true
         - label: You have searched for relevant keywords in [recent open and closed issues](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue+label%3Avi) to avoid duplicates.
           required: true
