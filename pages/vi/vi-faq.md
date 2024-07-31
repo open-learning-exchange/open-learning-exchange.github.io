@@ -20,7 +20,7 @@
 - **Q13:** [Why is the "Submit" button not showing up when I try to submit my survey?](#Q13:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
 - **Q14:** [Why does Firefox say “Unable to connect” when I try to load my Community?](#Q14:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_Community?)
 - **Q15:** [When I first run Planet with the "vagrant up" command, why does the download fail?](#Q15:_When_I_first_run_Planet_with_the_"vagrant_up"_command,_why_does_the_download_fail?)
-- **Q16:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?](#Q16:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
+- **Q16:** [I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?](#Q16:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;YourUsername&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
 - **Q17:** [What do I do if I already have a github.io with my username?](#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
 - **Q18:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?](#Q18:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_Vagrant_VM?)
 - **Q19:** [What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?](#Q19:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_ole--vagrant-vi_folder,_how_do_I_recreate_my_manager_profile?)
@@ -115,14 +115,14 @@
         ```
   You now have a working community Planet on your OS.
 
-#### Q16: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?
+#### Q16: I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?
 
-+ Yes it is possible to rename it but we highly recommend you to delete and start over so that you have a clean forked repository. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YourUsername/Your-Misnamed-Repository/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
++ Yes it is possible to rename it but we highly recommend you to delete and start over so that you have a clean forked repository. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/<YourUsername>/<Your-Misnamed-Repository>/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
 
 #### Q17: What do I do if I already have a github.io with my username?
 
 + You have a few options:
-  1. If you are still using it and you don't want to overwrite it, you can go to the forked repository settings rename the repository to YourUsername-ole.github.io and then deploy it to GitHub Pages by selecting "master branch" in the repository settings under GitHub Pages. By doing that, you can access the forked OLE repository with this link `YourUsername.github.io/YourUsername-ole.github.io/`.
+  1. If you are still using it and you don't want to overwrite it, you can go to the forked repository settings rename the repository to `<YourUsername>-ole.github.io` and then deploy it to GitHub Pages by selecting "master branch" in the repository settings under GitHub Pages. By doing that, you can access the forked OLE repository with this link `<YourUsername>.github.io/<YourUsername>-ole.github.io/`.
   
   2. If you are not using the repo anymore you can delete it and then follow the [First Steps](vi-first-steps.md).
 

@@ -4,7 +4,7 @@ A pull request is a proposal to merge modifications from one branch into another
 
 ## 1. Open a Pull Request
 
-Now, go to your forked repository on GitHub by visiting `https://github.com/<GitHubUsername>/<GitHubUsername>.github.io`. GitHub will detect that you recently pushed a new branch.
+Now, go to your forked repository on GitHub by visiting `https://github.com/<YourUsername>/<YourUsername>.github.io`. GitHub will detect that you recently pushed a new branch.
 
 1. Click the "Compare & pull request" button as highlighted in the screenshot below. If it doesn't appear, go to the 'Pull requests' tab and click on the "New pull request" button.
 
@@ -33,10 +33,10 @@ Now, go to your forked repository on GitHub by visiting `https://github.com/<Git
 
 ## 2. Delete the Branch
 
-After your pull request has been approved and merged, you might want to delete the associated branch to keep your local and remote (`<GitHubUsername>.github.io` on GitHub) repository clean and free of defunct branches.
+After your pull request has been approved and merged, you might want to delete the associated branch to keep your local and remote (`<YourUsername>.github.io` on GitHub) repository clean and free of defunct branches.
 
 - To delete the branch in your remote repository, click the "Delete branch" button in your pull request (see the picture below).
 
   ![Delete Merged Branch](images/vi-delete-merged-branch.png)
 
-- To delete the branch from your local repository, use the command `git branch -d <yourLocalBranchName>`. Ensure you are not currently on the branch you want to delete. For more information on deleting a branch locally, go [here](https://tecadmin.net/delete-git-remote-and-local-branch/).
+- To delete the branch from your local repository, use the command `git branch -d <YourLocalBranchName>`. Ensure you are not currently on the branch you want to delete. For more information on deleting a branch locally, go [here](https://tecadmin.net/delete-git-remote-and-local-branch/).
