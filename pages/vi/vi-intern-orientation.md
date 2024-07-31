@@ -78,6 +78,7 @@ We typically conduct verbal check-ins (similar to "[stand-up meetings](https://e
 
 ```
 # Check-in
+
 What did I work on last time?
 -
 
@@ -90,10 +91,11 @@ What obstacles are in the way of our progress?
 
 ```
 # Check-out
+
 What I worked on today
 - Consider linking to the pull request when applicable
 
-which date and time are we going to meet you next
+Which date and time are we going to meet you next
 - e.g. Wednesday 10am EDT
 ```
 
