@@ -5,7 +5,9 @@ During my tenure with myPlanet, one of my most significant contributions was lea
 
 I am excited to share a video demonstration showcasing the app's dark mode functionality, highlighting its key benefits and the impact it has on user engagement and satisfaction.
 
-<video width="600" controls>
-  <source src="videos/dark_mode.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<body>
+    <video controls style="width: 100%; height: auto;">
+    <source src="videos/dark_mode.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</body>
