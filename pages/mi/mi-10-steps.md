@@ -1,15 +1,15 @@
-# First Steps
+# First Steps – Mobile Virtual Intern
 
 ## The Big Picture
 
-Welcome to the first steps for becoming an OLE Virtual Mobile Intern! We treat these first steps as a vetting process to prove that you can follow basic instructions before moving on to more complex projects and larger teams. Think of this as the interview for the internship.
+Welcome to the first steps for becoming an OLE Mobile Virtual Intern! We treat these first steps as a vetting process to prove that you can follow basic instructions before moving on to more complex projects and larger teams. Think of this as the interview for the internship.
 
 If you are selected for the internship after completing the steps, you will be officially invited to join the OLE mobile interns team! We’ll add you to our Virtual Interns Discord channel and assign you to a specific team to work on developing and improving OLE’s software. Our current mobile projects are:
 
 1. **[myPlanet](https://github.com/open-learning-exchange/myplanet)**: An Android app that syncs with Planet to save data for offline use and send usage data.
 2. **[Remote](https://github.com/treehouses/remote)**: An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 
-If you are selected after completing these steps, you'll work with your team on an assignment, and assignments will change weekly. During this internship, you will have the opportunity to work with various software and languages including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Vagrant](https://www.vagrantup.com/)**, **[VirtualBox](https://www.virtualbox.org/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Docker](https://www.docker.com/)**, **[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**, **[Node.js](https://nodejs.org/en/)**, **[Angular](https://angular.io/)**, **[Java](https://www.tutorialspoint.com/java/index.htm)**, and **[Kotlin](https://kotlinlang.org/)**.
+If you are selected after completing these steps, you'll work with your team on an assignment, and assignments will change weekly. During this internship, you will have the opportunity to work with various software and languages, including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Realm database](https://en.wikipedia.org/wiki/Realm_(database%29)**, **[Java](https://www.tutorialspoint.com/java/index.htm)**, **[Android Studio](https://en.wikipedia.org/wiki/Android_Studio)**, and **[Kotlin](https://kotlinlang.org/)**.
 
 **NOTE**: This is an unpaid, intensive internship requiring at least 24 hours of work per week. You can find more information about the internship in our [FAQ](mi-faq.md#General_Internship_Questions). If you have additional questions, feel free to ask in the Discord server!
 
@@ -21,13 +21,21 @@ Social coding is a huge part of any open source and collaborative project, and t
 
 Take the opportunity to read more about the tools and languages we use to deepen your understanding and reduce confusion. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice in first steps are crucial for both this internship and a future career in software development.
 
-The MDwiki offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step. We also have an [FAQ page](mi-faq.md) with answers to commonly asked questions. This page also includes more [helpful links and video tutorials](mi-faq.md#Helpful_Links) to help you become familiar with the tools and languages we use. If you can't find what you need on the FAQ page, Google and Stack Exchange are great additional resources. :)
+The MDwiki offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step. :)
 
 **We also would like you to keep us regularly updated in the Discord channel as you complete these steps. We will ask you to send messages, links, and screenshots along the way, which we'll use to track your progress. Please make sure not to miss this, as it's crucial for us to track your work.**
 
 A significant part of these steps is identifying problems or suggesting improvements for this MDwiki. As you complete the steps, take note of any issues you encounter or ideas for enhancements. This helps improve the MDwiki and these steps for future interns.
 
 While there's no official deadline for completing these steps, most successful candidates finish them within 7-8 days. Good luck!
+
+## FAQ - Frequently Asked Questions
+
+**[Our FAQ page](mi-faq.md)** is a comprehensive resource containing answers to common questions about the internship and First Steps. It also features additional helpful links and video tutorials aimed at familiarizing you with the tools and languages integral to our work.
+
+If you have general internship inquiries and can't find the information you need on the FAQ page, please don't hesitate to reach out to us via Discord. Try to avoid DMs as others might have the same question!
+
+For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google and Stack Exchange serve as excellent supplementary resources to explore. :) 
 
 ## Step 0 - Prerequisites
 
@@ -56,7 +64,7 @@ myPlanet is an Android app available on the Play Store. Please find and install 
 Join as a beta tester to help us improve the app:
 
 - **From a Phone:**
-  Join in Google Play on Android in [treehouse remote detail page](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet). Scroll all the way down, under “Join the beta,” tap Join.
+  Join in Google Play on Android in [myPlanet's app detail page](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet). Scroll all the way down, under “Join the beta,” tap Join.
 - **From a Laptop or Desktop Computer:**
   Join on the web via [this link](https://play.google.com/apps/testing/org.ole.planet.myplanet).
 
@@ -64,7 +72,7 @@ After enrolling, there may be a delay before you can upgrade to the beta version
 
 #### Testing the app
 
-Once you've installed the beta version of the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap "SYNC". Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
+Once you've **installed the beta version** of the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap "SYNC". Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
 
 Take screenshots and attempt to crash the app. After exploration, update us on Discord: "I'm on step 2, spent about xx minutes in the myPlanet app and crashed it when navigating to ..." or "I'm on step 2, spent about xx minutes in the myPlanet app and it did not crash."
 
@@ -88,7 +96,7 @@ Follow the directions at [Git Repositories: A Guide to Cloning, Configuring, and
 - No issue is too big or too small to be filed and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small changes, but do not make this the case for all of the issues that you file.
 - You can also work on issues that you didn't create. Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged.
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
+**HINT**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ## Step 7 - Take a Course on myPlanet, Courses Gardening
 
@@ -98,13 +106,17 @@ Follow the guide at [Take a Course on myPlanet, Courses Gardening](mi-myplanet-c
 
 In this step, your goal is to create, comment on, and resolve GitHub issues to improve our Markdown Wiki. Here's what you'll need to do:
 
-1. **Create Issues**: Create 3 new issues in our GitHub repository regarding Mobile Intern First Steps. Each issue should be clear and focus on a specific problem or improvement. **Ensure that at least one issue addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation.**
+1. **Create Issues**:
+   - Create 3 new issues in our GitHub repository regarding Mobile Intern First Steps or myPlanet User Manual.
+   - Each issue should focus on a specific problem or improvement.
+     - Ensure that **at least one issue** addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation in Mobile Intern First Steps.
+     - Ensure that **at least one issue** is about populating or improving the [myPlanet User Manual](https://open-learning-exchange.github.io/#!pages/manual/myplanet/overview.md) page.
 
-2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues. This could be to suggest solutions, ask questions, or clarify the issue.
+2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues that you did not create. This could be to provide feedback, suggest solutions, ask questions, or clarify the issue.
 
 3. **Resolve Issues with Pull Requests**: Resolve the 3 issues by making the necessary changes in separate branches derived from `master` in your repository, and submit a distinct pull request for each one.
 
-Follow the same process as described in the [GitHub Issues step](mi-github-issues.md), working to improve our documentation for future interns. To get your pull requests merged, they must be approved by at least two other OLE team members/interns. After creating a pull request, announce it on the Discord chat to request reviews. You may need to make additional corrections based on feedback.
+Follow the **same process** as described in the [GitHub Issues step](mi-github-issues.md), working to improve our documentation for future interns. To get your pull requests merged, they must be approved by at least two other OLE team members/interns. After creating a pull request, announce it on the Discord chat to request reviews. You may need to make additional corrections based on feedback.
 
 Remember, even small issues are worth addressing. Keep your issues focused and concise. If your pull requests need additional approvals, continue to work on other tasks while you wait.
 
@@ -112,7 +124,7 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 
 **NOTE**: While adding details can be helpful, it's important to remember that less is often more. Over time, this First Steps guide has become bloated with too much information, making it harder to follow. As you work on improving this guide, focus on simplifying the instructions and removing any unnecessary content. The goal is to create a clear and concise guide that future virtual interns can easily understand and use.
 
-**NOTE**: When you are fixing an issue, mention the issue number you are fixing in the title of your pull request by suffixing it with `(fixes #ISSUE_NUM)` and make a new branch for every new issue from the master branch.
+**NOTE**: While waiting for two OLE team members to approve your Pull Requests, you can continue creating more Issues and Pull Requests (upon approval, we suggest). They will all count towards your final Issue/PR total. PR approval can take time, so don't let a lengthy approval/fix process stop you from progressing in your "First Steps".
 
 Once you complete Step 8 you will have:
 
@@ -120,7 +132,7 @@ Once you complete Step 8 you will have:
 - 4 comments made on issues you didn't create (one at step 6 and three at step 8)
 - 4 issues created (one at step 6 and three at step 8)
 
-**NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
+**HINT**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ## Step 9 - Be part of the team
 

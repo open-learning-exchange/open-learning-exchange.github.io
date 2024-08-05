@@ -6,6 +6,8 @@ We use the nation/community infrastructure because our software is often deploye
 
 ## Connecting myPlanet to Planet Virtual Interns Nation "vi"
 
+[Tutorial video for this section](https://www.youtube.com/watch?v=Gm194qUNz0o)
+
 In this step, you will be connecting our mobile application, myPlanet, to Planet "vi" nation. To establish the connection, follow the instructions below:
 
 - **Configuration**: Click the settings gear icon in the upper-right corner to open the settings dialog box.
@@ -20,6 +22,11 @@ In this step, you will be connecting our mobile application, myPlanet, to Planet
 - **Create a User Account**: After syncing, click "BECOME A MEMBER" and fill in the required information to create an account. Keep your credentials somewhere, as you'll need them for future logins.
 
 - **Sign In**: Use the username and password you just created to log in to myPlanet. You have now successfully connect myPlanet app to planet server.
+
+**NOTE**: If you encounter issues during sign-in, try the following:
+1. Re-Sync: manually initiate sync by pressing the sync icon at the top left corner of the app. After syncing, try logging in again.
+2. Clear app data: Clear myPlanet's app data in Android's app info page. Try configuration steps above again.
+3. If the issue persists, contact us on Discord with details.
 
 - **Explore Around**: Click around and explore the app's basic features, let us know in the Discord channel if you notice any issues.
 

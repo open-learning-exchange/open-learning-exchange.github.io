@@ -20,7 +20,7 @@
 - **Q13:** [Why is the "Submit" button not showing up when I try to submit my survey?](#Q13:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
 - **Q14:** [Why does Firefox say “Unable to connect” when I try to load my Community?](#Q14:_Why_does_Firefox_say_“Unable_to_connect”_when_I_try_to_load_my_Community?)
 - **Q15:** [When I first run Planet with the "vagrant up" command, why does the download fail?](#Q15:_When_I_first_run_Planet_with_the_"vagrant_up"_command,_why_does_the_download_fail?)
-- **Q16:** [I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?](#Q16:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;username&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
+- **Q16:** [I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?](#Q16:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;YourUsername&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
 - **Q17:** [What do I do if I already have a github.io with my username?](#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
 - **Q18:** [What do I do if I am on Unix/Mac/Linux and accidentally give root permissions, corrupting the installation of the Vagrant VM?](#Q18:_What_do_I_do_if_I_am_on_Unix/Mac/Linux_and_accidentally_give_root_permissions,_corrupting_the_installation_of_the_Vagrant_VM?)
 - **Q19:** [What if I accidentally resign my manager account, or delete my ole--vagrant-vi folder, how do I recreate my manager profile?](#Q19:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_ole--vagrant-vi_folder,_how_do_I_recreate_my_manager_profile?)
@@ -45,8 +45,8 @@
 
 #### Q4: What are the hours of the internship?
 
-+ This is an intensive internship that requires 20 hours of work each week. Work with your fellow interns and keep us updated in the [Discord server](https://discord.gg/mtgGD4EnYW).
-+ The reason we have a 20 hour minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discusses problems, and works on issues together. Then the rest of the time is for catching up with the changes and working on issues assigned.
++ This is an intensive internship that requires 24 hours of work each week. Work with your fellow interns and keep us updated in the [Discord server](https://discord.gg/mtgGD4EnYW).
++ The reason we have a 24 hour minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discusses problems, and works on issues together. Then the rest of the time is for catching up with the changes and working on issues assigned.
 
 #### Q5: Is this a paid internship?
 
@@ -80,7 +80,9 @@
 
 #### Q12: How can I enable virtualization on my computer in order to turn Vagrant on?
 
-+ First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2", "Esc" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x", "Intel Virtualization Technology" or something similar. Enable this option, save and reset. Now the "vagrant up" command should work.
++ Here is a link to a general guide for enabling virtualization: https://www.dignited.com/113997/how-to-check-and-enable-virtualization-on-windows-10-11/
++ Depending on the make of your CPU and motherboard, instructions for navigating bios may differ slightly. If you are having trouble finding the virtualization option, you may need to search for a specific guide for your device's motherboard and CPU. Here is a guide for looking up your motherboard and CPU: https://www.tomshardware.com/how-to/check-what-motherboard-you-have. The CPU model is under the label *Processor*.
+
 
 #### Q13: Why is the "Submit" button not showing up when I try to submit my survey?
 
@@ -113,16 +115,16 @@
         ```
   You now have a working community Planet on your OS.
 
-#### Q16: I named my repo incorrectly by not naming it &lt;username&gt;.github.io, can I rename it or do I need to delete it?
+#### Q16: I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?
 
-+ Yes it is possible to rename it but we highly recommend you to delete and start over so that you have a clean forked repository. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/YourUsername/Your-Misnamed-Repository/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
++ Yes it is possible to rename it but we highly recommend you to delete and start over so that you have a clean forked repository. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/<YourUsername>/<Your-Misnamed-Repository>/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
 
 #### Q17: What do I do if I already have a github.io with my username?
 
 + You have a few options:
-  1. If you are still using it and you don't want to overwrite it, you can go to the forked repository settings rename the repository to YourUsername-ole.github.io and then deploy it to GitHub Pages by selecting "master branch" in the repository settings under GitHub Pages. By doing that, you can access the forked OLE repository with this link `YourUsername.github.io/YourUsername-ole.github.io/`.
+  1. If you are still using it and you don't want to overwrite it, you can go to the forked repository settings rename the repository to &lt;YourUsername-ole&gt;.github.io and then deploy it to GitHub Pages by selecting "master branch" in the repository settings under GitHub Pages. By doing that, you can access the forked OLE repository with this link `<YourUsername>.github.io/<YourUsername-ole>.github.io/`.
   
-  2. If you are not using the repo anymore you can delete it and then follow the [First Steps](vi-first-steps.md).
+  2. If you are not using the repo anymore you can delete it and then follow the [First Steps](mi-10-steps.md).
 
   3. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repo &lt;orgname&gt;.github.io.
 
