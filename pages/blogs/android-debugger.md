@@ -1,4 +1,4 @@
-# Utilizing the Android Debugger
+## Utilizing the Android Debugger
 August 5, 2018 • [ewhang5](https://github.com/ewhang5)
 
 The debugger is a powerful but often underutilized tool that helps in identifying issues and observing the step-by-step execution of a program. To use the debugger, click the button shown below.
