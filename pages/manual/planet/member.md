@@ -16,4 +16,3 @@ There are several different roles available in Planet: "admin", "manager", "lear
 Click on the profile button in the top right corner of Planet. Here, you can view or edit your profile, change your password, or logout. Be sure to log out once you are finished with your session.
 
 ![](images/planet-home-profile.png)
-
