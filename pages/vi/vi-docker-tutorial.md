@@ -33,7 +33,7 @@ Now, take a look at [the YAML file for planet](https://github.com/open-learning-
 ## Install Docker
 
 ### Windows / macOS
-The easiest way to install Docker on Windows / macOS is by downloading Docker Desktop. Visit [docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop/) to download the appropriate version for your operating system.
+The easiest way to install Docker on Windows / macOS is by downloading Docker Desktop. Visit [docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop/) to download the appropriate version for your operating system. After installation, launch the Docker Desktop app.
 
 ### Linux
 
@@ -41,7 +41,7 @@ Go to https://docs.docker.com/engine/install/#supported-platforms and select you
 
 ### Check to see if it works
 
-After installation, try to run `docker` in your terminal/command prompt and see if it outputs the help message.
+After installation, try to run `docker` in your terminal/command prompt and see if it outputs the help message without error.
 
 ## Run Planet with Docker
 
