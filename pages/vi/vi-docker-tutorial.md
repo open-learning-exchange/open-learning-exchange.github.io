@@ -39,6 +39,10 @@ The easiest way to install Docker on Windows / macOS is by downloading Docker De
 
 Go to https://docs.docker.com/engine/install/#supported-platforms and select your Operating System under Platform column, follow the "Prerequisites" section, then follow "Installation methods - Install using the xxx repository".
 
+### Check to see if it works
+
+After installation, try to run `docker` in your terminal/command prompt and see if it outputs the help message.
+
 ## Run Planet with Docker
 
 ```bash
