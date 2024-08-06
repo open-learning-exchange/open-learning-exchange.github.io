@@ -6,7 +6,7 @@ Welcome to the first steps for becoming an OLE Software Engineering Virtual Inte
 
 If you are selected for the internship after completing the steps, you will be officially invited to join the OLE software engineering interns team! We’ll add you to relevant Discord channels and assign you to a specific team to work on developing and improving OLE’s software. Our current projects is **[Planet](https://github.com/open-learning-exchange/planet) – a learning management system designed as a Progressive Web App using Angular and CouchDB.**
 
-During this internship, you will have the opportunity to work with various software, tools, and technologies, including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Vagrant](https://www.vagrantup.com/)**, **[VirtualBox](https://www.virtualbox.org/)**, **[Command Line](https://www.codecademy.com/articles/command-line-commands)**, **[CouchDB](http://couchdb.apache.org/)**, **[Docker](https://www.docker.com/)**, **[HTML5](https://en.wikipedia.org/wiki/HTML5)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**, **[Node.js](https://nodejs.org/en/)**, **[Angular](https://angular.io/)**, **[TypeScript](https://www.typescriptlang.org/)**, **[SCSS](https://sass-lang.com/)**, and **[Visual Studio Code](https://code.visualstudio.com/)**.
+During this internship, you will have the opportunity to work with various software, tools, and technologies, including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Command Line](https://www.codecademy.com/articles/command-line-commands)**, **[CouchDB](http://couchdb.apache.org/)**, **[Docker](https://www.docker.com/)**, **[HTML5](https://en.wikipedia.org/wiki/HTML5)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**, **[Node.js](https://nodejs.org/en/)**, **[Angular](https://angular.io/)**, **[TypeScript](https://www.typescriptlang.org/)**, **[SCSS](https://sass-lang.com/)**, and **[Visual Studio Code](https://code.visualstudio.com/)**.
 
 **NOTE**: This is an unpaid, intensive internship requiring at least 24 hours of work per week. You can find more information about the internship in our [FAQ](vi-faq.md#General_Internship_Questions). If you have additional questions, feel free to ask in the Discord server!
 
@@ -36,35 +36,35 @@ For technical questions not covered in the FAQ, in addition to contacting us on 
 
 ## Step 0 - Introductory Steps
 
-There are 3 sub-steps in this step:
+This step includes two tasks:
 
-1. Send us your resume again along with a short description of yourself and what you would like to be called to [vi+resume@ole.org](mailto:vi+resume@ole.org).
+1. **Watch the Repository and Follow Contributors:**
+   - Visit [GitHub](https://github.com), and watch the [Open Learning Exchange's Planet repository](https://github.com/open-learning-exchange/planet) to stay updated on changes.
+   - Follow [dogi](https://github.com/dogi) and [Mutugiii](https://github.com/Mutugiii) on GitHub.
+   - To keep up with the latest activities, use the "Watch" button in repositories and "Follow" individuals.
+   - Additionally, follow other prospective virtual interns to see their progress.
 
-2. Create a [GitHub account](https://github.com/) then watch <a href="https://github.com/open-learning-exchange/open-learning-exchange.github.io" target="_blank">Open Learning Exchange's github.io repo</a> and Follow [dogi](https://github.com/dogi), [Laxman](https://github.com/lmmrssa), [Leonard](https://github.com/leomaxi), [Paul](https://github.com/paulbert), [Arpita](https://github.com/singharpita) and [Roshan](https://github.com/rrijal53) on GitHub. In GitHub, we "[Watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)" organization repositories and ["Follow"](https://help.github.com/en/articles/following-people) individuals. Look for the "Watch" button at the top right of the page when you are in a repository.  Also, follow each other to see what others in the group are doing. (Click on the image to enlarge.)
+   ![Watch Screen Shot](images/vi-watch.png)
+   ![Follow Screen Shot](images/vi-follow.png)
 
-  ![Watch Screen Shot](images/vi-watch.png)
-  ![Follow Screen Shot](images/vi-follow.png)
+2. **Contribute to Translations on Crowdin:**
+   - We use Crowdin to translate our user interface into various languages.
+   - If you know [another language supported by Planet](https://crowdin.com/project/ole-planet), your translation help would be appreciated.
+   - Create a Crowdin account and aim to translate 10% of the words in your chosen language.
+   - Refer to the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of the functionality and terminology. Your contributions will help us and enhance your understanding of Planet.
 
-3. We use Crowdin to translate our user interface into many different languages. If you know another language besides English, we would greatly appreciate if you would help translate. To do so, go to [this Crowdin link](https://crowdin.com/project/ole-planet/invite) to create a Crowdin account. A good goal is to get 10% of the words in your chosen language translated. If you have time, it would be even better to translate more of the words. After finishing [Step 4 - Planet Tutorial](vi-first-steps.md#Step_4_-_Planet_Tutorial), check out this [link](https://crowdin.com/page/tour#tab_translators) to learn how you can start contributing on Crowdin.
+## Step 1 - Planet and Docker
 
-**NOTE**: See the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of functionality and an explanation of various terms. Your contributions will not only help us out but also give you a better understanding of what Planet does.
+This step includes two tasks:
 
-## Step 1 - Planet and Vagrant
+1. **Docker Tutorial:**
+   - Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md).
+   - Docker is a program that performs operating-system-level virtualization, also known as containerization.
+   - Learn the basics of interacting with Docker and Docker Compose using the command-line interface and basic commands for maintaining your Planet installation.
 
-There are 3 sub-steps in this step:
-
-1. [Planet Installation with Vagrant](vi-planet-installation-vagrant.md)
-  The **Planet** is a virtual library that is deployed internationally to individuals in countries that typically do not have access to educational resources. In this step, you will learn about how to set up your own Community Planet using vagrant.
-
-2. [Planet Configurations](vi-configurations-vagrant.md)
-  In this step, you will learn about how to configure your Community Planet.
-
-3. [Vagrant Tutorial](vi-vagrant.md)
-  **Vagrant** is an open-source software product for building and maintaining portable virtual software development environments. In this step, you will learn about how to interact with Vagrant through the command-line interface.
-
-## Step 2 - Planet and Docker
-
-Follow the instructions on the [Docker Tutorial page](vi-docker-tutorial.md). **Docker** is a computer program that performs operating-system-level virtualization also known as containerization. In this step, you will learn the basics of interacting with Docker and Docker Compose through the command-line interface and basic commands for maintaining your Planet installation.
+2. **Planet Configurations:**
+   - Refer to the [Planet Configurations page](vi-configurations-vagrant.md).
+   - Learn how to configure your Community Planet.
 
 ## Step 3 - Markdown and Fork Tutorial
 
