@@ -45,6 +45,10 @@ After installation, try to run `docker` in your terminal/command prompt and see 
 
 ## Run Planet with Docker
 
+### Windows
+
+TO BE FILLED
+
 ### macOS
 
 ```sh
@@ -79,15 +83,44 @@ docker container ls -a
 docker compose -f planet.yml -p planet logs -f
 ```
 
-Now, head to http://localhost or http://127.0.0.1 and see if the planet configuration screen shows up. Please **do not** configure planet yet as we will do it in Step 1.2
-
-### Windows
-
-TO BE FILLED
+Now, head to [http://localhost](http://localhost) or [http://127.0.0.1](http://127.0.0.1) to check if the planet configuration screen appears. **Please do not configure the planet yet, as we will do this in the next step.**
 
 ### Linux
 
-TO BE FILLED
+```sh
+# pull the latest tags for the planet, db-init, and chatapi Docker images
+docker pull treehouses/planet:latest
+docker pull treehouses/planet:db-init
+docker pull treehouses/planet:chatapi
+
+# create tags as fixed version reference for above images
+docker tag treehouses/planet:latest treehouses/planet:local
+docker tag treehouses/planet:db-init treehouses/planet:db-init-local
+docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
+
+# create a dedicated directory "~/planet" for mapping Docker container volumes later
+sudo mkdir /srv/planet
+cd /srv/planet
+
+echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
+echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
+
+# download docker compose yml file and rename it
+wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-so.yml
+mv planet-so.yml planet.yml
+
+# starts the containers in the background and leaves them running
+docker compose -f planet.yml -p planet up -d
+
+# see if the docker containers are running
+# ensure it says "Up" in STATUS column with the exception of db-init, which may finished running and exited already
+docker container ls -a
+
+# follow the log in action, press 'control+c' to exit the logs view
+docker compose -f planet.yml -p planet logs -f
+```
+
+Now, head to [http://localhost](http://localhost) or [http://127.0.0.1](http://127.0.0.1) to check if the planet configuration screen appears. **Please do not configure the planet yet, as we will do this in the next step.**
 
 ## More about Docker and Docker Compose Commands
 
