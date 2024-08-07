@@ -39,9 +39,9 @@ For technical questions not covered in the FAQ, in addition to contacting us on 
 This step includes two tasks:
 
 1. **Watch the Repository and Follow Contributors:**
-   - Visit [GitHub](https://github.com), and watch the [Open Learning Exchange's Planet repository](https://github.com/open-learning-exchange/planet) to stay updated on changes.
-   - Follow [dogi](https://github.com/dogi) and [Mutugiii](https://github.com/Mutugiii) on GitHub.
    - To keep up with the latest activities, use the "Watch" button in repositories and "Follow" individuals.
+   - Visit [GitHub](https://github.com), and watch the [Open Learning Exchange's Planet repository](https://github.com/open-learning-exchange/planet) to stay updated on changes.
+   - Follow OLE's CTO [dogi](https://github.com/dogi) and Planet's core developer [Mutugi](https://github.com/Mutugiii) on GitHub.
    - Additionally, follow other prospective virtual interns to see their progress.
 
    ![Watch Screen Shot](images/vi-watch.png)
