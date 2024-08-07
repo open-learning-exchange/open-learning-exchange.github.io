@@ -136,9 +136,9 @@ Once you complete Step 8 you will have:
 
 ## Step 9 - Kotlin Tour
 
-myPlanet use Kotlin as the development language. If you have no or little prior exposure to Kotlin, please go over the official [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html) to gain some familiarity. Optionally, there are practice exercise at the end of each topic for you to get some hands on exercise.
+myPlanet use Kotlin as the development language. If you have no or little prior exposure to Kotlin, please go over the [Kotlin crash-course](https://developer.android.com/kotlin/learn) on Android Developers to gain some familiarity.
 
-Additionally, you may also go over the [Kotlin crash-course](https://developer.android.com/kotlin/learn) on Android Developers.
+Additionally, you may also go over the official [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html). Optionally, there are practice exercise at the end of each topic for you to get some hands on exercise.
 
 ## Step 10 - Be part of the team
 
