@@ -2,40 +2,51 @@
 
 ## Objectives
 
-* Learn about Planet and the difference between Nations and Communities
-* Use Vagrant to create a local Planet Community
-* Register your Community and sync it with the Nation
+- Learn about Planet and the difference between Nations and Communities
+- Create a local Planet Community
+- Register your Community and sync it with the Nation
 
 ## Introduction
 
 The Planet is not only a library, but also an individualized learning system, where students can select their own books and courses to target their individual goals. The two kinds of Planet apps are described below.
 
-#### Planet Communities (Local)
+### Planet Communities (Local)
 
-* Communities are how the Planet functions on a local network, with users connecting to a community using either a laptop or a Raspberry Pi and a router.
-* Periodically communities sync with Nations on the internet, which includes sending and receiving educational materials.
-* In step 1 you created a Planet community on your computer. As you follow the steps on this page, you will access and configure your community.
+- Communities are how the Planet functions on a local network, with users connecting to a community using either a laptop or a Raspberry Pi and a router.
+- Periodically communities sync with Nations on the internet, which includes sending and receiving educational materials.
+- In the prior step, you created a Planet community on your computer. As you follow the steps on this page, you will access and configure your community.
 
-#### Planet Nations (Internet)
+### Planet Nations (Internet)
 
-* Nations are Planet apps for the Internet, allowing communities to interact with each other.
-* Nations are connected to many communities and can run reports on any communities it owns.
-* As you complete these instructions, an OLE administrator will complete the registration of your community with the Virtual Intern Nation.
+- Nations are Planet apps for the Internet, allowing communities to interact with each other.
+- Nations are connected to many communities and can run reports on any communities it owns.
+- As you complete these instructions, an OLE administrator will complete the registration of your community with the Virtual Intern Nation.
 
-## macOS and Ubuntu
+## Check if Planet is running
 
-Please go to [http://localhost:3100](http://localhost:3100) or run `vagrant global-status` in the command line to see if your community Planet is currently running. If not, please `cd` into `planet` directory in your local machine and run `vagrant up prod`. Make sure to have the correct port number(3100), or else it will not work. 
+### macOS
 
-## Windows
+Please run `docker ps -a` in the command line to check if your Community Planet's status is "up" and running. If it's not, `cd` into the `~/planet` directory on your local machine and run `docker compose -f planet.yml -p planet start`.
 
-Open browser and browse [http://localhost:3100](http://localhost:3100). You should see the user interface of application (see below).  If you get an `Unable to connect` page, check out Q14 at [FAQ](vi-faq.md#Technical_Questions).
+### Linux
+
+Please run `docker ps -a` in the command line to check if your Community Planet's status is "up" and running. If it's not, `cd` into the `/srv/planet` directory on your local machine and run `docker compose -f planet.yml -p planet start`.
+
+### Windows
+
+<!-- TODO: probably need to change `/srv/planet` here -->
+
+Please run `docker ps -a` in the command line to check if your Community Planet's status is "up" and running. If it's not, `cd` into the `/srv/planet` directory on your local machine and run `docker compose -f planet.yml -p planet start`.
 
 ## Database
-[CouchDB](https://en.wikipedia.org/wiki/CouchDB) (also known as Apache CouchDB) is a database software that we use for the Planet. You can see the backend interface of our CouchDB at http://localhost:2300/_utils. In _utils, you have the opportunity to see all data of your Planet application.
-[PouchDB](https://pouchdb.com/learn.html) is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. This allows applications to save data locally, so that users can enjoy all the features of an app even when they're offline. This database is also used in the planet.
+
+- [Apache CouchDB](https://en.wikipedia.org/wiki/Apache_CouchDB) is a database software that we use for the Planet. You can see the back-end interface of our CouchDB at http://localhost:2200/_utils. In `_utils`, you have the opportunity to see all data of your Planet application.
+
+- [PouchDB](https://pouchdb.com/learn.html) is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. This allows applications to save data locally, so that users can enjoy all the features of an app even when they're offline. This database is also used in the planet.
 
 ## User Interface
-To see the actual user interface, go to http://localhost:3100.
+
+To see the actual user interface, go to http://localhost.
 You will be shown the page below. Make sure you remember the credentials.
 
 ![Become an Administrator](images/vi-become-admin.png)
