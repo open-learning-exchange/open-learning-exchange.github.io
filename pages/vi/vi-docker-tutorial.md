@@ -79,6 +79,8 @@ docker container ls -a
 docker compose -f planet.yml -p planet logs -f
 ```
 
+Now, head to http://localhost or http://127.0.0.1 and see if the planet configuration screen shows up. Please **do not** configure planet yet as we will do it in Step 1.2
+
 ### Windows
 
 TO BE FILLED
@@ -122,4 +124,4 @@ You can also use `docker --help` and `docker compose --help` to see brief usage 
 
 Markdown is a lightweight markup language with plain text formatting syntax. In the next section, you will learn Markdown to create a profile page, and learn how to create a pull request on github.com.
 
-#### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Docker)
