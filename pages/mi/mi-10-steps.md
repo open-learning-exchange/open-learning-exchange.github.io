@@ -9,7 +9,7 @@ If you are selected for the internship after completing the steps, you will be o
 1. **[myPlanet](https://github.com/open-learning-exchange/myplanet)**: An Android app that syncs with Planet to save data for offline use and send usage data.
 2. **[Remote](https://github.com/treehouses/remote)**: An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
 
-If you are selected after completing these steps, you'll work with your team on an assignment, and assignments will change weekly. During this internship, you will have the opportunity to work with various software and languages, including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Realm database](https://en.wikipedia.org/wiki/Realm_(database%29)**, **[Java](https://www.tutorialspoint.com/java/index.htm)**, **[Android Studio](https://en.wikipedia.org/wiki/Android_Studio)**, and **[Kotlin](https://kotlinlang.org/)**.
+If you are selected after completing these steps, you'll work with your team on an assignment, and assignments will change weekly. During this internship, you will have the opportunity to work with various software and languages, including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Realm database](https://en.wikipedia.org/wiki/Realm_(database%29)**, **[Android Studio](https://en.wikipedia.org/wiki/Android_Studio)**, and **[Kotlin](https://kotlinlang.org/)**.
 
 **NOTE**: This is an unpaid, intensive internship requiring at least 24 hours of work per week. You can find more information about the internship in our [FAQ](mi-faq.md#General_Internship_Questions). If you have additional questions, feel free to ask in the Discord server!
 
@@ -21,7 +21,7 @@ Social coding is a huge part of any open source and collaborative project, and t
 
 Take the opportunity to read more about the tools and languages we use to deepen your understanding and reduce confusion. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice in first steps are crucial for both this internship and a future career in software development.
 
-The MDwiki offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step. :)
+The MDwiki offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step.
 
 **We also would like you to keep us regularly updated in the Discord channel as you complete these steps. We will ask you to send messages, links, and screenshots along the way, which we'll use to track your progress. Please make sure not to miss this, as it's crucial for us to track your work.**
 
@@ -35,7 +35,7 @@ While there's no official deadline for completing these steps, most successful c
 
 If you have general internship inquiries and can't find the information you need on the FAQ page, please don't hesitate to reach out to us via Discord. Try to avoid DMs as others might have the same question!
 
-For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google and Stack Exchange serve as excellent supplementary resources to explore. :) 
+For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google and Stack Exchange serve as excellent supplementary resources to explore. :)
 
 ## Step 0 - Prerequisites
 
@@ -134,7 +134,13 @@ Once you complete Step 8 you will have:
 
 **HINT**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
-## Step 9 - Be part of the team
+## Step 9 - Kotlin Tour
+
+myPlanet use Kotlin as the development language. If you have no or little prior exposure to Kotlin, please go over the official [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html) to gain some familiarity. Optionally, there are practice exercise at the end of each topic for you to get some hands on exercise.
+
+Additionally, you may also go over the [Kotlin crash-course](https://developer.android.com/kotlin/learn) on Android Developers.
+
+## Step 10 - Be part of the team
 
 Next thing is to add yourself to the virtual intern list found in [mi-team.md](mi-team.md) and create a pull request. Message us ("@okurole_25668", "@dogi" and "@vi-mobile") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
 
