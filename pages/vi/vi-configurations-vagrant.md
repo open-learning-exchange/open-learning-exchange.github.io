@@ -44,34 +44,29 @@ Please run `docker ps -a` in the command line to check if your Community Planet'
 
 - [PouchDB](https://pouchdb.com/learn.html) is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. This allows applications to save data locally, so that users can enjoy all the features of an app even when they're offline. This database is also used in the planet.
 
-## User Interface
+## Configure Your Planet Community
 
-To see the actual user interface, go to http://localhost.
-You will be shown the page below. Make sure you remember the credentials.
+Visit [http://localhost](http://localhost) or [http://127.0.0.1](http://127.0.0.1) to access the initial admin configuration page. Fill out the admin username and password, and make sure to remember the password.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
-WARNING: Before you complete the registration, do not close your browser.
-You cannot go to the above registration form again.
-If you are in this situation, look at the ** [Second element of Troubleshooting in this page](#Troubleshooting)** 
+**WARNING:** Do not close this browser tab before completing the configuration, as you cannot return to this form. If you accidentally close the tab, run `docker compose -f planet.yml -p planet down` followed by `docker compose -f planet.yml -p planet up -d` to restart the process.
 
-Next, fill out the configurations. Your name must be the same and should match your GitHub name so we can easily locate your community in Virtual Intern Nation. Pick **Virtual Intern Nation (vi)** for nation as in the example below. **After filling out your configurations, remember to save a screenshot of the configuration page so that you can post it on the [Discord server](https://discord.gg/mtgGD4EnYW) after submitting your registration request.**
+Fill out the configurations, ensuring your name matches your GitHub name for easy identification in Virtual Intern Nation. Select **Virtual Intern Nation (vi)** as the nation, as shown below. **After completing the configurations, save a screenshot of the page to post on the Discord server after submitting your registration request.**
 
 ![Configurations](images/vi-configuration.png)
 
-**Note:** *To add images in the chat, just drag the image from your directory to the browser context and drop it in the messaging area or simply copy and paste the image.*
-
-Next, you will see a form that requires the contact details of the administrator (maintainer) of the community. Please provide your contact information.
+Next, provide the contact details of the community administrator.
 
 ![Contact Details](images/vi-contact-details.png)
 
-Then, click on the **"Submit"** button. Your registration request for your community will be sent to the nation side for approval. You will see the following message.
+Click the **"Submit"** button to send your registration request for approval. You will see the following message:
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
 
-Now you can login with the admin credential you created.
+You can now log in with the admin credentials you created.
 
-Then, post to the [Discord server](https://discord.gg/mtgGD4EnYW) the screenshot you took earlier.
+Finally, post the screenshot you took earlier to the [Discord server](https://discord.gg/mtgGD4EnYW).
 
 ## Troubleshooting
 
