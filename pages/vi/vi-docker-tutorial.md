@@ -1,4 +1,4 @@
-﻿# Docker Tutorial (Step 2)
+﻿# Docker Tutorial (Step 1.1)
 
 ## Objectives
 
@@ -45,8 +45,10 @@ After installation, try to run `docker` in your terminal/command prompt and see 
 
 ## Run Planet with Docker
 
-```bash
-# pull the latest planet, db-init, and chatapi Docker image
+### macOS
+
+```sh
+# pull the latest tags for the planet, db-init, and chatapi Docker images
 docker pull treehouses/planet:latest
 docker pull treehouses/planet:db-init
 docker pull treehouses/planet:chatapi
@@ -56,24 +58,34 @@ docker tag treehouses/planet:latest treehouses/planet:local
 docker tag treehouses/planet:db-init treehouses/planet:db-init-local
 docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 
-# TODO: srv read only on mac...
-sudo mkdir /srv/planet
-cd /srv/planet
+# create a dedicated directory "~/planet" for mapping Docker container volumes later
+mkdir -p ~/planet
+cd ~/planet
 
-echo "OPENAI_API_KEY=dummykey" > .chat.env
-echo "PERPLEXITY_API_KEY=dummykey" >> .chat.env
+echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
+echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 
-wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-so.yml
-mv planet-so.yml planet.yml
+# download docker compose yml file
+curl https://gist.githubusercontent.com/xyb994/da04da73f903757d71d8a56780edcfcc/raw/85403b7d7461d47ddbaad3b118bb562d01f05f3a/planet-so-mac.yml -o planet.yml
 
+# starts the containers in the background and leaves them running
 docker compose -f planet.yml -p planet up -d
 
 # see if the docker containers are running
-# ensure it says "Up" in STATUS column with the exception of db-init
-docker ps -a
+# ensure it says "Up" in STATUS column with the exception of db-init, which may finished running and exited already
+docker container ls -a
+
+# follow the log in action, press 'control+c' to exit the logs view
+docker compose -f planet.yml -p planet logs -f
 ```
 
-You can follow the log in action with `docker compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit the logs view.
+### Windows
+
+TO BE FILLED
+
+### Linux
+
+TO BE FILLED
 
 ## More about Docker and Docker Compose Commands
 
