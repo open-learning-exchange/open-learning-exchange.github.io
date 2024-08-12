@@ -99,6 +99,8 @@
   * [&nbsp; &nbsp; Virtual Interns](https://discord.gg/mtgGD4EnYW)
   * [&nbsp; &nbsp; Tech Geniuses](https://discord.gg/mtgGD4EnYW)
 
+[Blogs](pages/blogs/blog-list.md) <!-- Archived Items -->
+
 <!-- Default theme (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)  -->
 
 <!-- Navigation (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)  
