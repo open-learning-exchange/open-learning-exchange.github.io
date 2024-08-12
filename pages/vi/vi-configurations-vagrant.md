@@ -66,26 +66,52 @@ Click the **"Submit"** button to send your registration request for approval. Yo
 
 You can now log in with the admin credentials you created.
 
-Finally, post the screenshot you took earlier to the [Discord server](https://discord.gg/mtgGD4EnYW).
+Finally, post the screenshot you took earlier to [our Discord server's #vi-software channel](https://discord.com/channels/1079980988421132369/1229437557843169280).
 
 ## Troubleshooting
 
-1. When trying to access http://localhost:3100 you may experience an error such as the following: "no_db_found". A simple solution will be using ```vagrant halt prod``` ```vagrant destroy prod``` to delete the current machine, then try ```vagrant up prod``` to rebuild it.
+1. If you encounter any of the following issues, please follow the steps in the "Starting Over" section below:
+   - `no_db_found`
+   - Accidental deletion of your Planet admin account
 
-2. If you accidentally delete your Planet admin account, creating a new learner account on the login page will cause problems in later steps. The best way to solve this problem is to start over and create a new community. 
-Run`docker compose -f planet.yml -p planet up -d`
-in your planet folder. This destroys and removes your community, pulls the latest code, and starts a community from scratch.
+1. **Planet Page Not Loading in Browser**
 
-3. In the case that you use the command `vagrant destroy prod`, your community Planet would be wiped together with the virtual machine, but  community registration would still exist on the nation side. After rebuilding your community Planet using `vagrant up prod`, fill out the configurations again with a slightly different Name (e.g. adding a number or letter to the end of your original GitHub username) so that we can still locate your community on the Nation side. Also, remember to take a screenshot of the new configuration page and post it to the [Discord server](https://discord.gg/mtgGD4EnYW).
+   If the Planet page doesn't load in your browser, even with correct account configuration and approval:
+   - First, try accessing the page in your browser's incognito/private mode to check if it's a cookie issue.
+   - If Planet loads in incognito/private mode, clear your browser cookies.
+   - If it still doesn't load, follow the "Restarting the Containers" steps below.
+   - If these steps don't work, follow the "Starting Over" section below to "rebuild" your Planet.
 
-4. There is a chance upon having your account approved that the website does not recognize you as registered. You will be stuck infinitely loading and upon refresh, the page will be blank. 
+1. **Account Not Recognized After Approval**
 
-  ![Not recognized](https://user-images.githubusercontent.com/22685147/58755806-bb6fe700-84b9-11e9-8a27-d3e3ab56ffba.png) 
-  
-  ![Blank](https://user-images.githubusercontent.com/22685147/58755807-be6ad780-84b9-11e9-86b5-c745f584ac41.png) 
-  
-  In order to fix this problem, simply follow the procedures stated above in step 3: use `vagrant destroy prod`, then `vagrant up prod`. Afterwards, use a slightly different name for your configuration, take a screenshot of the new configuration page, and post it to the [Discord server](https://discord.gg/mtgGD4EnYW).
+   After your account is approved, the website might not recognize your registration, resulting in an infinite loading screen. Refreshing the page could leave it blank. To resolve this issue, follow the steps in the "Starting Over" section below.
 
-5. When you are trying to access http://localhost:3100 the page may not load at all, even if your account was configured correctly and fully approved. A first step would be to run `vagrant halt prod`. Then, you should proceed to clear the cookies from your browser. This step will be different for each browser. Finally, you should run `vagrant up prod` to restart the VM before you reopen the browser to access the Planet again. **If this does not work, follow the previous steps above to rebuild your planet account.**
+   ![Not recognized](https://user-images.githubusercontent.com/22685147/58755806-bb6fe700-84b9-11e9-8a27-d3e3ab56ffba.png)
 
-#### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Vagrant)
+   ![Blank](https://user-images.githubusercontent.com/22685147/58755807-be6ad780-84b9-11e9-86b5-c745f584ac41.png)
+
+### Restarting the Containers
+
+```sh
+# Stop `planet` without removing it
+docker compose -f planet.yml -p planet stop
+
+# Start `planet` again
+docker compose -f planet.yml -p planet start
+```
+
+### Starting Over
+
+**Warning:** This will remove the community you configured.
+
+```sh
+# Stop and remove containers, networks, volumes, and images created with the `planet.yml` configuration file
+docker compose -f planet.yml -p planet down
+
+# Start the containers again
+docker compose -f planet.yml -p planet up -d
+```
+
+After planet is up and running, follow [Configure Your PlanetCommunity](#!./pages/vi/vi-configurations-vagrant.md#Configure_Your_Planet_Community) again, since your old community registration still exist on the nation side, please use a slightly different name for your configuration.
+
+#### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Docker)
