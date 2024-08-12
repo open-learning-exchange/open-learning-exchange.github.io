@@ -39,11 +39,9 @@ The easiest way to install Docker on Windows / macOS is by downloading Docker De
 
 Go to https://docs.docker.com/engine/install/#supported-platforms and select your Operating System under Platform column, follow the "Prerequisites" section, then follow "Installation methods - Install using the xxx repository".
 
-### Check to see if it works
-
-After installation, try to run `docker` in your terminal/command prompt and see if it outputs the help message without error.
-
 ## Run Planet with Docker
+
+Now that Docker is installed, run `docker` in your terminal or command prompt. If it's installed correctly, you'll see the help message without any errors. Once confirmed, follow the directions below to spin up Planet on your OS.
 
 ### Windows
 
@@ -72,7 +70,7 @@ echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 # download docker compose yml file
 curl https://gist.githubusercontent.com/xyb994/da04da73f903757d71d8a56780edcfcc/raw/85403b7d7461d47ddbaad3b118bb562d01f05f3a/planet-so-mac.yml -o planet.yml
 
-# starts the containers in the background and leaves them running
+# starts the containers in the background with compose configuration file planet.yml and leaves them running
 docker compose -f planet.yml -p planet up -d
 
 # see if the docker containers are running
@@ -109,7 +107,7 @@ echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-so.yml
 mv planet-so.yml planet.yml
 
-# starts the containers in the background and leaves them running
+# starts the containers in the background with compose configuration file planet.yml and leaves them running
 docker compose -f planet.yml -p planet up -d
 
 # see if the docker containers are running
