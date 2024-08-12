@@ -63,7 +63,7 @@ This step includes two tasks:
    - Learn the basics of interacting with Docker and Docker Compose using the command-line interface and basic commands for maintaining your Planet installation.
 
 2. **Planet Configurations:**
-   - Refer to the [Planet Configurations page](vi-configurations-vagrant.md).
+   - Refer to the [Planet Configurations page](vi-planet-configurations.md).
    - Learn how to configure your Community Planet.
 
 ## Step 3 - Markdown and Fork Tutorial
