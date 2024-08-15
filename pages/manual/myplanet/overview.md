@@ -29,6 +29,7 @@ Click the settings gear icon in the upper-right corner to open the settings dial
   - Click "SYNC" and allow the synchronization process to complete
 
 ## Sign In / Become a Member
+After installation when you first open the **myPlanet App** you will see a login page. In order to start your learning journey, you will need to have a member account first. Know more about becoming a member and sign in on [myPlanet Sign in](myPlanetMember.md) page.
 
 
 ## Library
