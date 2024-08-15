@@ -108,7 +108,7 @@ Follow the directions under the [Nation Planet tab](vi-nation.md).
 In this step, your goal is to create, comment on, and resolve GitHub issues to improve our Markdown Wiki. Here's what you'll need to do:
 
 1. **Create Issues**:
-   - Create 3 new issues in our GitHub repository regarding Software Engineering Virtual Intern First Steps or [Planet User Manual](#!pages/manual/planet/overview.md).
+   - Create 3 new issues in our GitHub repository regarding Software Engineering Virtual Intern First Steps's content or [Planet User Manual](#!pages/manual/planet/overview.md).
    - Each issue should focus on a specific problem or improvement.
      - Ensure that **at least one issue** addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation in Mobile Intern First Steps.
      - Ensure that **at least one issue** is about populating or improving the [Planet User Manual](#!pages/manual/planet/overview.md) page.
