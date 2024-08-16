@@ -106,7 +106,7 @@ The Android Manifest file is a configuration file where you declare essential in
 <application
     android:supportsRtl="true"  <!-- Support for Right-To-Left languages -->
     android:configChanges="locale|layoutDirection">  <!-- Handle locale and layout direction changes -->
-</application>
+    </application>
 ```
 
 - **supportsRtl**: Enables your app to support Right-To-Left (RTL) languages like Arabic and Hebrew.
