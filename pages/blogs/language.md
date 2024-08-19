@@ -1,7 +1,8 @@
 # Comprehensive Guide to Language Changes in Kotlin for Android
 
-During my time at OLE, one of the main tasks I handled was supporting the different languages that myPlanet offers. At the time of this article we support English, Spanish, French, Somali, Nepali, and Arabic.
-This guide will help you understand how to manage language changes in Kotlin for Android. 
+During my time at OLE, one of my main tasks was supporting the languages myPlanet offers. At the time of this article, we support English, Spanish, French, Somali, Nepali, and Arabic.
+
+This guide will help you understand how to manage language changes in Kotlin for Android.
 Even if you're new to Kotlin or Android development, this guide will walk you through the concepts step by step, providing best practices, code examples, and detailed explanations.
 
 ---
@@ -11,18 +12,19 @@ Even if you're new to Kotlin or Android development, this guide will walk you th
 ### 1. Introduction to Locale and Language Changes
 
 #### What Is a Locale?
-In Android, a *Locale* refers to a specific geographical, political, or cultural region. It includes details like language and country codes that help format data such as numbers, dates, and strings.
+In Android, a *Locale* refers to a specific geographical, political, or cultural region. It includes language and country codes that help format data such as numbers, dates, and strings.
 
 - **Locale**: A `Locale` object represents a specific language and region (e.g., English in the United States, Spanish in Mexico). The system uses locales to format various data types and display content appropriately based on the user's preferences.
 
 #### Why Handle Language Changes?
 Many Android apps need to support multiple languages. Changing the language within an app involves setting a new `Locale` and updating the app’s configuration so that all UI elements display in the chosen language.
-Given OLE's mission to providing educational support globally, it's especially important that we support multiple languages and that those tralsnations are consistent and accurate. 
+
+Given OLE's mission to provide educational support globally, it's especially important that we support multiple languages and that those translations are consistent and accurate.
 
 ### 2. Implementing Language Changes in Kotlin
 
 #### a. Managing Locale with a Helper Class
-To manage language changes effectively, we have a centralized `LocaleHelper` class. This class encapsulates the logic required to update the `Locale` and refresh the app’s configuration.
+We have a centralized `LocaleHelper` class to manage language changes effectively. This class encapsulates the logic required to update the `Locale` and refresh the app’s configuration.
 
 ```kotlin
 import android.content.Context
@@ -115,6 +117,7 @@ The Android Manifest file is a configuration file where you declare essential in
 ```
 
 ```xml
+<provider>
       <meta-data
     android:name="android.support.LANGUAGE"
     android:value="en,fr,es,ne,so" /> <!-- Support for different languages inside AndroidManifest.xml -->
@@ -122,7 +125,7 @@ The Android Manifest file is a configuration file where you declare essential in
 ```
 
 - **supportsRtl**: Enables your app to support Right-To-Left (RTL) languages like Arabic and Hebrew.
-- **configChanges**: Including `locale` and `layoutDirection` prevents the activity from being recreated on language change, ensuring smooth transitions.
+- **configChanges**: Including `locale` and `layoutDirection` prevents the activity from being recreated when the language changes, ensuring smooth transitions.
 
 ### 5. Handling Third-Party Libraries and Locale Changes
 If your app uses third-party libraries, ensure they respect the app’s locale settings. Some libraries may cache configurations at startup, requiring re-initialization when the locale changes.
@@ -130,7 +133,7 @@ If your app uses third-party libraries, ensure they respect the app’s locale s
 ### 6. Best Practices for Language Handling
 
 - **Persisting Locale**: Store the user's language preference in persistent storage like `SharedPreferences` to ensure the language setting is retained even after the app restarts.
-- **Localization Resources**: Ensure all string resources are properly localized. Place them in `res/values-<language>` directories (e.g., `res/values-es` for Spanish).
+- **Localization Resources**: Ensure all string resources are correctly localized. Place them in `res/values-<language>` directories (e.g., `res/values-es` for Spanish).
 - **Testing**: Test your application in all supported languages, including RTL languages, to verify that all UI elements adapt correctly to language changes.
 
 ### 7. Example Project Structure
