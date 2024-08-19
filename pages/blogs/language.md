@@ -1,6 +1,8 @@
-# Comprehensive Guide to Language Changes and Error Handling in Kotlin for Android
+# Comprehensive Guide to Language Changes in Kotlin for Android
 
-This guide will help you understand how to manage language changes and handle error logs in Kotlin for Android. Even if you're new to Kotlin or Android development, this guide will walk you through the concepts step by step, providing best practices, code examples, and detailed explanations.
+During my time at OLE, one of the main tasks I handled was supporting the different languages that myPlanet offers. At the time of this article we support English, Spanish, French, Somali, Nepali, and Arabic.
+This guide will help you understand how to manage language changes in Kotlin for Android. 
+Even if you're new to Kotlin or Android development, this guide will walk you through the concepts step by step, providing best practices, code examples, and detailed explanations.
 
 ---
 
@@ -15,11 +17,12 @@ In Android, a *Locale* refers to a specific geographical, political, or cultural
 
 #### Why Handle Language Changes?
 Many Android apps need to support multiple languages. Changing the language within an app involves setting a new `Locale` and updating the app’s configuration so that all UI elements display in the chosen language.
+Given OLE's mission to providing educational support globally, it's especially important that we support multiple languages and that those tralsnations are consistent and accurate. 
 
 ### 2. Implementing Language Changes in Kotlin
 
 #### a. Managing Locale with a Helper Class
-To manage language changes effectively, create a centralized `LocaleHelper` class. This class encapsulates the logic required to update the `Locale` and refresh the app’s configuration.
+To manage language changes effectively, we have a centralized `LocaleHelper` class. This class encapsulates the logic required to update the `Locale` and refresh the app’s configuration.
 
 ```kotlin
 import android.content.Context
@@ -50,7 +53,7 @@ object LocaleHelper {
 ```
 
 #### b. Applying Locale in the Application Class
-To ensure the selected locale is consistently applied throughout your app, update the locale in the `Application` class, which serves as the entry point for your application.
+To ensure the selected locale is consistently applied throughout your app, update the locale in the `Application` or `MainApplication` class, which serves as the entry point for your application.
 
 ```kotlin
 import android.app.Application
@@ -61,6 +64,7 @@ class MyApp : Application() {
     // Override attachBaseContext to apply the locale when the app starts
     override fun attachBaseContext(base: Context?) {
         super.attachBaseContext(base?.let { LocaleHelper.setLocale(it, "en") }) // Default language is English
+        //super.attachBaseContext(base?.let { LocaleHelper.setLocale(it, "ar") }) //Example for changing to Arabic
     }
 }
 ```
@@ -81,6 +85,7 @@ fun changeLanguage(context: Context, language: String) {
     context.startActivity(intent)
 }
 ```
+
 
 ### 3. Managing Context and Configuration Updates
 When changing the locale, it’s crucial to update the app’s `Context` and `Configuration` to reflect the new language settings.
@@ -107,6 +112,13 @@ The Android Manifest file is a configuration file where you declare essential in
     android:supportsRtl="true"  <!-- Support for Right-To-Left languages -->
     android:configChanges="locale|layoutDirection">  <!-- Handle locale and layout direction changes -->
     </application>
+```
+
+```xml
+      <meta-data
+    android:name="android.support.LANGUAGE"
+    android:value="en,fr,es,ne,so" /> <!-- Support for different languages inside AndroidManifest.xml -->
+    </provider>
 ```
 
 - **supportsRtl**: Enables your app to support Right-To-Left (RTL) languages like Arabic and Hebrew.
