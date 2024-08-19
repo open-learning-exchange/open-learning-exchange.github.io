@@ -235,7 +235,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 - [Docker Overview](https://docs.docker.com/engine/docker-overview/)
 - [Docker Compose](https://docs.docker.com/compose/overview/)
 - [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
-- [Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
+- [Docker Installation](https://docs.docker.com/install/)
 
 #### *GitHub and Markdown*
 

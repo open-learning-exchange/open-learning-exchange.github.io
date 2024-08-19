@@ -74,7 +74,7 @@ Below are the steps to run a production Planet Community with Docker:
 
 3. Download the compose file while in the `/srv/planet` directory
 
-  - `wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-so.yml`
+  - `wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-prod.yml`
   - `mv planet-so.yml planet.yml`
   
 4. Build and run the containers:
@@ -82,6 +82,16 @@ Below are the steps to run a production Planet Community with Docker:
   - `docker compose -f planet.yml -p planet up -d --build`
 
 
+The services will be running in the following ports:
+Planet: 3100
+ChatAPI: 5050
+CouchDB: 2300
+
+You can manually confirm by visiting each of the following URLs in your browser and getting the default messages & Planet app:
+
+- Planet: [http://localhost:3100](http://localhost:3100)
+- CouchDB: [http://localhost:2300](http://localhost:2300)
+- ChatAPI: [http://localhost:5050](http://localhost:5050)
     
 WARNING: If you run into any errors, check out our troubleshooting tips [Troubleshooting Configuration tips](vi-configurations-docker.md#Troubleshooting) 
     
@@ -287,7 +297,7 @@ Commands:
 [Docker Overview](https://docs.docker.com/engine/docker-overview/)
 [Docker Compose](https://docs.docker.com/compose/overview/)
 [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
-[Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
+[Docker Installation](https://docs.docker.com/install/)
 
 ## Next Section _([Step 2.2](vi-configurations-docker.md))_ **→**
 
