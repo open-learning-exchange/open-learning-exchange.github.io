@@ -38,11 +38,11 @@ Deep Inspect takes the capabilities of the Layout Inspector to the next level by
 
 -   **Toggle Layout Inspector**: Activate the Layout Inspector from Android Studio while your app is running to see a real-time, interactive view of your UI. Clicking on any element in the Layout Inspector will highlight the corresponding code, allowing you to jump directly to the file and line of code responsible for that element. You can find more documentation on this tool [here](https://developer.android.com/develop/ui/compose/tooling/layout-inspector).
 
-![Android Studio toggle layout inspector](toggle_layout_inspect.png)
+![Android Studio toggle layout inspector](images/toggle_layout_inspect.png)
     
 -   **Toggle Deep Inspect**: Use the Deep Inspect feature within the Layout Inspector to gain deeper insights into complex views. This can guide you through the codebase, from high-level layout files down to the specific implementations of custom views or interactions.
 
-![Android Studio toggle deep inspector](toggle_deep_inspect.png)
+![Android Studio toggle deep inspector](images/toggle_deep_inspect.png)
     
 
 ### Why These Tools Are Essential for Navigating the Codebase
