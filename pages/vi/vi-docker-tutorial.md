@@ -1,4 +1,4 @@
-﻿# Docker Tutorial (Step 2)
+﻿# Docker Tutorial (Step 2.1)
 
 ## Objectives
 
@@ -32,65 +32,82 @@ Now, take a look at [the YAML file for planet](https://github.com/open-learning-
 - `planet` – our production optimized `planet` that's served via [Nginx](https://kinsta.com/knowledgebase/what-is-nginx/)
 - `couchdb` – a CouchDB container
 - `db-init` – CouchDB initialization data, it contains all the schema necessary for our `planet` to run.
+- `chatapi` - a chat server that integrates with various AI powered providers, enabling AI-powered conversational features.
 
-Below you'll find a few common `docker-compose` commands you would need throughout working with `planet` (the following examples assumes you are in planet repo's docker folder):
+Below you'll find a few common `docker compose` commands you would need throughout working with `planet` (the following examples assumes you are in planet repo's docker folder):
 
-- `docker-compose -f planet.yml -p planet up -d` – spawn your environment for the *first time*
+- `docker compose -f planet.yml -p planet up -d --build` – spawn your environment for the *first time*
   - `-f` – specify an alternate compose file (default: docker-compose.yml)
   - `-p` – specify a project name (default: directory name)
   - `up -d ` - create and start containers in the background
+  - `--build` - build images before starting containers
 
-- `docker-compose -f planet.yml -p planet logs -f` – follow the log output, press 'CTRL+C' to exit logs view
+- `docker compose -f planet.yml -p planet logs -f` – follow the log output, press 'CTRL+C' to exit logs view
 
-- `docker-compose -f planet.yml -p planet stop` – stop `planet` without removing it
+- `docker compose -f planet.yml -p planet stop` – stop `planet` without removing it
 
-- `docker-compose -f planet.yml -p planet start` – start `planet` again
+- `docker compose -f planet.yml -p planet start` – start `planet` again
 
-- `docker-compose -f planet.yml -p planet down` – stops containers and removes containers, networks, volumes, and images created
+- `docker compose -f planet.yml -p planet down -v` – stops containers and removes containers, networks, volumes, and images created
 
 ## Docker & Planet
 
-In the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md) when you ran `vagrant up prod` Docker is set up to run Planet automatically. Below are the steps to install Planet manually, which can also be used to upgrade to the latest version of Planet.
+Below are the steps to run a production Planet Community with Docker:
 
-1. Go to your OLE project folder, and use `cd planet` to enter into the `planet` directory. This is the repository you cloned in the [previous step]( http://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md)
-
-2. Use `vagrant ssh prod` to connect to your virtual machine
-
-3. Then enter into the docker folder with `cd /vagrant/docker`.
-
-4. Pull the latest `planet` and its db-init Docker image
+1. Pull the latest `planet`, `db-init` and `chatapi` Docker images
 
   - `docker pull treehouses/planet:latest`
   - `docker pull treehouses/planet:db-init`
+  - `docker pull treehouses/planet:chatapi`
 
   - `docker tag treehouses/planet:latest treehouses/planet:local`
   - `docker tag treehouses/planet:db-init treehouses/planet:db-init-local`
+  - `docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local`
   
-5. Run the *following command* to spawn your environment for the **first time**:
+<!-- Need to resolve for macs and windows -->
+2. Create a srv directory for the planet data & configure the necessary environment variables
+
+  - `mkdir srv`
+  - `cd /srv/planet`
+  - `echo "OPENAI_API_KEY=APIKEYHERE" > .chat.env`
+  - `echo "PERPLEXITY_API_KEY=APIKEYHERE" >> .chat.env`
+
+3. Download the compose file while in the `/srv/planet` directory
+
+  - `wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-so.yml`
+  - `mv planet-so.yml planet.yml`
+  
+4. Build and run the containers:
+
+  - `docker compose -f planet.yml -p planet up -d --build`
+
 
     
-WARNING: If you followed Step1 and configured Planet, you should not run `docker-compose -f planet.yml -p planet up -d`. It might destroy your configuration. `docker-compose -f planet.yml -p planet up -d` runs automatically when you fire `vagrant up prod`. If you are in this situation, look at the ** [Second and third element of Troubleshooting in this page]( https://open-learning-exchange.github.io/#!./pages/vi/vi-configurations-vagrant.md#Troubleshooting)** 
+WARNING: If you run into any errors, check out our troubleshooting tips [Troubleshooting Configuration tips](vi-configurations-docker.md#Troubleshooting) 
     
-    If this is your **first** time spawning the environment, run:
-   
-  `docker-compose -f planet.yml -p planet up -d`
 
-
-1. See if the docker containers are running: `docker ps -a`. You'll see your running container similar to this
+1. See if the docker containers are running: `docker ps`. You'll see your running container similar to this(Should be 3 running containers):
 
     ```
-    CONTAINER ID        IMAGE                       COMMAND                  CREATED             STATUS                      PORTS                                        NAMES
-    6ad5d3f2ba2b        treehouses/planet:latest    "/bin/sh -c 'sh ./do…"   38 seconds ago      Up 46 seconds               0.0.0.0:80->80/tcp                           planet_planet_1
-    e78eb9287454        treehouses/planet:db-init   "/bin/sh -c 'bash ./…"   38 seconds ago      Exited (0) 34 seconds ago                                                planet_db-init_1
-    3c2309e92dc6        treehouses/couchdb:2.1.1    "tini -- /docker-ent…"   39 seconds ago      Up 48 seconds               4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp   planet_couchdb_1
+    CONTAINER ID   IMAGE                      COMMAND                  CREATED        STATUS         PORTS                                                           NAMES
+    2ab6795fa265   b1cbaec9fa59               "/bin/sh -c ./docker…"   4 months ago   Up 7 seconds   0.0.0.0:80->80/tcp, :::80->80/tcp, 443/tcp                      planet-prod-planet-1
+    2309585f6591   b7da77c1dfca               "npm run start"          4 months ago   Up 7 seconds   0.0.0.0:5000->5000/tcp, :::5000->5000/tcp                       planet-prod-chatapi-1
+    f7ddb76ae6b6   treehouses/couchdb:2.3.1   "tini -- /docker-ent…"   5 months ago   Up 8 seconds   4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp, :::2200->5984/tcp   planet-prod-couchdb-1
     ```
 
-1. See log in action with `docker-compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
+2. See all the  docker containers: `docker ps -a`. You'll see 3 running container and 1 exited container(db-init):
+    ```
+    71441e7960df   0b238dafa5e6                                          "/bin/sh -c 'bash ./…"   4 months ago   Exited (0) 9 minutes ago                                                                   planet-prod-db-init-1
+    2ab6795fa265   b1cbaec9fa59                                          "/bin/sh -c ./docker…"   4 months ago   Up 9 minutes               0.0.0.0:80->80/tcp, :::80->80/tcp, 443/tcp                      planet-prod-planet-1
+    2309585f6591   b7da77c1dfca                                          "npm run start"          4 months ago   Up 9 minutes               0.0.0.0:5000->5000/tcp, :::5000->5000/tcp                       planet-prod-chatapi-1
+    ca1c3677de82   treehouses/couchdb:2.3.1                              "tini -- /docker-ent…"   5 months ago   Exited (0) 9 minutes ago                                                                   planet-couchdb-1
+    f7ddb76ae6b6   treehouses/couchdb:2.3.1                              "tini -- /docker-ent…"   5 months ago   Up 9 minutes               4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp, :::2200->5984/tcp   planet-prod-couchdb-1
+    ```
+
+3. See log in action with `docker compose -f planet.yml -p planet logs -f`, press 'CTRL+C' to exit logs view
 
 
 ## More about Docker and Docker Compose
-
-We install and run Docker and Docker Compose from the Vagrant virtual machine because it is quicker to get everyone up and running and easier to troubleshoot as issues come up. Docker can also be installed directly on your machine. If you are curious about how to install Docker you can [read our guide](vi-docker-installation.md). We do **not recommend** running Planet this way because we may **not be able to help** if there are issues.
 
 We suggest you to look at [Docker CLI's reference](https://docs.docker.com/engine/reference/commandline/cli/) and [docker-compose CLI's reference](https://docs.docker.com/compose/reference/overview/) to find out more about their commands and usage.
 
@@ -272,8 +289,8 @@ Commands:
 [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
 [Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
 
-## Next Section _([Step 3](vi-github-and-markdown.md))_ **→**
+## Next Section _([Step 2.2](vi-configurations-docker.md))_ **→**
 
-Markdown is a lightweight markup language with plain text formatting syntax. In the next section, you will learn Markdown to create a profile page, and learn how to create a pull request.
+Follow the steps to configure your local production community, sync with nation and get your community approved.
 
 #### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
