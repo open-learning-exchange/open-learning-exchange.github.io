@@ -6,11 +6,11 @@ To create an account or become a member, follow these steps:
 
 **1. Click on the "Become a Member" button.**
 
-   ![Become Member](images/sign-in-page.jpg)
+   ![Become Member](images/signin-initial-page.jpg)
    
 **2. A form will pop up for you to enter the following details:**
 
-   ![Member Details](images/member-details-page.jpg)
+   ![Member Details](images/signin-member-details-page.jpg)
 
    After entering all the required information, your user account will be created.
 
@@ -24,11 +24,11 @@ To sign in using an existing member account, follow these steps:
    - After entering your credentials, you will be signed in to the app.
    - Ensure you enter the correct username and password to access your account.
 
-   ![Recently Logged In](images/recently-logged-in-page.jpg)
+   ![Recently Logged In](images/signin-recently-logged-in-page.jpg)
 
 **2. Tap on your user:**
    - If your user is displayed in the list of recent users, tapping on it will sign you in automatically.
 
-   ![Sign in](images/existing-users-page.jpg)
+   ![Sign in](images/signin-existing-users-page.jpg)
 
    **NOTE**: If no recent users are displayed, sign in with your username and password.
