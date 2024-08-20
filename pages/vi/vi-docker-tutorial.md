@@ -30,15 +30,6 @@ Now, take a look at [the YAML file for planet](https://github.com/open-learning-
 - `db-init` – CouchDB initialization data, it contains all the schema necessary for our `planet` to run
 - `chatapi` – a node proxy service for LLM APIs, used in planet's AI Chat
 
-## Install Docker
-
-### Windows / macOS
-The easiest way to install Docker on Windows / macOS is by downloading Docker Desktop. Visit [docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop/) to download the appropriate version for your operating system. After installation, launch the Docker Desktop app.
-
-### Linux
-
-Go to https://docs.docker.com/engine/install/#supported-platforms and select your Operating System under Platform column, follow the "Prerequisites" section, then follow "Installation methods - Install using the xxx repository".
-
 ## Run Planet with Docker
 
 Now that Docker is installed, run `docker` in your terminal or command prompt. If it's installed correctly, you'll see the help message without any errors. Once confirmed, follow the directions below to spin up Planet on your OS.

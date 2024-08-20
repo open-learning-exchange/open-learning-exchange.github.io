@@ -12,7 +12,7 @@ During this internship, you will have the opportunity to work with various softw
 
 ## The Steps
 
-Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Vagrant, Docker, Git, GitHub, GitHub issues, GitHub pull requests, etc. You'll also be introduced to OLE's learning management system (LMS) – [Planet](https://github.com/open-learning-exchange/planet).
+Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Docker, Git, GitHub, GitHub issues, GitHub pull requests, etc. You'll also be introduced to OLE's learning management system (LMS) – [Planet](https://github.com/open-learning-exchange/planet).
 
 **These steps may seem simple, but we expect high-quality work, which might require extra time. We want to see that you can use, or learn to use, these tools effectively — including writing clear GitHub issues, using basic Git commands, creating proper pull requests, navigating Planet, etc. Just passively following the steps is the bare minimum; instead, aim to impress us with excellent GitHub etiquette and well-structured Markdown.**
 
@@ -32,7 +32,7 @@ While there's no official deadline for completing these steps, most successful c
 
 If you have general internship inquiries and can't find the information you need on the FAQ page, please don't hesitate to reach out to us via Discord. Try to avoid DMs as others might have the same question!
 
-For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google and Stack Exchange serve as excellent supplementary resources to explore. :)
+For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google, Stack Exchange, and ChatGPT serve as excellent supplementary resources to explore. :)
 
 ## Step 0 - Introductory Steps
 
@@ -53,7 +53,11 @@ This step includes two tasks:
    - Create a Crowdin account and aim to translate 10% of the words in your chosen language.
    - Refer to the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of the functionality and terminology. Your contributions will help us and enhance your understanding of Planet.
 
-## Step 1 - Planet and Docker
+## Step 1 - Prerequisites
+
+Setting up your local development environment is the first step to becoming a Virtual Intern. Follow the instructions on the [Development Environment Setup](vi-prerequisites.md) to install the necessary tools and software. This will prepare you to successfully run both production and development versions of the planet later on.
+
+## Step 2 - Planet and Docker
 
 This step includes two tasks:
 
@@ -65,6 +69,10 @@ This step includes two tasks:
 2. **Planet Configurations:**
    - Refer to the [Planet Configurations page](vi-planet-configurations.md).
    - Learn how to configure your Community Planet.
+
+<!-- 3. [Development Planet Installation](vi-planet-development-setup.md)
+   After setting up the local production environment in the previous step, you will now set up the development environment. Follow the instructions on the [Planet Development Setup page](vi-planet-development-setup.md). Here you interact with docker, git, angular, node.js and the planet application to set up the development environment.
+   You will be required to run a new community planet configuration with a slightly different name(github username + dev) and take a screenshot of the new configuration page and post it to the [Discord server](https://discord.gg/mtgGD4EnYW). -->
 
 ## Step 3 - Markdown and Fork Tutorial
 

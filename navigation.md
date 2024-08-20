@@ -25,7 +25,8 @@
   * [FAQ](pages/vi/vi-faq.md)
   - - - -
   * [Step 0 - Introductory Steps](pages/vi/vi-first-steps.md#Step_0_-_Introductory_Steps)
-  * [Step 1 - Planet and Vagrant](pages/vi/vi-first-steps.md#Step_1_-_Planet_and_Vagrant)
+  * [Step 1 - Prerequisites](pages/vi/vi-prerequisites.md)
+  * [Step 2 - Planet and Docker](pages/vi/vi-first-steps.md#Step_1_-_Planet_and_Vagrant)
   * [&nbsp; &nbsp; Docker Tutorial](pages/vi/vi-docker-tutorial.md)
   * [&nbsp; &nbsp; Planet Configurations](pages/vi/vi-planet-configurations.md)
   * [Step 3 - Markdown and Fork Tutorial](pages/vi/vi-github-and-markdown.md)
