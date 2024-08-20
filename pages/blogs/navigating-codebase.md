@@ -10,7 +10,7 @@ As you embark on your journey with OLE, one of the first challenges you'll face 
 
 The Layout Inspector in Android Studio is more than just a debugging tool—it's a powerful ally in understanding and navigating your app's codebase. By providing a visual representation of your UI's hierarchy, it helps bridge the gap between the code and what you see on the screen, making it easier to find and modify the relevant parts of your codebase.
 
-![Android Studio toggle layout inspector](images/toggle_layout_inspect.png)
+![Android Studio toggle layout inspector](images/20240820-toggle_layout_inspect.png)
 
 ### Benefits of the Layout Inspector for Codebase Navigation
 
@@ -27,7 +27,7 @@ The Layout Inspector in Android Studio is more than just a debugging tool—it's
 
 Deep Inspect takes the capabilities of the Layout Inspector to the next level by allowing you to dig deeper into how each view is constructed and rendered. This is particularly useful when you need to understand the underlying code that affects the appearance and behavior of your UI.
 
-![Android Studio toggle deep inspector](images/toggle_deep_inspect.png)
+![Android Studio toggle deep inspector](images/20240820-toggle_deep_inspect.png)
 
 #### Benefits of Deep Inspect for Codebase Navigation
 
@@ -55,7 +55,7 @@ The Layout Inspector and Deep Inspect tools are invaluable for developers who ne
 
 While the Layout Inspector and Deep Inspect tools are incredibly useful for understanding the UI and its associated code, there are times when you need to search for specific code elements or strings across the entire codebase. This is where Android Studio’s **"Find in Files…"** feature becomes indispensable.
 
-![Android Studio find in files](images/find_in_files.png)
+![Android Studio find in files](images/20240820-find_in_files.png)
 
 #### Benefits of Using "Find in Files..."
 
