@@ -1,5 +1,7 @@
 # Handling and Reading Error Logs in Kotlin for Android
 
+Another important issue I dealt with during my time at OLE was resolving crashes as a result of changes to the code. Exceptions such as NullPointerException, InflateException, IllegalArgumentException and so on can cause ANRs (Application Not Responding) or crashes. To resolve these, a common way to diagnose is to look through the error logs.
+
 Error logs are essential for diagnosing issues in your application. They provide detailed information about what went wrong, helping you pinpoint and fix problems. This section will guide you through understanding and resolving common errors in Kotlin for Android.
 
 ---
@@ -138,6 +140,7 @@ E/AndroidRuntime: FATAL EXCEPTION: main
         at com.example.app.MainActivity.onCreate(MainActivity.kt:15)
         ...
 ```
+
 ### Key Components of an Error Log
 - **Error Type:** The error type (e.g., `NullPointerException`) indicates the kind of issue that caused the crash.
 - **Location:** The file and line number (e.g., `MainActivity.kt:15`) show where the error occurred in your code.
