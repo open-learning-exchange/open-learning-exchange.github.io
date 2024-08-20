@@ -30,7 +30,7 @@ Click the settings gear icon in the upper-right corner to open the settings dial
 
 ## Sign In / Become a Member
 
-After installing the **myPlanet App**, the first screen you will see is the login page. To begin your learning journey, you must have a member account. Learn more about becoming a member and sign in on the [myPlanet Sign In](myPlanetMember.md) page.
+After installing the **myPlanet App**, the first screen you will see is the login page. To begin your learning journey, you must have a member account. Learn more about becoming a member and sign in on the [myPlanet Sign In](myPlanet-member.md) page.
 
 ## Library
 
