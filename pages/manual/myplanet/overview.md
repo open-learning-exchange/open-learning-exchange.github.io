@@ -59,7 +59,7 @@ Click the settings gear icon in the upper-right corner to open the settings dial
 
 
 ## Feedback
-In myplanet, you will be able to give feedback on the app, courses, and more. Click [here](feedback.md) to learn more about Feedback.
+In myplanet, you will be able to give feedback on the app, courses, and more. Click [here](myPlanet-feedback.md) to learn more about Feedback.
 
 ## Manager
 
