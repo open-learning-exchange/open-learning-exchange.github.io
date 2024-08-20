@@ -1,4 +1,4 @@
-﻿# Docker Tutorial (Step 1.1)
+﻿# Docker Tutorial (Step 2.1)
 
 ## Objectives
 
@@ -28,17 +28,17 @@ Now, take a look at [the YAML file for planet](https://github.com/open-learning-
 - `planet` – our production optimized `planet` that's served via [Nginx](https://kinsta.com/knowledgebase/what-is-nginx/)
 - `couchdb` – a CouchDB container
 - `db-init` – CouchDB initialization data, it contains all the schema necessary for our `planet` to run
-- `chatapi` – a node proxy service for LLM APIs, used in planet's AI Chat
+- `chatapi` – a chat server that integrates with various AI-powered providers to enable AI-driven conversational features.
 
-## Run Planet with Docker
+## Check Docker Installation
 
-Now that Docker is installed, run `docker` in your terminal or command prompt. If it's installed correctly, you'll see the help message without any errors. Once confirmed, follow the directions below to spin up Planet on your OS.
+You installed Docker in the previous step. Now, run `docker` in your terminal or command prompt. If it's installed correctly, you'll see the help message without any errors. Once confirmed, follow the directions below to spin up Planet on your OS.
 
-### Windows
+## Windows - Run Planet Community with Docker
 
 TO BE FILLED
 
-### macOS
+## macOS - Run Planet Community with Docker
 
 ```sh
 # pull the latest tags for the planet, db-init, and chatapi Docker images
@@ -51,7 +51,7 @@ docker tag treehouses/planet:latest treehouses/planet:local
 docker tag treehouses/planet:db-init treehouses/planet:db-init-local
 docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 
-# create a dedicated directory "~/planet" for mapping Docker container volumes later
+# create a dedicated directory for mapping Docker container volumes and configuring environment variables
 mkdir -p ~/planet
 cd ~/planet
 
@@ -59,10 +59,10 @@ echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
 echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 
 # download docker compose yml file
-curl https://gist.githubusercontent.com/xyb994/da04da73f903757d71d8a56780edcfcc/raw/85403b7d7461d47ddbaad3b118bb562d01f05f3a/planet-so-mac.yml -o planet.yml
+curl https://gist.githubusercontent.com/xyb994/da04da73f903757d71d8a56780edcfcc/raw/planet-so-mac.yml -o planet.yml
 
 # starts the containers in the background with compose configuration file planet.yml and leaves them running
-docker compose -f planet.yml -p planet up -d
+docker compose -f planet.yml -p planet up -d --build
 
 # see if the docker containers are running
 # ensure it says "Up" in STATUS column with the exception of db-init, which may finished running and exited already
@@ -74,7 +74,7 @@ docker compose -f planet.yml -p planet logs -f
 
 Now, head to [http://localhost](http://localhost) or [http://127.0.0.1](http://127.0.0.1) to check if the planet configuration screen appears. **Please do not configure the planet yet, as we will do this in the next step.**
 
-### Linux
+## Linux - Run Planet Community with Docker
 
 ```sh
 # pull the latest tags for the planet, db-init, and chatapi Docker images
@@ -87,7 +87,7 @@ docker tag treehouses/planet:latest treehouses/planet:local
 docker tag treehouses/planet:db-init treehouses/planet:db-init-local
 docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 
-# create a dedicated directory "~/planet" for mapping Docker container volumes later
+# create a dedicated directory for mapping Docker container volumes and configuring environment variables
 sudo mkdir /srv/planet
 cd /srv/planet
 
@@ -95,11 +95,11 @@ echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
 echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 
 # download docker compose yml file and rename it
-wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-so.yml
-mv planet-so.yml planet.yml
+wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-prod.yml
+mv planet-prod.yml planet.yml
 
 # starts the containers in the background with compose configuration file planet.yml and leaves them running
-docker compose -f planet.yml -p planet up -d
+docker compose -f planet.yml -p planet up -d --build
 
 # see if the docker containers are running
 # ensure it says "Up" in STATUS column with the exception of db-init, which may finished running and exited already
@@ -110,6 +110,20 @@ docker compose -f planet.yml -p planet logs -f
 ```
 
 Now, head to [http://localhost](http://localhost) or [http://127.0.0.1](http://127.0.0.1) to check if the planet configuration screen appears. **Please do not configure the planet yet, as we will do this in the next step.**
+
+## Services and Ports
+
+The services will be running on the following ports:
+
+- Planet: 3100
+- ChatAPI: 5050
+- CouchDB: 2300
+
+You can manually verify that each service is running by visiting the following URLs in your browser and checking for the default messages or the Planet app:
+
+- Planet: [http://localhost:3100](http://localhost:3100)
+- CouchDB: [http://localhost:2300](http://localhost:2300)
+- ChatAPI: [http://localhost:5050](http://localhost:5050)
 
 ## More about Docker and Docker Compose Commands
 
@@ -122,14 +136,15 @@ Here are a few common Docker CLI commands you might need when working with `plan
 
 Here are some common Docker Compose commands you might need when working with `planet`. The following examples assume you are in the planet repository's docker folder:
 
-- `docker compose -f planet.yml -p planet up -d` – Spawn your environment for the *first time*.
+- `docker compose -f planet.yml -p planet up -d --build` – Spawn your environment for the *first time*.
   - `-f` – Specify an alternate compose file (default: docker-compose.yml).
   - `-p` – Specify a project name (default: directory name).
   - `up -d` – Create and start containers in the background.
+  - `--build` – Build images before starting containers
 - `docker compose -f planet.yml -p planet logs -f` – Follow the log output. Press 'CTRL+C' to exit logs view.
 - `docker compose -f planet.yml -p planet stop` – Stop `planet` without removing it.
 - `docker compose -f planet.yml -p planet start` – Start `planet` again.
-- `docker compose -f planet.yml -p planet down` – Stop containers and remove containers, networks, volumes, and images created.
+- `docker compose -f planet.yml -p planet down -v` – Stop containers and remove containers, networks, volumes, and images created.
 
 We suggest referring to the [Docker CLI reference](https://docs.docker.com/engine/reference/commandline/cli/) and the [Docker Compose CLI reference](https://docs.docker.com/compose/reference/) to learn more about their commands and usage.
 
@@ -137,13 +152,14 @@ You can also use `docker --help` and `docker compose --help` to see brief usage 
 
 ## Useful Links
 
-[What is a Container? | Docker](https://www.docker.com/resources/what-container/)
-[Docker Overview | Docker DOcs](https://docs.docker.com/guides/docker-overview/)
-[Docker Compose overview | Docker Docs](https://docs.docker.com/compose/)
-[Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
+- [What is a Container? | Docker](https://www.docker.com/resources/what-container/)
+- [Docker Overview | Docker DOcs](https://docs.docker.com/guides/docker-overview/)
+- [Docker Compose overview | Docker Docs](https://docs.docker.com/compose/)
+- [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
+- [Docker Installation](https://docs.docker.com/install/)
 
-## Next Section _([Step 3](vi-github-and-markdown.md))_ **→**
+## Next Section _([Step 2.2](vi-planet-configurations.md)_ **→**
 
-Markdown is a lightweight markup language with plain text formatting syntax. In the next section, you will learn Markdown to create a profile page, and learn how to create a pull request on github.com.
+Follow the steps to configure your local production community, sync with nation and get your community approved.
 
 #### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Docker)
