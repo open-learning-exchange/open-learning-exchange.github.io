@@ -1,41 +1,41 @@
 # Feedback
 
-
 ## Feedback on myPlanet
 
-Feedback section is added so that our users can share there thoughts on a course, library or feature. Here at Open Learning we value feedback of the community.
+We’ve added a feedback section to allow our users to share their thoughts on courses, the library, or features. At Open Learning Exchange, we highly value community feedback.
 
- Users are encouraged to leave feedback or suggestions on any app content as well as feature. To leave a feedback, you may find it on the top right section of the android application. Users may click it to view feedback left by other users.
+Users are encouraged to leave feedback or suggestions on any app content or feature. To provide feedback, locate the option in the top-right section of the Android application. Users can click it to view feedback left by others.
 
-![Feedback](images/feedback-location.jpg)
+![Feedback icon location](images/feedback-location.jpg)
 
 ## Feedback List
-Below image showcases the list of feedback left by our users. Feedbacks are displayed by their priority and status.  Additionally users can add their responses to other users feedbacks.
 
-![Feedback Location](images/feedback-list.jpg)
+The image below displays the list of feedback submitted by our users. Feedback is organized by priority and status. Additionally, users can respond to feedback left by others.
+
+![Feedback list](images/feedback-list.jpg)
 
 ## Creating a new Feedback
-In order to create a feedback, click on the new bright red "Plus" button on the bottom right. 
 
-![Feedback Location](images/feedback-new.jpg)
+To create new feedback, click the bright red “Plus” button at the bottom right.
+
+![New feedback creation](images/feedback-new.jpg)
 
 Upon creating a new feedback - 
 1. Set Priority:
-  Users can set priority by assigning it as urgent.
+  Users can mark the feedback as urgent by setting its priority.
 
 2. Feedback Type:
-  Users can categorize their feedbacks into 3 categories namely; `Question`, `Bug`, `Suggestion`
+  Users can categorize their feedback into one of three categories: Question, Bug, or Suggestion.
 
 3. Feedback comment:
-  Users can enter their feedback on the textbox displayed in the above image to post their feedback.
+  Users can enter their feedback in the textbox shown in the image above.
 
-Finally, click on submit and your feedback has been submitted.
-
-
+Finally, click “Submit” to post your feedback.
 
 ## Resolving / Replying to a Feedback
-Users can interact with existing feedbacks posted by the community to share their knowledge.
 
-![Feedback Location](images/feedback-reply.jpg)
+Users can interact with existing feedback posted by the community to share their knowledge.
 
-You can enter your feedback and click on reply to leave a reply or close the feedback if the content has been addressed.
+![Feedback response](images/feedback-reply.jpg)
+
+To respond, enter your feedback and click “Reply.” You can also close the feedback if the issue has been addressed.
