@@ -73,7 +73,7 @@ Meetups is where you can coordinate meetups by creating them, joining them and m
 News is where you can view any posts made by any users. Click [here](news.md) to learn more about News.
 
 ## Achievement
-The Library is home to the community's collection of media and other resources. Click [here](achievement.md) to learn more about Achievements.
+The Achievement is where you can add your achivements. Click [here](achievement.md) to learn more about Achievements.
 
 ## Feedback
 Throughout planet, you will be able to give feedback on planet, courses, and more. Click [here](feedback.md) to learn more about Feedback.
