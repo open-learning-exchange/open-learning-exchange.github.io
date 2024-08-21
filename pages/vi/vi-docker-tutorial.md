@@ -30,9 +30,19 @@ Now, take a look at [the YAML file for planet](https://github.com/open-learning-
 - `db-init` – CouchDB initialization data, it contains all the schema necessary for our `planet` to run
 - `chatapi` – a chat server that integrates with various AI-powered providers to enable AI-driven conversational features.
 
-## Check Docker Installation
+## Check Your Docker Installation
 
-You installed Docker in the previous step. Now, run `docker` in your terminal or command prompt. If it's installed correctly, you'll see the help message without any errors. Once confirmed, follow the directions below to spin up Planet on your OS.
+You installed Docker in the previous step. Now, run `docker` in your terminal or command prompt. If it's installed correctly, you'll see the help message without any errors:
+
+```
+Usage:  docker [OPTIONS] COMMAND
+
+A self-sufficient runtime for containers
+
+Common Commands:
+```
+
+Once confirmed, follow the directions below to spin up Planet on your OS.
 
 ## Windows - Run Planet Community with Docker
 
@@ -72,8 +82,6 @@ docker container ls -a
 docker compose -f planet.yml -p planet logs -f
 ```
 
-Now, head to [http://localhost](http://localhost) or [http://127.0.0.1](http://127.0.0.1) to check if the planet configuration screen appears. **Please do not configure the planet yet, as we will do this in the next step.**
-
 ## Linux - Run Planet Community with Docker
 
 ```sh
@@ -94,7 +102,7 @@ cd /srv/planet
 echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
 echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 
-# download docker compose yml file and rename it
+# download production docker compose yml file and rename it
 wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-prod.yml
 mv planet-prod.yml planet.yml
 
@@ -109,21 +117,21 @@ docker container ls -a
 docker compose -f planet.yml -p planet logs -f
 ```
 
-Now, head to [http://localhost](http://localhost) or [http://127.0.0.1](http://127.0.0.1) to check if the planet configuration screen appears. **Please do not configure the planet yet, as we will do this in the next step.**
-
 ## Services and Ports
 
-The services will be running on the following ports:
+Visit [http://localhost:3100](http://localhost:3100) or [http://127.0.0.1:3100](http://127.0.0.1:3100) to check if the planet configuration screen appears. **Please do not configure the planet yet; we'll handle that in the next step.**
 
-- Planet: 3100
-- ChatAPI: 5050
-- CouchDB: 2300
+The services will be accessible on the following ports:
 
-You can manually verify that each service is running by visiting the following URLs in your browser and checking for the default messages or the Planet app:
+- **Planet:** 3100
+- **ChatAPI:** 5050
+- **CouchDB:** 2300
 
-- Planet: [http://localhost:3100](http://localhost:3100)
-- CouchDB: [http://localhost:2300](http://localhost:2300)
-- ChatAPI: [http://localhost:5050](http://localhost:5050)
+You can manually verify that each service is running by visiting these URLs in your browser and checking for the default messages or the Planet app:
+
+- **Planet:** [http://localhost:3100](http://localhost:3100)
+- **CouchDB:** [http://localhost:2300](http://localhost:2300)
+- **ChatAPI:** [http://localhost:5050](http://localhost:5050)
 
 ## More about Docker and Docker Compose Commands
 
