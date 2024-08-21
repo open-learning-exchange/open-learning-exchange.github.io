@@ -32,12 +32,15 @@ RoboScripts are automated scripts designed to perform repetitive tasks within An
     
     - In Android Studio, navigate to `Tools` and select `Firebase`. 
     - Expand the `Test Lab` dropdown and select `Record Robo Script...`
+
     ![Android Studio Record Robo Script](images/20240820-record_robo_script.png)
+
     - For `myPlanet` app you want to create a basic script that is able to log into the app. Any further actions will result in the test failing.
 
 2. **Download APK**:
 	- Navigate to `Build`, select `Build App Bundle(s) / APK(s)`, select `Build APK(s)`
 	- An alert will popup when the build is finished. Select `locate` in the alert to bring up the file location of the APK.
+
     ![Android Studio APK alert](images/20240820-apk_alert.png)
 
 ## Running Robo Scripts
@@ -45,11 +48,14 @@ RoboScripts are automated scripts designed to perform repetitive tasks within An
 1. **Navigate to Test Lab**:
 	- Select the project you created earlier.
 	- Expand the `Run` tab in the left toolbar and select `Test Lab`.
+
     ![Firebase Toolbar](images/20240820-firebase_toolbar.png)
 
 2. **Run a new test**:
 	- Click on `Run a Test` and select `Robo` from the dropdown list.
+
     ![Firebase Run Test](images/20240820-run_a_test.png)
+
 	- Upload the APK and robo script you created earlier and select continue.
 	- Select `Customize` and choose what devices you would like to run the test with. Keep in mind Firebase has a daily quota of 5 physical and 10 virtual device test executions per account.
 	- Finally, you can select `Start` to begin the test(s).
@@ -57,4 +63,5 @@ RoboScripts are automated scripts designed to perform repetitive tasks within An
 3. **Reviewing Robo Script Tests**:
 	- Navigate back to the `Test Lab` page and select the test result you want to view
 	- From here you can view test issues, logs, video recording/screenshots of the test, accessibilitiy issues, and more.
+
     ![Firebase Robo Test Results](images/20240820-robo_test_results.png)
