@@ -45,11 +45,11 @@ Go to [**Install Docker Engine | Docker Docs**](https://docs.docker.com/engine/i
 
 To install Node.js v14, visit [**Node.js — Download Node.js**](https://nodejs.org/en/download/package-manager):
 
-1. In the first dropdown, select a version starting with v14.
+1. In the first dropdown, select version `v14.*.*`
 2. In the second dropdown, select your operating system.
 3. In the third dropdown:
    - For macOS/Linux, select `nvm`.
-   - For Windows, select `fnm` or `Chocolatey`.
+   - For Windows, select `fnm` or `Chocolatey` (if you have Chocolatey already).
 4. Follow the instruction to install node.js v14 onto your system
 
 ## Angular CLI
