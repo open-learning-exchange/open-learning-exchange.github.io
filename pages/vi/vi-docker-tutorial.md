@@ -50,7 +50,7 @@ TO BE FILLED
 
 ## macOS - Run Planet Community with Docker
 
-```sh
+```bash
 # pull the latest tags for the planet, db-init, and chatapi Docker images
 docker pull treehouses/planet:latest
 docker pull treehouses/planet:db-init
@@ -61,7 +61,8 @@ docker tag treehouses/planet:latest treehouses/planet:local
 docker tag treehouses/planet:db-init treehouses/planet:db-init-local
 docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 
-# create a dedicated directory for mapping Docker container volumes and configuring environment variables
+# create a dedicated directory
+# for mapping Docker container volumes and configuring environment variables
 mkdir -p ~/planet
 cd ~/planet
 
@@ -71,11 +72,13 @@ echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 # download docker compose yml file
 curl https://gist.githubusercontent.com/xyb994/da04da73f903757d71d8a56780edcfcc/raw/planet-so-mac.yml -o planet.yml
 
-# starts the containers in the background with compose configuration file planet.yml and leaves them running
+# starts the containers in the background
+# with compose configuration file planet.yml and leaves them running
 docker compose -f planet.yml -p planet up -d --build
 
 # see if the docker containers are running
-# ensure it says "Up" in STATUS column with the exception of db-init, which may finished running and exited already
+# ensure it says "Up" in STATUS column
+# with the exception of db-init, which may finished running and exited already
 docker container ls -a
 
 # follow the log in action, press 'control+c' to exit the logs view
@@ -84,7 +87,7 @@ docker compose -f planet.yml -p planet logs -f
 
 ## Linux - Run Planet Community with Docker
 
-```sh
+```bash
 # pull the latest tags for the planet, db-init, and chatapi Docker images
 docker pull treehouses/planet:latest
 docker pull treehouses/planet:db-init
@@ -95,7 +98,8 @@ docker tag treehouses/planet:latest treehouses/planet:local
 docker tag treehouses/planet:db-init treehouses/planet:db-init-local
 docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 
-# create a dedicated directory for mapping Docker container volumes and configuring environment variables
+# create a dedicated directory
+# for mapping Docker container volumes and configuring environment variables
 sudo mkdir /srv/planet
 cd /srv/planet
 
@@ -106,11 +110,13 @@ echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-prod.yml
 mv planet-prod.yml planet.yml
 
-# starts the containers in the background with compose configuration file planet.yml and leaves them running
+# starts the containers in the background
+# with compose configuration file planet.yml and leaves them running
 docker compose -f planet.yml -p planet up -d --build
 
 # see if the docker containers are running
-# ensure it says "Up" in STATUS column with the exception of db-init, which may finished running and exited already
+# ensure it says "Up" in STATUS column
+# with the exception of db-init, which may finished running and exited already
 docker container ls -a
 
 # follow the log in action, press 'control+c' to exit the logs view
