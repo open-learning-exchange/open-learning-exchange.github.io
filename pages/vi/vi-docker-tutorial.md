@@ -171,7 +171,7 @@ You can also use `docker --help` and `docker compose --help` to see brief usage 
 - [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
 - [Docker Installation](https://docs.docker.com/install/)
 
-## Next Section _([Step 2.2](vi-planet-configurations.md)_ **→**
+## Next Section _([Step 2.2](vi-planet-configurations.md))_ **→**
 
 Follow the steps to configure your local production community, sync with nation and get your community approved.
 
