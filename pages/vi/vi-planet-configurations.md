@@ -119,6 +119,10 @@ docker compose -f planet.yml -p planet up -d --build
 
 After planet is up and running, follow [Configure Your PlanetCommunity](#!./pages/vi/vi-configurations-vagrant.md#Configure_Your_Planet_Community) again, since your old community registration still exist on the nation side, please use a slightly different name for your configuration.
 
+### More Help
+
+If you continue to have issues after troubleshooting with the above instructions, please reach out to us on Discord for assistance.
+
 ## Next Section _([Step 3](vi-github-and-markdown.md))_ **→**
 
 Markdown is a lightweight markup language with plain text formatting syntax. In the next section, you will learn Markdown to create a profile page, and learn how to create a pull request on the GitHub web interface.
