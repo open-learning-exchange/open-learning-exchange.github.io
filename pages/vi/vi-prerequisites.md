@@ -7,6 +7,7 @@
 ## Preparation
 
 - **Staying Organized**: We recommend you designate a new directory on your desktop or inside your user folder for your work at OLE. This puts all of your OLE related repositories in one place and enables you to be organized and efficient.
+- **RAM**: Ensure your machine has at least 8GB of RAM; 16GB is recommended for optimal performance.
 - **Storage Space**: Ensure you have at least a few GBs of free space on your computer before proceeding with the following steps.
 
 ## Dependencies Overview
