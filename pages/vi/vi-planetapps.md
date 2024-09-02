@@ -15,7 +15,7 @@ Don’t forget to send a screenshot of your Planet community configurations from
 
 ## Watch Videos
 
-Watch the following videos to learn the basic functions of your Planet. While they were created some few years ago using the old BeLL system, they still provide a good introduction:
+Watch the following videos to learn the basic functions of your Planet. While they were created some years ago using the old BeLL system, they still provide a good introduction:
 
 - [My Dashboard](movies/vi-mydashboard.mp4)
 - [Library](movies/vi-library.mp4)
@@ -78,32 +78,30 @@ You might not see the `Fetch Items` button if the nation has not manually sent a
 
 ## Take the Course
 
-We have created a course for aspiring virtual interns to test out the courses feature in planet and identify any bugs or areas for improvement. Your task is to take the course in planet and note any issues or suggestions for enhancement from a student's perspective.
+We have created a course for aspiring virtual interns to test out the courses feature in Planet and identify any bugs or areas for improvement. Your task is to take this course in Planet and note any issues or suggestions for enhancement from a student’s perspective.
 
-As you go through the course, the last question will ask you to provide feedback on any problems you encountered or suggestions you have. Remember, individuals in remote areas who take these courses might face the same issues, so it's important to report them now to help the team make necessary improvements. Your assistance with this task is greatly appreciated.
+As you go through the course, the last question will ask for your feedback on any problems you encountered or suggestions you have. Remember, individuals in remote areas who take these courses might face similar issues, so reporting them now will help the team make necessary improvements. Your assistance with this task is greatly appreciated.
 
 **STEPS:**
 
-1. Click on `Courses` on the top navigation
-2. Find the course "Virtual Interns", select checkbox next to course and then click on `Join`
-3. Click on Course to `Open`
-4. Carefully finish all steps of the course
+1. Click on **Courses** in the top navigation menu.
+2. Search for the course "GitHub Issues and Pull Requests," select the checkbox next to the course title, and click on **Join**.
+3. Click on the course to open it and start with **View Steps**.
+4. Carefully complete all steps of the course, and don't forget to take the quiz.
 
   ![Finished Planet Course](images/vi-planet-course.jpg)
 
-5. To verify that your course answers were submitted, click on `Home`, then under myLife click on `my Submissions`
+5. To verify that your course answers were submitted, click on **Dashboard** from the top navigation menu. Then, under **myLife**, click on **my Submissions**. Make sure to filter by "All" under **Status** to view all submissions.
 
   ![Submissions button](images/vi-planet-submissions-button.png)
   ![View Submissions](images/vi-planet-submissions.png)
 
-6. When you provide feedback, try to be as specific as possible, and include screenshots when necessary
+6. When providing a rating for a course, try to be as specific as possible.
 
   ![Take the Course](images/vi-take-the-course.png)
   ![Course Overview](images/vi-course-view.png)
 
-If the course "Virtual Interns" is not there, check `Manage Sync` of Manager Settings page to see if your synchronization has been completed. Otherwise, please message us and "@dogi" an admin in the Discord server so we can send you the course manually.
-
-Check out this [link](https://crowdin.com/page/tour#tab_translators) and [translation](https://open-learning-exchange.github.io/#!pages/translators/la-introduction.md) to learn how you can start contributing on Crowdin.   
+If the course "GitHub Issues and Pull Requests" is not listed, check the **Manage Sync** section on the Manager Settings page to see if your synchronization has been completed. If not, please message us on the Discord server so we can manually send you the course.
 
 ## Useful Links
 
