@@ -58,11 +58,11 @@ Go to your Manager page and look for the "Upgrade", "Fetch Items", and "Manage S
 
 You might not see the `Fetch Items` button if the nation has not manually sent anything to your community. However, if the other two buttons are missing, post a message in the Discord server channel to confirm that we have accepted your community connection to the vi nation.
 
-1. **Upgrade**: If the `Upgrade` button is visible, click on it to go to the upgrade page. Follow the prompts and enter your admin password for confirmation.
+1. **Upgrade**: Under "Planet Version", if your "Local" version is lower than "Nation", click on the `Upgrade` button to go to the upgrade page. Follow the prompts and enter your admin password for confirmation.
 
    ![Start to Upgrade](images/vi-start-upgrade.png "Start Upgrade")
 
-2. After the upgrade completes, use `docker compose -f planet.yml -p planet restart` to restart the Planet.
+2. After the upgrade completes on the web interface, use `docker compose -f planet.yml -p planet up -d --build` to have the updated services recreated.
 
 3. **Fetch Items**: If the `Fetch Items` button is visible, click on it, select all, and use the "Get Courses/Resources" button to download the available courses.
 
