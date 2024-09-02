@@ -17,7 +17,12 @@
 
 We would like you to **install Debian** on Windows with Windows Subsystem for Linux (WSL) to facilitate easier development in the future.
 
-You must be running Windows 10 version 2004 or higher (Build 19041 and higher) or Windows 11 to use the commands below. If you are on an earlier version, please see the [manual install page](https://learn.microsoft.com/en-us/windows/wsl/install-manual).
+You must be running Windows 10...
+
+  - For x64 systems: Version 1903 or later, with Build 18362.1049 or later.
+  - For ARM64 systems: Version 2004 or later, with Build 19041 or later.
+
+or Windows 11. If you are on an earlier version, please skip this WSL step.
 
 To install Debian using WSL, open PowerShell or Windows Command Prompt in administrator mode by right-clicking and selecting "Run as administrator", enter `wsl --install -d Debian`, then restart your machine.
 
@@ -50,7 +55,7 @@ If you don't have Git installed already:
 - Debian/Ubuntu: `apt-get update && apt-get install git`
 - macOS: `brew install git`
 - Windows with WSL: `sudo apt-get update && sudo apt-get install git`
-- Windows (If you had trouble with installing WSL earlier): `choco install git.install`
+- Windows (if you are unable to install WSL 2 earlier): `choco install git.install`
 
 For detailed instructions or alternative installation method, please go to [**Git - Downloads**](https://git-scm.com/downloads) and select your operating system.
 
@@ -73,7 +78,7 @@ Go to [**Install Docker Engine | Docker Docs**](https://docs.docker.com/engine/i
 #### Install Docker – Windows
 
 - Follow "Install Docker – Linux" above and select Debian under the "Platform" column
-- If you had trouble with installing WSL earlier:`choco install docker-desktop`
+- If you are unable to install WSL 2 earlier:`choco install docker-desktop`
 
 ## Node.js
 
@@ -82,10 +87,10 @@ Go to [**Install Docker Engine | Docker Docs**](https://docs.docker.com/engine/i
 To install Node.js v14, visit [**Node.js — Download Node.js**](https://nodejs.org/en/download/package-manager):
 
 1. In the first dropdown, select version `v14.*.*`
-2. In the second dropdown, select your operating system. If have Windows and installed WLS earlier, select `Linux`.
+2. In the second dropdown, select your operating system. If have Windows and installed WSL 2 earlier, select `Linux`.
 3. In the third dropdown:
-   - For macOS/Linux/Windows with WSL, select `nvm`.
-   - For Windows without WSL, select `fnm` or `Chocolatey` (if you have Chocolatey already).
+   - For macOS/Linux/Windows with WSL 2, select `nvm`.
+   - For Windows without WSL 2, select `fnm` or `Chocolatey` (if you have Chocolatey already).
 4. Follow the instruction to install node.js v14 onto your system
 
 ## Angular CLI
