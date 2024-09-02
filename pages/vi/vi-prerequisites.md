@@ -13,6 +13,8 @@
 
 ### Windows Subsystem for Linux (WSL)
 
+**Note**: The following steps for WSL have not been tested, as we are either not currently using Windows or installed WSL a long time ago. If you encounter any issues and are unable to resolve them on your own within a reasonable amount of time, please let us know in the Discord channel #vi-software.
+
 We would like you to **install Debian** on Windows with Windows Subsystem for Linux (WSL) to facilitate easier development in the future.
 
 You must be running Windows 10 version 2004 or higher (Build 19041 and higher) or Windows 11 to use the commands below. If you are on an earlier version, please see the [manual install page](https://learn.microsoft.com/en-us/windows/wsl/install-manual).
