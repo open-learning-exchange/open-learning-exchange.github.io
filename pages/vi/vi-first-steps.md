@@ -85,8 +85,9 @@ Make sure that you've linked to your github.io and pull request link in [#vi-sof
 
 ## Step 4 - Planet and myPlanet Tutorial
 
-This step includes the [Planet Tutorial](vi-planetapps.md), which explains the features of the application.
-And also there is [myPlanet Tutorial](vi-myplanet.md), which explains about Android application.
+This step includes the [Planet Tutorial](vi-planetapps.md), which explains the features of the Planet application.
+
+Additionally, there is a [myPlanet Tutorial](vi-myplanet.md) that covers the Android application. Please follow this tutorial if you have an Android device.
 
 ## Step 5 - Keeping Fork Updated
 
