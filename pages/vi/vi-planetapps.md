@@ -62,7 +62,7 @@ You might not see the `Fetch Items` button if the nation has not manually sent a
 
    ![Start to Upgrade](images/vi-start-upgrade.png "Start Upgrade")
 
-2. After the upgrade completes on the web interface, use `docker compose -f planet.yml -p planet up -d --build` to have the updated services recreated.
+2. After the upgrade completes on the web interface, run `docker compose -f planet.yml -p planet stop` then use `docker compose -f planet.yml -p planet up -d` to have the updated services recreated.
 
 3. **Fetch Items**: If the `Fetch Items` button is visible, click on it, select all, and use the "Get Courses/Resources" button to download the available courses.
 
