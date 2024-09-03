@@ -73,4 +73,12 @@ Run the couchdb-setup.sh script to set up the couchdb database for the planet pr
 
 - `. couchdb-setup.sh -p 2200 -i -u "username" -w "password"`
 
+Install dependecies and serve the app
+
+- `npm install`
+- `ng serve`
+
+Visit `localhost:3000` to access the planet app
+
+**Note**: The port numbers for the development and production servers are different
 
