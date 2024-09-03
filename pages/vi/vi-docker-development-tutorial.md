@@ -84,6 +84,6 @@ Visit `localhost:3000` to access the planet app
 
 ||**production**|**development**|
 |---|--------------|---------------|
-| planet | 3300 | 3000 |
-| chatapi | 5050 | 5000 |
-| couchdb | 2300 | 2200 |
+| *planet* | 3300 | 3000 |
+| *chatapi* | 5050 | 5000 |
+| *couchdb* | 2300 | 2200 |
