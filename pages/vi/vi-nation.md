@@ -46,7 +46,7 @@ By syncing, you send all community activities to the nation. The nation receives
 
 ## Check Sync Status
 
-To verify that the sync was successful, log in to the nation side at [planet.vi.ole.org](http://planet.vi.ole.org) using the username `vi` and the password `iv`.
+To verify that the sync was successful, log in to the nation side at [planet.vi.ole.org](http://planet.vi.ole.org) using the username `vi`. For password, send `-get_vi_nation_pwd` in the #vi-software Discord channel and you will receive a DM containing the password from YAGPDB bot.
 
 ![Opening vi nation](images/vi-login-page.png "Login page on vi nation")
 
