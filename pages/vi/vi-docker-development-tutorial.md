@@ -82,3 +82,8 @@ Visit `localhost:3000` to access the planet app
 
 **Note**: The port numbers for the development and production servers are different
 
+||**production**|**development**|
+|---|--------------|---------------|
+| planet | 3300 | 3000 |
+| chatapi | 5050 | 5000 |
+| couchdb | 2300 | 2200 |
