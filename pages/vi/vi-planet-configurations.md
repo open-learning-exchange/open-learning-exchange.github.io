@@ -81,10 +81,12 @@ Finally, post the screenshot you took earlier to [our Discord server's #vi-softw
 1. **Planet Page Not Loading in Browser**
 
    If the Planet page doesn't load in your browser, even with correct account configuration and approval:
-   - First, try accessing the page in your browser's incognito/private mode to check if it's a cookie issue.
+   - First, try accessing the page in your browser's incognito/private mode to check if it's a cookie/cache issue.
    - If Planet loads in incognito/private mode, clear your browser cookies.
    - If it still doesn't load, follow the "Restarting the Containers" steps below.
    - If these steps don't work, follow the "Starting Over" section below to "rebuild" your Planet.
+
+   ![Blank](https://user-images.githubusercontent.com/22685147/58755807-be6ad780-84b9-11e9-86b5-c745f584ac41.png)
 
 1. **Account Not Recognized After Approval**
 
@@ -92,9 +94,9 @@ Finally, post the screenshot you took earlier to [our Discord server's #vi-softw
 
    ![Not recognized](https://user-images.githubusercontent.com/22685147/58755806-bb6fe700-84b9-11e9-8a27-d3e3ab56ffba.png)
 
-   ![Blank](https://user-images.githubusercontent.com/22685147/58755807-be6ad780-84b9-11e9-86b5-c745f584ac41.png)
-
 ### Restarting the Containers
+
+To restart the containers, use
 
 ```bash
 docker compose -f planet.yml -p planet restart
