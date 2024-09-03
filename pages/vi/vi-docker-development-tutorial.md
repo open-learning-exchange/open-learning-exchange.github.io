@@ -1,4 +1,4 @@
-﻿# Docker Tutorial (Step 2)
+﻿# Planet Development Setup Tutorial
 
 ## Objectives
 
