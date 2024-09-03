@@ -54,23 +54,17 @@ There are three main types of updates you may receive for your community:
 
 Go to your Manager page and look for the "Upgrade", "Fetch Items", and "Manage Sync" buttons highlighted in the pictures below.
 
+You might not see the "Upgrade" or "Fetch Items" button if there's no update or the nation has not manually sent anything to your community. However, **if "Manage Sync" button is missing for you**, please post a message in our Discord server's #vi-software channel to confirm that we have accepted your community connection with the vi nation.
+
 ![Manager Settings page with "Upgrade", "Fetch Items", and "Manage Sync" buttons highlighted](images/vi-planet-upgrade.png "Manager Settings Dashboard on planet")
 
-You might not see the `Fetch Items` button if the nation has not manually sent anything to your community. However, if the other two buttons are missing, post a message in the Discord server channel to confirm that we have accepted your community connection to the vi nation.
+1. **Fetch Items**: If the `Fetch Items` button is visible, click on it, select all, and use the "Get Courses/Resources" button to download the available courses.
 
-1. **Upgrade**: Under "Planet Version", if your "Local" version is lower than "Nation", click on the `Upgrade` button to go to the upgrade page. Follow the prompts and enter your admin password for confirmation.
+   ![Planet - fetch items from the nation](images/vi-planet-fetch-items.png "Planet - fetch items from the nation")
 
-   ![Start to Upgrade](images/vi-start-upgrade.png "Start Upgrade")
+2. **Sync**: Finally, sync your activities with the nation by clicking the `Manage Sync` button on the Manager page. On the sync processes page, click `Run Sync`, and enter your admin password when prompted to start the sync process.
 
-2. After the upgrade completes on the web interface, run `docker compose -f planet.yml -p planet stop` then use `docker compose -f planet.yml -p planet up -d` to have the updated services recreated.
-
-3. **Fetch Items**: If the `Fetch Items` button is visible, click on it, select all, and use the "Get Courses/Resources" button to download the available courses.
-
-   ![Fetch Items from the nation](images/vi-planet-fetch-items.png "Fetch Items from the nation")
-
-4. **Sync**: Finally, sync your activities with the nation by clicking the `Manage Sync` button on the Manager page. On the sync processes page, click `Run Sync`, and enter your admin password when prompted to start the sync process.
-
-   ![Clicking on "Select All" and "Send"](images/vi-nation-sync-send.png "Community Manage Page in your localhost")
+   ![Planet - sync interface](images/vi-nation-sync-send.png "Planet - sync interface")
 
 **NOTE:**
 - If you encounter an "internet connection" error when clicking the "Upgrade" button, please repeat the step.
