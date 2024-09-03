@@ -97,6 +97,12 @@ Finally, post the screenshot you took earlier to [our Discord server's #vi-softw
 ### Restarting the Containers
 
 ```bash
+docker compose -f planet.yml -p planet restart
+```
+
+or
+
+```bash
 # Stop `planet` without removing it
 docker compose -f planet.yml -p planet stop
 
@@ -106,18 +112,30 @@ docker compose -f planet.yml -p planet start
 
 ### Starting Over
 
-**Warning:** This will remove the community you configured and start over.
+**Warning:** This will perform a full uninstall, removing the entire community you configured, including the database.
 
 ```bash
-# Stop and remove containers, networks, volumes, and images
+# 1. Stop and remove containers, networks, volumes, and images
 # created with the `planet.yml` configuration file
 docker compose -f planet.yml -p planet down -v
 
-# Start the containers again
-docker compose -f planet.yml -p planet up -d --build
+# 2. Remove the planet folder you created in Step 2.1
+# macOS
+rm -rf ~/planet
+
+# Linux
+rm -rf /srv/planet
+
+# Windows with WSL
+
+
+# Windows without WSL
+
+
+# 3. Follow "YourOS - Run Planet Community with Docker" in Step 2.1 again
 ```
 
-After planet is up and running, follow [Configure Your PlanetCommunity](#!./pages/vi/vi-configurations-vagrant.md#Configure_Your_Planet_Community) again, since your old community registration still exist on the nation side, please use a slightly different name for your configuration.
+After planet is up and running, follow [Configure Your PlanetCommunity](#!./pages/vi/vi-configurations-vagrant.md#Configure_Your_Planet_Community) again, since your old community registration still exist on the nation side, please use a slightly different name for your configuration, e.g. `<YourGitHubUserName>-1`.
 
 ### More Help
 
