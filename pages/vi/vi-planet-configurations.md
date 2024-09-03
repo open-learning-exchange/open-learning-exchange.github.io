@@ -30,7 +30,7 @@ The Planet is not only a library, but also an individualized learning system, wh
 
 ## Check if Planet is Running
 
-Visit [http://localhost:3100](http://localhost:3100) or [http://127.0.0.1:3100](http://127.0.0.1:3100) to access the initial admin configuration page. If you are unable to access it, please proceed with the instruction for your OS below.
+Visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) to access the initial admin configuration page. If you are unable to access it, please proceed with the instruction for your OS below.
 
 ### macOS
 
@@ -50,7 +50,7 @@ TO BE FILLED
 
 ## Configure Your Planet Community
 
-Visit [http://localhost:3100](http://localhost:3100) or [http://127.0.0.1:3100](http://127.0.0.1:3100) to access the initial admin configuration page. Fill out the admin username and password, and make sure to remember the password.
+Visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) to access the initial admin configuration page. Fill out the admin username and password, and make sure to remember the password.
 
 ![Become an Administrator](images/vi-become-admin.png)
 

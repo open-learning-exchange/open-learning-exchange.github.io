@@ -127,11 +127,11 @@ docker compose -f planet.yml -p planet logs -f
 
 The services will be accessible on the following ports:
 
-- **Planet:** 3100
+- **Planet:** 3300
 - **ChatAPI:** 5050
 - **CouchDB:** 2300
 
-To verify that the Planet service is running, visit [http://localhost:3100](http://localhost:3100) or [http://127.0.0.1:3100](http://127.0.0.1:3100) and check if the planet configuration screen appears. **Please do not configure the planet yet; we'll handle that in the next step.**
+To verify that the Planet service is running, visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) and check if the planet configuration screen appears. **Please do not configure the planet yet; we'll handle that in the next step.**
 
 You can also verify that the other services are running by visiting these URLs in your browser:
 

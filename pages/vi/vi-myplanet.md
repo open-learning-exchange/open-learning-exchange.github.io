@@ -35,7 +35,7 @@ Once you've installed the beta version of the app, launch it and grant necessary
 - **Configuration**: Click the settings gear icon in the upper-right corner to open the settings dialog box.
   - Toggle on **Manual** configuration.
   - Select **HTTP**.
-  - For **Planet IP**, enter the IP address of the device running production Planet from step 2, followed by `:3100` (e.g., `192.168.1.35:3100`).
+  - For **Planet IP**, enter the IP address of the device running production Planet from step 2, followed by `:3300` (e.g., `192.168.1.35:3300`).
   - For **Server PIN**, check the **Tablet PIN number** under **Manager Settings** in Planet.
   - Click **SYNC** and allow the synchronization process to complete.
 

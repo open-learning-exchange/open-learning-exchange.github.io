@@ -12,7 +12,7 @@ In [Step 2.2 - Planet Configurations](vi-planet-configurations.md), you register
 
 To achieve this, there should be regular communication between the nation and the communities. Although not required for remote communities in the field, this synchronization is crucial for "improving the software and testing the increasing forms of communication and feedback between the nation and the communities." This communication involves a syncing process from the community side, where you select the material to send to the nation.
 
-Ensure Docker is running and visit [http://localhost:3100](http://localhost:3100) to access your Community Planet.
+Ensure Docker is running and visit [http://localhost:3300](http://localhost:3300) to access your Community Planet.
 
 **NOTES:** Before you can sync with the nation after registering your community, you need to create an additional dummy user in your community:
 1. Create a quick additional user under **Become a Member** on the login page. *(Hint: pick a simple password like `a`.)*

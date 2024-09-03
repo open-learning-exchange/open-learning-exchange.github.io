@@ -7,7 +7,7 @@
 - Add resources to your Community in order to get accustomed to the Planet interface
 
 ## Preparation
-Please go to http://localhost:3100 or run `docker container ls` in the command line to see if your community Planet is currently running. If not, please `cd` into `planet` directory created in step 1 in your local machine and run `docker compose -f planet.yml -p planet start`.
+Please go to http://localhost:3300 or run `docker container ls` in the command line to see if your community Planet is currently running. If not, please `cd` into `planet` directory created in step 1 in your local machine and run `docker compose -f planet.yml -p planet start`.
 
 Don’t forget to send a screenshot of your Planet community configurations from [the earlier step](vi-planet-configurations.md). If you forgot to take the screenshot, log in to Planet, click on "Manager Settings" (the person with a gear icon on the top bar), select "Configuration," take a screenshot of the page, and send it to the Discord server.
 
@@ -36,7 +36,7 @@ Download the following resources to your computer by right-clicking on each link
 
 To upload these resources to your Planet:
 
-1. Go to [your community Planet](http://localhost:3100) and select `Library` from the dashboard.
+1. Go to [your community Planet](http://localhost:3300) and select `Library` from the dashboard.
 2. Click the yellow `+` icon to add a new resource.
 3. Fill in all the required text boxes and drop-down menus marked with "\*". (For practice, the accuracy of the information isn't important.)
 4. Upload one of the downloaded files: PDF, MP3, or MP4.
