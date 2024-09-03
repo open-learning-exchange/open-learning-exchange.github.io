@@ -66,6 +66,8 @@ docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 mkdir -p ~/planet
 cd ~/planet
 
+# we are putting "DUMMYAPIKEY" here for now
+# when you work on related features, we will assign you the keys
 echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
 echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 
@@ -103,6 +105,8 @@ docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 sudo mkdir /srv/planet
 cd /srv/planet
 
+# we are putting "DUMMYAPIKEY" here for now
+# when you work on related features, we will assign you the keys
 echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
 echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 
