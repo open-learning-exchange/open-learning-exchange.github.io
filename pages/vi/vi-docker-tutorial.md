@@ -155,6 +155,7 @@ Here are some common Docker Compose commands you might need when working with `p
   - `up -d` – Create and start containers in the background.
   - `--build` – Build images before starting containers
 - `docker compose -f planet.yml -p planet logs -f` – Follow the log output. Press 'CTRL+C' to exit logs view.
+- `docker compose -f planet.yml -p planet restart` – Restart `planet`.
 - `docker compose -f planet.yml -p planet stop` – Stop `planet` without removing it.
 - `docker compose -f planet.yml -p planet start` – Start `planet` again.
 - `docker compose -f planet.yml -p planet down -v` – Stop containers and remove containers, networks, volumes, and images created.
