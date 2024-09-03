@@ -62,7 +62,7 @@ Next, click on the **Sandbox** tab.
 
 ![Sandbox Tab](images/vi-nation-sandbox.png)
 
-You will see a list of communities. Find and click on your community to view its report.
+You will see a list of communities. Find and click on your community name to view its report.
 
 ![Communities List](images/vi-nation-communities.png "Report Communities List Page in ole site")
 
