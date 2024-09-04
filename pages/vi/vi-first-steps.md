@@ -145,8 +145,10 @@ Once you complete Step 8 you will have:
 
 ## Step 9 - Be part of the team
 
-Once you have finished step 8, sync your community with the nation (as you did in Step 7 - [Nation Planet tab](vi-nation.md)).
+After completing Step 8, sync your community with the nation, just as you did in [Step 7 - Nation Planet](vi-nation.md#Sync_With_the_Nation).
 
-Next thing is to add yourself to the virtual intern list found in [vi-team.md](vi-team.md) and create a pull request. Message us ("@mutugiii", "@dogi" and "@vi-software") in our Discord #vi-software channel so that we can set up a meeting and add you to the team as soon as possible.
+Next, follow the [Planet Development Setup Tutorial](vi-docker-development-tutorial.md) to set up your development environment for Planet.
 
-Make sure to read through the [software engineering intern orientation document](vi-intern-orientation.md) before the meeting.
+Once your setup is complete, add yourself to the virtual intern list in [vi-team.md](vi-team.md) and submit a pull request. Then, message us ("@mutugiii", "@dogi", and "@vi-software") in the Discord #vi-software channel so we can schedule a meeting and officially add you to the team.
+
+Please make sure to review the [Software Engineering Intern Orientation document](vi-intern-orientation.md) before the meeting.
