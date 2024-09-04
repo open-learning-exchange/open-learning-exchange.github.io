@@ -6,9 +6,15 @@
 
 ## Introduction
 
-Having already set up the production server for Planet, we will now set up the development environment and server. This will allow you to make changes to the code and see the results in real-time. 
+After setting up the production server for Planet, we will now configure the development environment and server. This will allow you to make changes to the code and see the results in real-time. 
 
-Go over the [Prerequisites](vi-planet-installation-prerequisites.md) to ensure that you have all the required softwares installed i.e. Docker, Docker Compose, Git, Node v14, NPM v6 and Angular CLI v10.
+To ensure all required software from [Step 1 - Prerequisites](vi-prerequisites.md) is installed, run the following commands:
+
+- `docker -v` - Should display Docker version
+- `git -v` - Should display git version
+- `node -v` - Should display "v14.*"
+- `npm -v` - Should display "v6.*"
+- `ng version` - Should display "Angular CLI: 10.*"
 
 ## Container setup
 
