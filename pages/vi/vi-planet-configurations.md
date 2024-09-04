@@ -30,23 +30,18 @@ The Planet is not only a library, but also an individualized learning system, wh
 
 ## Check if Planet is Running
 
-Visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) to access the initial admin configuration page. If you are unable to access it, please proceed with the instruction for your OS below.
+Visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) to access the initial admin configuration page. If you cannot access it, follow the instructions below based on your OS.
 
-### macOS
+### All OS
 
-Please run `docker ps -a` in the command line to check if your Community Planet's status is "up" and running. If it's not, `cd` into the `~/planet` directory on your local machine and run `docker compose -f planet.yml -p planet start`.
+1. Run `docker ps -a` in your terminal (use Git Bash on Windows) to check if your Community Planet is "up" and running.
+2. If it's not running, navigate to the `planet` directory on your local machine:
 
-### Linux
+   - **Linux:** `cd /srv/planet`
+   - **macOS:** `cd ~/srv/planet`
+   - **Windows:** `cd ~/srv/planet`
 
-Please run `docker ps -a` in the command line to check if your Community Planet's status is "up" and running. If it's not, `cd` into the `/srv/planet` directory on your local machine and run `docker compose -f planet.yml -p planet start`.
-
-### Windows
-
-TO BE FILLED
-
-<!-- TODO: probably need to change `/srv/planet` here -->
-
-<!-- Please run `docker ps -a` in the command line to check if your Community Planet's status is "up" and running. If it's not, `cd` into the `/srv/planet` directory on your local machine and run `docker compose -f planet.yml -p planet start`. -->
+3. Run `docker compose -f planet.yml -p planet start` to start the service.
 
 ## Configure Your Planet Community
 
@@ -122,17 +117,11 @@ docker compose -f planet.yml -p planet start
 docker compose -f planet.yml -p planet down -v
 
 # 2. Remove the planet folder you created in Step 2.1
-# macOS
-rm -rf ~/planet
-
 # Linux
 rm -rf /srv/planet
 
-# Windows with WSL
-
-
-# Windows without WSL
-
+# macOS or Windows
+rm -rf ~/srv/planet
 
 # 3. Follow "YourOS - Run Planet Community with Docker" in Step 2.1 again
 ```
