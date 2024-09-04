@@ -90,8 +90,9 @@ To install Node.js v14, visit [**Node.js — Download Node.js**](https://nodejs.
 1. In the first dropdown, select version `v14.*.*`
 2. In the second dropdown, select your operating system. If have Windows and installed WSL 2 earlier, select `Linux`.
 3. In the third dropdown:
-   - For macOS/Linux/Windows with WSL, select `nvm`.
+   - For Linux/Windows with WSL, select `nvm`.
    - For Windows without WSL, select `fnm` or `Chocolatey` (if you have Chocolatey already).
+   - For macOS, select `fnm`
 4. Follow the instruction to install node.js v14 onto your system
 
 ## Angular CLI
