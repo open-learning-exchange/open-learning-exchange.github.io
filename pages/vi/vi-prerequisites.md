@@ -19,8 +19,8 @@ We would like you to **install Debian** on Windows with Windows Subsystem for Li
 
 You must be running Windows 10...
 
-  - For x64 systems: Version 1903 or later, with Build 18362.1049 or later.
-  - For ARM64 systems: Version 2004 or later, with Build 19041 or later.
+- For x64 systems: Version 1903 or later, with Build 18362.1049 or later.
+- For ARM64 systems: Version 2004 or later, with Build 19041 or later.
 
 or Windows 11. If you are on an earlier version, please skip this WSL step.
 
@@ -32,7 +32,7 @@ Next, visit "How to install Linux on Windows with WSL" and follow the instructio
 - [Set up and best practices](https://learn.microsoft.com/en-us/windows/wsl/install#set-up-and-best-practices)
 - [Check which version of WSL you are running](https://learn.microsoft.com/en-us/windows/wsl/install#check-which-version-of-wsl-you-are-running) – ensure you are using version 2. Take a screenshot of the output and send it to us on the Discord #vi-software channel.
 
-From now on, the commands you'll run below will be executed inside the Debian "app" from your Windows Start menu.
+**From now on, run the commands in the Debian app from your Windows Start menu.**
 
 ## Dependencies Overview
 
@@ -52,10 +52,11 @@ For development, the following additional tools are required:
 
 If you don't have Git installed already:
 
-- Debian/Ubuntu: `apt-get update && apt-get install git`
-- macOS: `brew install git`
-- Windows with WSL: `sudo apt-get update && sudo apt-get install git`
-- Windows (if you are unable to install WSL 2 earlier): `choco install git.install`
+- **Debian/Ubuntu**: `apt-get update && apt-get install git`
+- **macOS**: `brew install git`
+- **Windows with WSL - Debian app**: `sudo apt-get update && sudo apt-get install git`
+- **Windows** (if you are unable to install WSL 2 earlier): `choco install git.install`
+  - This will install **Git Bash**, which you can find in your Windows Start menu. **From now on, run commands in Git Bash whenever possible.**
 
 For detailed instructions or alternative installation method, please go to [**Git - Downloads**](https://git-scm.com/downloads) and select your operating system.
 
