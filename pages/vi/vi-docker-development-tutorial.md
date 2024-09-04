@@ -40,7 +40,7 @@ It is ideal to create a dedicated `ole` directory for the OLE related projects. 
 We use the [Add Cors to CouchDB](https://github.com/pouchdb/add-cors-to-couchdb) project to enable CORS on the CouchDB server. This is necessary for the Planet project to work correctly. We only need this for initialization purposes.
 
 ```bash
-cd ~/Documents/ole  # change directory to your dedicated ole folder created in Step 1, this is just an example
+cd ~/Documents/ole  # change directory to the dedicated ole folder you created earlier
 git clone https://github.com/pouchdb/add-cors-to-couchdb.git
 cd add-cors-to-couchdb
 npm install
@@ -50,9 +50,10 @@ node bin.js http://localhost:2200`
 
 ### Configure the Planet project:
 
-**Note**: Use `docker ps -a` to ensure that `couchdb` and the `chatapi` containers are running before proceeding.
-
 ```bash
+# ensure that `couchdb` and the `chatapi` containers are running before proceeding.
+docker ps -a
+
 # go back to your dedicated ole folder
 cd ..
 
@@ -69,7 +70,7 @@ chmod +x couchdb-setup.sh
 bash couchdb-setup.sh -p 2200 -i
 ```
 
-**Note**: If you encounter permission issues, use the command below, replacing the `username` and `password` with your preferred credentials. Keep these credentials handy, as you’ll need them to access CouchDB via the Fauxton interface (`2300/_utils`).
+If you encounter permission issues, run the command below, replacing `username` and `password` with your preferred credentials. Be sure to save these credentials, as you'll need them to access CouchDB through the Fauxton interface (`2300/_utils`).
 
 - `bash couchdb-setup.sh -p 2200 -i -u "username" -w "password"`
 
@@ -77,8 +78,7 @@ Install dependecies and serve the app
 
 - `npm install`
 - `ng serve`
-
-Visit `localhost:3000` to access the planet app
+- Visit <localhost:3000> to access the planet app
 
 **Note**: The port numbers for the development and production servers are different
 
