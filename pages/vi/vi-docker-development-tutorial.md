@@ -85,5 +85,5 @@ Install dependecies and serve the app
 ||**production**|**development**|
 |---|--------------|---------------|
 | *planet* | 3300 | 3000 |
-| *chatapi* | 5050 | 5000 |
+| *chatapi* | 5050 | 5000 (5400 for mac/windows) |
 | *couchdb* | 2300 | 2200 |
