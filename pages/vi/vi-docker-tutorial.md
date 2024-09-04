@@ -32,7 +32,7 @@ Now, take a look at [the YAML file for planet](https://github.com/open-learning-
 
 ## Check Your Docker Installation
 
-You installed Docker in the previous step. Now, run `docker` in your terminal or command prompt. If it's installed correctly, you'll see the help message without any errors:
+You installed Docker in the previous step. Now, run `docker` in your Linux/macOS terminal or Windows WSL Debian app / Git Bash. If it's installed correctly, you'll see the help message without any errors:
 
 ```
 Usage:  docker [OPTIONS] COMMAND
