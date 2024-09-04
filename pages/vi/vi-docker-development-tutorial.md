@@ -45,7 +45,7 @@ git clone https://github.com/pouchdb/add-cors-to-couchdb.git
 cd add-cors-to-couchdb
 npm install
 while ! curl -X GET http://127.0.0.1:2200/_all_dbs ; do sleep 1; done
-node bin.js http://localhost:2200`
+node bin.js http://localhost:2200
 ```
 
 ### Configure the Planet project:
