@@ -32,7 +32,7 @@ Next, visit "How to install Linux on Windows with WSL" and follow the instructio
 - [Set up and best practices](https://learn.microsoft.com/en-us/windows/wsl/install#set-up-and-best-practices)
 - [Check which version of WSL you are running](https://learn.microsoft.com/en-us/windows/wsl/install#check-which-version-of-wsl-you-are-running) – ensure you are using version 2. Take a screenshot of the output and send it to us on the Discord #vi-software channel.
 
-**From now on, run the commands in the Debian app from your Windows Start menu.**
+**From now on, run commands in the Debian app from your Windows Start menu whenever appropriate and possible.**
 
 ## Dependencies Overview
 
@@ -56,7 +56,7 @@ If you don't have Git installed already:
 - **macOS**: `brew install git`
 - **Windows with WSL - Debian app**: `sudo apt-get update && sudo apt-get install git`
 - **Windows** (if you are unable to install WSL 2 earlier): `choco install git.install`
-  - This will install **Git Bash**, which you can find in your Windows Start menu. **From now on, run commands in Git Bash whenever possible.**
+  - This will install **Git Bash**, which you can find in your Windows Start menu. **From now on, run commands in Git Bash whenever appropriate and possible.**
 
 For detailed instructions or alternative installation method, please go to [**Git - Downloads**](https://git-scm.com/downloads) and select your operating system.
 
