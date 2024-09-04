@@ -16,65 +16,53 @@ To ensure all required software from [Step 1 - Prerequisites](vi-prerequisites.m
 - `npm -v` - Should display "v6.*"
 - `ng version` - Should display "Angular CLI: 10.*"
 
-## Container setup
+## Container Setup
 
-Create a srv directory for the planet dev data & configure the necessary environment variables:
-
-- `mkdir /srv/planetdev`
-- `cd /srv/planetdev`
-- `echo "OPENAI_API_KEY=APIKEYHERE" > .chat.env`
-- `echo "PERPLEXITY_API_KEY=APIKEYHERE" >> .chat.env`
-
-*Note*: Don't worry about the API keys for now, you will get them later.
-
-Download the development yml file and start the containers:
-
-- `wget https://github.com/ole-vi/planet-prod-configs/blob/main/planet-dev.yml`
-- `docker-compose -f planet-dev.yml -p planet-dev up -d`
-
-After a while verify that you have 2 runnning containers i.e chatapi and couchdb containers, the db-init container should have exited.
-
-- `docker ps -a`
-
-Example Output:
-  ```
-  da9467e097f9   treehouses/planet:chatapi                             "npm run start"          6 days ago     Up 2 hours                 0.0.0.0:5000->5000/tcp, :::5000->5000/tcp                       planet-chatapi-1
-  e85d59869993   treehouses/planet:db-init                             "/bin/sh -c 'bash ./…"   6 days ago     Exited (0) 2 hours ago                                                                     planet-db-init-1
-  ca1c3677de82   treehouses/couchdb:2.3.1                              "tini -- /docker-ent…"   5 months ago   Up 2 hours                 4369/tcp, 9100/tcp, 0.0.0.0:2200->5984/tcp, :::2200->5984/tcp   planet-couchdb-1
-  ```
+1. Create a `planetdev` directory for the planet dev data:
+  - **Linux**: `mkdir -p /srv/planetdev && cd /srv/planetdev`
+  - **macOS/Windows**: `mkdir -p ~/srv/planetdev && cd ~/srv/planetdev`
+2. Configure the necessary environment variables:
+  - `echo "OPENAI_API_KEY=APIKEYHERE" > .chat.env`
+  - `echo "PERPLEXITY_API_KEY=APIKEYHERE" >> .chat.env`
+  - *Note*: Don't worry about the actual API keys for now, we will generate them for you if you work on related features.
+3. Download the development yml file:
+- **Linux**: `wget https://github.com/ole-vi/planet-prod-configs/blob/main/planet-dev.yml`
+- **macOS/Windows**: `curl https://gist.githubusercontent.com/xyb994/0d14dfe302df0df0d4e8d8df0d1d5feb/raw/planet-dev-mac.yml -o planet-dev.yml`
+4. Start the containers: `docker-compose -f planet-dev.yml -p planet-dev up -d`
+5. After a minute, run `docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
 
 # Development Structure
 
 It is ideal to create a dedicated `ole` directory for the OLE related projects. This will help in keeping the projects organized and easy to manage. You can create this under the `Documents` directory.
 
-### Configure CORS for couchdb using the add-cors-to-couchdb project:
+### Configure CORS for CouchDB with add-cors-to-couchdb project:
 
-Clone the [Add Cors to CouchDB - https://github.com/pouchdb/add-cors-to-couchdb.git](https://github.com/pouchdb/add-cors-to-couchdb.git) repo
+We use the [Add Cors to CouchDB](https://github.com/pouchdb/add-cors-to-couchdb) project to enable CORS on the CouchDB server. This is necessary for the Planet project to work correctly. We only need this for initialization purposes.
 
+- `cd ~/Documents/ole` - change directory to your dedicated ole folder created in Step 1, this is just an example
+- `git clone https://github.com/pouchdb/add-cors-to-couchdb.git`
 - `cd add-cors-to-couchdb`
 - `npm install`
 - `while ! curl -X GET http://127.0.0.1:2200/_all_dbs ; do sleep 1; done`
 - `node bin.js http://localhost:2200`
 
-We use the Add Cors to CouchDB project to enable CORS on the CouchDB server. This is necessary for the Planet project to work correctly. We only need this for initialization purposes.
-
 ### Configure the Planet project:
 
-Clone the [Planet - https://github.com/open-learning-exchange/planet](https://github.com/open-learning-exchange/planet) repo
+**Note**: Use `docker ps -a` to ensure that `couchdb` and the `chatapi` containers are running before proceeding.
 
+- `cd ..` - go back to your dedicated ole folder
+- `git clone https://github.com/open-learning-exchange/planet.git` - Clone the [open-learning-exchange/planet](https://github.com/open-learning-exchange/planet) repo
 - `cd planet`
 - `curl -X PUT http://localhost:2200/_node/nonode@nohost/_config/log/file -d '"/opt/couchdb/var/log/couch.log"'`
 - `curl -X PUT http://localhost:2200/_node/nonode@nohost/_config/log/writer -d '"file"'`
 - `curl -X PUT http://localhost:2200/_node/nonode@nohost/_config/chttpd/authentication_handlers -d '"{chttpd_auth, cookie_authentication_handler}, {chttpd_auth, proxy_authentication_handler}, {chttpd_auth, default_authentication_handler}"'`
 
-**Note**: Ensure that the couchdb and the chatapi containers are running before proceeding
-
 Run the couchdb-setup.sh script to set up the couchdb database for the planet project
 
 - `chmod +x couchdb-setup.sh`
 - `. couchdb-setup.sh -p 2200 -i`
-      
-**Note**: In the event of permission issues use the below command, replacing the username and password field your preferred credentials. Take note of them you will use these credentials to access couchdb using the fauxton interface(2300/_utils):
+
+**Note**: If you encounter permission issues, use the command below, replacing the `username` and `password` with your preferred credentials. Keep these credentials handy, as you’ll need them to access CouchDB via the Fauxton interface (`2300/_utils`).
 
 - `. couchdb-setup.sh -p 2200 -i -u "username" -w "password"`
 
