@@ -24,8 +24,7 @@ Create a srv directory for the planet dev data & configure the necessary environ
 Download the development yml file and start the containers:
 
 - `wget https://github.com/ole-vi/planet-prod-configs/blob/main/planet-dev.yml`
-- `mv planet-dev.yml planet.yml`
-- `docker-compose -f planet-docker-setup.yml -p planet up -d`
+- `docker-compose -f planet-dev.yml -p planet-dev up -d`
 
 After a while verify that you have 2 runnning containers i.e chatapi and couchdb containers, the db-init container should have exited.
 
