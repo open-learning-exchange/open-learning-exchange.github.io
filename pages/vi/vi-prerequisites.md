@@ -55,7 +55,7 @@ If you don't have Git installed already:
 - **Debian/Ubuntu**: `apt-get update && apt-get install git`
 - **macOS**: `brew install git`
 - **Windows with WSL - Debian app**: `sudo apt-get update && sudo apt-get install git`
-- **Windows** (if you are unable to install WSL 2 earlier): `choco install git.install`
+- **Windows** (if you were unable to install WSL 2 earlier): `choco install git.install`
   - This will install **Git Bash**, which you can find in your Windows Start menu. **From now on, run commands in Git Bash whenever appropriate and possible.**
 
 For detailed instructions or alternative installation method, please go to [**Git - Downloads**](https://git-scm.com/downloads) and select your operating system.
@@ -78,8 +78,8 @@ Go to [**Install Docker Engine | Docker Docs**](https://docs.docker.com/engine/i
 
 #### Install Docker – Windows
 
-- Follow "Install Docker – Linux" above and select Debian under the "Platform" column
-- If you are unable to install WSL 2 earlier:`choco install docker-desktop`
+- **Windows with WSL**: Follow "Install Docker – Linux" above and select Debian under the "Platform" column
+- **Windows** (if you were unable to install WSL 2 earlier):`choco install docker-desktop`
 
 ## Node.js
 
@@ -90,8 +90,8 @@ To install Node.js v14, visit [**Node.js — Download Node.js**](https://nodejs.
 1. In the first dropdown, select version `v14.*.*`
 2. In the second dropdown, select your operating system. If have Windows and installed WSL 2 earlier, select `Linux`.
 3. In the third dropdown:
-   - For macOS/Linux/Windows with WSL 2, select `nvm`.
-   - For Windows without WSL 2, select `fnm` or `Chocolatey` (if you have Chocolatey already).
+   - For macOS/Linux/Windows with WSL, select `nvm`.
+   - For Windows without WSL, select `fnm` or `Chocolatey` (if you have Chocolatey already).
 4. Follow the instruction to install node.js v14 onto your system
 
 ## Angular CLI
