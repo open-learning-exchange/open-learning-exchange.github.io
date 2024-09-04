@@ -44,49 +44,6 @@ Common Commands:
 
 Once confirmed, follow the directions below to spin up Planet on your OS.
 
-## Windows - Run Planet Community with Docker
-
-TO BE FILLED
-
-## macOS - Run Planet Community with Docker
-
-```bash
-# pull the latest tags for the planet, db-init, and chatapi Docker images
-docker pull treehouses/planet:latest
-docker pull treehouses/planet:db-init
-docker pull treehouses/planet:chatapi
-
-# create tags as fixed version reference for above images
-docker tag treehouses/planet:latest treehouses/planet:local
-docker tag treehouses/planet:db-init treehouses/planet:db-init-local
-docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
-
-# create a dedicated directory
-# for mapping Docker container volumes and configuring environment variables
-mkdir -p ~/planet
-cd ~/planet
-
-# we are putting "DUMMYAPIKEY" here for now
-# when you work on related features, we will assign you the keys
-echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
-echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
-
-# download docker compose yml file
-curl https://gist.githubusercontent.com/xyb994/da04da73f903757d71d8a56780edcfcc/raw/planet-so-mac.yml -o planet.yml
-
-# starts the containers in the background
-# with compose configuration file planet.yml and leaves them running
-docker compose -f planet.yml -p planet up -d --build
-
-# see if the docker containers are running
-# ensure it says "Up" in STATUS column
-# with the exception of db-init, which may finished running and exited already
-docker container ls -a
-
-# follow the log in action, press 'control+c' to exit the logs view
-docker compose -f planet.yml -p planet logs -f
-```
-
 ## Linux - Run Planet Community with Docker
 
 ```bash
@@ -126,6 +83,49 @@ docker container ls -a
 # follow the log in action, press 'control+c' to exit the logs view
 docker compose -f planet.yml -p planet logs -f
 ```
+
+## macOS/Windows - Run Planet Community with Docker
+
+```bash
+# pull the latest tags for the planet, db-init, and chatapi Docker images
+docker pull treehouses/planet:latest
+docker pull treehouses/planet:db-init
+docker pull treehouses/planet:chatapi
+
+# create tags as fixed version reference for above images
+docker tag treehouses/planet:latest treehouses/planet:local
+docker tag treehouses/planet:db-init treehouses/planet:db-init-local
+docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
+
+# create a dedicated directory
+# for mapping Docker container volumes and configuring environment variables
+mkdir -p ~/srv/planet
+cd ~/srv/planet
+
+# we are putting "DUMMYAPIKEY" here for now
+# when you work on related features, we will assign you the keys
+echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
+echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
+
+# download docker compose yml file
+curl https://gist.githubusercontent.com/xyb994/da04da73f903757d71d8a56780edcfcc/raw/planet-so-mac.yml -o planet.yml
+
+# starts the containers in the background
+# with compose configuration file planet.yml and leaves them running
+docker compose -f planet.yml -p planet up -d --build
+
+# see if the docker containers are running
+# ensure it says "Up" in STATUS column
+# with the exception of db-init, which may finished running and exited already
+docker container ls -a
+
+# follow the log in action, press 'control+c' to exit the logs view
+docker compose -f planet.yml -p planet logs -f
+```
+
+## Windows - Run Planet Community with Docker
+
+TO BE FILLED
 
 ## Services and Ports
 
