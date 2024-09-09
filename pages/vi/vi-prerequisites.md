@@ -56,9 +56,11 @@ If you don't have Git installed already:
 - **macOS**: `brew install git`
 - **Windows with WSL - Debian app**: `sudo apt-get update && sudo apt-get install git`
 - **Windows** (if you were unable to install WSL 2 earlier): `choco install git.install`
-  - This will install **Git Bash**, which you can find in your Windows Start menu. **From now on, run commands in Git Bash whenever appropriate and possible.**
+  - This will install **Git Bash**, which you can find in your Windows Start menu.
 
 For detailed instructions or alternative installation method, please go to [**Git - Downloads**](https://git-scm.com/downloads) and select your operating system.
+
+**NOTE: For Windows Users**, if you were able to install WSL, run commands in the Debian app from your Windows Start menu whenever possible. If WSL is not available to your Windows version, use Git Bash to run commands whenever appropriate.
 
 ## Docker
 
@@ -97,7 +99,7 @@ To install Node.js v14, visit [**Node.js — Download Node.js**](https://nodejs.
 
 ## Angular CLI
 
-[**Angular CLI**](https://cli.angular.io) is a command-line interface for Angular. To install Angular CLI v10, run `npm install -g @angular/cli@10` in your command prompt or terminal.
+[**Angular CLI**](https://cli.angular.io) is a command-line interface for Angular. To install Angular CLI v10, run `npm install -g @angular/cli@10`.
 
 ---
 
