@@ -86,6 +86,10 @@ docker compose -f planet.yml -p planet logs -f
 
 ## macOS/Windows - Run Planet Community with Docker
 
+- **macOS**: run commands below in the terminal app of your choice.
+- **Windows with WSL**: run commands below in your Debian app.
+- **Windows without WSL**: run commands below in Git Bash.
+
 ```bash
 # pull the latest tags for the planet, db-init, and chatapi Docker images
 docker pull treehouses/planet:latest
@@ -122,10 +126,6 @@ docker container ls -a
 # follow the log in action, press 'control+c' to exit the logs view
 docker compose -f planet.yml -p planet logs -f
 ```
-
-## Windows - Run Planet Community with Docker
-
-TO BE FILLED
 
 ## Services and Ports
 
