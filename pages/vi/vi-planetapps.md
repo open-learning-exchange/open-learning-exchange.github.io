@@ -82,19 +82,11 @@ As you go through the course, the last question will ask for your feedback on an
 1. Click on **Courses** in the top navigation menu.
 2. Search for the course "GitHub Issues and Pull Requests," select the checkbox next to the course title, and click on **Join**.
 3. Click on the course to open it and start with **View Steps**.
-4. Carefully complete all steps of the course, and don't forget to take the quiz.
+4. Carefully complete each step of the course, and be sure to take the quiz at the end of each step if one is available.
+5. When rating a course, aim to be as specific as possible.
 
-  ![Finished Planet Course](images/vi-planet-course.jpg)
-
-5. To verify that your course answers were submitted, click on **Dashboard** from the top navigation menu. Then, under **myLife**, click on **my Submissions**. Make sure to filter by "All" under **Status** to view all submissions.
-
-  ![Submissions button](images/vi-planet-submissions-button.png)
-  ![View Submissions](images/vi-planet-submissions.png)
-
-6. When providing a rating for a course, try to be as specific as possible.
-
-  ![Take the Course](images/vi-take-the-course.png)
-  ![Course Overview](images/vi-course-view.png)
+  ![Course overview](images/vi-planet-course-overview.png)
+  ![Rate the course](images/vi-planet-course-rating.png)
 
 If the course "GitHub Issues and Pull Requests" is not listed, check the **Manage Sync** section on the Manager Settings page to see if your synchronization has been completed. If not, please message us on the Discord server so we can manually send you the course.
 
