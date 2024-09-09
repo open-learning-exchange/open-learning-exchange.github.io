@@ -28,7 +28,7 @@ To ensure all required software from [Step 1 - Prerequisites](vi-prerequisites.m
 3. Download the development yml file:
   - **Linux**: `wget https://github.com/ole-vi/planet-prod-configs/blob/main/planet-dev.yml`
   - **macOS/Windows**: `curl https://gist.githubusercontent.com/xyb994/0d14dfe302df0df0d4e8d8df0d1d5feb/raw/planet-dev-mac.yml -o planet-dev.yml`
-4. Start the containers: `docker-compose -f planet-dev.yml -p planet-dev up -d`
+4. Start the containers: `docker compose -f planet-dev.yml -p planet-dev up -d`
 5. After a minute, run `docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
 
 # Development Structure
