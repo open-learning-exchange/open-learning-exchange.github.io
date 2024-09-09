@@ -32,7 +32,7 @@ The Planet is not only a library, but also an individualized learning system, wh
 
 Visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) to access the initial admin configuration page. If you cannot access it, follow the instructions below based on your OS.
 
-1. Run `docker ps -a` in your terminal (use Git Bash on Windows) to check if your Community Planet is "up" and running.
+1. Run `docker ps -a` in your Linux/macOS terminal or Windows WSL Debian app / Git Bash to check if your Community Planet is "up" and running.
 2. If it's not running, navigate to the `planet` directory on your local machine:
 
    - **Linux:** `cd /srv/planet`
