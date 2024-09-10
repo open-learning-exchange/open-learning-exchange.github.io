@@ -77,6 +77,8 @@ If you encounter permission issues, run the command below, replacing `username` 
 Install dependecies and serve the app
 
 - `npm install`
+  - **Note**: This step may take longer than expected based on recent experiences. If the installation progress seems stuck, we recommend leaving it running in the background and checking back after 30 minutes to see if it has progressed. Once the installation is complete, it should display the total time taken. Please share how long it took in the `#vi-software` Discord channel.
+This version emphasizes clarity and readability while retaining the original message.
 - `ng serve`
 - Visit <localhost:3000> to access the planet app
 
