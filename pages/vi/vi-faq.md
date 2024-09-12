@@ -23,8 +23,9 @@
 - **Q16:** [I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?](#Q16:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;YourUsername&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
 - **Q17:** [What do I do if I already have a github.io with my username?](#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
 - **Q18:** [What if I accidentally resign my manager account, or delete my planet folder, how do I recreate my manager profile?](#Q18:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_planet_folder,_how_do_I_recreate_my_manager_profile?)
-- **Q19:** [How do I destroy planet docker services and start over?](#Q19:_How_do_I_destroy_planet_docker_services_and_start_over?)
-- **Q20:** [What do I do if I cannot create a dummy account?](#Q20:_What_do_I_do_if_I_cannot_create_a_dummy_account?)
+- **Q19:** [How can I run two communities on the same machine?](#Q19:_How_can_I_run_two_communities_on_the_same_machine?)
+- **Q20:** [How do I destroy planet docker services and start over?](#Q20:_How_do_I_destroy_planet_docker_services_and_start_over?)
+- **Q21:** [What do I do if I cannot create a dummy account?](#Q21:_What_do_I_do_if_I_cannot_create_a_dummy_account?)
 
 ### General Internship Questions
 
@@ -38,16 +39,16 @@
 
 #### Q3: Where can I find more information about this internship?
 
-+ More information about the internship can be found at the Virtual Software Engineer Intern listing [here](https://www.ole.org/join-our-team/).
++ More information about the internship can be found at the OLE's Virtual Software Engineer Intern listing on your university's Handshake site.
 
 #### Q4: What are the hours of the internship?
 
-+ This is an intensive internship that requires 24 hours of work each week. Work with your fellow interns and keep us updated in the [Discord server](https://discord.gg/mtgGD4EnYW).
-+ The reason we have a 24 hour minimal commitment per week is that things are moving forward quickly and it might be hard for virtual interns to catch up with changes. Basically, we would have a few hours of Google Hangout sessions per week where everyone shares their screen, discusses problems, and works on issues together. Then the rest of the time is for catching up with the changes and working on issues assigned.
++ This is an intensive internship requiring 24 hours of work per week. Please collaborate with fellow interns and keep us updated via the Discord server.
++ The 24-hour minimum commitment is necessary due to the fast-paced nature of our work, which can make it difficult for virtual interns to stay up to date. We host a Google Meet virtual office from Monday to Friday, approximately 5 AM to 5 PM EDT. During this time, you can hear about ongoing projects, share your screen, ask questions, discuss challenges, and collaborate on issues. You can join the Google Meet virtual office whenever you’re working, but you don’t have to be on for all your work hours. Use the remaining time to catch up on changes and complete assigned tasks.
 
 #### Q5: Is this a paid internship?
 
-+ This position is unpaid, but it will provide a diverse range of experiences in the workplace. We can provide a certificate of completion, upon request. Also, academic credit can be provided through your institution (if applicable).
++ This is an unpaid position but offers a diverse range of workplace experiences. Upon request, we can provide a certificate of completion. Academic credit may be available through your institution (if applicable), and we can assist with paperwork for CPT or first-year OPT.
 
 #### Q6: What happens after the initial steps?
 
@@ -105,7 +106,7 @@
 
   3. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repo &lt;orgname&gt;.github.io.
 
-#### Q18: What if I accidentally resign my manager account, or delete my srv/planet folder, how do I recreate my manager profile?
+#### Q18: What if I accidentally resign my manager account, or delete my planet folder, how do I recreate my manager profile?
 
 + Please follow the guide at [Q20](#Q20:_How_do_I_destroy_everything_and_start_over?) to destroy the original planet docker services and start over.
 
