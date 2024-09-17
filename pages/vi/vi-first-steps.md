@@ -53,7 +53,7 @@ This step includes two tasks:
 
 ## Step 1 - Prerequisites
 
-Setting up your local development environment is the first step to becoming a Virtual Intern at OLE. Follow the instructions on the [Development Environment Setup](vi-prerequisites.md) to install the necessary tools and software. This will prepare you to successfully run both production and development versions of the planet later on.
+Setting up your local development environment is the first step to becoming a Virtual Intern at OLE. Follow the instructions on the [Environment Setup](vi-prerequisites.md) to install the necessary tools and software. This will prepare you to successfully run both production and development versions of the planet later on.
 
 ## Step 2 - Planet and Docker
 
