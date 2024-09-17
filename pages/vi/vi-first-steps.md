@@ -42,20 +42,18 @@ This step includes two tasks:
    - To keep up with the latest activities, use the "Watch" button in repositories and "Follow" individuals.
    - Visit [GitHub](https://github.com), and watch the [Open Learning Exchange's Planet repository](https://github.com/open-learning-exchange/planet) to stay updated on changes.
    - Follow OLE's CTO [dogi](https://github.com/dogi) and Planet's core developer [Mutugi](https://github.com/Mutugiii) on GitHub.
-   - Additionally, follow other prospective virtual interns to see their progress.
+  - You can also follow [other active virtual interns](vi-team.md) to stay updated on their activities.
 
    ![Watch Screen Shot](images/vi-watch.png)
    ![Follow Screen Shot](images/vi-follow.png)
 
 2. **Contribute to Translations on Crowdin:**
-   - We use Crowdin to translate our user interface into various languages.
-   - If you know [another language supported by Planet](https://crowdin.com/project/ole-planet), your translation help would be appreciated.
-   - Create a Crowdin account and aim to translate 10% of the words in your chosen language.
-   - Refer to the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md) for an overview of the functionality and terminology. Your contributions will help us and enhance your understanding of Planet.
+   - We use Crowdin to translate our user interface into multiple languages.
+   - If you know [a language supported by Planet](https://crowdin.com/project/ole-planet), your translation assistance would be greatly appreciated. Create a Crowdin account and aim to translate at least 10% of the words in your chosen language. For an overview of the functionality and terminology, refer to the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md). Your contributions will help both the project and enhance your understanding of Planet. Be sure to let us know in the [#vi-software channel](https://discord.com/channels/1079980988421132369/1229437557843169280) on Discord if you're able to contribute to our translation efforts.
 
 ## Step 1 - Prerequisites
 
-Setting up your local development environment is the first step to becoming a Virtual Intern. Follow the instructions on the [Development Environment Setup](vi-prerequisites.md) to install the necessary tools and software. This will prepare you to successfully run both production and development versions of the planet later on.
+Setting up your local development environment is the first step to becoming a Virtual Intern at OLE. Follow the instructions on the [Development Environment Setup](vi-prerequisites.md) to install the necessary tools and software. This will prepare you to successfully run both production and development versions of the planet later on.
 
 ## Step 2 - Planet and Docker
 
