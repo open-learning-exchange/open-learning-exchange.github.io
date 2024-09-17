@@ -32,7 +32,7 @@ Now, take a look at [the YAML file for planet](https://github.com/open-learning-
 
 ## Check Your Docker Installation
 
-You installed Docker in the previous step. Now, run `docker` in your Linux/macOS terminal or Windows WSL Debian app / Git Bash. If it's installed correctly, you'll see the help message without any errors:
+You installed Docker in the previous step. Now, run `docker` in your Linux/macOS terminal or <!-- Windows WSL Debian app / --> Git Bash. If it's installed correctly, you'll see the help message without any errors:
 
 ```
 Usage:  docker [OPTIONS] COMMAND
@@ -87,8 +87,12 @@ docker compose -f planet.yml -p planet logs -f
 ## macOS/Windows - Run Planet Community with Docker
 
 - **macOS**: run commands below in the terminal app of your choice.
+- **Windows**: run commands below in your Git Bash app.
+
+<!--
 - **Windows with WSL**: run commands below in your Debian app.
 - **Windows without WSL**: run commands below in Git Bash.
+-->
 
 ```bash
 # pull the latest tags for the planet, db-init, and chatapi Docker images
