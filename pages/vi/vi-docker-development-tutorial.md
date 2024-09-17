@@ -4,6 +4,32 @@
 
 - Learn about running the Planet development environment
 
+## Prerequisites
+
+For development, the following additional tools are required:
+
+- Node.js v14
+- Angular CLI v10
+
+### Node.js
+
+[**Node.js**](https://nodejs.org) is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
+
+1. Check if Node.js is already installed by running `node -v` in your terminal or Git Bash. If the output starts with `v14.`, you can skip the rest and proceed to "Angular CLI."
+2. Check if you have a Node.js environment manager, such as `nvm` or `fnm`, by running `nvm -v` and `fnm -v`. If installed, use `nvm install 14` or `fnm use --install-if-missing 14` to install Node.js 14.
+3. If neither is installed, you can install Node.js v14 by visiting [**Node.js — Download Node.js**](https://nodejs.org/en/download/package-manager):
+  1. In the first dropdown, select version `v14.*.*`
+  2. In the second dropdown, select your operating system.
+  3. In the third dropdown:
+    - For Linux, select `nvm`
+    - For Windows, select `fnm`
+    - For macOS, select `fnm`
+  4. Follow the instruction to install node.js v14 onto your system
+
+### Angular CLI
+
+[**Angular CLI**](https://cli.angular.io) is a command-line interface for Angular. After installing node 14, run `npm install -g @angular/cli@10` to install Angular CLI v10.
+
 ## Introduction
 
 After setting up the production server for Planet, we will now configure the development environment and server. This will allow you to make changes to the code and see the results in real-time. 
