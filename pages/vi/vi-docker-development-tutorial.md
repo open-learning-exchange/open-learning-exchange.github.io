@@ -31,24 +31,28 @@ To ensure all required software from [Step 1 - Prerequisites](vi-prerequisites.m
 4. Start the containers: `docker compose -f planet-dev.yml -p planet-dev up -d`
 5. After a minute, run `docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
 
-# Development Structure
-
-It is ideal to create a dedicated `ole` directory for the OLE related projects. This will help in keeping the projects organized and easy to manage. You can create this under the `Documents` directory.
-
-### Configure CORS for CouchDB with add-cors-to-couchdb project:
+## Configure CORS for CouchDB with add-cors-to-couchdb project:
 
 We use the [Add Cors to CouchDB](https://github.com/pouchdb/add-cors-to-couchdb) project to enable CORS on the CouchDB server. This is necessary for the Planet project to work correctly. We only need this for initialization purposes.
 
 ```bash
-cd ~/Documents/ole  # change directory to the dedicated ole folder you created earlier
+# change directory to the dedicated ole folder you created in Step 1's "Preparation" section
+# this is just an example
+cd ~/Documents/ole
+
+# clone Add Cors to CouchDB repository
 git clone https://github.com/pouchdb/add-cors-to-couchdb.git
+
+# cd into the repo folder and install required node modules for this project
 cd add-cors-to-couchdb
 npm install
+
+# ensure couchdb docker service is up and running then update CouchDB with CORS settings
 while ! curl -X GET http://127.0.0.1:2200/_all_dbs ; do sleep 1; done
 node bin.js http://localhost:2200
 ```
 
-### Configure the Planet project:
+## Configure the Planet project:
 
 ```bash
 # ensure that `couchdb` and the `chatapi` containers are running before proceeding.
@@ -61,6 +65,7 @@ cd ..
 git clone https://github.com/open-learning-exchange/planet.git
 cd planet
 
+# adjust the logging configuration and authentication settings of the CouchDB service
 curl -X PUT http://localhost:2200/_node/nonode@nohost/_config/log/file -d '"/opt/couchdb/var/log/couch.log"'
 curl -X PUT http://localhost:2200/_node/nonode@nohost/_config/log/writer -d '"file"'
 curl -X PUT http://localhost:2200/_node/nonode@nohost/_config/chttpd/authentication_handlers -d '"{chttpd_auth, cookie_authentication_handler}, {chttpd_auth, proxy_authentication_handler}, {chttpd_auth, default_authentication_handler}"'
@@ -68,11 +73,13 @@ curl -X PUT http://localhost:2200/_node/nonode@nohost/_config/chttpd/authenticat
 # run the couchdb-setup.sh script to set up the couchdb database for the planet project
 chmod +x couchdb-setup.sh
 bash couchdb-setup.sh -p 2200 -i
+
+#### Troubleshooting ####
+# If you encounter permission issues, run the command below,
+# replacing `username` and `password` with your preferred credentials.
+# Be sure to save these credentials, as you'll need them to access CouchDB through the Fauxton interface (`2300/_utils`).
+bash couchdb-setup.sh -p 2200 -i -u "username" -w "password"
 ```
-
-If you encounter permission issues, run the command below, replacing `username` and `password` with your preferred credentials. Be sure to save these credentials, as you'll need them to access CouchDB through the Fauxton interface (`2300/_utils`).
-
-- `bash couchdb-setup.sh -p 2200 -i -u "username" -w "password"`
 
 Install dependecies and serve the app
 
@@ -81,6 +88,8 @@ Install dependecies and serve the app
 This version emphasizes clarity and readability while retaining the original message.
 - `ng serve`
 - Visit <localhost:3000> to access the planet app
+
+## Service Ports
 
 **Note**: The port numbers for the development and production servers are different
 
