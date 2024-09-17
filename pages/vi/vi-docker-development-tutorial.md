@@ -34,7 +34,7 @@ For development, the following additional tools are required:
 
 After setting up the production server for Planet, we will now configure the development environment and server. This will allow you to make changes to the code and see the results in real-time. 
 
-To ensure all required software from [Step 1 - Prerequisites](vi-prerequisites.md) is installed, run the following commands:
+To ensure all required software is installed, run the following commands:
 
 - `docker -v` - Should display Docker version
 - `git -v` - Should display git version
