@@ -37,7 +37,8 @@
   * [Step 6 - GitHub Issues Tutorial](pages/vi/vi-github-issues.md)
   * [Step 7 - Nation Planet](pages/vi/vi-nation.md)
   * [Step 8 - Create Issues and Pull Requests](pages/vi/vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)
-  * [Step 9 - Be part of team](pages/vi/vi-first-steps.md#Step_9_-_Be_part_of_team)
+  * [Step 9 - Planet Development Setup](pages/vi/vi-first-steps.md#Step_9_-_Planet_Development_Setup)
+  * [Step 10 - Be Part of the Team](pages/vi/vi-first-steps.md#Step_10_-_Be_Part_of_the_Team)
   * [Track Progress](pages/track-first-steps-progress.md)
   - - - -
   * [**Members**](pages/vi/vi-team.md)
