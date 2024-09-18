@@ -114,6 +114,8 @@ Install dependecies and serve the app
 This version emphasizes clarity and readability while retaining the original message.
 - `ng serve`
 - Visit <localhost:3000> to access the planet app
+- Similarly to [Step 2.2 - Planet Configurations](vi-planet-configurations.md#Configure_Your_Planet_Community), you’ll need to configure a new planet community with a slightly modified name (e.g., `<YourUserName>dev`).
+- Take a screenshot of the new configuration page and post it in the #vi-software channel on our Discord server.
 
 ## Service Ports
 
