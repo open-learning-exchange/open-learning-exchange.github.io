@@ -68,10 +68,6 @@ This step includes two tasks:
    - Refer to the [Planet Configurations page](vi-planet-configurations.md).
    - Learn how to configure your Community Planet.
 
-<!-- 3. [Development Planet Installation](vi-planet-development-setup.md)
-   After setting up the local production environment in the previous step, you will now set up the development environment. Follow the instructions on the [Planet Development Setup page](vi-planet-development-setup.md). Here you interact with docker, git, angular, node.js and the planet application to set up the development environment.
-   You will be required to run a new community planet configuration with a slightly different name(github username + dev) and take a screenshot of the new configuration page and post it to the [Discord server](https://discord.gg/mtgGD4EnYW). -->
-
 ## Step 3 - Markdown and Fork Tutorial
 
 Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md).
@@ -141,12 +137,12 @@ Once you complete Step 8 you will have:
 
 **Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
-## Step 9 - Be part of the team
+## Step 9 - Planet Development Setup
 
-After completing Step 8, sync your community with the nation, just as you did in [Step 7 - Nation Planet](vi-nation.md#Sync_With_the_Nation).
+In Step 2, we set up a local production environment for Planet. Now, follow the [Planet Development Setup Tutorial](vi-docker-development-tutorial.md) to configure your development environment. This step involves working with Docker, Git, Node.js, Angular, and the Planet application.
 
-Next, follow the [Planet Development Setup Tutorial](vi-docker-development-tutorial.md) to set up your development environment for Planet.
+## Step 10 - Be Part of the Team
 
-Once your setup is complete, add yourself to the virtual intern list in [vi-team.md](vi-team.md) and submit a pull request. Then, message us ("@mutugiii", "@dogi", and "@vi-software") in the Discord #vi-software channel so we can schedule a meeting and officially add you to the team.
+Next thing is to add yourself to the virtual intern list in [vi-team.md](vi-team.md) and submit a pull request. Afterward, message us ("@mutugiii", "@dogi", and "@vi-software") in the Discord #vi-software channel to schedule a meeting and officially join the team.
 
-Please make sure to review the [Software Engineering Intern Orientation document](vi-intern-orientation.md) before the meeting.
+Before the meeting, be sure to review the [Software Engineering Intern Orientation document](vi-intern-orientation.md).
