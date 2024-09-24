@@ -43,7 +43,7 @@ Visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](
 
 ## Configure Your Planet Community
 
-Visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) to access the initial admin configuration page. Fill out the admin username and password, and make sure to remember the password.
+Visit the initial admin configuration page by navigating to [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300). **Use `admin` as both the username and password**, as specified in the Docker Compose YAML file from the previous step.
 
 ![Become an Administrator](images/vi-become-admin.png)
 
