@@ -2,102 +2,93 @@
 
 ## Objectives
 
-* Learn to sync your Community with the Nation
-* Use the Nation interface to check whether your Community has successfully joined the Nation
-* Update your Community Planet to the latest version
+- Learn how to sync your Community with the Nation.
+- Use the Nation interface to verify if your Community has successfully joined the Nation.
+- Update your Community Planet to the latest version.
 
 ## Introduction
 
-In [Step 1 - Planet Installation - Configuration](vi-configurations-vagrant.md), you registered your community Planet with the nation. Now, you will learn how to keep your community Planet in sync with the nation.
+In [Step 2.2 - Planet Configurations](vi-planet-configurations.md), you registered your Community Planet with the "vi" nation. Now, you will learn how to keep your Community Planet in sync with the nation.
 
-There should be constant communication between the nation and the communities. While it is not necessary for remote communities in the field, it is ideal for our goals of "improving the software and testing the increasing forms of communication and feedback between the nation and the communities". This communication takes the form of a syncing process from the community side, where you select material to send to the nation.
+To achieve this, there should be regular communication between the nation and the communities. Although not required for remote communities in the field, this synchronization is crucial for "improving the software and testing the increasing forms of communication and feedback between the nation and the communities." This communication involves a syncing process from the community side, where you select the material to send to the nation.
 
-Make sure Vagrant is running and then click [here](http://localhost:3100) to access your Community Planet.
-It is recommended that you use Firefox since Planet is only guaranteed to run properly on Firefox.
+Ensure Docker is running and visit [http://localhost:3300](http://localhost:3300) to access your Community Planet.
 
-**NOTES**: After you register your community, but before you can sync with the nation, you need to create an additional dummy user in your community. Here is how to create a dummy user:
-1. Create a quick additional user under "Become a Member" on the login page (HINT: When creating the dummy user, don't give it   a password that you actually use).
-2. Then, log in to your admin account and double-check that you're listed under Members on the Manager Settings page.
-3. Now that your community has a user, you can sync with the nation.
-For any additional questions, please look at the FAQ section (link in the Useful Links).
-
-![Clicking on "Dummy User"](images/vi-become-member.png "Dummy User")
+**NOTES:** Before you can sync with the nation after registering your community, you need to create an additional dummy user in your community:
+1. Quickly create an additional user under **Become a Member** on the planet login page.
+2. Log in to your admin account and ensure the new user is listed under **Members** on the Manager Settings page.
 
 ## Sync With the Nation
 
-In [Step 4](vi-planetapps.md#Different_Kinds_of_Updates_to_Your_Community), we listed 3 kinds of updates that you might receive on the community side: Updates, Publications, and Surveys. Another important type of update is the reverse: syncing with the nation. This sends data about your community to the nation.
+In [Step 4 - Planet Tutorial - Different Kinds of Updates to Your Community](vi-planetapps.md#Different_Kinds_of_Updates_to_Your_Community), we described three types of updates you might receive on the community side: **Upgrades**, **Resources/Courses**, and **Sync**. One crucial sync is between your community and the nation, which sends data about your community to the nation.
 
-You can click on the "Manager" icon as can be seen in the picture below.
+To start the sync process:
 
-![Clicking on "Manager"](images/edit-vi-nation-manager.png "Dashboard in your localhost")
+1. Click on the **Manager** icon, as shown in the image below.
 
-Next, click on "Manage Sync".
+  ![Clicking on "Manager"](images/edit-vi-nation-manager.png "Dashboard in your localhost")
 
-![Clicking on "Sync with Nation"](images/vi-nation-sync.png "Community Manage Page in your localhost")
+2. Next, click on **Manage Sync**.
 
-Then, you will end up on a page showing all sync process. Click on the **Run Sync** button.
+  ![Clicking on "Sync with Nation"](images/vi-nation-sync.png "Community Manage Page in your localhost")
 
-![Clicking on "Select All" and "Send"](images/vi-nation-sync-send.png "Community Manage Page in your localhost")
+3. You will be taken to a page displaying all sync processes. Click the **Run Sync** button.
 
-You will be prompted to provide an Administrator password. Once you confirm this password, the sync process will start.
+  ![Clicking on "Select All" and "Send"](images/vi-nation-sync-send.png "Community Manage Page in your localhost")
 
-You have now sent all activities from your community to the nation. To elaborate, the nation receives a number of data points: number of resources opened, number of logins, number of members, resource ratings, technical feedback, and resource requests. We don't get specific information on individual users, but rather data on usage and feedback as a whole.
+4. You will be prompted to enter the Administrator password. After entering the password, the sync process will begin.
+
+By syncing, you send all community activities to the nation. The nation receives aggregated data, such as the number of resources opened, logins, members, resource ratings, technical feedback, and resource requests. This data is not specific to individual users but rather reflects overall usage and feedback.
 
 ## Check Sync Status
 
-On the nation side ([planet.vi.ole.org](http://planet.vi.ole.org)), you can log in with the username `vi` and the password `iv` and check that the sync worked.
-![Opening vi nation](images/vi-login-page.png "Login page on vi nation")
+To verify that the sync was successful, log in to the nation site at [planet.vi.ole.org](https://planet.vi.ole.org) using the username `vi`. To obtain the password, send `-get_vi_nation_pwd` in the #vi-software Discord channel, and you will receive a DM from the YAGPDB bot containing the password.
 
-Click on "Manager" once again.
-![Clicking on "Manager" after logging in to the nation](images/vi-manager-link.png "Dashboard in ole site")
+1. Once logged in, click on the **Manager** icon.
 
-Then, click on "Reports" to access reports from various communities in the nation.
+  ![Planet Dashboard with manager icon highlighted in the upper right corner](images/vi-manager-link.png "Planet Dashboard with manager icon highlighted in the upper right corner")
 
-![Clicking on "Reports"](images/vi-manager-dashboard.png "Manager Page in ole site")
+1. Then, click on **Reports** to access reports from various communities within the nation.
 
-Now, you should see a ` Sandbox ` tab, click on it.
+  ![Arrow pointing to "Reports" in Planet Manager Settings](images/vi-manager-dashboard.png "Arrow pointing to \"Reports\" in Planet Manager Settings")
 
-![Sandbox Tab](images/vi-nation-sandbox.png)
+1. Next, click to expand the **Sandbox** tab.
 
-You should see a list of communities. Click on your community to view its report.
+  ![Sandbox Tab](images/vi-nation-sandbox.png)
 
-![Communities List](images/vi-nation-communities.png "Report Communities List Page in ole site")
+1. You will see a list of communities. Locate and click on your community name to view its report.
 
-Finally, you will see a report of your community. It will have some graphical and some tabular statistics of your community data you synced earlier.
+  ![Planet - reports - community list](images/vi-nation-communities.png "Planet - reports - community list")
 
-![Generate Report](images/vi-nation-report.png "Communities Requests Page in ole site")
+1. You will now see a report of your community, which includes graphical, tabular, and numerical statistics of the data you synced earlier.
 
-## Update your community
+  ![Generate Report](images/vi-nation-report.png "Communities Requests Page in OLE site")
 
-On your [local community](http://localhost:3100) login as Administrator. Then go to the Manager Page. You should see an option to perform an Upgrade.
-If you do not see the **Upgrade** button, please check your current **Nation version** and your current **Local version**. If both versions appear to be the same, this indicates your planet is already up-to-date. If you see any other message(s) below your version, please send a message on the Discord server Channel along with a screenshot of what you are seeing.
+## Update Your Community Planet
 
-![Check version](images/vi-planet-version.png "Communities Check version")
+1. Navigate to your community Planet's Manager Settings page. Check your current **Nation Version** and **Local Version**. If both versions are the same, your planet is already up-to-date.
 
-Click on the **Upgrade** button and you will be presented with the Upgrade page. Click on the **Start Upgrade** button.
+1. Otherwise, you should see an "**Upgrade**" button (please note it's different than "Upgrade myPlanet" button.) If the **Upgrade** button is not visible, please send a message in #vi-software channel in our Disocrd server along with a screenshot of you Manger Settings page.
 
-![Upgrade Planet](images/vi-planet-upgrade.png "Communities Upgrade")
+  ![Check version](images/vi-planet-version.png "Communities Check version")
 
-You should then see a log of the current upgrade process along with a progress bar. Once the upgrade has completed, a message will appear informing you that the upgrade was successful.
+1. Click on the **Upgrade** button and you will be presented with the Upgrade page. Click on the **Start Upgrade** button.
 
-![Upgrade Success](images/vi-planet-upgrade-success.png "Communities Upgrade successful")
+1. You should then see a log of the current upgrade process showing new docker images been pulled along with a progress bar. Once the upgrade has completed, a message will appear informing you that the upgrade was successful.
+
+  ![Upgrade Success](images/vi-planet-upgrade-success.png "Communities Upgrade successful")
+
+1. After the upgrade is completed on the web interface, run `docker compose -f planet.yml -p planet stop` then use `docker compose -f planet.yml -p planet up -d` to have the updated services recreated.
+
+1. Finally, force reload the Planet page in your browser and verify your community planet version is updated.
 
 NOTE: If you see an error message during the upgrade process please try again.
-
-You will have to restart your community for the upgrade's changes to take effect.
-Run the following commands on your terminal/command prompt to restart your virtual machine. Please make sure you are in the correct folder path where your planet exists.
-
-```
-vagrant halt prod
-vagrant up prod
-```
 
 ## Useful Links
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
 ## Next Section _([Step 8](vi-create-issues-and-pull-requests.md))_ **→**
-
 
 In the next section, you will create and resolve more issues with GitHub.
 

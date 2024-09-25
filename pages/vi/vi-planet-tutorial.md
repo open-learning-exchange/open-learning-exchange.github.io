@@ -8,7 +8,7 @@
 
 ## Preparation
 
-Please run `docker ps -a` or go to <http://127.0.0.1> to see if your community `planet` is currently running.
+Please run `docker ps -a` or go to <http://127.0.0.1:3300> to see if your community `planet` is currently running.
 If not, please go to `planet/docker` directory and run `docker-compose -f planet.yml -p planet start`.
 
 ## Planet

@@ -2,103 +2,93 @@
 
 ## Objectives
 
-* Understand how Planet interface is structured
-* Understand basic functions of community Planet
-* Add resources to your Community in order to get accustomed to the Planet interface
+- Understand how Planet interface is structured
+- Understand basic functions of community Planet
+- Add resources to your Community in order to get accustomed to the Planet interface
 
 ## Preparation
-Please go to http://localhost:3100 or run `vagrant global-status` in the command line to see if your community Planet is currently running. If not, please `cd` into `planet` directory in your local machine and run `vagrant up prod`.
 
-Do not forget to send the screenshot of your Planet community configurations ([from the earlier step when you registered your configurations](vi-configurations-vagrant.md)) to our chat. In case you forgot to take the screenshot of your configurations, login to Planet, click on manager settings (top bar person with gear icon), click on the configuration button, take a screenshot of the page, and send it to the Discord server.
+Please go to http://localhost:3300 or run `docker container ls` in your Linux/macOS terminal or <!--Windows WSL Debian app / -->Git Bash to see if your community Planet is currently running. If not, please `cd` into `planet` directory created in step 1 in your local machine and run `docker compose -f planet.yml -p planet start`.
+
+Don’t forget to send a screenshot of your Planet community configurations from [the earlier step](vi-planet-configurations.md). If you forgot to take the screenshot, log in to Planet, click on "Manager Settings" (the person with a gear icon on the top bar), select "Configuration," take a screenshot of the page, and send it to the Discord server.
 
 ![Clicking on "Manager"](images/edit-vi-nation-manager.png "Dashboard in your localhost")
 
 ## Watch Videos
 
-Watch the videos below to learn the basic functions of your Planet. These videos were created a few years ago, on old system BeLL but they should do a decent job of introducing you to the Planet.
+Watch the following videos to learn the basic functions of your Planet. While they were created some years ago using the old BeLL system, they still provide a good introduction:
 
-[My Dashboard](movies/vi-mydashboard.mp4)
-[Library](movies/vi-library.mp4)
-[Feedback](movies/vi-feedback.mp4)
-[Generating Activity Reports](movies/vi-generatingactivityreports.mp4)
+- [My Dashboard](movies/vi-mydashboard.mp4)
+- [Library](movies/vi-library.mp4)
+- [Feedback](movies/vi-feedback.mp4)
+- [Generating Activity Reports](movies/vi-generatingactivityreports.mp4)
 
 We suggest you play around a bit, try to explore and feel comfortable with Planet.
 
 ## Upload Resources
 
-In this section, we will practice uploading resources to the Planet. Although there are several kinds of resources, the majority of them are PDFs, mp3s, and mp4s.
+In this section, we'll practice uploading resources to the Planet. Most resources are PDFs, MP3s, and MP4s.
 
-Here are three types of resources that you can download to your computer and then upload to your Planet. Right-click on each one of these links and save them to your computer.
+Download the following resources to your computer by right-clicking on each link and selecting "Save as":
 
-[PDF - "Feelings"](pdf/vi-feelings.pdf)
-[mp3 song - "Opposite Song"](music/vi-oppositesong.mp3)
-[mp4 video - "Burka Avenger"](movies/vi-burkaavenger.mp4)
+- [PDF - "Feelings"](pdf/vi-feelings.pdf)
+- [MP3 song - "Opposite Song"](music/vi-oppositesong.mp3)
+- [MP4 video - "Burka Avenger"](movies/vi-burkaavenger.mp4)
 
-**NOTE**: Check to see if you are using latest Firefox Browser otherwise [mp3 song - "Opposite Song"](music/vi-oppositesong.mp3) [mp4 video - "Burka Avenger"](movies/vi-burkaavenger.mp4) can't be downloaded.
+To upload these resources to your Planet:
 
-Next, go to [your community Planet](http://localhost:3100). Select `Library` from the dashboard, then select `+` icon. You will see:
-
-![Upload resource screenshot](images/vi-add-new-resource.png)
-
-Fill out the information:
-
-1. Fill in all of the text boxes and drop-down menus (As this is just practice, accuracy of information is not important)
-2. Be sure to **upload** one of the `PDF - "Feelings"`, `mp3 song - "Opposite Song"`, or `mp4 video - "Burka Avenger"` files.
-3. Next, click on Submit. You have now uploaded the resource.
-4. Find the resources in `Library`, and make sure that you can open it.
-5. Repeat this until all three files have been uploaded as resources.
+1. Go to [your community Planet](http://localhost:3300) and select `Library` from the dashboard.
+2. Click the yellow `+` icon to add a new resource.
+3. Fill in all the required text boxes and drop-down menus marked with "\*". (For practice, the accuracy of the information isn't important.)
+4. Upload one of the downloaded files: PDF, MP3, or MP4.
+5. Click "Submit" to upload the resource.
+6. Verify that the resource appears in the `Library` and can be opened.
+7. Repeat these steps until all three files have been uploaded.
 
 ## Different Kinds of Updates to Your Community
 
-There are three important kinds of updates that you may receive on the community side: upgrades, resources/courses and sync. Go to your Manager page and search for the buttons highlighted in the picture below. You may not see the `Fetch Items` button if nation has not sent anything to the community. If you do not see the other two highlighted buttons, post a message to the Discord server channel to get help.
+There are three main types of updates you may receive for your community:
 
-As you can see from the image below, there is an upgrade ready to be downloaded. Usually, next to the upgrade, you should also see publication(s) (we send to you from the nation) ready to be downloaded.
+- **Upgrades**: Software updates that enhance the Planet LMS.
+- **Resources/Courses**: Selected resources and courses are received automatically from the "nation" after your community registration is accepted. The nation may also send additional resources or courses.
+- **Sync**: Synchronizes your community with the nation for updates on meetups, courses, exams, resources, and more. The sync could be bi-directional, depending on the configuration.
 
-![Update from the nation](images/vi-planet-upgrade.png "Manager Dashboard in your localhost")
-![Start to Upgrade](images/vi-start-upgrade.png "Start Upgrade")
+Go to your Manager page and look for the "Upgrade", "Fetch Items", and "Manage Sync" buttons highlighted in the pictures below.
 
-![Fetch Items from the nation](images/vi-planet-fetch-items.png "Manager Dashboard in your localhost")
+You might not see the "Upgrade" or "Fetch Items" button if there's no update or the nation has not manually sent anything to your community. However, **if "Manage Sync" button is missing for you**, please post a message in our Discord server's #vi-software channel to confirm that we have accepted your community connection with the vi nation.
 
-1. Click the `Upgrade` button on Manager page and it will take you to upgrade page. An upgrade refers to a software update which improves the Planet (Note: If you do not see `Upgrade` button then simply carry on). It will then ask you for verification.
-2. After the upgrade is complete, undergo `vagrant halt prod` and `vagrant up prod` to restart planet.
-3. If `Fetch Items` is available on the Manager page, click on it and download the courses offered (3rd picture).
-4. Finally, send an activities sync to the nation by clicking on the `Manage Sync`button on the Manager page. Then, you will end on page showing all sync processes. Click on `Run Sync` button as seen in the screenshot below. You will be prompted to provide Administrator password. Once you confirm password, sync process will start.
+![Manager Settings page with "Upgrade", "Fetch Items", and "Manage Sync" buttons highlighted](images/vi-planet-upgrade.png "Manager Settings Dashboard on planet")
 
-![Clicking on "Select All" and "Send"](images/vi-nation-sync-send.png "Community Manage Page in your localhost")
+1. **Fetch Items**: If the `Fetch Items` button is visible, click on it, select all, and use the "Get Courses/Resources" button to download the available courses.
 
+   ![Planet - fetch items from the nation](images/vi-planet-fetch-items.png "Planet - fetch items from the nation")
 
-**NOTE**:  
-• If there is an "internet connection" error when you click the "Upgrade" button, please repeat the step.  
-• If new updates are not reflected, use `Command+Shift+R` or `Control+Shift+R` to clear cache and refresh.
+2. **Sync**: Finally, sync your activities with the nation by clicking the `Manage Sync` button on the Manager page. On the sync processes page, click `Run Sync`, and enter your admin password when prompted to start the sync process.
+
+   ![Planet - sync interface](images/vi-nation-sync-send.png "Planet - sync interface")
+
+**NOTE:**
+- If you encounter an "internet connection" error when clicking the "Upgrade" button, please repeat the step.
+- If new updates are not reflected, use `Command+Shift+R` (Mac) or `Control+Shift+R` (Windows) to clear the cache and refresh the page.
 
 ## Take the Course
 
-We created a course for aspiring virtual interns so that we could test the software used to build courses and find bugs/things to improve. It is your job to take the course and find out what needs to be fixed/improved from the student standpoint.
+We have created a course for aspiring virtual interns to test out the courses feature in Planet and identify any bugs or areas for improvement. Your task is to take this course in Planet and note any issues or suggestions for enhancement from a student’s perspective.
 
-Take the course, and the last question will ask you to specify any problems or improvements/suggestions that you have. Remember, people taking these courses in remote areas of the world will probably run into the same problems if you do not raise them now and let the team know. This is a very important task, and your help is much appreciated.
+As you go through the course, the last question will ask for your feedback on any problems you encountered or suggestions you have. Remember, individuals in remote areas who take these courses might face similar issues, so reporting them now will help the team make necessary improvements. Your assistance with this task is greatly appreciated.
 
 **STEPS:**
 
-1. Click on `Courses` on the top navigation
-2. Find the course "Virtual Interns", select checkbox next to course and then click on `Join`
-3. Click on Course to `Open`
-4. Carefully finish all steps of the course
+1. Click on **Courses** in the top navigation menu.
+2. Search for the course "GitHub Issues and Pull Requests," select the checkbox next to the course title, and click on **Join**.
+3. Click on the course to open it and start with **View Steps**.
+4. Carefully complete each step of the course, and be sure to take the quiz at the end of each step if one is available.
+5. When rating a course, aim to be as specific as possible.
 
-  ![Finished Planet Course](images/vi-planet-course.jpg)
+  ![Course overview](images/vi-planet-course-overview.png)
+  ![Rate the course](images/vi-planet-course-rating.png)
 
-5. To verify that your course answers were submitted, click on `Home`, then under myLife click on `my Submissions`
-
-  ![Submissions button](images/vi-planet-submissions-button.png)
-  ![View Submissions](images/vi-planet-submissions.png)
-
-6. When you provide feedback, try to be as specific as possible, and include screenshots when necessary
-
-![Take the Course](images/vi-take-the-course.png)
-![Course Overview](images/vi-course-view.png)
-
-If the course "Virtual Interns" is not there, check `Manage Sync` of manager settings page to see if your synchronization has been completed. Otherwise please message us and "@dogi" an admin in the Discord server so we can send you the course manually.
-
-Check out this [link](https://crowdin.com/page/tour#tab_translators) and [translation](https://open-learning-exchange.github.io/#!pages/translators/la-introduction.md) to learn how you can start contributing on Crowdin.   
+If the course "GitHub Issues and Pull Requests" is not listed, check the **Manage Sync** section on the Manager Settings page to see if your synchronization has been completed. If not, please message us on the Discord server so we can manually send you the course.
 
 ## Useful Links
 
@@ -106,6 +96,6 @@ Check out this [link](https://crowdin.com/page/tour#tab_translators) and [transl
 
 ## Next Section _([Step 4.2](vi-myplanet.md))_ **→**
 
-In the next step, you will learn about android version of Planet application called myPlanet.
+In the next step, you can learn about the Android version of the Planet application, called myPlanet, if you have an Android device.
 
 #### Return to [First Steps](vi-first-steps.md#Step_4_-_Planet_and_myPlanet_Tutorial)
