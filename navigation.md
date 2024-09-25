@@ -56,8 +56,9 @@
   * [Step 5 - Git Repositories](pages/mi/mi-10-steps.md#Step_5_-_Git_Repositories:_A_Guide_to_Cloning,_Configuring,_and_Syncing_Forks)
   * [Step 6 - GitHub Issues Tutorial](pages/mi/mi-10-steps.md#Step_6_-_GitHub_Issues_Tutorial)
   * [Step 7 - Take a Course on myPlanet, Courses Gardening](pages/mi/mi-10-steps.md#Step_7_-_Take_a_Course_on_myPlanet,_Courses_Gardening)
-  * [Step 8 - Create Issues and Pull Requests](pages/mi/mi-10-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)
-  * [Step 9 - Be part of the team](pages/mi/mi-10-steps.md#Step_9_-_Be_part_of_the_team)
+  * [Step 8 - Create More Issues and Pull Requests](pages/mi/mi-issues-and-prs.md)
+  * [Step 9 - Kotlin Tour](pages/mi/mi-10-steps.md#Step_9_-_Kotlin_Tour)
+  * [Step 10 - Be Part of the Team](pages/mi/mi-10-steps.md#Step_10_-_Be_part_of_the_team)
   * [Track Progress](pages/track-first-steps-progress.md)
   - - - -
   * [**Members**](pages/mi/mi-team.md)
