@@ -45,15 +45,27 @@ To ensure all required software is installed, run the following commands:
 ## Container Setup
 
 1. Create a `planetdev` directory for the planet dev data:
-  - **Linux**: `mkdir -p /srv/planetdev && cd /srv/planetdev`
-  - **macOS/Windows**: `mkdir -p ~/srv/planetdev && cd ~/srv/planetdev`
+  - **Linux**:
+    ```bash
+    mkdir -p /srv/planetdev && cd /srv/planetdev
+    ```
+  - **macOS/Windows**:
+    ```bash
+    mkdir -p ~/srv/planetdev && cd ~/srv/planetdev
+    ```
 2. Configure the necessary environment variables:
   - `echo "OPENAI_API_KEY=APIKEYHERE" > .chat.env`
   - `echo "PERPLEXITY_API_KEY=APIKEYHERE" >> .chat.env`
   - *Note*: Don't worry about the actual API keys for now, we will generate them for you if you work on related features.
 3. Download the development yml file:
-  - **Linux**: `wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-dev.yml`
-  - **macOS/Windows**: `curl https://gist.githubusercontent.com/xyb994/0d14dfe302df0df0d4e8d8df0d1d5feb/raw/planet-dev-mac.yml -o planet-dev.yml`
+  - **Linux**:
+    ```bash
+    wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-dev.yml
+    ```
+  - **macOS/Windows**:
+    ```bash
+    curl https://gist.githubusercontent.com/xyb994/0d14dfe302df0df0d4e8d8df0d1d5feb/raw/planet-dev-mac.yml -o planet-dev.yml
+    ```
 4. Start the containers: `docker compose -f planet-dev.yml -p planet-dev up -d`
 5. After a minute, run `docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
 
@@ -103,7 +115,7 @@ bash couchdb-setup.sh -p 2200 -i
 #### Troubleshooting ####
 # If you encounter permission issues, run the command below,
 # replacing `username` and `password` with your preferred credentials.
-# Be sure to save these credentials, as you'll need them to access CouchDB through the Fauxton interface (`2300/_utils`).
+# Be sure to save these credentials, as you'll need them to access CouchDB through the Fauxton interface (`localhost:2200/_utils`).
 bash couchdb-setup.sh -p 2200 -i -u "username" -w "password"
 ```
 
