@@ -22,7 +22,7 @@ In this step, you'll encounter some common terms, such as
 - `master`/`main`: a repository's default branch name
 - `upstream`: the repository you forked from
 - `origin`: your own fork of the upstream repository
-Both `upstream` and `origin` are considered **[remote](https://git-scm.com/docs/git-remote)**. Also, remember that a repository can contain multiple branches.
+  Both `upstream` and `origin` are considered **[remote](https://git-scm.com/docs/git-remote)**. Also, remember that a repository can contain multiple branches.
 
 ## 1. Clone Your GitHub Repository
 
@@ -63,6 +63,9 @@ Now, there are three levels of repositories to keep in mind:
 
 These repositories must be consistently synced and up-to-date with each other since we all contribute to the upstream repository (open-learning-exchange.github.io). It's crucial to keep changes separate and avoid mixing them between repositories. Significant differences can cause conflicts and prevent you from performing `git push/pull` operations smoothly.
 
+- **Push:** Sends your local changes to a remote repository
+- **Fetch:** Retrieves updates from a remote repository without merging them into your local branch.
+
 ![GitHub Clone URL](images/vi-sync-a-fork.png)
 
 ## 3. Configure a Remote Repository for Your Fork
@@ -71,43 +74,43 @@ To fetch updates from the upstream repository, configure it as follows:
 
 1. Open your command prompt/terminal and navigate to the repository directory:
 
-  ```bash
-  cd <YourUserName>.github.io
-  ```
+```bash
+cd <YourUserName>.github.io
+```
 
 2. List the current configured remote repository:
 
-  ```bash
-  git remote -v
-  ```
+```bash
+git remote -v
+```
 
-  This should show:
+This should show:
 
-  ```bash
-  origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (fetch)
-  origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (push)
-  ```
+```bash
+origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (fetch)
+origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (push)
+```
 
 3. Add the upstream repository:
 
-  ```bash
-  git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
-  ```
+```bash
+git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
+```
 
 4. Verify the upstream repository is configured correctly:
 
-  ```bash
-  git remote -v
-  ```
+```bash
+git remote -v
+```
 
-  This should show:
+This should show:
 
-  ```bash
-  origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (fetch)
-  origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (push)
-  upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (fetch)
-  upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (push)
-  ```
+```bash
+origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (fetch)
+origin  https://github.com/<YourUserName>/<YourUserName>.github.io.git (push)
+upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (fetch)
+upstream  https://github.com/open-learning-exchange/open-learning-exchange.github.io.git (push)
+```
 
 ## 4. Sync Your Fork
 
@@ -125,17 +128,17 @@ To fetch updates from the upstream repository, configure it as follows:
 
 3. Merge the upstream/master with your local repository:
 
-  ```bash
-  git merge upstream/master
-  ```
+```bash
+git merge upstream/master
+```
 
-  If Vim editor shows up for commit message, use `:wq` (**w**rite and **q**uit) to exit with the default message.
+If Vim editor shows up for commit message, use `:wq` (**w**rite and **q**uit) to exit with the default message.
 
 4. Push the updates to your repository:
 
-  ```bash
-  git push origin master
-  ```
+```bash
+git push origin master
+```
 
 ## Summary of Steps
 
@@ -165,7 +168,7 @@ The **upstream repository** is the one we are contributing to.
 
 #### Sync Your Fork
 
-1. `git fetch upstream` -  to fetch branches from the upstream repository ([more info](https://git-scm.com/docs/git-fetch))
+1. `git fetch upstream` - to fetch branches from the upstream repository ([more info](https://git-scm.com/docs/git-fetch))
 2. `git checkout master` - to checkout the `master` branch ([more info](https://git-scm.com/docs/git-checkout))
 3. `git show-branch` - to see branches and the changes made in them ([more info](https://git-scm.com/docs/git-show-branch))
 4. `git merge upstream/master` - You repository should now be synced to upstream/master ([more info](https://git-scm.com/docs/git-merge))
