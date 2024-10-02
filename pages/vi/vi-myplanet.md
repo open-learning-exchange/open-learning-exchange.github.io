@@ -35,7 +35,7 @@ Once you've installed the beta version of the app, launch it and grant necessary
 - **Configuration**: Click the settings gear icon in the upper-right corner to open the settings dialog box.
   - Toggle on **Manual** configuration.
   - Select **HTTP**.
-  - For **Planet IP**, enter the IP address of the device running production Planet from step 2, followed by `:3300` (e.g., `192.168.1.35:3300`).
+  - For **Planet IP**, enter the IP address of the device running production Planet from [Step 3.1 - Docker Tutorial](vi-docker-tutorial.md), followed by `:3300` (e.g., `192.168.1.35:3300`).
   - For **Server PIN**, check the **Tablet PIN number** under **Manager Settings** in Planet.
   - Click **SYNC** and allow the synchronization process to complete.
 
@@ -43,7 +43,7 @@ Once you've installed the beta version of the app, launch it and grant necessary
 
 After logging in, explore the app for a minimal of 15 minutes, try out features like Library, Courses, Calendar, etc.
 
-Take screenshots and attempt to crash the app. After exploration, update us on Discord: "I'm on step 4.2, spent about xx minutes in the myPlanet app and crashed it when navigating to ..." or "I'm on step 2, spent about xx minutes in the myPlanet app and it did not crash."
+Take screenshots and attempt to crash the app. After exploration, update us on Discord: "I'm on step 4.2, spent about xx minutes in the myPlanet app and crashed it when navigating to ..." or "I'm on step 4.2, spent about xx minutes in the myPlanet app and it did not crash."
 
 Details about the crash might take up to 24 hours to show up in Google Play Console on our end.
 

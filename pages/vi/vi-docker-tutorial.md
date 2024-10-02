@@ -1,4 +1,4 @@
-﻿# Docker Tutorial (Step 2.1)
+﻿# Docker Tutorial (Step 3.1)
 
 ## Objectives
 
@@ -180,8 +180,8 @@ You can also use `docker --help` and `docker compose --help` to see brief usage 
 - [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
 - [Docker Installation](https://docs.docker.com/install/)
 
-## Next Section _([Step 2.2](vi-planet-configurations.md))_ **→**
+---
 
-Follow the steps to configure your local production community, sync with nation and get your community approved.
+**→** Next: [Step 3.2 - Planet Configurations](vi-planet-configurations.md)
 
-#### Return to [First Steps](vi-first-steps.md#Step_1_-_Planet_and_Docker)
+Return to [First Steps](vi-first-steps.md#Step_3_-_Planet_and_Docker)

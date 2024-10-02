@@ -138,3 +138,9 @@ This version emphasizes clarity and readability while retaining the original mes
 | *planet* | 3300 | 3000 |
 | *chatapi* | 5050 | 5000 (5400 for mac/windows) |
 | *couchdb* | 2300 | 2200 |
+
+---
+
+**→** Next: [Step 10 - Be Part of the Team](vi-first-steps.md#Step_10_-_Be_Part_of_the_Team)
+
+Return to [First Steps](vi-first-steps.md#Step_9_-_Planet_Developemnt_Setup)

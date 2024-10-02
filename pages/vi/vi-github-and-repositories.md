@@ -9,7 +9,7 @@
 
 On GitHub, software code is organized into repositories, each representing a different project. For example, you've been working on one of our repositories, **open-learning-exchange.github.io**. We encourage you to explore our other repositories on GitHub [here](https://github.com/open-learning-exchange), but remember: **look, don't touch**. If you are new to Git or GitHub, take a look at [this introduction](https://www.freecodecamp.org/news/introduction-to-git-and-github/).
 
-As previously mentioned, in the [forking workflow](vi-github-and-markdown.md#2.3_Introduction_to_Forking_Workflow), you fork a repository to work on it independently from the upstream repository, then send your changes back to the original repository via a pull request. You completed this process on github.com in Step 3. In this step, we'll dive deeper and use the command line to sync your forked repository with OLE's upstream repository.
+As previously mentioned, in the [forking workflow](vi-github-and-markdown.md#2.3_Introduction_to_Forking_Workflow), you fork a repository to work on it independently from the upstream repository, then send your changes back to the original repository via a pull request. You completed this process on github.com in [Step 1 - Markdown and Fork Tutorial](vi-github-and-markdown.md). In this step, we'll dive deeper and use the command line to sync your forked repository with OLE's upstream repository.
 
 The diagram below shows the structure of the forking workflow for open-learning-exchange.github.io, with a central upstream repository, individual forks, and local copies on your machine.
 
@@ -199,8 +199,8 @@ If you would like to understand how syncing with the fork works, here is a usefu
 - [Git help](https://git-scm.com/) - An encyclopedia of useful git workflows and terminology explanations.
 - [Other helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section _([Step 6](vi-github-issues.md))_ **→**
+---
 
-In the next section, you will learn the process for creating and resolving issues with GitHub.
+**→** Next: [Step 6 - GitHub Issues Tutorial](vi-github-issues.md)
 
-#### Return to [First Steps](vi-first-steps.md#Step_5_-_Keeping_Fork_Updated)
+Return to [First Steps](vi-first-steps.md#Step_5_-_Keeping_Fork_Updated)

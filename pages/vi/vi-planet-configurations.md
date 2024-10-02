@@ -1,4 +1,4 @@
-﻿# Planet Configurations (Step 2.2)
+﻿# Planet Configurations (Step 3.2)
 
 ## Objectives
 
@@ -114,14 +114,14 @@ docker compose -f planet.yml -p planet start
 # created with the `planet.yml` configuration file
 docker compose -f planet.yml -p planet down -v
 
-# 2. Remove the planet folder you created in Step 2.1
+# 2. Remove the planet folder you created in the previous step
 # Linux
 rm -rf /srv/planet
 
 # macOS or Windows
 rm -rf ~/srv/planet
 
-# 3. Follow "YourOS - Run Planet Community with Docker" in Step 2.1 again
+# 3. Follow "YourOS - Run Planet Community with Docker" in the previous step (3.1) again
 ```
 
 After planet is up and running, follow [Configure Your PlanetCommunity](#!./pages/vi/vi-configurations-vagrant.md#Configure_Your_Planet_Community) again, since your old community registration still exist on the nation side, please use a slightly different name for your configuration, e.g. `<YourGitHubUserName>-1`.
@@ -130,8 +130,8 @@ After planet is up and running, follow [Configure Your PlanetCommunity](#!./page
 
 If you continue to have issues after troubleshooting with the above instructions, please reach out to us on Discord for assistance.
 
-## Next Section _([Step 3](vi-github-and-markdown.md))_ **→**
+---
 
-Markdown is a lightweight markup language with plain text formatting syntax. In the next section, you will learn Markdown to create a profile page, and learn how to create a pull request on the GitHub web interface.
+**→** Next: [Step 4 - Planet and myPlanet Tutorial](vi-first-steps.md#Step_4_-_Planet_and_myPlanet_Tutorial)
 
-#### Return to [First Steps](vi-first-steps.md#Step_2_-_Planet_and_Docker)
+Return to [First Steps](vi-first-steps.md#Step_3_-_Planet_and_Docker)
