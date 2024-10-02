@@ -58,30 +58,28 @@ docker tag treehouses/planet:db-init treehouses/planet:db-init-local
 docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 
 # create a dedicated directory
-# for mapping Docker container volumes and configuring environment variables
+# for mapping Docker container volumes and saving configuration files
 sudo mkdir /srv/planet
 cd /srv/planet
-
-# we are putting "DUMMYAPIKEY" here for now
-# when you work on related features, we will assign you the keys
-echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
-echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
 
 # download production docker compose yml file and rename it
 wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-prod.yml
 mv planet-prod.yml planet.yml
 
+# download the planet docker helper bash script
+wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/refs/heads/main/planet.sh
+
 # starts the containers in the background
-# with compose configuration file planet.yml and leaves them running
-docker compose -f planet.yml -p planet up -d --build
+bash planet.sh up
 
 # see if the docker containers are running
 # ensure it says "Up" in STATUS column
 # with the exception of db-init, which may finished running and exited already
+# if chatapi service is restarting or exited, please ignore it for now as we are working on a fix
 docker container ls -a
 
 # follow the log in action, press 'control+c' to exit the logs view
-docker compose -f planet.yml -p planet logs -f
+docker compose -p planet logs -f
 ```
 
 ## macOS/Windows - Run Planet Community with Docker
@@ -106,29 +104,27 @@ docker tag treehouses/planet:db-init treehouses/planet:db-init-local
 docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 
 # create a dedicated directory
-# for mapping Docker container volumes and configuring environment variables
+# for mapping Docker container volumes and saving configuration files
 mkdir -p ~/srv/planet
 cd ~/srv/planet
 
-# we are putting "DUMMYAPIKEY" here for now
-# when you work on related features, we will assign you the keys
-echo "OPENAI_API_KEY=DUMMYAPIKEY" > .chat.env
-echo "PERPLEXITY_API_KEY=DUMMYAPIKEY" >> .chat.env
-
-# download docker compose yml file
+# download the planet docker compose yml file
 curl https://gist.githubusercontent.com/xyb994/da04da73f903757d71d8a56780edcfcc/raw/planet-so-mac.yml -o planet.yml
 
-# starts the containers in the background
-# with compose configuration file planet.yml and leaves them running
-docker compose -f planet.yml -p planet up -d --build
+# download the planet helper bash script
+curl https://gist.githubusercontent.com/xyb994/5760570db3dd4defe580e8bfff9a4bea/raw/planet.sh -o planet.sh
 
-# see if the docker containers are running
-# ensure it says "Up" in STATUS column
+# starts the containers in the background
+bash planet.sh up
+
+# see if the docker containers are running, you may also do this in the docker desktop app
+# ensure it says "Up" or "Running" in the status column
 # with the exception of db-init, which may finished running and exited already
+# if chatapi service is restarting or exited, please ignore it for now as we are working on a fix
 docker container ls -a
 
 # follow the log in action, press 'control+c' to exit the logs view
-docker compose -f planet.yml -p planet logs -f
+docker compose -p planet logs -f
 ```
 
 ## Services and Ports
@@ -155,18 +151,30 @@ Here are a few common Docker CLI commands you might need when working with `plan
 - `docker logs <container-id> -f` – Follow the log output of a container.
 - `docker images` – List images.
 
-Here are some common Docker Compose commands you might need when working with `planet`. The following examples assume you are in the planet repository's docker folder:
+Here are some common Docker Compose commands:
 
-- `docker compose -f planet.yml -p planet up -d --build` – Spawn your environment for the *first time*.
+- `docker compose -f <YAMLFile1> -f <YAMLFile2> -p <ProjectName> up -d --build` – Spawn your environment for the *first time*.
   - `-f` – Specify an alternate compose file (default: docker-compose.yml).
   - `-p` – Specify a project name (default: directory name).
   - `up -d` – Create and start containers in the background.
   - `--build` – Build images before starting containers
-- `docker compose -f planet.yml -p planet logs -f` – Follow the log output. Press 'CTRL+C' to exit logs view.
-- `docker compose -f planet.yml -p planet restart` – Restart `planet`.
-- `docker compose -f planet.yml -p planet stop` – Stop `planet` without removing it.
-- `docker compose -f planet.yml -p planet start` – Start `planet` again.
-- `docker compose -f planet.yml -p planet down -v` – Stop containers and remove containers, networks, volumes, and images created.
+- `docker compose -f <YAMLFile> -p <ProjectName> logs -f` – Follow the log output. Press 'CTRL+C' to exit logs view.
+- `docker compose -f <YAMLFile> -p <ProjectName> restart` – Restart the project.
+- `docker compose -f <YAMLFile> -p <ProjectName> stop` – Stop the project without removing it.
+- `docker compose -f <YAMLFile> -p <ProjectName> start` – Start the project again.
+- `docker compose -f <YAMLFile> -p <ProjectName> down -v` – Stop containers and remove containers, networks, volumes, and images created.
+
+**Note: For Docker Compose commands, use the `planet.sh` script** to avoid specifying the YAML file path and project name each time. The script also checks for the credentials YAML file and merges it for CouchDB to function properly. This credentials file is generated after setting up an admin account in the Planet web interface during initial configuration.
+
+```plaintext
+Usage: planet.sh <up|stop|start|restart|down|(other docker compose command)...>
+
+Example: planet.sh up       Start up the planet services for the first time in the background.
+         planet.sh stop     Stop planet services.
+         planet.sh start    Start planet services.
+         planet.sh restart  Restart planet services.
+         planet.sh down     Stop planet services and remove containers, networks, volumes, and images created.
+```
 
 We suggest referring to the [Docker CLI reference](https://docs.docker.com/engine/reference/commandline/cli/) and the [Docker Compose CLI reference](https://docs.docker.com/compose/reference/) to learn more about their commands and usage.
 

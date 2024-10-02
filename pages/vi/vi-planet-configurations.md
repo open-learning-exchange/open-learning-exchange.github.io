@@ -39,7 +39,7 @@ Visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](
    - **macOS:** `cd ~/srv/planet`
    - **Windows:** `cd ~/srv/planet`
 
-3. Run `docker compose -f planet.yml -p planet start` to start the service.
+3. Run `bash planet.sh start` to start the service.
 
 ## Configure Your Planet Community
 
@@ -47,7 +47,7 @@ Visit the initial admin configuration page by navigating to [http://localhost:33
 
 ![Become an Administrator](images/vi-become-admin.png)
 
-**WARNING:** Do not close this browser tab before completing the configuration, as you cannot return to this form. If you accidentally close the tab, run `docker compose -f planet.yml -p planet down -v` followed by `docker compose -f planet.yml -p planet up -d --build` to restart the process.
+**WARNING:** Do not close this browser tab before completing the configuration, as you cannot return to this form. If you accidentally close the tab, run `bash planet.sh down` followed by `bash planet.sh up` to restart the process.
 
 Fill out the configurations, ensuring your name matches your GitHub name for easy identification in Virtual Intern Nation. Select **Virtual Intern Nation (vi)** as the nation, as shown below. **After completing the configurations, save a screenshot of the page to post on the Discord server after submitting your registration request.**
 
@@ -92,17 +92,17 @@ Finally, post the screenshot you took earlier to [our Discord server's #vi-softw
 To restart the containers, use
 
 ```bash
-docker compose -f planet.yml -p planet restart
+bash planet.sh restart
 ```
 
 or
 
 ```bash
 # Stop `planet` without removing it
-docker compose -f planet.yml -p planet stop
+bash planet.sh stop
 
 # Start `planet` again
-docker compose -f planet.yml -p planet start
+bash planet.sh start
 ```
 
 ### Starting Over
@@ -112,7 +112,7 @@ docker compose -f planet.yml -p planet start
 ```bash
 # 1. Stop and remove containers, networks, volumes, and images
 # created with the `planet.yml` configuration file
-docker compose -f planet.yml -p planet down -v
+bash planet.sh down
 
 # 2. Remove the planet folder you created in the previous step
 # Linux
