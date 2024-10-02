@@ -27,7 +27,7 @@
   * [Step 0 - Introductory Steps](pages/vi/vi-first-steps.md#Step_0_-_Introductory_Steps)
   * [Step 1 - Markdown and Fork Tutorial](pages/vi/vi-github-and-markdown.md)
   * [Step 2 - Software Prerequisites](pages/vi/vi-prerequisites.md)
-  * [Step 3 - Planet and Docker](pages/vi/vi-first-steps.md#Step_3-_Planet_and_Docker)
+  * [Step 3 - Planet and Docker](pages/vi/vi-first-steps.md#Step_3_-_Planet_and_Docker)
   * [&nbsp; &nbsp; Docker Tutorial](pages/vi/vi-docker-tutorial.md)
   * [&nbsp; &nbsp; Planet Configurations](pages/vi/vi-planet-configurations.md)
   * [Step 4 - Planet and myPlanet Tutorial](pages/vi/vi-first-steps.md#Step_4_-_Planet_and_myPlanet_Tutorial)
