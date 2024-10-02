@@ -8,7 +8,7 @@
 
 ## Introduction
 
-In [Step 2.2 - Planet Configurations](vi-planet-configurations.md), you registered your Community Planet with the "vi" nation. Now, you will learn how to keep your Community Planet in sync with the nation.
+In [Step 3.2 - Planet Configurations](vi-planet-configurations.md), you registered your Community Planet with the "vi" nation. Now, you will learn how to keep your Community Planet in sync with the nation.
 
 To achieve this, there should be regular communication between the nation and the communities. Although not required for remote communities in the field, this synchronization is crucial for "improving the software and testing the increasing forms of communication and feedback between the nation and the communities." This communication involves a syncing process from the community side, where you select the material to send to the nation.
 
@@ -88,8 +88,8 @@ NOTE: If you see an error message during the upgrade process please try again.
 
 [Helpful links and videos](vi-faq.md#Helpful_Links)
 
-## Next Section _([Step 8](vi-create-issues-and-pull-requests.md))_ **→**
+---
 
-In the next section, you will create and resolve more issues with GitHub.
+**→** Next: [Step 8 - Create More Issues and Pull Requests](vi-create-issues-and-pull-requests.md)
 
-#### Return to [First Steps](vi-first-steps.md#Step_7_-_Nation_Planet)
+Return to [First Steps](vi-first-steps.md#Step_7_-_Nation_Planet)

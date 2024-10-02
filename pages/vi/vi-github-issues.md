@@ -204,8 +204,8 @@ You will need to make **at least one comment** on an issue you did **not** creat
 - [FAQ - Helpful Links and Videos](vi-faq.md#Helpful_Links)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
-## Next Section _([Step 7](vi-nation.md))_ **→**
+---
 
-In the next step, you will learn how to sync your Community Planet with the Nation.
+**→** Next: [Step 7 - Nation Planet](vi-nation.md)
 
-#### Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)
+Return to [First Steps](vi-first-steps.md#Step_6_-_GitHub_Issues_Tutorial)

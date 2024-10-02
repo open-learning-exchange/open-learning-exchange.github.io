@@ -1,4 +1,4 @@
-# Environment Setup (Step 1)
+# Software Prerequisites - Environment Setup (Step 2)
 
 ## Objectives
 
@@ -116,8 +116,6 @@ If the app flags an issue with virtualization, you may not have virtualization e
 
 ---
 
-### Next Section ([Step 2.1](vi-docker-tutorial.md)) **→**
+**→** Next: [Step 3.1 - Docker Tutorial](vi-docker-tutorial.md)
 
-Now  you have installed the required dependencies for Planet. Next, you will learn how to use Docker and Docker Compose to create a local production Planet Community.
-
-### Return to [First Steps](vi-first-steps.md#Step_1_-_Prerequisites)
+Return to [First Steps](vi-first-steps.md#Step_2_-_Software_Prerequisites)

@@ -1,4 +1,4 @@
-# GitHub and Markdown (Step 3)
+# GitHub and Markdown (Step 1)
 
 ## 1. Objectives
 
@@ -123,7 +123,7 @@ Once you have your profile ready, it's time to create a pull request. Follow the
 
 After creating the pull request, post the link to your GitHub Pages and profile pull request in our Discord server's software engineering intern channel:
 
-> I'm on step 3 - GitHub and Markdown, please look at `https://<YourUserName>.github.io` and review my profile pull request `<LinkToYourPullRequest>`
+> I'm on step 1 - GitHub and Markdown, please look at `https://<YourUserName>.github.io` and review my profile pull request `<LinkToYourPullRequest>`
 
 Remember, it can take a while for `https://<YourUserName>.github.io` to be up and running, so don't worry if you see a **404** when you access the link!
 
@@ -138,8 +138,8 @@ After the pull request is merged, you'll be able to see your personal page at `o
 - [Fork a repository - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) - A more in-depth explanation about how and why we fork repositories.
 - [Managing files - GitHub Docs](https://docs.github.com/en/repositories/working-with-files/managing-files)
 
-## Next Section _([Step 4](vi-planetapps.md))_ **→**
+---
 
-In the next step, you will learn more about your community Planet, and the Planet interface.
+**→** Next: [Step 2 - Software Prerequisites](vi-prerequisites.md)
 
-#### Return to [First Steps](vi-first-steps.md#Step_3_-_Markdown_and_Fork_Tutorial)
+Return to [First Steps](vi-first-steps.md#Step_1_-_Markdown_and_Fork_Tutorial)

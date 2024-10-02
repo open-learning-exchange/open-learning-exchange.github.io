@@ -29,4 +29,8 @@ Once you complete Step 8 you will have:
 
 **Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
-#### Return to [First Steps](vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)
+---
+
+**→** Next: [Step 9 - Planet Development Setup](vi-docker-development-tutorial.md)
+
+Return to [First Steps](vi-first-steps.md#Step_9_-_Planet_Development-Setup)

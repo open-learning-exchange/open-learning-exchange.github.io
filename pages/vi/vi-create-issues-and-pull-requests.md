@@ -24,8 +24,8 @@ Just as your learning with this Wiki was made possible by the efforts of previou
 ## Track Progress
 **NOTE**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
-## Next Section _([Step 9](vi-be-part-of-the-team.md))_ **→**
+---
 
-In the next step, you will become part of the team.
+**→** Next: [Step 9 - Planet Development Setup](vi-docker-development-tutorial.md)
 
-#### Return to [First Steps](vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)
+Return to [First Steps](vi-first-steps.md#Step_8_-_Create_Issues_and_Pull_Requests)

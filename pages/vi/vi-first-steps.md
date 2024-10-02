@@ -51,11 +51,20 @@ This step includes two tasks:
    - We use Crowdin to translate our user interface into multiple languages.
    - If you know [a language supported by Planet](https://crowdin.com/project/ole-planet), your translation assistance would be greatly appreciated. Create a Crowdin account and aim to translate at least 10% of the words in your chosen language. For an overview of the functionality and terminology, refer to the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md). Your contributions will help both the project and enhance your understanding of Planet. Be sure to let us know in the [#vi-software channel](https://discord.com/channels/1079980988421132369/1229437557843169280) on Discord if you're able to contribute to our translation efforts.
 
-## Step 1 - Prerequisites
+## Step 1 - Markdown and Fork Tutorial
+
+Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md).
+
+- Once you complete this step, you will have:
+  - 1 Pull request made
+
+Make sure that you've linked to your github.io and pull request link in [#vi-software channel on Discord](https://discord.com/channels/1079980988421132369/1229437557843169280) (`https://YourUserName.github.io` and `LinkToYourPullRequest`). Also include the Raw.githack link in your pull request as we asked in the pull request template.
+
+## Step 2 - Software Prerequisites
 
 Setting up your local development environment is the first step to becoming a Virtual Intern at OLE. Follow the instructions on the [Environment Setup](vi-prerequisites.md) to install the necessary tools and software. This will prepare you to successfully run both production and development versions of the planet later on.
 
-## Step 2 - Planet and Docker
+## Step 3 - Planet and Docker
 
 This step includes two tasks:
 
@@ -67,15 +76,6 @@ This step includes two tasks:
 2. **Planet Configurations:**
    - Refer to the [Planet Configurations page](vi-planet-configurations.md).
    - Learn how to configure your Community Planet.
-
-## Step 3 - Markdown and Fork Tutorial
-
-Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md).
-
-- Once you complete Step 3 you will have:
-  - 1 Pull request made
-
-Make sure that you've linked to your github.io and pull request link in [#vi-software channel on Discord](https://discord.com/channels/1079980988421132369/1229437557843169280) (`https://YourUserName.github.io` and `LinkToYourPullRequest`). Also include the Raw.githack link in your pull request as we asked in the pull request template.
 
 ## Step 4 - Planet and myPlanet Tutorial
 
