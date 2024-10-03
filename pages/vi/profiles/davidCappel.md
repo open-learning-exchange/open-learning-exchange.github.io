@@ -1,6 +1,6 @@
 # I Am David Cappel 💻
 
-*  Zone:  **EST**
+* Zone: **EST**
 * Operating System: Windows 11 / macOS Sequoia 15.0
 * Residence: Philadelphia, PA
 
@@ -36,8 +36,3 @@ I hope to develop my skill set and, through my knowledge base, help develop clea
 * 📧 davidcappel30@gmail.com
 * [Linkedin](https://www.linkedin.com/in/david-cappel-42859a23a/)
 * [Website](https://idavid-ten.vercel.app/)
-
-
-
-
-
