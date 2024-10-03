@@ -2,7 +2,7 @@
 
 *  Zone:  **EST**
 * Operating System: Windows 11 / macOS Sequoia 15.0
-* Residece: Philadelphia, PA
+* Residence: Philadelphia, PA
 
 ![David](https://github.com/user-attachments/assets/d7902d14-6d6f-49c2-816e-a64fec32499c)
 
@@ -30,11 +30,11 @@
 ## My Mission
 I am a 3rd years computer science student at Drexel University.  
 Starting in my software engineering career, I am excited to begin my journey at OLE.
-I hope to both to develop my own skill set and thruough my own knolwege base, help to develop clean, functional and productive code and products in the end.
+I hope to develop my skill set and, through my knowledge base, help develop clean, functional, and productive code and products in the end.
 
 ## More David:
 * 📧 davidcappel30@gmail.com
-* [Linkedin](www.linkedin.com/in/david-cappel-42859a23a)
+* [Linkedin](https://www.linkedin.com/in/david-cappel-42859a23a/)
 * [Website](https://idavid-ten.vercel.app/)
 
 
