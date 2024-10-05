@@ -116,6 +116,6 @@ In Step 2, we set up a local production environment for Planet. Now, follow the 
 
 ## Step 10 - Be Part of the Team
 
-Next thing is to add yourself to the virtual intern list in [vi-team.md](vi-team.md) and submit a pull request. Afterward, message us ("@mutugiii", "@dogi", and "@vi-software") in the Discord #vi-software channel to schedule a meeting and officially join the team.
+Next thing is to add yourself to the virtual intern list in [vi-team.md](vi-team.md) and submit a pull request. Afterward, message us ("@mutugiii", "@dogi", and "@vi-software") in the Discord [#vi-software](https://discord.com/channels/1079980988421132369/1229437557843169280) channel to schedule a meeting and officially join the team.
 
 Before the meeting, be sure to review the [Software Engineering Intern Orientation document](vi-intern-orientation.md).
