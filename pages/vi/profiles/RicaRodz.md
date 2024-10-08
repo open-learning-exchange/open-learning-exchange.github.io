@@ -1,4 +1,4 @@
-# **Ricardo Rodriguez**
+# Ricardo Rodriguez
 
 ---
 
@@ -9,7 +9,7 @@
 - Windows 11
 
 ---
-## 🧠 **About Me**
+## 🧠 About Me
 
 > *"Technology is best when it brings people together."*  
 > — Matt Mullenweg
@@ -24,6 +24,3 @@ Here are a few of my interests:
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ricardrodz/)  
 - [GitHub](https://github.com/RicaRodz)
-
-
-
