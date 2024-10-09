@@ -135,7 +135,7 @@ You can verify the CouchDB and ChatAPI services are running by visiting these UR
 - **CouchDB:** [http://localhost:2300](http://localhost:2300)
 - **ChatAPI:** [http://localhost:5050](http://localhost:5050)
 
-To verify that the Planet service is running, visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) and check if the planet configuration screen appears. **Please leave this page open and we will handle the configuration of planet in the next step.**
+To verify that the Planet service is running, visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) and check if the planet configuration screen appears. **Please leave the page open and we will handle the configuration of planet in the next step.**
 
 ## More about Docker and Docker Compose Commands
 
