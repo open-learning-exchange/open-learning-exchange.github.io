@@ -12,7 +12,8 @@ My interests are web/mobile development, data analytics, and SMB/enterprise soft
 
 Let's connect via [Github][2] or [LinkedIn][1]!  
 
-Cheers!
+Cheers! 
+
 Jesse
 
 [1]: https://www.linkedin.com/feed/        "LinkedIn"
