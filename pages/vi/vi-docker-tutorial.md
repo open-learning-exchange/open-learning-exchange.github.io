@@ -46,6 +46,8 @@ Once confirmed, follow the directions below to spin up Planet on your OS.
 
 ## Linux - Run Planet Community with Docker
 
+**Hint**: The code block below may seem lengthy, but once you understand it, you can copy multiple lines (or the entire block) and paste it into your terminal to run everything at once, rather than executing each line individually.
+
 ```bash
 # pull the latest tags for the planet, db-init, and chatapi Docker images
 docker pull treehouses/planet:latest
@@ -71,21 +73,14 @@ wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/refs/heads/mai
 
 # starts the containers in the background
 bash planet.sh up
-
-# see if the docker containers are running
-# ensure it says "Up" in STATUS column
-# with the exception of db-init, which may finished running and exited already
-# if chatapi service is restarting or exited, please ignore it for now as we are working on a fix
-docker container ls -a
-
-# follow the log in action, press 'control+c' to exit the logs view
-docker compose -p planet logs -f
 ```
 
 ## macOS/Windows - Run Planet Community with Docker
 
 - **macOS**: run commands below in the terminal app of your choice.
 - **Windows**: run commands below in your Git Bash app.
+
+**Hint**: The code block below may seem lengthy, but once you understand it, you can copy multiple lines (or the entire block) and paste it into your terminal or Git Bash to run everything at once, rather than executing each line individually.
 
 <!--
 - **Windows with WSL**: run commands below in your Debian app.
@@ -116,7 +111,11 @@ curl https://gist.githubusercontent.com/xyb994/5760570db3dd4defe580e8bfff9a4bea/
 
 # starts the containers in the background
 bash planet.sh up
+```
 
+## Services and Ports
+
+```bash
 # see if the docker containers are running, you may also do this in the docker desktop app
 # ensure it says "Up" or "Running" in the status column
 # with the exception of db-init, which may finished running and exited already
@@ -127,20 +126,18 @@ docker container ls -a
 docker compose -p planet logs -f
 ```
 
-## Services and Ports
-
 The services will be accessible on the following ports:
 
 - **Planet:** 3300
 - **ChatAPI:** 5050
 - **CouchDB:** 2300
 
-To verify that the Planet service is running, visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) and check if the planet configuration screen appears. **Please do not configure the planet yet; we'll handle that in the next step.**
-
-You can also verify that the other services are running by visiting these URLs in your browser:
+You can verify the CouchDB and ChatAPI services are running by visiting these URLs in your browser:
 
 - **CouchDB:** [http://localhost:2300](http://localhost:2300)
 - **ChatAPI:** [http://localhost:5050](http://localhost:5050)
+
+To verify that the Planet service is running, visit [http://localhost:3300](http://localhost:3300) or [http://127.0.0.1:3300](http://127.0.0.1:3300) and check if the planet configuration screen appears. **Please leave the page open and we will handle the configuration of planet in the next step.**
 
 ## More about Docker and Docker Compose Commands
 
