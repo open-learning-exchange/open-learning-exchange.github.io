@@ -44,9 +44,9 @@ Common Commands:
 
 Once confirmed, follow the directions below to spin up Planet on your OS.
 
-**Hint**: The code block below may seem lengthy, but once you understand it, you can copy multiple lines (or the entire block) and paste it into your terminal or Git Bash to run everything at once, rather than executing each line individually.
-
 ## Linux - Run Planet Community with Docker
+
+**Hint**: The code block below may seem lengthy, but once you understand it, you can copy multiple lines (or the entire block) and paste it into your terminal to run everything at once, rather than executing each line individually.
 
 ```bash
 # pull the latest tags for the planet, db-init, and chatapi Docker images
@@ -79,6 +79,8 @@ bash planet.sh up
 
 - **macOS**: run commands below in the terminal app of your choice.
 - **Windows**: run commands below in your Git Bash app.
+
+**Hint**: The code block below may seem lengthy, but once you understand it, you can copy multiple lines (or the entire block) and paste it into your terminal or Git Bash to run everything at once, rather than executing each line individually.
 
 <!--
 - **Windows with WSL**: run commands below in your Debian app.
