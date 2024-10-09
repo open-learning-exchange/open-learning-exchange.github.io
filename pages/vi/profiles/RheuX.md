@@ -1,8 +1,14 @@
 # Hello 👋 
 
 ## Basic Info
-### My name is Axel Nicholas Lorens
+
+My name is Axel Nicholas Lorens.
 I'm from Indonesia, and I went to UC Davis as a Computer Science major :D
+
+I live at California, South San Francisco.
+The timezone is in `Pacific Time` or `PT`, or it's `GMT-7`
+
+I currently have macOs Sequoia 15.0, and I also have a Windows 11.
 
 ### Fun Fact
 I have been called 4 different names on different occassion that I would like to share with you, and i'll rank them based on how often it is.
@@ -14,15 +20,8 @@ I have been called 4 different names on different occassion that I would like to
 
 Anyway, hopefully you guys would follow the trend, or create a new one :D
 
-### I live at California, South San Francisco.
-
-The timezone is in `Pacific Time` or `PT`, or it's `GMT-7`
-
-### What OS I have?
-
-I currently have macOs Sequoia 15.0, and I also have a Windows 11.
-
 ## Things about Me 😊
+
 ### Likes and Dislike Tables
 | 👍 Likes                                        | 👎 Dislikes                              |
 |-------------------------------------------------|-----------------------------------------|
