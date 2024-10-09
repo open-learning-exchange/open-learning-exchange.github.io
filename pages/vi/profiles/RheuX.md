@@ -3,20 +3,16 @@
 ## Basic Info
 ### My name is Axel Nicholas Lorens
 I'm from Indonesia, and I went to UC Davis as a Computer Science major :D
-<details>
-  
-<summary>Fun Fact</summary>
 
-### I have been called 4 different names on different occassion that I would like to share with you, and i'll rank them based on how often it is.
+### Fun Fact
+I have been called 4 different names on different occassion that I would like to share with you, and i'll rank them based on how often it is.
   
 1. Axel (well people are nice enough)
 2. Alex (i seem to get a lot of this often, not sure why, its not even swapping 2 characters side by side)
-3. Excel (... I'm not from Bill gates)
+3. Excel (... I'm not from Microsoft)
 4. XL (I... some just shorten my name)
 
 Anyway, hopefully you guys would follow the trend, or create a new one :D
-
-</details>
 
 ### I live at California, South San Francisco.
 
@@ -24,7 +20,7 @@ The timezone is in `Pacific Time` or `PT`, or it's `GMT-7`
 
 ### What OS I have?
 
-I currently have **macOs** Sequoia 15.0, and I also have a **Windows 11**.
+I currently have macOs Sequoia 15.0, and I also have a Windows 11.
 
 ## Things about Me 😊
 ### Likes and Dislike Tables
