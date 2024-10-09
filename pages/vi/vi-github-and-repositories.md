@@ -63,8 +63,8 @@ Now, there are three levels of repositories to keep in mind:
 
 These repositories must be consistently synced and up-to-date with each other since we all contribute to the upstream repository (open-learning-exchange.github.io). It's crucial to keep changes separate and avoid mixing them between repositories. Significant differences can cause conflicts and prevent you from performing `git push/pull` operations smoothly.
 
-- **Push:** Sends your local changes to a remote repository
-- **Fetch:** Retrieves updates from a remote repository without merging them into your local branch.
+- **Push:** Sends local changes to the remote repository
+- **Fetch:** Retrieves updates from remote repository without merging them into your local branch.
 
 ![GitHub Clone URL](images/vi-sync-a-fork.png)
 
