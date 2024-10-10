@@ -132,6 +132,6 @@ If you continue to have issues after troubleshooting with the above instructions
 
 ---
 
-**→** Next: [Step 4 - Planet and myPlanet Tutorial](vi-first-steps.md#Step_4_-_Planet_and_myPlanet_Tutorial)
+**→** Next: [Step 4.1 - Planet Tutorial](vi-planetapps.md)
 
 Return to [First Steps](vi-first-steps.md#Step_3_-_Planet_and_Docker)
