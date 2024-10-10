@@ -16,5 +16,5 @@ Cheers!
 
 Jesse
 
-[1]: https://www.linkedin.com/in/jesse-washburn-24467428b/"
+[1]: https://www.linkedin.com/in/jesse-washburn-24467428b/ "LinkedIn"
 [2]: https://github.com/jessewashburn  "Github"
