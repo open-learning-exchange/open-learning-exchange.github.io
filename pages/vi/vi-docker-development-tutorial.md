@@ -79,7 +79,7 @@ Next, run `ng version` to check your Angular CLI version, look for `Angular CLI:
 We use the [Add Cors to CouchDB](https://github.com/pouchdb/add-cors-to-couchdb) project to enable CORS on the CouchDB server. This is necessary for the Planet project to work correctly. We only need this for initialization purposes.
 
 ```bash
-# change directory to the dedicated ole folder you created in Step 1's "Preparation" section
+# change directory to the dedicated ole folder you created in Step 2's "Preparation" section
 #### THIS IS AN EXAMPLE PATH ####
 cd ~/Documents/ole
 #### THIS IS AN EXAMPLE PATH ####
@@ -101,7 +101,7 @@ node bin.js http://localhost:2200
 ## Configure the Planet project:
 
 ```bash
-# change directory to the dedicated ole folder you created in Step 1's "Preparation" section
+# change directory to the dedicated ole folder you created in Step 2's "Preparation" section
 #### THIS IS AN EXAMPLE PATH ####
 cd ~/Documents/ole
 #### THIS IS AN EXAMPLE PATH ####
