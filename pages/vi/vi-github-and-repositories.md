@@ -48,7 +48,7 @@ For more details, check [Cloning a repository | GitHub Docs](https://docs.github
 4. Type `git clone ` and paste the copied link. It should look similar to:
    - **HTTPS:** `git clone https://github.com/<YourUserName>/<YourUserName>.github.io.git`
    - **SSH:** `git clone git@github.com:<YourUserName>/<YourUserName>.github.io.git`
-4. Hit Enter. If the repository is cloned successfully, you can now `cd` into your `<YourUserName>.github.io` directory to see its contents.
+5. Hit Enter. If the repository is cloned successfully, you can now `cd` into your `<YourUserName>.github.io` directory to see its contents.
 
 ## 2. Explanation About Repositories and Syncing Process
 
