@@ -44,10 +44,11 @@ For more details, check [Cloning a repository | GitHub Docs](https://docs.github
 
 1. Open a command prompt/terminal window and visit your `<YourUserName>.github.io` repository on GitHub.
 2. Click the green "<> Code" button to get the repository's URL. Copy the HTTPS or SSH link.
-3. In your command line interface (CLI), type `git clone ` and paste the copied link. It should look similar to:
+3. Navigate to the `ole` folder you create in [Step 2's "Preparation" section](vi-prerequisites.md#Preparation), or to a directory of your liking using the command prompt/terminal. **[Guide for Command Line](https://www.codecademy.com/articles/command-line-commands)**
+4. In your command line interface (CLI), type `git clone ` and paste the copied link. It should look similar to:
    - **HTTPS:** `git clone https://github.com/<YourUserName>/<YourUserName>.github.io.git`
    - **SSH:** `git clone git@github.com:<YourUserName>/<YourUserName>.github.io.git`
-4. Hit Enter. If the repository is cloned successfully, you can now `cd` into your `<YourUserName>.github.io` directory to see its contents.
+5. Hit Enter. If the repository is cloned successfully, you can now `cd` into your `<YourUserName>.github.io` directory to see its contents.
 
 ## 2. Explanation About Repositories and Syncing Process
 
