@@ -6,11 +6,11 @@ On dashboard you will be able to access teams from the **dashboard tile** (red b
 ![Accessing Teams](images/planet-teams-dashboard.png)
 
 ## Actions On Teams Page
-After arriving to the Teams page you will see the screen as you can see below. Here are the actions you can perform:
+After arriving to the Teams page you will see the screen as shown below. Here are the actions you can perform:
 - Search for specific teams by name
-- Leave teams (If you are already apart of a team)
-- Request to join (If you not apart of a team)
-- Change pages if there is a great amount of teams
+- Leave teams (If you are already a part of a team)
+- Request to join (If you are not a part of a team)
+- Change pages if there is a large amount of teams listed
 
 ![Team Page Overview](images/planet-teams-overview.png)
 
@@ -34,7 +34,7 @@ These actions will be explained in depth below:
 3. `Manage Courses` 
 4. `Accept` or `Reject`
 
-You are also able to leave the meeting with the `Leave` button
+You are also able to leave the team with the `Leave` button
 
 ### 1. New Message
 After clicking the `New Message` button, you will be able to make a post to the team
