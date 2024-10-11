@@ -39,14 +39,17 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
 The **nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education.
 
 ## Become Member
-To be able to use **PLANET** you need to be part of the system. First thing you will see on PLANET is **Login page**. To learn more about becoming part of PLANET and using it please follow the [link](member.md)
+To be able to use **PLANET** you need to be part of the system. First thing you will see on PLANET is the **Login page**. To learn more about becoming part of PLANET and using it please follow the [link](member.md).
 
 ## Features of Planet
 When you are inside PLANET you will see different features available.
 
 ![Planet Dashboard](images/planet-dashboard.png)
 
-The list of features along with their explanation is given below.
+The list of features along with their explanations is given below.
+
+## myDashboard
+**This portion needs to be worked on**
 
 ## Library
 The Library is home to the community's collection of media and other resources. Click [here](library.md) to learn more about Library.
@@ -61,7 +64,7 @@ The Courses page allows you to create and join various courses on a wide range o
 Surveys is where you can create your survey and send it to others. Click [here](survey.md) to learn more about Surveys.
 
 ## Teams
-Here you will be able to create teams and communicate with them, offer courses, and organize members. Click [here](teams.md) to learn more about Teams
+Here you will be able to create teams and communicate with them, offer courses, and organize members. Click [here](teams.md) to learn more about Teams.
 
 ## Meetups
 Meetups is where you can coordinate meetups by creating them, joining them and more! Click [here](meetup.md) to learn more about Meetups.
