@@ -34,6 +34,27 @@ If you have general internship inquiries and can't find the information you need
 
 For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google, Stack Exchange, and ChatGPT serve as excellent supplementary resources to explore. :)
 
+## Estimated Time To Complete
+
+The table below is the estimated time it will take in hours to complete each step. Each of these steps can be split up and completed within 7-8 days.
+
+| **Step Number**                              | **Estimated Time (hours)** |
+|----------------------------------------------|----------------------------|
+| **Step 0 - Introductory Steps**              | 1-2                        |
+| **Step 1 - Markdown and Fork Tutorial**      | 2-3                        |
+| **Step 2 - Software Prerequisites**          | 2-4                        |
+| **Step 3 - Planet and Docker**               | 4-6                        |
+| **Step 4 - Planet and myPlanet Tutorial**    | 2-3                        |
+| **Step 5 - Keeping Fork Updated**            | 1                          |
+| **Step 6 - GitHub Issues Tutorial**          | 4-6                        |
+| **Step 7 - Nation Planet**                   | 2-3                        |
+| **Step 8 - Create More Issues and Pull Requests** | 6-8                    |
+| **Step 9 - Planet Development Setup**        | 4-6                        |
+| **Step 10 - Be Part of the Team**            | 1                          |
+
+**Total Estimated Time:** 30 to 43 hours
+
+
 ## Step 0 - Introductory Steps
 
 This step includes two tasks:
