@@ -213,7 +213,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 #### *Vi/Vim*
 
-- [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/sheets/vi_help_sheet.pdf)
+- [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/cheat-sheets/vim-quick-references/vi_vim_cheat_sheet.pdf)
 - [VIM Adventures Game for beginners](https://vim-adventures.com/)
 - [Interactive Vim Tutorial](https://www.openvim.com)
 
@@ -244,7 +244,7 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 ## Helpful Videos
 
-- [GitHub & Git Foundations (Playlist)](https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM)
+- [GitHub & Git Foundations (Playlist)](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 - [Shorter Git/GitHub Tutorial (Playlist)](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Mastering Markdown (Playlist)](https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
 - [How to Manually Fix Git Merge Conflicts](https://www.youtube.com/watch?v=g8BRcB9NLp4) - Please note that this video will explain how to fix a merge conflict from the point of view of the repo owner who is trying to merge a pull request. However, it is helpful also when you have to fix a merge conflict on your own local and forked repos.
