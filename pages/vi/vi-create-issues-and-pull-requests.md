@@ -17,7 +17,7 @@ In this step, your goal is to create, comment on, and resolve GitHub issues to i
 1. **Create Issues**:
   - Create 3 new issues in our GitHub repository regarding Software Engineering Virtual Intern First Steps's content or [Planet User Manual](#!pages/manual/planet/overview.md).
   - Each issue should focus on a specific problem or improvement.
-    - Ensure that **at least one issue** addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation in Mobile Intern First Steps.
+    - Ensure that **at least one issue** addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation in Virtual Intern First Steps.
     - Ensure that **at least one issue** is about populating or improving the [Planet User Manual](#!pages/manual/planet/overview.md) page.
 2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues that you did not create. This could be to provide feedback, suggest solutions, ask questions, or clarify the issue.
 
