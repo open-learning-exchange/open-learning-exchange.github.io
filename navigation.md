@@ -36,7 +36,7 @@
   * [Step 5 - Keeping Fork Updated](pages/vi/vi-github-and-repositories.md)
   * [Step 6 - GitHub Issues Tutorial](pages/vi/vi-github-issues.md)
   * [Step 7 - Nation Planet](pages/vi/vi-nation.md)
-  * [Step 8 - Create More Issues and Pull Requests](pages/vi/vi-issues-and-prs.md)
+  * [Step 8 - Create More Issues and Pull Requests](pages/vi/vi-create-issues-and-pull-requests.md)
   * [Step 9 - Planet Development Setup](pages/vi/vi-docker-development-tutorial.md)
   * [Step 10 - Be Part of the Team](pages/vi/vi-first-steps.md#Step_10_-_Be_Part_of_the_Team)
   * [Track Progress](pages/track-first-steps-progress.md)

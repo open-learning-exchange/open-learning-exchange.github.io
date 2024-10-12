@@ -108,7 +108,7 @@ Follow the directions under the [Nation Planet tab](vi-nation.md).
 
 ## Step 8 - Create More Issues and Pull Requests
 
-Follow [Create More Issues and Pull Requests](vi-issues-and-prs.md), where you'll focus on improving our Markdown Wiki. This involves creating three issues, with at least one addressing content reduction and another enhancing the Planet User Manual. Additionally, you'll comment on three existing issues and resolve your own by submitting pull requests. Follow the process outlined in the [GitHub Issues Tutorial](vi-github-issues.md), each pull request will need to be reviewed and approved by two team members before merging.
+Follow [Create More Issues and Pull Requests](vi-create-issues-and-pull-requests.md), where you'll focus on improving our Markdown Wiki. This involves creating three issues, with at least one addressing content reduction and another enhancing the Planet User Manual. Additionally, you'll comment on three existing issues and resolve your own by submitting pull requests. Follow the process outlined in the [GitHub Issues Tutorial](vi-github-issues.md), each pull request will need to be reviewed and approved by two team members before merging.
 
 ## Step 9 - Planet Development Setup
 
