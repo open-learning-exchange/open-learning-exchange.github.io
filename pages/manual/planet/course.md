@@ -94,7 +94,7 @@ For filtering by collection, please check out [Course Collections](#Course_Colle
 At the bottom-right of the page, you can adjust how many courses are displayed per page:
 - Options include 5, 10, 20, 50, 100, or 200 courses per page.
 
-If there are multiple pages, use the left and right arrow buttons to navigate between them.
+If there are multiple pages, use the left and right arrow buttons to navigate through them.
 
 ![Pagination](images/courses-pagination.png)
 
