@@ -165,8 +165,8 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 
 | Category             | Link                                                                                  |
 |----------------------|---------------------------------------------------------------------------------------|
-| **Command line**      | [List of command line commands](https://www.codecademy.com/articles/command-line-commands) |
-| **Docker**            | [What is Docker?](https://www.docker.com/what-docker)                                 |
+| **Command line**     | [List of command line commands](https://www.codecademy.com/articles/command-line-commands) |
+| **Docker**           | [What is Docker?](https://www.docker.com/what-docker)                                 |
 |                      | [Docker Concepts](https://docs.docker.com/get-started/#docker-concepts)               |
 |                      | [Docker Overview](https://docs.docker.com/engine/docker-overview/)                    |
 |                      | [Docker Compose](https://docs.docker.com/compose/overview/)                           |
@@ -180,31 +180,31 @@ It can often be challenging to see the 'Big Picture', and it’s easy to lose si
 |                      | [Git-it Workshop](https://jlord.us/git-it/)                                           |
 |                      | [Codecademy's Learn Git Course](https://www.codecademy.com/learn/learn-git)           |
 | **GitHub Intermediate**| [Git Immersion](https://git-immersion.github.io/gitimmersion/)                        |
-| **GitHub Advanced**   | [Git Pro (Book)](https://git-scm.com/book/en/v2)                                      |
+| **GitHub Advanced**  | [Git Pro (Book)](https://git-scm.com/book/en/v2)                                      |
 |                      | [GitHub Tips](https://github.com/git-tips/tips/blob/master/README.md)                 |
 |                      | [Oh, Shit, Git](http://ohshitgit.com/)                                                |
-| **Git Workflow**      | [Git Workflow - High Level](https://www.atlassian.com/git/tutorials/comparing-workflows) |
+| **Git Workflow**     | [Git Workflow - High Level](https://www.atlassian.com/git/tutorials/comparing-workflows) |
 |                      | [Git Workflow - High Level, Short](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows) |
 |                      | [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) |
-| **Markdown**          | [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)                |
+| **Markdown**         | [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)                |
 |                      | [Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf) |
 |                      | [Markdown Editor](https://jbt.github.io/markdown-editor/)                             |
-| **Planet**            | [Configurations](https://open-learning-exchange.github.io/#!./pages/vi/vi-planet-configurations.md.md) |
+| **Planet**           | [Configurations](https://open-learning-exchange.github.io/#!./pages/vi/vi-planet-configurations.md.md) |
 |                      | [General](https://open-learning-exchange.github.io/#!./pages/techgenius/tg-planet-user-manual.md) |
-| **Vi/Vim**            | [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/cheat-sheets/vim-quick-references/vi_vim_cheat_sheet.pdf) |
+| **Vi/Vim**           | [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/cheat-sheets/vim-quick-references/vi_vim_cheat_sheet.pdf) |
 |                      | [VIM Adventures Game for beginners](https://vim-adventures.com/)                      |
 |                      | [Interactive Vim Tutorial](https://www.openvim.com)                                   |
-| **HTML**              | [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)                          |
+| **HTML**             | [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)                          |
 |                      | [HTML MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/HTML)                    |
-| **CSS**               | [CSS Tutorial](https://www.w3schools.com/css/)                                        |
+| **CSS**              | [CSS Tutorial](https://www.w3schools.com/css/)                                        |
 |                      | [CSS MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/CSS)                      |
-| **JavaScript**        | [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)                       |
+| **JavaScript**       | [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)                       |
 |                      | [JavaScript MDN DOCS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) |
-| **ES6**               | [ES6 Tutorial](https://www.tutorialspoint.com/es6/index.htm)                          |
-| **Angular**           | [Angular Tutorial](https://angular.io/tutorial)                                       |
+| **ES6**              | [ES6 Tutorial](https://www.tutorialspoint.com/es6/index.htm)                          |
+| **Angular**          | [Angular Tutorial](https://angular.dev/tutorials)                                       |
 |                      | [RxJS Doc](https://angular.io/guide/rx-library)                                       |
-| **TypeScript**        | [TypeScript Tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) |
-| **CouchDB**           | [CouchDB Tutorial](http://docs.couchdb.org/en/stable/intro/why.html)                  |
+| **TypeScript**       | [TypeScript Tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) |
+| **CouchDB**          | [CouchDB Tutorial](http://docs.couchdb.org/en/stable/intro/why.html)                  |
 
 ## Helpful Videos
 
