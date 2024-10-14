@@ -54,9 +54,12 @@ The action menu has several different actions available:
   Select the checkbox next to a course, then click **"Change Collections"**.  
   To learn what a collection is, click [here](#Course_Collections).
 
-- **Sending Courses to Remote Database**  
+- **Sending Courses to Nation/Earth**  
   Select the checkbox next to a course, click on **"Manager Actions"**, then click **"Send Courses"**.  
   You will need to enter your administrator password.
+
+- **Sending Courses to Nation/Earth**  
+This feature allows you to push a course to the "upstream" nation if your planet instance is a community, or to "earth" if your planet instance is a nation. To send a course, select the checkbox next to the desired course, click on **"Manager Actions,"** and then select **"Send Courses."** You will need to enter your administrator password.
 
 - **Deleting a Course**  
   Select the checkbox next to a course, click on **"Manager Actions"**, then click **"Delete"**.  
