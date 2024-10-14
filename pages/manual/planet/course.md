@@ -9,11 +9,11 @@ There are two ways to get to the Courses page:
 
 1. From the Navigation Bar, click on the "Courses" Tab at the top.
 
-![Getting to courses with Navigation Bar](images/get-courses-navbar.png)
+  ![Getting to courses with Navigation Bar](images/get-courses-navbar.png)
 
 2. From the dashboard tile, click on the "myCourses" tile right on the front page.
 
-![Getting to courses with dashboard](images/get-courses-tile.png)
+  ![Getting to courses with dashboard](images/get-courses-tile.png)
 
 ## List of Courses
 
@@ -33,26 +33,22 @@ By clicking on "Title", or "Rating", you are able to sort the course list accord
 
 The action menu has several different actions available:
 
-- **Adding a Course**  
-  To add a course, press the "+" button.
+- **Creating a New Course**  
+  To create a new course, click the "+" button.
 
-- **Joining a Course**  
-  Select the checkbox next to a course, then click the **"Join Selected"** button.
-  - The selected course will now be part of your **myCourses**, and visible on the front page dashboard.
-  - You can join multiple courses at once.
-  
-  Alternatively:
-  - Click on a course in the list, then click the **"Join"** button near the top-right of the course page.
+- **Joining an Existing Course**  
+  - Select the checkbox next to a course, then click the **"Join Selected"** button.
+    - The selected course will now be part of your **myCourses**, and visible on the front page dashboard.
+    - You can join multiple courses at once.
+  - Alternatively, click on a course from the list, then click the **"Join"** button in the top-right corner of the course page.
 
-![course-added](images/my-courses-added.png)
+  ![course-added](images/my-courses-added.png)
 
 - **Leaving a Course**  
-  Select the checkbox next to a course you're already part of, then click the **"Leave Selected"** button.
-  - The course will be removed from **myCourses** and no longer appear on the front page dashboard.
-  - You can leave multiple courses at once.
-
-  Alternatively:
-  - Click on a course in the list, then click the **"Leave"** button near the top-right of the course page.
+  - Select the checkbox next to a course you're already part of, then click the **"Leave Selected"** button.
+    - The course will be removed from **myCourses** and no longer appear on the front page dashboard.
+    - You can leave multiple courses at once.
+  - Alternatively, click on a course in the list, then click the **"Leave"** button near the top-right corner of the course page.
 
 - **Changing Collections**  
   Select the checkbox next to a course, then click **"Change Collections"**.  
