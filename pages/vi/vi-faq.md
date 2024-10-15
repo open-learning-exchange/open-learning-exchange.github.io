@@ -115,7 +115,7 @@
 + Running two communities on the same machine is possible as long as their configurations (planet configuration folder, Docker Compose project name, port mappings, etc.) do not conflict with each other.
 
   1. **If you will not run both communities simultaneously:**
-    - Follow [Step 2.1](#!pages/vi/vi-docker-tutorial.md):
+    - Follow [Step 3.1](#!pages/vi/vi-docker-tutorial.md):
       - In the section "Your OS - Run Planet Community with Docker," select a new directory when you reach `#create a dedicated directory`, e.g., `~/srv/planet1` for macOS/Windows or `/srv/planet1` for Linux.
       - In the section `# download production docker compose yml file and rename it`, edit the `.yml` file you downloaded. Replace the host path mapping under the `couchdb` and `planet` services' `volumes`, e.g., change `"~/srv/planet/conf:/opt/couchdb/etc/local.d"` to `"~/srv/planet1/conf:/opt/couchdb/etc/local.d"`.
 
@@ -132,14 +132,14 @@
   # created with the `planet.yml` configuration file
   docker compose -f planet.yml -p planet down -v
 
-  # 2. Remove the planet folder you created in Step 2.1
+  # 2. Remove the planet folder you created in Step 3.1
   # Linux
   rm -rf /srv/planet
 
   # macOS or Windows
   rm -rf ~/srv/planet
 
-  # 3. Follow "YourOS - Run Planet Community with Docker" in Step 2.1 again
+  # 3. Follow "YourOS - Run Planet Community with Docker" in Step 3.1 again
   ```
 
 - After planet is up and running, follow [Configure Your PlanetCommunity](#!./pages/vi/vi-planet-configurations.md#Configure_Your_Planet_Community) again, since your old community registration still exist on the nation side, please use a slightly different name for your configuration, e.g. `<YourGitHubUserName>-1`.
