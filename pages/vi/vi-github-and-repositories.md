@@ -1,4 +1,5 @@
 # Git Repositories (Step 5)
+**Estimated Time: 1h** 
 
 ## Objectives
 
