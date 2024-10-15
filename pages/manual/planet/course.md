@@ -9,11 +9,11 @@ There are two ways to get to the Courses page:
 
 1. From the Navigation Bar, click on the "Courses" Tab at the top.
 
-![Getting to courses with Navigation Bar](images/get-courses-navbar.png)
+  ![Getting to courses with Navigation Bar](images/get-courses-navbar.png)
 
 2. From the dashboard tile, click on the "myCourses" tile right on the front page.
 
-![Getting to courses with dashboard](images/get-courses-tile.png)
+  ![Getting to courses with dashboard](images/get-courses-tile.png)
 
 ## List of Courses
 
@@ -27,55 +27,77 @@ By clicking on "Title", or "Rating", you are able to sort the course list accord
 
 ## Actions on List Page
 
-* Action Menu
+### Action Menu
 
 ![Menu](images/courses-menu.png)
 
-The action menu has several different actions available.
+The action menu has several different actions available:
 
-1. To add a course, press the "+" button.
+- **Creating a New Course**  
+  To create a new course, click the "+" button.
 
-2. To join a course, select the checkbox next to a course then click the "Join Selected" button. The selected course is now part of your myCourses, and can be seen on the front page's dashboard. Multiple courses are able to be joined at once.
+- **Joining an Existing Course**  
+  - Select the checkbox next to a course, then click the **"Join Selected"** button.
+    - The selected course will now be part of your **myCourses**, and visible on the front page dashboard.
+    - You can join multiple courses at once.
+  - Alternatively, click on a course from the list, then click the **"Join"** button in the top-right corner of the course page.
 
-![course-added](images/my-courses-added.png)
+  ![course-added](images/my-courses-added.png)
 
-Alternatively, click on your course on the courses list then click the "Join" button near the top-right of the course page.
+- **Leaving a Course**  
+  - Select the checkbox next to a course you're already part of, then click the **"Leave Selected"** button.
+    - The course will be removed from **myCourses** and no longer appear on the front page dashboard.
+    - You can leave multiple courses at once.
+  - Alternatively, click on a course in the list, then click the **"Leave"** button near the top-right corner of the course page.
 
-3. To leave a course, select the checkbox next to a course that you are already a part of then click the "Leave Selected" button. The selected course is no longer part of your myCourses, and can no longer be seen on the front page's dashboard. Multiple courses are able to be left at once.
+- **Changing Collections**  
+  Select the checkbox next to a course, then click **"Change Collections"**.  
+  To learn what a collection is, click [here](#Course_Collections).
 
-Alternatively, click on your course on the courses list then click the "Leave" button near the top-right of the course page.
+- **Sending Courses to Nation/Earth**  
+  Select the checkbox next to a course, click on **"Manager Actions"**, then click **"Send Courses"**.  
+  You will need to enter your administrator password.
 
-4. To change a collection, select the checkbox next to a course then click "Change Collections". To learn what a collection is, click [here](#Course_Collections).
+- **Sending Courses to Nation/Earth**  
+This feature allows you to push a course to the "upstream" nation if your planet instance is a community, or to "earth" if your planet instance is a nation. To send a course, select the checkbox next to the desired course, click on **"Manager Actions,"** and then select **"Send Courses."** You will need to enter your administrator password.
 
-5. To send a newly created course to be updated in the remote database, select the checkbox next to a course, click on "Manager Actions", then click on "Send Courses". You will need to enter your administrator password.
+- **Deleting a Course**  
+  Select the checkbox next to a course, click on **"Manager Actions"**, then click **"Delete"**.  
+  You can delete multiple courses at once.
 
-6. To delete a course, select the checkbox next to a course, click on "Manager Actions", then click on the "Delete" button. Multiple courses are able to be deleted at once.
+### Rating
 
-* Rating
+By default, the rating on the right side of a course item shows the average rating of all users who have rated the course.
 
-By default, the rating on the right side of a course item shows the average rating of all users who have rated the particular course.
-
-In order to add a rating for a course: 
-
-1. Click on one of the stars to the right side of the course item, with 1 being the lowest rating and 5 being the highest.
-
-2. A module will pop up, showing the rating you've added and an optional comment. You can also change your given rating on this page.
-
-3. Your rating will be submitted and the average rating of the course will be updated once you click the "OK" button on the module.
+To add a rating for a course:
+1. Click one of the stars on the right side of the course item (1 being the lowest, 5 being the highest).
+2. A module will pop up, showing your rating and an optional comment.
+3. You can change your rating within this module.
+4. Once you click **"OK"**, your rating will be submitted, and the course's average rating will update.
 
 ![Rating](images/courses-rating.png)
 
-* Search
+### Search
 
-At the search bar near the top-right of the page, you are able to search by Grade Level, Subject Level, and Title. The search will automatically be performed upon changing any of these three, so there is no need to type the Enter key or press a Submit button. Press the "Clear" Button to return all three fields to their defaults and show all available courses again.
+The search bar near the top-right of the page allows you to search by:
+- **Grade Level**
+- **Subject Level**
+- **Title**
 
 ![Search](images/courses-search.png)
 
+The search will automatically perform when you change any of these. You don't need to press Enter or click Submit.
+
+To reset your search filters, click the **"Clear"** button, which will return all fields to their defaults and show all available courses again.
+
 For filtering by collection, please check out [Course Collections](#Course_Collections)
 
-* Pagination
+### Pagination
 
-At the bottom-right of the page, you can see your pagination options. You are able to have 5, 10, 20, 50, 100, or 200 courses per page, and the pages showing the course list will be split accordingly. Use the left and right arrow buttons to navigate in the case there are multiple pages.
+At the bottom-right of the page, you can adjust how many courses are displayed per page:
+- Options include 5, 10, 20, 50, 100, or 200 courses per page.
+
+If there are multiple pages, use the left and right arrow buttons to navigate through them.
 
 ![Pagination](images/courses-pagination.png)
 
