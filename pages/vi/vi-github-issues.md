@@ -90,7 +90,15 @@ If you're still confused, that's quite alright. [Forking Workflow](https://www.a
 
 ### 5.1. Preview Changes Locally
 
-After making modifications to your local files and before making a commit, you may want to preview the changes locally. To quickly set up a local HTTP server, find the folder where your mdwiki.html file is located and then use the following command: `python3 -m http.server 8080`.
+After making modifications to your local files and before making a commit, you may want to preview the changes locally. You can also setup a local HTTP Server if you like. To setup a local HTTP Server go to your forked repository, and run the following commands:
+
+If you have Python 3 installed:  
+`python3 -m http.server 8080`
+
+If you have Python installed:  
+`python -m SimpleHTTPServer 8080`
+
+For more information on setting up a local HTTP server please follow [MDwiki's guide here](https://dynalon.github.io/mdwiki/#!./faq.md#Q:_I_don't_want_to_install_nginx_or_apache_locally._What_is_the_fastest/easiest_way_to_setup_a_local_HTTP_server_to_get_started_with_MDwiki_?).
 
 ## 6. Create a Commit and Push the Changes
 
