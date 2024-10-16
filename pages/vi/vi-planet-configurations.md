@@ -1,4 +1,5 @@
 ﻿# Planet Configurations (Step 3.2)
+**Estimated Time: 1.5h** 
 
 ## Objectives
 

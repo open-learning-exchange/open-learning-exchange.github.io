@@ -14,6 +14,7 @@
 |[Mutugiii](profiles/mutugiii.md)|2020-05-12|
 |[hiroTochigi](profiles/hiroTochigi.md)|2019-06-29|
 |[jessewashburn](profiles/jessewashburn.md)|2024-10-12|
+|[RheuX](profiles/RheuX.md)|2024-10-14|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).

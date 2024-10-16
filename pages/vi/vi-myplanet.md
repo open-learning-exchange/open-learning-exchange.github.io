@@ -1,4 +1,5 @@
 ﻿# myPlanet Tutorial (Step 4.2)
+**Estimated Time: 1h** 
 
 **NOTE**: If you don't have access to an Android device, you may skip this step.
 
