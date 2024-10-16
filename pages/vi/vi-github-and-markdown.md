@@ -1,4 +1,5 @@
 # GitHub and Markdown (Step 1)
+**Estimated Time: 1.5h** 
 
 ## 1. Objectives
 

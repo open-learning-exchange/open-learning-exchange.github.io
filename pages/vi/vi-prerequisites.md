@@ -1,4 +1,5 @@
 # Software Prerequisites - Environment Setup (Step 2)
+**Estimated Time: 1.5h** 
 
 ## Objectives
 
