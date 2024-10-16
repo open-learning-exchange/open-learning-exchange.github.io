@@ -124,7 +124,7 @@ rm -rf ~/srv/planet
 # 3. Follow "YourOS - Run Planet Community with Docker" in the previous step (3.1) again
 ```
 
-After planet is up and running, follow [Configure Your PlanetCommunity](#!./pages/vi/vi-configurations-vagrant.md#Configure_Your_Planet_Community) again, since your old community registration still exist on the nation side, please use a slightly different name for your configuration, e.g. `<YourGitHubUserName>-1`.
+After planet is up and running, follow [Configure Your Planet Community](#!./pages/vi/vi-planet-configurations.md#Configure_Your_Planet_Community) again, since your old community registration still exist on the nation side, please use a slightly different name for your configuration, e.g. `<YourGitHubUserName>-1`.
 
 ### More Help
 
