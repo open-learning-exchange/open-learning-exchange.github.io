@@ -80,3 +80,6 @@ Throughout planet, you will be able to give feedback on planet, courses, and mor
 
 ## Manager
 The Manager role comes with another set of administrative features. This includes viewing reports, syncing the community with the nation, and performing upgrades on the community.  Click [here](manager.md) to learn more.
+
+## Community
+With Planet, you can expand your knowledge and creativity with like-minded people. You can check for new events, join events, or create your own events using our calendar feature.
