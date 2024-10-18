@@ -219,6 +219,8 @@ You will need to make **at least one comment** on an issue you did **not** creat
   - 1 comment added (on an issue you didn't create)
   - 1 issue created
 
+**Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
+
 ---
 
 **→** Next: [Step 7 - Nation Planet](vi-nation.md)
