@@ -91,7 +91,15 @@ If you're still confused, that's quite alright. [Forking Workflow](https://www.a
 
 ### 5.1. Preview Changes Locally
 
-After making modifications to your local files and before making a commit, you may want to preview the changes locally. To quickly set up a local HTTP server, you can follow [MDwiki's guide here](https://dynalon.github.io/mdwiki/#!./faq.md#Q:_I_don't_want_to_install_nginx_or_apache_locally._What_is_the_fastest/easiest_way_to_setup_a_local_HTTP_server_to_get_started_with_MDwiki_?). However, instead of using the outdated Python method mentioned in the guide, you can use the following command: `python3 -m http.server 8080`.
+After making modifications to your local files and before making a commit, you may want to preview the changes locally. You can also setup a local HTTP Server if you like. To setup a local HTTP Server go to your forked repository, and run the following commands:
+
+If you have Python 3 installed:  
+`python3 -m http.server 8080`
+
+If you have Python installed:  
+`python -m SimpleHTTPServer 8080`
+
+For more information on setting up a local HTTP server please follow [MDwiki's guide here](https://dynalon.github.io/mdwiki/#!./faq.md#Q:_I_don't_want_to_install_nginx_or_apache_locally._What_is_the_fastest/easiest_way_to_setup_a_local_HTTP_server_to_get_started_with_MDwiki_?).
 
 ## 6. Create a Commit and Push the Changes
 
@@ -204,6 +212,15 @@ You will need to make **at least one comment** on an issue you did **not** creat
 - [Quickstart for GitHub Issues | GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 - [FAQ - Helpful Links and Videos](vi-faq.md#Helpful_Links)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
+## Track Your Progress
+
+- Once you complete Step 6 you will have:
+  - 2 pull requests made (one at step 3 and one at step 6)
+  - 1 comment added (on an issue you didn't create)
+  - 1 issue created
+
+**Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ---
 
