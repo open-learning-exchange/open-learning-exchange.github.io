@@ -212,6 +212,13 @@ You will need to make **at least one comment** on an issue you did **not** creat
 - [FAQ - Helpful Links and Videos](vi-faq.md#Helpful_Links)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
+## Track Your Progress
+
+- Once you complete Step 6 you will have:
+  - 2 pull requests made (one at step 3 and one at step 6)
+  - 1 comment added (on an issue you didn't create)
+  - 1 issue created
+
 ---
 
 **→** Next: [Step 7 - Nation Planet](vi-nation.md)
