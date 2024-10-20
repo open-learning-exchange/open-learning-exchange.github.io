@@ -68,7 +68,6 @@ These repositories must be consistently synced and up-to-date with each other si
 - **Push:** Sends your local changes to a remote repository.
 - **Fetch:** Retrieves updates from a remote repository without merging them into your local branch.
 
-
 ![GitHub Clone URL](images/vi-sync-a-fork.png)
 
 ## 3. Configure a Remote Repository for Your Fork
