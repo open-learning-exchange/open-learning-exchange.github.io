@@ -191,7 +191,7 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 
 Now follow the instructions on <a href="vi-github-pull-request.md" target="_blank">**GitHub Pull Request Tutorial**</a> to create your pull request.
 
-NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can go back up to Step 4 of this page or follow the process in the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
+NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can go back up to [Step 4 of this page](vi-github-issues.md#4._Synchronize_Your_Repository) or follow the [summary section in the previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
 This is an exercise to help you familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
