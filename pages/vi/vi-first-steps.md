@@ -100,11 +100,6 @@ Follow [GitHub Issues](vi-github-issues.md) to create at least one issue. Post a
 
 Make sure you have created at least one issue, resolved it, commented on an issue you didn't create and have a pull request with the fix merged. You may continue making Issues, Pull requests and Comments, or move on to the next step, while you are waiting for your pull request to be merged. The approval process for your Step 6 fix may take time, but **it is OK** to continue working.
 
-- Once you complete Step 6 you will have:
-  - 2 pull requests made (one at step 3 and one at step 6)
-  - 1 comment added (on an issue you didn't create)
-  - 1 issue created
-
 **Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 Please note that creating and working on Issues are not exactly bound by the "Step" you are in. Feel free to move on to other steps while you wait on OLE approval for your merge(s). You can also add more Issues and PR's in the meantime.
