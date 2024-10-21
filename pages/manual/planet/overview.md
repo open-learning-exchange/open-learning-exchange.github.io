@@ -12,7 +12,7 @@ OLE’s mission is to ensure learning for all, not only universal basic literacy
 
 Personalized Learning And Networked Enabled Teams (Planet) is a multilingual learning system and library with thousands of educational resources including books, videos, and educational games. The system also includes software tools for content and student management, student evaluation and monitoring, and Courses creation.
 
-At the core, Planet is a repository of free, open access, and public domain resources designed to benefit literate and preliterate, young and old, and novice and expert learners of all ages. Resources of all kinds (literature, health, science, math, etc.), in various languages (English, Somali, Swahili, Arabic, Spanish, etc.), and in various formats (text, audio, video) are continually being added to Planet.
+At it's core, Planet is a repository of free, open access, and public domain resources designed to support learners of all ages and backgrounds. Resources of all kinds (literature, health, science, math, etc.), in various languages (English, Somali, Swahili, Arabic, Spanish, etc.), and in various formats (text, audio, video) are continually being added to Planet.
 
 The Planet system exists in the cloud but it can also be configured to run locally without the need for internet connectivity making it a viable solution for remote locations where internet connectivity is unreliable or nonexistent. Planet facilitates frequent assessments of learners, leaders, and administrators. It also promotes the evaluation and effectiveness of the learning resources. Robust usage feedback metrics make Planet a powerful tool for those overseeing monitoring and evaluation of the education system.
 
