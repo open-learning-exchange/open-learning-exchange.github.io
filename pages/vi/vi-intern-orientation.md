@@ -36,7 +36,7 @@ During your onboarding as a virtual intern in the initial Google Meet meeting, y
 - [treehouses](https://github.com/treehouses): This is the systems engineering branch of OLE's software.
 - [ole-vi](https://github.com/ole-vi): Stands for OLE Virtual Intern, a space where you can freely start any OLE-related project and experiment with new ideas.
 
-Upon receiving these invitations, please accept them promptly. Once accepted, consider marking yourself as a public member in the organization’s member list for both [treehouses](https://github.com/orgs/treehouses/people) and [open-learning-exchange](https://github.com/orgs/open-learning-exchange/people) so others can see that you are a member of the OLE organization on GitHub.
+Upon receiving these invitations, please accept them promptly. Once accepted, consider marking yourself as a public member in the organization’s member list for both [open-learning-exchange](https://github.com/orgs/open-learning-exchange/people) and [treehouses](https://github.com/orgs/treehouses/people) so others can see that you are a member of the OLE organization on GitHub.
 
 Moving forward, you'll be working directly on OLE's repositories instead of your own forked repositories. We'll be following the simpler [**Feature Branch Workflow**](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), which allows for better collaboration and code management.
 
@@ -58,7 +58,7 @@ Additionally, please read [**A Guide for Reviewing Code and Having Your Code Rev
 
 ## Help Other Prospective Virtual Interns
 
-For the first 2-4 weeks, one of your responsibilities as an software intern is to review and help prospective software interns with their issues / pull requests at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io). Please provide feedback to [issues raised by prospective software engineering interns](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Avi), be sure to look out for the issues with `vi` label only as other lables like `mi` is for other internships and you may not have the full picture.
+For the first 2-4 weeks, one of your responsibilities as an software intern is to review and help prospective software interns with their issues / pull requests at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io). Please provide feedback to [issues raised by prospective software engineering interns](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Avi), be sure to look out for the issues with `vi` label only, as other labels like `mi` is for other internships and you may not have the full picture.
 
 To begin a review, ensure the checklist items in the pull request template are addressed properly by the prospective software engineering interns and make sure the pull request actually fixes the issue.
 
@@ -79,7 +79,7 @@ Whenever you comment on an issue or review a pull request on GitHub that require
 
 ## Check-in/Check-out
 
-We typically conduct verbal check-ins (to communicate information similar to "[stand-up meetings](https://en.wikipedia.org/wiki/Stand-up_meeting)") and check-outs. If verbal communication isn't possible, you can use the following text format in our Discord *vi-lounge* channel:
+We typically conduct verbal check-ins (similar to "[stand-up meetings](https://en.wikipedia.org/wiki/Stand-up_meeting)") and check-outs. If verbal communication isn't possible and you need to leave quickly, you can use the following text format in our Discord server's `#vi-lounge` channel:
 
 ```
 # Check-in
@@ -94,6 +94,7 @@ What obstacles are in the way of our progress?
 - List any problems
 
 What time I'm planning to leave the virtual office today?
+- e.g. 4pm EDT
 ```
 
 ```
