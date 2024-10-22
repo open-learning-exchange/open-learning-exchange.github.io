@@ -73,8 +73,6 @@ Currently, virtual interns typically do not merge pull requests. To merge a pull
    - **Commit Title:** Remove all commit messages in the extended description, with the exception of co-authors. Keep the commit title concise, clear, and in lowercase.
    - **Closing Issue:** If applicable, include " (fixes #IssueNumber)" in the title to [automatically close the associated issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword). If forgotten, manually close the issue and link it to the original pull request. An example of a good commit title: "update vi-configuration.md (fixes #1530) (#1557)", where "1530" is the issue number, and "1557" is the pull request number.
 
-3. **Notification:** After merging a pull request, let the submitter know in the relevant Discord channel. Ensure to include a link to the pull request or the commit hash for reference.
-
 ## Notify Others of Updates
 
 Whenever you comment on an issue or review a pull request on GitHub that requires action from the submitter, notify those involved by sharing a link to the comment in the relevant Discord channel.
@@ -94,6 +92,8 @@ What is my aim for today?
 
 What obstacles are in the way of our progress?
 - List any problems
+
+What time I'm planning to leave the virtual office today?
 ```
 
 ```
