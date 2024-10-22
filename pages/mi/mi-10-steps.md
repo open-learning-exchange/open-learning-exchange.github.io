@@ -116,4 +116,4 @@ Additionally, you may also go over the official [Kotlin tour](https://kotlinlang
 
 Next thing is to add yourself to the virtual intern list found in [mi-team.md](mi-team.md) and create a pull request. Message us ("@okurole_25668", "@dogi" and "@vi-mobile") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
 
-Make sure to read through the [intern orientation document](mi-intern-orientation.md) before the meeting.
+Make sure to read through the [Mobile Intern Orientation document](mi-intern-orientation.md) before the meeting.
