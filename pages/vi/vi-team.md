@@ -16,6 +16,7 @@
 |[jessewashburn](profiles/jessewashburn.md)|2024-10-12|
 |[RheuX](profiles/RheuX.md)|2024-10-14|
 |[RicaRodz](profiles/RicaRodz.md)|2024-10-16|
+|[Gavinp14](profiles/Gavinp14.md)|2024-10-16|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
