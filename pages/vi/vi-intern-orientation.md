@@ -75,7 +75,7 @@ Currently, virtual interns typically do not merge pull requests. To merge a pull
 
 3. **Notification:** After merging a pull request, let the submitter know in the relevant Discord channel. Ensure to include a link to the pull request or the commit hash for reference.
 
-### Notify Others of Updates
+## Notify Others of Updates
 
 Whenever you comment on an issue or review a pull request on GitHub that requires action from the submitter, notify those involved by sharing a link to the comment in the relevant Discord channel.
 
@@ -127,7 +127,7 @@ Join the OLE Google Meet session at [https://talk.ole.org](https://talk.ole.org)
 
 While some work can be done offline and outside of the Google Meet "virtual office," especially when you're working during unstaffed hours, we generally expect you to be present there for the majority of your work time.
 
-If you are unable to come to the "virtual office" at the time you mentioned during your last check-out, please try to let us know as soon as possible in the #vi-backroom channel and @dogi.
+If you are unable to come to the "virtual office" at the time you mentioned during your last check-out, please try to let us know as soon as possible in the #vi-lounge channel and @dogi.
 
 ## Communicate, Communicate, Communicate!
 
