@@ -79,7 +79,7 @@ Whenever you comment on an issue or review a pull request on GitHub that require
 
 ## Check-in/Check-out
 
-We typically conduct verbal check-ins (similar to "[stand-up meetings](https://en.wikipedia.org/wiki/Stand-up_meeting)") and check-outs. If verbal communication isn't possible and you need to leave quickly, you can use the following text format in our Discord server's `#vi-lounge` channel:
+We typically conduct verbal check-ins (similar to "[stand-up meetings](https://en.wikipedia.org/wiki/Stand-up_meeting)") and check-outs. If verbal communication isn't possible and you need to leave quickly, you can use the following text format in our Discord server's *#vi-lounge* channel:
 
 ```
 # Check-in
@@ -128,7 +128,7 @@ Join the OLE Google Meet session at [https://talk.ole.org](https://talk.ole.org)
 
 While some work can be done offline and outside of the Google Meet "virtual office," especially during unstaffed hours, we generally expect you to be present there for most of your work time, unless you find the virtual office too distracting.
 
-If you are unable to come to the "virtual office" at the time you mentioned during your last check-out, please try to let us know as soon as possible in the #vi-lounge channel and @dogi.
+If you are unable to come to the "virtual office" at the time you mentioned during your last check-out, please try to let us know as soon as possible in the *#vi-lounge* channel and @dogi.
 
 ## Communicate, Communicate, Communicate!
 
