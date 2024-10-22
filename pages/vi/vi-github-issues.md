@@ -91,7 +91,11 @@ If you're still confused, that's quite alright. [Forking Workflow](https://www.a
 
 ### 5.1. Preview Changes Locally
 
-After making modifications to your local files and before making a commit, you may want to preview the changes locally. To quickly set up a local HTTP server, you can follow [MDwiki's guide here](https://dynalon.github.io/mdwiki/#!./faq.md#Q:_I_don't_want_to_install_nginx_or_apache_locally._What_is_the_fastest/easiest_way_to_setup_a_local_HTTP_server_to_get_started_with_MDwiki_?). However, instead of using the outdated Python method mentioned in the guide, you can use the following command: `python3 -m http.server 8080`.
+Before committing your local changes, you may want to preview how they are rendered on MDwiki locally. Optionally, you can set up a local HTTP server. To do this, navigate to your forked repository and run one of the following commands:
+
+- With Python 3: `python3 -m http.server 8080`
+- With Python 2: `python -m SimpleHTTPServer 8080`
+- With node.js http-server server: follow the [MDwiki's guide here](https://dynalon.github.io/mdwiki/#!./faq.md#Q:_I_don't_want_to_install_nginx_or_apache_locally._What_is_the_fastest/easiest_way_to_setup_a_local_HTTP_server_to_get_started_with_MDwiki_?).
 
 ## 6. Create a Commit and Push the Changes
 
@@ -187,7 +191,7 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 
 Now follow the instructions on <a href="vi-github-pull-request.md" target="_blank">**GitHub Pull Request Tutorial**</a> to create your pull request.
 
-NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can follow the process in the [previous step](vi-github-and-repositories.md#Summary_of_Steps).
+NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can go back up to [Step 4 of this page](vi-github-issues.md#4._Synchronize_Your_Repository) or follow the [summary section in the previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
 This is an exercise to help you familiarize yourself with GitHub issues, committing, and creating pull requests. This is a common process in large open source projects as there is always room for improvement. So, we strongly encourage you to follow this process and continue to post issues and resolve them.
 
@@ -204,6 +208,15 @@ You will need to make **at least one comment** on an issue you did **not** creat
 - [Quickstart for GitHub Issues | GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 - [FAQ - Helpful Links and Videos](vi-faq.md#Helpful_Links)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
+## 10. Track Your Progress
+
+- Once you complete Step 6 you will have:
+  - 2 pull requests made (one at step 3 and one at step 6)
+  - 1 comment added (on an issue you didn't create)
+  - 1 issue created
+
+**Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ---
 
