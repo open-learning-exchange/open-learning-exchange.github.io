@@ -15,6 +15,8 @@
 |[hiroTochigi](profiles/hiroTochigi.md)|2019-06-29|
 |[jessewashburn](profiles/jessewashburn.md)|2024-10-12|
 |[RheuX](profiles/RheuX.md)|2024-10-14|
+|[RicaRodz](profiles/RicaRodz.md)|2024-10-16|
+|[Gavinp14](profiles/Gavinp14.md)|2024-10-16|
 |[sahilvunnam](profiles/sahilvunnam.md)|2024-10-22|
 
 ## Former Interns
