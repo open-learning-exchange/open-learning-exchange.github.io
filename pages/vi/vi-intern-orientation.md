@@ -50,7 +50,7 @@ To ensure we are always branching from the latest master/main branch and that th
 
 Commit frequently and create pull requests early in the development process, utilizing [**GitHub's draft pull request feature**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests). This enables your mentor and fellow interns to review your code and provide feedback, helping to ensure you're on the right track from the start.
 
-## Code Review and Collaboration
+## Code Review and Collaboration: Reviewing Pull Requests
 
 Familiarize yourself with GitHub's review features by referring to the [Review on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) documentation. If you find an issue that must be addressed with a pull request, do not forget to use the "Request changes" option when submitting your review.
 
