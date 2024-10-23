@@ -165,7 +165,7 @@ Here are some common Docker Compose commands:
 **Note: For Docker Compose commands, use the `planet.sh` script** to avoid specifying the YAML file path and project name each time. The script also checks for the credentials YAML file and merges it for CouchDB to function properly. This credentials file is generated after setting up an admin account in the Planet web interface during initial configuration.
 
 ```plaintext
-Usage: planet.sh <up|stop|start|restart|down|(other docker compose command)...>
+Usage: bash planet.sh <up|stop|start|restart|down|(other docker compose command)...>
 
 Example: planet.sh up       Start up the planet services for the first time in the background.
          planet.sh stop     Stop planet services.
