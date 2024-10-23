@@ -2,90 +2,104 @@
 
 ## Welcome to the OLE Mobile Intern Team!
 
-Congratulations! You have completed the first steps and have been selected to join the Open Learning Exchange mobile virtual intern team. Please remember that we expect interns to have at least 24 hours a week for the minimal of 3 months to work on Open Learning Exchange issues. If you do not currently have enough time, we will be happy to have you later when you do have time.
+Congratulations! You have successfully completed the First Steps and have been selected to join the Open Learning Exchange mobile intern team.
 
-## Get to Know the Team
+The first step is to get to know the team, including our CTO [dogi](https://github.com/dogi) and the [current intern team leads and members](#!./pages/mi/mi-team.md). You'll have the opportunity to meet us face-to-face in our "virtual office" via Google Meet during the initial meeting.
 
-The first thing is to meet the team, starting with CTO [dogi](https://github.com/dogi), then the [current intern team leads and members](#!./pages/mi/mi-team.md). After having the initial meeting with dogi, you can join <http://talk.ole.org> during Google Meet session to meet with current interns, get to know each other, and ask them what they have been working on.
+Please note that we expect interns to commit at least 24 hours per week for a minimum of 3 months to work on Open Learning Exchange projects. If you currently don’t have enough time, we’d be happy to welcome you later when your schedule allows. You can find more information in our [FAQ](mi-faq.md).
 
 ## Familiarize Yourself with Current Projects and Issues
 
-Typically, interns choose what project they want to work on based on their experience. If you get tired of a certain project, there is an opportunity to switch. Take a look at our current projects below, if any particular ones interest you, there is a very good chance that you can work on them.
+Typically, you are invited to the OLE internship that best aligns with your experience. Interns also have the opportunity to choose projects based on their interests and skills. If you feel stuck on a particular project, there is the option to switch. Take a look at our current projects below—if any catch your interest, there’s a very good chance you can work on them.
 
-**Current Active Mobile Projects**
+To stay updated on the projects you’re contributing to, be sure to "Star" and "Watch" the repository on GitHub.
 
-- [myPlanet](https://github.com/open-learning-exchange/myplanet)
-  - An Android app that syncs with Planet to save data for offline use and send usage data.
-- [Remote](https://github.com/treehouses/remote/)
-  - An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth.
+#### Mobile Intern Projects
 
-## A Few Things to Know...
+- [myPlanet](https://github.com/open-learning-exchange/myplanet): An Android app that syncs with Planet to save data for offline use and send usage data. This is the default project we will assign you to.
+- [Remote](https://github.com/treehouses/remote/): An Android app that communicates with headless Raspberry Pi mobile server running treehouses image via Bluetooth. You may also work on this project if you have a Raspberry Pi 4 or 5.
 
-### Becoming a GitHub Organization Member
+#### Projects in Other OLE Internship Tracks
 
-Once you've been officially onboarded as a virtual intern, you'll receive email invitations to join the GitHub organizations: [open-learning-exchange](https://github.com/open-learning-exchange), [ole-vi](https://github.com/ole-vi), and [treehouses](https://github.com/treehouses).
+- [Planet](https://github.com/open-learning-exchange/planet): A learning management system designed as a Progressive Web App using Angular and CouchDB.
+- [Systems Engineering Related Projects](https://treehouses.io/#!./pages/vi/orientation.md#Familiarize_Yourself_with_Current_Projects_and_Issues)
 
-Upon receiving these invitations, please accept them promptly. Once accepted, mark yourself as a public member in the [list of OLE contributors](https://github.com/orgs/open-learning-exchange/people).
+## OLE's GitHub Organization & Feature Branch Workflow
 
-### Transition to OLE's Repositories and Adopt the Feature Branch Workflow
+During your onboarding as a virtual intern in the initial Google Meet meeting, you'll receive email invitations to join the following GitHub organizations:
 
-Moving forward, you'll be working directly on OLE's repositories instead of your own forked repositories. We'll be following the [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), which allows for better collaboration and code management.
+- [open-learning-exchange](https://github.com/open-learning-exchange): This is the main organization that hosts OLE's web and mobile app repositories.
+- [treehouses](https://github.com/treehouses): This is the systems engineering branch of OLE's software.
+- [ole-vi](https://github.com/ole-vi): Stands for OLE Virtual Intern, a space where you can freely start any OLE-related project and experiment with new ideas.
 
-It's important to note that with this workflow, you have the potential to make more significant changes, so always double-check the branch you're working on. Additionally, commit frequently and create pull requests early in the development process. This enables other virtual interns to review your code and provide feedback, ensuring you stay on the right track from the outset.
+Upon receiving these invitations, please accept them promptly. Once accepted, consider marking yourself as a public member in the organization’s member list for both [open-learning-exchange](https://github.com/orgs/open-learning-exchange/people) and [treehouses](https://github.com/orgs/treehouses/people) so others can see that you are a member of the OLE organization on GitHub.
 
-### Reviewing Pull Requests and Issues
+Moving forward, you'll be working directly on OLE's repositories instead of your own forked repositories. We'll be following the simpler [**Feature Branch Workflow**](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), which allows for better collaboration and code management.
 
-One of your responsibilities as an intern is to review and help prospective interns with their issues / pull requests at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io). To begin a review, navigate to the 'Files changed' tab on a pull request. Familiarize yourself with GitHub's review features by referring to the [Review on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) documentation.
+## Issues and Project Plannings
 
-Ensure you're mindful of our diverse community when communicating feedback. Refer to [**A guide for reviewing code and having your code reviewed**](https://github.com/thoughtbot/guides/tree/main/code-review#code-review) for tips on using inclusive language and fostering a supportive environment."
+We use GitHub Issues for project planning and issue tracking. We will [assign issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users) for you to work on, but feel free to let us know if there are any specific issues you’d like to tackle. You are also free to create new issues after searching for duplicates. Additionally, you can [filter issues by assignee(s)](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/filtering-and-searching-issues-and-pull-requests#filtering-issues-and-pull-requests-by-assignees) to keep track of your own tasks.
 
-You should check if the following conditions are met:
+To ensure we are always branching from the latest master/main branch and that the branch is prefixed with the issue number, we currently create branches directly from the GitHub issues interface. Please refer to [**Creating a branch to work on an issue** - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-a-branch-for-an-issue) for detailed instructions.
 
-- [x] issue number is included in pull request title and description in the format of `(fixes #IssueNumber)`, when applicable
-- [x] there are no unnecessary files/lines change in "Files changed" tab
-- [x] there's a branch for the patch
-- [x] the pull request actually fixes the issue
-- [x] changes are rendered correctly on rawgit preview
-- [x] no merge conflicts
-- [x] commits are associated with GitHub account
+## Pull Requests
 
-Every time you comment on an issue or review a pull request, message those involved on the [Discord Server](https://discord.gg/mtgGD4EnYW) with a link to the issue / pull request. Also, if you find any issue that must be addressed with a pull request, do not forget to use the `Request changes` option when creating your review.
+Commit frequently and create pull requests early in the development process, utilizing [**GitHub's draft pull request feature**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests). This enables your mentor and fellow interns to review your code and provide feedback, helping to ensure you're on the right track from the start.
 
-### Merging a Pull Request
+## Code Review and Collaboration: Reviewing Pull Requests
 
-To merge a pull request, follow these steps:
+Familiarize yourself with GitHub's review features by referring to the [Review on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) documentation. If you find an issue that must be addressed with a pull request, do not forget to use the "Request changes" option when submitting your review.
 
-1. **Approval Requirement:** Ensure that at least two other team members have approved the pull request, and there are no outstanding change requests from others. However, there's an exception for virtual interns adding themselves to `mi-team.md`: they should merge their pull request during their initial meeting interview.
+Additionally, please read [**A Guide for Reviewing Code and Having Your Code Reviewed**](https://github.com/thoughtbot/guides/tree/main/code-review#code-review) for a comprehensive overview of best practices for conducting effective code reviews, focusing on clear communication, constructive feedback, and collaboration to enhance code quality and foster team growth.
+
+## Help Other Prospective Virtual Interns
+
+For the first 2-4 weeks, one of your responsibilities as an software intern is to review and help prospective software interns with their issues / pull requests at [open-learning-exchange/open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io). Please provide feedback to [issues raised by prospective mobile interns](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Ami), be sure to look out for the issues with `mi` label only, as other labels like `vi` is for other internships and you may not have the full picture.
+
+To begin a review, ensure the checklist items in the pull request template are addressed properly by the prospective software engineering interns and make sure the pull request actually fixes the issue.
+
+## Merge a Pull Request
+
+Currently, virtual interns typically do not merge pull requests. To merge a pull request, follow these steps:
+
+1. **Approval Requirement:** Ensure that at least two other team members have approved the pull request, and there are no outstanding change requests from others.
 
 2. **Merging Process:**
    - Select "Squash and Merge"
-   - **Commit Title:** Remove all commit messages in the extended description. Keep the commit title concise, clear, and in lowercase.
-   - **Closing Issue:** If applicable, include "(fixes #IssueNumber)" in the title to [automatically close the associated issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword). If forgotten, manually close the issue and link it to the original pull request. An example of a good commit title: "update vi-configuration.md (fixes #1530) (#1557)", where "1530" is the issue number, and "1557" is the pull request number.
+   - **Commit Title:** Remove all commit messages in the extended description, with the exception of co-authors. Keep the commit title concise, clear, and in lowercase.
+   - **Closing Issue:** If applicable, include " (fixes #IssueNumber)" in the title to [automatically close the associated issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword). If forgotten, manually close the issue and link it to the original pull request. An example of a good commit title: "update vi-configuration.md (fixes #1530) (#1557)", where "1530" is the issue number, and "1557" is the pull request number.
 
-3. **Notification:** After merging a pull request, mention the author on the [Discord server](https://discord.gg/mtgGD4EnYW). Ensure to include a link to the pull request and the commit ID for reference.
+## Notify Others of Updates
 
-### Check-in/Check-out
+Whenever you comment on an issue or review a pull request on GitHub that requires action from the submitter, notify those involved by sharing a link to the comment in the relevant Discord channel.
 
-We typically conduct verbal check-ins (similar to "[stand-up meetings](https://en.wikipedia.org/wiki/Stand-up_meeting)") and check-outs. If verbal communication isn't possible, you can use the following text format in our Discord *vi-lounge* channel:
+## Check-in/Check-out
+
+We typically conduct verbal check-ins (similar to "[stand-up meetings](https://en.wikipedia.org/wiki/Stand-up_meeting)") and check-outs. If verbal communication isn't possible and you need to leave quickly, you can use the following text format in our Discord server's *#vi-lounge* channel:
 
 ```
 # Check-in
+
 What did I work on last time?
--
+- List what you worked on last time
 
 What is my aim for today?
 - List what you are working on - consider linking to the issues
 
 What obstacles are in the way of our progress?
 - List any problems
+
+What time I'm planning to leave the virtual office today?
+- e.g. 4pm EDT
 ```
 
 ```
 # Check-out
+
 What I worked on today
 - Consider linking to the pull request when applicable
 
-which date and time are we going to meet you next
+Which date and time are we going to meet you next
 - e.g. Wednesday 10am EDT
 ```
 
@@ -93,19 +107,24 @@ which date and time are we going to meet you next
 
 ### Recommended Daily Routine
 
-While you are free to work in your own style, we recommend you follow this basic daily routine:
+While you are free to work in your own style, we recommend following this basic daily routine:
 
-- Check Discord channels and your discord private messages.
-- Join the [OLE Google Meet session](http://talk.ole.org) if you are able to, so you can follow what everyone is working on and get help fast.
-- Check in verbally or write a message in Discord vi-lounge channel with the format mentioned above.
-- Review any issues or pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since last time you reviewed.
-- Close issues with `(fixes #IssueNumber)` in the pull request squash merge commit message.
-- Work on your issues and write in the respective repository Discord channel any time you run into problems.
-- Commit often and make pull requests as early as possible, so you can get feedback as you work.
+- Join the OLE Google Meet session at [https://talk.ole.org](https://talk.ole.org)
+- Check Discord channels and your direct messages (DM).
+- Check in with us verbally after you go online.
+- For the first 2-4 weeks, review any issues tagged with `mi` and the associated pull requests that have been added or changed on [open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io) since your last review.
+- Review other contributor's pull requests in your assigned project(s).
+- Work on your assigned issues and don’t hesitate to ask for help in Google Meet or post in the respective repository Discord channel whenever you are stuck on a problems for more than 2 or 3 hours.
+- Commit frequently and create pull requests as early as possible to receive feedback as you work.
+- Check out with us before you leave the "virtual office." If we are unavailable when you're leaving, please leave a message using the template mentioned earlier.
 
-### Weekly Schedule
+### Schedule
 
-Our Google Meet session can be joined at [http://talk.ole.org](http://talk.ole.org). As we start up our virtual internship program, we might split up into many google meet sessions or use Discord for synchronous communication.
+Join the OLE Google Meet session at [https://talk.ole.org](https://talk.ole.org) whenever you can during your work hours to stay updated on what everyone is working on and to get help quickly. This virtual office is typically staffed from 5 AM to 5 PM US Eastern Time during weekdays. As we expand our virtual internship program, we may split into multiple Google Meet sessions or use Discord for synchronous communication.
+
+While some work can be done offline and outside of the Google Meet "virtual office," especially during unstaffed hours, we generally expect you to be present there for most of your work time, unless you find the virtual office too distracting.
+
+If you are unable to come to the "virtual office" at the time you mentioned during your last check-out, please try to let us know as soon as possible in the *#vi-lounge* channel and @dogi.
 
 ## Communicate, Communicate, Communicate!
 
