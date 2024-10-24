@@ -60,7 +60,7 @@ You might not see the "Upgrade" or "Fetch Items" button if there's no update or 
 
 ![Manager Settings page with "Upgrade", "Fetch Items", and "Manage Sync" buttons highlighted](images/vi-planet-upgrade.png "Manager Settings Dashboard on planet")
 
-1. **Fetch Items**: If the `Fetch Items` button is visible, click on it, select all, and use the "Get Courses/Resources" button to download the available courses.
+1. **Fetch Items**: Click on the `Fetch Items` button, select all, and use the "Get Courses/Resources" button to download the available courses. If the "Fetch Items" button is not visible, proceed to the following step.
 
    ![Planet - fetch items from the nation](images/vi-planet-fetch-items.png "Planet - fetch items from the nation")
 
