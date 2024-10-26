@@ -18,6 +18,7 @@
 |[RicaRodz](profiles/RicaRodz.md)|2024-10-16|
 |[Gavinp14](profiles/Gavinp14.md)|2024-10-16|
 |[sahilvunnam](profiles/sahilvunnam.md)|2024-10-22|
+|[ssamikshaa](profiles/ssamikshaa.md)|2024-10-25|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
