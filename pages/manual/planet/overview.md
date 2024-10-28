@@ -2,7 +2,7 @@
 
 ## About OLE
 
-The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high-quality basic education. We work with nation-based entrepreneurs, educators, and practitioners committed to promoting highly effective and affordable learning systems that can benefit all of their people. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world. 
+The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to a high-quality basic education. We collaborate with community-based entrepreneurs, educators, and practitioners worldwide to promote effective and affordable learning systems for everyone. We believe this will lead to more productive lives, communities, and nations, and to the possibility of a peaceful world. 
 
 OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
 
@@ -50,6 +50,9 @@ When you are inside PLANET you will see different features available.
 
 The list of features along with their explanations is given below.
 
+## Community
+The Community page allows you to connect with like-minded individuals to expand your knowledge and creativity. Here, you can check for new events, join ongoing ones, or create your own using our calendar feature. Please note that the Community tab is only available within a community Planet.
+
 ## myDashboard
 **This portion needs to be worked on**
 
@@ -82,3 +85,6 @@ Throughout planet, you will be able to give feedback on planet, courses, and mor
 
 ## Manager
 The Manager role comes with another set of administrative features. This includes viewing reports, syncing the community with the nation, and performing upgrades on the community.  Click [here](manager.md) to learn more.
+
+## Community
+The Community page allows you to connect with like-minded individuals to expand your knowledge and creativity. Here, you can check for new events, join ongoing ones, or create your own using our calendar feature. Please note that the Community* tab is only available within a community Planet.

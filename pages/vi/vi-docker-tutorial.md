@@ -22,7 +22,7 @@ Please read about [Docker overview | Docker Docs](https://docs.docker.com/guides
 
 ### Docker Compose
 
-Docker Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration. You can read more about Docker Compose at [Docker Compose overview | Docker Docs](https://docs.docker.com/compose/).
+Docker Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a [YAML file](https://www.baeldung.com/ops/docker-compose#the-yaml-configuration-explained) to configure your application’s services. Then, with a single command, you create and start all the services from your configuration. You can read more about Docker Compose at [Docker Compose overview | Docker Docs](https://docs.docker.com/compose/).
 
 Now, take a look at [the YAML file for planet](https://github.com/open-learning-exchange/planet/blob/master/docker/planet.yml). There are 4 services in planet's docker-compose YAML file:
 
@@ -165,7 +165,7 @@ Here are some common Docker Compose commands:
 **Note: For Docker Compose commands, use the `planet.sh` script** to avoid specifying the YAML file path and project name each time. The script also checks for the credentials YAML file and merges it for CouchDB to function properly. This credentials file is generated after setting up an admin account in the Planet web interface during initial configuration.
 
 ```plaintext
-Usage: planet.sh <up|stop|start|restart|down|(other docker compose command)...>
+Usage: bash planet.sh <up|stop|start|restart|down|(other docker compose command)...>
 
 Example: planet.sh up       Start up the planet services for the first time in the background.
          planet.sh stop     Stop planet services.

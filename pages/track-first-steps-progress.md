@@ -2,9 +2,12 @@
 
 ## Directions
 
- * Click on the blue "Get PRs/Issues Count" button below.
- * Type in a valid GitHub username
- * Remember, in order to complete the First Steps, you need at least 5 valid PRs and 4 issues.
+- Click on the blue "Get PRs/Issues Count" button below.
+- Type in a valid GitHub username
+- Remember, to complete the First Steps, you need a minimum of:
+  - 4 issues created (one from Step 6 and three from Step 8)
+  - 4 comments on issues you didn’t create (one from Step 6 and three from Step 8)
+  - 5 merged pull requests (one from Step 1, one from Step 6, and three from Step 8)
 
 <style><!--
     .dropbtn {

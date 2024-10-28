@@ -114,6 +114,6 @@ Additionally, you may also go over the official [Kotlin tour](https://kotlinlang
 
 ## Step 10 - Be part of the team
 
-Next thing is to add yourself to the virtual intern list found in [mi-team.md](mi-team.md) and create a pull request. Message us ("@okurole_25668", "@dogi" and "@vi-mobile") in the Discord channel so that we can set up a meeting and add you to the team as soon as possible.
+Once you've confirmed that you've met the requirements in the [progress tracker](../track-first-steps-progress.md), your next step is to add yourself to the virtual intern list in [mi-team.md](mi-team.md) and submit a pull request. Afterward, message us ("@okurole_25668", "@dogi", and "@vi-mobile") in the Discord *#lagrangelounge* channel to schedule a meeting and officially join the team.
 
-Make sure to read through the [intern orientation document](mi-intern-orientation.md) before the meeting.
+After scheduling the meeting, and before it takes place, be sure to review the [Mobile Intern Orientation document](mi-intern-orientation.md) before the meeting.
