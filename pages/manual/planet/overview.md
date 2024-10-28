@@ -48,6 +48,9 @@ When you are inside PLANET you will see different features available.
 
 The list of features along with their explanations is given below.
 
+## Community
+The Community page allows you to connect with like-minded individuals to expand your knowledge and creativity. Here, you can check for new events, join ongoing ones, or create your own using our calendar feature. Please note that the Community tab is only available within a community Planet.
+
 ## myDashboard
 **This portion needs to be worked on**
 
@@ -82,4 +85,4 @@ Throughout planet, you will be able to give feedback on planet, courses, and mor
 The Manager role comes with another set of administrative features. This includes viewing reports, syncing the community with the nation, and performing upgrades on the community.  Click [here](manager.md) to learn more.
 
 ## Community
-In a community Planet, under Community, you can expand your knowledge and creativity with like-minded people. You can check for new events, join events, or create your own events using our calendar feature.
+The Community page allows you to connect with like-minded individuals to expand your knowledge and creativity. Here, you can check for new events, join ongoing ones, or create your own using our calendar feature. Please note that the Community* tab is only available within a community Planet.
