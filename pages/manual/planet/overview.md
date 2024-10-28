@@ -14,7 +14,7 @@ Personalized Learning And Networked Enabled Teams (Planet) is a multilingual lea
 
 At it's core, Planet is a repository of free, open access, and public domain resources designed to support learners of all ages and backgrounds. Resources of all kinds (literature, health, science, math, etc.), in various languages (English, Somali, Swahili, Arabic, Spanish, etc.), and in various formats (text, audio, video) are continually being added to Planet.
 
-The Planet system exists in the cloud, but it can also be configured to run locally, such as through a Raspberry Pi server. Thus, allowing access to the system in locations where internet connection is unreliable or nonexistent.
+The Planet system operates in the cloud but can also be configured to run locally, such as on a Raspberry Pi server. This setup allows access to the system in areas with unreliable or no internet connection, and the Raspberry Pi’s low power requirements make it suitable for power-limited environments, even when using a power bank.
 
 Planet facilitates frequent assessments of learners, leaders, and administrators. It also promotes the evaluation and effectiveness of the learning resources. Robust usage feedback metrics make Planet a powerful tool for those overseeing monitoring and evaluation of the education system.
 
