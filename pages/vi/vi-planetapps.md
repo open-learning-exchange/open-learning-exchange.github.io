@@ -89,7 +89,7 @@ As you go through the course, the last question will ask for your feedback on an
   ![Course overview](images/vi-planet-course-overview.png)
   ![Rate the course](images/vi-planet-course-rating.png)
 
-If the course "GitHub Issues and Pull Requests" is not listed, check the **Manage Sync** section on the Manager Settings page to see if your synchronization has been completed. If not, please message us on the Discord server so we can manually send you the course.
+If the course "GitHub Issues and Pull Requests" is not listed, check the **Manage Sync** section on the Manager Settings page to see if your synchronization has been completed. If the courses still do not appear after the synchronization is complete, try re-logging into Planet. If not, please message us on the Discord server so we can manually send you the course.
 
 ## Useful Links
 
