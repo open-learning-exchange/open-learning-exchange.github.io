@@ -144,7 +144,7 @@ Install dependecies and serve the app
 
 - `npm install`
   - **Note**: This step may take longer than expected based on recent experiences. If the installation progress seems stuck, we recommend leaving it running in the background and checking back after 30 minutes to see if it has progressed. Once the installation is complete, it should display the total time taken. Please share how long it took for you in the `#vi-software` Discord channel.
-- `ng serve`, once complete, visit [localhost:3000](localhost:3000) to access the planet app.
+- `ng serve`, once it's done compiling, visit [localhost:3000](localhost:3000) to access the planet app.
   - if the default port `3000` is taken, specify another port, e.g. `ng serve --port 3001`
 - Similarly to [Step 2.2 - Planet Configurations](vi-planet-configurations.md#Configure_Your_Planet_Community), you’ll need to configure a new planet community with a slightly modified name (e.g., `<YourUserName>dev`).
 - Take a screenshot of the new configuration page and post it in the `#vi-software` Discord channel.
