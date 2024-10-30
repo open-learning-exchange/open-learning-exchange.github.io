@@ -8,6 +8,8 @@ The first step is to get to know the team, including our CTO [dogi](https://gith
 
 Please note that we expect interns to commit at least 24 hours per week for a minimum of 3 months to work on Open Learning Exchange projects. If you currently don’t have enough time, we’d be happy to welcome you later when your schedule allows. You can find more information in our [FAQ](vi-faq.md).
 
+While most of the following topics will be covered in our initial meeting, please take a glance at the relevant websites and links for a more in-depth understanding.
+
 ## Familiarize Yourself with Current Projects and Issues
 
 Typically, you are invited to the OLE internship that best aligns with your experience. Interns also have the opportunity to choose projects based on their interests and skills. If you feel stuck on a particular project, there is the option to switch. Take a look at our current projects below—if any catch your interest, there’s a very good chance you can work on them.
@@ -129,6 +131,36 @@ Join the OLE Google Meet session at [https://talk.ole.org](https://talk.ole.org)
 While some work can be done offline and outside of the Google Meet "virtual office," especially during unstaffed hours, we generally expect you to be present there for most of your work time, unless you find the virtual office too distracting.
 
 If you are unable to come to the "virtual office" at the time you mentioned during your last check-out, please try to let us know as soon as possible in the *#vi-lounge* channel and @dogi.
+
+### Getting Ready to Work on Planet
+
+Below are a few selected resources to help you get up to speed with Planet:
+
+- **[(5 min) TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)**
+
+#### Angular and RxJS Resources
+
+- **[Angular v17 Documentation](https://v17.angular.io/docs)**
+  - Comprehensive guide to Angular's core concepts, including modules, components, and services.
+  - Covers setup, data binding, directives, routing, and forms for creating dynamic web apps.
+
+- **[RxJS Overview](https://rxjs.dev/guide/overview)**
+  - Introduces Reactive Extensions for JavaScript (RxJS), fundamental for Angular’s reactive programming.
+  - Provides explanations of Observables, operators, and usage patterns for managing asynchronous data.
+
+- **[Angular Material v17 Documentation](https://v17.material.angular.io/)**
+  - Documentation for Angular Material, a UI component library.
+  - Covers styling and layout components, like buttons, forms, and navigation to build responsive, accessible interfaces.
+
+#### CSS Layout Resources
+
+- **[CSS Flexbox Layout Guide | CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
+  - Visual and descriptive guide to CSS Flexbox layout model.
+  - Covers concepts like flex containers, items, alignment, and flexible resizing for responsive design.
+
+- **[CSS Grid Layout Guide | CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)**
+  - Extensive tutorial on CSS Grid, a two-dimensional layout system.
+  - Walkthroughs of grid container properties, item placements, and template creation for complex layouts.
 
 ## Communicate, Communicate, Communicate!
 
