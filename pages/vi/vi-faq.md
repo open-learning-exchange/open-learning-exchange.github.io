@@ -44,7 +44,7 @@
 #### Q4: What are the hours of the internship?
 
 + This is an intensive internship requiring 24 hours of work per week. Please collaborate with fellow interns and keep us updated via the Discord server.
-+ The 24-hour minimum commitment is necessary due to the fast-paced nature of our work, which can make it difficult for virtual interns to stay up to date. We host a Google Meet virtual office from Monday to Friday, approximately 5 AM to 5 PM EDT. During this time, you can hear about ongoing projects, share your screen, ask questions, discuss challenges, and collaborate on issues. You can join the Google Meet virtual office whenever you’re working, but you don’t have to be on for all your work hours. Use the remaining time to catch up on changes and complete assigned tasks.
++ The 24-hour minimum commitment is necessary due to the fast-paced nature of our work, which can make it challenging for virtual interns to stay up to date. We host a Google Meet virtual office from Monday to Friday, approximately 5 AM to 5 PM US Eastern Time. During this time, you can hear about ongoing projects, share your screen, ask questions, discuss challenges, and collaborate on issues. While some tasks can be done offline and outside of the virtual office—especially during unstaffed hours—we generally expect you to be present there for most of your work time. If you find the virtual office too distracting, please discuss this with us.
 
 #### Q5: Is this a paid internship?
 
