@@ -29,7 +29,7 @@ For development, the following additional tools are required:
 
 ### Angular CLI
 
-[**Angular CLI**](https://cli.angular.io) is a command-line interface for Angular. After installing node 14, run `npm install -g @angular/cli@10` to install Angular CLI v10.
+[**Angular CLI**](https://cli.angular.io) is a command-line interface for Angular. After installing node 14, run **`npm install -g @angular/cli@10`** to install Angular CLI v10.
 
 ## Introduction
 
@@ -56,7 +56,7 @@ Next, run `ng version` to check your Angular CLI version, look for `Angular CLI:
 1. Create a `planetdev` directory for the planet dev data:
   - **Linux**:
     ```bash
-    mkdir -p /srv/planetdev && cd /srv/planetdev
+    sudo mkdir -p /srv/planetdev && cd /srv/planetdev
     ```
   - **macOS/Windows**:
     ```bash
@@ -65,14 +65,14 @@ Next, run `ng version` to check your Angular CLI version, look for `Angular CLI:
 2. Download the development yml file:
   - **Linux**:
     ```bash
-    wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-dev.yml
+    sudo wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-dev.yml
     ```
   - **macOS/Windows**:
     ```bash
     curl https://gist.githubusercontent.com/xyb994/0d14dfe302df0df0d4e8d8df0d1d5feb/raw/planet-dev-mac.yml -o planet-dev.yml
     ```
-3. Start the containers: `docker compose -f planet-dev.yml -p planet-dev up -d`
-4. After a minute, run `docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
+3. Start the containers: `sudo docker compose -f planet-dev.yml -p planet-dev up -d`
+4. After a minute, run `sudo docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
   - If `chatapi` service is restarting or exited, please ignore it for now as we are working on a fix
 
 ## Configure CORS for CouchDB with add-cors-to-couchdb project:
@@ -143,7 +143,7 @@ bash couchdb-setup.sh -p 2200 -i -u "username" -w "password"
 Install dependecies and serve the app
 
 - `npm install`
-  - **Note**: This step may take longer than expected based on recent experiences. If the installation progress seems stuck, we recommend leaving it running in the background and checking back after 30 minutes to see if it has progressed. Once the installation is complete, it should display the total time taken. Please share how long it took for you in the `#vi-software` Discord channel.
+  - **Note**: This step may take anywhere between 10 and 45 minutes. If the installation progress seems stuck, we recommend leaving it running in the background and checking back after 30 minutes to see if it has progressed. Once the installation is complete, it should display the total time taken. Please share how long it took for you in the `#vi-software` Discord channel.
 - `ng serve`, once it's done compiling, visit [localhost:3000](localhost:3000) to access the planet app.
   - if the default port `3000` is taken, specify another port, e.g. `ng serve --port 3001`
 - Similarly to [Step 2.2 - Planet Configurations](vi-planet-configurations.md#Configure_Your_Planet_Community), you’ll need to configure a new planet community with a slightly modified name (e.g., `<YourUserName>dev`).
