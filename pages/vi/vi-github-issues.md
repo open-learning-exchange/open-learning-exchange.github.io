@@ -5,7 +5,7 @@
 
 - Learn about GitHub Issues, Commits, and Pull Requests
 - Understand the collaborative git/GitHub workflow used during the internship
-- Create an Issue regarding Software Engineering Intern First Steps, then create a branch to fix it upon approval
+- Create an GitHub Issue regarding Software Engineering Intern First Steps' content, then create a branch to fix it upon approval
 - After resolving the Issue, make a Pull Request to the `open-learning-exchange/open-learning-exchange.github.io` upstream repository
 - Work with us to make necessary changes, then merge the branch into the upstream repository
 - Comment on an existing Issue
@@ -20,7 +20,7 @@ NOTE: Issues are not just about adding new content or improving this MDwiki; the
 
 ## 3. Create an Issue
 
-If you've noticed an area for improvement in the Software Engineering Virtual Intern First Steps, let's address it. If not, please look around to find an issue. Begin by checking [existing issues labeled with `vi`, both open and closed](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue+label%3Avi), to ensure it hasn't been raised before or addressed. If it hasn't, let's create a new issue:
+If you've noticed an area for improvement in the Software Engineering Virtual Intern First Steps content, let's address it! If not, take a look around to find an issue; remember, it can be big or small. Once you've identified an issue, begin by checking [existing issues labeled with `vi`, both open and closed](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue+label%3Avi) to ensure it hasn't been raised before or already addressed. If it hasn’t, go ahead and create a new issue:
 
 - Go to the [Issues tab of the upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues) and select "New Issue." Select the "Get started" button next to "First Steps - Software Engineering Virtual Intern."
     1. Craft a succinct, descriptive title.
@@ -189,7 +189,7 @@ Raw.githack makes it easy to see what the page will look like if your branch is 
 
 ## 7. Create a Pull Request
 
-Now follow the instructions on <a href="vi-github-pull-request.md" target="_blank">**GitHub Pull Request Tutorial**</a> to create your pull request.
+Now **follow the instructions on <a href="vi-github-pull-request.md" target="_blank">GitHub Pull Request Tutorial</a>** to create your pull request.
 
 NOTE: Remember to always sync your fork before starting to work on a new issue. To sync your fork you can go back up to [Step 4 of this page](vi-github-issues.md#4._Synchronize_Your_Repository) or follow the [summary section in the previous step](vi-github-and-repositories.md#Summary_of_Steps).
 
