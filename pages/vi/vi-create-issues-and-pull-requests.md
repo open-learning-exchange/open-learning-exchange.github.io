@@ -26,7 +26,7 @@ In this step, your goal is to create, comment on, and resolve GitHub issues to i
 
 Follow the **same process** as described in the [GitHub Issues Tutorial step](vi-github-issues.md), working to improve our documentation for future interns. To get your pull requests merged, they must be approved by at least two other OLE team members/interns. After creating a pull request, announce it on the Discord chat to request reviews. You may need to make additional corrections based on feedback.
 
-Remember, even small issues are worth addressing. Keep your issues focused and concise.
+You are encouraged to post as many issues as you can for improving the page as well as for personal practice. Remember, even small issues are worth addressing and it is OK if you are not sure how to fix it yourself. If you know how to solve an issue, be sure to provide a detailed account of your research and show how to fix it. It is ok to file an issue about minor typos and very small grammar changes, but do not make this the case for all of the issues that you file.
 
 **NOTE**: While adding details can be helpful, it's important to remember that less is often more. Over time, this First Steps guide has become bloated with too much information, making it harder to follow. As you work on improving this guide, focus on simplifying the instructions and removing any unnecessary content. The goal is to create a clear and concise guide that future virtual interns can easily understand and use.
 
