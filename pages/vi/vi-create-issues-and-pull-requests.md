@@ -39,7 +39,7 @@ You are encouraged to post as many issues as you can for improving the page as w
   - 4 comments on *issues you didn't create* (one from Step 6 and three from Step 8)
   - 4 issues created (one from Step 6 and three from Step 8)
 
-NOTE: You can track your progress with the number of pull requests and issues [**here**](../track-first-steps-progress.md).
+Hint: You can track your progress with the number of pull requests and issues [**here**](../track-first-steps-progress.md).
 
 ---
 
