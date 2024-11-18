@@ -128,7 +128,7 @@ While you are free to work in your own style, we recommend following this basic 
 
 Join the OLE Google Meet session at [https://talk.ole.org](https://talk.ole.org) whenever you can during your work hours to stay updated on what everyone is working on and to get help quickly. This virtual office is typically staffed from 5 AM to 5 PM US Eastern Time during weekdays. As we expand our virtual internship program, we may split into multiple Google Meet sessions or use Discord for synchronous communication.
 
-While some work can be done offline and outside of the Google Meet "virtual office," especially during unstaffed hours, we generally expect you to be present there for most of your work time, unless you find the virtual office too distracting.
+While some tasks can be done offline and outside the Google Meet "virtual office"—especially during unstaffed hours—we generally expect you to be present there for most of your work time. If you find the virtual office too distracting, please discuss this with us.
 
 If you are unable to come to the "virtual office" at the time you mentioned during your last check-out, please try to let us know as soon as possible in the *#vi-lounge* channel and @dogi.
 

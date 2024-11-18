@@ -12,6 +12,7 @@
 - **Q8:** [How many pull requests and issues in total do I need to make to finish the steps?](#Q8:_How_many_pull_requests_and_issues_in_total_do_I_need_to_make_to_finish_the_steps?)
 - **Q9:** [How long do I have to complete these steps?](#Q9:_How_long_do_I_have_to_complete_these_steps?)
 - **Q10:** [How can I keep track of 10 steps vetting progress?](#Q10:_How_can_I_keep_track_of_10_steps_vetting_progress?)
+- **Q11:** [When does the internship start?](#Q11:_When_does_the_internship_start?)
 
 ## Technical Questions
 
@@ -32,6 +33,7 @@
 #### Q1: What will I be working on during this internship?
 
 + OLE virtual interns will be helping develop OLE’s Planet Learning system (Planet) and its related software, systems, and services. Planet is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
+  - [Planet](https://github.com/open-learning-exchange/planet): A learning management system designed as a Progressive Web App using Angular and CouchDB.
 
 #### Q2: What kind of software will we be using for this internship?
 
@@ -44,7 +46,7 @@
 #### Q4: What are the hours of the internship?
 
 + This is an intensive internship requiring 24 hours of work per week. Please collaborate with fellow interns and keep us updated via the Discord server.
-+ The 24-hour minimum commitment is necessary due to the fast-paced nature of our work, which can make it difficult for virtual interns to stay up to date. We host a Google Meet virtual office from Monday to Friday, approximately 5 AM to 5 PM EDT. During this time, you can hear about ongoing projects, share your screen, ask questions, discuss challenges, and collaborate on issues. You can join the Google Meet virtual office whenever you’re working, but you don’t have to be on for all your work hours. Use the remaining time to catch up on changes and complete assigned tasks.
++ The 24-hour minimum commitment is necessary due to the fast-paced nature of our work, which can make it challenging for virtual interns to stay up to date. We host a Google Meet virtual office from Monday to Friday, approximately 5 AM to 5 PM US Eastern Time. During this time, you can hear about ongoing projects, share your screen, ask questions, discuss challenges, and collaborate on issues. While some tasks can be done offline and outside of the virtual office—especially during unstaffed hours—we generally expect you to be present there for most of your work time. If you find the virtual office too distracting, please discuss this with us.
 
 #### Q5: Is this a paid internship?
 
@@ -52,11 +54,11 @@
 
 #### Q6: What happens after the initial steps?
 
-+ The initial steps are meant to introduce potential interns to the OLE Planet, planet software and the process that we use to develop features and improve upon the Planet. To be more clear: the initial 10 steps are a vetting process to determine whether or not people are fit for the internship, so consider it an interview for the internship. Once you have completed the 10 steps and are approved, you have officially joined the OLE interns team! We’ll add you to the interns Discord channel and assign you to a team. You and your team will be working on an assignment, and we’ll switch up the assignments each week.
++ The initial steps are designed to introduce potential interns to the OLE Planet, its software, and the process we use to develop features and improve the Planet. To clarify: the first 10 steps serve as a vetting process to assess whether candidates are a good fit for the internship, so consider it part of the interview. Once you complete the 10 steps, are approved, and have had a meeting with us, you will have officially joined the OLE interns team!
 
 #### Q7: If I'm an international student, how soon can I get my paperwork required by my visa?
 
-+ Since the first 10 steps are a vetting process, your internship technically doesn't start until you finish them. Think of the first 10 steps as a continued application process; you are not working on or adding to our organizational software, but rather showing that you have enough technical background to work with us. After you finish the first 10 steps, let us know if you need us to sign some paperwork, give you organizational information, or provide you with an offer letter for your visa compliance and we'd be more than happy to help.
++ Since the First Steps serve as a vetting process, your internship technically doesn't begin until you complete them and have the initial meeting with us. Think of the first 10 steps as part of the application process; you're not working on or contributing to our organizational software, but rather demonstrating that you have the technical background needed to work with us. After completing the first 10 steps and during our initial meeting, let us know if you need us to sign any paperwork, provide organizational information, or issue an offer letter for visa compliance, and we'd be happy to assist.
 
 #### Q8: How many pull requests and issues in total do I need to make to finish the steps?
 
@@ -64,11 +66,19 @@
 
 #### Q9: How long do I have to complete these steps?
 
-+ There is no official deadline, so work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days.
++ There is no official deadline, so you can work on your own time. However, please note that most people who continued into the internship program completed the steps within 1-2 weeks.
 
 #### Q10: How can I keep track of 10 steps vetting progress?
 
 + You can keep track of your progress using the [tracker here](../track-first-steps-progress.md) link.
+
+#### Q11: When does the internship start?
+
+- When we have an active job posting and invite you to the First Steps, we primarily seek interns who can start immediately after completing the steps and having a meeting with us.
+- If you're interested in an internship for a future semester or summer, please let us know in the Discord channel so we can stay in touch. We recommend checking back in the channel about a month before your intended start date to confirm if the internship program is active. If it is, you can then begin the First Steps process. This ensures you are following the most up-to-date version of the First Steps.
+- If we have more qualified virtual interns completing the first steps than we can accommodate at one time, we may request during the initial meeting that you start the internship in 1-2 months, if that works for you.
+
+---
 
 ### Technical Questions
 
