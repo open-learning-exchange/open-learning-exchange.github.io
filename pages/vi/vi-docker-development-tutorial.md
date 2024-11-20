@@ -53,26 +53,40 @@ Next, run `ng version` to check your Angular CLI version, look for `Angular CLI:
 
 ## Container Setup
 
+### Linux
+
 1. Create a `planetdev` directory for the planet dev data:
-  - **Linux**:
-    ```bash
-    sudo mkdir -p /srv/planetdev && cd /srv/planetdev
-    ```
-  - **macOS/Windows**:
-    ```bash
-    mkdir -p ~/srv/planetdev && cd ~/srv/planetdev
-    ```
+
+  ```bash
+  sudo mkdir -p /srv/planetdev && cd /srv/planetdev
+  ```
+
 2. Download the development yml file:
-  - **Linux**:
-    ```bash
-    sudo wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-dev.yml
-    ```
-  - **macOS/Windows**:
-    ```bash
-    curl https://gist.githubusercontent.com/xyb994/0d14dfe302df0df0d4e8d8df0d1d5feb/raw/planet-dev-mac.yml -o planet-dev.yml
-    ```
+
+  ```bash
+  sudo wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-dev.yml
+  ```
+
 3. Start the containers: `sudo docker compose -f planet-dev.yml -p planet-dev up -d`
 4. After a minute, run `sudo docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
+  - If `chatapi` service is restarting or exited, please ignore it for now as we are working on a fix
+
+### macOS/Windows
+
+1. Create a `planetdev` directory for the planet dev data:
+
+  ```bash
+  mkdir -p ~/srv/planetdev && cd ~/srv/planetdev
+  ```
+
+2. Download the development yml file:
+
+  ```bash
+  curl https://gist.githubusercontent.com/xyb994/0d14dfe302df0df0d4e8d8df0d1d5feb/raw/planet-dev-mac.yml -o planet-dev.yml
+  ```
+
+3. Start the containers: `docker compose -f planet-dev.yml -p planet-dev up -d`
+4. After a minute, run `docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
   - If `chatapi` service is restarting or exited, please ignore it for now as we are working on a fix
 
 ## Configure CORS for CouchDB with add-cors-to-couchdb project:
@@ -126,7 +140,6 @@ curl -X PUT http://localhost:2200/_node/nonode@nohost/_config/log/writer -d '"fi
 curl -X PUT http://localhost:2200/_node/nonode@nohost/_config/chttpd/authentication_handlers -d '"{chttpd_auth, cookie_authentication_handler}, {chttpd_auth, proxy_authentication_handler}, {chttpd_auth, default_authentication_handler}"'
 
 # run the couchdb-setup.sh script to set up the couchdb database for the planet project
-chmod +x couchdb-setup.sh
 bash couchdb-setup.sh -p 2200 -i
 ```
 
