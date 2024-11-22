@@ -72,7 +72,7 @@ After enrolling, there may be a delay before you can upgrade to the beta version
 
 #### Testing the app
 
-Once you've **installed the beta version** of the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default and tap "SYNC". Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
+Once you've **installed the beta version** of the app, launch it and grant necessary permissions. Tap the gear icon in the upper right after passing the intro screen. Keep configurations default (select planet learning server) and it will start syncing to the server. Wait for completion, then "LOG IN AS GUEST" and explore the app for a minimal of 15 minutes.
 
 Take screenshots and attempt to crash the app. After exploration, update us on Discord: "I'm on step 2, spent about xx minutes in the myPlanet app and crashed it when navigating to ..." or "I'm on step 2, spent about xx minutes in the myPlanet app and it did not crash."
 
