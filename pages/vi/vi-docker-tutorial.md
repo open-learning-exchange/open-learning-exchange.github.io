@@ -62,7 +62,7 @@ docker tag treehouses/planet:chatapi treehouses/planet:chatapi-local
 
 # create a dedicated directory
 # for mapping Docker container volumes and saving configuration files
-sudo mkdir /srv/planet
+sudo mkdir -p /srv/planet
 cd /srv/planet
 
 # download production docker compose yml file and rename it
