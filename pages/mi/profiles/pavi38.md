@@ -1,7 +1,7 @@
 # My Infromation
-| Name                      | Location                  | Timezone      | OS                     |
-| :-----------------------: | :-----------------------: |:-------------:| :---------------------:|
-| Pavneet Singh Cheema      | Kansas City, KS, USA      | CT            | MacOS                  |
+| Name                     | Location                | Timezone     | OS               |
+| :----------------------- | :-----------------------|:-------------| :----------------|
+| Pavneet Singh Cheema     | Kansas City, KS, USA    | CT         | MacOS              |
 
 ## About me
 
