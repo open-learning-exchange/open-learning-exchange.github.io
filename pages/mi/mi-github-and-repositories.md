@@ -61,42 +61,28 @@ Now, there are three levels of repositories to keep in mind:
 
 These repositories must be consistently synced and up-to-date with each other since we all contribute to the upstream repository (open-learning-exchange.github.io). It's crucial to keep changes separate and avoid mixing them between repositories. Significant differences can cause conflicts and prevent you from performing `git push/pull` operations smoothly.
 
-### 2.1 Steps to Sync Repositories
+### 2.1 Detailed Explanation of Syncing Repositories
 
-1. **Fork and Clone:**
-   - Fork `open-learning-exchange.github.io` to create `<YourUserName>.github.io` on GitHub. (This was done in Step 1).
-   - Clone `<YourUserName>.github.io` to your local system. (This was done in this step's 1.1)
+The syncing process involves several key steps to ensure your local repository, your GitHub fork, and the upstream repository remain coordinated:
 
-2. **Sync with Upstream:**
-   - Add the upstream repository:
-     ```
-     git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
-     ```
-   - Fetch changes from upstream:
-     ```sh
-     git fetch upstream
-     ```
-   - Checkout your local master branch:
-     ```sh
-     git checkout master
-     ```
-   - Merge upstream changes into your local branch:
-     ```sh
-     git merge upstream/master
-     ```
+1. **Establish Remote Connections**
+   When you clone a repository, Git automatically creates a remote connection called `origin` pointing to your GitHub fork. However, you need to manually add a connection to the upstream repository from which you originally forked.
 
-3. **Push Updates to Your Fork on GitHub:**
-   - Push local changes to your fork on GitHub:
-     ```sh
-     git push origin master
-     ```
+2. **Fetch Upstream Changes**
+   The `git fetch upstream` command retrieves all the branches and their respective commits from the upstream repository. This doesn't modify your local files but allows you to see what changes have been made in the original repository.
+
+3. **Merge Upstream Changes**
+   After fetching, you'll want to merge the upstream changes into your local branch. This ensures your local repository reflects the most recent updates from the upstream repository.
+
+4. **Push Updates to Your Fork**
+   Once you've merged upstream changes locally, you can push these updates to your GitHub fork, keeping it synchronized with the upstream repository.
 
 ### 2.2 Resources
 
 - [GitHub Help: Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
 - [Git Documentation](https://git-scm.com/doc)
 
-By following these steps, you ensure your repositories are consistently up to date and avoid conflicts (Refer the diagram below).
+By understanding and following these steps, you ensure your repositories are consistently up to date and avoid conflicts (Refer the diagram below).
 
 ![GitHub Clone URL](image/mi-sync-a-fork.png)
 
@@ -160,7 +146,7 @@ To fetch updates from the upstream repository, configure it as follows:
    git checkout master
    ```
 
-3. Merge the upstream/master with currnet branch in your local repository:
+3. Merge the upstream/master with current branch in your local repository:
 
   ```bash
   git merge upstream/master
@@ -176,58 +162,34 @@ To fetch updates from the upstream repository, configure it as follows:
 
 ## Summary of Steps
 
-Generally, follow these commands in your command line, but refer back above if there are any errors or further questions about why you are writing any of the following commands
+Follow these commands in your command line:
 
-#### Clone your GitHub repository &lt;YourUserName&gt;.github.io
-
-1. Open your command prompt/terminal and find the correct directory
-2. Copy the HTTPS or SSH link from your repository on the GitHub site
-3. On the command line, type `git clone *paste your HTTPS or SSH link here*`
-
-#### Understand that there are three levels of a Github repository
-
-- the upstream ([open-learning-exchange.github.io](https://github.com/open-learning-exchange/open-learning-exchange.github.io))
-- Your &lt;YourUserName&gt;.github.io on GitHub
-- Your &lt;YourUserName&gt;.github.io on your OS.
-
-These need to be synced and checked constantly.
-The **upstream repository** is the one we are contributing to.
-
-#### Configure the upstream repository to your fork
-
-1. `cd <YourUserName>.github.io.`
-2. `git remote -v` see above to make sure you are pushing and fetching to your own repository on GitHub as the origin
-3. `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
-4. `git remote -v` origins should remain the same, but you should also be fetching and pushing to OLE as the upstream now
+#### Clone Your GitHub Repository
+1. Open your command prompt/terminal
+2. Copy the HTTPS or SSH link from your repository on GitHub
+3. Run `git clone *paste your HTTPS or SSH link here*`
 
 #### Sync Your Fork
+1. `git fetch upstream` - retrieve changes from the upstream repository
+2. `git checkout master` - switch to the master branch
+3. `git merge upstream/master` - merge upstream changes into your local branch
+4. `git push origin master` - push updates to your GitHub fork
 
-1. `git fetch upstream` -  to fetch branches from the upstream repository ([more info](https://git-scm.com/docs/git-fetch))
-2. `git checkout master` - to checkout the `master` branch ([more info](https://git-scm.com/docs/git-checkout))
-3. `git show-branch` - to see branches and the changes made in them ([more info](https://git-scm.com/docs/git-show-branch))
-4. `git merge upstream/master` - You repository should now be synced to upstream/master ([more info](https://git-scm.com/docs/git-merge))
+#### Configure Upstream Repository
+1. `cd <YourUserName>.github.io`
+2. `git remote -v` - verify current remote repositories
+3. `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
+4. `git remote -v` - confirm upstream repository is added
 
-#### Make sure your repository is up to date
+#### Additional Useful Commands
+1. `git diff` - compare different versions of files
+2. `git status` - view changes in the branch
+3. `git pull` - sync local repository with remote repository
+4. `git push` - upload local repository changes to GitHub
 
-1. `git diff` - for comparing different versions of the same file ([more info](https://git-scm.com/docs/git-diff))
-2. `git status` - to view the changes made in the branch, whether the branch is up-to-date with master ([more info](https://git-scm.com/docs/git-status))
-3. `git pull` - to sync the local repository with the remote repository ([more info](https://git-scm.com/docs/git-pull))
-4. `git push` - to push the updates that you made to the local repositories to the GitHub repositories ([more info](https://git-scm.com/docs/git-push))
+**NOTE**: Always sync your fork and ensure your repositories are up to date before starting work to minimize data loss and potential conflicts.
 
-**NOTE**: Developers should always sync their fork and make sure their repositories are up to date with GitHub every time they begin to work. This way we as a team can minimize data loss, and can save you some time.
-
-#### If you find yourself needing to rebase your forked repository, the following two links should help
-
-- [Rebase](https://git-scm.com/docs/git-rebase)
-- [Branching Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
-
-**NOTE**: While rebasing and merging are similar, there is a difference between them. Merging takes all changes in one branch and merges onto another branch in one commit. Rebasing moves the branch's starting point to another place. For example, if you rebased your branch to the master branch, then your branch now incorporates all the changes made in the master, and every time master is changed, your branch is changed as well. In contrast, merging is a one-time change.
-
-For more info on differences of merging vs. rebasing (and when to use which one), [check this out](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
-
-If you would like to understand how syncing with the fork works, here is a useful [video](https://www.youtube.com/watch?v=-zvHQXnBO6c)
-
-## Useful links
+## Useful Links
 
 - [Configuring a remote repository for a fork | GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-repository-for-a-fork) - You can sync changes made in the original repository with a fork.
 - [Syncing a fork | GitHub Docs](https://help.github.com/articles/syncing-a-fork/) - Sync a fork of a repository to keep it up-to-date with the upstream repository.
