@@ -36,7 +36,11 @@ After installing the **myPlanet App**, the first screen you will see is the logi
 
 
 ## Courses
+🚀 Explore. Learn. Grow with myPlanet! 🌍
 
+Ready to take your skills to the next level? myPlanet offers a wide range of courses designed to fuel your passion and expand your knowledge. From cutting-edge technology to creative arts, business strategies to personal development, we have something for everyone!
+
+Follow the steps on [Courses Tutorial](myPlanet-courses.md) page.
 
 ## Exams
 
