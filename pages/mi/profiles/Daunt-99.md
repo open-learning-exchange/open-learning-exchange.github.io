@@ -1,17 +1,26 @@
-# Vikas Mariyappa
-**Location/Time Zone:** Richardson, Texas, Central Standard Time (CST)
-**Operating System:** Windows 11
+# 👋 Vikas Mariyappa  
 
-## About Me
+## 📋 Information Table  
+| Name            | Timezone | Location            | Operating System        |
+|-----------------|----------|---------------------|-------------------------|
+| Vikas Mariyappa | CST      | Dallas, Texas, USA  | Windows 11 Pro (22H2)   |  
 
-Hello, everyone! I'm Vikas, a Computer Science major at the University of Texas at Dallas. I'm passionate about artificial intelligence and machine learning. In my free time, I enjoy participating in coding competitions and hackathons, which help me sharpen my problem-solving skills. 
+---
 
-### Hobbies and Interests
+## 🧑‍💻 About Me  
+Hi there! I'm **Vikas Mariyappa**, a **Computer Science student** at UTD 🐊. I’m passionate about **AI**, **software development**, and **mathematical modeling**. I love solving problems, collaborating on projects, and learning new technologies! 🚀  
 
-- **Programming**: I love exploring new programming languages and frameworks.
-- **Gaming**: I enjoy playing strategy games and solving puzzles.
-- **Reading**: I'm an avid reader, particularly interested in science fiction and tech blogs.
+---
 
-### Contact Information
+### 🌟 Fun Facts  
+- 🚀 I’m part of the **Comet Rocketry Club**, working on rocket simulations.  
+- 🐶 Currently developing an **AI Image Classification Model** to identify dog breeds.  
+- 🎓 My goal is to graduate in **May 2028** with a focus on **Intelligence** and **Modeling/Simulations**.  
 
-You can connect with me on www.linkedin.com/in/vikas-mariyappa-048137266 or email me at vikasdavidm@gmail.com.
+---
+
+## ✨ Get in Touch  
+Feel free to reach out if you share similar interests or want to collaborate! 💡  
+
+- **LinkedIn:** [Vikas Mariyappa](www.linkedin.com/in/vikas-mariyappa-048137266)  
+- **Email:** [vikasdavidm@gmail.com](vikasdavidm@gmail.com)
