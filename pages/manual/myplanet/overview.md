@@ -34,6 +34,26 @@ After installing the **myPlanet App**, the first screen you will see is the logi
 
 ## Library
 
+The myPlanet Library is a one-stop digital library offering a wide range of educational materials in various formats, including:
+
+- **Audio**: Podcasts, audiobooks, and lectures
+- **Video**: Tutorials, webinars, and documentaries
+- **PDFs**: E-books, guides, and white papers
+
+### How to Access and Use the Library
+
+1. **Access the Library**
+   - Click the **Library** button on the left navigation bar to view all available resources in the library.
+
+2. **Save Materials to MyLibrary**
+   - Select the checkbox next to the materials you wish to save.
+   - Click **ADD TO MYLIBRARY** in the top-right corner of the screen to save them to your personal library - myLibrary.
+
+3. **View Materials**
+   - To view a resource without saving it, simply click on the item that interests you.
+
+4. **Download Materials**
+   - To download a resource to your device, click the **Download** button located on the resource.
 
 ## Courses
 🚀 Explore. Learn. Grow with myPlanet! 🌍
