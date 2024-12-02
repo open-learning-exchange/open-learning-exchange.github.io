@@ -104,7 +104,7 @@ Follow the guide at [Take a Course on myPlanet, Courses Gardening](mi-myplanet-c
 
 ## Step 8 - Create More Issues and Pull Requests
 
-Follow the guide at [Create More Issues and Pull Requests](mi-issues-and-prs.md)
+Follow the guide at [Create More Issues and Pull Requests](mi-issues-and-prs.md).
 
 ## Step 9 - Kotlin Tour
 
