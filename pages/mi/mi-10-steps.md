@@ -104,7 +104,7 @@ Follow the guide at [Take a Course on myPlanet, Courses Gardening](mi-myplanet-c
 
 ## Step 8 - Create More Issues and Pull Requests
 
-Follow [Create More Issues and Pull Requests](mi-issues-and-prs.md), where you'll focus on improving our Markdown Wiki. This involves creating three issues, with at least one addressing content reduction and another enhancing the myPlanet User Manual. Additionally, you'll comment on three existing issues and resolve your own by submitting pull requests. Follow the process outlined in the GitHub Issues Tutorial, each pull request will need to be reviewed and approved by two team members before merging.
+Follow the guide at [Create More Issues and Pull Requests](mi-issues-and-prs.md)
 
 ## Step 9 - Kotlin Tour
 
