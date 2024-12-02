@@ -11,3 +11,8 @@
 
 - Click on the courses that you want to join and then press "Join Selected" button to join the courses.
 - You should be able to see all the courses that you' have joined by clicking "myCourses" button.
+
+## Adding a course
+
+WIP
+<!-- please consider reference the course page in planet user manual https://open-learning-exchange.github.io/#!./pages/manual/planet/course.md  -->
