@@ -165,15 +165,9 @@ To fetch updates from the upstream repository, configure it as follows:
 Follow these commands in your command line:
 
 #### Clone Your GitHub Repository
-1. Open your command prompt/terminal
-2. Copy the HTTPS or SSH link from your repository on GitHub
+1. Open your Git Bash/terminal and go to the directory of your choice
+2. Copy the HTTPS or SSH link from your forked repository on the GitHub site
 3. Run `git clone *paste your HTTPS or SSH link here*`
-
-#### Sync Your Fork
-1. `git fetch upstream` - retrieve changes from the upstream repository
-2. `git checkout master` - switch to the master branch
-3. `git merge upstream/master` - merge upstream changes into your local branch
-4. `git push origin master` - push updates to your GitHub fork
 
 #### Configure Upstream Repository
 1. `cd <YourUserName>.github.io`
@@ -181,11 +175,17 @@ Follow these commands in your command line:
 3. `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
 4. `git remote -v` - confirm upstream repository is added
 
+#### Sync Your Fork
+1. `git fetch upstream` - retrieve changes from the upstream repository
+2. `git checkout master` - switch to the master branch
+3. `git merge upstream/master` - merge upstream changes into your local branch
+4. `git push origin master` - push updates to your GitHub fork
+
 #### Additional Useful Commands
-1. `git diff` - compare different versions of files
-2. `git status` - view changes in the branch
-3. `git pull` - sync local repository with remote repository
-4. `git push` - upload local repository changes to GitHub
+1. `git diff` - compare different versions of files ([more info](https://git-scm.com/docs/git-diff))
+2. `git status` - view the changes made in the branch, and whether the branch is up-to-date with master ([more info](https://git-scm.com/docs/git-status))
+3. `git pull` - sync the local repository with the remote repository ([more info](https://git-scm.com/docs/git-pull))
+4. `git push` - push the updates that you made to the local repositories to the GitHub repositories ([more info](https://git-scm.com/docs/git-push))
 
 **NOTE**: Always sync your fork and ensure your repositories are up to date before starting work to minimize data loss and potential conflicts.
 
