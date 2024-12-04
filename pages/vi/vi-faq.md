@@ -16,17 +16,17 @@
 
 ## Technical Questions
 
-- **Q11:** [What is the purpose of Nations and Communities, and how do they work together?](#Q11:_What_is_the_purpose_of_Nations_and_Communities,_and_how_do_they_work_together?)
-- **Q12:** [How can I enable virtualization on my computer in order to run Docker?](#Q12:_How_can_I_enable_virtualization_on_my_computer_in_order_to_run_Docker?)
-- **Q13:** [Why is the "Submit" button not showing up when I try to submit my survey?](#Q13:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
-- **Q14:** [Why does my browser say “Unable to connect” when I try to load my Community?](#Q14:_Why_does_my_browser_say_“Unable_to_connect”_when_I_try_to_load_my_Community?)
-- **Q15:** [When I first run Planet with the "docker compose up -d" command, why does the download fail?](#Q15:_When_I_first_run_Planet_with_the_"docker_compose_up_-d"_command,_why_does_the_download_fail?)
-- **Q16:** [I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?](#Q16:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;YourUsername&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
-- **Q17:** [What do I do if I already have a github.io with my username?](#Q17:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
-- **Q18:** [What if I accidentally resign my manager account, or delete my planet folder, how do I recreate my manager profile?](#Q18:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_planet_folder,_how_do_I_recreate_my_manager_profile?)
-- **Q19:** [How can I run two communities on the same machine?](#Q19:_How_can_I_run_two_communities_on_the_same_machine?)
-- **Q20:** [How do I destroy planet docker services and start over?](#Q20:_How_do_I_destroy_planet_docker_services_and_start_over?)
-- **Q21:** [What do I do if I cannot create a dummy account?](#Q21:_What_do_I_do_if_I_cannot_create_a_dummy_account?)
+- **Q1:** [What is the purpose of Nations and Communities, and how do they work together?](#Q1:_What_is_the_purpose_of_Nations_and_Communities,_and_how_do_they_work_together?)
+- **Q2:** [How can I enable virtualization on my computer in order to run Docker?](#Q2:_How_can_I_enable_virtualization_on_my_computer_in_order_to_run_Docker?)
+- **Q3:** [Why is the "Submit" button not showing up when I try to submit my survey?](#Q3:_Why_is_the_"Submit"_button_not_showing_up_when_I_try_to_submit_my_survey?)
+- **Q4:** [Why does my browser say “Unable to connect” when I try to load my Community?](#Q4:_Why_does_my_browser_say_“Unable_to_connect”_when_I_try_to_load_my_Community?)
+- **Q5:** [When I first run Planet with the "docker compose up -d" command, why does the download fail?](#Q5:_When_I_first_run_Planet_with_the_"docker_compose_up_-d"_command,_why_does_the_download_fail?)
+- **Q6:** [I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?](#Q6:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;YourUsername&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
+- **Q7:** [What do I do if I already have a github.io with my username?](#Q7:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
+- **Q8:** [What if I accidentally resign my manager account, or delete my planet folder, how do I recreate my manager profile?](#Q8:_What_if_I_accidentally_resign_my_manager_account,_or_delete_my_planet_folder,_how_do_I_recreate_my_manager_profile?)
+- **Q9:** [How can I run two communities on the same machine?](#Q9:_How_can_I_run_two_communities_on_the_same_machine?)
+- **Q10:** [How do I destroy planet docker services and start over?](#Q10:_How_do_I_destroy_planet_docker_services_and_start_over?)
+- **Q11:** [What do I do if I cannot create a dummy account?](#Q11:_What_do_I_do_if_I_cannot_create_a_dummy_account?)
 
 ### General Internship Questions
 
@@ -45,8 +45,9 @@
 
 #### Q4: What are the hours of the internship?
 
-+ This is an intensive internship requiring 24 hours of work per week. Please collaborate with fellow interns and keep us updated via the Discord server.
-+ The 24-hour minimum commitment is necessary due to the fast-paced nature of our work, which can make it challenging for virtual interns to stay up to date. We host a Google Meet virtual office from Monday to Friday, approximately 5 AM to 5 PM US Eastern Time. During this time, you can hear about ongoing projects, share your screen, ask questions, discuss challenges, and collaborate on issues. While some tasks can be done offline and outside of the virtual office—especially during unstaffed hours—we generally expect you to be present there for most of your work time. If you find the virtual office too distracting, please discuss this with us.
++ This is an intensive internship requiring 24 hours of work per week for at least 3 months.
++ The 3-month commitment is necessary because the onboarding process typically takes 2–4 weeks, leaving about 2 months for productive work. During the final month, you should think about passing along your knowledge to newer interns.
++ The 24-hour minimum commitment per week is necessary due to the fast-paced nature of our work, which can make it challenging for virtual interns to stay up to date. We host a Google Meet virtual office from Monday to Friday, approximately 5 AM to 5 PM US Eastern Time. During this time, you can hear about ongoing projects, share your screen, ask questions, discuss challenges, and collaborate on issues. While some tasks can be done offline and outside of the virtual office—especially during unstaffed hours—we generally expect you to be present there for most of your work time. If you find the virtual office too distracting, please discuss this with us.
 
 #### Q5: Is this a paid internship?
 
@@ -82,32 +83,32 @@
 
 ### Technical Questions
 
-#### Q11: What is the purpose of Nations and Communities, and how do they work together?
+#### Q1: What is the purpose of Nations and Communities, and how do they work together?
 
 + We use the nation/community infrastructure because we often deploy our software in places without internet. Nations are the services sitting in the cloud (which are connected to the internet). Communities, which run locally on Raspberry Pis and/or laptops, are run on an *intranet* but are most of the time not connected to the *internet*. Because nations are connected to the internet, they allow a connection process between us (with internet) and users on communities (without internet). To sync with a nation, however, a community needs to be connected to the internet so that information can be sent in both directions.
 
-#### Q12: How can I enable virtualization on my computer in order to run Docker?
+#### Q2: How can I enable virtualization on my computer in order to run Docker?
 
 + First of all, you have to access the BIOS. To do that, you need to reboot your computer and press the appropriate key while it’s booting. It is usually the "F2", "Esc" or "Delete" key. Once you have entered the BIOS setup menu, you have to search for an option called "Intel VT-x", "Intel Virtualization Technology" or something similar. Enable this option, save and reset.
 - If Docker complains about virtualization, refer to this [help article](https://docs.docker.com/desktop/troubleshoot/topics/#virtualization) on Docker Docs.
 
-#### Q13: Why is the "Submit" button not showing up when I try to submit my survey?
+#### Q3: Why is the "Submit" button not showing up when I try to submit my survey?
 
 + Please make sure you’re using Firefox or Chrome. To get the “Submit” button to show up, try logging out of the Planet and logging back in, then go back to the survey. If that doesn’t work, log out of the Planet, restart the planet services in docker (`docker compose -f planet.yml -p planet restart` in the directory where the docker compose file is located), log in, and check the survey again. If you’ve tried these steps and it still doesn’t work, let us know in the [Discord server](https://discord.gg/mtgGD4EnYW).
 
-#### Q14: Why does my browser say “Unable to connect” when I try to load my Community?
+#### Q4: Why does my browser say “Unable to connect” when I try to load my Community?
 
 + Because a Community is run locally on your machine, you need to run `docker compose -f planet.yml -p planet start` in the directory where the docker compose is located. You can then see if your Community is running by going to `http://localhost:3300/` in Firefox. Go to `127.0.0.1:2300/_utils` to see the CouchDB behind the Planet, and `127.0.0.1:3300` to navigate the actual Planet user interface.
 
-#### Q15: When I first run Planet with the "docker compose up -d" command, why does the download fail?
+#### Q5: When I first run Planet with the "docker compose up -d" command, why does the download fail?
 
 + Check if Docker Hub Registry is operational by looking at [Docker Systems Status Page](https://www.dockerstatus.com/).
 
-#### Q16: I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?
+#### Q6: I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?
 
 + Yes it is possible to rename it but we highly recommend you to delete and start over so that you have a clean forked repository. Navigate to the misnamed repo and click the settings tab or enter `https://github.com/<YourUsername>/<Your-Misnamed-Repository>/settings` in your browsers URL bar. Next, scroll down to the Danger Zone section of the settings and click '*Delete this repository*'. Read the warnings and then type in the name of the repo to confirm.
 
-#### Q17: What do I do if I already have a github.io with my username?
+#### Q7: What do I do if I already have a github.io with my username?
 
 + You have a few options:
   1. If you are still using it and you don't want to overwrite it, you can go to the forked repository settings rename the repository to `<YourUsername>-ole.github.io` and then deploy it to GitHub Pages by selecting "master branch" in the repository settings under GitHub Pages. By doing that, you can access the forked OLE repository with this link `<YourUsername>.github.io/<YourUsername>-ole.github.io/`.
@@ -116,11 +117,11 @@
 
   3. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repo &lt;orgname&gt;.github.io.
 
-#### Q18: What if I accidentally resign my manager account, or delete my planet folder, how do I recreate my manager profile?
+#### Q8: What if I accidentally resign my manager account, or delete my planet folder, how do I recreate my manager profile?
 
-+ Please follow the guide at [Q20](#Q20:_How_do_I_destroy_everything_and_start_over?) to destroy the original planet docker services and start over.
++ Please follow the guide at [Q10](#Q10:_How_do_I_destroy_planet_docker_services_and_start_over?) to destroy the original planet docker services and start over.
 
-#### Q19: How can I run two communities on the same machine?
+#### Q9: How can I run two communities on the same machine?
 
 + Running two communities on the same machine is possible as long as their configurations (planet configuration folder, Docker Compose project name, port mappings, etc.) do not conflict with each other.
 
@@ -132,7 +133,7 @@
   2. **If you want to run multiple communities simultaneously:**
     - In addition to the changes above, you'll also need to modify the Docker Compose `.yml` file's port mappings to avoid conflicts.
 
-#### Q20: How do I destroy planet docker services and start over?
+#### Q10: How do I destroy planet docker services and start over?
 
 - **Warning: This will perform a full uninstall, removing the entire community you configured, including the database.**
 - In your Linux/macOS terminal or Windows WSL Debian app / Git Bash:
@@ -154,10 +155,10 @@
 
 - After planet is up and running, follow [Configure Your PlanetCommunity](#!./pages/vi/vi-planet-configurations.md#Configure_Your_Planet_Community) again, since your old community registration still exist on the nation side, please use a slightly different name for your configuration, e.g. `<YourGitHubUserName>-1`.
 
-#### Q21: What do I do if I cannot create a dummy account?
+#### Q11: What do I do if I cannot create a dummy account?
 
   - Please follow "Restarting the Containers" under "Troubleshooting" in [Configure Your PlanetCommunity](#!./pages/vi/vi-planet-configurations.md#Troubleshooting).
-  - If it still does not work. Please follow the guide at [Q20](#Q20:_How_do_I_destroy_everything_and_start_over?) to destroy the original planet docker services and start over.
+  - If it still does not work. Please follow the guide at [Q10](#Q10:_How_do_I_destroy_planet_docker_services_and_start_over?) to destroy the original planet docker services and start over.
 
 ## 'First Steps' Software Summary
 

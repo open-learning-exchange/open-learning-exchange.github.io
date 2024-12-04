@@ -3,10 +3,10 @@
 In this step, your goal is to create, comment on, and resolve GitHub issues to improve our Markdown Wiki. Here's what you'll need to do:
 
 1. **Create Issues**:
-   - Create 3 new issues in our GitHub repository regarding Mobile Intern First Steps' content or myPlanet User Manual.
-   - Each issue should focus on a specific problem or improvement.
-     - Ensure that **at least one issue** addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation in Mobile Intern First Steps.
-     - Ensure that **at least one issue** is about populating or improving the [myPlanet User Manual](#!pages/manual/myplanet/overview.md) page.
+  - Create 3 new issues in our GitHub repository regarding Mobile Intern First Steps' content or myPlanet User Manual.
+  - Each issue should focus on a specific problem or improvement.
+    - Ensure that **at least one issue** addresses content reduction, such as dead links, repetitive content, excessive detail, or the potential to reference external official documentation in Mobile Intern First Steps.
+    - Ensure that **at least one issue** focuses on populating or improving the [myPlanet User Manual](#!pages/manual/myplanet/overview.md) page. While the features may differ slightly, use the more completed [Planet User Manual](#!pages/manual/planet/overview.md) as a reference for text style and structure.
 
 2. **Comment on Issues**: Provide helpful comments on at least 3 existing issues that you did not create. This could be to provide feedback, suggest solutions, ask questions, or clarify the issue.
 

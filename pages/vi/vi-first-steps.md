@@ -8,7 +8,7 @@ If you are selected for the internship after completing the steps, you will be o
 
 During this internship, you will have the opportunity to work with various software, tools, and technologies, including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Command Line](https://www.codecademy.com/articles/command-line-commands)**, **[CouchDB](http://couchdb.apache.org/)**, **[Docker](https://www.docker.com/)**, **[HTML5](https://en.wikipedia.org/wiki/HTML5)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**, **[Node.js](https://nodejs.org/en/)**, **[Angular](https://angular.io/)**, **[TypeScript](https://www.typescriptlang.org/)**, **[SCSS](https://sass-lang.com/)**, and **[Visual Studio Code](https://code.visualstudio.com/)**.
 
-**NOTE**: This is an unpaid, intensive internship requiring at least 24 hours of work per week. You can find more information about the internship in our [FAQ](vi-faq.md#General_Internship_Questions). If you have additional questions, feel free to ask in the Discord server!
+**NOTE**: This is an unpaid, intensive internship requiring a minimum commitment of 24 hours per week for at least 3 months. Additional details about the internship can be found in our [FAQ](vi-faq.md#General_Internship_Questions). If you have further questions, feel free to ask in our Discord server!
 
 ## The Steps
 

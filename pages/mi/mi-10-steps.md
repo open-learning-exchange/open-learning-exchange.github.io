@@ -11,7 +11,7 @@ If you are selected for the internship after completing the steps, you will be o
 
 If you are selected after completing these steps, you'll work with your team on an assignment, and assignments will change weekly. During this internship, you will have the opportunity to work with various software and languages, including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Command Line/Terminal](https://www.w3schools.com/whatis/whatis_cli.asp)**, **[Command Line/Terminal Scripts](https://www.codecademy.com/articles/command-line-commands)**, **[Vim](https://www.vim.org/)**, **[CouchDB](http://couchdb.apache.org/)**, **[Realm database](https://en.wikipedia.org/wiki/Realm_(database%29)**, **[Android Studio](https://developer.android.com/studio)**, and **[Kotlin](https://kotlinlang.org/)**.
 
-**NOTE**: This is an unpaid, intensive internship requiring at least 24 hours of work per week. You can find more information about the internship in our [FAQ](mi-faq.md#General_Internship_Questions). If you have additional questions, feel free to ask in the Discord server!
+**NOTE**: This is an unpaid, intensive internship requiring a minimum commitment of 24 hours per week for at least 3 months. Additional details about the internship can be found in our [FAQ](mi-faq.md#General_Internship_Questions). If you have further questions, feel free to ask in our Discord server!
 
 ## The Steps
 
@@ -104,7 +104,7 @@ Follow the guide at [Take a Course on myPlanet, Courses Gardening](mi-myplanet-c
 
 ## Step 8 - Create More Issues and Pull Requests
 
-Follow [Create More Issues and Pull Requests](mi-issues-and-prs.md), where you'll focus on improving our Markdown Wiki. This involves creating three issues, with at least one addressing content reduction and another enhancing the myPlanet User Manual. Additionally, you'll comment on three existing issues and resolve your own by submitting pull requests. Follow the process outlined in the GitHub Issues Tutorial, each pull request will need to be reviewed and approved by two team members before merging.
+Follow the guide at [Create More Issues and Pull Requests](mi-issues-and-prs.md).
 
 ## Step 9 - Kotlin Tour
 
