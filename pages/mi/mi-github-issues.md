@@ -117,6 +117,9 @@ Use the following commands to commit and push your changes:
      git diff
 
      ```
+   
+ **Note**: If the `git diff` output appears stuck, press `q` to exit and return to the terminal.
+
 
    Verify the changes you made, then proceed to the next step. To understand `git diff` output, checkout [Git Diff | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-diff).
 
