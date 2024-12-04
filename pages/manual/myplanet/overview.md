@@ -19,14 +19,29 @@ By leveraging the capabilities of myPlanet, learners can access the vast reposit
 
 ## Configuration and Syncing
 
-Click the settings gear icon in the upper-right corner to open the settings dialog box.
+Click the settings gear icon in the top section to open the settings dialog box.  
+
+![Images showcasing the steps for configuring the connection](images/config-init-screen.jpg) 
 
 - For manual configuration:
-  - Toggle on "manual" configuration
+  - Toggle on "manual" configuration  
+
+![Images showcasing the steps for configuring the connection](images/config-set-to-manual.jpg)  
+
   - Select "https"
-  - Enter the "planet ip" obtained from your admin
-  - Enter the "server pin" obtained from your admin
-  - Click "SYNC" and allow the synchronization process to complete
+  - Enter the "planet ip" obtained from your admin  
+  - Enter the "server pin" obtained from your admin  
+
+![Images showcasing the steps for configuring the connection](images/config-input-settings.jpg)  
+
+  - If you or the admin expect there to be frequent addidtions to the educationary resources, we recommend enabling autosync and setting the sync rate to 3 hours.
+  - Click "SYNC" and allow the synchronization process to complete  
+
+![Image showing](images/config-set-autosync.jpg)
+
+If you want to syncronise again later just press the resync button:  
+
+![Image showing](images/config-init-resync.jpg)
 
 ## Sign In / Become a Member
 
