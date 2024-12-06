@@ -12,7 +12,7 @@
 |[Kuljeet1998](profiles/Kuljeet1998.md)|2024-07-01|
 |[AdhamElAsfar99](profiles/AdhamElAsfar99.md)|2024-07-24|
 |[deeppp15](profiles/deeppp15.md)|2024-08-20|
-
+|[Shi-web](profiles/Shi-web.md)|2024-12-02|
 ## Former Members
 
 To view the list of former members, go to [former members page](mi-former-members.md).
