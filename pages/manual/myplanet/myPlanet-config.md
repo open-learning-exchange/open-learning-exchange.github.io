@@ -1,32 +1,33 @@
-# Connecting myPlanet to a Planet server
+# Connecting myPlanet to a Planet Server  
 
-Before you can use any of the learning resources you will need to connect your myPlanet application to a Planet server, this page will be explaining how to do this.
+To access learning resources, you must connect your myPlanet application to a Planet server. This guide explains how to set up the connection.  
 
-## Configuring a connection.
-The first thing you need to do is create a connection
+## Configuring a Connection  
 
-Click the settings gear icon in the top section to open the settings dialog box.  
+- Click the settings gear icon located at the top of the screen to open the settings dialog box.  
 
-![Image showing the initial screen and where the settings icon is](images/config-init-screen.jpg) 
+  ![Image showing the initial screen and the settings icon](images/config-init-screen.jpg)  
 
-### - For manual configuration:
-  - Toggle on "manual" configuration  
+- Choose a Configuration Option  
+  - Pre-configured Servers  
+    - A few pre-configured servers may be available in the settings. If one of these matches the server you need to connect to, select it and the synchronization process will begin right away.
+  - Manual Configuration
+    - If the pre-configured servers do not meet your needs, toggle on "Manual" configuration.
 
-![Image showing manual connection](images/config-set-to-manual.jpg)  
+      ![Image showing manual connection toggle](images/config-set-to-manual.jpg)
 
-  - Select "https"
-  - Enter the "planet ip" obtained from your admin  
-  - Enter the "server pin" obtained from your admin  
+    - Select "https" as the protocol.
+    - Enter the "Planet IP" and "Server PIN" provided by your admin.
 
-![Images showcasing the input fields](images/config-input-settings.jpg)  
+      ![Image showcasing the input fields](images/config-input-settings.jpg)
 
-  - If you or the admin expect there to be frequent addidtions to the educationary resources, we recommend enabling autosync and setting the sync rate to 3 hours.
-  - Click "SYNC" and allow the synchronization process to complete  
+    - If frequent updates to educational resources are expected, enable Auto-Sync and set the preferred sync frequency.
+    - Click the "SYNC" button to begin synchronization. Wait for the process to complete.
 
-![Image showing the sync button](images/config-set-autosync.jpg)
+      ![Image showing the sync button and Auto-Sync options](images/config-set-autosync.jpg)
 
-## Syncronizing my planet your connection
+## Manually Synchronizing myPlanet with the Server  
 
-If you want to syncronize again later just press the resync button:  
+To manually re-synchronize your connection later, simply press the "Resync" button:  
 
-![Image showing](images/config-init-resync.jpg)
+  ![Image showing the resync button](images/config-init-resync.jpg)  
