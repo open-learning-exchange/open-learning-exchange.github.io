@@ -17,16 +17,9 @@ By leveraging the capabilities of myPlanet, learners can access the vast reposit
 - [Google Play Store](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet)
 - [Latest development build](https://github.com/open-learning-exchange/myplanet/releases/latest)
 
-## Configuration and Syncing
+## Configuration and Synchronization
 
-Click the settings gear icon in the upper-right corner to open the settings dialog box.
-
-- For manual configuration:
-  - Toggle on "manual" configuration
-  - Select "https"
-  - Enter the "planet ip" obtained from your admin
-  - Enter the "server pin" obtained from your admin
-  - Click "SYNC" and allow the synchronization process to complete
+To set up a connection, visit our [Connecting myPlanet to a Planet Server](myPlanet-config.md) guide.
 
 ## Sign In / Become a Member
 
