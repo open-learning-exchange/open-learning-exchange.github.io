@@ -128,7 +128,7 @@ Use the following commands to commit and push your changes:
      git add <file1> <file2> <file3>...
      ```
 
-   - To stage **all** modified files show up in `git status`:
+   - To stage **all** modified files that show up in `git status`:
      - **Caution:** Before using this, double-check the modified files listed in the previous step to ensure you are not inadvertently staging unwanted changes.
 
      ```sh
