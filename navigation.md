@@ -53,7 +53,7 @@
   * [Step 2 - myPlanet App](pages/mi/mi-10-steps.md#Step_2_-myPlanet_App)
   * [Step 3 - Build myPlanet in Android Studio](pages/mi/mi-10-steps.md#Step_3_-_Build_myPlanet_in_Android_Studio)
   * [Step 4 - Connect myPlanet to Planet](pages/mi/mi-10-steps.md#Step_4_-_Connect_myPlanet_app_to_Planet)
-  * [Step 5 - Git Repositories](/pages/mi/mi-github-and-repositories.md)
+  * [Step 5 - Git Repositories](pages/mi/mi-github-and-repositories.md)
   * [Step 6 - GitHub Issues Tutorial](pages/mi/mi-10-steps.md#Step_6_-_GitHub_Issues_Tutorial)
   * [Step 7 - Take a Course on myPlanet, Courses Gardening](pages/mi/mi-10-steps.md#Step_7_-_Take_a_Course_on_myPlanet,_Courses_Gardening)
   * [Step 8 - Create More Issues and Pull Requests](pages/mi/mi-issues-and-prs.md)
