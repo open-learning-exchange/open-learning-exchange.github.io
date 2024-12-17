@@ -30,4 +30,4 @@ Once you complete Step 8 you will have:
 
 **HINT**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
-#### Return to [First Steps](mi-first-steps.md#Step_8_-_Create_More_Issues_and_Pull_Requests)
+#### Return to [First Steps](mi-10-steps.md#Step_8_-_Create_More_Issues_and_Pull_Requests)
