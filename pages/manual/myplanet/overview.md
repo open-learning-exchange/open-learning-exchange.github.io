@@ -81,3 +81,15 @@ In myplanet, you will be able to give feedback on the app, courses, and more. Cl
 
 ## Manager
 
+## Community
+NOTE: You need to be logged in with member account to access this feature.
+
+Here, you can browse upcoming events, participate in those already in progress, or schedule your own using the integrated calendar. 
+
+  - **To create an event**, go to the calendar under the Community tab.
+  - Click the date on which you’d like to create an event.
+  - Than fill out the following form. 
+
+  ![myPlanet community event creation form](images/community-event-form.jpg)
+
+
