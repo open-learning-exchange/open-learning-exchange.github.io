@@ -81,3 +81,7 @@ In myplanet, you will be able to give feedback on the app, courses, and more. Cl
 
 ## Manager
 
+## Community
+NOTE: You need to be logged in with member account to access this feature.
+
+Here, you can browse upcoming events, participate in those already in progress, or schedule your own using the integrated calendar. Click [here](myPlanet-community.md) to learn more about community events.
