@@ -37,4 +37,4 @@ Once you’ve enrolled in beta testing and installed the beta version of the app
 
 Details about crashes might take up to 24 hours to appear in the Google Play Console on our end.
 
-[Return to the main page](mi/mi-10-steps.md)
+[Return to the main page](mi-10-steps.md)
