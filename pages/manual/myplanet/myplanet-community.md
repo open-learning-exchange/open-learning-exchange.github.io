@@ -1,12 +1,15 @@
- # Community Events
+# Community
  
-  ## Schedule an Event
+## Events
+
+### Create an Event
   
-  - **To create an event**, go to the calendar under the Community tab.
+- **To create an event**, go to the calendar under the Community tab.
   
-  ![myPlanet community event creation form](images/community-calender.jpg)
-  - Select the desired date on the calendar, then complete the form that appears. Fill in all relevant details to ensure participants have the information they need.
+  ![myPlanet community calendar](images/community-calender.jpg)
+
+- Choose a date on the calendar and complete the displayed form. Provide all relevant details to ensure participants have the necessary information.
 
   ![myPlanet community event creation form](images/community-event-form.jpg)
 
-  ## View an Event
+### View an Event
