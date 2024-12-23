@@ -57,7 +57,7 @@ Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdo
 
 ## Step 2 - myPlanet App
 
-[Please click the follwing link](step2.md)
+Follow the directions at [myPlanet App](step2.md)
 
 ## Step 3 - Build myPlanet in Android Studio
 
