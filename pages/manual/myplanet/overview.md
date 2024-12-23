@@ -77,7 +77,13 @@ Follow the steps on [Courses Tutorial](myPlanet-courses.md) page.
 
 
 ## Feedback
+
 In myplanet, you will be able to give feedback on the app, courses, and more. Click [here](myPlanet-feedback.md) to learn more about Feedback.
 
 ## Manager
+
+## Community
+
+In Community, you can browse upcoming events, participate in those already in progress, or schedule your own using the integrated calendar. Click [here](myplanet-community.md) to learn more about Comminuty.
+
 
