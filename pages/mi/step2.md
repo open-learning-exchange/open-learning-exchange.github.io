@@ -1,8 +1,8 @@
-## Step 2 - myPlanet App
+# Step 2 - myPlanet App
 
-myPlanet is an Android app available on the Play Store. Please find and install it using [this link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
+myPlanet is an Android app available on the Play Store. You can search for it directly in the Play Store or install it using [this Google Play link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
 
-### Enroll in Beta Testing
+## Enroll in Beta Testing
 
 Join as a beta tester to help us improve the app:
 
@@ -13,10 +13,9 @@ Join as a beta tester to help us improve the app:
 - **From a Laptop or Desktop Computer:**  
   Join on the web via [this link](https://play.google.com/apps/testing/org.ole.planet.myplanet).
 
-After enrolling, there may be a delay before you can upgrade to the beta version of the app.
+After enrolling, there may be a delay before the update button appears in Google Play to install the beta version of the app.
 
-
-### Testing the App
+## Testing the App
 
 Once you’ve enrolled in beta testing and installed the beta version of the app, follow these steps:
 
@@ -30,10 +29,10 @@ Once you’ve enrolled in beta testing and installed the beta version of the app
 
 6. Update us on Discord with your findings:
    - If the app crashes, report:  
-     `"I'm on Step 2, spent about xx minutes in the myPlanet app and crashed it when navigating to ..."`
+     `I'm on Step 2, spent about xx minutes in the myPlanet app and crashed it when navigating to ...`
    - If the app does not crash, report:  
-     `"I'm on Step 2, spent about xx minutes in the myPlanet app and it did not crash."`
+     `I'm on Step 2, spent about xx minutes in the myPlanet app and it did not crash.`
 
 Details about crashes might take up to 24 hours to appear in the Google Play Console on our end.
 
-[Return to main page](mi-10-steps.md)
+[**Return to First Steps**](mi-10-steps.md#Step_2_-_myPlanet_App)
