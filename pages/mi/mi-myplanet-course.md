@@ -26,16 +26,22 @@ Your feedback helps course creators improve content and aids other users in choo
 
 ## "GitHub Issues and Pull Requests" Course
 
-Follow these steps below to join and take the "GitHub Issues and Pull Requests" course:
+Follow these steps below to join and take the **GitHub Issues and Pull Requests** course:  
 
-- **Explore Available Courses:** Go to the "Courses" tab, where you'll find a list of courses.
-  - On smaller devices, open the menu by swiping from the left or clicking the Planet logo in the upper left corner.
-- **Select and Join a Course:** Find and choose the "GitHub Issues and Pull Requests" course. Click the yellow "Join" button on the course detail page.
-- **Access the Course:** Go to the "myCourse" tab to view your courses. Take a screenshot there.
-- **Begin the Course:** Start by reading the course description. Click "Next" to go to course step 1.
-- **Engage with Course Materials:** After reading through step 2, complete the test by clicking on the blue "TEST" button.
-- **Provide Feedback:** Once you are finished and back to the myCourses screen, rate the course and leave a comment. Take a screenshot there.
-- **Sync Your Course Rating Back to the Nation:** Click on the 3-dot menu on the upper right corner of the screen, select "Sync Now".
+### Find and join the course
+Go to the "Courses" tab (_On smaller devices, open the menu by swiping from the left or clicking the Planet logo in the upper left corner._)
+- Find and choose the **GitHub Issues and Pull Requests** course. Click the yellow **Join** button.
+
+### Accessing the course  
+1. Go to the "myCourse" tab to view your courses. ***Take a screenshot here***.  
+- Select your course.
+- Start by reading the course description, then click **Next** to go to step 1.  
+
+### Complete the course
+1. After reading through step 2, complete the test by clicking on the blue **Test** button.  
+- Once you are finished and back to the myCourses screen, rate the course and leave a comment. ***Take a screenshot here***.  
+- Click on the 3-dot menu on the upper right corner of the screen, select **Sync Now**.  
+<br>
 
 **NOTE**: Let us know you are on step 7 in the discord channel, send the two screenshots you took. Be sure to tag @okurole_25668 and @dogi in your message.
 
