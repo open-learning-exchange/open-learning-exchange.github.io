@@ -32,6 +32,75 @@ You are encouraged to post as many issues as you can for improving the page as w
 
 **HINT**: While waiting for two OLE team members to approve your Pull Requests, you can continue creating more Issues and Pull Requests (upon approval, we suggest). They will all count towards your final Issue/PR total. PR approval can take time, so don't let a lengthy approval/fix process stop you from progressing in your "First Steps".
 
+## Adding HTML Games on Planet.vi
+
+In this section, you will learn how to add HTML games to Planet.vi. Follow these steps carefully, and make sure to reference the screenshots provided for better clarity.
+
+### Steps to Add HTML Games:
+
+#### **Step 1: Visit the Planet.vi Website**
+- Go to [https://planet.vi.ole.org/](https://planet.vi.ole.org/).
+- **(Screenshot of the homepage)**
+
+<img src="https://github.com/user-attachments/assets/ce061b97-9420-49c6-aa8c-e9ce97dd2708" width="800" alt="Planet.vi Homepage">
+
+#### **Step 2: Sign In or Register**
+[Content remains the same]
+
+#### **Step 3: Navigate to the Library**
+- Once signed in, go to the Library section.
+- Click the "+" icon to add new resources. For this tutorial, you'll add HTML games.
+- **(Screenshot showing the Library and the "+" button)**
+
+<img src="https://github.com/user-attachments/assets/65a9729e-bfd5-422e-8371-0b5cf3f465c6" width="800" alt="Library and Add Button">
+
+#### **Step 5: Example: Sudoku Game**
+- For guidance, here is an example of a simple Sudoku game. You can use a single `.html` file or include multiple files if needed.
+- **(Screenshot showing Sudoku game content)**
+
+<img src="https://github.com/user-attachments/assets/d0e32478-264e-4846-b131-7b70a008d324" width="800" alt="Sudoku Game Content">
+
+#### **Step 6: Organize Your Files**
+- Put all your files in a single folder.
+- Create a `.zip` file of the folder. Here's how to create a `.zip`:
+  - Select all files.
+  - Right-click and choose "Compress" or "Create Zip."
+- **(Screenshot showing the folder and zip creation process)**
+
+<img src="https://github.com/user-attachments/assets/128fe654-5f25-4781-b1fc-4d96f20fc890" width="800" alt="Folder Organization">
+
+<img src="https://github.com/user-attachments/assets/db28c6e1-d646-42c6-bcf4-944e325467b7" width="800" alt="Zip Creation Process">
+
+#### **Step 7: Upload Your Zip File**
+- Click "Choose File" and upload your `.zip` file. For example, "sudoku.zip."
+- **(Screenshot showing the file upload screen)**
+
+<img src="https://github.com/user-attachments/assets/63b3ec7a-f72a-48ec-b89c-e3ac73eea6fd" width="800" alt="File Upload Screen">
+
+#### **Step 9: Specify the Open With File**
+- If your zip file contains multiple files, specify the main `.html` file (e.g., `index.html`) in the "Open With" field.
+- **(Screenshot showing the Open With field populated)**
+
+<img src="https://github.com/user-attachments/assets/a498d202-2baf-496c-9afd-c74fe5559145" width="800" alt="Open With Field">
+
+#### **Step 10: Submit the Game**
+- After filling in all the details, click "Submit."
+- **(Screenshot showing the submission confirmation)**
+
+<img src="https://github.com/user-attachments/assets/4934416e-a8a3-46d4-b72f-675a42a17e4a" width="800" alt="Submission Confirmation">
+
+#### **Step 11: Test Your Game**
+- Search for your game in the Library and test it to ensure it works properly.
+- **(Screenshot showing the game in the Library)**
+
+<img src="https://github.com/user-attachments/assets/cc1f7493-d543-49c5-987e-dd440c5332a5" width="800" alt="Game in Library">
+
+#### **Step 12: Success!**
+- Congratulations! You have successfully added your first HTML game. Play and test it to ensure everything works.
+- **(Screenshot showing the game in action)**
+
+<img src="https://github.com/user-attachments/assets/9d36cc53-ff0c-4faa-8a75-735f84ec16d2" width="800" alt="Game in Action">
+
 ## Track Your Progress
 
 - After completing Step 8, you should have:
