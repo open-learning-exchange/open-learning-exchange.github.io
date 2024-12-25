@@ -45,7 +45,8 @@ In this section, you will learn how to add HTML games to Planet.vi. Follow these
 <img src="https://github.com/user-attachments/assets/ce061b97-9420-49c6-aa8c-e9ce97dd2708" width="800" alt="Planet.vi Homepage">
 
 #### **Step 2: Sign In or Register**
-[Content remains the same]
+- If you already have an account, sign in.
+- If you don’t have an account, click on "Become a Member" to register.
 
 #### **Step 3: Navigate to the Library**
 - Once signed in, go to the Library section.
@@ -53,6 +54,10 @@ In this section, you will learn how to add HTML games to Planet.vi. Follow these
 - **(Screenshot showing the Library and the "+" button)**
 
 <img src="https://github.com/user-attachments/assets/65a9729e-bfd5-422e-8371-0b5cf3f465c6" width="800" alt="Library and Add Button">
+
+#### **Step 4: Prepare Your HTML Game**
+- Research or create an HTML game. You can use GitHub or other online resources as references. Be creative!
+- Test your game locally to ensure it works as expected.
 
 #### **Step 5: Example: Sudoku Game**
 - For guidance, here is an example of a simple Sudoku game. You can use a single `.html` file or include multiple files if needed.
@@ -76,6 +81,10 @@ In this section, you will learn how to add HTML games to Planet.vi. Follow these
 - **(Screenshot showing the file upload screen)**
 
 <img src="https://github.com/user-attachments/assets/63b3ec7a-f72a-48ec-b89c-e3ac73eea6fd" width="800" alt="File Upload Screen">
+
+#### **Step 8: Fill in the Details**
+- Complete the required fields (e.g., name, description, tags).
+- Add the game to the "HTML Apps" collection by clicking "Add Collections."
 
 #### **Step 9: Specify the Open With File**
 - If your zip file contains multiple files, specify the main `.html` file (e.g., `index.html`) in the "Open With" field.
