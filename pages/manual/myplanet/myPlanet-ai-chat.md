@@ -23,4 +23,4 @@ You can try different GPT's according to your prefference.
 
 The chat includes additional features, such as the ability to save conversations, which are conveniently organized in a sidebar. Additionally, users can easily search for specific chats whenever needed.
 
-![](./images/aichat-save-chat.png)
+![](./images/aichat-save-chat.jpg)
