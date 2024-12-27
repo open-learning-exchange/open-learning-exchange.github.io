@@ -72,6 +72,7 @@ Follow the steps on [Courses Tutorial](myPlanet-courses.md) page.
 
 ## AI Chat
 
+In the AI Chat, you can interact with AI powered chat which will help you with your specific needs and queries. Click [here](myPlanet-ai-chat.md) to learn more about AI Chat.
 
 ## Achivements
 
