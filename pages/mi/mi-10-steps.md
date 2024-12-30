@@ -57,7 +57,7 @@ Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdo
 
 ## Step 2 - myPlanet App
 
-Please follow the directions at [myPlanet App](step2.md)
+Please follow the directions at [myPlanet App](step2.md) to download and test the beta version of myPlanet.
 
 ## Step 3 - Build myPlanet in Android Studio
 
