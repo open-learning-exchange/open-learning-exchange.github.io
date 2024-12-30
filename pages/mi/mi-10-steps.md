@@ -93,6 +93,8 @@ myPlanet uses Kotlin as the development language. If you have no or little prior
 
 Additionally, you may also go over the official [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html). Optionally, there are practice exercise at the end of each topic for you to get some hands on exercise.
 
+We also recommend checking out the [Kotlin docs](https://kotlinlang.org/docs/home.html).
+
 ## Step 10 - Be part of the team
 
 Once you've confirmed that you've met the requirements in the [progress tracker](../track-first-steps-progress.md), your next step is to add yourself to the virtual intern list in [mi-team.md](mi-team.md) and submit a pull request. Afterward, message us ("@okurole_25668", "@dogi", and "@vi-mobile") in the Discord *#lagrangelounge* channel to schedule a meeting and officially join the team.
