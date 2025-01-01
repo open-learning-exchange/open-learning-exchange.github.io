@@ -42,7 +42,7 @@ In this section, you will learn how to add HTML games to Planet.vi. Follow these
 - Go to [https://planet.vi.ole.org/](https://planet.vi.ole.org/).
 - **(Screenshot of the homepage)**
 
-<img src="https://github.com/user-attachments/assets/ce061b97-9420-49c6-aa8c-e9ce97dd2708" width="800" alt="Planet.vi Homepage">
+<img src="images/vi-create-issues-and-pull-requests-homepage.png" width="800" alt="Planet.vi Homepage">
 
 #### **Step 2: Sign In or Register**
 - If you already have an account, sign in.
@@ -53,7 +53,7 @@ In this section, you will learn how to add HTML games to Planet.vi. Follow these
 - Click the "+" icon to add new resources. For this tutorial, you'll add HTML games.
 - **(Screenshot showing the Library and the "+" button)**
 
-<img src="https://github.com/user-attachments/assets/65a9729e-bfd5-422e-8371-0b5cf3f465c6" width="800" alt="Library and Add Button">
+<img src="images/vi-create-issues-and-pull-requests-library.png" width="800" alt="Library and Add Button">
 
 #### **Step 4: Prepare Your HTML Game**
 - Research or create an HTML game. You can use GitHub or other online resources as references. Be creative!
@@ -63,7 +63,7 @@ In this section, you will learn how to add HTML games to Planet.vi. Follow these
 - For guidance, here is an example of a simple Sudoku game. You can use a single `.html` file or include multiple files if needed.
 - **(Screenshot showing Sudoku game content)**
 
-<img src="https://github.com/user-attachments/assets/d0e32478-264e-4846-b131-7b70a008d324" width="800" alt="Sudoku Game Content">
+<img src="images/vi-create-issues-and-pull-requests-gamecontent.png" width="800" alt="Sudoku Game Content">
 
 #### **Step 6: Organize Your Files**
 - Put all your files in a single folder.
@@ -72,15 +72,15 @@ In this section, you will learn how to add HTML games to Planet.vi. Follow these
   - Right-click and choose "Compress" or "Create Zip."
 - **(Screenshot showing the folder and zip creation process)**
 
-<img src="https://github.com/user-attachments/assets/128fe654-5f25-4781-b1fc-4d96f20fc890" width="800" alt="Folder Organization">
+<img src="images/vi-create-issues-and-pull-requests-gamefolder.png" width="800" alt="Folder Organization">
 
-<img src="https://github.com/user-attachments/assets/db28c6e1-d646-42c6-bcf4-944e325467b7" width="800" alt="Zip Creation Process">
+<img src="images/vi-create-issues-and-pull-requests-zipcreation.png" width="800" alt="Zip Creation Process">
 
 #### **Step 7: Upload Your Zip File**
 - Click "Choose File" and upload your `.zip` file. For example, "sudoku.zip."
 - **(Screenshot showing the file upload screen)**
 
-<img src="https://github.com/user-attachments/assets/63b3ec7a-f72a-48ec-b89c-e3ac73eea6fd" width="800" alt="File Upload Screen">
+<img src="images/vi-create-issues-and-pull-requests-fileupload.png" width="800" alt="File Upload Screen">
 
 #### **Step 8: Fill in the Details**
 - Complete the required fields (e.g., name, description, tags).
@@ -90,25 +90,25 @@ In this section, you will learn how to add HTML games to Planet.vi. Follow these
 - If your zip file contains multiple files, specify the main `.html` file (e.g., `index.html`) in the "Open With" field.
 - **(Screenshot showing the Open With field populated)**
 
-<img src="https://github.com/user-attachments/assets/a498d202-2baf-496c-9afd-c74fe5559145" width="800" alt="Open With Field">
+<img src="images/vi-create-issues-and-pull-requests-openwithfield.png" width="800" alt="Open With Field">
 
 #### **Step 10: Submit the Game**
 - After filling in all the details, click "Submit."
 - **(Screenshot showing the submission confirmation)**
 
-<img src="https://github.com/user-attachments/assets/4934416e-a8a3-46d4-b72f-675a42a17e4a" width="800" alt="Submission Confirmation">
+<img src="images/vi-create-issues-and-pull-requests-submissions.png" width="800" alt="Submission Confirmation">
 
 #### **Step 11: Test Your Game**
 - Search for your game in the Library and test it to ensure it works properly.
 - **(Screenshot showing the game in the Library)**
 
-<img src="https://github.com/user-attachments/assets/cc1f7493-d543-49c5-987e-dd440c5332a5" width="800" alt="Game in Library">
+<img src="images/vi-create-issues-and-pull-requests-gameinlib.png" width="800" alt="Game in Library">
 
 #### **Step 12: Success!**
 - Congratulations! You have successfully added your first HTML game. Play and test it to ensure everything works.
 - **(Screenshot showing the game in action)**
 
-<img src="https://github.com/user-attachments/assets/9d36cc53-ff0c-4faa-8a75-735f84ec16d2" width="800" alt="Game in Action">
+<img src="images/vi-create-issues-and-pull-requests-gameinaction.png" width="800" alt="Game in Action">
 
 ## Track Your Progress
 
