@@ -59,7 +59,7 @@ Follow the steps on [Courses Tutorial](myPlanet-courses.md) page.
 
 
 ## Surveys
-
+Surveys are a way for the community to voice their opinions about a topic. Click [here](myPlanet-surveys.md) for more information about surveys.
 
 ## Teams
 
