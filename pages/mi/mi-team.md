@@ -13,6 +13,7 @@
 |[AdhamElAsfar99](profiles/AdhamElAsfar99.md)|2024-07-24|
 |[deeppp15](profiles/deeppp15.md)|2024-08-20|
 |[Avinash-Codes](profiles/Avinash-Codes.md)|2024-12-06|
+|[pavi38](profiles/pavi38.md)|2024-12-23|
 
 ## Former Members
 
