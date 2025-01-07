@@ -4,7 +4,6 @@ Muhammad Ahmed
 | Location | Timezone |
 | :------: | :------: |
 | Egypt    | GMT + 2  |
-| Canada   | GMT - 5  |
 
 
 # OS and Machines / Version
@@ -13,7 +12,7 @@ Muhammad Ahmed
 
 # About Myself
 * Hello! I am a first year Computer Engineering student at the [University of Waterloo][1]
-* I am Egyptian and Canadian
+* I am Egyptian Canadian
 * I sometimes enjoy doing maths in my free time
 
 # Semi-Complete Bucket List
