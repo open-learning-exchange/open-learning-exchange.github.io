@@ -4,14 +4,14 @@
 > >
 > > OS Version: macOS Sonoma 14.7.1
 
-## Language I learned
+## Language I Learned
 
   - Java
   - Kotlin
   - Javascript
   - C
 
-## Technical Tool and Technologies
+## Technical Tools and Technologies
 
   - JUnit Testing
   - html
@@ -19,7 +19,7 @@
   - Android Studio
   - Linux
 
-## Connect]
+## Connect
 
 
    [Github](https://github.com/huitk)
