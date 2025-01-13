@@ -4,7 +4,7 @@
 
 ## Introduction
 
-myPlanet is a mobile application designed to provide offline access to the Planet learning system. It enables users to explore a wide range of learning resources, including books, videos, and interactive learning games, without requiring an internet connection. This allows for an uninterrupted and enriched learning experience, leveraging the Planet server's extensive library of educational materials.
+myPlanet is a mobile application designed to provide offline access to the Planet learning system, enabling users to explore a wide range of learning resources, including books, videos, and interactive learning games. This allows for an uninterrupted and enriched learning experience, leveraging the Planet server's extensive library of educational materials.
 
 The mobile app acts as a bridge between the user's device and the Planet server, enabling the synchronization of data. It allows learners to download selected collections of learning resources from the server and store them locally on their mobile devices. This personalized approach to learning ensures that learners can access the materials that are most relevant to their needs and interests.
 
