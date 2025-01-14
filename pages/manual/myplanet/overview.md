@@ -55,7 +55,8 @@ Ready to take your skills to the next level? myPlanet offers a wide range of cou
 
 Follow the steps on [Courses Tutorial](myPlanet-courses.md) page.
 
-## Exams
+## Tests
+After completing a course on myCourse within the myPlanet App, you can access your knowledge by taking a test. To access the test, tap the Test button located in the top-right corner of the screen. This feature allows you to evaluate your understanding of the course material and track your learning progress.
 
 
 ## Surveys
