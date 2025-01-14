@@ -23,7 +23,7 @@ To set up a connection, visit our [Connecting myPlanet to a Planet Server](myPla
 
 ## Sign In / Become a Member
 
-After installing the **myPlanet App**, the first screen you will see is the login page. To begin your learning journey, you must have a member account. Learn more about becoming a member and sign in on the [myPlanet Sign In](myPlanet-member.md) page.
+After installing the **myPlanet App**, the first screen you will see is the login page. To begin your learning journey, you need to have a member account. Learn more about becoming a member and signing in on the [myPlanet Sign-In](myPlanet-member.md) page.
 
 ## Library
 
