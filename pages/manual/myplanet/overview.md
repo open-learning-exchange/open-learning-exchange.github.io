@@ -49,16 +49,20 @@ The myPlanet Library is a one-stop digital library offering a wide range of educ
    - To download a resource to your device, click the **Download** button located on the resource.
 
 ## Courses
+
 🚀 Explore. Learn. Grow with myPlanet! 🌍
 
 Ready to take your skills to the next level? myPlanet offers a wide range of courses designed to fuel your passion and expand your knowledge. From cutting-edge technology to creative arts, business strategies to personal development, we have something for everyone!
 
 Follow the steps on [Courses Tutorial](myPlanet-courses.md) page.
 
-## Exams
+## Tests
+
+After completing a course in myCourses within the myPlanet App, you can assess your knowledge by taking a test. To access the test, tap the Test button located in the top-right corner of the screen. This feature allows you to evaluate your understanding of the course material and track your learning progress.
 
 
 ## Surveys
+
 Surveys are a way for the community to voice their opinions about a topic. Click [here](myPlanet-surveys.md) for more information about surveys.
 
 ## Teams
