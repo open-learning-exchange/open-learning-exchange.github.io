@@ -75,7 +75,7 @@ Before you create your branch, sync your repository with the following commands 
   # switch to the master branch
   git checkout master
 
-  # create a new branch from the master branch
+  # create a new branch from the master branch and swtich to the new branch
   # avoid using `#` in the branch name to prevent issues with rawgithack preview
   git checkout -b <issueNumber-descriptive-branch-name>
   ```
