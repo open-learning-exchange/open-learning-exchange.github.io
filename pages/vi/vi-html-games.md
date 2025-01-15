@@ -16,7 +16,7 @@ In this section, you will learn how to add HTML games to the planet `vi` nation.
 - Once signed in, go to the Library section.
 - Click the "+" icon to add new resources. For this tutorial, you'll add HTML games.
 
-![Screenshot showing the Library and the plus button](images/vi-create-issues-and-pull-requests-library.png)
+![Screenshot showing the Library and the plus button](images/vi-html-games-library.png)
 
 ## Step 4: Prepare Your HTML Game
 
@@ -27,7 +27,7 @@ In this section, you will learn how to add HTML games to the planet `vi` nation.
 
 For guidance, here is an example of a simple Sudoku game. You can use a single `.html` file or include multiple files if needed.
 
-![Screenshot showing Sudoku game file content](images/vi-create-issues-and-pull-requests-gamecontent.png)
+![Screenshot showing Sudoku game file content](images/vi-html-games-gamecontent.png)
 
 ## Step 6: Organize Your Files
 
@@ -36,15 +36,15 @@ For guidance, here is an example of a simple Sudoku game. You can use a single `
   - Select all files.
   - Right-click and choose "Compress" or "Create Zip."
 
-  ![Screenshot showing the folder](images/vi-create-issues-and-pull-requests-gamefolder.png)
+  ![Screenshot showing the folder](images/vi-html-games-gamefolder.png)
 
-  ![Screenshot showing zip creation process](images/vi-create-issues-and-pull-requests-zipcreation.png)
+  ![Screenshot showing zip creation process](images/vi-html-games-zipcreation.png)
 
 ## Step 7: Upload Your Zip File
 
 Click "Choose File" and upload your `.zip` file. For example, "sudoku.zip."
 
-![Screenshot showing the file upload screen](images/vi-create-issues-and-pull-requests-fileupload.png)
+![Screenshot showing the file upload screen](images/vi-html-games-fileupload.png)
 
 ## Step 8: Fill in the Details
 
@@ -55,22 +55,22 @@ Click "Choose File" and upload your `.zip` file. For example, "sudoku.zip."
 
 If your zip file contains multiple files, specify the main `.html` file (e.g., `index.html`) in the "Open With" field.
 
-![Screenshot showing the Open With field populated](images/vi-create-issues-and-pull-requests-openwithfield.png)
+![Screenshot showing the Open With field populated](images/vi-html-games-openwithfield.png)
 
 ## Step 10: Submit the Game
 
 After filling in all the details, click "Submit."
 
-![Screenshot showing the submission confirmation](images/vi-create-issues-and-pull-requests-submissions.png)
+![Screenshot showing the submission confirmation](images/vi-html-games-submissions.png)
 
 ## Step 11: Test Your Game
 
 Search for your game in the Library and test it to ensure it works properly.
 
-![Screenshot showing the game in the Library](images/vi-create-issues-and-pull-requests-gameinlib.png)
+![Screenshot showing the game in the Library](images/vi-html-games-gameinlib.png)
 
 ## Step 12: Success!
 
 Congratulations! You have successfully added your first HTML game. Play and test it to ensure everything works.
 
-![Screenshot showing the game in action](images/vi-create-issues-and-pull-requests-gameinaction.png)
+![Screenshot showing the game in action](images/vi-html-games-gameinaction.png)
