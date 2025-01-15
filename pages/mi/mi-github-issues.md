@@ -75,7 +75,7 @@ Before you create your branch, sync your repository with the following commands 
   git checkout master  # Ensure you are on the master branch
   git checkout -b <issueNumber-descriptive-branch-name>
   ```
-
+  **Note** Only use issue number without # when creating a new branch
   Make sure to replace `<issueNumber-descriptive-branch-name>` with your actual branch name, without the angle brackets (`<` and `>`).
 
 More documentation on `git checkout` can be found [here](https://git-scm.com/docs/git-checkout).
