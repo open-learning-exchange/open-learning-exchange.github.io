@@ -1,6 +1,6 @@
-# Adding HTML Games to planet.vi
+# Add HTML Games to Planet Nation "vi"
 
-In this section, you will learn how to add HTML games to the planet `vi` nation. Follow the steps below carefully and refer to the provided screenshots for better clarity.
+In this section, you will learn how to add HTML games to the planet nation - "vi. Follow the steps below carefully and refer to the provided screenshots for better clarity.
 
 ## Step 1: Visit planet vi
 
