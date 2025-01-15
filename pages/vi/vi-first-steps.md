@@ -101,7 +101,7 @@ Follow the direction at [GitHub Issues](vi-github-issues.md). In this step, youâ
 Please note that creating and working on issues is not strictly bound by the specific "Step" you're in. You may continue working up to Step 9 while awaiting OLE approval for your issue(s) or pull request(s).
 
 ## Step 7 - Nation Planet
-**(Estimated Time: 1.5h)**
+**(Estimated Time: 2h)**
 
 Follow the directions under the [Nation Planet tab](vi-nation.md).
 
