@@ -71,11 +71,11 @@ Before you create your branch, sync your repository with the following commands 
 
 - To create and switch to a new branch from `master`, run the following commands:
 
-  ```sh
-  git checkout master  # Ensure you are on the master branch
-  git checkout -b <issueNumber-descriptive-branch-name>
   ```
-  **Note** Only use issue number without # when creating a new branch
+  git checkout master                                    # Switch to the master branch
+  git checkout -b <issueNumber-descriptive-branch-name>  # Avoid using `#` in the branch name to prevent issues with rawgithack preview
+  ```
+
   Make sure to replace `<issueNumber-descriptive-branch-name>` with your actual branch name, without the angle brackets (`<` and `>`).
 
 More documentation on `git checkout` can be found [here](https://git-scm.com/docs/git-checkout).
