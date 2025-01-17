@@ -1,5 +1,5 @@
 # Create More Issues and Pull Requests (Step 8)
-**Estimated Time: 4.5h** 
+**Estimated Time: 4.5h**
 
 ## Objectives
 

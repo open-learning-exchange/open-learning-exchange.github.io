@@ -1,11 +1,12 @@
 # Nation Planet (Step 7)
-**Estimated Time: 1.5h** 
+**Estimated Time: 2h**
 
 ## Objectives
 
 - Learn how to sync your Community with the Nation.
 - Use the Nation interface to verify if your Community has successfully joined the Nation.
 - Update your Community Planet to the latest version.
+- Add a HTML game to vi nation planet.
 
 ## Introduction
 
@@ -84,6 +85,10 @@ To verify that the sync was successful, log in to the nation site at [planet.vi.
 1. Finally, force reload the Planet page in your browser and verify your community planet version is updated.
 
 NOTE: If you see an error message during the upgrade process please try again.
+
+## Add HTML Games to Planet Nation "vi"
+
+Follow the instructions at [Add HTML Games to Planet Nation "vi"](vi-html-games.md).
 
 ## Useful Links
 
