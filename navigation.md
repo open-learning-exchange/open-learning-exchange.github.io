@@ -24,7 +24,7 @@
   * [**Introduction / First Steps**](pages/vi/vi-first-steps.md)
   * [FAQ](pages/vi/vi-faq.md)
   - - - -
-  * [Step 0 - Introductory Steps](pages/vi/vi-first-steps.md#Step_0_-_Introductory_Steps)
+  * [Step 0 - Introductory Step](pages/vi/vi-intro-step.md)
   * [Step 1 - Markdown and Fork Tutorial](pages/vi/vi-github-and-markdown.md)
   * [Step 2 - Software Prerequisites](pages/vi/vi-prerequisites.md)
   * [Step 3 - Planet and Docker](pages/vi/vi-first-steps.md#Step_3_-_Planet_and_Docker)
@@ -49,10 +49,10 @@
   * [FAQ](pages/mi/mi-faq.md)
   - - - -
   * [Step 0 - Introductory Step](pages/mi/mi-intro-step.md)
-  * [Step 1 - Markdown & Forking Workflow](pages/mi/mi-10-steps.md#Step_1_-_Markdown_&_Forking_Workflow)
-  * [Step 2 - myPlanet App](pages/mi/mi-10-steps.md#Step_2_-myPlanet_App)
-  * [Step 3 - Build myPlanet in Android Studio](pages/mi/mi-10-steps.md#Step_3_-_Build_myPlanet_in_Android_Studio)
-  * [Step 4 - Connect myPlanet to Planet](pages/mi/mi-10-steps.md#Step_4_-_Connect_myPlanet_app_to_Planet)
+  * [Step 1 - Markdown & Forking Workflow](pages/mi/mi-github-and-markdown.md)
+  * [Step 2 - myPlanet App](pages/mi/mi-myplanet.md)
+  * [Step 3 - myPlanet and Android Studio](pages/mi/mi-myplanet-and-android-studio.md)
+  * [Step 4 - Connect myPlanet app to Planet](pages/mi/mi-myplanet-connection.md)
   * [Step 5 - Git Repositories](pages/mi/mi-github-and-repositories.md)
   * [Step 6 - GitHub Issues Tutorial](pages/mi/mi-10-steps.md#Step_6_-_GitHub_Issues_Tutorial)
   * [Step 7 - Take a Course on myPlanet, Courses Gardening](pages/mi/mi-10-steps.md#Step_7_-_Take_a_Course_on_myPlanet,_Courses_Gardening)

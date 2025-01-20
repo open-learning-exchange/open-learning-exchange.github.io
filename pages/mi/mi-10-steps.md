@@ -39,7 +39,7 @@ For technical questions not covered in the FAQ, in addition to contacting us on 
 
 ## Step 0 - Introductory Step
 
-Follow the instructions on [Introductory Step](mi-intro-step.md).
+Follow the instructions on [Mobile Interns Introductory Step](mi-intro-step.md).
 
 ## Step 1 - Markdown & Forking Workflow
 
@@ -49,7 +49,7 @@ Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdo
 
 ## Step 2 - myPlanet App
 
-Please follow the directions at [myPlanet App](step2.md) to download and test the beta version of myPlanet.
+Please follow the directions at [myPlanet App](mi-myplanet.md) to download and test the beta version of myPlanet.
 
 ## Step 3 - Build myPlanet in Android Studio
 
@@ -57,7 +57,7 @@ Follow the guide at [myPlanet and Android Studio](mi-myplanet-and-android-studio
 
 ## Step 4 - Connect myPlanet app to Planet
 
-Follow the guide at [Connecting myPlanet to Planet](mi-step4.md).
+Follow the guide at [Connecting myPlanet to Planet](mi-myplanet-connection.md).
 
 ## Step 5 - Git Repositories: A Guide to Cloning, Configuring, and Syncing Forks
 

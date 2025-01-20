@@ -1,4 +1,4 @@
-# Step 0 - Introductory Step
+# Step 0 - Mobile Interns Introductory Step
 
 ## Internship Hardware Requirements
 
