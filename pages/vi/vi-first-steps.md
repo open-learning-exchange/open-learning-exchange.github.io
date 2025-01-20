@@ -39,10 +39,10 @@ For technical questions not covered in the FAQ, in addition to contacting us on 
 
 Follow the instructions on [Introductory Step](vi-intro-step.md).
 
-## Step 1 - Markdown and Fork Tutorial
+## Step 1 - GitHub, Markdown, and Forking Workflow
 **(Estimated Time: 1.5h)**
 
-Follow the instructions on the [GitHub and Markdown page](vi-github-and-markdown.md).
+Follow the instructions on the [GitHub, Markdown, and Forking Workflow page](vi-github-and-markdown.md).
 
 - Once you complete this step, you will have:
   - 1 Pull request made
