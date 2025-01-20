@@ -1,4 +1,4 @@
-# Nation Planet (Step 7)
+# Step 7 - Nation Planet
 **Estimated Time: 2h**
 
 ## Objectives

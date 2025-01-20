@@ -1,4 +1,4 @@
-﻿# Planet Tutorial (Step 4.1)
+﻿# Step 4.1 - Planet Tutorial
 **Estimated Time: 1h** 
 
 ## Objectives
