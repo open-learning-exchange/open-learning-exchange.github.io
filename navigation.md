@@ -55,7 +55,7 @@
   * [Step 4 - Connect myPlanet app to Planet](pages/mi/mi-myplanet-connection.md)
   * [Step 5 - Git Repositories](pages/mi/mi-github-and-repositories.md)
   * [Step 6 - GitHub Issues Tutorial](pages/mi/mi-10-steps.md#Step_6_-_GitHub_Issues_Tutorial)
-  * [Step 7 - Take a Course on myPlanet, Courses Gardening](pages/mi/mi-10-steps.md#Step_7_-_Take_a_Course_on_myPlanet,_Courses_Gardening)
+  * [Step 7 - Take a Course on myPlanet, Courses Gardening](pages/mi/mi-myplanet-course.md)
   * [Step 8 - Create More Issues and Pull Requests](pages/mi/mi-issues-and-prs.md)
   * [Step 9 - Kotlin Tour](pages/mi/mi-10-steps.md#Step_9_-_Kotlin_Tour)
   * [Step 10 - Be Part of the Team](pages/mi/mi-10-steps.md#Step_10_-_Be_part_of_the_team)
