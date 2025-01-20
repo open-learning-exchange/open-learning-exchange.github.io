@@ -1,5 +1,17 @@
 # Step 8 - Create More Issues and Pull Requests
 
+## Objectives
+
+- Create three more issues
+- Add comments to three other issues
+- Resolving three issues
+
+## Introduction
+
+Just as your learning with this Wiki was made possible by the efforts of previous interns, now we turn to you to continue that tradition and help future mobile interns take their First Steps. Through this step, you should try to further improve our Markdown Wiki, with better explanations, formatting fixes, and more! You must have made your pull requests and have them each approved by at least two other OLE team members/interns in order for it to be merged to the upstream repository. Just as before, announce your Pull Request on the Discord channel so other members can review it. You may need to make some additional corrections. Learn by teaching - or editing our teaching tool, in this case!
+
+## ToDo
+
 In this step, your goal is to create, comment on, and resolve GitHub issues to improve our Markdown Wiki. Here's what you'll need to do:
 
 1. **Create Issues**:
@@ -28,6 +40,13 @@ Once you complete Step 8 you will have:
 - 4 comments made on issues you didn't create (one at step 6 and three at step 8)
 - 4 issues created (one at step 6 and three at step 8)
 
-**HINT**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
+## Track Your Progress
+
+- After completing Step 8, you should have:
+  - 5 merged pull requests (one from Step 1, one from Step 6, and three from Step 8)
+  - 4 comments on *issues you didn't create* (one from Step 6 and three from Step 8)
+  - 4 issues created (one from Step 6 and three from Step 8)
+
+Hint: You can track your progress with the number of pull requests and issues [**here**](../track-first-steps-progress.md).
 
 #### Return to [First Steps](mi-10-steps.md#Step_8_-_Create_More_Issues_and_Pull_Requests)

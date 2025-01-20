@@ -1,4 +1,4 @@
-# GitHub Issues (Step 6)
+# Step 6 - GitHub Issues
 **Estimated Time: 2.5h** 
 
 ## 1. Objectives

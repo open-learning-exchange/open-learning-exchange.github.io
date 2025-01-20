@@ -1,5 +1,5 @@
-# GitHub and Markdown (Step 1)
-**Estimated Time: 1.5h** 
+# Step 1 - GitHub, Markdown, and Forking Workflow
+**Estimated Time: 1.5h**
 
 ## 1. Objectives
 
@@ -143,4 +143,4 @@ After the pull request is merged, you'll be able to see your personal page at `o
 
 **→** Next: [Step 2 - Software Prerequisites](vi-prerequisites.md)
 
-Return to [First Steps](vi-first-steps.md#Step_1_-_Markdown_and_Fork_Tutorial)
+Return to [First Steps](vi-first-steps.md#Step_1_-_GitHub,_Markdown,_and_Forking_Workflow)

@@ -1,4 +1,4 @@
-﻿# Planet Development Setup Tutorial (Step 9)
+﻿# Step 9 - Planet Development Setup Tutorial
 **Estimated Time: 3h** 
 
 ## Objectives

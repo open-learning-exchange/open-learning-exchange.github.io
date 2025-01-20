@@ -1,4 +1,4 @@
-# Connecting myPlanet to Planet
+# Step 4 - Connecting myPlanet to Planet
 
 ## Background
 

@@ -37,17 +37,9 @@ If you have general internship inquiries and can't find the information you need
 
 For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google and Stack Exchange serve as excellent supplementary resources to explore. :)
 
-## Step 0 - Prerequisites
+## Step 0 - Introductory Step
 
-To participate in the internship, you will need the following:
-
-1. A laptop or desktop computer with at least 8GB of RAM.
-2. An Android device (phone or tablet) with a minimum of 3GB of RAM and running Android 9 "Pie" or later, and/or a Chromebook.
-   - If you do not have a physical Android or Chromebook device, you can use a [Raspberry Pi 4](https://emteria.com/kb/hardware#raspberry-pi-4b) [or 5](https://emteria.com/kb/hardware#raspberry-pi-5) with at least 8GB of RAM as an experimental alternative.
-3. [Discord](https://discord.com/download) installed on both your Android device and your laptop or desktop computer for easier communication and screenshot sharing.
-4. A stable internet connection.
-
-**Once you have confirmed that you meet the aforementioned requirements, please say hi to everyone in the Discord channel and let us know that you have reached Step 0.**
+Follow the instructions on [Mobile Interns Introductory Step](mi-intro-step.md).
 
 ## Step 1 - Markdown & Forking Workflow
 
@@ -57,7 +49,7 @@ Follow the instructions on [Creating Your GitHub Profile Page: A Guide to Markdo
 
 ## Step 2 - myPlanet App
 
-Please follow the directions at [myPlanet App](step2.md) to download and test the beta version of myPlanet.
+Please follow the directions at [myPlanet App](mi-myplanet.md) to download and test the beta version of myPlanet.
 
 ## Step 3 - Build myPlanet in Android Studio
 
@@ -65,7 +57,7 @@ Follow the guide at [myPlanet and Android Studio](mi-myplanet-and-android-studio
 
 ## Step 4 - Connect myPlanet app to Planet
 
-Follow the guide at [Connecting myPlanet to Planet](mi-step4.md).
+Follow the guide at [Connecting myPlanet to Planet](mi-myplanet-connection.md).
 
 ## Step 5 - Git Repositories: A Guide to Cloning, Configuring, and Syncing Forks
 

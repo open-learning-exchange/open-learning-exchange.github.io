@@ -1,4 +1,4 @@
-﻿# Docker Tutorial (Step 3.1)
+﻿# Step 3.1 - Docker Tutorial
 **Estimated Time: 1h** 
 
 ## Objectives

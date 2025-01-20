@@ -1,4 +1,4 @@
-# Take a Course on myPlanet, Courses Gardening
+# Step 7 - Take a Course on myPlanet, Courses Gardening
 
 ## myPlanet App Dashboard and Courses Overview
 

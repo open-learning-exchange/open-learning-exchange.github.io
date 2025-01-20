@@ -1,4 +1,4 @@
-# Git Repositories (Step 5)
+# Step 5 - Keeping Fork Updated
 **Estimated Time: 1h** 
 
 ## Objectives
