@@ -48,7 +48,7 @@
   * [**Introduction / First Steps**](pages/mi/mi-10-steps.md)
   * [FAQ](pages/mi/mi-faq.md)
   - - - -
-  * [Step 0 - Prerequisites](pages/mi/mi-10-steps.md#Step_0_-_Prerequisites)
+  * [Step 0 - Introductory Step](pages/mi/mi-intro-step.md)
   * [Step 1 - Markdown & Forking Workflow](pages/mi/mi-10-steps.md#Step_1_-_Markdown_&_Forking_Workflow)
   * [Step 2 - myPlanet App](pages/mi/mi-10-steps.md#Step_2_-myPlanet_App)
   * [Step 3 - Build myPlanet in Android Studio](pages/mi/mi-10-steps.md#Step_3_-_Build_myPlanet_in_Android_Studio)
