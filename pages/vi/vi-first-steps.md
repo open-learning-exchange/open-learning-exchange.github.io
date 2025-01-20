@@ -37,20 +37,7 @@ For technical questions not covered in the FAQ, in addition to contacting us on 
 ## Step 0 - Introductory Steps
 **(Estimated Time: 1h)**
 
-This step includes two tasks:
-
-1. **Watch the Repository and Follow Contributors:**
-   - To keep up with the latest activities, use the "Watch" button in repositories and "Follow" individuals.
-   - Visit [GitHub](https://github.com), and watch the [Open Learning Exchange's Planet repository](https://github.com/open-learning-exchange/planet) to stay updated on changes.
-   - Follow OLE's CTO [dogi](https://github.com/dogi) and Planet's core developer [Mutugi](https://github.com/Mutugiii) on GitHub.
-  - You can also follow [other active virtual interns](vi-team.md) to stay updated on their activities.
-
-   ![Watch Screen Shot](images/vi-watch.png)
-   ![Follow Screen Shot](images/vi-follow.png)
-
-2. **Contribute to Translations on Crowdin:**
-   - We use Crowdin to translate our user interface into multiple languages.
-   - If you know [a language supported by Planet](https://crowdin.com/project/ole-planet), your translation assistance would be greatly appreciated. Create a Crowdin account and aim to translate at least 10% of the words in your chosen language. For an overview of the functionality and terminology, refer to the [Planet User Manual](#!./pages/techgenius/tg-planet-user-manual.md). Your contributions will help both the project and enhance your understanding of Planet. Be sure to let us know in the [#vi-software channel](https://discord.com/channels/1079980988421132369/1229437557843169280) on Discord if you're able to contribute to our translation efforts.
+Follow the instructions on [Introductory Step](vi-intro-step.md).
 
 ## Step 1 - Markdown and Fork Tutorial
 **(Estimated Time: 1.5h)**
