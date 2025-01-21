@@ -54,7 +54,7 @@ Fill out the configurations, ensuring your name matches your GitHub name for eas
 
 ![Configurations](images/vi-configuration.png)
 
-Next, provide the contact details of the community administrator.
+Next, provide your own contact details as the community administrator.
 
 ![Contact Details](images/vi-contact-details.png)
 
