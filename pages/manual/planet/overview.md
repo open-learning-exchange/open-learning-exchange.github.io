@@ -57,34 +57,34 @@ The Community page allows you to connect with like-minded individuals to expand 
 **This portion needs to be worked on**
 
 ## Library
-The Library is home to the community's collection of media and other resources. Click [here](library.md) to learn more about Library.
+The Library is home to the community's collection of media and other resources.  [Learn more about Library.](library.md)
 
 ## Courses
-The Courses page allows you to create and join various courses on a wide range of topics. Click [here](course.md) to learn more about Courses.
+The Courses page allows you to create and join various courses on a wide range of topics. [Learn more about Courses.](course.md)
 
 ## Exams
 **This portion needs to be worked on**
 
 ## Surveys
-Surveys is where you can create your survey and send it to others. Click [here](survey.md) to learn more about Surveys.
+Surveys is where you can create your survey and send it to others. [Learn more about Surveys.](survey.md)
 
 ## Teams
-Here you will be able to create teams and communicate with them, offer courses, and organize members. Click [here](teams.md) to learn more about Teams.
+Here you will be able to create teams and communicate with them, offer courses, and organize members. [Learn more about Teams.](teams.md)
 
 ## Meetups
-Meetups is where you can coordinate meetups by creating them, joining them and more! Click [here](meetup.md) to learn more about Meetups.
+Meetups is where you can coordinate meetups by creating them, joining them and more! [Learn more about Meetups.](meetup.md)
 
 ## News
-News is where you can view any posts made by any users. Click [here](news.md) to learn more about News.
+News is where you can view any posts made by any users. [Learn more about News.](news.md)
 
 ## Achievement
-The Achievement is where you can add your achievements. Click [here](achievement.md) to learn more about Achievements.
+The Achievement is where you can add your achievements. [Learn more about Achievements.](achievement.md)
 
 ## Feedback
-Throughout planet, you will be able to give feedback on planet, courses, and more. Click [here](feedback.md) to learn more about Feedback.
+Throughout planet, you will be able to give feedback on planet, courses, and more. [Learn more about Feedback.](feedback.md)
 
 ## Manager
-The Manager role comes with another set of administrative features. This includes viewing reports, syncing the community with the nation, and performing upgrades on the community.  Click [here](manager.md) to learn more.
+The Manager role comes with another set of administrative features. This includes viewing reports, syncing the community with the nation, and performing upgrades on the community. [Learn more about Manager.](manager.md)
 
 ## Community
 The Community page allows you to connect with like-minded individuals to expand your knowledge and creativity. Here, you can check for new events, join ongoing ones, or create your own using our calendar feature. Please note that the Community* tab is only available within a community Planet.
