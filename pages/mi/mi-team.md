@@ -14,7 +14,7 @@
 |[deeppp15](profiles/deeppp15.md)|2024-08-20|
 |[Avinash-Codes](profiles/Avinash-Codes.md)|2024-12-06|
 |[pavi38](profiles/pavi38.md)|2024-12-23|
-|[huitk](profiles/huitk.md)|2025-12-17|
+|[huitk](profiles/huitk.md)|2025-01-17|
 
 ## Former Members
 
