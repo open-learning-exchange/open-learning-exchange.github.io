@@ -41,7 +41,7 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
 The **nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education.
 
 ## Become Member
-To be able to use **PLANET** you need to be part of the system. The first thing you will see on PLANET is the **Login page**. [Learn more about becoming part of PLANET and using it.](member.md).
+To be able to use **PLANET** you need to be part of the system. The first thing you will see on PLANET is the **Login page**. [Learn more about becoming part of PLANET and using it.](member.md)
 
 ## Features of Planet
 When you are inside PLANET you will see different features available.
