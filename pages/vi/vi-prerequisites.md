@@ -3,7 +3,7 @@
 
 ## Objectives
 
-- Setup your development environment
+- Set up your development environment
 
 ## Preparation
 
@@ -88,7 +88,7 @@ Go to [**Install Docker Engine | Docker Docs**](https://docs.docker.com/engine/i
 
 We will need Windows Subsystem for Linux (WSL) version 2 to run Docker Desktop.
 
-When you install WSL 2, You must be running Windows 10...
+When you install WSL 2, you must be running Windows 10...
 
 - For x64 systems: Version 1903 or later, with Build 18362.1049 or later.
 - For ARM64 systems: Version 2004 or later, with Build 19041 or later.
@@ -109,7 +109,7 @@ Next, visit "How to install Linux on Windows with WSL" and follow the instructio
 
 The easiest way to install Docker on Windows is by downloading Docker Desktop: `choco install docker-desktop`
 
-For alternative installation method, please visit [**Docker Desktop**](https://www.docker.com/products/docker-desktop/).
+For alternative installation methods, please visit [**Docker Desktop**](https://www.docker.com/products/docker-desktop/).
 
 After installation, launch the Docker Desktop app.
 
