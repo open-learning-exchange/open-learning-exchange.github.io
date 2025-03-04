@@ -8,7 +8,7 @@
 |------------------------|--------------------------------------|
 | 📍 **Location**        | Chicago, IL, US                      |
 | ⏰ **Time Zone**       | CST (Central Standard Time)          |
-| 💻 **Operating System**| macOS High Sierra v10.13.6           |
+| 💻 **Operating System**| macOS Sonoma v14.6.1                 |
 
 ---
 
@@ -26,7 +26,7 @@ Hi there! I’m someone who:
 ### ✏️ Tech Skills  
 
 Here are some of the technologies I work with:  
-- **Programming Languages:** Python, Java, C/C++, SQL  
+- **Programming Languages:** Python, JavaScript, HTML/CSS, R, C/C++, SQL  
 - **Other Skills:** Docker, Kubernetes, Gitlab 
 
 ---
