@@ -1,8 +1,14 @@
 # Munish Patel  
 
-📍 **Location:** Chicago, IL, US  
-⏰ **Time Zone:** CST (Central Standard Time)  
-💻 **Operating System:** macOS Sonoma v14.6.1  
+---
+
+## 📋 Quick Info  
+
+| **Attribute**         | **Details**                          |
+|------------------------|--------------------------------------|
+| 📍 **Location**        | Chicago, IL, US                      |
+| ⏰ **Time Zone**       | CST (Central Standard Time)          |
+| 💻 **Operating System**| macOS High Sierra v10.13.6           |
 
 ---
 
