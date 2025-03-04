@@ -31,8 +31,10 @@ Here are some of the technologies I work with:
 
 ---
 
-#### 📅 Current Date:  
-Tuesday, March 04, 2025  
+#### 🔗 Connect with me:  
+
+- [LinkedIn Profile](https://www.linkedin.com/in/munishpatel)  
+- [Email Me](mailto:mpatel176@hawk.iit.edu)  
 
 ---
 
