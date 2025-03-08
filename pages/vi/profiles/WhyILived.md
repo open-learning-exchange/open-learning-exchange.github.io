@@ -28,7 +28,7 @@ Hey there! I'm Sy, a first year computer engineering student who loves coding an
 
 ## 🔗 Find Me Online  
 - GitHub: [github.com/WhyILived](https://github.com/WhyILived)  
-- LinkedIn: [https://linkedin.com/mushfiqur-shadhin](https://www.linkedin.com/in/mushfiqur-shadhin-06b084308/)  
+- LinkedIn: [https://linkedin.com/mushfiqur-shadhin-06b084308/](https://www.linkedin.com/in/mushfiqur-shadhin-06b084308/)  
 
 ---
 
