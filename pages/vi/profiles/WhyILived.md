@@ -20,7 +20,7 @@ Hey there! I'm Sy, a first year computer engineering student who loves coding an
 
 | 💡 Fun Facts    | 🔍 Details   |  
 |---------------|----------------|  
-| 🏫 **University** | University of Waterloo      |  
+| 🏫 **University** | University of Waterloo   |  
 | ☕ **Favorite Drink** | Coffee (keeps me coding ☕) |  
 | 🎵 **Music** | Lo-fi, Pop, EDM 🎶 |  
 
@@ -28,7 +28,7 @@ Hey there! I'm Sy, a first year computer engineering student who loves coding an
 
 ## 🔗 Find Me Online  
 - GitHub: [github.com/WhyILived](https://github.com/WhyILived)  
-- LinkedIn: [https://linkedin.com/mushfiqur-shadhin](<https://www.linkedin.com/in/mushfiqur-shadhin-06b084308/>)  
+- LinkedIn: [linkedin.com/mushfiqur-shadhin](<https://www.linkedin.com/in/mushfiqur-shadhin-06b084308/>)  
 
 ---
 
