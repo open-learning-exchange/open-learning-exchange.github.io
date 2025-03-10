@@ -50,7 +50,7 @@
                     Total_PRs();
                     Total_Issues();
                     Merged_PRs();
-                    CountIssueComments();
+                    CountIssueComments(); // Call the new function here
                 })
                 .catch(function(error) {
                     console.log(error);
@@ -113,51 +113,56 @@
             });
     }
 
-    // Function to count comments on issues by a user
+    // Function to count comments made by a user in issues
     function CountIssueComments() {
-    var url = "https://api.github.com/repos/open-learning-exchange/open-learning-exchange.github.io/issues?state=all&per_page=100";
-    var commentsCount = 0;
-    var page = 1;
-
-    // Recursive function to handle pagination
-    function fetchIssues(url) {
-        fetch(url)
-            .then(checkStatus)
-            .then((resp) => resp.json())
-            .then(function(data) {
-                data.forEach(issue => {
-                    fetch(issue.comments_url)
-                        .then(checkStatus)
-                        .then((resp) => resp.json())
-                        .then(function(comments) {
-                            comments.forEach(comment => {
-                                if (comment.user.login === user) {
-                                    commentsCount++;
+    const githubToken = "YOUR-ACCESS-TOKEN-HERE"; //insert your access token here
+    const query = `
+        query {
+            repository(owner: "open-learning-exchange", name: "open-learning-exchange.github.io") {
+                issues(states: [OPEN], first: 100) {
+                    edges {
+                        node {
+                            comments(first: 100) {
+                                edges {
+                                    node {
+                                        author {
+                                            login
+                                        }
+                                    }
                                 }
-                            });
-                        })
-                        .catch(function(error) {
-                            console.log(error);
-                        });
-                });
-
-                // Check if there are more pages
-                if (data.length === 100) {
-                    page++;
-                    var nextPageUrl = "https://api.github.com/repos/open-learning-exchange/open-learning-exchange.github.io/issues?state=all&per_page=100&page=" + page;
-                    fetchIssues(nextPageUrl);
-                } else {
-                    // Display the total comments count
-                    let p = document.createElement('p');
-                    p.innerHTML = "<strong>Number of Comments on Issues:<strong> " + commentsCount;
-                    res.appendChild(p);
+                            }
+                        }
+                    }
                 }
-            })
-            .catch(function(error) {
-                console.log(error);
-            });
-    }
+            }
+        }
+    `;
 
-    fetchIssues(url);
+    fetch('https://api.github.com/graphql', {
+        method: 'POST',
+        headers: {
+            'Authorization': 'Bearer ' + githubToken,
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ query })
+    })
+    .then(checkStatus)
+    .then((resp) => resp.json())
+    .then(function(data) {
+        let commentsCount = 0;
+        data.data.repository.issues.edges.forEach(issue => {
+            issue.node.comments.edges.forEach(comment => {
+                if (comment.node.author && comment.node.author.login === user) {
+                    commentsCount++;
+                }
+            });
+        });
+        let p = document.createElement('p');
+        p.innerHTML = "<strong>Number of Comments on Issues:<strong> " + commentsCount;
+        res.appendChild(p);
+    })
+    .catch(function(error) {
+        console.log(error);
+    });
 }
 </script>
