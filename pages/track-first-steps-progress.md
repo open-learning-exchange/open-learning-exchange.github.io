@@ -50,6 +50,7 @@
                     Total_PRs();
                     Total_Issues();
                     Merged_PRs();
+                    CountIssueComments();
                 })
                 .catch(function(error) {
                     console.log(error);
@@ -111,4 +112,52 @@
                 console.log(error);
             });
     }
+
+    // Function to count comments on issues by a user
+    function CountIssueComments() {
+    var url = "https://api.github.com/repos/open-learning-exchange/open-learning-exchange.github.io/issues?state=all&per_page=100";
+    var commentsCount = 0;
+    var page = 1;
+
+    // Recursive function to handle pagination
+    function fetchIssues(url) {
+        fetch(url)
+            .then(checkStatus)
+            .then((resp) => resp.json())
+            .then(function(data) {
+                data.forEach(issue => {
+                    fetch(issue.comments_url)
+                        .then(checkStatus)
+                        .then((resp) => resp.json())
+                        .then(function(comments) {
+                            comments.forEach(comment => {
+                                if (comment.user.login === user) {
+                                    commentsCount++;
+                                }
+                            });
+                        })
+                        .catch(function(error) {
+                            console.log(error);
+                        });
+                });
+
+                // Check if there are more pages
+                if (data.length === 100) {
+                    page++;
+                    var nextPageUrl = "https://api.github.com/repos/open-learning-exchange/open-learning-exchange.github.io/issues?state=all&per_page=100&page=" + page;
+                    fetchIssues(nextPageUrl);
+                } else {
+                    // Display the total comments count
+                    let p = document.createElement('p');
+                    p.innerHTML = "<strong>Number of Comments on Issues:<strong> " + commentsCount;
+                    res.appendChild(p);
+                }
+            })
+            .catch(function(error) {
+                console.log(error);
+            });
+    }
+
+    fetchIssues(url);
+}
 </script>
