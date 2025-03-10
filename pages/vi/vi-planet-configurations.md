@@ -58,7 +58,7 @@ Next, provide your own contact details as the community administrator.
 
 ![Contact Details](images/vi-contact-details.png)
 
-Click the **"Submit"** button to send your registration request for approval. You will see the following message:
+Take a screenshot in this page. Then click the **"Submit"** button to send your registration request for approval. You will see the following message:
 
 ![Community Accepted into the Nation](images/vi-registration-accepted.png)
 
