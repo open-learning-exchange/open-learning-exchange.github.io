@@ -86,5 +86,3 @@ Throughout planet, you will be able to give feedback on planet, courses, and mor
 ## Manager
 The Manager role comes with another set of administrative features. This includes viewing reports, syncing the community with the nation, and performing upgrades on the community. [Learn more about Manager.](manager.md)
 
-## Community
-The Community page allows you to connect with like-minded individuals to expand your knowledge and creativity. Here, you can check for new events, join ongoing ones, or create your own using our calendar feature. Please note that the Community* tab is only available within a community Planet.
