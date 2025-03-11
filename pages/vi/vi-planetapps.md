@@ -9,7 +9,7 @@
 
 ## Preparation
 
-Please go to http://localhost:3300 or run `docker container ls` in your Linux/macOS terminal or <!--Windows WSL Debian app / -->Git Bash to see if your community Planet is currently running. If not, please `cd` into `planet` directory created on your local machine and run `docker compose -f planet.yml -p planet start`.
+Please go to http://localhost:3300 or run `docker container ls` in your Linux/macOS/Windows terminal or <!--Windows WSL Debian app / -->Git Bash to see if your community Planet is currently running. If not, please `cd` into `planet` directory created on your local machine and run `docker compose -f planet.yml -p planet start`.
 
 Don’t forget to send a screenshot of your Planet community configurations from [the earlier step](vi-planet-configurations.md). If you forgot to take the screenshot, log in to Planet, click on "Manager Settings" (the person with a gear icon on the top bar), select "Configuration," take a screenshot of the page, and send it to the Discord server.
 
