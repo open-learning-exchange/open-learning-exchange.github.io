@@ -26,6 +26,8 @@ HTML, Java, Python, Reactjs, Nodejs, CSS
 
 Playing game, reading lightnovel, watching anime.
 
+---
+
 ## Contact
 
 * __LinkedIn:__ [LinkedIn](https://www.linkedin.com/in/bachbunp/)
