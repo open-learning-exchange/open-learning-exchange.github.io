@@ -13,7 +13,7 @@ Please go to http://localhost:3300 or run `docker container ls` in your Linux/ma
 
 Don’t forget to send a screenshot of your Planet community configurations from [the earlier step](vi-planet-configurations.md). If you forgot to take the screenshot, log in to Planet, click on "Manager Settings" (the person with a gear icon on the top bar), select "Configuration," take a screenshot of the page, and send it to the Discord server.
 
-![Clicking on "Manager"](images/edit-vi-nation-manager.png "Dashboard in your localhost")
+![Clicking on "Manager"](images/edit-vi-manager.png "Dashboard in your localhost")
 
 ## Watch Videos
 
