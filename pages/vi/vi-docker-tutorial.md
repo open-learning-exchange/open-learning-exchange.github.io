@@ -128,7 +128,7 @@ docker compose -p planet logs -f
 ```
 If you success you will see this screenshot  
 
-![screenshot show the sucessful docker](images/vi-add-docker.png)
+![screenshot show the sucessful docker](images/vi-docker.png)
 
 The services will be accessible on the following ports:
 
