@@ -37,7 +37,7 @@ For technical questions not covered in the FAQ, in addition to contacting us on 
 ## Step 0 - Introductory Steps
 **(Estimated Time: 1h)**
 
-Follow the instructions on [Software Interns Introductory Step](vi-intro-step.md).
+Follow the instructions on [Virtual Software Interns Introductory Step](vi-intro-step.md).
 
 ## Step 1 - GitHub, Markdown, and Forking Workflow
 **(Estimated Time: 1.5h)**

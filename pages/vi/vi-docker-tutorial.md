@@ -173,6 +173,16 @@ Example: planet.sh up       Start up the planet services for the first time in t
          planet.sh restart  Restart planet services.
          planet.sh down     Stop planet services and remove containers, networks, volumes, and images created.
 ```
+You can check the status of docker containers as follow:
+```plaintext
+Usage: bash planet.sh start
+```
+![Screenshot showing the containers are started](images/vi-docker-container-start.png)
+
+```plaintext
+Usage: bash planet.sh stop
+```
+![Screenshot showing the containers are stopped](images/vi-docker-container-stop.png)
 
 We suggest referring to the [Docker CLI reference](https://docs.docker.com/engine/reference/commandline/cli/) and the [Docker Compose CLI reference](https://docs.docker.com/compose/reference/) to learn more about their commands and usage.
 
