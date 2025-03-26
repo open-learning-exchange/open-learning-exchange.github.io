@@ -164,14 +164,14 @@ The **upstream repository** is the one we are contributing to.
 #### Configure the upstream repository to your fork
 
 1. `cd <YourUserName>.github.io.`
-2. `git remote -v` see above to make sure you are pushing and fetching to your own repository on GitHub as the origin
+2. `git remote -v` see above to make sure you are pushing and fetching to your own repository on GitHub as the origin([more info](https://git-scm.com/docs/git-checkout))
 3. `git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git`
 4. `git remote -v` origins should remain the same, but you should also be fetching and pushing to OLE as the upstream now
 
 #### Sync Your Fork
 
 1. `git fetch upstream` -  to fetch branches from the upstream repository ([more info](https://git-scm.com/docs/git-fetch))
-2. `git checkout master` - to checkout the `master` branch ([more info](https://git-scm.com/docs/git-checkout))
+2. `git checkout master` - to checkout the `master` branch ([more info](https://git-scm.com/docs/git-remote))
 3. `git show-branch` - to see branches and the changes made in them ([more info](https://git-scm.com/docs/git-show-branch))
 4. `git merge upstream/master` - You repository should now be synced to upstream/master ([more info](https://git-scm.com/docs/git-merge))
 
