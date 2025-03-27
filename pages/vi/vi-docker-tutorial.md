@@ -126,6 +126,9 @@ docker container ls -a
 # follow the log in action, press 'control+c' to exit the logs view
 docker compose -p planet logs -f
 ```
+If you succeed you will see this screenshot  
+
+![screenshot show the sucessful docker](images/vi-docker.png)
 
 The services will be accessible on the following ports:
 
