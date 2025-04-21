@@ -30,5 +30,5 @@ This string is currently compatible with only one language, English. To make the
 For example, write 
 `callback.onError(context.getString(R.string.planet_is_up_to_date)`, false) instead of: `callback.onError(“Planet is up to date”)`
 
-![string-translation](images/string-translation.png)
+![string-translation](images/string-translate.png)
 
