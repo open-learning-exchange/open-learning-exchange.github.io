@@ -23,7 +23,7 @@ This string is currently compatible with only one language, English. To make the
 `<string name="planet_is_up_to_date">Planet is up to date.</string>` appears on line 1252. The translations for the other five languages should also be placed on line 1252 in their respective files.
 
 ![eng-translation](images/eng-translation.png)
-![es-translation](images/es-translation.png)
+![es-translation](images/es-translation2.png)
 
 - After you finish the translation, use the translated string by adding this line: 
 `(context.getString(R.your_string_name)`
