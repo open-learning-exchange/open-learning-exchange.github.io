@@ -32,3 +32,6 @@ For example, write
 
 ![string-translation](images/string-translate.png)
 
+## Conclusion
+
+Ensuring that all user-facing strings are properly translated into the six supported languages is essential for maintaining accessibility and a consistent user experience across the MyPlanet Android application. By following the outlined process—adding each new string to all six `strings.xml` files at the correct line number and referencing them using `context.getString(R.string.key)`—we guarantee that the application remains fully localized and inclusive for all users. Maintaining this translation discipline as part of the development workflow will prevent language inconsistencies and improve usability across global communities.
