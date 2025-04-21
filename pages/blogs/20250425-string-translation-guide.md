@@ -22,5 +22,7 @@ This string is currently compatible with only one language, English. To make the
 - Make sure that the translations are on the same line number across all language files. For example, in English:
 `<string name="planet_is_up_to_date">Planet is up to date.</string>` appears on line 1252. The translations for the other five languages should also be placed on line 1252 in their respective files.
 
-![eng-translation](images/eng-translation.png)
-![es-translation](images/es-translation.png)
+<div style="display: flex; gap: 20px;">
+  <img src="images/eng-translation.png" alt="eng" width="300"/>
+  <img src="images/es-translation.png" alt="es" width="300"/>
+</div>
