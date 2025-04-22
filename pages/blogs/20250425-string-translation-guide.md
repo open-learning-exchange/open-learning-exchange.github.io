@@ -1,5 +1,5 @@
 # Translation Guide for MyPlanet
-April 25, 2025 • [huitk](https://github.com/huitk)
+April 22, 2025 • [huitk](https://github.com/huitk)
 
 In myPlanet Android Application, six languages are supported. It is important to ensure that all strings are translated into these six languages whenever new strings are added. The supported languages and their corresponding resource files are:
 
