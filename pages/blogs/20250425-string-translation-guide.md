@@ -32,10 +32,9 @@ For example, write
 
 ![string-translation](images/string-translate.png)
 
+****Note**
 
->**Note**
-
->When doing a peer review on GitHub, please refer to this Translation Guide and ensure that all translations follow the required format.
+    When doing a peer review on GitHub, please refer to this Translation Guide and ensure that all translations follow the required fomat.
 
 ## Conclusion
 
