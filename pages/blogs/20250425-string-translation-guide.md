@@ -34,7 +34,7 @@ For example, write
 
 ****Note**
 
-    When doing a peer review on GitHub, please refer to this Translation Guide and ensure that all translations follow the required fomat.
+    When doing a peer review on GitHub, please refer to this Translation Guide and ensure that all translations follow the required format.
 
 ## Conclusion
 
