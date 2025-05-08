@@ -106,8 +106,7 @@ Example checkout message:
 
 ## Thursday Testing Day
 
-On Thursdays we test the app. Since we spend most of the week testing our production environment, we use this opportunity to test the production server, which you created in [Step 3](https://open-learning-exchange.github.io/#!pages/vi/vi-first-steps.md#Step_3_-_Planet_and_Docker)
-. Make sure it is up to date:
+On Thursdays we test the app. Since we spend most of the week testing our production environment, we use this opportunity to test the production server, which you created in [Step 3](https://open-learning-exchange.github.io/#!pages/vi/vi-first-steps.md#Step_3_-_Planet_and_Docker). Make sure it is up to date:
 
 1. Log into your community, go to Manager Settings > Manage Sync  
 2. Click Run Sync, wait a few moments, and then click Refresh  
@@ -115,7 +114,7 @@ On Thursdays we test the app. Since we spend most of the week testing our produc
 
 A good place to start testing the app is by navigating to the [Tags page on GitHub](https://github.com/open-learning-exchange/planet/tags).
 
-See the Planet Discord channel where Mutugi posts the weekly test versions. Find last week’s test version, look at each tag that has been created since then, and confirm that the changes are working correctly.
+See the Planet Discord channel where Mutugi posts the weekly test versions. Test all the tags between the version jump, and confirm that the changes are working correctly.
 
 Spend some time looking around the app and create issues as you see fit. When in doubt, ask Mutugi if an issue you found is valid.
 
