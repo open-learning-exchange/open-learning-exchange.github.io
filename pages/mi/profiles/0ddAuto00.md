@@ -1,4 +1,4 @@
->> # Fady Zaky
+> # Fady Zaky
 
 | **Location** | Flagstaff, AZ |
 | ------ | ------ |
