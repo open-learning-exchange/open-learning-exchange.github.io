@@ -1,31 +1,30 @@
-# 🌟 About Me
+# 👨‍💻 Saksham Nayyar
 
-## 👤 Basic Information
-
-- **Name:** Saksham Nayyar  
-- **Location:** Fairfax, Virginia  
-- **Time Zone:** Eastern Time (ET)  
-- **Operating System:** Windows 11 (Version 24H2)
+> *“Engineer. Builder. Lifelong Learner.”*
 
 ---
 
-## ✍️ Who Am I?
+## 🌍 Location
 
-I'm a **Computer Science graduate ** from George Mason University, deeply passionate about Android development, system design, and building impactful products.  
-Previously, I worked at **Samsung Research** as a Software Engineer for 3 years.
-
----
-
-## 🚀 Skills & Interests
-
-- Android (Kotlin, Jetpack Compose, MVVM)
-- System Design & Architecture
-- NLP & Machine Learning
+📍 **Fairfax, VA (Eastern Time)**  
+💻 **Windows 11 (Version 24H2)**
 
 ---
 
-## 🌐 Online Profiles
+## 🔥 About Me
 
-- [LinkedIn](https://www.linkedin.com/in/sakshamnayyar/)
-- [GitHub](https://github.com/sakshamnayyar)
-- [LeetCode](https://leetcode.com/u/sakshamnayyar101/)
+Hey there! I’m **Saksham**, a **Computer Science Master's graduate** from George Mason University and a **former Software Engineer at Samsung Research**.
+
+I’m passionate about building things that *just work* — clean, scalable, and designed with intention. I bring 3+ years of experience shipping production-ready apps and solving real-world problems with thoughtful engineering.
+
+When I’m not coding, I’m either working out, meal-prepping, or doing side projects for fun and learning.
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+```kotlin
+val coreSkills = listOf(
+    "Kotlin", "Java", "Python", "Jetpack Compose", "MVVM", "Hilt", "LiveData",
+    "Retrofit", "Firebase", "Coroutines", "Flows", "Room"
+)
