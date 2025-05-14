@@ -23,8 +23,6 @@ When I’m not coding, I’m either working out, meal-prepping, or doing side pr
 
 ## 🛠️ Skills & Tech Stack
 
-```kotlin
-val coreSkills = listOf(
-    "Kotlin", "Java", "Python", "Jetpack Compose", "MVVM", "Hilt", "LiveData",
-    "Retrofit", "Firebase", "Coroutines", "Flows", "Room"
-)
+**Languages & Frameworks:** Kotlin, Java, Python  
+**Android:** Jetpack Compose, MVVM, Hilt, LiveData, Room, Retrofit, REST
+**Tools & Services:** Firebase, Coroutines, Flows, Git, Android Studio
