@@ -24,5 +24,5 @@ When I’m not coding, I’m either working out, meal-prepping, or doing side pr
 ## 🛠️ Skills & Tech Stack
 
 **Languages & Frameworks:** Kotlin, Java, Python  
-**Android:** Jetpack Compose, MVVM, Hilt, LiveData, Room, Retrofit, REST
+**Android:** Jetpack Compose, MVVM, Hilt, LiveData, Room, REST, Retrofit  
 **Tools & Services:** Firebase, Coroutines, Flows, Git, Android Studio
