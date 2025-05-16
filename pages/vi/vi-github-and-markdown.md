@@ -91,7 +91,7 @@ To create your profile file, follow these steps:
 3. Above the list of files, select the "Add file" dropdown menu, then click "Create new file".
 4. Name the file using `<YourUserName>` with the `.md` extension (e.g., `JohnDoe.md`). This ensures your profile is easy to find.
 
-In this new Markdown file, include the following information using a minimum of 5 Markdown elements and one of these elements needs to be a marked down:
+In this new Markdown file, include the following information using a minimum of 5 Markdown elements:
 
 - Your name, location/time zone, and OS (with version)
 - A brief description of yourself to help others get to know you.
@@ -110,7 +110,8 @@ To preview your changes rendered by MDwiki, use the following link, replacing `<
 Before proceeding to the next section, please:
 
 - ensure that everything looks as expected and works correctly with the raw.githack link.
-- verify you used at least **5 different** Markdown elements and **1 marked down element** in your profile
+- verify you used at least **5 different** Markdown elements
+  - Must use clickable **hyperlinks** to reference for example your portfolio or other social profiles. 
   - To use emojis in your profile, copy the actual emoji directly (e.g., '🐱' instead of ':emojicode:'). You can find and copy emojis from [emojipedia](https://emojipedia.org/).
   - Task lists are supported on GitHub but not on MDwiki. They may look correct on GitHub but not on MDwiki.
 
