@@ -110,7 +110,7 @@ To preview your changes rendered by MDwiki, use the following link, replacing `<
 Before proceeding to the next section, please:
 
 - ensure that everything looks as expected and works correctly with the raw.githack link.
-- verify you used at least **5 different** Markdown elements
+- verify you used at least **5 different** Markdown elements in your profile
   - Must use clickable **hyperlinks** to reference for example your portfolio or other social profiles. 
   - To use emojis in your profile, copy the actual emoji directly (e.g., '🐱' instead of ':emojicode:'). You can find and copy emojis from [emojipedia](https://emojipedia.org/).
   - Task lists are supported on GitHub but not on MDwiki. They may look correct on GitHub but not on MDwiki.
