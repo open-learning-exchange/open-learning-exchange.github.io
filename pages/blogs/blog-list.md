@@ -1,5 +1,6 @@
 # Blogs
 
+[String Translation Guide](20250425-string-translation-guide.md) on April 22 by huitk `(Guide to Transalting Strings for myPlanet)`
 [Navigating the Codebase](20240820-navigating-codebase.md) on August 20, 2024 by strawberrybread `(How to Navigate the Codebase for Issue Resolution)`
 [Roboscripts](20240820-roboscript.md) on August 20, 2024 by strawberrybread `(Guide to Roboscripts)`
 [Reading Error Logs](20240819-error-log.md) on August 19, 2024 by rlam20 `(Reading the error logs to resolve crashes)`
