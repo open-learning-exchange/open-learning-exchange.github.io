@@ -10,7 +10,7 @@ On the app's **Home Page**, locate the **Teams** tab highlighted in the screensh
 This tab gives you a quick view of the **Teams you have already joined** and allows you to navigate directly to your team spaces.
 
 <!-- ![Home Page Highlighting Teams Tab](images/teams-home-page.jpg) -->
-<img src="images/teams-home-page.jpg" alt="Description" height="300">
+<img src="images/teams-home-page.jpg" alt="Description" height="100">
 
 
 ---
@@ -21,7 +21,7 @@ You can also access the **Teams** feature through the **Sidebar menu**.
 Open the sidebar by swiping from the left or tapping the menu icon, and select the **Teams** option.
 
 <!-- ![Sidebar Highlighting Teams Option](images/teams-sidebar.jpg) -->
-<img src="images/teams-sidebar.jpg" alt="Description" height="300">
+<img src="images/teams-sidebar.jpg" alt="Description" height="100">
 
 ---
 
