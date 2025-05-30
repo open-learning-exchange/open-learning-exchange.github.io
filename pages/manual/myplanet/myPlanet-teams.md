@@ -1,28 +1,31 @@
-# 📚 Teams Feature Overview – myPlanet App
+# Teams Feature Overview – myPlanet App
 
 The **Teams** feature in the myPlanet app allows users to collaborate, communicate, and manage tasks with their teams directly from the app. This guide explains how to access, join, and use the Teams feature effectively.
 
 ---
 
-## 🏠 Home Page – Accessing Teams
+## Home Page – Accessing Teams
 
 On the app's **Home Page**, locate the **Teams** tab highlighted in the screenshot below.  
 This tab gives you a quick view of the **Teams you have already joined** and allows you to navigate directly to your team spaces.
 
-![Home Page Highlighting Teams Tab](images/teams-home-page.jpg)
+<!-- ![Home Page Highlighting Teams Tab](images/teams-home-page.jpg) -->
+<img src="images/teams-home-page.jpg" alt="Description" height="300">
+
 
 ---
 
-## 📂 Access Teams via Sidebar
+## Access Teams via Sidebar
 
 You can also access the **Teams** feature through the **Sidebar menu**.  
 Open the sidebar by swiping from the left or tapping the menu icon, and select the **Teams** option.
 
-![Sidebar Highlighting Teams Option](images/teams-sidebar.jpg)
+<!-- ![Sidebar Highlighting Teams Option](images/teams-sidebar.jpg) -->
+<img src="images/teams-sidebar.jpg" alt="Description" height="300">
 
 ---
 
-## 👥 Viewing and Joining Teams
+## Viewing and Joining Teams
 
 Tapping on the **Teams** tab or selecting it from the sidebar will take you to the **Teams List** page.  
 Here, you can:
@@ -35,7 +38,7 @@ Here, you can:
 
 ---
 
-## 🎉 Inside a Team – Exploring Options
+## Inside a Team – Exploring Options
 
 Once you've joined a team, you gain access to a rich set of collaboration tools within that team space, including:
 - **Chat**: Communicate with team members in real time.
@@ -52,7 +55,7 @@ Once you've joined a team, you gain access to a rich set of collaboration tools 
 
 ---
 
-## 📌 Summary
+## Summary
 The **Teams** feature in the myPlanet app provides a centralized hub for communication, planning, and resource sharing within your teams.  
 Use the **Teams tab** or **Sidebar** to explore available teams, and enjoy seamless collaboration after joining a team.
 
