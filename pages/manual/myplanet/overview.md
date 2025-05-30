@@ -67,6 +67,8 @@ Surveys are a way for the community to voice their opinions about a topic. Click
 
 ## Teams
 
+Teams are a way to collaborate, plan, and manage tasks with your groups. Learn more about Teams [here](myPlanet-teams.md).
+
 
 ## Enterprises
 
