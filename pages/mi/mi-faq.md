@@ -119,7 +119,7 @@ It's easy to lose sight of the ‘Big Picture’ when focused on individual task
 - [Docker Overview](https://docs.docker.com/engine/docker-overview/)
 - [Docker Compose](https://docs.docker.com/compose/overview/)
 - [Docker CLI Command](https://docs.docker.com/engine/reference/commandline/cli/)
-- [Docker Installation](http://open-learning-exchange.github.io/#!./pages/vi/vi-docker-installation.md)
+- [Docker Installation](https://open-learning-exchange.github.io/#!pages/vi/vi-docker-tutorial.md)
 
 #### *GitHub and Markdown*
 
@@ -131,7 +131,7 @@ It's easy to lose sight of the ‘Big Picture’ when focused on individual task
 
 * First Steps
     - [GitHub's Git Tutorial](https://try.github.io/)
-    - [Git-it Workshop](https://jlord.us/git-it/)
+    - [Git-it Workshop](https://jlord.computer/git-it/)
     - [Codecademy's Learn Git Course](https://www.codecademy.com/learn/learn-git)
 
 * Intermediate
@@ -154,13 +154,12 @@ It's easy to lose sight of the ‘Big Picture’ when focused on individual task
 
 #### *Planet*
 
-- [Configurations](https://open-learning-exchange.github.io/#!./pages/vi/vi-configurations-vagrant.md)
+- [Configurations](https://open-learning-exchange.github.io/#!pages/vi/vi-planet-configurations.md)
 - [General](https://open-learning-exchange.github.io/#!./pages/techgenius/tg-planet-user-manual.md)
-- [Installation](https://open-learning-exchange.github.io/#!./pages/vi/vi-planet-installation-vagrant.md)
 
 #### *Vi/Vim*
 
-- [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/sheets/vi_help_sheet.pdf)
+- [Vi Cheat Sheet (PDF)](https://www.shell-tips.com/cheat-sheets/vim-quick-references/vi_vim_cheat_sheet.pdf)
 - [VIM Adventures Game for beginners](https://vim-adventures.com/)
 - [Interactive Vim Tutorial](https://www.openvim.com)
 
@@ -171,8 +170,7 @@ It's easy to lose sight of the ‘Big Picture’ when focused on individual task
 #### *Vagrant*
 
 - [Vagrant Documentation](https://www.vagrantup.com/docs/getting-started/)
-- [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
-- [Vagrant Cheat Sheet (PDF)](https://linuxacademy.com/site-content/uploads/2017/12/vagrant-cheatsheet-Linux-Academy.pdf)
+- [Vagrant Cheat Sheet (PDF)](https://github.com/adrianopolpo/stat1400/blob/master/vagrant-cheatsheet-Linux-Academy.pdf)
 
 #### *HTML*
 - [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
@@ -201,11 +199,9 @@ It's easy to lose sight of the ‘Big Picture’ when focused on individual task
 
 ## Helpful Videos
 
-- [GitHub & Git Foundations (Playlist)](https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM)
-- [Shorter Git/GitHub Tutorial (Playlist)](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+- [Git/GitHub Tutorial (Playlist)](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Mastering Markdown (Playlist)](https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
 - [How to Manually Fix Git Merge Conflicts](https://www.youtube.com/watch?v=g8BRcB9NLp4) - Please note that this video will explain how to fix a merge conflict from the perspective of the repository owner who is trying to merge a pull request. However, it is also helpful when you need to resolve a merge conflict in your own local and forked repositories.
-- [How to Use VirtualBox](https://www.youtube.com/watch?v=Dbblu_HVROk)
 - [Vagrant Tutorial](https://www.youtube.com/watch?v=PmOMc4zfCSw)
 
 #### Return to [First Steps](mi-10-steps.md)
