@@ -62,6 +62,17 @@ Before you create your branch, sync your repository with the following commands 
    ```sh
    git push origin master
    ```
+   
+**Note:** If you encounter an error when running `git fetch upstream` (for example, `fatal: 'upstream' does not appear to be a git repository`), it means your upstream remote is not configured.  
+  
+ To fix this, run:  
+```sh
+git remote add upstream https://github.com/open-learning-exchange/open-learning-exchange.github.io.git
+```
+ Then retry:  
+```sh
+git fetch upstream
+```
 
 **ATTENTION**: From now on, for the rest of the First Steps, please use the command line to create branches and make commits instead of using GitHub’s web interface. This will give you valuable practice with common Git commands in your terminal, which is essential for working on real code that needs to be tested locally and can’t always be edited directly on GitHub.com.
 
