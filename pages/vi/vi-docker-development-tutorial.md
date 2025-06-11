@@ -53,7 +53,7 @@ Next, run `ng version` to check your Angular CLI version, look for `Angular CLI:
 
 ## Container Setup
 
-### Linux
+**Note**: For linux systems, you may need to run the commands with `sudo` if you encounter permission issues.
 
 1. Create a `planetdev` directory for the planet dev data:
 
