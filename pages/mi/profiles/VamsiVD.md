@@ -8,7 +8,7 @@
 ---
 ## 👋 About Me
 
-Hi I'm Vamsi, a student at University of South Florida majoring in Computer Science.
+Hi I'm Vamsi, a student at University of South Florida majoring in Computer Science.I believe technology isn’t just about what we can build — it's about how we can make life simpler, smarter, and just a little more fun.
 
 ## 🛠️ Tech Toolbox
 
