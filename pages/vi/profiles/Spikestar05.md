@@ -2,9 +2,9 @@
 
 Hi! I'm Harshavarthan Mathapati, a Computer Science undergraduate at The University of Texas at Dallas. I'm passionate about building impactful software, contributing to open-source projects, and helping others learn and grow in tech.
 
-| Location    | OS |
+| Location | OS |
 | -------- | ------- |
-| Dallas, TX  |  Windows 11 (26100.4061)   |
+| Dallas, TX | Windows 11 (26100.4061) |
 
 ## 🎯 Interests
 - **Software Engineering** – Building full-stack web apps and scalable backend systems
