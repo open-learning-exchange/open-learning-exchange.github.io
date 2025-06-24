@@ -80,12 +80,12 @@ Next, run `ng version` to check your Angular CLI version, look for `Angular CLI:
     depends_on:
       - couchdb
     ports:
-      - "5400:5400"
+      - "5xxx:5xxx"
     environment:
       - COUCHDB_HOST=http://couchdb:5984
       #- COUCHDB_USER=planet
       #- COUCHDB_PASS=planet
-      - SERVE_PORT=5400
+      - SERVE_PORT=5xxx
   db-init:
     image: treehouses/planet:db-init
     depends_on:
@@ -95,6 +95,8 @@ Next, run `ng version` to check your Angular CLI version, look for `Angular CLI:
       #- COUCHDB_USER=planet
       #- COUCHDB_PASS=planet
   ```
+
+**Note**: Replace `5xxx` with `5000` for Linux and `5400` for macOS/Windows. This is the port that the chatapi service will run on.
 
 3. Start the containers: `docker compose -f planet-dev.yml -p planet-dev up -d`
 4. After a minute, run `docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
@@ -180,7 +182,7 @@ Install dependecies and serve the app
 ||**production**|**development**|
 |---|--------------|---------------|
 | *planet* | 3300 | 3000 |
-| *chatapi* | 5050 | 5400 |
+| *chatapi* | 5050 | 5000 (5400 for mac/windows) |
 | *couchdb* | 2300 | 2200 |
 
 ---
