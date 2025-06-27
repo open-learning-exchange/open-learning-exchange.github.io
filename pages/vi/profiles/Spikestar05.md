@@ -22,4 +22,5 @@ Hi! I'm Harshavarthan Mathapati, a Computer Science undergraduate at The Univers
 Currently diving deeper into systems programming, software architecture, and contributing to open-source projects. I'm also exploring frontend design systems and improving UI/UX skills.
 
 ## 🌐 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshavarthan-mathapati/)  
+- [LinkedIn](https://www.linkedin.com/in/harshavarthan-mathapati/)
+- [GitHub](https://github.com/Spikestar05)
