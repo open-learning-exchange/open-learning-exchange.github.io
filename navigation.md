@@ -4,7 +4,7 @@
 
 # OLE Support
 
-[gimmick:theme (inverse: false)](cyborg)
+[gimmick:theme (inverse: false)](bootstrap)
 
 [Manual]() <!-- System Manual -->
 
