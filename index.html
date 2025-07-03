@@ -285,7 +285,7 @@ a("#md-body").css("margin-top",b+"px")}function d(){var b=0,d=a.md.util.repeatUn
 </head>
 <body>
     <button id="darkModeToggle"
-        style="position: fixed; top: 5.5px; right: 20px; z-index: 9999; border-radius: 100px; padding: 10px 10px; cursor: pointer; font-size: 18px; transition: all 0.3s ease;">
+        style="position: fixed; top: 6px; right: 60px; z-index: 9999; border-radius: 100px; padding: 10px 10px; cursor: pointer; font-size: 18px; transition: all 0.3s ease;border:none">
         <span id="toggleIcon">🌙</span>
     </button>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -308,9 +308,7 @@ a("#md-body").css("margin-top",b+"px")}function d(){var b=0,d=a.md.util.repeatUn
                     $body.addClass('dark-mode'); 
                     $navbar.removeClass('navbar-default').addClass('navbar-inverse');
                     $darkModeToggleBtn.css({
-                        'background-color': '#2d2d2d',
-                        'border-color': '#404040',
-                        'color': '#e4e4e4'
+                        'background-color': '#002f4a',
                     });
                     $toggleIcon.text('☀️');
                 } else {
@@ -318,9 +316,7 @@ a("#md-body").css("margin-top",b+"px")}function d(){var b=0,d=a.md.util.repeatUn
                     $body.removeClass('dark-mode');
                     $navbar.removeClass('navbar-inverse').addClass('navbar-default');
                     $darkModeToggleBtn.css({
-                        'background-color': '#f8f8f8',
-                        'border-color': '#ddd',
-                        'color': ''
+                        'background-color': '#2c3f51',
                     });
                     $toggleIcon.text('🌙');
                 }
@@ -342,7 +338,23 @@ a("#md-body").css("margin-top",b+"px")}function d(){var b=0,d=a.md.util.repeatUn
                 e.preventDefault();
                 setDarkMode(!$html.hasClass('dark-mode'));
             });
-        });
+            $darkModeToggleBtn.hover(
+            function () {
+                if ($html.hasClass('dark-mode')) {
+                    $(this).css('background-color', '#004a75'); 
+                } else {
+                    $(this).css('background-color', '#1A252E');
+                }
+            },
+            function () {
+                if ($html.hasClass('dark-mode')) {
+                    $(this).css('background-color', '#002f4a'); 
+                } else {
+                    $(this).css('background-color', '#2c3f51');
+                }
+            }
+        );
+    });
     </script>
     <noscript>
         This website requires Javascript to be enabled. Please turn on Javascript
