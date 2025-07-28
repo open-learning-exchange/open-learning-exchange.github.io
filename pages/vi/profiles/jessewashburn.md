@@ -4,7 +4,6 @@
 ------|-----------|-------
 Jesse Washburn | Eastern U.S | Windows 11 version 23H2 and Linux Mint 22.1 version 6.4.8
 
-
 ### About me:  
 
 Hi! My name is Jesse. I am a software engineer living in Baltimore, MD 🇺🇸, but I am originally from Pori, Finland.  🇫🇮 
