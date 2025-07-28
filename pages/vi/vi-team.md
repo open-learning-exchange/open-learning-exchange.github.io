@@ -10,10 +10,11 @@
 |[i5o](profiles/i5o.md) (**Ex-Intern Lead**)| 2017-03-08 |
 |[empeje](profiles/empeje.md) (**ex-intern**)| 2017-04-29 |
 |[inDepthh](profiles/inDepthh.md)|2018-11-12|
+|[jessewashburn](profiles/jessewashburn.md) (**Ex-Intern Lead**)|2024-10-12|
+
 |**➤ Interns**||
 |[Mutugiii](profiles/mutugiii.md)|2020-05-12|
 |[hiroTochigi](profiles/hiroTochigi.md)|2019-06-29|
-|[jessewashburn](profiles/jessewashburn.md)|2024-10-12|
 |[RheuX](profiles/RheuX.md)|2024-10-14|
 |[Gavinp14](profiles/Gavinp14.md)|2024-10-16|
 |[sahilvunnam](profiles/sahilvunnam.md)|2024-10-22|
