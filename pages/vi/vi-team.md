@@ -13,7 +13,7 @@
 |**➤ Interns**||
 |[Mutugiii](profiles/mutugiii.md)|2020-05-12|
 |[hiroTochigi](profiles/hiroTochigi.md)|2019-06-29|
-|[jessewashburn](profiles/jessewashburn.md) (**Ex-Intern Lead**)|2024-10-12|
+|[jessewashburn](profiles/jessewashburn.md)|2024-10-12|
 |[RheuX](profiles/RheuX.md)|2024-10-14|
 |[Gavinp14](profiles/Gavinp14.md)|2024-10-16|
 |[sahilvunnam](profiles/sahilvunnam.md)|2024-10-22|
