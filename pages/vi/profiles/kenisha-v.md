@@ -15,10 +15,14 @@ Hi, everyone! I'm a forth year computer science major at University of Californi
 - Pbsessed with playlists, films and coffee shop ambiance
 - Will absolutely forget to charge my laptop 🪦🪫
 
+
+Here's a picture I clicked with my film camera :) 
+![beach film 1](https://github.com/user-attachments/assets/5b5761fa-2277-480b-8e4c-69fe3c3941e6)
+
 ## 📇 Contact Info:
 
 |Github| [kenisha-v](https://github.com/kenisha-v) |
 |------|----------------------------------------|
-  
 
-  
+
+
