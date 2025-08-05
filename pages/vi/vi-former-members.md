@@ -131,3 +131,9 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[vinitnprabhu](profiles/vinitnprabhu.md)|2020-06-02| -- |
 |[avin-sharma](profiles/avin-sharma.md)|2020-06-22| -- |
 |[rheam97](profiles/rheam97.md)|2022-03-15| 2022-04-10 |
+|[lmmrssa](https://lmmrssa.github.io)| 2016-09-01 | -- |
+|[hiroTochigi](profiles/hiroTochigi.md)|2019-06-29| -- |
+|[RheuX](profiles/RheuX.md)|2024-10-14| -- |
+|[Gavinp14](profiles/Gavinp14.md)|2024-10-16| -- |
+|[sahilvunnam](profiles/sahilvunnam.md)|2024-10-22| -- |
+|[MunishPatel](profiles/munishpatel.md)|2025-03-13| -- |
