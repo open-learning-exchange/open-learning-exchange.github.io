@@ -9,8 +9,8 @@
 
 - **Stay Organized**: We recommend creating a dedicated directory on your desktop or user folder for your work at OLE, such as `~/Projects/ole/` or `~/Documents/ole/`. This keeps all your OLE-related repositories in one place for better organization and efficiency.
 - **RAM**: Ensure your machine has at least 8GB of RAM; 16GB is recommended for optimal performance.
-- **Storage Space**: Ensure your machine have at least a few GBs of free space on your computer before proceeding with the following steps.
-- **Package Manager**: We recommend you to get [Chocolatey](https://community.chocolatey.org/) for Windows and [Homebrew](https://brew.sh/) for macOS.
+- **Storage Space**: Ensure your machine has at least a few GBs of free space on your computer before proceeding with the following steps.
+- **Package Manager**: We recommend you get [Chocolatey](https://community.chocolatey.org/) for Windows and [Homebrew](https://brew.sh/) for macOS.
 
 <!--
 ## Windows Subsystem for Linux (WSL)
@@ -58,7 +58,7 @@ Try `git` in your terminal app to see if Git is already installed, if not:
   - This will install **Git Bash**, which you can find in your Windows Start menu.
   - **From now on, use Git Bash to run commands whenever appropriate.**
 
-For detailed instructions or alternative installation method, please go to [**Git - Downloads**](https://git-scm.com/downloads) and select your operating system.
+For detailed instructions or alternative installation methods, please go to [**Git - Downloads**](https://git-scm.com/downloads) and select your operating system.
 
 <!-- **NOTE: For Windows Users**, if you were able to install WSL, run commands in the Debian app from your Windows Start menu whenever possible. If WSL is not available to your Windows version, use Git Bash to run commands whenever appropriate. -->
 
@@ -66,19 +66,19 @@ For detailed instructions or alternative installation method, please go to [**Gi
 
 [Docker](https://www.docker.com) is a platform for developers and sysadmins to develop, deploy, and run applications with containers. The use of containers to deploy applications is called containerization. Containers are not new, but their use for easily deploying applications is.
 
-### Install Docker Desktop – macOS
+### **Install Docker Desktop – macOS**
 
 The easiest way to install Docker on macOS is by downloading Docker Desktop: `brew install --cask docker`
 
-For alternative installation method, please visit [**Docker Desktop**](https://www.docker.com/products/docker-desktop/).
+For alternative installation methods, please visit [**Docker Desktop**](https://www.docker.com/products/docker-desktop/).
 
 After installation, launch the Docker Desktop app.
 
-### Install Docker Engine – Linux
+### **Install Docker Engine – Linux**
 
 Go to [**Install Docker Engine | Docker Docs**](https://docs.docker.com/engine/install/#supported-platforms) and select your Operating System under Platform column, follow the "Prerequisites" section, then follow "Installation methods - Install using the xxx repository".
 
-### Install Docker Desktop – Windows
+### **Install Docker Desktop – Windows**
 
 #### Windows Subsystem for Linux (WSL)
 <!--
