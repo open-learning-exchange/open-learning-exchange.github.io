@@ -11,9 +11,14 @@ Hello! I'm **Saby**, a budding software developer from **Kansas City, USA (CST/U
 - ⚡ **Fun fact:** I love hiking and photography! 📸
 
 ## 🛠️ My Tech Stack
-- **Version Control:** Git & GitHub
-- **Operating Systems:** macOS, Windows
-- **Languages:** Starting with JavaScript and Python
+
+| Category          | Technologies & Tools                                                                    |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| **Languages**     | JavaScript, Python, HTML5, CSS3, Markdown                                               |
+| **Frameworks**    | Learning Angular & Node.js                                                               |
+| **Tools**         | Git, GitHub, VS Code, Discord, CouchDB                                                  |
+| **Operating Systems** | macOS, Windows                                                                       |
+| **Concepts**      | Agile Methodology, Open Source Contribution                                             |
 
 ## 🌐 Connect with Me
 - [![GitHub](https://img.shields.io/badge/GitHub-Saby--Bishops-181717?style=flat&logo=github)](https://github.com/Saby-Bishops)
