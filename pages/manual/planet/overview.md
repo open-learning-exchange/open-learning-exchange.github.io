@@ -72,7 +72,7 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
   * Each **Nation** serves as a central repository for the **Community** or a group of communities that it serves.
   * Different **Nations** cannot connect to each other. 
 
- ### Communities
+### Communities
   * A **Community** is a local installation of the Planet system.
   * A **Community** does not require an internet to access.
   * Users can connect to a **Community** using any device with access to a web browser, such as a tablet, computer, etc. The connection is established via a router through a locally configured _intranet_.
