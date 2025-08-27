@@ -3,9 +3,9 @@
 **Welcome to my personal MDwiki page!**
 
 ## About Me
-- **Name:** [Saniya]
+- **Name:** Saniya
 - **GitHub:** [Saby-Bishops](https://github.com/Saby-Bishops)
-- **Interests:** Basketball, Travelling, [Swimming]
+- **Interests:** Basketball, Travelling, Swimming
 
 ## My First Steps Progress
 I am currently working through the OLE Virtual Internship First Steps!
