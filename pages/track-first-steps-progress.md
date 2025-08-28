@@ -112,3 +112,13 @@
             });
     }
 </script>
+
+### Intern Progress Tracker
+
+*Add your name to the table below once you have at least 4 PRs and 4 Issues.*  
+*Please keep the table sorted alphabetically by Intern Name.*
+
+| Pull Request No. | Intern Name | GitHub Profile | PR Links | Docker | myPlanet | Nation Planet | Issues |
+| :---: | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
+| **Example:** 123 | **Example Student** | [@githubuser](https://github.com/githubuser) | [#123](https://github.com/open-learning-exchange/open-learning-exchange.github.io/pull/123) | ✅ | ✅ | ✅ | ✅ |
+| | | | | | | | |
