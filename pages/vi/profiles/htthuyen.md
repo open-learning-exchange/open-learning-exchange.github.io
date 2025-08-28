@@ -1,11 +1,9 @@
 # Huyen Huynh
-
 | 💙 Location | 🕐 Time Zone | 💻 OS |
 |------------|--------------|-------|
 |Dallas, TX  | CDT          | mac OS|
 
-
-
+&nbsp;
 ## 👧 *ABOUT ME*
 Hi, I'm Huyen 👋! Nice to meet you all here. Here are the few things about me
 - Coding is my passion. My favorite programming language is **Python**.
