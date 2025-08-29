@@ -1,3 +1,16 @@
+### Getting Started for New Admins
+
+After installing Planet, here are the first steps you should take:
+
+1.  **Log in:** Use the default administrator credentials:
+    -   **Username:** `admin`
+    -   **Password:** `admin`
+2.  **Change the password:** Immediately change the default admin password for security.
+3.  **Create a user:** Add your first user account under "Members".
+4.  **Explore:** Navigate through the "Manager Settings" to familiarize yourself with the options.
+
+---
+
 # Planet Learning
 
 ## About OLE
