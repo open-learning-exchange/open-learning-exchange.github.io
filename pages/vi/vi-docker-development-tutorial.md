@@ -159,6 +159,23 @@ Install dependecies and serve the app
   - **Note**: This step may take anywhere between 10 and 45 minutes. If the installation progress seems stuck, we recommend leaving it running in the background and checking back after 30 minutes to see if it has progressed. Once the installation is complete, it should display the total time taken. Please share how long it took for you in the `#vi-software` Discord channel.
 - `ng serve`, once it's done compiling, visit [localhost:3000](localhost:3000) to access the planet app.
   - if the default port `3000` is taken, specify another port, e.g. `ng serve --port 3001`
+
+### Initial Setup Steps for New Admins
+
+After your Planet development server is running, follow these steps to get started:
+
+1.  **Log in:** Open your browser and go to `http://localhost:3000`. Use the default administrator credentials:
+    -   **Username:** `planet`
+    -   **Password:** `planet`
+2.  **Change the password:** Immediately change the default admin password for security.
+3.  **Create a user:** Add your first user account under "Members".
+4.  **Explore:** Navigate through the "Manager Settings" to familiarize yourself with the options.
+
+**Note:** These steps are for the development server (port 3000). The production server uses port 3300 and may have different default credentials.
+
+---
+
+
 - Similarly to [Step 2.2 - Planet Configurations](vi-planet-configurations.md#Configure_Your_Planet_Community), you’ll need to configure a new planet community with a slightly modified name (e.g., `<YourUserName>dev`).
 - Take a screenshot of the new configuration page and post it in the `#vi-software` Discord channel.
 
