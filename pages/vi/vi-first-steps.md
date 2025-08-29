@@ -18,11 +18,11 @@ Social coding is a huge part of any open source and collaborative project, and t
 
 Take the opportunity to read more about the tools and languages we use to deepen your understanding and reduce confusion. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice in first steps are crucial for both this internship and a future career in software development.
 
-The MDwiki offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step. :)
+This handbook offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step. :)
 
 **We also would like you to keep us regularly updated in our Discord server's `#vi-software` channel as you complete these steps. We will ask you to send messages, links, and screenshots along the way, which we'll use to track your progress. Please make sure not to miss this, as it's crucial for us to track your work.**
 
-A significant part of these steps is identifying problems or suggesting improvements for this MDwiki. As you complete the steps, take note of any issues you encounter or ideas for enhancements. This helps improve the MDwiki and these steps for future interns.
+A significant part of these steps is identifying problems or suggesting improvements for this guide. As you complete the steps, take note of any issues you encounter or ideas for enhancements. This helps improve the guide and these steps for future interns.
 
 While there's no official deadline for completing these steps, most successful candidates finish them within 7-8 days. Good luck!
 
