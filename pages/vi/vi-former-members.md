@@ -137,3 +137,4 @@ To view the list of current members, go to [active members page](vi-team.md).
 |[Gavinp14](profiles/Gavinp14.md)|2024-10-16| -- |
 |[sahilvunnam](profiles/sahilvunnam.md)|2024-10-22| -- |
 |[MunishPatel](profiles/munishpatel.md)|2025-03-13| -- |
+|[3011089503](profiles/3011089503.md)|2025-03-30|2025-07-31|
