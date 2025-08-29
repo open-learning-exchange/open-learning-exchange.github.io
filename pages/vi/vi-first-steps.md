@@ -8,7 +8,7 @@ If you are selected for the internship after completing the steps, you will be o
 
 During this internship, you will have the opportunity to work with various software, tools, and technologies, including **[Git](https://git-scm.com/)**, **[GitHub](https://github.com/)**, **[Markdown](https://daringfireball.net/projects/markdown/)**, **[Command Line](https://www.codecademy.com/articles/command-line-commands)**, **[CouchDB](http://couchdb.apache.org/)**, **[Docker](https://www.docker.com/)**, **[HTML5](https://en.wikipedia.org/wiki/HTML5)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)**, **[Node.js](https://nodejs.org/en/)**, **[Angular](https://angular.io/)**, **[TypeScript](https://www.typescriptlang.org/)**, **[SCSS](https://sass-lang.com/)**, and **[Visual Studio Code](https://code.visualstudio.com/)**.
 
-**NOTE**: This is an unpaid, intensive internship requiring a minimum commitment of 24 hours per week for at least 3 months. Additional details about the internship can be found in our [FAQ](vi-faq.md#General_Internship_Questions). If you have further questions, feel free to ask in our Discord server!
+**NOTE**: This is an unpaid, intensive internship requiring a minimum commitment of 24 hours per week for at least 3 months. Additional details about the internship can be found in our [FAQ](vi-faq.md#General_Internship_Questions).
 
 ## The Steps
 
@@ -30,9 +30,7 @@ While there's no official deadline for completing these steps, most successful c
 
 **[Our FAQ page](vi-faq.md)** is a comprehensive resource containing answers to common questions about the internship and First Steps. It also features additional helpful links and video tutorials aimed at familiarizing you with the tools and languages integral to our work.
 
-If you have general internship inquiries and can't find the information you need on the FAQ page, please don't hesitate to reach out to us via Discord. Try to avoid DMs as others might have the same question!
-
-For technical questions not covered in the FAQ, in addition to contacting us on Discord, Google, Stack Exchange, and ChatGPT serve as excellent supplementary resources to explore. :)
+If you have general internship inquiries and can't find the information you need on the FAQ page, please don't hesitate to reach out to us via Discord. Try to avoid DMs as others might have the same question! Also Google, Stack Exchange, and ChatGPT serve as excellent supplementary resources to explore. :)
 
 ## Step 0 - Introductory Steps
 **(Estimated Time: 1h)**
