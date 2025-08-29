@@ -64,13 +64,25 @@ Planet makes it easy to track progress by providing:
 
 Under the Planet system, there are two types of structures: **Nations** and **Communities**.
 
-**Figure 1. Planet System Hierarchy Chart**  
-![Planet System Hierarchy Chart: shows organizational structure between Nations and Communities](images/planet-nations-tree.png)  
-*Source: OLE International*  
+<figure style="text-align: left; margin: 20px 0;">
+  <figcaption style="font-weight: bold; margin-bottom: 8px;">
+    Figure 1. Planet System Hierarchy Chart
+  </figcaption>
+  <img src="images/planet-nations-tree.png" alt="Planet System Hierarchy Chart: shows organizational structure between Nations and Communities" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 6px; padding: 4px;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 4px;">
+    Source: OLE International
+  </figcaption>
+</figure> 
 
-**Figure 2. Planet System Flow Chart**  
-![Planet System Flow Chart: illustrates how Nations and Communities interact](images/planet-nations-bubbles.png)  
-*Source: OLE International* 
+<figure style="text-align: left; margin: 20px 0;">
+  <figcaption style="font-weight: bold; margin-bottom: 8px;">
+    Figure 2. Planet System Flow Chart
+  </figcaption>
+  <img src="images/planet-nations-bubbles.png" alt="Planet System Flow Chart: illustrates how Nations and Communities interact" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 6px; padding: 4px;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 4px;">
+    Source: OLE International
+  </figcaption>
+</figure>
 
 ### Nations
   * **Nations** always exist in the cloud and require an internet connection to access.
@@ -100,9 +112,15 @@ To use **PLANET**, you need to be part of the system.
 
 When you are inside PLANET, you will see the following features:  
 
-**Figure 3. Planet Dashboard Example**  
-![Screenshot of the Planet Dashboard showing main navigation and features](images/planet-dashboard.png)  
-*Source: OLE International* 
+<figure style="text-align: left; margin: 20px 0;">
+  <figcaption style="font-weight: bold; margin-bottom: 8px;">
+    Figure 3. Planet Dashboard Example
+  </figcaption>
+  <img src="images/planet-dashboard.png" alt="Screenshot of the Planet Dashboard showing main navigation and features" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 6px; padding: 4px;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 4px;">
+    Source: OLE International
+  </figcaption>
+</figure>
 
 ## Community
 The **Community page** allows you to:  
