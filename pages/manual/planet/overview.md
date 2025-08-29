@@ -3,7 +3,7 @@
 ## About OLE – Building Open Learning Communities Worldwide
 
 ### Our Mission
-The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone—especially children—has access to **high-quality basic education**.  
+The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to **high-quality basic education**.  
 
 We collaborate with **community-based entrepreneurs, educators, and practitioners worldwide** to promote **effective and affordable learning systems for all**.  
 
@@ -39,7 +39,7 @@ It also provides software tools for:
 - Student evaluation and monitoring  
 - Course creation  
 
-At its core, **Planet is a repository of free, open access, and public domain resources** designed to support learners of all ages and backgrounds.  
+At its core, **Planet is a repository of free, open access, and public domain resources** designed to support learners of all ages and backgrounds.
 
 Resources include:
 - Subjects: **Literature, Health, Science, Math**, and more  
@@ -70,7 +70,7 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
 ### Nations
   * **Nations** always exist in the cloud and require an internet connection to access.
   * Each **Nation** serves as a central repository for the **Community** or a group of communities that it serves.
-  * Different **Nations** cannot connect to each other. 
+  * Different **Nations** cannot connect to each other.
 
 ### Communities
   * A **Community** is a local installation of the Planet system.
@@ -100,19 +100,18 @@ The **Community page** allows you to:
 - Expand your knowledge and creativity  
 - Check for new events, join ongoing ones, or create your own via the calendar feature  
 
-Note: The **Community tab** is only available within a local community Planet, not in the cloud.
+Note: The **Community tab** is only available within a local community Planet.
 
 ---
 
 ## myDashboard
-**This portion is under development.**  
-(The dashboard is where learners can track their courses, progress, and upcoming activities.)  
+The dashboard is where learners can track their courses, resources, teams/enterprises, and other general personal info.
 
 ---
 
 ## Library
 The **Library** is home to the community's collection of media and other resources.  
-You can explore materials in multiple subjects and formats (books, videos, documents).  
+You can explore materials in multiple subjects and formats (books, videos, audios, documents, games).  
 
 [Learn more about Library.](library.md)
 
@@ -137,7 +136,7 @@ The **Courses page** allows you to:
 ## Surveys
 The **Surveys** section allows you to:  
 - Create surveys  
-- Send them to others  
+- Send them to others
 - Collect feedback from learners and educators  
 
 [Learn more about Surveys.](survey.md)  
@@ -149,14 +148,15 @@ In the **Teams** section, you can:
 - Create and manage teams  
 - Communicate with team members  
 - Offer courses within your team  
-- Organize members for collaborative projects  
+- Organize members for collaborative activities  
 
 [Learn more about Teams.](teams.md)  
 
 ---
 
 ## Meetups
-The **Meetups** feature lets you:  
+**This feature is unmaintained**
+The **Meetups** feature lets you:
 - Create meetups  
 - Join existing meetups  
 - Coordinate community gatherings, workshops, or study groups  
