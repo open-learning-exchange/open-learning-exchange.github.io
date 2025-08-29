@@ -17,6 +17,6 @@ The Following stack is what I am into and what I am working on to improve 😊.
 
 
 
-[This is a link to my Github](github.com/emmanuelbaa)
+[This is a link to my Github](https://github.com/emmanuelbaa)
 
 Thank YOU!!!
