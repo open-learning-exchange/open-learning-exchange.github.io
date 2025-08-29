@@ -191,6 +191,26 @@ We suggest referring to the [Docker CLI reference](https://docs.docker.com/engin
 
 You can also use `docker --help` and `docker compose --help` to see brief usage instructions for other commands you might need. Additionally, running `docker COMMAND --help` or `docker compose COMMAND --help` provides detailed information about a specific command.
 
+### Troubleshooting
+
+#### "403 Forbidden" or "pull access denied" errors when pulling from ghcr.io
+
+Sometimes, pulling images from `ghcr.io` may fail with a `403 Forbidden` error. This is often due to network restrictions, firewalls, or geographical blocking.
+
+**Possible solutions:**
+- Use a VPN to change your network IP address.
+- Try using a different network connection (e.g., a mobile hotspot).
+- Ask for help in the `#vi-software` Discord channel.
+
+**Workaround:**
+If the issue persists, you can try using the Docker Hub image as an alternative:
+```yaml
+image: openlearningexchange/planet:6.0.0
+```
+
+---
+
+
 ## Useful Links
 
 - [What is a Container? | Docker](https://www.docker.com/resources/what-container/)
@@ -204,3 +224,4 @@ You can also use `docker --help` and `docker compose --help` to see brief usage 
 **→** Next: [Step 3.2 - Planet Configurations](vi-planet-configurations.md)
 
 Return to [First Steps](vi-first-steps.md#Step_3_-_Planet_and_Docker)
+
