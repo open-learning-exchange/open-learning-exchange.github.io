@@ -94,7 +94,7 @@ When you are inside PLANET, you will see the following features:
 
 ![Planet Dashboard](images/planet-dashboard.png)
 
-### Community
+## Community
 The **Community page** allows you to:  
 - Connect with like-minded individuals  
 - Expand your knowledge and creativity  
@@ -104,13 +104,13 @@ Note: The **Community tab** is only available within a local community Planet, n
 
 ---
 
-### myDashboard
+## myDashboard
 **This portion is under development.**  
 (The dashboard is where learners can track their courses, progress, and upcoming activities.)  
 
 ---
 
-### Library
+## Library
 The **Library** is home to the community's collection of media and other resources.  
 You can explore materials in multiple subjects and formats (books, videos, documents).  
 
@@ -118,7 +118,7 @@ You can explore materials in multiple subjects and formats (books, videos, docum
 
 ---
 
-### Courses
+## Courses
 The **Courses page** allows you to:  
 - Create courses  
 - Join existing courses  
@@ -128,13 +128,13 @@ The **Courses page** allows you to:
 
 ---
 
-### Exams
+## Exams
 **This portion is under development.**  
 (The Feature may allow learners to take exams within the system, and educators to create and grade assessments digitally.)  
 
 ---
 
-### Surveys
+## Surveys
 The **Surveys** section allows you to:  
 - Create surveys  
 - Send them to others  
@@ -144,7 +144,7 @@ The **Surveys** section allows you to:
 
 ---
 
-### Teams
+## Teams
 In the **Teams** section, you can:  
 - Create and manage teams  
 - Communicate with team members  
@@ -155,7 +155,7 @@ In the **Teams** section, you can:
 
 ---
 
-### Meetups
+## Meetups
 The **Meetups** feature lets you:  
 - Create meetups  
 - Join existing meetups  
@@ -165,7 +165,7 @@ The **Meetups** feature lets you:
 
 ---
 
-### News
+## News
 The **News section** is where you can:  
 - View posts made by users in your community  
 - Stay updated on local events and announcements  
@@ -174,7 +174,7 @@ The **News section** is where you can:
 
 ---
 
-### Achievement
+## Achievement
 The **Achievement section** allows you to:  
 - Add and display your achievements  
 - Showcase learning milestones within your profile  
@@ -183,7 +183,7 @@ The **Achievement section** allows you to:
 
 ---
 
-### Feedback
+## Feedback
 Throughout Planet, you will be able to give **feedback** on:  
 - The platform itself  
 - Courses  
@@ -194,7 +194,7 @@ Throughout Planet, you will be able to give **feedback** on:
 
 ---
 
-### Manager
+## Manager
 The **Manager role** comes with a set of administrative features, including:  
 - Viewing reports about usage and learning progress  
 - Syncing the community with the Nation (to update resources and upload data)  
