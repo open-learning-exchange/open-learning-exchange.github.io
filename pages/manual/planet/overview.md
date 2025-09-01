@@ -64,8 +64,25 @@ Planet makes it easy to track progress by providing:
 
 Under the Planet system, there are two types of structures: **Nations** and **Communities**.
 
-![Planet System Hierarchy Chart](images/planet-nations-tree.png)  
-![Planet System Flow Chart](images/planet-nations-bubbles.png)
+<figure>
+  <figcaption>
+    **Figure 1. Planet System Hierarchy Chart**
+  </figcaption>
+  <img src="images/planet-nations-tree.png" alt="Planet System Hierarchy Chart: shows organizational structure between Nations and Communities" style="max-width: 100%; height: auto;">
+  <figcaption>
+    <cite style="font-style: italic;">Source: OLE International</cite>
+  </figcaption>
+</figure>
+
+<figure>
+  <figcaption>
+    **Figure 2. Planet System Flow Chart**
+  </figcaption>
+  <img src="images/planet-nations-bubbles.png" alt="Planet System Flow Chart: illustrates how Nations and Communities interact"  style="max-width: 100%; height: auto;">
+  <figcaption>
+    <cite style="font-style: italic;">Source: OLE International</cite>
+  </figcaption>
+</figure>
 
 ### Nations
   * **Nations** always exist in the cloud and require an internet connection to access.
@@ -90,9 +107,20 @@ To be able to use **PLANET** you need to be part of the system. The first thing 
 
 ## Features of Planet
 
-When you are inside PLANET, you will see the following features:  
+When you are inside PLANET, you will see the following features: 
 
-![Planet Dashboard](images/planet-dashboard.png)
+<figure>
+  <figcaption>
+    **Figure 3. Planet Dashboard Example**
+  </figcaption>
+  <img src="images/planet-dashboard.png" alt="Screenshot of the Planet Dashboard showing main navigation and features" style="max-width: 100%; height: auto;">
+  <figcaption>
+    <cite style="font-style: italic;">Source: OLE International</cite>
+  </figcaption>
+</figure>
+
+ 
+The list of features along with  their exlantion is given below.
 
 ## Community
 The **Community page** allows you to:  
