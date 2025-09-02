@@ -5,7 +5,6 @@
 ### Our Mission
 The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to **high-quality basic education**.  
 
-
 <figure>
   <figcaption>Ole mission in Ghana (Katapor School Bell)</figcaption>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/A_4nPfBhgCE?si=lHtduHiKL9lJzPNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -34,8 +33,6 @@ Since 2007, OLE International has:
 - Supported affiliates in **Asia, Africa, the Middle East, and Latin America**
 
 ---
-
-
 
 ## Introduction
 
