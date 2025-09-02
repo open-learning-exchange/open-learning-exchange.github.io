@@ -162,17 +162,19 @@ Install dependecies and serve the app
 
 ### Initial Setup Steps for New Admins
 
-After your Planet development server is running, follow these steps to get started:
+After your development server is running, follow these steps to set up your admin account:
 
-1.  **Log in:** Open your browser and go to `http://localhost:3000`. Use the default administrator credentials:
-    -   **Username:** `planet`
-    -   **Password:** `planet`
-2.  **Change the password:** Immediately change the default admin password for security.
-3.  **Create a user:** Add your first user account under "Members".
-4.  **Explore:** Navigate through the "Manager Settings" to familiarize yourself with the options.
+#### 1. Configure CouchDB Credentials
+Before creating users, update your `planet-dev.yml` file:
+- Uncomment the `COUCHDB_USER` and `COUCHDB_PASS` environment variables in both `chatapi` and `db_init` services
+- Set the password to match what you'll use for your admin account
 
-**Note:** These steps are for the development server (port 3000). The production server uses port 3300 and may have different default credentials.
-
+Example:
+```yaml
+environment:
+  - COUCHDB_USER=admin
+  - COUCHDB_PASS=your_secure_password_here
+```
 ---
 
 
