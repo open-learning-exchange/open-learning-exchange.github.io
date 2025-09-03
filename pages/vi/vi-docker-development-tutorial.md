@@ -165,18 +165,19 @@ Install dependecies and serve the app
 After your development server is running, follow these steps to set up your admin account:
 
 #### 1. Configure CouchDB Credentials
-Before creating users, update your `planet-dev.yml` file:
+
+Before creating new users, update your `planet-dev.yml` file:
 - Uncomment the `COUCHDB_USER` and `COUCHDB_PASS` environment variables in both `chatapi` and `db_init` services
-- Set the password to match what you'll use for your admin account
+- Set the username & password to match the values you used with your admin account (if you used the default `planet`/ `planet`, keep those)
+- Restart your `planet_db_init` container with `docker restart <containerId>` or restart all the containers with the `docker compose -f planet-dev.yml up -d` command.
 
 Example:
 ```yaml
 environment:
-  - COUCHDB_USER=admin
-  - COUCHDB_PASS=your_secure_password_here
+  - COUCHDB_USER=planet
+  - COUCHDB_PASS=planet
 ```
 ---
-
 
 - Similarly to [Step 2.2 - Planet Configurations](vi-planet-configurations.md#Configure_Your_Planet_Community), you’ll need to configure a new planet community with a slightly modified name (e.g., `<YourUserName>dev`).
 - Take a screenshot of the new configuration page and post it in the `#vi-software` Discord channel.
