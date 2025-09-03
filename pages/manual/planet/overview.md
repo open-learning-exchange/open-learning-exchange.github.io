@@ -11,7 +11,7 @@ The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring 
   <figcaption>Source: OLE International YouTube</figcaption>
 </figure>
 
-OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts.  Today there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
+OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts. Today, there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
 
 We collaborate with **community-based entrepreneurs, educators, and practitioners worldwide** to promote **effective and affordable learning systems for all**.  
 
