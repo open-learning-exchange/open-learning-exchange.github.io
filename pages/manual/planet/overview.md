@@ -5,6 +5,14 @@
 ### Our Mission
 The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to **high-quality basic education**.  
 
+<figure>
+  <figcaption>Ole mission in Ghana (Katapor School Bell)</figcaption>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/A_4nPfBhgCE?si=lHtduHiKL9lJzPNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption>Source: OLE International YouTube</figcaption>
+</figure>
+
+OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts. Today, there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
+
 We collaborate with **community-based entrepreneurs, educators, and practitioners worldwide** to promote **effective and affordable learning systems for all**.  
 
 We believe this will lead to:
