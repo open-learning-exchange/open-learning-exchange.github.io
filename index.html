@@ -12,7 +12,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="fragment" content="!">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+    <link rel="stylesheet" href="mdwiki/extlib/css/darkmode.css">
     <meta charset="UTF-8">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>
+        
+        const docElem = document.documentElement;
+        const localStorageKey = 'mdwiki-dark-mode';
+
+        const savedDarkModePreference = localStorage.getItem(localStorageKey);
+        let shouldBeDark = false;
+
+        if (savedDarkModePreference === 'true') {
+            shouldBeDark = true;
+        } else if (savedDarkModePreference === null) {
+            
+            if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                shouldBeDark = true;
+            }
+        }
+
+        
+        if (shouldBeDark) {
+            docElem.classList.add('dark-mode');
+        }
+    </script>
     <style type="text/css">
     /* hide the main content while we assemble everything */
     .md-hidden-load { display: none; }
@@ -260,6 +284,78 @@ a("#md-body").css("margin-top",b+"px")}function d(){var b=0,d=a.md.util.repeatUn
 
 </head>
 <body>
+    <button id="darkModeToggle"
+        style="position: fixed; top: 6px; right: 60px; z-index: 9999; border-radius: 100px; padding: 10px 10px; cursor: pointer; font-size: 18px; transition: all 0.3s ease;border:none">
+        <span id="toggleIcon">🌙</span>
+    </button>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            var $html = $('html'); 
+            var $body = $('body'); 
+            var $navbar = $('#md-main-navbar');
+            var $darkModeToggleBtn = $('#darkModeToggle');
+            var $darkModeToggleNavbarLink = $('#darkModeToggleNavbar');
+            var $toggleIcon = $('#toggleIcon');
+            var localStorageKey = 'mdwiki-dark-mode';
+
+            
+            function setDarkMode(isDark) {
+                
+                if (isDark) {
+                    $html.addClass('dark-mode');
+                    $body.addClass('dark-mode'); 
+                    $navbar.removeClass('navbar-default').addClass('navbar-inverse');
+                    $darkModeToggleBtn.css({
+                        'background-color': '#002f4a',
+                    });
+                    $toggleIcon.text('☀️');
+                } else {
+                    $html.removeClass('dark-mode');
+                    $body.removeClass('dark-mode');
+                    $navbar.removeClass('navbar-inverse').addClass('navbar-default');
+                    $darkModeToggleBtn.css({
+                        'background-color': '#2c3f51',
+                    });
+                    $toggleIcon.text('🌙');
+                }
+                localStorage.setItem(localStorageKey, isDark);
+            }
+
+
+
+            var initialIsDark = $html.hasClass('dark-mode');
+            setDarkMode(initialIsDark); 
+
+            $darkModeToggleBtn.on('click', function () {
+
+                setDarkMode(!$html.hasClass('dark-mode'));
+            });
+
+
+            $darkModeToggleNavbarLink.on('click', function (e) {
+                e.preventDefault();
+                setDarkMode(!$html.hasClass('dark-mode'));
+            });
+            $darkModeToggleBtn.hover(
+            function () {
+                if ($html.hasClass('dark-mode')) {
+                    $(this).css('background-color', '#004a75'); 
+                } else {
+                    $(this).css('background-color', '#1A252E');
+                }
+            },
+            function () {
+                if ($html.hasClass('dark-mode')) {
+                    $(this).css('background-color', '#002f4a'); 
+                } else {
+                    $(this).css('background-color', '#2c3f51');
+                }
+            }
+        );
+    });
+    </script>
     <noscript>
         This website requires Javascript to be enabled. Please turn on Javascript
         and reload the page.
