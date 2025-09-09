@@ -203,13 +203,7 @@ You will need to make **at least one comment** on an issue you did **not** creat
 - Browse some recent issues and leave a comment on those where you can provide *meaningful and useful feedback*.
 - Under "Add a comment", write your comment with Markdown syntax if necessary, click on the "Preview" tab to review, and click the "Comment" button.
 
-## 9. Useful Links
-
-- [Quickstart for GitHub Issues | GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
-- [FAQ - Helpful Links and Videos](vi-faq.md#Helpful_Links)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-
-## 10. Track Your Progress
+## 9. Track Your Progress
 
 - Once you complete Step 6 you will have:
   - 2 pull requests made (one at step 3 and one at step 6)
@@ -219,6 +213,11 @@ You will need to make **at least one comment** on an issue you did **not** creat
 **Hint**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ---
+
+## Resources
+- [Quickstart for GitHub Issues | GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
+- [FAQ - Helpful Links and Videos](vi-faq.md#Helpful_Links)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 **→** Next: [Step 7 - Nation Planet](vi-nation.md)
 

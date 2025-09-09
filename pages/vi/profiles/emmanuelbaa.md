@@ -1,42 +1,22 @@
-# 👨‍🦰 Hey there, I'm **Emmanuel Baah**
----
-> 🎨 *Creative Technologist* • 💻 *Software Developer* • 🎓 *Virginia Tech*
+## My Biography
+### Emmanuel Baah
+![Town of Blacksburg](https://northernvirginiamag.com/wp-content/uploads/2023/08/Blacksburg.jpg)
+- Location: Blacksburg, Virginia
+- Time Zone: Eastern
+- OS(with Version): Windows 11
 
----
+I am a recent graduate from Virginia Tech with a Masters degree in Creative Technologies and Software Development.
+The Following stack is what I am into and what I am working on to improve 😊.
 
-## 🌍 Location & System Info  
-- 🏠 **Home**: Blacksburg, VA  
-- ⏰ **Timezone**: Eastern (EST)  
-- 💻 **Operating System**: Windows  
+| HTML | CSS | JavaScript |
+|---|---|---|
+| React | React Native | Java |
+| Python | C# | Database Management Systems |
+| Node.js | EJS | Next.js |
+| Git | GitHub |  |
 
----
 
-## 👌 About Me  
 
-Hi everyone! 👋  
-I’m **Emmanuel Baah**, a passionate **Creative Technologist** and **Software Developer** from **Virginia Tech**.  
-I enjoy blending **technology + creativity** to **solve real-world problems** and build meaningful digital experiences.  
+[This is a link to my Github](https://github.com/emmanuelbaa)
 
-### ✨ My Hobbies & Interests  
-- 🎮 **Gaming** (PC/Console)  
-- 🍳 **Cooking & Food Experiments**  
-- 🎥 **Movies & Storytelling**  
-- 🕺 **Dancing to good vibes**  
-
----
-
-## 📫 Connect With Me  
-
-| 📢 **Contact** | 🔗 **Link** |
-|----------------|-------------|
-| ✉️ **Email**   | <emmanuelb@vt.edu> |
-| 🐙 **GitHub**  | [**Visit My GitHub**](https://github.com/emmanuelbaa "Check out my projects!") |
-
----
-
-## 🛠️ Tech Toolbox  
-Here are some tools and technologies I frequently use:  
-
-- 💻 **Languages**:  HTML • CSS • JavaScript  • Java • C#
-- ⚙️ **Frameworks**: React • Node.js • Unity  
-- 🧰 **Tools**: Git • Docker • VS Code • Figma  
+Thank YOU!!!
