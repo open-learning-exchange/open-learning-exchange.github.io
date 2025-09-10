@@ -20,5 +20,6 @@
 |[MunishPatel](profiles/munishpatel.md)|2025-03-13|
 |[3011089503](profiles/3011089503.md)|2025-3-30|
 |[Saby-Bishops](profiles/saby-bishops.md)|2025-09-03|
+
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
