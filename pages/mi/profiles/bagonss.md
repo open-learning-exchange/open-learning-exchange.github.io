@@ -10,8 +10,8 @@ About Me
 * Recently graduated from Kennesaw State University with a Bachelor of Science degree in Computer Science
 * When I am not coding, I like to listen to music, play video games, and repair hardware
   
-  Languages: Python, JavaScript, HTML, CSS, Flutter
-  Framework Tools: Firebase, Git, Android Studio
+  *Languages: Python, JavaScript, HTML, CSS, Flutter
+  *Framework Tools: Firebase, Git, Android Studio
   
 
 Connect With Me Here:
