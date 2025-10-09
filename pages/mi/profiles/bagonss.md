@@ -14,7 +14,7 @@ About Me
 - **Framework Tools:** Firebase, Git, Android Studio
   
 
-Connect With Me Here:
+Find Me On:
 -----------
 * [Portfolio](https://bagonss.github.io/TobiPortfolio/)
 * [LinkedIn](https://www.linkedin.com/in/oluwatobi-samaye/)
