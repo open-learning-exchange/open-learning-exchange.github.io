@@ -9,7 +9,7 @@ About Me
 ---------
 * Recently graduated from Kennesaw State University with a Bachelor of Science degree in Computer Science
 * An inspiring developer with a drive to create user-friendly mobile and web applications 
-* When I am not coding, I like to listen to music, play video games, and repair hardware
+* When I am not coding, I like to listen to music, play video games, repair hardware, and play sports 🎮⚽🎵
   
 - **Languages:** Python, JavaScript, HTML, CSS, Flutter
 - **Framework Tools:** Firebase, Git, Android Studio
