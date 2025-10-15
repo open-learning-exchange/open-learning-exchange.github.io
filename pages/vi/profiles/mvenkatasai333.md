@@ -1,28 +1,43 @@
+---
+# ** welcome to my profile **
+---
 # Venkata sai 
 
-# Location: Bentonville, AR
-# timezone: Central time zone (UTC -6)
-# OS- Windows 11
+ **Location** Bentonville, AR
+ **timezone** Central time zone (UTC -6)
+ **OS** Windows 11
 
+ ---
 # About me 
 Hi everyone, I'm Venkata sai Makani, currently pursuing my master's at the University of Cumberlands, KY.
-Previously worked at Great American as a Developer.
+Previously worked at Great American as a Jr Developer.
+I'm passionate about learning new things 
+
+---
 
 # Tech skills
-Aws
-Docker 
-Linux
-Git/Github 
+|Cloud    |  AWS         |
+|---------|--------------|
+|Language |Python        |
+|---------|--------------|
+|OS       |Windows, Linux|
 
+---
 
-# Interest 
- playing Chess 
- Listening Music 
- Cricket 
+##Interest 
+ -playing Chess 
+ -Listening to Music 
+ -Playing Cricket 
+
+ ---
  
 # Contact 
-Github:https://github.com/MVSAI2015
-Email:mvsai321@gmail.com
+- Github:https://github.com/mvenkatasai333
+- Email:mvsai321@gmail.com
+
+---
+
+
 
 
 
