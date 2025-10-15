@@ -33,15 +33,16 @@
 
  ---
  #### Nature & Travel 
-I enjoy hiking and exploring National Parks. Click the image to explore the National Park Service website!
 
-<a href="https://www.nps.gov/index.htm">
+#### Nature & Travel 
+I enjoy hiking and exploring National Parks. Click my photo to see the high-resolution version!
+
+
   <img 
-    src="https://images.unsplash.com/photo-1444465598739-166c3038c7f9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-    alt="Forest Path in Autumn" 
+    src="https://github.com/mvenkatasai333/mvenkatasai333.github.io/blob/add-venkata-profile/image/Bear%20lake.jpg" 
+    alt="My photo of Bear Lake" 
     width="250" 
   />
-</a>
 
  ---
  
