@@ -20,9 +20,7 @@
 |category |Skills        |
 |---------|--------------|
 |Cloud    |  AWS         |
-|---------|--------------|
 |Language |Python        |
-|---------|--------------|
 |OS       |Windows, Linux|
 
 ---
