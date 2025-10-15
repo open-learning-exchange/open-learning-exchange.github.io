@@ -9,13 +9,16 @@
 
  ---
 # About me 
-Hi everyone, I'm Venkata sai Makani, currently pursuing my master's at the University of Cumberlands, KY.
-Previously worked at Great American as a Jr Developer.
-I'm passionate about learning new things 
+- Hi everyone, I'm Venkata sai Makani, currently pursuing my master's at the University of Cumberlands, KY.
+- Previously worked at Great American as a Jr Developer.
+- I'm passionate about learning new things 
 
 ---
 
 # Tech skills
+
+|category |Skills        |
+|---------|--------------|
 |Cloud    |  AWS         |
 |---------|--------------|
 |Language |Python        |
@@ -24,10 +27,10 @@ I'm passionate about learning new things
 
 ---
 
-##Interest 
- -playing Chess 
- -Listening to Music 
- -Playing Cricket 
+# Interest 
+ - playing Chess 
+ - Listening to Music 
+ - Playing Cricket 
 
  ---
  
