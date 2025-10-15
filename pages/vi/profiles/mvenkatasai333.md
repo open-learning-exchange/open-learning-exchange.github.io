@@ -33,10 +33,7 @@
 
  ---
  #### Nature & Travel 
-
-#### Nature & Travel 
 I enjoy hiking and exploring National Parks. Click my photo to see the high-resolution version!
-
 
   <img 
       src="https://raw.githack.com/mvenkatasai333/mvenkatasai333.github.io/add-venkata-profile/image/Bear%20lake.jpg" 
