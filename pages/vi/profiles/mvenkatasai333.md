@@ -39,7 +39,7 @@ I enjoy hiking and exploring National Parks. Click my photo to see the high-reso
 
 
   <img 
-    src="https://github.com/mvenkatasai333/mvenkatasai333.github.io/blob/add-venkata-profile/image/Bear%20lake.jpg" 
+      src="https://raw.githack.com/mvenkatasai333/mvenkatasai333.github.io/add-venkata-profile/image/Bear%20lake.jpg" 
     alt="My photo of Bear Lake" 
     width="250" 
   />
