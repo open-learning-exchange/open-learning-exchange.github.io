@@ -3,9 +3,9 @@
 ---
 # Venkata sai 
 
- **Location** Bentonville, AR
- **timezone** Central time zone (UTC -6)
- **OS** Windows 11
+ - **Location** Bentonville, AR
+ - **timezone** Central time zone (UTC -6)
+ - **OS** Windows 11
 
  ---
 # About me 
