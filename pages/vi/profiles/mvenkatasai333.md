@@ -26,10 +26,22 @@
 
 ---
 
-# Interest 
+# Interests and Hobbies  
  - Playing Chess 
  - Listening to Music 
  - Playing Cricket 
+
+ ---
+ #### Nature & Travel 
+I enjoy hiking and exploring National Parks. Click the image to explore the National Park Service website!
+
+<a href="https://www.nps.gov/index.htm">
+  <img 
+    src="https://images.unsplash.com/photo-1444465598739-166c3038c7f9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    alt="Forest Path in Autumn" 
+    width="250" 
+  />
+</a>
 
  ---
  
@@ -39,8 +51,4 @@
 - https://www.youtube.com/@RoVenkii
 
 ---
-
-
-
-
 
