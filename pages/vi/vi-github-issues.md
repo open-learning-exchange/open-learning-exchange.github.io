@@ -110,17 +110,18 @@ Use the following commands to commit and push your changes:
    ```
 
 2. Display file(s) changes:
-   - To show specific file(s) change:
+   - To check specific unstaged file(s) change:
 
      ```sh
      git diff <file1> <file2> <file3>...
      ```
-
-   - To show all file(s) change:
-
+   - To check all unstaged file(s) change: 
      ```sh
      git diff
-
+     ```
+   - To check all staged file(s) changes (the changes are ready for commit): 
+     ```sh
+     git diff --staged
      ```
 
    Verify the changes you made, then proceed to the next step. To understand `git diff` output, checkout [Git Diff | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-diff).
