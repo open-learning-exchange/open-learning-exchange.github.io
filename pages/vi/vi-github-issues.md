@@ -116,9 +116,10 @@ Use the following commands to commit and push your changes:
      git diff <file1> <file2> <file3>...
      ```
    - To check all unstaged file(s) change: 
-     '''sh
+     ```sh
      git diff
-     '''
+     ```
+
    - To check all staged file(s) change(the changed are ready for commit): 
      ```sh
      git diff --staged
