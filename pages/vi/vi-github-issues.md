@@ -119,7 +119,7 @@ Use the following commands to commit and push your changes:
      ```sh
      git diff
      ```
-   - To check all staged file(s) change(the changed are ready for commit): 
+   - To check all staged file(s) changes (the changes are ready for commit): 
      ```sh
      git diff --staged
      ```
