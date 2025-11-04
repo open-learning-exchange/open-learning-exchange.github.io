@@ -19,7 +19,18 @@ NOTE: Issues are not just about adding new content or improving this MDwiki; the
 
 ## 3. Create an Issue
 
-If you've noticed an area for improvement in the Mobile Intern First Steps, let's address it. If not, please look around to find an issue. Begin by checking [existing issues labeled with `mi`, both open and closed](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue+label%3Ami), to ensure it hasn't been raised before or addressed. If it hasn't, let's create a new issue:
+If you've noticed an area for improvement in the Mobile Intern First Steps, let's address it. If not, please look around to find an issue. Begin by checking [existing issues labeled with `mi`, both open and closed](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues?q=is%3Aissue+label%3Ami), to ensure it hasn't been raised before or addressed.
+
+**How to Filter the `mi` label**
+
+1. Go to the repository’s **Issues** tab.
+2. In the filter/search box at the top, type:
+   `is:issue is:open label:mi`
+3. Then change `open` to `closed` to see past MI issues.
+
+![Example of filtering MI issues](image/mi-github-example.png)
+
+ If it hasn't, let's create a new issue:
 
 - Go to the [Issues tab of the upstream repository](https://github.com/open-learning-exchange/open-learning-exchange.github.io/issues) and select "New Issue." Select the "Get started" button next to "First Steps - Mobile Virtual Intern."
     1. Craft a succinct, descriptive title.
