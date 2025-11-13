@@ -10,4 +10,4 @@
 
 * Blog - [JackTheSparow](https://jackthesparow.github.io/)
 
-![Captain Jack Sparow](pages/vi/images/jack-sparow.png)
+![Jack Sparow Image](/pages/vi/images/jack-sparow.png)
