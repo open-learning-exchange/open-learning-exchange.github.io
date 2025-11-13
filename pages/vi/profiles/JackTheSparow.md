@@ -1,7 +1,13 @@
-Name - JackTheSparow
+### Profile
 
-Location - Washington DC, US
+* Name - JackTheSparow 🏴‍☠️
 
-OS - Windows 11
+* Location - Washington DC, US
 
-Description - Cybersecurity and AI Enthusiast
+* OS - Windows 11
+
+* Description - Cybersecurity and AI Enthusiast
+
+* Blog - [JackTheSparow](https://jackthesparow.github.io/)
+
+![Captain Jack Sparow](pages/vi/images/jack-sparow.png)
