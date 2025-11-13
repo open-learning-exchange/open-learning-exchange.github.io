@@ -17,7 +17,7 @@ Don’t forget to send a screenshot of your Planet community configurations from
 
 ## Watch Videos
 
-Watch the following videos to learn the basic functions of your Planet. While they were created some years ago using the old BeLL system, they still provide a good introduction:
+Watch the following videos to learn the basic functions of your Planet. These videos were created using the older BeLL system, but the core functionality and interface concepts remain similar to Planet and provide a good introduction to the following topics:
 
 - [My Dashboard](movies/vi-mydashboard.mp4)
 - [Library](movies/vi-library.mp4)
