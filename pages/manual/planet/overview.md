@@ -164,8 +164,7 @@ The **Courses page** allows you to:
 ---
 
 ## Exams
-**This portion is under development.**  
-(The Feature may allow learners to take exams within the system, and educators to create and grade assessments digitally.)  
+**This portion is under development.**    
 
 ---
 
@@ -192,10 +191,7 @@ In the **Teams** section, you can:
 
 ## Meetups
 **This feature is unmaintained**
-The **Meetups** feature lets you:
-- Create meetups  
-- Join existing meetups  
-- Coordinate community gatherings, workshops, or study groups  
+  
 
 [Learn more about Meetups.](meetup.md)  
 
