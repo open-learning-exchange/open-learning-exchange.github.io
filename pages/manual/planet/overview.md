@@ -164,14 +164,16 @@ The **Courses page** allows you to:
 ---
 
 ## Exams
-The Exams functionality is now integrated with the Surveys feature (community surveys in the manager dashboard) and Course Tests. It is used to create and track digital assessments.  
+The Exams feature provides a unified way to create, deliver, and track assessments across the platform. It supports two main use-cases:
+- Course-linked tests: structured exams tied directly to a course.
+- Surveys: flexible questionnaires that can be used either inside courses or independently for general or team surveys.
 
-(The Feature may allow learners to take exams within the system, and educators to create and grade assessments digitally.)  
+(This feature allows learners to take assessments digitally and gives educators tools to create, assign, and review them in one place.)
 
 ---
 
 ## Surveys
-The **Surveys** section allows you to:  
+The **Surveys** section is a simplified interface built on top of the Exams system. It allows to:  
 - Create surveys  
 - Send them to others
 - Collect feedback from learners and educators  
