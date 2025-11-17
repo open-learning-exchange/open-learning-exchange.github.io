@@ -164,7 +164,8 @@ The **Courses page** allows you to:
 ---
 
 ## Exams
-**This portion is under development.**  
+The Exams functionality is now integrated with the Surveys feature (community surveys in the manager dashboard) and Course Tests. It is used to create and track digital assessments.  
+
 (The Feature may allow learners to take exams within the system, and educators to create and grade assessments digitally.)  
 
 ---
