@@ -37,7 +37,7 @@ Since 2007, OLE International has:
 ## Introduction
 
 ### What is the OLE Planet Learning System (Planet)?
-**Planet** (Personalized Learning And Network-Enabled Teams) is a **multilingual learning system and library** with thousands of educational resources, including:
+**PLANET** (Personalized Learning and Network-Enabled Teams) is a **multilingual learning system and library** with thousands of educational resources, including:
 - Books  
 - Videos  
 - Educational games  
