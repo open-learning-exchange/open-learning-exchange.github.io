@@ -84,7 +84,7 @@ Finally, post the screenshot you took earlier to [our Discord server's #vi-softw
 
 1. **Account Not Recognized After Approval**
 
-   After your account is approved, the website might not recognize your registration, resulting in an infinite loading screen. Refreshing the page could leave it blank. To resolve this issue, follow the steps in the "Starting Over" section below.
+   After an administrator approves your account, the system may not register the update immediately, causing an infinite loading screen. Refreshing may display a blank page. If this occurs, follow the steps in the "Starting Over" section below.
 
    ![Not recognized](https://user-images.githubusercontent.com/22685147/58755806-bb6fe700-84b9-11e9-8a27-d3e3ab56ffba.png)
 
