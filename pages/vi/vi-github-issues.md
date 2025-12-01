@@ -81,7 +81,7 @@ Before you create your branch, sync your repository with the following commands 
 
 More documentation on `git checkout` can be found [here](https://git-scm.com/docs/git-checkout).
 
-Now you can go and make the proposed changes to your local files using any text editor you prefer. You can also use VIM or Nano to edit files from the terminal. [This guide on VIM](https://www.vim.org/docs.php ) and [this guide on Nano](https://www.nano-editor.org/docs.php) contain more information on their proper usage. In the future, we recommend you use  [Visual Studio Code](https://code.visualstudio.com/) for Planet, VIM for treehouse, and [Android Studio](https://developer.android.com/studio) for Android development.
+Now you can go and make the proposed changes to your local files using any text editor you prefer. You can also use [VIM](https://www.vim.org/docs.php) or [Nano](https://www.nano-editor.org/docs.php) to edit files from the terminal. In the future, we recommend you use  [Visual Studio Code](https://code.visualstudio.com/) for Planet, VIM for treehouse, and [Android Studio](https://developer.android.com/studio) for Android development.
 
 NOTE: Use `git branch` to see which branch you are in. Your `master` branch is the base working branch. It needs to remain untouched just in case you need to revert some changes back to a working version. Make sure you are on right branch using `git checkout <branch-name>` while making proposed changes to your local files and while committing.
 
