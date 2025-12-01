@@ -12,25 +12,32 @@ During this internship, you will have the opportunity to work with various softw
 
 ## The Steps
 
-Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Docker, Git, GitHub, GitHub issues, GitHub pull requests, etc. You'll also be introduced to OLE's learning management system (LMS) – [Planet](https://github.com/open-learning-exchange/planet).
+Social coding is a huge part of any open source and collaborative project, and Open Learning Exchange (OLE) is no different. Throughout the following steps, you will learn Markdown, Docker, Git, GitHub (issues, pull requests, etc.), and OLE's learning management system (LMS) – [Planet](https://github.com/open-learning-exchange/planet).
 
-**These steps may seem simple, but we expect high-quality work, which might require extra time. We want to see that you can use, or learn to use, these tools effectively — including writing clear GitHub issues, using basic Git commands, creating proper pull requests, navigating Planet, etc. Just passively following the steps is the bare minimum; instead, aim to impress us with excellent GitHub etiquette and well-structured Markdown.**
+* **Expectations & Quality**
+    * **High Quality Work:** These steps may appear simple, but we expect high-quality work which might require extra time. Just passively following the steps is the bare minimum; instead, aim to impress us with excellent github etiquette and well-structured Markdown.
+    * **Learning:** We want to see that you can use or learn to use these tools effectively, i.e., writing clear github issues, using basic git commands, creating proper pull requests, navigating Planet, etc.
+    * **Deepen Understanding:** Treat these steps as learning opportunities. The skills you practice in first steps are crucial for this internship as well as a future career in software development.
 
-Take the opportunity to read more about the tools and languages we use to deepen your understanding and reduce confusion. **Treat these steps as learning opportunities!** The GitHub and Markdown skills you practice in first steps are crucial for both this internship and a future career in software development.
+* **Continuous Improvement**
+    * **Wiki Feedback:** A significant part of this process is identifying problems or suggesting improvements for this MDwiki.
+    * **Documentation:** Take note of any issues or enhancement ideas you encounter to help us improve these steps for future interns.
 
-The MDwiki offers plenty of resources to help you complete these steps. You'll find a list of useful links at the end of each step. :)
+* **Communication & Updates**
+    * **Regular Reporting:** You are required to keep us regularly updated in our Discord server's **#vi-software** channel.
+    * **Progress:** We will ask you to send messages, links, and screenshots to track your progress. Do not miss this step, as it is vital for us to track your work.
 
-**We also would like you to keep us regularly updated in our Discord server's `#vi-software` channel as you complete these steps. We will ask you to send messages, links, and screenshots along the way, which we'll use to track your progress. Please make sure not to miss this, as it's crucial for us to track your work.**
-
-A significant part of these steps is identifying problems or suggesting improvements for this MDwiki. As you complete the steps, take note of any issues you encounter or ideas for enhancements. This helps improve the MDwiki and these steps for future interns.
-
-While there's no official deadline for completing these steps, most successful candidates finish them within 7-8 days. Good luck!
+* **Resources & Timeline**
+    * **Deadlines:** While there is no official deadline, most successful candidates complete these steps within **7–8 days**.
+    * **Support:** The MDwiki offers multiple resources to assist you with useful links at the end of each step. Good Luck!
 
 ## FAQ - Frequently Asked Questions
 
-**[Our FAQ page](vi-faq.md)** is a comprehensive resource containing answers to common questions about the internship and First Steps. It also features additional helpful links and video tutorials aimed at familiarizing you with the tools and languages integral to our work.
+**[Our FAQ page](vi-faq.md)** is a comprehensive resource for answers to common questions about internship and First Steps. It also includes tutorials for our core tools and languages.
 
-If you have general internship inquiries and can't find the information you need on the FAQ page, please don't hesitate to reach out to us via Discord. Try to avoid DMs as others might have the same question! Also Google, Stack Exchange, and ChatGPT serve as excellent supplementary resources to explore. :)
+- Can't find answer in FAQ's or have general inquries - Message on Discord
+- Try avoiding DMs - You get fast answer & help from whole community
+- Please use Google, Stack Exchange & AI as supplementary resources
 
 ## Step 0 - Introductory Steps
 **(Estimated Time: 1h)**
