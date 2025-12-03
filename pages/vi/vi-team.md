@@ -11,6 +11,7 @@
 |[emmanuelbaa](profiles/emmanuelbaa.md)|2025-09-3|
 |[Saby-Bishops](profiles/saby-bishops.md)|2025-09-03|
 |[uj-sxn](profiles/uj-sxn.md)|2025-11-19|
+|[JackTheSparow](profiles/JackTheSparow.md)|2025-12-02|
 
 ## Former Interns
 To view the list of former interns, go to [former members page](vi-former-members.md).
