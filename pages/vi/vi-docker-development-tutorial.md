@@ -53,41 +53,54 @@ Next, run `ng version` to check your Angular CLI version, look for `Angular CLI:
 
 ## Container Setup
 
-### Linux
+**Note**: For linux systems, you may need to run the commands with `sudo` if you encounter permission issues.
 
 1. Create a `planetdev` directory for the planet dev data:
 
   ```bash
-  sudo mkdir -p /srv/planetdev && cd /srv/planetdev
+  mkdir -p /srv/planetdev && cd /srv/planetdev
   ```
 
-2. Download the development yml file:
+2. Create a `planet-dev.yml` file and copy the content below into the file:
 
   ```bash
-  sudo wget https://raw.githubusercontent.com/ole-vi/planet-prod-configs/main/planet-dev.yml
+    services:
+  couchdb:
+    expose:
+      - 5984
+    image: treehouses/couchdb:2.3.1
+    ports:
+      - "2200:5984"
+    volumes:
+      - "~/srv/planetdev/conf:/opt/couchdb/etc/local.d"
+      - "~/srv/planetdev/data:/opt/couchdb/data"
+      - "~/srv/planetdev/log:/opt/couchdb/var/log"
+  chatapi:
+    image: treehouses/planet:chatapi
+    depends_on:
+      - couchdb
+    ports:
+      - "5xxx:5xxx"
+    environment:
+      - COUCHDB_HOST=http://couchdb:5984
+      #- COUCHDB_USER=planet
+      #- COUCHDB_PASS=planet
+      - SERVE_PORT=5xxx
+  db-init:
+    image: treehouses/planet:db-init
+    depends_on:
+      - couchdb
+    environment:
+      - COUCHDB_HOST=http://couchdb:5984
+      #- COUCHDB_USER=planet
+      #- COUCHDB_PASS=planet
   ```
 
-3. Start the containers: `sudo docker compose -f planet-dev.yml -p planet-dev up -d`
-4. After a minute, run `sudo docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
-  - If `chatapi` service is restarting or exited, please ignore it for now as we are working on a fix
-
-### macOS/Windows
-
-1. Create a `planetdev` directory for the planet dev data:
-
-  ```bash
-  mkdir -p ~/srv/planetdev && cd ~/srv/planetdev
-  ```
-
-2. Download the development yml file:
-
-  ```bash
-  curl https://gist.githubusercontent.com/xyb994/0d14dfe302df0df0d4e8d8df0d1d5feb/raw/planet-dev-mac.yml -o planet-dev.yml
-  ```
+**Note**: Replace `5xxx` with `5000` for Linux and `5400` for macOS/Windows. This is the port that the chatapi service will run on.
 
 3. Start the containers: `docker compose -f planet-dev.yml -p planet-dev up -d`
 4. After a minute, run `docker ps -a` to verify that you have 2 runnning containers – `chatapi` and `couchdb`, the `db-init` container should have exited.
-  - If `chatapi` service is restarting or exited, please ignore it for now as we are working on a fix
+  - If `chatapi` service is restarting or exited, please ignore it for now.
 
 ## Configure CORS for CouchDB with add-cors-to-couchdb project:
 
