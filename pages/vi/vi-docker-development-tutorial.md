@@ -9,27 +9,30 @@
 
 For development, the following additional tools are required:
 
-- Node.js v14
-- Angular CLI v10
+- Node.js v18
+- Angular CLI v15
+- NPM v10
+
+To verify the versions currently in use, refer to our [Readme.md](https://github.com/open-learning-exchange/planet/blob/master/README.md). If there are any discrepancies, treat the versions listed in the README as the source of truth.
 
 ### Node.js
 
 [**Node.js**](https://nodejs.org) is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
 
-1. Check if Node.js is already installed by running `node -v` in your terminal or Git Bash. If the output starts with `v14.`, you can skip the rest and proceed to "Angular CLI."
-2. Check if you have a Node.js environment manager, such as `nvm` or `fnm`, by running `nvm -v` and `fnm -v`. If installed, use `nvm install 14` or `fnm use --install-if-missing 14` to install Node.js 14.
-3. If neither is installed, you can install Node.js v14 by visiting [**Node.js — Download Node.js**](https://nodejs.org/en/download/package-manager):
-  1. In the first dropdown, select version `v14.*.*`
+1. Check if Node.js is already installed by running `node -v` in your terminal or Git Bash. If the output starts with `v18.`, you can skip the rest and proceed to "Angular CLI."
+2. Check if you have a Node.js environment manager, such as `nvm` or `fnm`, by running `nvm -v` and `fnm -v`. If installed, use `nvm install 18` or `fnm use --install-if-missing 18` to install Node.js 18.
+3. If neither is installed, you can install Node.js v18 by visiting [**Node.js — Download Node.js**](https://nodejs.org/en/download/package-manager):
+  1. In the first dropdown, select version `v18.*.*`
   2. In the second dropdown, select your operating system.
   3. In the third dropdown:
     - For Linux, select `nvm`
     - For Windows, select `fnm`
     - For macOS, select `fnm`
-  4. Follow the instruction to install node.js v14 onto your system
+  4. Follow the instruction to install node.js v18 onto your system
 
 ### Angular CLI
 
-[**Angular CLI**](https://cli.angular.io) is a command-line interface for Angular. After installing node 14, run **`npm install -g @angular/cli@10`** to install Angular CLI v10.
+[**Angular CLI**](https://cli.angular.io) is a command-line interface for Angular. After installing node 18, run **`npm install -g @angular/cli@15`** to install Angular CLI v15.
 
 ## Introduction
 
@@ -46,10 +49,10 @@ npm -v
 
 - `docker -v` - Should display Docker version
 - `git -v` - Should display git version
-- `node -v` - Should display `v14.*`
-- `npm -v` - Should display `6.*`
+- `node -v` - Should display `v18.*`
+- `npm -v` - Should display `10.*`
 
-Next, run `ng version` to check your Angular CLI version, look for `Angular CLI: 10.*` below the Angular CLI ASCII art.
+Next, run `ng version` to check your Angular CLI version, look for `Angular CLI: 15.*` below the Angular CLI ASCII art.
 
 ## Container Setup
 
