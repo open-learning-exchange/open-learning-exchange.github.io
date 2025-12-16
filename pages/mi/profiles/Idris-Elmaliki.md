@@ -25,6 +25,6 @@ How to Reach Me
 
 If you want to reach me for any inquries, you can find me through:
 
- 1.) My [LinkedIn](www.linkedin.com/in/idris-elmaliki-96a81b252)
- 2.) My [GitHub](www.github.com/Idris-Elmaliki)
+ 1.) My [LinkedIn](https://www.linkedin.com/in/idris-elmaliki-96a81b252)
+ 2.) My [GitHub](https://www.github.com/Idris-Elmaliki)
  3.) My Email (idris.elmaliki06@gmail.com)
