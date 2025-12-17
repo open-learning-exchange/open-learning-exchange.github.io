@@ -21,5 +21,6 @@ Mendix
 MongoDB
 Node.js
 React.js
+AWS
 ```
 [Github](https://github.com/AryamanTomer)
