@@ -68,35 +68,35 @@ Next, run `ng version` to check your Angular CLI version, look for `Angular CLI:
 
   ```bash
     services:
-  couchdb:
-    expose:
-      - 5984
-    image: treehouses/couchdb:2.3.1
-    ports:
-      - "2200:5984"
-    volumes:
-      - "~/srv/planetdev/conf:/opt/couchdb/etc/local.d"
-      - "~/srv/planetdev/data:/opt/couchdb/data"
-      - "~/srv/planetdev/log:/opt/couchdb/var/log"
-  chatapi:
-    image: treehouses/planet:chatapi
-    depends_on:
-      - couchdb
-    ports:
-      - "5xxx:5xxx"
-    environment:
-      - COUCHDB_HOST=http://couchdb:5984
-      #- COUCHDB_USER=planet
-      #- COUCHDB_PASS=planet
-      - SERVE_PORT=5xxx
-  db-init:
-    image: treehouses/planet:db-init
-    depends_on:
-      - couchdb
-    environment:
-      - COUCHDB_HOST=http://couchdb:5984
-      #- COUCHDB_USER=planet
-      #- COUCHDB_PASS=planet
+      couchdb:
+        expose:
+          - 5984
+        image: treehouses/couchdb:2.3.1
+        ports:
+          - "2200:5984"
+        volumes:
+          - "~/srv/planetdev/conf:/opt/couchdb/etc/local.d"
+          - "~/srv/planetdev/data:/opt/couchdb/data"
+          - "~/srv/planetdev/log:/opt/couchdb/var/log"
+      chatapi:
+        image: treehouses/planet:chatapi
+        depends_on:
+          - couchdb
+        ports:
+          - "5xxx:5xxx"
+        environment:
+          - COUCHDB_HOST=http://couchdb:5984
+          #- COUCHDB_USER=planet
+          #- COUCHDB_PASS=planet
+          - SERVE_PORT=5xxx
+      db-init:
+        image: treehouses/planet:db-init
+        depends_on:
+          - couchdb
+        environment:
+          - COUCHDB_HOST=http://couchdb:5984
+          #- COUCHDB_USER=planet
+          #- COUCHDB_PASS=planet
   ```
 
 **Note**: Replace `5xxx` with `5000` for Linux and `5400` for macOS/Windows. This is the port that the chatapi service will run on.
