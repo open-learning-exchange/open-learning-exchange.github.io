@@ -15,7 +15,7 @@ If you are selected after completing these steps, you'll work with your team on 
 
 ## The Steps
 
-Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Vagrant, Docker, Git, GitHub, GitHub issues, GitHub pull requests, etc. You'll also be introduced to OLE's digital library, [Planet](https://github.com/open-learning-exchange/planet), and its companion Android app, [myPlanet](https://github.com/open-learning-exchange/myplanet).
+Social coding is a huge part of any open source and collaborative project, and the Open Learning Exchange (OLE) is no different. In the following series of steps, you will learn about Markdown, Git, GitHub, GitHub issues, GitHub pull requests, etc. You'll also be introduced to OLE's digital library, [Planet](https://github.com/open-learning-exchange/planet), and its companion Android app, [myPlanet](https://github.com/open-learning-exchange/myplanet).
 
 **These steps may seem simple, but we expect high-quality work, which might require extra time. We want to see that you can use, or learn to use, these tools effectively — including writing clear GitHub issues, using basic Git commands, creating proper pull requests, navigating myPlanet, etc. Just passively following the steps is the bare minimum; instead, aim to impress us with excellent GitHub etiquette and well-structured Markdown.**
 
