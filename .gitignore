@@ -109,3 +109,4 @@ sftp-config.json
 # used when testing in local machine
 # $ jekyll serve
 _site/
+open-learning-exchange.github.io/
