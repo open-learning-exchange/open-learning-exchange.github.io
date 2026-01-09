@@ -72,8 +72,14 @@ Follow the directions at [Git Repositories: A Guide to Cloning, Configuring, and
 **HINT**: You can track your progress with the number of pull requests and issues [here](../track-first-steps-progress.md).
 
 ## Step 7 - Take a Course on myPlanet, Courses Gardening
+You will take a course in the myPlanet app and practice “courses gardening” (reviewing course content to help ensure it displays and behaves as expected for learners).
 
 Follow the guide at [Take a Course on myPlanet, Courses Gardening](mi-myplanet-course.md).
+
+**Minimum requirement to complete Step 7:**
+- Enroll in at least one course
+- Open and complete at least one lesson
+- Confirm your progress is saved in the app before moving on
 
 ## Step 8 - Create More Issues and Pull Requests
 
