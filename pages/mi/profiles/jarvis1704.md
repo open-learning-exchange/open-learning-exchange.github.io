@@ -4,7 +4,7 @@
 
 | Name | Time Zone | Location | Operating System |
 | :--- | :--- | :--- | :--- |
-| **Biprangshu Das** | IST (GMT+5:30) | Tezpur, Assam, India | Arch Linux (Omarchy) |
+| **Biprangshu Das** | IST (GMT+5:30) | Guwahati, Assam, India | Arch Linux (Omarchy) |
 
 ### 👨‍💻 About Me
 
