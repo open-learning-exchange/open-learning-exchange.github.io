@@ -72,16 +72,19 @@ Teams are a way to collaborate, plan, and manage tasks with your groups. Learn m
 
 ## Enterprises
 
+This section is currently under development. Check back soon for information about enterprise features and functionality.
 
 ## News
 
+This section is currently under development. Check back soon for information about community news and updates.
 
 ## AI Chat
 
 In the AI Chat, you can interact with AI powered chat which will help you with your specific needs and queries. Click [here](myPlanet-ai-chat.md) to learn more about AI Chat.
 
-## Achivements
+## Achievements
 
+This section is currently under development. Check back soon for information about learning achievements and badges.
 
 ## Feedback
 
@@ -89,8 +92,10 @@ In myplanet, you will be able to give feedback on the app, courses, and more. Cl
 
 ## Manager
 
+This section is currently under development. Check back soon for information about administrative and management features.
+
 ## Community
 
-In Community, you can browse upcoming events, participate in those already in progress, or schedule your own using the integrated calendar. Click [here](myplanet-community.md) to learn more about Comminuty.
+In Community, you can browse upcoming events, participate in those already in progress, or schedule your own using the integrated calendar. Click [here](myplanet-community.md) to learn more about Community.
 
 
