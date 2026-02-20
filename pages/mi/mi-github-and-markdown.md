@@ -10,7 +10,7 @@
 
 Before diving into GitHub, Markdown, and forking workflow, it's crucial to understand the essential tools and resources involved for this tutorial:
 
-- [Markdown](https://en.wikipedia.org/wiki/Markdown) – a lightweight markup language with plain text formatting syntax.
+- [Markdown](https://www.markdownguide.org) – a lightweight markup language with plain text formatting syntax.
 - [GitHub](https://docs.github.com/en) –  a platform for hosting code, version control, and collaboration.
 - [MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md) – a content management system that leverages Markdown. The site you are reading is built with MDwiki.
 - [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) - This is the workflow you'll be using during the First Steps phase, as you won't have direct access to our repositories yet. This tutorial will focus solely on using this workflow on GitHub.com to keep things simple. We'll explore working with Git on the command line in more depth later.
