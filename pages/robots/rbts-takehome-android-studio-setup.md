@@ -39,8 +39,15 @@ Under your "take-home" directory, type `git remote add upstream https://github.c
 
 Now, Run Android studio. Select New from the file menu and select import project. Navigate to Android studio -> take-home and select the settings.gradle file to import and open the project.
 
->@todo : 
->http://stackoverflow.com/questions/37397810/android-studio-unable-to-run-avd https://www.virtualbox.org/ticket/14294 NB Virtualbox version needs lower equal 4.3.28
+### Troubleshooting
+
+**VirtualBox and AVD Conflict**
+
+If you encounter issues running the Android Virtual Device (AVD) while VirtualBox is installed, it may be due to a conflict between the HAXM hypervisor (used by AVD) and VirtualBox.
+
+*   **Issue:** Android Studio is unable to run AVD when newer versions of VirtualBox are installed.
+*   **Solution:** Ensure that no VirtualBox VMs are running when launching AVD. If the issue persists, consider downgrading VirtualBox to version **4.3.28 or lower**, or ensure your Intel HAXM driver is fully updated.
+*   **Reference:** [StackOverflow Discussion](http://stackoverflow.com/questions/37397810/android-studio-unable-to-run-avd), [VirtualBox Ticket](https://www.virtualbox.org/ticket/14294).
 
 ### Take Home Project Setup
 
@@ -54,3 +61,4 @@ Download both files and put them into the take-home raw folder found here:
 - take-home\app\src\main\res\raw
 
 Now, The Take Home project is ready to run on an Android device or an Android Emulator. Check out [Android Device Setup](rbts-takehome-device-setup.md) and [Android Device Emulator Setup](rbts-takehome-emulator-setup.md) for more details.
+
