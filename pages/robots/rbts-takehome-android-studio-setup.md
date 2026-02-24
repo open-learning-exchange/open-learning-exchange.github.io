@@ -2,7 +2,7 @@
 
 To be able to debug / repackage / build on the android mobile application, you need to:
 
-- download and install the most recent official IDE for android: [Android Studio](https://developer.android.com/studio/index.html) 
+- Download and install the most recent official IDE for android: [Android Studio](https://developer.android.com/studio/index.html) 
 
 - Verify which version of the JDK you have: open a command line and type javac -version. If the JDK is not available or the version is lower than 1.8, download the [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
