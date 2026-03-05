@@ -16,6 +16,7 @@
 - 📱 Android Enthusiast building clean, modern apps
 - 🌠 Love **Hiking** and **Astronomy**
 - 🚀 Always challenging myself and exploring new technologies
+- 🌐 Check out my work at [Sarfaraz Shaikh | Android Developer](https://sarfarazdevelops.netlify.app/)
 
 ---
 
