@@ -13,7 +13,3 @@ Hi! My name is Valerie, and I'm an aspiring software developer. I'm passionate a
 [Valerie923](https://github.com/Valerie923)
 
 Thanks for reading my profile :) 😃
-
-
-
-
