@@ -33,6 +33,10 @@ Once you’ve enrolled in beta testing and installed the beta version of the app
    - If the app does not crash, report:  
      `I'm on Step 2, spent about xx minutes in the myPlanet app and it did not crash.`
 
+Note:
+While testing the app, if you click on Dictionary, your phone may display a message indicating that something was downloaded.
+This is expected behavior. Nothing is actually downloaded to your device, so there is no need to worry.
+
 Details about crashes might take up to 24 hours to appear in the Google Play Console on our end.
 
 [**Return to First Steps**](mi-10-steps.md#Step_2_-_myPlanet_App)
