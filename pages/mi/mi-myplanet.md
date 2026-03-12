@@ -33,7 +33,6 @@ Once you’ve enrolled in beta testing and installed the beta version of the app
    - If the app does not crash, report:  
      `I'm on Step 2, spent about xx minutes in the myPlanet app and it did not crash.`
 
-
 Details about crashes might take up to 24 hours to appear in the Google Play Console on our end.
 
 [**Return to First Steps**](mi-10-steps.md#Step_2_-_myPlanet_App)
