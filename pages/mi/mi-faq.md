@@ -19,6 +19,7 @@
 - **Q1:** [What is the purpose of Nations and Communities, and how do they work together?](#Q1:_What_is_the_purpose_of_Nations_and_Communities,_and_how_do_they_work_together?)
 - **Q2:** [I named my repo incorrectly by not naming it &lt;YourUsername&gt;.github.io, can I rename it or do I need to delete it?](#Q2:_I_named_my_repo_incorrectly_by_not_naming_it_&lt;YourUsername&gt;.github.io,_can_I_rename_it_or_do_I_need_to_delete_it?)
 - **Q3:** [What do I do if I already have a github.io with my username?](#Q3:_What_do_I_do_if_I_already_have_a_github.io_with_my_username?)
+- **Q4:** [I saw a message saying something was downloaded when opening the Dictionary. Is this normal?](#Q4:_I_saw_a_message_saying_something_was_downloaded_when_opening_the_Dictionary._Is_this_normal?)
 
 ### General Internship Questions
 
@@ -92,6 +93,13 @@
   2. If you are not using the repo anymore you can delete it and then follow the [First Steps](mi-10-steps.md).
 
   3. If you are still using it and you don't want to remember another login, you can [create an organization]( https://help.github.com/articles/creating-a-new-organization-from-scratch/) and name the forked repo &lt;orgname&gt;.github.io.
+
+#### Q4: I saw a message saying something was downloaded when opening the Dictionary. Is this normal?
+
++ Yes. When you click on **Dictionary** while testing the app, some devices may display a message indicating that something was downloaded.
+
++ This is expected behavior. Nothing is actually downloaded to your device, so there is no need to worry. You can safely continue testing the app.
+
 
 ## 'First Steps' Software Summary
 
