@@ -82,7 +82,7 @@ The syncing process involves several key steps to ensure your local repository, 
 - [GitHub Help: Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
 - [Git Documentation](https://git-scm.com/doc)
 
-By understanding and following these steps, you ensure your repositories are consistently up to date and avoid conflicts (Refer the diagram below).
+By understanding and following these steps, you ensure your repositories are consistently up to date and avoid conflicts (Refer to the diagram below).
 
 ![GitHub Clone URL](image/mi-sync-a-fork.png)
 
