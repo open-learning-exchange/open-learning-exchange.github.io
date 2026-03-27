@@ -118,6 +118,8 @@ If you're still confused, that's quite alright. [Forking Workflow](https://www.a
 
 After making modifications to your local files and before making a commit, you may want to preview the changes locally. To quickly set up a local HTTP server, you can follow [MDwiki's guide here](https://dynalon.github.io/mdwiki/#!./faq.md#Q:_I_don't_want_to_install_nginx_or_apache_locally._What_is_the_fastest/easiest_way_to_setup_a_local_HTTP_server_to_get_started_with_MDwiki_?). However, instead of using the outdated Python method mentioned in the guide, you can use the following command: `python3 -m http.server 8080`.
 
+Note: Ensure Python 3 is installed before running this command. Download it from [python.org](https://www.python.org/downloads/).
+
 ## 6. Create a Commit and Push the Changes
 
 **NOTE**: Before making your commit, configure the email address you associate with your Git commits by following the instructions in [Setting your commit email address in Git - GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git).
