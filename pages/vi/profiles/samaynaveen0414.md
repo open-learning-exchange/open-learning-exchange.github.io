@@ -1,4 +1,4 @@
-## 👨‍💻 Smaay Naveen
+## 👨‍💻 Samay Naveen
 
 | 🚀 Profile Info | 📌 Details |
 |---|---|
@@ -15,4 +15,4 @@ I’m a Computer Science student at **George Mason University** with a strong in
 - 💡 Building real-world projects  
 - 🤝 Collaborating with teams and learning from others  
 - 🌍 Using technology for meaningful impact  
-- 🏈 Football fan — Go Commanders!
+- 🏈 Big Football fan — Go Commanders!
