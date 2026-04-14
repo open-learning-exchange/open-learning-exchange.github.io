@@ -6,6 +6,7 @@
 | **⏰ Time Zone** | Eastern Daylight Time |
 | **💻 OS** | macOS 26.3.1 (a) |
 | **🔗 GitHub** | [samaynaveen0414](https://github.com/samaynaveen0414) |
+| **🔗 LinkedIn** | [Samay Naveen](https://www.linkedin.com/in/samay-naveen-a441a5381/) |
 
 ---
 
