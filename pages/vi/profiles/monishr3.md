@@ -24,5 +24,5 @@ In my free time, I can often by found watching a sport. Here are my **favorite**
 
 ## Contact 📱
 
-* [LinkedIn](www.linkedin.com/in/monishradhakrishnan "My LinkedIn")
+* [LinkedIn](https://www.linkedin.com/in/monishradhakrishnan "My LinkedIn")
 * [GitHub](https://github.com/monishr3 "My GitHub")
