@@ -22,6 +22,15 @@ In my free time, I can often by found watching a sport. Here are my **favorite**
 
 ---
 
+## Skills
+**Languages**: C, C++, Java, Python, HTML, CSS, JavaScript, SQL, R
+
+**Operating Systems**: UNIX, Linux, Windows
+
+**Frameworks & Tools**: Nuxt.js, Node.js, Vue.js, Git 
+
+---
+
 ## Contact 📱
 
 * [LinkedIn](https://www.linkedin.com/in/monishradhakrishnan "My LinkedIn")
