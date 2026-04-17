@@ -22,7 +22,7 @@ In my free time, I can often by found watching a sport. Here are my **favorite**
 
 ---
 
-## Skills
+## Skills 💻
 **Languages**: C, C++, Java, Python, HTML, CSS, JavaScript, SQL, R
 
 **Operating Systems**: UNIX, Linux, Windows
