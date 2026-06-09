@@ -47,7 +47,7 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 ![Planet Login Screen](images/tg-planet-navigate-member-login-updated-picture.png)
 
-2. Fill out the resulting form and completing the form, click “_Register_.” You are now a member!
+2. Fill out the resulting form and after completing the form, click “_Register_.” You are now a member!
 
 ![Add New Member](images/tg-planet-navigate-add-member.png)
 
