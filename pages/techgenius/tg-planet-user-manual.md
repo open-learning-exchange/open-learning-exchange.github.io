@@ -47,7 +47,7 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 ![Planet Login Screen](images/tg-planet-navigate-member-login-updated-picture.png)
 
-2. Fill out the resulting form and completing the form, click “_Register_.” You are now a member!
+2. Fill out the resulting form and after completing the form, click “_Register_.” You are now a member!
 
 ![Add New Member](images/tg-planet-navigate-add-member.png)
 
@@ -542,6 +542,6 @@ In order to update software and receive Publications,
   
    ![Software update](images/tg-software-update2.png) 
 
-1. There is verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
+1. There is a verify button shown once update is done successfully. So you can verify if upgrade was successful or had some error.
 
 

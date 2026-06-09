@@ -35,7 +35,7 @@ Social coding is a huge part of any open source and collaborative project, and O
 
 **[Our FAQ page](vi-faq.md)** is a comprehensive resource for answers to common questions about internship and First Steps. It also includes tutorials for our core tools and languages.
 
-- Can't find answer in FAQ's or have general inquries - Message on Discord
+- Can't find answer in FAQ's or have general inquiries - Message on Discord
 - Try avoiding DMs - You get fast answer & help from whole community
 - Please use Google, Stack Exchange & AI as supplementary resources
 
