@@ -14,17 +14,19 @@
 ### Dislikes👎
 - Waking up early *(before 9am)*
 - Celery
-## Technical Skills
-### Programming Languages
-```
-String[] proficientLanguages = {"Java", "Python", "JavaScript/TypeScript", "C++", "R"};
 
-System.out.println("Experienced in:");
- 
-for (int i = 0; i < proficientLanguages.length; i++) {  
-  System.out.println(proficientLanguages[i]);  
-} 
-```
+## Technical Skills
+
+### Programming Languages
+
+> String[] proficientLanguages = {"Java", "Python", "JavaScript/TypeScript", "C++", "R"};
+> 
+> System.out.println("Experienced in:");
+>  
+> for (int i = 0; i < proficientLanguages.length; i++) {  
+>   System.out.println(proficientLanguages[i]);  
+> }
+
 *🔄Compiling and Executing...*  
 #### **Experienced in:** 
 - Java  
@@ -33,12 +35,12 @@ for (int i = 0; i < proficientLanguages.length; i++) {
 - C++  
 - R  
 ### Other Technical Skills
-- [x] Git/GitHub
-- [x] Linux
-- [x] Windows
-- [x] VS Code
-- [x] Bash
-- [x] React
-- [x] Node.js  
+1. Git/GitHub
+2. Linux
+3. Windows
+4. VS Code
+5. Bash
+6. React
+7. Node.js  
 [^1]: Wahoowa!🟠🔵
 [^2]: My favorites are Cyberpunk and Baldur's Gate 3
