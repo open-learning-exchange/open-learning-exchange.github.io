@@ -11,6 +11,7 @@
 - Reading History
 - Pop Punk and Alternative Rock
 - Programming
+
 ### Dislikes👎
 - Waking up early *(before 9am)*
 - Celery
@@ -27,13 +28,15 @@
 >   System.out.println(proficientLanguages[i]);  
 > }
 
-*🔄Compiling and Executing...*  
+*🔄Compiling and Executing...*
+
 #### **Experienced in:** 
-- Java  
-- Python  
-- JavaScript/TypeScript  
-- C++  
-- R  
+- Java
+- Python
+- JavaScript/TypeScript
+- C++
+- R
+
 ### Other Technical Skills
 1. Git/GitHub
 2. Linux
