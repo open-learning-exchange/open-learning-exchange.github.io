@@ -113,7 +113,14 @@ Before proceeding to the next section, please:
 - verify you used at least **5 different** Markdown elements in your profile
   - Must use clickable **hyperlinks** to reference for example your portfolio or other social profiles. 
   - To use emojis in your profile, copy the actual emoji directly (e.g., '🐱' instead of ':emojicode:'). You can find and copy emojis from [emojipedia](https://emojipedia.org/).
-  - Task lists are supported on GitHub but not on MDwiki. They may look correct on GitHub but not on MDwiki.
+
+The following is a list of commonly used markdown elements that will not be compatible with MDwiki:
+- [Fenced Code Block](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks)
+- [Footnote](https://www.markdownguide.org/extended-syntax/#footnotes)
+- [Task List](https://www.markdownguide.org/extended-syntax/#task-lists)
+
+There may be additional Markdown features that do not render as expected in MDwiki. Always verify your page using the raw.githack preview link before opening a pull request.
+
 
 **NOTE**:
 - New changes you push should be reflected within minutes on raw.githack. If changes still don't appear, clear your browser's cache or open your page in "incognito" or "private" mode. You can also force refresh/reload the page using `Ctrl+Shift+R` or `Ctrl+F5` (on Mac: `Cmd+Shift+R`).
