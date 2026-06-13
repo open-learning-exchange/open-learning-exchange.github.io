@@ -1,6 +1,6 @@
 # Seshank 👋
 
-Hey! I'm a CS student who likes building web apps and breaking things.
+Hey! I'm a CS student who I'm a car and tech enthusiast.
 
 ## Quick Facts
 - 📍 **Location:** Northern Virginia (EST)
