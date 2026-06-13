@@ -1,6 +1,6 @@
 # Seshank 👋
 
-Hey! I'm a CS student who I'm a car and tech enthusiast.
+Hey! I'm a CS student and really interested in cars and tech. 
 
 ## Quick Facts
 - 📍 **Location:** Northern Virginia (EST)
