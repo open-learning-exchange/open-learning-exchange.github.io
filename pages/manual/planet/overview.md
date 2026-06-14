@@ -150,7 +150,18 @@ The **Library** is home to the community's collection of media and other resourc
 You can explore materials in multiple subjects and formats (books, videos, audios, documents, games).  
 
 [Learn more about Library.](library.md)
+### How to Upload a Resource
 
+1. Navigate to the **Library** page from the top navigation menu.
+2. Click the yellow **+** icon to add a new resource.
+3. Fill in the required fields:
+   - **Title**: Enter a descriptive name for the resource.
+   - **Description**: Provide a brief summary of the resource.
+   - **Subject(s)**: Select the relevant subject from the dropdown.
+   - **Level(s)**: Choose the appropriate level.
+4. Under **File Upload**, drag and drop or click to upload your file (PDF, MP3, MP4, or ZIP).
+5. Click **Submit** to upload the resource.
+6. Verify the resource appears in the Library and can be opened
 ---
 
 ## Courses
