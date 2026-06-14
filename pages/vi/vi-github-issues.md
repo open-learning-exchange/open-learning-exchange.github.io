@@ -40,29 +40,7 @@ _**Special Note**_:
 
 Before you create your branch, sync your repository with the following commands (as we walked you through in the previous step):
 
-1. Fetch the latest changes from the upstream repository:
-
-   ```sh
-   git fetch upstream
-   ```
-
-2. Switch to your `master` branch:
-
-   ```sh
-   git checkout master
-   ```
-
-3. Merge the fetched changes from the upstream `master` branch into your local `master` branch:
-
-   ```sh
-   git merge upstream/master
-   ```
-
-4. Push the updated `master` branch to your forked repository on GitHub:
-
-   ```sh
-   git push origin master
-   ```
+Sync your fork following the process described in [Step 5 - Keeping Fork Updated](vi-git-repositories.md).   ```
 
 **ATTENTION**: From now on, for the rest of the First Steps, please use the command line to create branches and make commits instead of using GitHub’s web interface. This will give you valuable practice with common Git commands in your terminal, which is essential for working on real code that needs to be tested locally and can’t always be edited directly on GitHub.com.
 
