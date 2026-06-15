@@ -121,7 +121,6 @@ The following is a list of commonly used markdown elements that will not be comp
 
 There may be additional Markdown features that do not render as expected in MDwiki. Always verify your page using the raw.githack preview link before opening a pull request.
 
-
 **NOTE**:
 - New changes you push should be reflected within minutes on raw.githack. If changes still don't appear, clear your browser's cache or open your page in "incognito" or "private" mode. You can also force refresh/reload the page using `Ctrl+Shift+R` or `Ctrl+F5` (on Mac: `Cmd+Shift+R`).
 - Remember that there are [different Markdown flavors](https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors). Since the MDwiki site is used for "production," always check if your content renders correctly on the raw.githack link. Use GitHub's preview tab for guidance, but rely on raw.githack for accuracy.
