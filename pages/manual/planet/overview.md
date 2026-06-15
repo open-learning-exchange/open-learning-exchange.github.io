@@ -109,13 +109,13 @@ The **nations** may store thousands of Resources in many formats and languages. 
 ---
 
 ## Become Member
-To be able to use **PLANET** you need to be part of the system. The first thing you will see on PLANET is the **Login page**. [Learn more about becoming part of PLANET and using it.](member.md)
+To be able to use Planet you need to be part of the system. The first thing you will see on Planet is the **Login page**. [Learn more about becoming part of Planet and using it.](member.md)
 
 ---
 
 ## Features of Planet
 
-When you are inside PLANET, you will see the following features: 
+When you are inside Planet, you will see the following features: 
 
 <figure>
   <figcaption>
