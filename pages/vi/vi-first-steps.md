@@ -95,7 +95,7 @@ Please note that creating and working on issues is not strictly bound by the spe
 ## Step 7 - Nation Planet
 **(Estimated Time: 2h)**
 
-Follow the directions under the [Nation Planet tab](vi-nation.md).
+Follow the directions under the [Nation Planet tab](vi-nation.md), which explain how to connect to Planet vi, view community data, and update your Community Planet. Additionally, learn how to upload to Nation Planet on the [Add HTML Games to Planet Nation page](vi-html-games.md).
 
 ## Step 8 - Create More Issues and Pull Requests
 **(Estimated Time: 4.5h)**
