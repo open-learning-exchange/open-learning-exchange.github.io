@@ -110,6 +110,7 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 ## Become Member
 To be able to use **PLANET** you need to be part of the system. The first thing you will see on PLANET is the **Login page**. [Learn more about becoming part of PLANET and using it.](member.md)
+
 ### How to Register
 
 1. Navigate to the Planet login page.
