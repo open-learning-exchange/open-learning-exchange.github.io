@@ -3,7 +3,8 @@
 ## About OLE – Building Open Learning Communities Worldwide
 
 ### Our Mission
-The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to **high-quality basic education**.  
+
+The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring that everyone, especially children, has access to **high-quality basic education**.
 
 <figure>
   <figcaption>Ole mission in Ghana (Katapor School Bell)</figcaption>
@@ -13,23 +14,27 @@ The [**Open Learning Exchange (OLE)**](http://ole.org) is committed to ensuring 
 
 OLE’s mission is to ensure learning for all, not only universal basic literacy and numeracy, but also vital knowledge and skills acquisition in the areas of health, nutrition, community development. Since 2007, OLE International has helped establish Open Learning Communities for children, adolescents, and young adults, including those whose lives have been disrupted by violent conflicts. Today, there are OLE affiliates in Asia, Africa, the Middle East, and Latin America.
 
-We collaborate with **community-based entrepreneurs, educators, and practitioners worldwide** to promote **effective and affordable learning systems for all**.  
+We collaborate with **community-based entrepreneurs, educators, and practitioners worldwide** to promote **effective and affordable learning systems for all**.
 
 We believe this will lead to:
+
 - **More productive lives**
 - **Stronger communities**
 - **Thriving nations**
 - The possibility of a **peaceful world**
 
 ### What We Do
+
 OLE’s mission is to ensure **learning for all**, not only through universal literacy and numeracy, but also by equipping learners with vital knowledge and skills in areas such as:
+
 - **Health**
 - **Nutrition**
 - **Community development**
 
 Since 2007, OLE International has:
-- Helped establish **Open Learning Communities** for children, adolescents, and young adults  
-- Reached learners whose lives have been disrupted by violent conflicts  
+
+- Helped establish **Open Learning Communities** for children, adolescents, and young adults
+- Reached learners whose lives have been disrupted by violent conflicts
 - Supported affiliates in **Asia, Africa, the Middle East, and Latin America**
 
 ---
@@ -37,34 +42,41 @@ Since 2007, OLE International has:
 ## Introduction
 
 ### What is the OLE Planet Learning System (Planet)?
+
 **PLANET** (Personalized Learning and Network-Enabled Teams) is a **multilingual learning system and library** with thousands of educational resources, including:
-- Books  
-- Videos  
-- Educational games  
+
+- Books
+- Videos
+- Educational games
 
 It also provides software tools for:
-- Content and student management  
-- Student evaluation and monitoring  
-- Course creation  
+
+- Content and student management
+- Student evaluation and monitoring
+- Course creation
 
 At its core, **Planet is a repository of free, open access, and public domain resources** designed to support learners of all ages and backgrounds.
 
 Resources include:
-- Subjects: **Literature, Health, Science, Math**, and more  
-- Languages: **English, Somali, Swahili, Arabic, Spanish**, etc.  
-- Formats: **Text, audio, video**  
+
+- Subjects: **Literature, Health, Science, Math**, and more
+- Languages: **English, Somali, Swahili, Arabic, Spanish**, etc.
+- Formats: **Text, audio, video**
 
 ### Flexible Access
-- Operates in the **cloud** (online through the internet)  
-- Can also run **locally** on a **Raspberry Pi server** (a small, affordable, low-power computer)  
-- Works in **areas with little or no internet connection**  
-- Requires **very low power**, so it can run even from a **portable battery (power bank)**  
+
+- Operates in the **cloud** (online through the internet)
+- Can also run **locally** on a **Raspberry Pi server** (a small, affordable, low-power computer)
+- Works in **areas with little or no internet connection**
+- Requires **very low power**, so it can run even from a **portable battery (power bank)**
 
 ### Monitoring & Evaluation
+
 Planet makes it easy to track progress by providing:
-- Frequent **assessments** for learners, leaders, and administrators  
-- Evaluation of whether **learning resources are effective**  
-- **Usage feedback metrics** (simple reports that show how often resources are used and how learners are performing)  
+
+- Frequent **assessments** for learners, leaders, and administrators
+- Evaluation of whether **learning resources are effective**
+- **Usage feedback metrics** (simple reports that show how often resources are used and how learners are performing)
 
 ---
 
@@ -93,29 +105,32 @@ Under the Planet system, there are two types of structures: **Nations** and **Co
 </figure>
 
 ### Nations
-  * **Nations** always exist in the cloud and require an internet connection to access.
-  * Each **Nation** serves as a central repository for the **Community** or a group of communities that it serves.
-  * Different **Nations** cannot connect to each other.
+
+- **Nations** always exist in the cloud and require an internet connection to access.
+- Each **Nation** serves as a central repository for the **Community** or a group of communities that it serves.
+- Different **Nations** cannot connect to each other.
 
 ### Communities
-  * A **Community** is a local installation of the Planet system.
-  * A **Community** does not require an internet to access.
-  * Users can connect to a **Community** using any device with access to a web browser, such as a tablet, computer, etc. The connection is established via a router through a locally configured _intranet_.
-  * Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metrics.
-  * A **Community** is not able to connect to other **Communities**. 
 
-The **nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education. 
+- A **Community** is a local installation of the Planet system.
+- A **Community** does not require an internet to be accessed.
+- Users can connect to a **Community** using any device with access to a web browser, such as a tablet, computer, etc. The connection is established via a router through a locally configured _intranet_.
+- Each **Community** connects periodically to a **Nation** via _internet_ in order to receive new materials and to upload user metrics.
+- A **Community** is not able to connect to other **Communities**.
+
+The **nations** may store thousands of Resources in many formats and languages. Unique collections of Resources can be selected and downloaded into each **Community** from the **Nation**. This gives a Learner a personalized approach to his or her education.
 
 ---
 
 ## Become Member
-To be able to use **PLANET** you need to be part of the system. The first thing you will see on PLANET is the **Login page**. [Learn more about becoming part of PLANET and using it.](member.md)
+
+To be able to use **Planet** you need to be part of the system. The first thing you will see on Planet is the **Login page**. [Learn more about becoming part of Planet and using it.](member.md)
 
 ---
 
 ## Features of Planet
 
-When you are inside PLANET, you will see the following features: 
+When you are inside Planet, you will see the following features:
 
 <figure>
   <figcaption>
@@ -127,44 +142,51 @@ When you are inside PLANET, you will see the following features:
   </figcaption>
 </figure>
 
- 
-The list of features along with  their exlantion is given below.
+The main Planet features are described below.
 
 ## Community
-The **Community page** allows you to:  
-- Connect with like-minded individuals  
-- Expand your knowledge and creativity  
-- Check for new events, join ongoing ones, or create your own via the calendar feature  
 
-Note: The **Community tab** is only available within a local community Planet.
+The **Community page** allows you to:
+
+- Connect with like-minded individuals
+- Expand your knowledge and creativity
+- Check for new events, join ongoing ones, or create your own via the calendar feature
+
+**Note:** The **Community tab** is only available within a local community Planet.
 
 ---
 
 ## myDashboard
+
 The dashboard is where learners can track their courses, resources, teams/enterprises, and other general personal info.
 
 ---
 
 ## Library
+
 The **Library** is home to the community's collection of media and other resources.  
-You can explore materials in multiple subjects and formats (books, videos, audios, documents, games).  
+You can explore materials in multiple subjects and formats (books, videos, audios, documents, games).
 
 [Learn more about Library.](library.md)
 
 ---
 
 ## Courses
-The **Courses page** allows you to:  
-- Create courses  
-- Join existing courses  
-- Explore a wide range of topics (literacy, science, health, community skills, etc.)  
+
+The **Courses page** allows you to:
+
+- Create courses
+- Join existing courses
+- Explore a wide range of topics (literacy, science, health, community skills, etc.)
 
 [Learn more about Courses.](course.md)
 
 ---
 
 ## Exams
+
 The Exams feature provides a unified way to create, deliver, and track assessments across the platform. It supports two main use-cases:
+
 - Course-linked tests: structured exams tied directly to a course.
 - Surveys: flexible questionnaires that can be used either inside courses or independently for general or team surveys.
 
@@ -173,70 +195,85 @@ The Exams feature provides a unified way to create, deliver, and track assessmen
 ---
 
 ## Surveys
-The **Surveys** section is a simplified interface built on top of the Exams system. It allows to:  
-- Create surveys  
-- Send them to others
-- Collect feedback from learners and educators  
 
-[Learn more about Surveys.](survey.md)  
+The **Surveys** section is a simplified interface built on top of the Exams system. It allows users to:
+
+- Create surveys
+- Send them to others
+- Collect feedback from learners and educators
+
+[Learn more about Surveys.](survey.md)
 
 ---
 
 ## Teams
-In the **Teams** section, you can:  
-- Create and manage teams  
-- Communicate with team members  
-- Offer courses within your team  
-- Organize members for collaborative activities  
 
-[Learn more about Teams.](teams.md)  
+In the **Teams** section, you can:
+
+- Create and manage teams
+- Communicate with team members
+- Offer courses within your team
+- Organize members for collaborative activities
+
+[Learn more about Teams.](teams.md)
 
 ---
 
 ## Meetups
-**This feature is unmaintained**
-The **Meetups** feature lets you:
-- Create meetups  
-- Join existing meetups  
-- Coordinate community gatherings, workshops, or study groups  
 
-[Learn more about Meetups.](meetup.md)  
+**Note:** The Meetups feature is currently unmaintained and may not function as expected.
+
+The **Meetups** feature lets you:
+
+- Create meetups
+- Join existing meetups
+- Coordinate community gatherings, workshops, or study groups
+
+[Learn more about Meetups.](meetup.md)
 
 ---
 
 ## News
-The **News section** is where you can:  
-- View posts made by users in your community  
-- Stay updated on local events and announcements  
 
-[Learn more about News.](news.md)  
+The **News section** is where you can:
+
+- View posts made by users in your community
+- Stay updated on local events and announcements
+
+[Learn more about News.](news.md)
 
 ---
 
 ## Achievement
-The **Achievement section** allows you to:  
-- Add and display your achievements  
-- Showcase learning milestones within your profile  
 
-[Learn more about Achievements.](achievement.md)  
+The **Achievement section** allows you to:
+
+- Add and display your achievements
+- Showcase learning milestones within your profile
+
+[Learn more about Achievements.](achievement.md)
 
 ---
 
 ## Feedback
-Throughout Planet, you will be able to give **feedback** on:  
-- The platform itself  
-- Courses  
-- Learning resources  
-- Other features  
 
-[Learn more about Feedback.](feedback.md)  
+Throughout Planet, you will be able to give **feedback** on:
+
+- The platform itself
+- Courses
+- Learning resources
+- Other features
+
+[Learn more about Feedback.](feedback.md)
 
 ---
 
 ## Manager
-The **Manager role** comes with a set of administrative features, including:  
-- Viewing reports about usage and learning progress  
-- Syncing the community with the Nation (to update resources and upload data)  
-- Performing upgrades on the community system  
 
-[Learn more about Manager.](manager.md)  
+The **Manager role** comes with a set of administrative features, including:
+
+- Viewing reports about usage and learning progress
+- Syncing the community with the Nation (to update resources and upload data)
+- Performing upgrades on the community system
+
+[Learn more about Manager.](manager.md)
