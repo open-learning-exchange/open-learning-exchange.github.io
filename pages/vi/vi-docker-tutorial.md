@@ -1,5 +1,6 @@
 ﻿# Step 3.1 - Docker Tutorial
-**Estimated Time: 1h** 
+
+**Estimated Time: 1h**
 
 ## Objectives
 
@@ -9,12 +10,6 @@
 - Use Docker and Docker Compose commands
 
 ## Introduction
-
-From Simple [English Wikipedia](https://en.wikipedia.org/wiki/Docker_%28software%29):
-
-> Docker is a technology that bundles a software program with all of the other software that application needs to run, such as an operating system, third-party software libraries, etc. Software bundled like this is called a container.
->
-> The benefit of using Docker to put applications in containers is that they can be run on different kinds of computers (for example, both a laptop and a web server), without the risk of a missing software library or a different operating system causing the application to not work.
 
 ### Docker
 
@@ -126,7 +121,8 @@ docker container ls -a
 # follow the log in action, press 'control+c' to exit the logs view
 docker compose -p planet logs -f
 ```
-If you succeed you will see this screenshot  
+
+If you succeed you will see this screenshot
 
 ![screenshot show the sucessful docker](images/vi-docker.png)
 
@@ -154,7 +150,7 @@ Here are a few common Docker CLI commands you might need when working with `plan
 
 Here are some common Docker Compose commands:
 
-- `docker compose -f <YAMLFile1> -f <YAMLFile2> -p <ProjectName> up -d --build` – Spawn your environment for the *first time*.
+- `docker compose -f <YAMLFile1> -f <YAMLFile2> -p <ProjectName> up -d --build` – Spawn your environment for the _first time_.
   - `-f` – Specify an alternate compose file (default: docker-compose.yml).
   - `-p` – Specify a project name (default: directory name).
   - `up -d` – Create and start containers in the background.
@@ -176,15 +172,19 @@ Example: planet.sh up       Start up the planet services for the first time in t
          planet.sh restart  Restart planet services.
          planet.sh down     Stop planet services and remove containers, networks, volumes, and images created.
 ```
+
 You can check the status of docker containers as follow:
+
 ```plaintext
 Usage: bash planet.sh start
 ```
+
 ![Screenshot showing the containers are started](images/vi-docker-container-start.png)
 
 ```plaintext
 Usage: bash planet.sh stop
 ```
+
 ![Screenshot showing the containers are stopped](images/vi-docker-container-stop.png)
 
 We suggest referring to the [Docker CLI reference](https://docs.docker.com/engine/reference/commandline/cli/) and the [Docker Compose CLI reference](https://docs.docker.com/compose/reference/) to learn more about their commands and usage.
@@ -198,18 +198,19 @@ You can also use `docker --help` and `docker compose --help` to see brief usage 
 Sometimes, pulling images from `ghcr.io` may fail with a `403 Forbidden` error. This is often due to network restrictions, firewalls, or geographical blocking.
 
 **Possible solutions:**
+
 - Use a VPN to change your network IP address.
 - Try using a different network connection (e.g., a mobile hotspot).
 - Ask for help in the `#vi-software` Discord channel.
 
 **Workaround:**
 If the issue persists, you can try using the Docker Hub image as an alternative:
+
 ```yaml
 image: openlearningexchange/planet:6.0.0
 ```
 
 ---
-
 
 ## Useful Links
 
@@ -224,4 +225,3 @@ image: openlearningexchange/planet:6.0.0
 **→** Next: [Step 3.2 - Planet Configurations](vi-planet-configurations.md)
 
 Return to [First Steps](vi-first-steps.md#Step_3_-_Planet_and_Docker)
-
