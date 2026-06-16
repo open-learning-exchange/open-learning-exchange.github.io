@@ -25,7 +25,7 @@ The Planet is not only a library, but also an individualized learning system, wh
 
 ## Database
 
-- [Apache CouchDB](https://en.wikipedia.org/wiki/Apache_CouchDB) is a database software that we use for the Planet. You can see the back-end interface of our CouchDB at http://localhost:2200/_utils. In `_utils`, you have the opportunity to see all data of your Planet application.
+- [Apache CouchDB](https://en.wikipedia.org/wiki/Apache_CouchDB) is a database software that we use for the Planet. You can see the back-end interface of our CouchDB at http://localhost:2300/_utils. In `_utils`, you have the opportunity to see all data of your Planet application.
 
 - [PouchDB](https://pouchdb.com/learn.html) is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. This allows applications to save data locally, so that users can enjoy all the features of an app even when they're offline. This database is also used in the planet.
 
