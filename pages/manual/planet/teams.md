@@ -47,7 +47,7 @@ After clicking the `Add Members` button, you will be able to add members
 ![Add Members](images/planet-teams-members.png)
 
 ### 3. Manage Courses
-After clicking the `Add Members` button, you will be able to add and remove courses
+After clicking the `Add Courses` button, you will be able to add and remove courses
 
 ![Teams Courses](images/planet-teams-courses.png)
 
