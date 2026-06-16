@@ -115,7 +115,6 @@ Before proceeding to the next section, please:
   - To use emojis in your profile, copy the actual emoji directly (e.g., '🐱' instead of ':emojicode:'). You can find and copy emojis from [emojipedia](https://emojipedia.org/).
 
 The following is a list of commonly used markdown elements that will not be compatible with MDwiki:
-- [Fenced Code Block](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks)
 - [Footnote](https://www.markdownguide.org/extended-syntax/#footnotes)
 - [Task List](https://www.markdownguide.org/extended-syntax/#task-lists)
 
