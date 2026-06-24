@@ -126,6 +126,19 @@ The **nations** may store thousands of Resources in many formats and languages. 
 
 To be able to use **Planet** you need to be part of the system. The first thing you will see on Planet is the **Login page**. [Learn more about becoming part of Planet and using it.](member.md)
 
+### How to Register
+
+1. Navigate to the Planet login page.
+2. Click **"Become a member"** below the sign-in button.
+3. Enter a **Username** of your choice.
+4. Enter a **Password** and confirm it in the **Repeat Password** field.
+5. Click **"Become a member"** to create your account.
+
+### How to Sign In
+
+1. Navigate to the Planet login page.
+2. Enter your **Username** and **Password**.
+3. Click **"SIGN-IN"** to access the platform.
 ---
 
 ## Features of Planet
