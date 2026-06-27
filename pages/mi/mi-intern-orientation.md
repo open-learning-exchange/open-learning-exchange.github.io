@@ -36,7 +36,7 @@ Upon receiving these invitations, please accept them promptly. Once accepted, co
 
 Moving forward, you'll be working directly on OLE's repositories instead of your own forked repositories. We'll be following the simpler [**Feature Branch Workflow**](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), which allows for better collaboration and code management.
 
-## Issues and Project Plannings
+## Issues and Project Planning
 
 We use GitHub Issues for project planning and issue tracking. We will [assign issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users) for you to work on, but feel free to let us know if there are any specific issues you’d like to tackle. You are also free to create new issues after searching for duplicates. Additionally, you can [filter issues by assignee(s)](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/filtering-and-searching-issues-and-pull-requests#filtering-issues-and-pull-requests-by-assignees) to keep track of your own tasks.
 
