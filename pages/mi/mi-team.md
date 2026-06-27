@@ -13,4 +13,4 @@
 |[Valerie923](profiles/Valerie923.md)|2026-03-29|
 
 ## Former Members
-To view the list of former members, go to [former members page](mi-former-members.md).
+To view the list of former members, go to the [former members page](mi-former-members.md).
