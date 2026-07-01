@@ -2,6 +2,20 @@
 
 myPlanet is an Android app available on the Play Store. You can search for it directly in the Play Store or install it using [this Google Play link](https://play.google.com/store/apps/details?id=org.ole.planet.myplanet).
 
+<img src="image/myplanet-playstore.png" alt="myPlanet Play Store listing" width="250">
+
+Before installing, make sure:
+- The app name is **myPlanet (Beta)**
+- The developer is **ole.org**
+- The app icon matches the one shown above
+
+This helps ensure you are installing the correct application.
+
+---
+Next, you will see the welcome screen that says **“Welcome to myPlanet.”** Tap **Next** to continue.
+
+<img src="image/myplanet-welcome.png" alt="myPlanet Play Store listing" width="250">
+
 ## Enroll in Beta Testing
 
 Join as a beta tester to help us improve the app:
