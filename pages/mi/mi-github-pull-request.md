@@ -1,6 +1,6 @@
 # Creating a Pull Request and Deleting a Branch Tutorial
 
-A pull request is a proposal to merge modifications from one branch into another. It allows collaborators to review and discuss the proposed changes before integrating them into the main codebase. [This guide on Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) contains more information on their propar usage.
+A pull request is a proposal to merge modifications from one branch into another. It allows collaborators to review and discuss the proposed changes before integrating them into the main codebase. [This guide on Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) contains more information on their proper usage.
 
 ## 1. Open a Pull Request
 
@@ -15,7 +15,7 @@ Now, go to your forked repository on GitHub by visiting `https://github.com/<You
    ![Pull Request Template](image//mi-pr-title-and-description.png)
 
    There are a few things to watch out before clicking on the "Create pull request" button. Make sure you:
-      - add title and issue number(when applicaple) in the title field
+      - add title and issue number(when applicable) in the title field
       - fill the checkboxes
       - write description
       - add RawGitHack Preview link
