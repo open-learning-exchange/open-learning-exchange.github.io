@@ -87,7 +87,7 @@ Follow the guide at [Create More Issues and Pull Requests](mi-issues-and-prs.md)
 
 ## Step 9 - Kotlin Tour
 
-myPlanet uses Kotlin as the development language. If you have no or little prior exposure to Kotlin, please go over the official [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html). Optionally, there are practice exercises at the end of each topic for you to get some hands on experience.
+myPlanet uses Kotlin as the development language. If you have little or no prior exposure to Kotlin, please go over the official [Kotlin tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html). Optionally, there are practice exercises at the end of each topic for you to get some hands on experience.
 
 We also recommend checking out the [Kotlin docs](https://kotlinlang.org/docs/home.html).
 
