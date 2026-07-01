@@ -21,7 +21,7 @@ In this step, you will be connecting our mobile application, myPlanet, to Planet
 
 - **Create a User Account**: After syncing, click "BECOME A MEMBER" and fill in the required information to create an account. Keep your credentials somewhere, as you'll need them for future logins.
 
-- **Sign In**: Use the username and password you just created to log in to myPlanet. You have now successfully connect myPlanet app to planet server.
+- **Sign In**: Use the username and password you just created to log in to myPlanet. You have now successfully connected the myPlanet app to the planet server.
 
 **NOTE**: If you encounter issues during sign-in, try the following:
 1. Re-Sync: manually initiate sync by pressing the sync icon at the top left corner of the app. After syncing, try logging in again.
