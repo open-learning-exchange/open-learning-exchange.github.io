@@ -33,11 +33,14 @@ Follow the prompts to select a hardware, click next and choose a system image. C
 ## 5. Select Run Configuration
 
 In Android Studio's toolbar, select the desired run configuration from the drop-down menu. It would be `app` in our case.
-![Run Configuration](image/mi-app-run-configuration.png)
+![Run Configuration](image.png)
 
 ## 6. Run the App
 
-Click the green "Run" button to install and launch the app on the emulator.
+Click the triangle button on top of the tool bar to install and launch the app on the emulator.
+![Run](image-1.png)
+
+Here’s an external reference on how to [build and run](https://developer.android.com/studio/run) the app
 
 ## 7. App Launch
 
