@@ -12,6 +12,7 @@
 |[Umut Diler](profiles/UmutDiler0.md)|2026-02-27|
 |[Valerie923](profiles/Valerie923.md)|2026-03-29|
 |[Ragil Zakaria](profiles/RagilZakaria.md)|2026-06-27|
+|[Jenny Shi](profiles/J-S-webskas.md)|2026-07-14|
 
 ## Former Members
 To view the list of former members, go to the [former members page](mi-former-members.md).
