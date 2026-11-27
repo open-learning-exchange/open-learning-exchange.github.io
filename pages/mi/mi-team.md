@@ -4,8 +4,8 @@
 
 |**Username**|**Join Date**|
 |------------|-------------|
-|**➤ Volunteers**||
-
+|**➤ Volunteers**| |
+| | |
 |**➤ Interns**||
 |[pavi38](profiles/pavi38.md)|2024-12-23|
 |[Saksham Nayyar](profiles/Sakshamnayyar.md)|2025-06-09|
